@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Skill(claude-api)"
+      "Skill(claude-api)",
+      "Bash(cd \"/Users/eo/Desktop/Ajou University/26-1/#자주연 자주프/story-structure-ai\" && python3 -m venv venv 2>&1)"
     ]
   }
 }
