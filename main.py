@@ -567,6 +567,12 @@ def analyze(body: AnalyzeRequest):
 
     raw = message.content[0].text.strip()
 
+    # Strip markdown code fences if present
+    if raw.startswith("```"):
+        raw = raw.split("\n", 1)[-1]  # remove the opening ```json line
+    if raw.endswith("```"):
+        raw = raw.rsplit("```", 1)[0].strip()
+
     try:
         return json.loads(raw)
     except json.JSONDecodeError:
