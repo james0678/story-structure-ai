@@ -1,0 +1,1037 @@
+﻿Tab 1
+Warp all cut
+===
+
+
+[00:00:00] Okay.
+
+
+Yes. Okay, good. So first is, could [00:00:20] you, could you, could you introduce yourself? Yep. So, hi, I am Zach, I'm the founder and CEO of Warp. So could you briefly introduce Warp and explain in simple terms what problem is solved? Yeah. So Warp is a, a agentic development environment, which is simplest way of thinking [00:00:40] about it is it's an interface where you can tell your computer to do things.
+
+
+Uh, and that could be building software, doing work. As a developer in production, it could be fixing bugs, building features, and it's really a general purpose place where anyone who wants to build something has the ability in plain English to ask the computer to [00:01:00] build it for them. Or if you're a little bit more advanced, you can speak in the language of the computer so you can execute terminal commands and warp will do those for you as well.
+
+
+Thank you. Dan, can you share some of your pro, uh, proudest metrics and key milestones so far? Something like, such as user skill growth trends and [00:01:20] notable investor fund funding size and others? Yeah, so Warp, uh, warp Today is used um, by hundreds of thousands of developers. Um, I believe we're over 600,000 developers actively using it now.
+
+
+Uh, recently our revenue has started to grow really fast, [00:01:40] so we're now adding about a million dollars of revenue every 10 days. Uh, and that's. You know, a relatively new thing for us, but the pace of revenue growth is increasing, which is very cool. Uh, we are also, um, we have some great investors in the company.
+
+
+So our most recent fundraising [00:02:00] round was led by Sequoia. Uh, before that, uh, Dylan Field, who is the founder, and CEO Figma, led our Series A and before that, gv, so Google Ventures led our, our seed round, uh, and we also have some other great funds. We've now raised, uh, over $70 million for the company. [00:02:20] Thank you.
+
+
+Yeah. Yeah. As you mentioned, I've heard warp has been growing rapidly in recent months, so Yeah. Yeah. Which metrics have been, has have seen the most noticeable increase, and what do you think has Dr. Driving them? Yeah, so we've had, um, a lot of user traction [00:02:40] warp for a long time now. So warps users have been growing.
+
+
+Uh, year over year by over a hundred percent for the last three years. What's changed recently is, is the revenue growth and the business like, uh, you know, side of the product has really taken off. I think the biggest thing is that there's this transition happening right now where, [00:03:00] um, in order to build software, you can really do it in a much simpler way where you're able to just describe the problem you're trying to solve or the piece of software you want to build.
+
+
+And the people who are paying us are working in this new, we call Agentic workflow, where they are, um, you know, they may not be that [00:03:20] technical or for the most part, actually warps users are very technical. They're developers, and these are developers who, who can basically use warp to get way more done than they otherwise could.
+
+
+And so that's very, very valuable because developer time is expensive. Uh, you know, at every. Sort of company [00:03:40] that employs developers, which at this point is most companies in the world, uh, developers cost a lot of money. And anything you can do to help developers build and ship software more quickly is really valuable.
+
+
+And so increasingly that's what's driving our revenue growth. Thank you. Yep. Hmm. Then, uh, what, what [00:04:00] is, what is one key action you're taking this quarter to keep that moment going? Yeah, so we're really trying to get the word out around, um, warps, sort of coating capabilities. So if you look at the history of the company, uh, started as a re-imagination of the [00:04:20] terminal and the terminal, in case people aren't familiar, is like, you know, it's like the black screen with the green text that you see in hacker movies.
+
+
+It's where developers typically do very low level, uh, work and warp. You know, started off with like, Hey, let's try and make this terminal interface more accessible and more powerful. And we actually had a bunch of [00:04:40] success at that in terms of people adopting the tool. But it turns out that we're also like known for that.
+
+
+So we're known historically as a terminal. Um, but as AI has become more powerful and as agents have become more powerful, warp does way more than that at this point. It's a really, really excellent environment for actually just telling your [00:05:00] computer to write code for you. And so we're doing all sorts of, um, things on the marketing and growth side to try to like reinforce that Warp is no longer just a terminal.
+
+
+It's this new type of software that we call an agent development environment where you can just ask your computer to build things for you. Uh, and so it's, you know, it's talking to people [00:05:20] like you, it's doing different marketing. It's, uh, putting out educational content and then it's continuing to invest in the product and making sure that when people come into the product they understand, uh, what they can do with it.
+
+
+And they have a sort of aha moment where. You know, they're like, oh, I, you know, I was trying to do this in the old way and then Warp [00:05:40] helps me do it in this new way. And so they, you know, helping them see the value of it, that's like the real focus right now. Thank you. Yeah. Then if you were, if you were to describe the recent growth, recent growth curve in words.
+
+
+Yeah. So what stand out most to what stood out most? So [00:06:00] we, we did a, um, lemme think how to answer that best. I think what's, what's stood out most, so most of our growth is from, um, individuals or small teams paying us. And so it's really like people from all sorts of different backgrounds who want to build, coming [00:06:20] into the app and, uh, realizing like, Hey, I may not even need to know how to code.
+
+
+Uh, all I need to know is what I want to build. And seeing people get that in warp is what is driving a bunch of what is helping us [00:06:40] grow. On the flip side, like we've always been geared more towards pros, and so we're also seeing pros sort of adopt this whole new workflow, which is a hard thing for them, honestly.
+
+
+Like if you've been a developer and I've been a developer for the last 20 years, um, changing the way that you work to start by [00:07:00] like asking your computer in English to do something for you is a very, uh, sort of like foreign or like, it, it's a, it's a totally new behavior. And so what we've started to see happen though is that people are getting more comfortable, uh, whether it's through Warp or they're being exposed through other, like there's a lot of CLI tools, uh, that also [00:07:20] work in this way.
+
+
+Um, and we're just starting to see the whole way that software is built changing, which is super exciting. And I still think we're very much at the beginning. Of that curve. Um, it's, you know, it's, it's hard to undo these habits that people have had for a long time. Um, but [00:07:40] that, that change in behavior is what's really like driving, driving our growth right now, which is cool.
+
+
+Thank you. Yep. As you mentioned, work has some truly great investors. So some Altman Yeah. Mark Manel. So why do you think they invested [00:08:00] and what impact has each had since joining? It's a great question. So I think that they, you know, they each invested at different stages and so probably for slightly different reasons.
+
+
+Um, you know, at the outset I think that these investors, they believed in, I think they believed in me, like to some extent, like I have, um, I have [00:08:20] like an interesting background in this space. So I used to be a principal engineer at Google. I led engineering on the Google Docs team. I built a lot of the Google Sheets product.
+
+
+Um, and so like, I think there's some confidence in me. There's, there's a feeling that my background matches the problem that I'm trying to solve here very well, which was like, I really wanted to make [00:08:40] development easier and I really wanted to make, uh, you know, a sort of modern tool set for developers to use.
+
+
+Uh, and like when I started, I didn't really have a product. I didn't really have a team. I didn't have any traction. And so they had to sort of take a bet on, on me as a person, which I'm very grateful for. I think as, um, as we got [00:09:00] further along, uh, I think investors probably, they still liked me, but they could also see that we were building a really awesome team.
+
+
+So the people who have worked on Warp are like exceptionally talented. Um, and they could see that the product that we were building was resonating with people. And so even though actually most of the fundraising [00:09:20] we've done, we did before, we had great revenue traction. There was also a belief that, uh.
+
+
+You know, the opportunity itself was quite big just because we're working on a tool that, you know, pretty much every developer uses every day. Uh, it wasn't a super obvious business opportunity. I'll say that. Like this is a free tool [00:09:40] for the most part. And so I think there's some investors who would look at this and be like, ah, you gonna make money off of like replacing a free utility?
+
+
+But the investors who, uh, believed in Warp like sort of understood that there's just an opportunity if you can build a really, really great product that developers, um, love to use. And so for the first [00:10:00] views of Warp, that's really what we focused on. Like, it was like, do people like using it? Do we have a high NPS?
+
+
+So like the high net promoter score, do they tell their friends about it? Do they stick with the product? And just getting that going, I think, um, sort of gave a lot of confidence that the business opportunity would arise. [00:10:20] Um. And so, you know, I, I think that that was a, that was a big part of it. Um, and those things just sort of compound.
+
+
+So if you're executing, and I think we've, you know, definitely has not been like a straight path from like, start the company to like, you know, take off. It's, startups are very, very hard, just to be clear. But I think we [00:10:40] were executing well enough that people wanted to keep putting capital in, uh, and keep that they saw that the opportunity, um, on the business side would come.
+
+
+And then we, we, frankly, we got a little bit lucky with the timing around ai. So like, when the company started, the business model was different. It was around collaboration, which is what I had [00:11:00] worked on, uh, at Google, in which, you know, there's a big sort of pattern recognition for investors with this where it's like they look at companies like Figma or Notion and they're like, you know, there really should be a better platform for collaboration for developers, which I still believe in.
+
+
+Um, but when LLMs came along, it actually was such [00:11:20] an obvious fit for what we were building that we're like, okay, we should invest harder in this. And so we had to, you know, redirect a little bit of our energy towards that. But, um, yeah, I think that that's basically, basically the funding story for us has been about like, conviction in, in the team and the market and just like, [00:11:40] um, building something that, uh, like really building a great product.
+
+
+Yeah. Then is there a piece of advice from them, from them that you initially set aside but later realized what's right? So there was, uh, there was debate internally for a long time about whether or [00:12:00] not we should go after, um, coding use cases because the, the sort of like turn the, the app that we initially built is used for coding, but it's also used for a lot of different.
+
+
+Tasks that developers do. So it's used for like setting up projects, deploying them, [00:12:20] debugging when there's issues in production. And we were just like, you know, the coding market itself is very, uh, is very crowded. Uh, and there's a whole set of IDs. So things like cursor or copilot, which have like, um, you know, kind of a pretty significant head start when it comes to the coding interface.
+
+
+And so it took us a [00:12:40] while strategically to be like, you know, what coding is where the most demand is. And we do have like a unique and differentiated approach, and I'm glad we started working on it. Like this is something we discussed at the, you know, at the board level and the strategy level. And we started working on it a couple years ago with, you know, the knowledge, like, Hey, this is gonna be really hard and take a [00:13:00] long time to build a compelling coding product in Warp.
+
+
+But, you know, we always had a very long term view around like, let's try to build the most useful product that developers can use to do all of their workflows. Uh, and coding is like arguably the most important developer workflow. And so we started investing in it. Uh, and you know, the investors were very [00:13:20] supportive for a very, very significant period of building before we actually had a product in market.
+
+
+Thank you. Yep. Then I want, now I'm, uh, I'm curious when you joined Google in 2007. Yeah. So what was the atmosphere like and what, uh, truth did people take for [00:13:40] Grant? Yeah. So in 2007 at Google, I would imagine it's pretty different than Google today. It still felt in some ways, like Google was like an underdog, which is, I don't think at all the, uh, the feeling today and especially in the part of Google that I was working on, which was, um, Google Docs, Google [00:14:00] Sheets in particular, like there were five people on the team.
+
+
+Um, it was a, what was called a Google Labs project at the time. So it was unclear if Google even wanted to go into the business of productivity software. I mean, Gmail was a thing and Gmail was successful, but Google Docs was like not really a big thing at that [00:14:20] point. And so, you know, we felt a little bit like, is Google gonna be committed to this?
+
+
+Uh, I mean, Google search was obviously huge, but the, the notion of Google as this, like mega internet company beyond being a search engine, was not a well established thing. Uh, it felt at the time, like, uh, like, like [00:14:40] not a small startup, but like our group felt like, you know, kind of a startup within Google, which was really fun and exciting.
+
+
+And we had basically like a lot of freedom to build out the product, uh, the, the way that we wanted it. Uh, it didn't feel too bureaucratic. It was very flat at that point. [00:15:00] So Google historically prided itself on being like a very bottoms up, flat organization. Again, I don't know if that's true today. I haven't been at Google in a while.
+
+
+And I hear, I hear, I have friends there. I, I hear that the culture has changed significantly. Um, but it, it felt like a place where as a developer you were really empowered to build awesome [00:15:20] stuff. It was very engineering driven. So like, you know, I've heard like sort of like Apple is very design driven, or maybe Microsoft is more business unit driven.
+
+
+Amazon is super customer centric. Google at the time was very much like engineers are running the show. And I think that came directly from like [00:15:40] the DNA of the founders of like, you know, Larry and Sergey were engineers at heart and so we, you know, as an engineer, I felt like I could kind of do anything at Google.
+
+
+It was a very fun time. Then I'm curious which of those truths turned out to be wrong? Um, well, [00:16:00] things, I would just say things changed at Google in my lifetime there. Um. Um,
+
+
+sorry, you're saying which of which of the observations from Google turned out to be wrong? Yeah. Yeah. I mean, I think it, it grew, uh, honestly, like I had [00:16:20] a phenomenal experience at Google. Just like, uh, it, it grew and it became slower and it became more, um, a little bit more top down and a little bit more bureaucratic.
+
+
+And I think, you know, it's really hard at the scale of Google to keep the caliber of people always the same. [00:16:40] Like when I joined, I wanna say I was like, employee, like 10,000 or something at Google. So Google wasn't like small, but when I left I think there were like 200,000 employees or something. And you know, you notice it's like, it's really hard to keep that same sort of like, this is, um, really gonna be like.[00:17:00] 
+
+
+Super special. Very, very, very hard to get into place when it's like you hire an additional 190,000 people or more basically. 'cause they had attrition too. So it, it felt a little bit like by the time I left, uh, that it was getting bigger. It was getting slower. And it was one of the reasons actually, that I wanted to move on was [00:17:20] like, you know, it was getting harder to directly have an impact when you're one of 200,000, you know, as opposed to being one of like smaller group of people.
+
+
+Yeah. I think you, you are an innovator when it comes to border, border, border I, and modernizing word [00:17:40] technology, so. Yeah. So from your perspective, which outdated beliefs do you still see in today's start of work? That's an awesome question. So what are the, what are the tools that I would still want to modernize?
+
+
+So I think that. I'll give you an answer, which you might not like. I still think for developers [00:18:00] in particular, they're working by and large with an antiquated tool set. So, you know, I, I think Warp is pushing things forward in terms of like, Hey, this is how a modern product should feel for a developer. But it's still not there for, um, I [00:18:20] guess for other areas.
+
+
+I think that, you know, when I was at Google, we always kind of tooled around with the idea of like, like what if, what if your productivity apps weren't like sheets, slides and documents? And I think actually Notion has done a pretty good job, honestly, of all the tools sort of [00:18:40] merging these things into one unified canvas.
+
+
+Because like if you look at Google Docs, it's very much just like a straight evolution from Microsoft Word into those same, or Microsoft Office, I should say, into those same. Product categories. Um, so I don't know, it's always interesting to me when someone can [00:19:00] basically put aside the current form factor that you're using for a problem and just sort of think from first principles, like, okay, for the workflows that people are trying to accomplish, what's the right form factor or tool for the job?
+
+
+And, you know, to go back for, to work for a second like that is fundamentally [00:19:20] what we're doing is being like, Hey, the, the way that developers are working is changing. Uh, and the, the tools that existed for working when you were working by hand, uh, don't make as much sense when you're working by prompt or you're working with agents.
+
+
+And most of the tooling that exists for developers right [00:19:40] now who are working with agents is just like a bolt-on to the old tools. So, you know, for instance, it's like, why have an interface that looks like Microsoft Word, which is like for hand typing code. If you're not writing code anymore and why put your agents in there or why, why have an interface that looks like an old school terminal if you're not running [00:20:00] terminal commands, you need to rethink the whole product around what the workflow is today.
+
+
+And so like, yeah, I think like looking at, um, you know, looking at at products or opportunities through that lens makes a lot of sense. Like, I actually think chat GPT is doing a very good job of this [00:20:20] where, and I think Google is struggling with this actually, where if you want information today, I don't think it makes sense to type in like a, you know, four keywords and get back a list of links that you then have to navigate through to find the information that you want.
+
+
+You should just be able to ask in English or [00:20:40] whatever your language is, and get the information back to you in the way that's most easy to digest. And so I think that's a really. Cool. Interesting way to approach like disrupting existing products is be like, okay, the underlying technology is changing.
+
+
+How should the form factor for supporting that workflow change? Hmm. That's interesting. Yeah. Thank you. Hmm. [00:21:00] Then to add, to add more context of the, to the video. So yeah, I'd like to ask a bit more about the time when you're joining the Google Six team. Yep. So how did you end up joining the Google Six team?
+
+
+So joining the Google Sheets team was totally random. Uh, I, I applied to [00:21:20] Google. In fact, just backing up a little bit more, like I didn't even know I wanted to be an engineer. Like I, um, I studied in school, I studied combination of philosophy, math, and computer science. I worked as an engineer for a year outta college, a couple places, Amazon and nasa.
+
+
+I got a [00:21:40] master's degree in philosophy, which is not. Um, super common in the tech industry. I went to law school for a year and dropped out, so I was not like a person where it was a straight line career for me. Like I think a lot of people will go into college, they'll be like, okay, I'm gonna study computer science, I'm gonna be an engineer, and then maybe I'll become a [00:22:00] product manager or founder, or something like that.
+
+
+For me, it was way, way, way more like circ circuitous route to get there, and it took me a while to figure out what I wanted. When I did apply to Google, it was, 'cause actually I had a friend, like my college roommate, uh, was working there and he was like, you know, you should check this out. I had been doing some, like, [00:22:20] honestly part-time programming work in my mid twenties and I was like, you know, I need to get a better job.
+
+
+And so I applied to Google and I got through the interview process. They asked like, what do you wanna work on? I, I think I said, I'm interested in apps more so than like. [00:22:40] Infrastructure search. And then I just got randomly assigned to, uh, the Google Sheets team, which happened to be based in New York, which is where I was living at the time.
+
+
+I remember getting a call from, uh, my manager, or would be manager, who's now this, the CTO at Notion actually. And he was like, do you want to come work on Google Sheets? And I was like, what do you mean? [00:23:00] Like, like what is that? Uh, he's like, you know, it's like Excel, but it's in, in the browser. And I was like, sure.
+
+
+Like I'm not really a spreadsheet user, but I, you know, I'm, it sounds cool. And so I, I didn't have like a very like, directed path at that point, and I was just excited to be there and sort of work on a [00:23:20] interesting product and learn a bunch, which, which was great. And it ended up, I ended up working on Google Sheets and Google Docs the entire time at Google.
+
+
+I ended up running the team. Uh, so it just worked out, but it was, it was very cool opportunity. Kind of random then. I'm curious what were the biggest opportunity and. Threats facing the product at the time. [00:23:40] Yeah, so the, it's interesting. So when you're at Google, it's very different from a startup, right? So we never had, uh, any kind of question of like, who do we get users?
+
+
+Which I think if you're a startup, that's like, the existential question is like, will anyone use the thing that you're building? [00:24:00] Uh, and at Google, because of like the scale of the distribution and just like Google has Gmail and Google search, we knew that we could get people to use it. The biggest threat was like, we're the, was the leadership at Google bought into the business case for even building what we were building, right?
+
+
+So at any point, you know, [00:24:20] they could have been like, you know what, fir, first of all, it's a pure cost. Like there's no, they didn't try to monetize Google Docs for a long time, so it's just a pure cost. It's not a cheap cost, right? It's like, you know, millions to, tens of millions of dollars building this thing.
+
+
+Um. Are they just going to wake up one day and be [00:24:40] like, you know what? This is cool side project. It's not core to our mission. Our mission is search. Our business is selling ads. Why are we doing this thing? Let's just stop it. And to their credit, they like, they never did that. Uh, they kept giving us more resources.
+
+
+Eventually it became part of the Google app Suite or whatever they call it now, [00:25:00] Google Workspace. And they, and they make money off of it. And it became an important strategic kind of thorn in the side of Microsoft is how I would kind of frame it. Like, you know, they, Google was always concerned that Microsoft would compete with them on search with Bing.
+
+
+And so it was like, Hey, you know, let's do a strategically interesting [00:25:20] thing and have a competitive product in the office space that we can sell against them. Just to kind of, not just be playing defense but play some offense. And so they stuck with it. Hmm. Then I'm curious to hear more about the only.
+
+
+Only PP problem and it, and, and the it work signal. [00:25:40] So, yeah. In your early days and on the seed team, what was the most urgent problem you f you focused on and when did you fi first feel competent the product would work? Yeah. So the, the, the hardest problems on sheets that I personally dealt with were [00:26:00] we basically rewrote the whole thing from scratch.
+
+
+Uh, which is a very dangerous thing to do that I don't recommend anyone, anyone do. But, uh, it was from an engineering perspective, something that we felt like we had to do because at the scale that sheet started to operate at was very [00:26:20] different than the initial scale that it was built for. And there were certain product requirements that we had to have.
+
+
+So like for instance, we had a requirement come in that the whole spreadsheet needed to work without internet, for instance. And that's really hard if the whole spreadsheet is built on the server. And so, you know, we had to basically [00:26:40] re-architect and rebuild the whole thing while still having millions or tens of millions of people using, uh, the old thing, and this was probably the biggest risk I took in my career at Google, was like, I was like, we, first of all, it's like we need to do this.
+
+
+Secondly, it's like we need more engineers to do it. Third, we're gonna stop building stuff on the [00:27:00] current version, which to users is gonna look like. We've stopped developing the product. It took like two years, which is a crazy amount of time. And then when we did it, um, at first it was worse, which is what happens when you build a brand new piece of software to replace an old one.
+
+
+The new one is inevitably worse. [00:27:20] It was slower, it was buggier, it was missing stuff that the old one had. And so that was super stressful. I'll say, I was like, I was like, oh boy, did I really screw up by, uh, you know. Kicking off and, you know, arguing to do this whole project and we eventually figured it out, which is cool.
+
+
+And like, this was 10 years [00:27:40] ago. And the, the version that I'm very proud, the version that we built is still what they used today. Like, they didn't rewrite it again, maybe they should, but like, uh, it was a, a very stressful thing trying to make to basically like switch out the plane while it was still running.
+
+
+Then [00:28:00] I'm curious, I'm curious, which ideas or features did you, did you consider but us set aside at the time? Great question. So we, um, at the time we, we were looking at like, can you basically combine spreadsheets and databases, which I still think is an interesting [00:28:20] idea. And people, um, people would want spreadsheets that, that held more rows, for instance, was a very, very common request.
+
+
+And they might want, like, I think Google Sheets at the time would support like 10,000 rows or maybe a hundred thousand. They're like, we need millions of rows. And they would make an interesting argument for like, Hey, it's all [00:28:40] just a table of data. Why shouldn't the spreadsheet, um, sort of support these arbitrary data sets and work more like a database?
+
+
+Uh, and I think we smartly, were like a, like there's not like a act if the more you think about it, like the less that makes sense [00:29:00] because in a database you don't really need to ever look at every row, whereas like, or at least that's not like the main use case that you use a database for. Where that is the main use case that you want to be doing in spreadsheets is constantly having a view of like, most of your data set.
+
+
+And then in databases you really want to be like writing like structured [00:29:20] queries against them. Whereas in spreadsheets you're pretty limited to doing these like column based calculations. And so I think we pretty wisely at the time were like. Um, no, like if we, that would be a gigantic engineering effort that probably actually isn't solving, it's, it's like one of these things that like, sounds compelling, like when you talk about it at a high level, but when you [00:29:40] actually dig in and look at the workflows or use cases that people do, it makes sense that there's two different interfaces for, for this thing.
+
+
+So that's a thing that we decided not to do, I think wisely. But then, by the way, I think that they did this after I left, and I don't think it works all that well. I'm not positive, but I think that they, they basically [00:30:00] made it so you can use Google Sheets on top of Big Query, which is Google's like mega database and maybe it kind of works, but I, I haven't actually had a use case for it.
+
+
+Interesting. Yeah. Then why are building and growing the product, so what lasting lesson did you run about balancing speed and quality? [00:30:20] Yeah, so this is like a perpetual challenge when building a product. Um. The way that I think about this is like the, the closer, I guess there's a few things. So it's like the more risk there is in [00:30:40] a product feature that you're building, and risk could mean like you don't know if you can build it well or you don't know if people want it.
+
+
+The more it's in your interest to get early and quick feedback on it, which often can mean like, basically means like bias towards building fast, putting out and starting a feedback loop. [00:31:00] Um, there's a, like the converse principle of that is like if you're extremely confident in the thing that you're building or if the thing that you're building it's like is, is like very deep in the product and like will impact everything that's built on top of it.
+
+
+I think there's a much stronger, um, case for building it. [00:31:20] Right. There's also like a way of thinking about it that I like where it's like you, you generally want to ship a. A smaller surface area of high quality things rather than like a wider surface area of like low quality things. So that's like another way of kind of cutting scope is like, [00:31:40] like whatever you do ship it has to be good, but maybe you can move faster by making the thing do less.
+
+
+So those are some thoughts I have on this. Mm-hmm. Then from when you start to when, when you started to, [00:32:00] from when you started to when you wrapped. So how did usage usage and key metrics evolve? So I want to, I wanna say when I started on Google Sheets, it was in the hundreds of thousands of people using it regularly, and when I left, it was in the hundreds of millions.
+
+
+Which is pretty [00:32:20] crazy and I, I think, I think it has like a billion users now. Uh, I, I'm not there, so don't quote me on that, but I think that that's like the scale that it's at, it's pretty crazy. Then is there any bored experiment? Experiment you remember from that period? Are there experiments? Yes. [00:32:40] Um, that's a great question.
+
+
+I'm trying to think,
+
+
+like, we weren't very, I don't have a good answer to this one. We weren't very good on Google Sheets at [00:33:00] pushing out experimental changes and we should have been better if we do that quite a bit at Warp, where it's like for certain types of features, we'll, sort of ab test 'em. Um, we weren't doing that very much at Google Sheets.
+
+
+I think we should have done that. It's a great way of getting signal. Mm. Then [00:33:20] then looking back, looking back on the growth and some, uh, growth at Google Seed. Yeah. So how, how, how, how did those resident, uh, residents, whether about scaling team alignment or product trade offs Yeah. Shape the shaped the way you [00:33:40] set prioritize at work today.
+
+
+And can you share a specific example of a decision at work that was direct, directly influenced by that earlier experience? Yeah, that's a, that's a great question. So definitely that was like a very, very formative period for me in learning, like [00:34:00] how do you manage a roadmap, what should you build and when, um, at Warp, so one of the things I did before I started Warp was I actually took the time to write up, uh, all of my.
+
+
+Kinda like learnings or principles from my time at Google Sheets and also my time at [00:34:20] another startup I had done around like how to build a product, how to prioritize, um, that type of thing. And you know, just like some of the principles were, you know, I guess, uh, lemme think for a second before I answer [00:34:40] this.
+
+
+Like,
+
+
+okay, so I think there, there's a few principles. So one is like if, you know, you have to build five things, it actually, for the most part doesn't matter that much what order you build them in. I think people get very, very, um, [00:35:00] like, uh, agitated or like overly, overly concerned of do you do A before B or B before A, a lot of times when it actually doesn't matter that much if you know you have to do A, B, and C.
+
+
+So that's one principle, A second principle that we use at Warp. And this was really important, very, very early on, is that we should only be working on things that [00:35:20] fall into two categories. So either of those things are game changers or showstoppers. And what I mean by game changer is like, is this a feature in the product where if someone uses it, they're gonna be like, they, okay, this is gonna make me keep using it.
+
+
+It's awesome. Or a showstopper being sort of the converse of that, which is like, [00:35:40] okay, I want to use your product, but I can't use it because it has this issue. And that might be like, you know, early on, like copy paste is missing or something. It's like you could have a great, um, overall product, but if it doesn't have copy paste, it's like, who cares?
+
+
+It's like, I can't do my basic work. Uh, one of our [00:36:00] investors, Andrew Reed talks about this with, with, you know, I think he talks about it with Figma, where it's like, they built this beautiful mansion but there was no bathroom. And if there's no bathroom, you can't live in the mansion. And so that's how it was like early on.
+
+
+That's like a showstopper. And anything that doesn't fall into one of those two categories, uh, we just consider a distraction. And [00:36:20] so if you're, if you can't clearly articulate, uh, is this a game changer or a showstopper, then it's probably a distraction. You probably don't work, wanna work on it all. 'cause you just have to ruthlessly be like, okay, if you have five people on your team, what are the things that you're actually going to work on?
+
+
+Another thing that I learned from, um, my time at [00:36:40] Google Sheets was like, probably the best way to actually, uh, improve velocity is to set a deadline and tie it to some public thing. And people don't always like this. 'cause if you're working and there's a deadline and it's like there's a public commitment around it, it does create [00:37:00] stress.
+
+
+But I, I also found if you don't have a public deadline on a thing, there's no marketing launch, there's no announcement or whatever that you've committed to, uh, you can get into a state where it's just like you work on things forever and don't ship them. So that's like another sort of like general principle, um, that we, we, you can't do [00:37:20] it at all times because it will burn people out.
+
+
+But if you have something that's really important that you need to get done quickly, the best thing to do is to like publicly commit and put a deadline and that will increase the velocity of which it gets done. Mm-hmm. Yeah. Thank you. Yeah. Mm-hmm. Then I'd like to hear more about your mindset when modernizing [00:37:40] product that follow word conventions.
+
+
+So is there any heartbeat or routines have helped you rethink and reinvent word products? Sorry, can you ask that one more time? Oh, is there, uh, what heartbeat, heartbeats or routines routines have helped you rethink and reinvent or [00:38:00] products? Got it. So,
+
+
+so the question is like, what, what are the, what are the, what's, like the thought process that I go through when I'm looking at reinventing something? I guess first off, I like the most important thing to me, if you're doing any kind of product work, whether it's reinventing or [00:38:20] just doing like regular product work, is starting with the problem and being very, very clear about like what are you trying to solve and why you're trying to solve it before you get into any, um, discussion at all of the solution.
+
+
+And so one, I think, and this has been a thing that like [00:38:40] is, um, you know, saying I had to learn over the course of my career because a, a lot of times people who are building stuff, me included, it's like, you're like, oh, I have a great idea for this cool thing that I want to build. And I think if you start with the solution, [00:39:00] you can get very anchored on the solution and actually build something that doesn't solve a real problem that someone has.
+
+
+And this. Again, I think this is one of the big failure modes for startups is like, I thought I had, I had a cool idea to build a thing, and so I built it, which is like, I think you want to go generally in the other [00:39:20] direction, which is like, what is the problem that you're solving? What type of user does it impact?
+
+
+What are they trying to do that, you know, you're trying to solve for them? Does it actually matter? Is it, is it a deep problem or is it like a, you know, more of a nice to have problem? And so, um, you know, just [00:39:40] being able, whenever you're approaching anything to articulate the problems is kind of my first step.
+
+
+Uh, if you can articulate the problem on the other hand, like, then I think it's like the, the question is like, what is the space of solutions look like? Um, what is like [00:40:00] the ideal solution look like? And then you can kind of peel back from that to be like, okay. This is maybe the ideal solution. Here's the solution that we want to build to test if we're on the right track.
+
+
+But the biggest thing to me is just like, start by really like understanding the problems, talk to users, verify if like your understanding of the problem is correct. I would not go by the way [00:40:20] to users for solutions generally. Uh, like I think that user, user generated solutions will often not, it's like, it's like those suggest a solution that is very much in line with the old way, the existing way they've been doing things.
+
+
+But the problem statement, I think if the problem doesn't resonate, if you don't experience the problem, if [00:40:40] users don't experience the problem, and you're probably not, it shouldn't, you shouldn't even be trying to fix the thing. Then. I'm curious, what system or practice have you put in place to make that part of your team's culture?
+
+
+Yeah, so great question. So one of, um, one of the things I, uh, we've done [00:41:00] at work is we've documented, we've, we've written this thing called our how we Work. Which is actually in a notion, and it's actually public, uh, and it documents the entire process that we have whenever we're gonna try and solve a user problem.
+
+
+And so the, the basic process is like you start with the problem. [00:41:20] Um, you should be able to validate that it's really a problem. Then you do a sort of phase of like, let's sketch out the solution space. And we typically will do that with a designer actually, like Design is very heavily involved, uh, in Warp very early on in the process.
+
+
+And we'll do, you know, we call it like a design [00:41:40] jam where it's like you get a designer, you get, uh, an engineer who is one of the people primarily responsible for building the fix, maybe me, um, all in a room. And we go through and we list out all the different user stories. So that's like, you know, for, for Warp it might be like, okay, as a user who's [00:42:00] trying to debug a crash in their app.
+
+
+Uh, you know, here's, here are the problems that they face doing that. Then we talk about and list out all the possible solutions. Um, and so we will intentionally like go pretty lo-fi in terms of like, well, what are all the possible solutions that we could, that we could build? [00:42:20] Then there's a, like, um, how hard are these to build?
+
+
+So you have to think through like the cost of each of those. Then we will actually pick one. Um, and then the goal is like, how can we build something as quickly as possible that we can use ourselves? So I would say dog fooding is a very, very important principle. If you're gonna be building anything in this [00:42:40] space, if you can't use it and get value out of it, you're probably not gonna provide value to anyone else.
+
+
+Um, then we, you know, if we're getting value out of it, it goes to a set of like external users who are on, like our preview build. We do a whole process around like quality controlling it, and then we ship it out. And then when you ship [00:43:00] it out, you're not done either because like. You really wanna like, try to measure the impact.
+
+
+It's not that easy for a lot of features, like in productivity apps to be like doing it this way. Like you can't measure every change. And I think actually I wouldn't suggest people do that, but you want at least like some qualitative feedback. You wanna see that people are using the thing that you built, and if it's not [00:43:20] being used, you want to like, remove it.
+
+
+Because like one of the failure modes of, um, you know, productivity apps is just like, they get very, very bloated. Like if you look at Microsoft Word, it has like, you know, a million options in it, it becomes very hard to use. And so we want to delete if, if something's not being used. Mm-hmm. Thank you. [00:43:40] Yeah.
+
+
+I think you already touched, uh, so many, so many. You, you already shared so many insight and advice, but is there any, uh, can you share a time those, uh, Harvard as, as you mentioned, Harvard prevent or major problem. [00:44:00] Good question. Um, so is there a time we're doing this process has prevented a major problem?
+
+
+Um,
+
+
+you know, it's, it's hard. I'd say It's hard. It's hard to know. Like [00:44:20] it's hard to know. 'cause like, uh,
+
+
+I can tell you times where it's like kind of failed. So it's not, it's not perfect either. So like there are times where maybe I'll answer a slightly different question, which is like, there have been times where I [00:44:40] feel like we, the biggest product failures that we've had, um, at Warp, and I don't wanna call anyone out, I'll, I'll take full responsibility for this, have been when we've built like very big, long things without a ton of like.
+
+
+User validation in between, [00:45:00] uh, and like, I've caused this problem because I've like had conviction. I'm like, no, no, no. The product needs to have this thing. It's foundational. And it's like, we'll go off and, you know, work on it for six months and in a lifetime of startup, six months is really, really long.
+
+
+Like you can't, you can't do that. Uh, and so, you [00:45:20] know, because we had those, those failures and, and often, sometimes, actually a couple times when we did that, we had to just cancel the, the project We're like, this is not shipping. We can't afford to be working on something for another six months. Um, having those failures has fed back into our [00:45:40] process around like, how do we avoid that?
+
+
+We don't wanna do that again. And so, uh, it's really made us think like we have to launch more quickly. We have to put things out, uh, and get feedback more quickly. We can't be so like internal focused and just like going off our [00:46:00] product gut, we need to actually get things into users' hands as fast as possible.
+
+
+And what I actually think this process change is one of the things that's helped warp the most is that we, we now have this like internal thing that we call warp speed, where it's like, Hey, let's just warp speed this, where it's like, let's, [00:46:20] let's put it out. Let's not be overly precious and let's get feedback.
+
+
+Uh, and that has become part of our new process is like just be very, very wary of like the big upfront build that you're building something for a very long period of time with no validation. It's very dangerous. Mm-hmm. Thank you. Hmm. Before we move on to [00:46:40] Christian about self-made. Yep. So would you like some water or something?
+
+
+Yeah, can I get a little water? Thanks.
+
+
+Because of the rise places [00:47:00] getting warmer. Yeah. Yeah. I'm sweating. Is it okay?
+
+
+It doesn't my phone. Yeah. Yeah.
+
+
+I think it's okay now. Okay. [00:47:20] So then why did you decide to leave your time at Google Behind and when you decide to start a company, what thoughts and consideration were one were on your mind? Okay, that's a great question. Why did I leave Google? So, um, I was at Google for about eight [00:47:40] years, which is, which is a, what, you know, at the time was like most of my career, um, deciding to leave Google is mostly around like.
+
+
+Of kind of personal growth and challenging myself. Uh, I think I could have stayed. I mean, I know I could have stayed at Google. I was, I was having a, a very cool career at Google. I had, [00:48:00] um, I had just become like the tech lead for the whole Google Doc suite and like, there was cool stuff to do. I just felt like from a personal challenge standpoint, um, and like a what's gonna make me uncomfortable standpoint, trying to go and do something outside the confines of a place like Google [00:48:20] would be really valuable for me.
+
+
+Um, I would say I, I had up to that point in my life, like I had been very good at, um, sort of succeeding in places where there's very, uh, like clear, kind of like guidelines for success, whether that's like getting good grades in school. I [00:48:40] was a good student or like, you know, moving up the kind of ladder at Google.
+
+
+Uh, and I thought like, you know what, at some point in my life. I should try to kind of see if I can succeed with without such clear, you know, boundaries and just try to, like, starting a company, to me was one [00:49:00] way of kind of growing in that respect. I also just always wanted to do it. Like, even before I joined Google, I, I had built different websites and like, I built like this community website for musicians that was like a real passion of mine.
+
+
+And I was like, you know, I, I always wanted to try and build something from scratch and run. And so that was like the motivation. [00:49:20] I had no idea how to do it when I left Google. And in fact, like I think being at Google was like horrible preparation for it in most ways because it, you know, there the set of problems that you optimize for solving at a place like Google is very different than the set of [00:49:40] problems you have to solve when you're starting a company.
+
+
+And so I had just spent the last eight years of my life like optimizing for building. At very, very high scale. So like for like tens or hundreds of millions of users, that doesn't matter. A startup I had, um, taken distribution for, for granted. [00:50:00] So it's like whatever we built would've had users. Um, I was gonna get paid no matter what.
+
+
+Uh, basically, and like, you know, at Google, you're kind of optimizing for getting promoted and like oftentimes people will get promoted even when their project is a total failure. And so it's just like a different set of constraints. Uh, you [00:50:20] know, Google, you don't have to hire people, you don't have to raise money.
+
+
+Um, so all these things that like just come to you when you leave Google, you have to figure out how to, um, you know, create or solve on your own. And so I, I was really bad at that at the beginning. I didn't know what I was doing at [00:50:40] all. I, um, you know, the first thing I did outside of Google was I built like a photo sharing app, which I actually think was a cool.
+
+
+It's a cool enough app, but I had no idea how to like, and the app worked really well, but I didn't know how to get people to use it. It wasn't clear what problem it was solving. It was just like, oh, I, here's a cool app I think I should build. And so I did that [00:51:00] for a while and then I was like, okay, I don't, I don't really know what I'm doing here.
+
+
+And let me kind of think through what my next steps should be. We close. Yeah, sure.
+
+
+Then I'm curious what then, what was self made [00:51:20] as a product? Product and what problem was trying to solve? Yeah, so Self-Made was a startup I did before Warp. Um, it, it was a number of different things over its lifetime and so I was the co-founder of that and the CTO, uh, the original idea behind Self-Made was basically [00:51:40] like that there was demand for people who wanted to share photos on, um.
+
+
+Social media to have those photos look really cool, like in a nutshell. And the concept was you would pay for a photo editor to like retouch your photo essentially and make it look cool. It could make you look good or it could like [00:52:00] just like make the photo look interesting. Um, and that was the original idea.
+
+
+That is not like the idea evolved over time. So it started as that, and then it became essentially like a marketing platform. So rather than doing like photo retouching for individuals, it basically became like Instagram in a [00:52:20] box for companies. Meaning like if you're a company that wants to have a social media pre, uh, presence that looks professional and that could be, you know, cool photos or captions or whatever, we would do that for you.
+
+
+It was, um, more of like a marketplace model than like a pure software model. So [00:52:40] people would basically submit all their content to us and then we built software that. Uh, helped on the other end people who were professional artists and creatives, like go in and like, make the photos look good and make the captions and like, produce it all to be on Instagram.
+
+
+So kind of like a tech enabled marketing agency is what it is. What it turned [00:53:00] into, uh, is a very, very interesting experience for me. It's like I learned a, a crazy amount, like ultimately, I wouldn't say I was a successful company, although we, you know, we ra we raised like, we got through basically series A stage with self-made and then like, I ended up leaving and then I think my co-founder sold the company.[00:53:20] 
+
+
+Uh, but it wasn't like a great outcome, but a super, super valuable learning experience for me. Very, very hard. Yeah. Then for, for your editing purpose, I want to ask detail. Detail moments. So [00:53:40] how did you enter the market initially? How did you grow from there? Yeah, so the initial, it's actually interesting itself, mate.
+
+
+So we started off with a thesis that, um, that the people who would want this service were like, basically like [00:54:00] wealthy people who cared a lot about their image. Um, and so I, I remember this very vividly. It's like we, we were like, okay, the people who are like spending a lot of money to like have their hair done or nails done are probably people who are gonna want like, like a digital version of that.
+
+
+And that thesis was wrong. There's not that many of those, like [00:54:20] people in the world and actually who wanted it were people who were trying to build their personal brands on, on Instagram. And it was actually interesting. So we, we started giving away the service to people who like worked in like the beauty industry essentially.
+
+
+[00:54:40] In the hopes of them giving it to their clients. And instead it was actually the people in the beauty industry who used it. So like, like makeup artists and hairstylists and that type of thing. And they were like, oh, interesting. There's this whole market of like solo entrepreneurs who care about their digital presence, [00:55:00] who, uh, are willing to pay for a service like this.
+
+
+By the way, this is like, what's so interesting for me in self mate is like, this is not, it's not an area I know much about and it's, I don't use social media really. And like, so it was from a founder perspective, very, very crazy thing for me to be working on. But it was, you know, kind of like a pure, from a pure [00:55:20] like business problem perspective was pretty interesting.
+
+
+'cause I was like, oh people, there's definitely was demand from people to like, be like, okay, I want to have a great social media presence. You, I think you mentioned Ripley, but Yeah. Uh, I want to go deeper. So when you, when you, when did you realize self-made wasn't the right [00:55:40] fit for you? And what Yeah.
+
+
+What's your first step after that? God, this is so hard and like, I'm still, I'm still friends with my, uh, my co-founder from self-Made. But it was, it was a little bit like having a divorce. Uh, like when I, you know, I realized actually [00:56:00] not that far into it, that I'm like, okay, this is maybe not exactly the best founder fit for me.
+
+
+But I felt like a very big commitment to try to make the thing successful. 'cause it's like, as a founder, you're hiring people and you're selling 'em on the vision. You're taking money from investors. Um, and so like, I think [00:56:20] there's like a duty to do the absolute best that you can to execute on the thing.
+
+
+Even if you realize like, oh, maybe this is like. Like, why am I working on this? Like, I don't really, I don't use social media. I'm not in the beauty industry, but I was like, you know, I got like, I owe it to folks to make it work. And there was like, you know, there was some business pull, [00:56:40] like people were paying us, we grew the revenue.
+
+
+Um, um, but I don't know, I realized probably within like, honestly not that long as starting, like this is gonna be really hard and probably not like the perfect fit for me. But I, I kept doing it. I did it for three years. And the, at the moment, the moment where I was like, this is really not for me [00:57:00] that I should leave, is like, it was like when I felt like my presence was going to be detrimental to the success of the company essentially, because I no longer fully believed in the business vision.
+
+
+And like once you're in that spot as a founder where you can't sell it, um, I think it's probably better to like move on and let, like, let my [00:57:20] co-founder, like who I think was, had more conviction in it than I did do it. But it was. Without question, one of the hardest professional experiences. Well, one of the hardest experiences, period.
+
+
+To walk away from that after three years. Mm. Damn. Yeah. How, how could you have spot that sooner? [00:57:40] Okay. This is another awesome question. So here's what I, what I wouldn't recommend to people starting a company. So I, um, I, after that photo sharing app that I did, I was like, I don't really know what I'm doing here.
+
+
+Uh, so what I'm gonna do is like, network and try to [00:58:00] meet potential founders. And like, I was like, I just want to like, get on board with something so that I can start my learning experience here. And that's, that's a horrible way to approach it. Uh, 'cause I ended up, I ended up basically, uh, joining after, after the initial fundraise had been [00:58:20] done.
+
+
+And it was my co-founder's idea, which I didn't. You know, he kind of like pitched me on and convinced me it was a good idea. Uh, and what I would say is like, the amount of commitment that you need to found a company is extraordinarily high because founding companies like very, [00:58:40] very hard. It typically doesn't, typically doesn't work.
+
+
+Uh, it is very unpleasant. It, uh, requires like a lot of like rejection. Like, you gotta be able to take rejection, you have to, like, it's just tons of failures. And so I think I went into it without fully realizing like the, [00:59:00] like what I was signing up for. And so it's much better to, in fact, I would say not much better.
+
+
+It is like a requirement, I think for someone who's founding a company to have full conviction in the thing that they're starting and be like, no, no, no, this thing has to exist. Like, I, I'm [00:59:20] gonna. Whatever. I will do whatever it takes to make sure that this thing exists and I'm signing up for like, I don't know, like when I started Warp, I was like, I'm doing this for 10 years, like minimum.
+
+
+Uh, and so that's like a really hard commitment, especially if you're, you know, not that old at the time to, to do. And so I would just [00:59:40] say like, that was the mistake that I feel like I made was like not understanding the degree of commitment, not understanding the importance of like, you really have to believe in the problem that you're trying to solve.
+
+
+Then in that point, I'm curious, what's your framework for identifying a problem worth spending? 10 years. 10 years [01:00:00] done? Yeah, so I thought about this a ton after self-made. 'cause I was like, actually one of the, I think one of the best things I did after self-made, which was, which like I said was a really good experience in a lot of ways, was I just spent like two months just writing up.
+
+
+I did like a postmortem. That I've never shared with [01:00:20] anyone, I'll probably never share, but I did it just for myself so that I could like try to distill, learn, remember all the, the, the things I got from that experience so that it could inform when I did the next one. I think the things that matter are like, um, do you, do [01:00:40] you really wanna solve the problem?
+
+
+Um, I would pick as big of a problem as possible, honestly. So this, this may go counter advice that you get, like other founders would give, but like, there's something tempting about solving like a niche problem because, you know, it's like they're [01:01:00] easier to identify, they're less daunting. Um, you can get immediate traction, but I, I would recommend instead pick like the biggest problem that you feel comfortable trying to solve.
+
+
+Or maybe you don't even feel comfortable. Just pick the biggest problem that you actually care about and want to solve. And that's a better thing to work on [01:01:20] because, um, you'll be able to convince people of the mission more if it's a big, important mission as opposed to like some niche, like, I'm doing a marketing tool for X or whatever.
+
+
+It's like people don't want to sign up to join your startup to work on that. They wanna sign up for startup because it's like, it's something that matters in the world. Um, it'll be easier to [01:01:40] get investment kind of paradoxically. I think if you pick a bigger idea, um, this, uh, you know, bigger ideas have potentially bigger outcomes in the way that venture capital works is like, they want to, they want like a bunch of swings on huge potential outcomes, and they're fine if most [01:02:00] of those swings fail, but what they don't really want is like a bunch of swings on like at most small size outcomes.
+
+
+So I would pick something like really, really big. I think it's important to pick something that, you know, again, different founders will have different advice on this, but like. When I was starting Warp, I was like, look, I'm gonna work on [01:02:20] problems that I have, which is either developer problems or knowledge worker, like productivity, software problems.
+
+
+Those are the only other ones that I looked at because I was like, if I don't experience the problem, I'm like, why? Why am I increasing the difficulty for myself by trying to go and like have to learn some, like for a while I looked at problems in like [01:02:40] healthcare and I'm like, I don't like how I'm not well positioned to solve this.
+
+
+So I would say pick something where you experience the problem, or at least if, if you're not like the primary person to experience, like you have the real passion to learn it. Um, and I think those, those are like the biggest things and I would just [01:03:00] like take a very, very long term mindset and be like, the way you build something that's super valuable, you're probably not doing it overnight, like.
+
+
+Uh, there's gonna be a lot of people who are chasing very, very quick wins. And you can get, you can differentiate by picking a huge problem that's hard to solve. It takes a while, as long as you're like, willing to [01:03:20] really do that and not see returns for a while. Yeah. I hearing your answer just now. Remind me of something I've been thinking about lately.
+
+
+So we are also a startup and, and as Asian taking on the US Yeah. This market survival is really important goal for us. [01:03:40] So that means we feel constant pressure to make money. Yeah. But at the same time, we have to stay true. We stay true to and protect our mission. Yes. So balancing those two is really hard as someone reading their team.
+
+
+So I know there's no single wide answer, but what advice would [01:04:00] you give to reader or founder in this situation? Yeah, so. The question is like, how do you balance like sort of short term revenue versus like long term, long term size? I think this is one of the great things that like venture capital actually [01:04:20] enables, is that you can by like gaining capital built something bigger.
+
+
+So if, if this may not be an answer that everyone is, is able to take advantage of, but if you have a big enough idea, you will be able to raise capital, which will give you time to try and solve it if [01:04:40] you are. Um, you know, I think there, there is on the other hand real downside to that, which is like if you take a lot of money, you have a lot of time to do stuff that's not solving real problems and you might just like waste some investors money.
+
+
+So like, that's, that's the downside. So having, I think you [01:05:00] want some amount of pressure to ship. And like, make, validate what you're doing works and make revenue if you can, that actually supports you. Like that's the best place to be, honestly, I think is like a profitable business. 'cause you have ultimate optionality.
+
+
+You don't have like investors breathing down your neck or whatever. But [01:05:20] I do think if you want to build something big, there is something great about capital in the sense of like, it lets you build, um, something bigger before you actually have to sort of start that cycle. And so I think a lot of like, like Warp definitely benefited a lot from that.
+
+
+Like we, we have a really hard product to build. Um, and [01:05:40] there just would be no way to do it without venture capital. Like, because we need people who are working on it full time and getting paid a salary and it's like there's, it just takes a lot of time to build the thing. And so I think there's other good, like, I think Figma was like this too.
+
+
+It's like they built their product for years. Notion might have been like this too. Like when you're in the category [01:06:00] of hard to build apps. Uh, having capital really does help. Thank you. Yeah, you such a good advice. So let's get, let's get back to the flow of the questions. Yep. So, so how did you decide when to holdback on growth on your PMF and economics are [01:06:20] clear?
+
+
+Yeah, so that's another awesome question. So this was another sort of takeaway that I had from, um, earlier startup, which, which is like growing before you have, or basically spending money or resources to grow before you have like good product market fit is like, [01:06:40] is the killer thing. Don't do that. Um, you know, for Warp, what we were looking for very early, like the stages were, first of all, we had no product.
+
+
+Then we had a product and we're like, do we want to use it ourselves? That was like one milestone when we hit that we're like, okay, that's good then it was, but we're [01:07:00] we're hugely biased. Right? And so like. And I was like, does anyone who's not us want to use this product? And so we were just testing as their demand for it.
+
+
+And the, initially we tested it like with our friends, and that didn't actually work very well. 'cause they, they were also like some weird biased sample. And so the way that we, we tested [01:07:20] demand that actually worked was to put up like a landing page on Hacker News. And so when we did that, we were like, does anyone want this?
+
+
+And we got 10,000 developers to sign up for it the first day, which is crazy, right? So it was like, okay, good, that's like, there's demand for this thing. But that, that didn't actually even give them the product, it just gave them like a wait list into [01:07:40] the product. And so after that, it was like, okay, there's demand for the idea of this thing, but do people actually value the thing?
+
+
+And the way that you have to measure that is by, like, when you give it to them, do they use it? Do they retain, do they, do they engage? And so for a while at the beginning of Warp, it was like, you know, the retention was pretty [01:08:00] crappy. People would turn out. Or they would only use it occasionally. And it's like, well, there's no point in trying to grow a user base of people who come in, just leave the product.
+
+
+And so then we had a phase of like, let's fix all the things that people are churn about. Uh, 'cause we knew there was demand for it, but it was like all those showstoppers were causing people [01:08:20] to turn out. And then once we saw that the cohorts of like, people retained better, we're like, okay, now it's time.
+
+
+It makes sense to try to like grow it. However, we were growing a free product. And so I still think that there's limits to the amount of marketing that you want to put behind growing a free product. Even though [01:08:40] I do think for Warp, like every incremental user we get in Warp does increase the value of the company.
+
+
+Like a company with a free product that has a million developers using it is still actually valuable from an acquisition standpoint, but it's not, it's not a business. Uh, so we, we still sort of limited the like. The, the dollars we basically put [01:09:00] behind growth. It's only recently when we've really started to grow revenue very quickly that we're like, okay, now we have a different kind of product market fit, which is a thing where people really love the product enough that they're paying for it.
+
+
+And in some cases, like paying thousands of dollars a year for it, where it's like, okay, all right, now is like a moment where [01:09:20] it makes sense to let's market it. Let's like we, we have very high degree of confidence that it's a very valuable thing for people. At that point, you, you grow it on the margin standpoint, like margins in our space are very, very tough and like Warp is not like really an exception to that.
+
+
+It's like, I do think it's okay to grow with margins being okay. [01:09:40] Like I, I think it would be a mistake to, to over index on margins given the current state of the market. But if you have like a negative margin product, then that means like the more you grow, the more money you burn proportionally. And so you have to be very, very careful with how you think about that.
+
+
+And so, you know, [01:10:00] that's, that's like kind of been our journey. And I think what I would recommend to people is like, don't pour gas on the thing until you have a product that you know people will pay for and that, you know, people retain it. Then I'd like to ask a more detail, detail about your answer. Yep.
+
+
+After pm f what are some common [01:10:20] mistake boundary make when you, when scaling and going to market? So how can they avoid this? Yeah, yeah. Failures. Yeah. So I think one, uh, one thing to be on the lookup for is like, okay, you have PMF, that's awesome. Now let's just start spraying cash everywhere to try to get users.
+
+
+And so I, [01:10:40] again, people, people are not stupid. I don't want to like, they're gonna realize this, but one thing I would highly recommend is like, measure. Meaning like if you're going to start, um, uh, different types of marketing efforts and, and for warp, there's all sorts of different things we do from like partnering with influencers to [01:11:00] like building community of people who really love the product, who help spread it to referral programs, to launch videos.
+
+
+Um, you really wanna understand like what's the ROI on that investment, because it will be vastly different depending on these different types of efforts. And so I would just take like a measurement based mindset [01:11:20] to that is like a kind of very, very basic thing. Again, I don't think, like, I think depending on the stage you're at, you need different amounts of discipline with this, like we're, we're not in like the, like what's the CAC to LTV ratio, like SaaS business.
+
+
+We're in like an exploding market. Where strategically it makes sense to [01:11:40] try to get market share as quickly as we can. And so there's, just, depending on the circumstances you're in, I would highly recommend like first principles, think about what your strategy should be. In fact, lemme caveat everything I've said on this interview, like use, think it through for yourself.
+
+
+Like, one of the worst mistakes you can make as a startup founder is sort of blindly [01:12:00] following some other startup founder's advice without thinking through like, is it actually apply to your situation? And so I would always just be like, like, think it through it. You know, why are you doing what you're doing?
+
+
+Think through, through first principles, just as an aside. Um, but yeah, I think like once you have some people to pay for it, you should figure out, you [01:12:20] know, how efficient is it to get, you know, find new people to pay for it. You wanna look at not just how much it costs to acquire customers, but how long they retain for just like smart stuff like that.
+
+
+Um.
+
+
+Hmm. What was the, what was the deci deciding factor [01:12:40] that made you choose to reinvent the terminal? Yeah, so the terminal specifically, uh, was one of those tools where when I would use it, I would be like, why the hell does it work like this? Like, it's a thing where, um, when you use it, it's like going back in time or something like, uh, you open it up, it's just a black screen, you're [01:13:00] not sure what you're supposed to type into it.
+
+
+If you type and then try to use the mouse to like, adjust things, like the mouse doesn't work in it. Um, you know, if you type one wrong character, it can like delete your whole hard drive. And it's like, it's like, why are people using this? And yet I know that every developer uses it almost every day. And so just [01:13:20] from like a pure, like, this thing annoys me, I think this thing could be way more powerful perspective.
+
+
+It was like an appealing thing for me to work on. It was a thing that I personally use and thought could be better. And it was also on the flip side, I knew it was an important thing for developers because people, um, who are very good at using it [01:13:40] are can get, like, they can do like crazy magic things as developers where it's like, you know, they, they're, they're like the hackers in the movie type in commands and they know how to do all this stuff way more efficiently than anyone else.
+
+
+So I was like, okay, there's a huge upside to helping developers if you can, if you can make it better. And so from a product perspective, it was like [01:14:00] kind of to me, like an obvious thing that should be improved. What was not obvious, uh, was like, is there a business around that? Um, and like, you know, again, I think our original business idea is not, is part of what we're doing now, but it's not the whole story.
+
+
+And we sort of got lucky there in a sense with AI coming and LLMs coming [01:14:20] along. But I think like the root insight that like, hey, this is a thing that's used by tens of millions of developers and it isn't very good, was still like a valid insight kind of no matter what. And so that, that was like the. Uh, that was the genesis of it.
+
+
+Oh, this is the editing purpose. So how, how would you explain the needs for need [01:14:40] for needs for terminals to someone outside tech? Yeah, great question. So outside of tech, the way I would explain it is like, um, the terminal is a place where you as a developer can, [01:15:00] how would I explain it? Uh, this is a tricky, it's a tricky, this is a thing that I've always tried to explain with Warp that is not that easy.
+
+
+And so the, I'll, I'll start by explaining what it is and then why it matters. So what it is, is it's an interface that's purely text-based. And so you as a developer, you can like [01:15:20] type and run programs there. And what's nice about that from a developer's perspective. Is that it's very, very easy to write programs that just take text as input and give text as output.
+
+
+It's like 10 times faster to write that kind of program than it is to write a program that has like a bunch of buttons and scroll bars and fancy [01:15:40] graphics and all that stuff. And so if all your program needs to do is, is like take in text and put text out, that actually covers a ton of different things that developers need to do.
+
+
+So that's how every internet server in the world works, like, which is probably surprising to people, but every internet server in the world just takes text [01:16:00] in and gives you text out. And it's only when like the text gets to the browser that it becomes graphics and images and buttons and all of that.
+
+
+And so there's a lot of applications that developers work on that are like that. It's true for databases, it's true for, uh, you know, any kind of application that is like, um, uh, you know, [01:16:20] dealing with logs or files or customer data. It's all just text. And so the terminal is this powerful interface for working with text.
+
+
+So that's like what it is. And then why it needed to be improved was, um, some of the stuff I mentioned earlier. It was like a, because it was like [01:16:40] historically the original interface, like actually terminals existed before Gooeys, before Macintosh, before Windows. Um, there were all of these leftover like things from that era that didn't make any sense anymore.
+
+
+When you're using a terminal on a Macintosh or a terminal on a Windows machine, [01:17:00] like the mouse should work. You should be able to, uh, like copy the output of one of your terminal programs very easily. And like you couldn't do that. You kind of had to like click and drag and like do all this like, crazy stuff.
+
+
+And so it's, it's a, a tool that matters with an interface that's like going back in [01:17:20] time to something before, uh, you know. Like your regular computing interface existed. Mm-hmm. Thank you Ben. Mm-hmm. Then how did the idea for work come out and what was one only experiment you, you went to testing? Yeah, great [01:17:40] question.
+
+
+So I actually worked on the idea for Warp with, uh, with a couple investors early on who were also like developers. And so I, I jammed on it. We explored a bunch of different things. We actually explored, uh, working on an IDE, which is another big developer tool that's kind of more similar to a document [01:18:00] editor.
+
+
+Um, and eventually like kind of got conviction that, you know what, there's more room for improvement in the terminal than in any other tool. And so that's how we ended up kind of betting on this. And then the way that we built, um, conviction around it, uh, kind of goes back to, to, to what I said earlier. So it [01:18:20] was like.
+
+
+It was like, I had personal conviction, but I also sort of validated with a bunch of people I, I had worked with like, okay, is this, is this problems that you exper experienced? And then very early on, we just put up on Hacker News, this post that we're building a new terminal. And, you know, we described what it was [01:18:40] gonna be.
+
+
+It had a landing page. Uh, we said, we're building it in rust. We said it's gonna have these features. And like 10,000 people signed up. And so, you know, that was massive signal. But also if you just, you could get signal from other places too. Like you could go look at Hacker News, which is, you know, the, the main [01:19:00] developer.
+
+
+It's just where developers hang out online, I would say. And like, every, like fifth article is about something in the terminal. And so it's like, I knew that developers cared about this tool. Um, and so, you know, there's evidence like that where it's like, okay, there's, there's gonna be some demand for this.
+
+
+Mm. [01:19:20] Hmm. Then I'm curious, what moment, what moments sought skeptics to supporters? Great question. So there were a lot of skeptics, a lot of people thought this was a really stupid idea, or at least like a stupid business idea, which, you know, I mean, [01:19:40] they could have been, right. Um, the, the thing that has turned people, uh, well, people turned at different points.
+
+
+I should actually, I should say. So people who just heard the idea and never tried the product, were like, what are you doing? [01:20:00] Like, but you know, often once someone used the product or at least saw the product, like it's a very visual product. And actually one of the things we've done really well on Warp is.
+
+
+We also have a big YouTube channel, like not as big as yours, but we have like almost a hundred thousand developers. We're one of the top developer YouTube channels. And seeing it makes you [01:20:20] understand, oh, okay. Like this is like a thing I get. And so one of the, um, I think one of the better things I did early as a founder was actually the first person who I hired to work with me was a designer.
+
+
+And what the designer and I did, um, was put together a concept [01:20:40] deck. Not even like the whole app, but this is like a concept deck of like, these are the features that I think you should have. Let's make it look awesome. It's gonna take me forever to build it, but let's make it look awesome and show all the different things that we have in mind and what problems they solve and so on.
+
+
+And once I made it visual to people, [01:21:00] uh, like they're like, oh, okay, I get it. So it's like the making, I highly recommend this too, for someone who's working on like a product like ours, like make it visual. Uh, and then once I had that deck and I could show it to people, it would turn people from skeptics into like, okay, I kind of get it.
+
+
+Then once people started using it, even [01:21:20] before the AI features, they're like, okay, I get it. This is, this is, this helps me in my workflow. But it was really when we actually just made it into an agent platform, which is in the last like year, year and a half, that people were like, I can't live, but this is completely transformed the way that I do my work.
+
+
+And so it took a while to get to [01:21:40] that, but really just like sh like you have to show people the product. You've gotta get people to try it. Then. I'm curious, what do you think were the key factor in hitting, uh, 10 K sign up so quickly? Yeah, I think, um, so we picked, [01:22:00] uh. We picked a tool that is not niche. So you, if you pick a big a thing that has a big market, it's just, you only need a smaller slice of people, right?
+
+
+So I think if a lot of developer companies, the way that they'll start is they'll be like, okay, I want to do something for, [01:22:20] I don't know, Kubernetes, or they'll wanna do something for some like niche technology. And what the second you do that, it's like you've cut the universe of people down to very small, uh, or at least like to much smaller.
+
+
+And so because we had such a broad tool, like, like I said, it's one of the two tools that every developer uses every day. It was, uh, [01:22:40] that's an advantage. It also is, it's disadvantage. There's, there's downsides to it as well, but like at least we started with something that every developer uses. And so because of that, I think having a new cool, interesting take on solving the problems with it made it much easier to get like a significant volume of people who are interested in trying it.[01:23:00] 
+
+
+Then could you, could you say We built a 10, 10 K released in just 24 hours? I, I'd like to use is a hook. Yeah. So we got, we put, uh, we posted on Hacker News and we got 10,000 developers to sign up [01:23:20] for it within 24 hours. And we knew that we were Oh, okay. At least touching on something that people were interested in, a problem they want to solve.
+
+
+Did, did you expect to get that many sign offs? We had no idea. I remember sitting in my apartment in New York and, you know, we did like a, like a little launch party. There were only five of us [01:23:40] at the company and people came over to my apartment and we had hooked up a Slack bot so that every time someone signed up for the wait list, we would get like a slack message from this bot.
+
+
+And we're sitting in there and like we posted it. And then all of a sudden it was like, it was kind of like a slot machine or something. It was like, we got one, we got two, and we're like, [01:24:00] this is cool. And then all of a sudden we got so many that it was like, it couldn't, like it filled up the whole scroll thing.
+
+
+We couldn't, uh, we couldn't get back to the top of it. So we're like, you know, we were like, this is awesome. Of course, that's very far from having a working business, but it is, it was cool validation. Super fun. Thank you. Then[01:24:20] 
+
+
+what, what's one design choice influenced by your experience at Google? Yeah, so I, we, uh, the way the terminal works, or way war works, I should say at this point is it [01:24:40] structures the output of your agent conversation or your terminal into these things that we call blocks and blocks have a lot of the same, um.
+
+
+It's sort of like user interaction patterns as spreadsheet cells. So you can like arrow up and down. You [01:25:00] can do like shift arrow to like multi-select. And so it is kind of a interesting spreadsheet paradigm that we brought into Warp. There's one other thing that we brought in, which is actually, uh, I think is pretty cool and novel, which is we have in our in Warp, the way that the input works is [01:25:20] very similar to way, uh, it works in Chrome.
+
+
+Where in Chrome you can either type, you know, a search query or you can type a URL if you know what site you want to go to in Warp and, and Chrome will just detect what you're doing in Warp. It's the same basic idea. You can either type a terminal command or you can type in English and ask an [01:25:40] agent to do something.
+
+
+So a couple things from Google that we, that we brought over or inspired by, I should say. Yeah. Thank you. Yep. Then I'd like to ask about your customer acquisition journey. So especially.
+
+
+From, especially when it comes to a [01:26:00] acquiring enterprise clients. Yep. So what's the difficult journey from first conversation to pull low out for a major customer and what, was there a moment in the process when they becoming, became convinced to adapt work? Yeah, so for us, we're primarily like a product-led [01:26:20] growth company.
+
+
+So our strategy from the start has been build for end users, build for developers, built something that they love. Uh, we have warp users. I think it's like a 56% of Fortune 500, or I probably even more than that now. But it's like we, we want people bringing it into their companies using it and [01:26:40] then championing it.
+
+
+Championing it to their managers, to their, the people who are the economic buyers inside these organizations. And so that's been most successful for us because by and large, like. When a developer wants to use a product, they are kind of allotted like [01:27:00] the, the ability to buy it. Uh, like developers probably more so than other knowledge workers when they, when they want tools because they're such expensive workers and their time matters so much.
+
+
+If they say that they want something, they'll likely get it. The other thing that has happened more recently, um, is that there is, across [01:27:20] most big companies now, there is a mandate to deploy AI tools. And so we're getting a bunch of, uh, more like top-down interests as well, where, you know, we get people from some very large companies who will come to Warp and be like, Hey, I, I saw something about Warp.
+
+
+I saw a demo on YouTube, I saw an ad or something. [01:27:40] I'm interested in trying this. I'm on the, uh, AI productivity team. And we wanna do a pilot of warp, and if people like it, they'll convert. So those are the two motions. It's kind of like a bottoms up motion or a, uh, a top down enterprise motion where a co, a company right now really wants to deploy these kinds of tools.[01:28:00] 
+
+
+So can you mention who your main clients, some such open AI at Cisco Netflix sales post? I'm not sure who I have, so I can mention that. I'm not sure who I have permission to say. Um, I think we have permission to say Docker. I'm not sure if I have permission Then we can skip this. Yeah, yeah. [01:28:20] Then I'm, uh, I want, I'm curious what stand, what stands out to you about closing your first major enterprise deal?
+
+
+What stands out to you about closing your Yeah. Yeah. So the, the enterprise deals take a lot longer. There are a lot harder, there's a lot of work on the [01:28:40] security side. There's a lot of people who have stakes that kind of put up, um. Just make it more work to, to do it. But what's cool is once you're in, and so I'll talk without naming the company about one company that, that we've had really good adoption at was like, we had a basically a, a champion who [01:29:00] was like, I want to, to deploy AI tools.
+
+
+I think Warp as an amazing AI tool for our, our team to use. We did a, uh, pilot with like 50 engineers and uh, we converted that. But then what was really cool is like we got a chance to present it to the entire engineering organization [01:29:20] and basically took it from, you know, 50 to like 10 x that in terms of the, the usage of it and people, um, just having the ability to like get your foot in and then get it people there who love using it and then expand from that, um, was very, very gratifying to see.[01:29:40] 
+
+
+It was like, and they used it in the way that we want them to use it the way that we, we think they get the most value, which is like, they're writing tons of code and starting most of their tasks by prompting warp, which is like, you know, there's some people who, who will adopt it as like more of like [01:30:00] a, not their daily driver, but this was really exciting for us because it's like, oh my God, they're fully bought in on the new way of working.
+
+
+And that's catching on at like a really, you know, this is like a public company. Mm-hmm. I think it's a very competitive market these days. Yes. What do you see as the biggest [01:30:20] risk for Warp and how, how are you addressing them? Yeah, so first of all, super competitive market. Um, like ai, ai, gen, like developer tools, AI, coding, however you want to talk about it.
+
+
+Has other really big startups in it, has the big model providers all have entries in it. And [01:30:40] so do like the big hyperscalers, like, you know, Google. Um, so I think in order for us to succeed, you need to have some kind of differentiated value. Uh, we really can't compete on cost. Like that's like, I think a losing strategy for us.
+
+
+So we have to compete on the quality of the product, the amount that it helps [01:31:00] developers, the amount that it like, helps companies ultimately ship better software for their users. Um, I think we are fortunate that we actually have a highly differentiated product in this space. Most of our competition either started in the IDE and is basically like adding agentic features into a code [01:31:20] editor or is an app that runs within the terminal.
+
+
+It's like a CLI app, whereas we are the entire like agentic development environment that. One level up in the stack. And actually no one else has that. So we have this differentiation the way that I think we would, um, you know, our biggest competitive risk actually is that [01:31:40] one model provider gets some sort of huge lead in terms of like the coding models.
+
+
+'cause we are dependent, at least right now on like the quality of the underlying coding model. If one model provider, like say Anthropic or OpenAI or Google were to run away with that, they would have a lot of pricing power [01:32:00] over us and they could, it would just be very, very hard for us if, if like they have a first party product and we have a product built on top of it and that's our only choice of model.
+
+
+So what we want, uh, is a competitive model layer, essentially, where it looks much more [01:32:20] like GCloud versus Azure versus AWS and like there's competition there so that, uh, you know, we don't. Lose based on price essentially. That, that, that would be the big worry is like platform risk and price for us. I do think it's more likely that it goes the way that I'm describing.
+
+
+Like there's so many smart [01:32:40] people who are working on coding models, uh, across all these major companies that I do think there will be a competitive environment. There may even be a competitive open source solution, which I think would be the best for us. Uh, but the big risk is like one model just like runs away with it.
+
+
+Uh, I don't think that will happen, but that's our biggest risk. Thank you. Yeah. [01:33:00] Hmm. Then even now, the coding market is seen a lot of innovation. Yes. But, uh, what do, what would need to happen for developer productivity to read 10 x and, and when might that be possible? Yeah, so I think what needs to happen if you think about 10 x, like that's, that's [01:33:20] very significant, obviously.
+
+
+Uh, if, if you have one developer using. One tool, like in a single thread to get 10 x productivity, it sort of has to do that One thread has to like do their work like 10 times faster or something. That's, I don't think we're there, but I do think you have the ability now, and this is something that Warp is really [01:33:40] embracing for one developer to sort of orchestrate multiple things at once.
+
+
+So to basically multi-thread the way that they're working. And so I think like the typical day for a developer very soon is gonna look like I come in, I look at all the stuff that I have to do, I gotta like fix a bug, I gotta build a feature, I gotta, debug wise, some servers crashing. I'm [01:34:00] gonna start three agents, four agents, eight agents, whatever.
+
+
+And have those agents do some of that work in parallel. So in the same way you could have multiple cores on a computer doing work, you're gonna be having multiple threads of execution for a developer. The other thing that's gonna happen is that, um, you are increasingly going to have some work that is [01:34:20] like completely automat.
+
+
+And so this isn't about making a developer 10 times more productive, this is about making the production of software much more productive. And so if you have like menial tasks, like removing dead code or like changing from using one coding library to another or upgrading the version of the [01:34:40] library using an agent's gonna be able to do that with no developer involved.
+
+
+And so those types of tasks, plus like a developer doing more, uh, more things at one time, and each of those things running faster is gonna definitely get you to 10 x productivity for software production. Damn. It's pretty cool. [01:35:00] Hmm. Yeah. Then what should, what should education system be doing now to prepare people?
+
+
+Yeah, that's a question I, I thought about a bunch, uh, on the education side. So. I think what it's gonna matter less if you know [01:35:20] coding or any particular coding language. It's basically everything is moving up one level of abstraction where you can do stuff via English a lot of the time. However, if you want to be in the technology industry, you wanna be building stuff.
+
+
+I do think that there's a lot of value in understanding how computers work. I think that there is value in like, you [01:35:40] know, at least understanding the basics of computer science. And it's really, to me, it's a discipline that's about problem solving more so than it is about like, like learning one technology or another.
+
+
+And so I still think it's a worthwhile thing to learn. I think learning math or learning physics, learning anything analytical is probably also like a very good starting [01:36:00] point. Um, but I think there's just gonna be less of a focus on like learning specific technologies. And like the thing that I would be like kind of most wary of would be like.
+
+
+You know, front end coding schools or something like that. 'cause I think those jobs truly are at risk from people who can just describe how they want something [01:36:20] built. And so learning like that skill without learning the, the problem solving skills and the deep way the computers work is, is not the right place to put your energy, I think.
+
+
+Mm-hmm. Then for, for your own kids, how, how would you structure their learning path? Yeah, so I, I do, I have a, a kid now and I've been [01:36:40] thinking about this. Um, I think I, I really favor just learning how to think critically and how to problem solve. To me those are like the fundamental pieces of education, just like period and, um, you know, just encouraging [01:37:00] my, my kid to think from first principles and to learn how to like, break down a problem, to ask questions.
+
+
+Um. I think is more important than any specific field of study. Like I think you can get that from a lot of things. I got that from philosophy a lot actually. Like I think philosophy is an amazing [01:37:20] thing for people to study because it gives you a very, very rigorous approach to like analyzing arguments and making arguments and understanding logic in a specific way.
+
+
+Um, but I also think math statistics, like any of these things that really make you, like, think critically are, are, are [01:37:40] very, very good. So that's, that's what I hope. My kid may not be interested in any of that, just if he's, if he's, you know, watching this down the road. But like, I, I think that's the most important skill that anyone can have and not just for their job, but also just to be like a good member of society is like, are you able to sort of think things through clearly or at least try to, [01:38:00] I think is valuable.
+
+
+I think this is similar. Similar to the previous question, but yeah. In, in a world where chat GPT can do or the assignment for, for kids. So yeah. What system, education or approach do you think are needed to help people develop problem, problem [01:38:20] solving skills? This is really hard. I don't, I don't know the answer.
+
+
+It, it, it's like, it reminds me a little of like, um, you know, calculators or, you know, people are always searching for analogies of other technologies that have like removed some part of, uh, [01:38:40] human thinking. I think honestly for anyone who like wants to like, learn to think critically chat, GPT is helpful.
+
+
+So it's like, it can like test your hypotheses, it can like push back on your ideas, it can summarize and help you learn better. And I think if you [01:39:00] don't care about it and your goal is to like get through school and get like a good grade on a paper chat, GP t's gonna do you a horrible disservice 'cause it's gonna like do the work for you.
+
+
+And so to me it's really a question of like, are people motivated to learn? If you're motivated to learn, I think, um, you [01:39:20] know, the same things that have always helped people learn, like reading, you know, working through like problems writing. It's not like that stuff has gone away. Uh, it's just like, it's almost just like the temptation because it's kind of unpleasant.
+
+
+Like learning is not, I think that fun for most people. Uh, I think it's just like the [01:39:40] temptation to take the shortcut and succeed by taking the shortcut has become a lot higher. But I don't know. I think ultimately it comes back to just like the intent or desire of the person. And just like for my kid, it's gonna be like, can I successfully.
+
+
+Make learning a value for him. And if it's [01:40:00] a value, then I think there's no problem. And if it's not a value, then I think that there's, you know, the same things that have always been problematic for people who don't really, truly value that are gonna be a problem for him. This, this is my personal curiosity and needs, but when do you think non-developers will [01:40:20] able to build effectively with work?
+
+
+When, sorry? When do I think No. Non-developers. Non-developers. Yes. Oh, it's already happening. So yeah. You don't have to be a developer to build something with Warp right now, which is magical. Like, you know, the person on our team who's like our head engineering recruiter is building software [01:40:40] to analyze, um, how we're putting candidates through the pipeline is not a, not a developer.
+
+
+It's wild. Uh, like that, that has been for a certain kind of application, that barrier has been been crossed already in Warp. It's true in other apps, you know, you can also, you can go build [01:41:00] websites very easily, but uh, you don't have to know how to develop to use warp. You may at some level, you will hit some limit to your knowledge.
+
+
+The code might not be very good. Uh, it might have bugs, but like you can build stuff right now. Pretty cool. Okay. Yeah, I think the, the most difficult moments for [01:41:20] me running work have honestly been when people have left. Um, it's really, really hard to hire someone awesome. It takes a ton of work, a ton of investment to like help 'em get up to speed.
+
+
+And there've been just different moments where we honestly have not had many people who've left, but a few Q key people over the, [01:41:40] the course of the company have like gone to do other things, sometimes been founding other companies, sometimes it's just like they don't, they're not up for working and it's just like such a bummer for me when that happens because the investment.
+
+
+Just 'cause I, I, I like working with these people also and just like them moving on, it feels like a form of like, you know, [01:42:00] you know, they, they, they're not there anymore. And so that's, that's been painful when that's happened then. Yeah. Uh, who was the, who was the first person you reached out to in that moment?
+
+
+I have a really close relation with our investors. 'cause I, I don't have a co-founder. Right. And so typically I [01:42:20] think situation like that, it's nice to have a co-founder, someone who has the same incentives as you and the same like investment in the company. Um, a few of our in invest, like a few of our investors, I'm very, very close with specifically like investor at Box group, Greg, who's been really helpful investor at Sequoia, [01:42:40] Andrew and investor, uh, gv, Eric.
+
+
+There's like three people who it's very, very cool. Like I can text 'em, I can talk to 'em and they've been very supportive. And that would be one other thing I would. Again, take my advice for a grain of salt, but I would really optimize, if you're picking to work with investors, you want to have investors who you can go to when things [01:43:00] are not working and get support from them.
+
+
+Uh, that's like kind of the main criteria, I think that's most important. And our investors have been awesome for that. Mm-hmm. Then in one sentences, so how would you write Warp and Yourself to be described in three years from now,[01:43:20] 
+
+
+the main place where developers are building software? Can you explain why is Yeah, I mean, so literally our, our, the company mission is to empower developers to ship better software, and our product vision is to be the, the platform that they spend their day doing it in. Um, [01:43:40] I, I feel like we're on the right path for that with the new way of developing with agents and if we.
+
+
+If we execute, I actually think it'll just be good for the world in a sense. Nah, that's, nah, that's too big of a, I can't say that, but it'll [01:44:00] be, it'll be awesome. Like our goal is just like, help everyone who's trying to build software to do it as quickly, efficiently, and I think was like pleasantly as they possibly can.
+
+
+And so that's, you know, I think that's, that's the goalpost for us is to, is to get there. I I, I think many [01:44:20] founders, many founder Open says, said, uh, every, uh, their mission is everyone builds some build their own software. But I'm curious why, what is that important? Yeah, important thing. So the reason I think that matters is like, this is big founder talk, but the reason [01:44:40] it matters is like, if you look at the world economy, the, the sort of biggest point of leverage at this point is like.
+
+
+Software and automation. Every company in the world right now doesn't matter what vertical you're in. Like you could be in like farming or whatever, is a software company. And the reason that's the case is because [01:45:00] automating things through software, especially, I think it's gonna be an even bigger deal as this software becomes more intelligent, is the biggest, you know, force multiplier for increasing your company's output and like making whatever problem you're solving, solving it more quickly.
+
+
+And so again, I don't think that's even like an exaggeration, like software's the [01:45:20] biggest lever that there is for economic progress and for growing, you know, just basically increasing human productivity and then increasing human productivity and economic progress is like probably above all else, the thing that can create the most like, kind of like wealth and happiness for the world.
+
+
+And so I, I do think it's like a [01:45:40] worthwhile mission to try to, you know, build something that helps, um. Help software be produced more effectively, more, you know, uh, and help the quality of the software be better. Thank you. That is the, my last questions. [01:46:00] Cool. Yeah, we are, we are done. Okay, great. Thank you.
+
+
+Thank you.
+
+
+
+
+Tab 2
+Warp_Zach_storyline2.txt
+English (US)
+
+
+00:00:00.040 — 00:00:56.560
+2007 at Google, I would imagine it's pretty different than Google today, Google Docs, Google Sheets, what was called a Google Labs project at the time, there were five people on the team felt like, you know, kind of a startup within Google, a lot of freedom to build out the product the way that we wanted it.
+
+
+I was at Google for about eight years, like when I joined, I want to say I was like employee, like 10,000 or something. But when I left, I think there were like 200,000 employees or something, that it was getting bigger, it was getting slower, and it became more top down and a little bit more bureaucratic.
+
+
+[00:32:00] from when you started to when you wrapped. So how did usage usage and key metrics evolve? So I want to, I wanna say when I started on Google Sheets, it was in the hundreds of thousands of people using it regularly, and when I left, it was in the hundreds of millions. Which is pretty [00:32:20] crazy and I, I think, I think it has like a billion users now.
+
+
+And like, this was 10 years [00:27:40] ago. And the, the version that I'm very proud, the version that we built is still what they used today. 
+
+
+We posted on Hacker News, we got 10,000 developers signed up for it within 24 hours. This is awesome. 
+
+
+2007 At Google, engineers are running the show. The hardest problems on sheets were rewrote the whole thing from scratch. Put aside the current form factor for the workflows that people are trying to accomplish.
+
+
+What's the right tool for the job? It grew and it became slower. It was one of the reasons, actually, that I wanted to move on. A real passion of mine, and I always wanted to try and build something from scratch and create or solve on your own. God, this was so hard. I was really bad at that. I didn't know what I was doing at all.
+
+
+That was the mistake. Not understanding the degree of commitment, importance of like, do you really want to solve the problem? When I started warp, I was like, I'm doing this for ten years minimum. Why are people using this that every developer uses this every day? This thing annoys me. I think this thing could be way more powerful pushing things forward.
+
+
+And in fact, like I think being a Google was like horrible preparation for it because.
+
+
+
+
+00:00:59.360 — 00:01:42.960
+Hi, I'm Zach, I'm the founder and CEO of warp. The warp is a genetic development environment, which is the simplest way of thinking about it is it's an interface where you can tell your computer to do things, and that could be building software, fixing bugs, building features. And it's really a general purpose place for anyone who wants to build something, has the ability in plain English to ask the computer to build it for them, or if you're a little bit more advanced, you can execute terminal commands and warp will do those for you as well.
+
+
+Warp today is used by hundreds of thousands of developers, adding about $1 million of revenue every ten days. Our most recent fundraising round was led by Sequoia. We've now raised over $70 million for the company.
+
+
+
+
+00:01:47.680 — 00:06:17.250
+So joining the Google Sheets team was totally random. I didn't even know I wanted to be an engineer. I studied in school. I studied combination of philosophy, math, and computer science. I got a master's degree in philosophy. I went to law school for a year and dropped out, so I was not like a person where a straight line career for me.
+
+
+I had been doing some like honestly part time programing work in my mid 20s and I needed to get a better job. And so I applied to Google and I got through the interview process. I remember getting a call from my manager, who's now this, the CTO at notion, actually, and he was like, do you want to come work on Google Sheets?
+
+
+And I was like, what is that? He's like, you know, it's like Excel, but it's in the browser. And I was like, sure. Like I'm not really a spreadsheet user, but I, you know, I'm it sounds cool. And so 2007 at Google, I would imagine it's pretty different than Google today, Google Docs, Google Sheets, what was called a Google Labs project at the time, there were five people on the team felt like, you know, kind of a startup within Google, a lot of freedom to build out the product the way that we wanted it.
+
+
+So Google historically had very bottoms up, flat organization developer, you were really empowered to build awesome stuff. It was very engineering driven, sort of like Apple is very design driven. Microsoft is more business unit driven. Google at the time was very much like engineers are running the show.
+
+
+I felt like I could kind of do anything at Google. It was a very fun time. So I used to be a principal engineer at Google. I led engineering on the Google Docs team. I built a lot of the Google Sheets product. We always kind of tooled around with the idea of like, what if your productivity apps weren't like sheets, slides, and documents?
+
+
+Because like if you look at Google Docs, it's very much just like a straight evolution for Microsoft Word. But aside the current form factor that you're using for a problem and just sort of think from first principles like what's the right form factor or tool for the job. The hardest problems on sheets that I personally dealt with were we basically rewrote the whole thing from scratch, which is a very dangerous thing to do that I don't recommend anyone, anyone do at the scale that she started to operate at was very different than the initial scale that it was built for in the hundreds of thousands of people using it regularly.
+
+
+And when I left, it was in the hundreds of millions, which is pretty crazy. You know, we had to basically re architect and rebuild the whole thing while still having millions or tens of millions of people using the old thing. We need more engineers to do it. Third, we're going to stop building stuff on the current version, which to users is going to look like we've stopped developing the product.
+
+
+It took like two years, which is a crazy amount of time. And then when we did it, at first it was worse, which is what happens when you build a brand new piece of software to replace an old one. The new one is inevitably worse. It was slower, it was buggy, it was missing stuff that the old one had. And so that was super stressful.
+
+
+Let's say I was like, I was like, oh boy, did I really screw up by kicking off and arguing to do this whole project. And we eventually figured it out, which is cool. And like this was ten years ago, and the version that I'm very proud of, the version that we built, is still what they use today. Like they didn't rewrite it again.
+
+
+Maybe they should, but like, uh, it was a very stressful thing trying to make to basically like, switch out the plane while it was still running. I was at Google for about eight years, like when I joined, I want to say I was like employee, like 10,000 or something. But when I left, I think there were like 200,000 employees or something, that it was getting bigger, it was getting slower, and it became more top down and a little bit more bureaucratic.
+
+
+And it was one of the reasons, actually, that I wanted to move on was like, it's getting harder to directly have an impact when you're one of 200,000. Just felt like from a personal challenge standpoint, what's going to make me uncomfortable standpoint, trying to go and do something outside the confines of a place like Google would be really valuable for me in my life, like I had been very good at succeeding in places where there's very clear guidelines for success.
+
+
+It's like getting good grades in school. I was a good student or like moving up the kind of ladder at Google. Starting a company, to me, was one way of kind of growing in that respect. I always wanted to try and build something from scratch and run it.
+
+
+
+
+00:06:22.410 — 00:08:48.280
+And in fact, like I think being at Google was like horrible preparation. We never had any kind of question of like, could we get users taking distribution for granted? So it's like whatever we built would have had users. And so I was really bad at the beginning. I didn't know create or solve on your own. You know, the first thing I did outside of Google was I built like a photo sharing app.
+
+
+So I was the co-founder of that and the CTO. The original idea behind Self-made was you would pay for photo editor, like retouch your photo essentially, and make it look cool. It could make the photo look interesting and like the idea evolved over time. So it started as that, and then it became essentially like a marketing platform.
+
+
+It basically became like Instagram in a box for companies. It started off with a thesis that wealthy people who cared a lot about their image and actually who wanted it, were people who were trying to build their personal brands. It was actually the people in the beauty industry who used it. And there was like, you know, there was some business pull, like people were paying us.
+
+
+We grew the revenue, got through basically a series, a stage, very, very interesting experience for me. It's like I learned a crazy amount. By the way, what's so interesting for me and self-made is like, it's not an area I know much about. And it's like, I don't really I don't use social media. I'm not in the beauty industry.
+
+
+But I was like, you know, I got like, I owe it very, very crazy thing for me to be working on because I ended up joining after the initial fundraise had been done. And it was my co-founders idea, which I didn't pitched me on and convinced me it was a good idea, but I don't know. I realized this is going to be really hard and probably not like the perfect fit for me, but I kept doing it.
+
+
+I did it for three years. It was really not for me at the moment. That I should leave is like. It's like when I felt like my presence was going to be detrimental to the success of the company, essentially because I no longer fully believed in the business vision. Once you're in that spot as a founder where you can't sell it, I think it's probably better to like, move on.
+
+
+I think the things that matter are like, do you really want to solve the problem? It is like a requirement, I think, for someone who's founding a company to have full conviction in the thing that they're starting, if the problem doesn't resonate, if you don't experience the problem, if you shouldn't even be trying to fix the thing that was the mistake I made was like not understanding the degree of commitment, not understanding the importance of like, you really have to believe in the problem.
+
+
+So I would say pick something where you experience the problem and be like, no, no, no, this thing has to exist.
+
+
+
+
+00:08:58.280 — 00:15:01.210
+So one of the things I did before I started warp was I actually took the time to write up learnings or principles from my time in Google Sheets, and also my time at another startup I had done. Definitely. That was like a very, very formative period for me and learning like starting with the problem and being very, very clear about like, what are you trying to solve and why are you trying to solve it?
+
+
+Talk to users. Verify if like your understanding of the problem is correct. When I was starting warp, I was like, look, I'm going to work on problems that I have, which is either developer problems or knowledge worker like productivity software problems. Those are the only other ones that I looked at, because if I don't experience the problem, I'm like, why am I increasing the difficulty for myself?
+
+
+Those are like the biggest things. And then I would just like take a very, very long term mindset. When I started warp, I was like, I'm doing this for ten years minimum. There's going to be a lot of people who are chasing very, very quick wins, and you can differentiate by picking a huge problem that's hard to solve.
+
+
+It takes a while, as long as you're willing to really do that and not see returns. For a while, I would pick as big of a problem as possible, honestly, and that's a better thing to work on because if it's a big, important mission as opposed as like some niche, like I'm doing a marketing tool for X or whatever, it's like people don't want to sign up to join your startup to work on that.
+
+
+They want to sign up for your startup because it's like it's something that matters in the world. Warp started as a reimagination of the terminal black screen with the green text that you see in hacker movies. It's one of those tools where when I would use it, I would be like, why the hell does it work like this?
+
+
+Started off with like, hey, let's try and make this interface more accessible and more powerful. You open it up, it's just a black screen and you're not sure what you're supposed to type into it. The mouse doesn't work in it. This thing annoys me. I think this thing could be way more powerful. An obvious thing that should be improved.
+
+
+It was like an appealing thing for me to work on that. Every developer uses it almost every day. There's a huge upside to helping developers. If you can make it better, you need to rethink the whole product around what the workflow is today. You know, looking at product through that lens makes a lot of sense.
+
+
+Warp is pushing things forward in terms of like, hey, this is how a modern product should feel for a developer. What was not obvious was like, is there a business around that? This is a free tool for the most part. And so replacing a free utility, but with still like a valid insight kind of no matter what. One of the things that we've done at Warp is we've documented this thing called or how we work the entire process that we have whenever we're going to try and solve a user problem.
+
+
+The basic process is like you start with the problem, you should be able to validate that it's really a problem. Then you do a sort of phase of like, let's sketch out the solution space. And we typically will do that with a designer. And then the goal is like, how can we build something as quickly as possible that we can use ourselves.
+
+
+So I would say dog footing is a very, very important principle. Then we goes to a set of like external users who are on like our preview build, basically spending money or resources to grow before you have like good product market fit is the killer. Don't do that for warp. The stages were. First of all, we had a product and we were like, do we want to use it ourselves?
+
+
+We're hugely biased, right? And so like then it was like, does anyone who's not us want to use this product? We tested demand that actually worked was to put up like a landing page on Hacker News. We're like, does anyone want this? We got 10,000 developers to sign up for it within 24 hours, and we knew that we were okay at least touching on something that people were interested in.
+
+
+We had no idea. I remember sitting in my apartment in New York and, you know, we did like a little launch party and we had hooked up a slack bot so that every time someone signed up for the waitlist, we would get like a slack message from this bot. And then all of a sudden it was like it was kind of like a slot machine or something.
+
+
+It was like, we got one, we got two, and we were like, this is cool. And then all of a sudden we got so many it filled up the whole scroll thing. We were like, this is awesome. Of course, that's very far from having a working business, but it is. It was cool validation. And so after that it was like, okay, there's demand for the idea of this thing, but do people actually value the thing?
+
+
+And the way that you have to measure that is as they use it. Do they retain gauge? You know, the retention was pretty crappy. People would turn out or they would only use it occasionally. And it's like, well, there's no point in trying to grow a user base if people who come in and just leave the product. And so then we had a phase of like, let's fix all the things that people are learning about.
+
+
+And this was really important very, very early on, is that we should only be working on things that fall into two categories game changers or showstoppers. What I mean by game changers is like, and anything that doesn't fall into one of those two categories, we just consider a distraction because you just have to ruthlessly be like, okay, if you have five people on your team, what are the things that you're actually going to work on?
+
+
+And then once we saw that the cohorts of people retain better, we're like, okay, now it's time. It makes sense to try to grow it. However, we were growing a free product limits to the amount of marketing that you want to put behind growing a free product. We still sort of limited the the dollars we basically put behind growth, it's only recently when we've really started to grow revenue very quickly, that we're like, okay, now we have a different kind of product market fit, which is a thing where people really love the product enough.
+
+
+But it's like, is there a business around that? You know, again, I think our original business idea is part of what we're doing now, but it's not the whole story. And we sort of got lucky there. In a sense, with AI coming, become more powerful and as agents have become more powerful, warp does way more than that.
+
+
+The way that developers are working is changing people from all sorts of different backgrounds who want to build coming into the app, realizing, like, all I need to know is what I want to build. On the flip side, also seeing pros sort of adopt this whole new workflow and changing the way that you work to start by like asking your computer in English to do something for you.
+
+
+It's a totally new behavior. And so what we've started to see happen, though, is that people are getting more comfortable, and we're just starting to see the whole way that software is built. Changing that change in behavior is what's really driving driving our growth right now.
+
+
+
+
+00:15:10.850 — 00:18:58.030
+So I think in order for us to succeed, you need to have some kind of differentiated value, quality of the product, the amount that it helps developers, the amount that it helps companies ultimately ship better software for their users. I think we are fortunate in that we actually have a highly differentiated product in this space.
+
+
+Most of our competition either started in the IDE, adding a genetic features into a code editor, or runs within terminal, whereas we are the entire like a genetic development environment that sits one level up in the stack. So we have this differentiation. If you have one developer using one tool like in a single thread to get ten x productivity, it sort of has to do that.
+
+
+One thread has to like do their work like ten times faster or something. That's I don't think we're there. But I do think you have the ability now. And this is something that warp is really embracing for one developer to sort of orchestrate multiple things at once. So to basically multi thread the way that they're working.
+
+
+And so I think like the typical day for a developer very soon is going to look like I come in, I look at all the stuff that I have to do. I got to fix a bug, build a feature bug, why some server is crashing. I'm going to start three agents, four agents, eight agents, whatever, and have those agents do some of that work in parallel.
+
+
+The same way you could have multiple cores on a computer doing work. You're going to be having multiple threads of execution for a developer, you are increasingly going to have some work that is like completely automated. All this is about making the production of software much more productive. And so if you have like menial tasks like removing dead code, changing from using one coding library to another, or upgrading the version of a library using an agent is going to be able to do that with no developer involved.
+
+
+More things at one time, and each of those things running faster is going to definitely get you to ten x productivity for software production you want to be in the technology industry, you want to be building stuff. I do think that there's a lot of value in understanding how computers work. I think that there is value in like at least understanding the basics of computer science.
+
+
+And it's really to me, it's a discipline that's about problem solving more so than it is about learning one technology or another. I think learning math or learning physics, learning anything analytical is probably also like a very good starting point, but I think there's just going to be less of a focus on like learning specific technologies and like run end coding schools.
+
+
+And so learning like that skill without learning problem solving skills in the deep way that computers work is not the right place to put your energy. I think, you know, people are always searching for analogies of other technologies that have, like, removed some part of human thinking. Honestly, for anyone who like, wants to like learn to think critically that GPT is helpful.
+
+
+So it's like it can like test your hypotheses, push back on your ideas, summarize, and help you learn better. The goal is to like get like a good grade on paper. ChatGPT is going to do you a horrible disservice. And so to me, it's really a question of like, are people motivated to learn reading, working through like problems writing?
+
+
+It's not like that stuff has gone away. I think it's just like the temptation to take the shortcut, succeed by taking the shortcut has become a lot higher. Ultimately, it comes back to the intent or desire of the person. And just like for my kid, it's going to be like, can I successfully make learning a value for him?
+
+
+I really favor just learning how to think critically, how to problem solve. To me, those are like fundamental pieces of education, just like period. And think from first principles and to learn how to like break down a problem, to ask questions I think is more important than any specific field of study.
+
+
+I think you can get that from a lot of things. I got that from philosophy a lot actually. Like, I think philosophy is an amazing thing for people to study because it analyzing arguments and making arguments, understanding logic in a specific way. But I also think math statistics like really think critically.
+
+
+I think that's the most important skill then you can have, and not just for their job.

@@ -1,0 +1,916 @@
+{
+  "unmatched": [
+    {
+      "video_id": "kvZKl7eLSX8",
+      "title": "How the Top 1% of Learners Use AI to Think Better | Anthropic, Drew Bent"
+    },
+    {
+      "video_id": "CxFQykWiJqY",
+      "title": "\"50 AI Agents Running My Company\" Is a Lie. Here's How I Build It | Gumloop, Max Brodeur-Urbas"
+    },
+    {
+      "video_id": "_-ybKTL2ehg",
+      "title": "This Founder is Making 1B+ Excel Workers 20x Faster | Meridian, John Ling"
+    },
+    {
+      "video_id": "qb6uCFyO098",
+      "title": "How I Found a Winning Idea After 8 Pivots | Pensive, Yoon"
+    },
+    {
+      "video_id": "I08ZeY7QcrE",
+      "title": "How Top 1% AI-Native Organizations Actually Make Money | Harvard Business School, Rem Koning"
+    },
+    {
+      "video_id": "wEsjK3Smovw",
+      "title": "From Writing Code to Managing Agents. Most Engineers Aren't Ready | Stanford University, Mihail Eric"
+    },
+    {
+      "video_id": "IfNPcmoFYn0",
+      "title": "The Navy Leadership Lesson That Built a $450M Company | Blue Water Autonomy, Rylan Hamilton"
+    },
+    {
+      "video_id": "BfBGhSqvcu4",
+      "title": "AI Will Create New Wealth, But Not Where You Think | Carnegie Mellon University, Po-Shen Loh"
+    },
+    {
+      "video_id": "ivVPJhYM8Ng",
+      "title": "What you must know before AGI arrives | Carnegie Mellon University Po-Shen Loh"
+    },
+    {
+      "video_id": "fqGTIyrtnBU",
+      "title": "The Strategy That Turned a Dying $1.3B Company Into a $100M AI Agent | Intercom, Eoghan McCabe"
+    },
+    {
+      "video_id": "h6aqpjrUd5c",
+      "title": "This Is How a 26-Year-Old Raised $108M in 1.5 Years | Reducto, Adit Abraham"
+    },
+    {
+      "video_id": "b_UMhn8E8lI",
+      "title": "This 24-Year-Old Founder Raised $64M to Build World’s First AI Mathematician | Axiom, Carina Hong"
+    },
+    {
+      "video_id": "5qfwNBs3IVE",
+      "title": "How Great Tech Leaders Think and Decide | Ex-Meta CTO & Gigascale Founder, Mike Schroepfer"
+    },
+    {
+      "video_id": "d6lKyaPgvzs",
+      "title": "Why Your Startup Fails to Scale ($12B+ Founder Explains) | DevRev, Dheeraj Pandey"
+    },
+    {
+      "video_id": "HmDUWxpPgnI",
+      "title": "100 AI Leaders Explain How to Build AI That Will Win in 2026 — WHAT BUILDERS SHOULD DO NOW"
+    },
+    {
+      "video_id": "4n28-DoNxWs",
+      "title": "The Biggest Mistake in My 25-Year Journey Building Unicorn Startup | Godard Abel, G2"
+    },
+    {
+      "video_id": "P5QXWrHnTzw",
+      "title": "From Google DeepMind to a $8B Superintelligence Startup | ReflectionAI, Misha Laskin"
+    },
+    {
+      "video_id": "Do_LjDsisIE",
+      "title": "The One Discipline That Made Me a Billionaire by Age 30 | Lucy Guo, Passes"
+    },
+    {
+      "video_id": "cweJsYgLRRc",
+      "title": "How an Indian Immigrant with No Background Raised $25M | FurtherAI, Aman Gour"
+    },
+    {
+      "video_id": "xo3eKArnIo4",
+      "title": "Why Every Founder Needs to Care About AI Safety Right Now | Glen Wise, Cinder"
+    },
+    {
+      "video_id": "X_ClPE5Y2q4",
+      "title": "From Apple & Uber to Creating a Multi-Billion Dollar Wallet Industry | Magic Labs Documentary"
+    },
+    {
+      "video_id": "al8nDmjVzxo",
+      "title": "The $2.2B Founder's First Advice | Sadi Khan, Aven"
+    },
+    {
+      "video_id": "vrY8x-iGsFs",
+      "title": "Stop Feeding AI for Free | OpenLedger, Ram Kumar"
+    },
+    {
+      "video_id": "bRBLPJguU-0",
+      "title": "Silicon Valley’s Top Investors Bet on This 22-Year-Old Founder | Sola, Jessica Wu"
+    },
+    {
+      "video_id": "xWYb7tImErI",
+      "title": "The Only Trait for Success in the AI Era—How to Build It | Carnegie Mellon University Po-Shen Loh"
+    },
+    {
+      "video_id": "Fr_5Gk_w_o8",
+      "title": "Utopia or Dystopia? Humanoid Robot NEO Has Arrived at Our Home | 1X, Bernt Børnich"
+    },
+    {
+      "video_id": "Xqsudhg-8qk",
+      "title": "How to Find $10M+ Ideas in Markets We’d Never Worked In | Comulate, Jordan Katz & Michael Mattheakis"
+    },
+    {
+      "video_id": "Z2GmRgmq3Ls",
+      "title": "How to Build $1.5B AI Startup in Just 3 Years | fal's co-founders"
+    },
+    {
+      "video_id": "d9SKd-zqYAc",
+      "title": "The 8-Year Journey to Building a $4B AI Company | Synthesia, Victor Riparbelli"
+    },
+    {
+      "video_id": "rQ3luEIcKes",
+      "title": "I Built a General AI Agent After School at Age 13 | Flowe AI, Michael Goldstein"
+    },
+    {
+      "video_id": "3TyfA0FmsQI",
+      "title": "The Biggest Risk Is Not Taking Any Risk | HIS Challenge, BORYUNG"
+    },
+    {
+      "video_id": "bwttXIyQmno",
+      "title": "How We 5X Our Revenue While Others Chase AI Updates | Lindy, Flo Crivello"
+    },
+    {
+      "video_id": "Djeykrg3WkM",
+      "title": "Built to Share: 2M Users in 18 Months | Julius AI, Rahul Sonwalkar"
+    },
+    {
+      "video_id": "9c3oNP8yiKs",
+      "title": "How I Built a $1.3B Startup by Pivoting Fast | Windsurf, Varun Mohan, Co-Founder & CEO"
+    },
+    {
+      "video_id": "ViAGOAc2LAo",
+      "title": "How Bolt Hit $40M ARR in 5 Months with This AI Pivot Strategy | Stackblitz(Bolt.new), Eric Simons"
+    },
+    {
+      "video_id": "KeD5i7K-q2Q",
+      "title": "Everyone's Chasing AI But This Matters The Most | Ron Gutman, Intrivo"
+    },
+    {
+      "video_id": "llMFdIVBDBQ",
+      "title": "How a Solo Dev Went From $0 to $57M Raised | Laravel, Taylor Otwell"
+    },
+    {
+      "video_id": "Drse9NLKG2s",
+      "title": "27-Year Investor Explains What You're Missing While Chasing AI | TELUS Global Ventures, Terry Doyle"
+    },
+    {
+      "video_id": "vmGRRt3GJYI",
+      "title": "How Chatbots Hallucinate with Confidence I Rumman Chowdhury, Humane Intelligence"
+    },
+    {
+      "video_id": "aGY3QSuOz-E",
+      "title": "How I Hit 10M Users in Just 1 Year l Creati, Ella Zhang"
+    },
+    {
+      "video_id": "Ns-rmhAqPN4",
+      "title": "From Apple to Oculus-Now Taking On Consumer Hardware | Nirav Patel, Framework"
+    },
+    {
+      "video_id": "KHSI0Qu4ovQ",
+      "title": "Silicon Valley's Hottest Young Founder Right Now | Cluely, Roy Lee"
+    },
+    {
+      "video_id": "LBn0eAxQpb8",
+      "title": "How Luma Built a $200M AI by Shipping Fast, Not Perfect | Luma AI, Amit Jain"
+    },
+    {
+      "video_id": "4MzS_aG7qR4",
+      "title": "Transform Now or Be Left Behind in 2 Years | Former Chief Innovation Evangelist at Google"
+    },
+    {
+      "video_id": "p0C4ypmz4zs",
+      "title": "The Future of Creators in the AI Era l Bob Mankoff"
+    },
+    {
+      "video_id": "GG77NdMC3kk",
+      "title": "Building AI Search Engine for the GPT-5 Era | Will Bryk, Exa"
+    },
+    {
+      "video_id": "S4iY1ddf2Vg",
+      "title": "Branding Masterclass for AI FoundersㅣSmith & Diction"
+    },
+    {
+      "video_id": "FIxLJVthW6I",
+      "title": "Fix your AI-limited mindset in 12 mins | Caltech, Anima Anandkumar"
+    },
+    {
+      "video_id": "yVcCywnPuC8",
+      "title": "How I Built a $3.3B Blockchain Business Against All OddsㅣKonstantin Richter, Blockdaemon"
+    },
+    {
+      "video_id": "uB-u2__tkHQ",
+      "title": "The Journey from India to Building a $500M AI Video Product | Gaurav Misra, Captions"
+    },
+    {
+      "video_id": "dWkt0oa4Uxk",
+      "title": "AI for Car Rentals?! Prove It! | Pitch.Tech EP 2"
+    },
+    {
+      "video_id": "wv779vmyPVY",
+      "title": "How to Master AI Powered Creativity in Just 13 Minutes | Jeremy Utley"
+    },
+    {
+      "video_id": "GkGWBGJlQrs",
+      "title": "I Built $200M Nuclear Energy Startup at 19 | JC.B, Fuse"
+    },
+    {
+      "video_id": "IPVCnBaneak",
+      "title": "Built 2nd Startup at 23, Execution was Everything | Intellect Theodoric Chew"
+    },
+    {
+      "video_id": "VGPUg24tsQ8",
+      "title": "How We Went from Zero Buyers to One of the Fastest-Growing B2B StartupsㅣTranscend, Ben Brook"
+    },
+    {
+      "video_id": "pLSA-9xwIRE",
+      "title": "From Google’s First PM to Backing 50 Unicorns — The 10X Principle | Felicis, Aydin Senkut"
+    },
+    {
+      "video_id": "UbaXgFM_dGw",
+      "title": "Vibe Coding All Day? Stop Delivering PrototypesㅣGraphite, Merrill Lutsky"
+    },
+    {
+      "video_id": "_jEnJYU3e7k",
+      "title": "How I Built a $300M Startup with No Degree and No NetworkㅣSelfbook, Khalid Meniri"
+    },
+    {
+      "video_id": "5UhnQ2h-5BY",
+      "title": "\"Don’t Learn to Code\" Is WRONG | GitHub CEO Thomas Dohmke"
+    },
+    {
+      "video_id": "At9Ti-O-NqA",
+      "title": "A College Dropout Builds $1B Startup at 22 | Injective, Eric Chen"
+    },
+    {
+      "video_id": "nj_D5mw5Peg",
+      "title": "\"Standing Desk is OVER\" l Pitch.tech EP 01"
+    },
+    {
+      "video_id": "PC6rHWC0qDw",
+      "title": "Advice from a Founder Who Built a $390M Company at 57 | LucidLink, Peter Thompson"
+    },
+    {
+      "video_id": "Tk-EI2yYT3A",
+      "title": "30-Minute Masterclass on Product Thinking | Instagram Co-Founder & Anthropic CPO, Mike Krieger"
+    },
+    {
+      "video_id": "i1MQ91jLRzQ",
+      "title": "What I Learned Building AI That Competes with TeslaㅣHelm.ai, Vlad Voroninski"
+    },
+    {
+      "video_id": "YTj2SkZ13hw",
+      "title": "How I Raised $17M in 14 Days | Pylon, Marty Kausas"
+    },
+    {
+      "video_id": "TNq79c8QNlg",
+      "title": "Why Most AI Startups Fail to Impress VCsㅣRajeev Dham, Sapphire Ventures"
+    },
+    {
+      "video_id": "qNXUaijIPCQ",
+      "title": "How to Scale Up When You’re Stuck Between Early and Growth | Postscript, Alex Beller"
+    },
+    {
+      "video_id": "iJraivDKYkA",
+      "title": "Leaving $1.5B Startup Behind for AI's Next Wave | Neon, Nikita Shamgunov"
+    },
+    {
+      "video_id": "0SStbzK1VRU",
+      "title": "What VCs Actually Want Beyond an AI Demo | Rebecca Lynn, Canvas Ventures"
+    },
+    {
+      "video_id": "bfD4oFQXHTs",
+      "title": "How I Built $15M Annual Revenue Vertical SaaS | Dan Uyemura, PushPress"
+    },
+    {
+      "video_id": "WWSn6NceO7s",
+      "title": "Next Tesla in the B2B Market | Captain of SEOUL ROBOTICS, Hanbin Lee"
+    },
+    {
+      "video_id": "MoP4btRlHdU",
+      "title": "How to find THE soulmate for startup | Tracksuit, Matt Herbert & Connor Archbold"
+    },
+    {
+      "video_id": "apewL43Q8Tg",
+      "title": "9 Months Zero Code, $75M Raised | Merge, Shensi Ding"
+    },
+    {
+      "video_id": "gQEkCFzZfPA",
+      "title": "How a 3-Person Founder Team Beat Big Tech ㅣMangomint, Daniel Lang"
+    },
+    {
+      "video_id": "j6Z-JGoqFpM",
+      "title": "Escaped Belarus, Built $100M ARR Business | PandaDoc, Mikita Mikado"
+    },
+    {
+      "video_id": "fDdeXx8lND8",
+      "title": "Why I Left Palantir and Faced 50 RejectionsㅣMosaic, Bijan Moallemi"
+    },
+    {
+      "video_id": "cTv113vtUy4",
+      "title": "Venture DifferentlyㅣAltos Ventures, Tae Yoon"
+    },
+    {
+      "video_id": "kvIDk4-QtlM",
+      "title": "Mindset Behind $50B in Revenue | Ema Unlimited, Surojit Chatterjee"
+    },
+    {
+      "video_id": "I5YOjn1V1fU",
+      "title": "From Zero to $1.5B Unicorn in 2 Years | Decagon, Jesse Zhang"
+    },
+    {
+      "video_id": "9MQNO9DbaYQ",
+      "title": "Pivot and Fail Fast: Most Valuable Lessons During Our 12-Year Journey to IPO  | SES AI, Qichao Hu"
+    },
+    {
+      "video_id": "I2ATdfrmPMw",
+      "title": "How We Shape the Future of Hardware | Mytra's Co-Founders Interview"
+    },
+    {
+      "video_id": "Ewgx5oBvMG8",
+      "title": "This Insane AI Video Search Technology Selected by NVIDIA and Snowflake | Twelve Labs, Jae Lee"
+    },
+    {
+      "video_id": "e5Tf6g5sdD0",
+      "title": "Lessons from Investing in 700+ Startups | Goodwater Capital, Eric Kim"
+    },
+    {
+      "video_id": "B2SM5_4pSag",
+      "title": "How First-Time Founders Can Avoid Mistakes | Pelu Tran, Ferrum Health"
+    },
+    {
+      "video_id": "6jRFZbOxwrs",
+      "title": "To Run a $5.2B Company with $200M ARR, I Focused on This | 6Sense, Jason Zintak"
+    },
+    {
+      "video_id": "249tl3G2WIM",
+      "title": "Building the Most Loved Analytics Tool ($1.05B, $100M ARR, 60+ NPS) | Mixpanel, Amir Movafaghi"
+    },
+    {
+      "video_id": "qzTT6KjnmnM",
+      "title": "Advice from the Top 1% of SpaceX Engineer | Sift, Karthik Gollapudi"
+    },
+    {
+      "video_id": "wgaFopzQI6Y",
+      "title": "How High Will Bitcoin Go? Here's the Better Question | Flare, Hugo Philion"
+    },
+    {
+      "video_id": "yhjsw2q790Q",
+      "title": "High School Dropout Made World’s #2 NFT Project | Pudgy Penguins, Luca Netz"
+    },
+    {
+      "video_id": "my7HXZSGecw",
+      "title": "Big Tech is NOT the Only Answer to Win | Relay.app, Jacob Bank"
+    },
+    {
+      "video_id": "EWOZrIZDbqc",
+      "title": "20 Years, CEO, Lessons Learned | Anza, Mike Hall"
+    },
+    {
+      "video_id": "WAPJ8F0Nv7Q",
+      "title": "How I built $2B AI Translation Startup | DeepL, Jarek Kutylowski"
+    },
+    {
+      "video_id": "NWZB3Q5cyJ8",
+      "title": "How I built $3B Next-Gen Identity Startup for AGI Era | World, Alex Blania"
+    },
+    {
+      "video_id": "zFE51Sgl8hM",
+      "title": "How to Become Great at Startup SalesㅣPeter Ahn"
+    },
+    {
+      "video_id": "hAKFIl73I30",
+      "title": "How We Captured Silicon Valley in just 4 months | Crush-it Conference, Rahul Vohra"
+    },
+    {
+      "video_id": "jMc6CjJvJoI",
+      "title": "Lessons from an Early-Stage Startup Over 4 Years | Handprint.tech"
+    },
+    {
+      "video_id": "6FhMNvhTsrA",
+      "title": "Raising $140M at $2B to protect IP in the age of AIㅣSY Lee, STORY"
+    },
+    {
+      "video_id": "dqUPMR26vGg",
+      "title": "How I Built an $80M Annual Revenue Business in Just 5 Years | Sandbox VR, Steven Zhao"
+    },
+    {
+      "video_id": "EqAknJoNayk",
+      "title": "How to Build a Product with 10 Customers and a Boring Tech Stack | Gravity Climate"
+    },
+    {
+      "video_id": "A-IsoneWlzE",
+      "title": "To Dominate the AI Race, Don’t “Start”a Company | LiveKit, Russ d'Sa"
+    },
+    {
+      "video_id": "ReRLbpC2SG4",
+      "title": "How I Gained 5M Users In Just 7 Months | OpusClip, Young Zhao"
+    },
+    {
+      "video_id": "paDb5w0DywU",
+      "title": "Still The Coolest Smartphone Startup in Tech Scene 2025 | Nothing, Carl Pei"
+    },
+    {
+      "video_id": "x6pJhK0LegI",
+      "title": "Is Web 3.0 Dead? | a16z Chris Dixon"
+    },
+    {
+      "video_id": "52oBJncG-D4",
+      "title": "What Makes a Seed & Series A Startup Worth Investing In? | Andrew Beebe, Obvious Ventures"
+    },
+    {
+      "video_id": "orZUIquv09E",
+      "title": "$2B Web3 Startup Building the Future of IP in the Age of AI | Team Story Documentary"
+    },
+    {
+      "video_id": "FbeB91Jx_O8",
+      "title": "How to Win in the AI Hype Cycle | Guru, Rick Nucci"
+    },
+    {
+      "video_id": "kPXvf2-C_Hs",
+      "title": "How This AI Startup Grew by 100x in Just 6 Months | Fireworks AI, Lin Qiao"
+    },
+    {
+      "video_id": "rSe0wMBzFUw",
+      "title": "How I learned to invest from making 400+ investments | Paul Bragiel, 101 Fellowship"
+    },
+    {
+      "video_id": "FMNqCthCZCc",
+      "title": "What It Takes to Reach $100M+ Revenue as a Startup | CircleCI"
+    },
+    {
+      "video_id": "5d8tOtdcN2Q",
+      "title": "How I Built $825M Email Revolution Called Superhuman | Rahul Vohra"
+    },
+    {
+      "video_id": "n3sK790QHJg",
+      "title": "Lessons Learned as Second Time Founders | Paragon Co-founders, Brandon Foo, Ishmael Samuel"
+    },
+    {
+      "video_id": "VNlHzDTVSMk",
+      "title": "$650M Revenue Office FurnitureㅣFURSYS US expansion Documentary"
+    },
+    {
+      "video_id": "Q3EE-V-cMog",
+      "title": "Investors' Principles of Silicon Valley Taught in Stanford MBA | Ilya Strebulaev"
+    },
+    {
+      "video_id": "kO8-dxzkq_o",
+      "title": "How to find a Killer Idea worth $40B | Co-founder of Snowflake, Benoit Dageville"
+    },
+    {
+      "video_id": "O4a4bVIe5As",
+      "title": "Figma's HUGE AI Updates: ConFig 2024 in 14-Minutes"
+    },
+    {
+      "video_id": "UA_gYKaXHS0",
+      "title": "First Lesson Taught in Harvard MBA in 18 Minutes | Thales Teixeira"
+    },
+    {
+      "video_id": "xgeu8JOxbnA",
+      "title": "How He Helped Double Lung Cancer Survival Rates from 13% to 26% | Dorian Averbuch"
+    },
+    {
+      "video_id": "4C8s6CmcJcQ",
+      "title": "How We Hit 1M Drone Delivery | Zipline, Keller Rinaudo Cliffton, Keenan Wyrobek"
+    },
+    {
+      "video_id": "ZfNox6j8oxM",
+      "title": "What I learned from building $3.5B business | Verkada, Filip Kaliszan"
+    },
+    {
+      "video_id": "spGQpp7twgs",
+      "title": "Knowledge of A Lifelong Software Engineer | Benjamin Mann, Delivery Hero"
+    },
+    {
+      "video_id": "x2toVUTPEX4",
+      "title": "Building High-value AI Startups in 3 Days | John Whaley, Inception Studio"
+    },
+    {
+      "video_id": "QSZoccA62Xk",
+      "title": "Age 27, Built a $230M AI Lawyer Business | Joshua Browder, DoNotPay"
+    },
+    {
+      "video_id": "Nkb0vEp8ttw",
+      "title": "How Our Company Is Growing 4X ANNUALLY | Krepling Liam J.E Gerada"
+    },
+    {
+      "video_id": "0-gz1nW_CuE",
+      "title": "I just dropped out of Yale for startup | Martin, Dawson Chen"
+    },
+    {
+      "video_id": "JiSjMKptCKY",
+      "title": "10K Users from Product Launch Day 1 | TomoCredit Kristy Kim"
+    },
+    {
+      "video_id": "UWUjA-7YFao",
+      "title": "Life Advice from an Investor of 7 Unicorn Startups | Korelya Capital, Fleur Pellerin | Deal Makers"
+    },
+    {
+      "video_id": "1Rf-WLBusgI",
+      "title": "Sam Altman's plans to prove humanness in the age of AI | Worldcoin Tiago Sada"
+    },
+    {
+      "video_id": "8SOtQwSf7A8",
+      "title": "How I Built A $1.4B Software Giant Called AmplitudeㅣSpenser Skates, Amplitude"
+    },
+    {
+      "video_id": "nLA90pa-34A",
+      "title": "Advice from investor who backed 40 Unicorns l Elad Gil"
+    },
+    {
+      "video_id": "TDBXoIiYFdQ",
+      "title": "How To Validate PMF EffectivelyㅣSean Ellis, Hacking Growth"
+    },
+    {
+      "video_id": "-ON__S5haQ8",
+      "title": "How can PR be a game-changer for early-stage startups? | Six Eastern Emilie Gerber"
+    },
+    {
+      "video_id": "TlUZrm2jlCw",
+      "title": "How our AI Startup Grew 60x After a Pivot | Raza Habib, Jordan Burgess of Humanloop"
+    },
+    {
+      "video_id": "au9ZSBgqRMc",
+      "title": "Startup Manages The 7th Largest Pension in the World | Endowus"
+    },
+    {
+      "video_id": "vDu2cWor3S4",
+      "title": "Secrets of an AI Chatbot Loved by 200+ Enterprises | Kata.ai Irzan Raditya"
+    },
+    {
+      "video_id": "h_aGO5CVZh8",
+      "title": "Sold my product to 40,000 companies. This is HowㅣMatt Martin Clockwise (2/2)"
+    },
+    {
+      "video_id": "Z1sl-XrsAOo",
+      "title": "Why Entrepreneurs Must Trust Their IntuitionㅣRewind AI, Optimizely, Dan Siroker"
+    },
+    {
+      "video_id": "6-y4oLTlPWM",
+      "title": "Best Leadership Advice from a CEO at a $1B Company | Sift, Kris Nagel (2/2)"
+    },
+    {
+      "video_id": "UU4GnqmLpSQ",
+      "title": "Best Sales Advice from a CEO at a $1B Company | Sift, Kris Nagel (1/2)"
+    },
+    {
+      "video_id": "6Bso2GYLoME",
+      "title": "How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin"
+    },
+    {
+      "video_id": "99qc199Y9vQ",
+      "title": "How to Build a Profitable Product from Day 1 | Smith.ai Aaron Lee"
+    },
+    {
+      "video_id": "YRQfzph-Yqg",
+      "title": "How I Built A $250M App That Ranked #1 in 150 CountriesㅣCambly, Sameer Shariff"
+    },
+    {
+      "video_id": "PjaKQgV9PRk",
+      "title": "This is How Top Engineers Manage Their TimeㅣClockwise Matt Martin (1/2)"
+    },
+    {
+      "video_id": "rca-WQummO4",
+      "title": "Cigarettes will disappear in 10 yearsㅣPhilip Morris International Jacek Olczak"
+    },
+    {
+      "video_id": "K0s86-6kqvs",
+      "title": "$100M Food Truck Brand After Betrayal by Cofounder | CUPBOP (3/3)"
+    },
+    {
+      "video_id": "xxeUVwjUm5M",
+      "title": "From a Graduate Who Left Google to Stripe's 28th Employee | Linear Cristina Cordova"
+    },
+    {
+      "video_id": "CjTTSa33axg",
+      "title": "5 Key Advice on Starting an AI Business | Syncly Joseph Lee"
+    },
+    {
+      "video_id": "_1oX3Sas8u8",
+      "title": "How I Built Silicon Valley's Most Beloved Coffee Brand | Philz Coffee, Jacob Jaber"
+    },
+    {
+      "video_id": "ofh5VdqQvwI",
+      "title": "War survivor builds a 400% growing AI startup | Ntropy Naré Vardanyan"
+    },
+    {
+      "video_id": "KYho32uO1dc",
+      "title": "From Teenage Blogger to $250M Startup FounderㅣCircle Sid Yadav"
+    },
+    {
+      "video_id": "FZieYYj0ImE",
+      "title": "$8B in Just 2 Years, The World's Fastest-Growing Startup | Perplexity AI, Aravind Srinivas"
+    },
+    {
+      "video_id": "RqIqlmb8BYM",
+      "title": "Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho"
+    },
+    {
+      "video_id": "OQdvVgLZHd0",
+      "title": "How to be successful with EVERY IDEA you have l Martin Warner"
+    },
+    {
+      "video_id": "4Je1TweGDfY",
+      "title": "What Are Superconductors? Find Out in Just 10 Min | Yale Yu He"
+    },
+    {
+      "video_id": "2JmfDKOyQcI",
+      "title": "Advice from the Top 1% of Software Engineer | Exaltitude Jean Lee"
+    },
+    {
+      "video_id": "KWCFX76bkO4",
+      "title": "When $100M Business Ownership Ends a Friendship | CUPBOP EP.2"
+    },
+    {
+      "video_id": "8-Vhkq_oPpk",
+      "title": "A Story that Unlocks Your Limit to GrowthㅣAditya Agarwal"
+    },
+    {
+      "video_id": "WeNnc3_xn2A",
+      "title": "Behind Figma's IPO: The Principles of Building Products People Love | Yuhki Yamashita, Figma CPO"
+    },
+    {
+      "video_id": "YN7DT39f_Ak",
+      "title": "College Dropout Builds $30M Startup While Fighting Cancer | Jenni AI David Park"
+    },
+    {
+      "video_id": "H4VpVMKx19k",
+      "title": "A Story of a Mentor of Outstanding PMs in Silicon Valley Today | Mick Johnson Director's Cut"
+    },
+    {
+      "video_id": "JpYA7WXkHyI",
+      "title": "How to be a creative thinker | Carnegie Mellon University Po-Shen Loh"
+    },
+    {
+      "video_id": "_vizUm1F2Jo",
+      "title": "Behind What Seems Like an Overnight Success | Runway Siqi Chen"
+    },
+    {
+      "video_id": "VFmBNFy3z8Y",
+      "title": "Lessons learned from stepping down as a CEO l Bob Tinker & TaeHea Nahm EP 03"
+    },
+    {
+      "video_id": "B8FIp_VL1t8",
+      "title": "Stop Overthinking and Just Start Now | Vesto, Benjamin Döpfner"
+    },
+    {
+      "video_id": "WosrxTp3ifA",
+      "title": "Negotiation is Problem Solving, explained by 20 years experienced expert | Wharton Business School"
+    },
+    {
+      "video_id": "v6DWGV3_n6k",
+      "title": "Shark Tank-featured food truck builds $100M brand beloved by Americans | CUPBOP EP.1"
+    },
+    {
+      "video_id": "3RYUA-ccgbw",
+      "title": "$400M-Worth Issue Tracker with No Marketing | Linear Karri Saarinen"
+    },
+    {
+      "video_id": "dXeqodByjT4",
+      "title": "From Zero to $500 Million: The GlossGenius Story | Danielle Cohen-Shohet"
+    },
+    {
+      "video_id": "yB2IenqIRL8",
+      "title": "A High School Dropout Builds $1B Startup at 23 | Vise Samir Vasavada"
+    },
+    {
+      "video_id": "2FbCdBFnZbM",
+      "title": "Loom's Road to $975 Million Exit by Atlassian - Shahed Khan"
+    },
+    {
+      "video_id": "b2AR3WHOlGI",
+      "title": "How 2 Engineers Are Dominating the Cannabis Industry l Nabis Jun and Vince"
+    },
+    {
+      "video_id": "HDsFyHQtLHI",
+      "title": "My 2 Startups didn't work, But here's what I've become | Meta Mick Johnson (2/2)"
+    },
+    {
+      "video_id": "rB7haeRWib4",
+      "title": "4 Lessons that resulted in a 10x growth for 100+ PMs | Meta Mick Johnson (1/2)"
+    },
+    {
+      "video_id": "4D94pqCOKyc",
+      "title": "$270 Million Coffee Empire in Indonesia: The Journey Unveiled - Kopi Kenangan | Edward Tritanata"
+    },
+    {
+      "video_id": "F6kX9yJ89Ac",
+      "title": "The Relationship Between Technology and Business Success | Thales Teixeira"
+    },
+    {
+      "video_id": "KKH5ncDaHyw",
+      "title": "You MUST Watch This Before Tackling Problems | Pinhome Dara & Ahmed #eo #Indonesia #property"
+    },
+    {
+      "video_id": "RSBjP59mLUc",
+      "title": "What I learned about Failure after 26 Years of Research at Harvard |Tom Eisenmann"
+    },
+    {
+      "video_id": "gEAfvdwET3g",
+      "title": "How we Gained 3 Million Users in Just 3 Months! | Gamma CEO Grant Lee & Jon Noronha"
+    },
+    {
+      "video_id": "6gbeuzbsmIQ",
+      "title": "Life Lessons that Sustained Me | Sherie Ng"
+    },
+    {
+      "video_id": "bdWokDQda_Y",
+      "title": "A motel TV-watching college student builds a $1.4B company at 30 | FiscalNote Director's Cut"
+    },
+    {
+      "video_id": "PZ-NZxubqjg",
+      "title": "Essential Business Strategy : Forecasting Future Trends | Vinnie Lauria"
+    },
+    {
+      "video_id": "T7tuUz1SRuE",
+      "title": "An honest story about the hardships and team | Bobobox"
+    },
+    {
+      "video_id": "aOGMymXPgrk",
+      "title": "Why 90% of Startup CEOs Are Failing | John Kim Sendbird"
+    },
+    {
+      "video_id": "37aBMZwTIAY",
+      "title": "Revolutionary Game Changer in the U.S. Healthcare | Grant Gordon"
+    },
+    {
+      "video_id": "5mGMDdT6YrM",
+      "title": "You will be executing immediately in 20 minutes | Blitzscaling Director's Cut"
+    },
+    {
+      "video_id": "FO5XdYrPnJ0",
+      "title": "Human Thoughts vs Speed of InnovationㅣSingularity Group"
+    },
+    {
+      "video_id": "c3w_G0jvtTg",
+      "title": "This 12-minute Video Might Just Change Your LIFE l  Paul Bragiel EP.2"
+    },
+    {
+      "video_id": "EUxlafBZ4G0",
+      "title": "You won't be scared of failures after this videoㅣJoseph Huang, CEO of StartX"
+    },
+    {
+      "video_id": "_z8lsx1FCHo",
+      "title": "How to build a $100M revenue business l Bob Tinker & Tae Hea Nahm EP 02"
+    },
+    {
+      "video_id": "x7dP3CRah40",
+      "title": "This insane growth strategy was adopted by Sam Altman for OpenAI | Blitzscaling (2/2)"
+    },
+    {
+      "video_id": "QDkqI_jrsxo",
+      "title": "OpenAI's Secrets to Growth in 12 Minutes | Blitzscaling (1/2)"
+    },
+    {
+      "video_id": "NKFZTuk_ylY",
+      "title": "Mistakes startups make in business plansㅣBob Tinker & Tae Hea Nahm EP 01"
+    },
+    {
+      "video_id": "9FKwfgMIeS0",
+      "title": "Stop watching this video and Go build things l Paul Bragiel, Golden Gate Ventures"
+    },
+    {
+      "video_id": "YiSeTeveTf8",
+      "title": "Why Stanford lecturer start investing in Education | Sergio Monsalve"
+    },
+    {
+      "video_id": "e3e_fNwoN8k",
+      "title": "The most valuable lesson from our defeat to Tiktok | Jungsuk Jay Lee"
+    },
+    {
+      "video_id": "8Is9oJzfV6I",
+      "title": "The Creative Methods I learned at the Best Animation Studio | We Bare Bears Daniel Chong"
+    },
+    {
+      "video_id": "yrp5ETa0kDo",
+      "title": "How EO met these AMAZING FOUNDERS | QnA / Announcement"
+    },
+    {
+      "video_id": "-39Yq-67MvU",
+      "title": "How the world largest luxury group became our customer within 3 months | MarqVision"
+    },
+    {
+      "video_id": "x57DYc-k81w",
+      "title": "We helped 100m job applicants across the world | Fountain"
+    },
+    {
+      "video_id": "LJgv-8oZ1CU",
+      "title": "Unconventional Story of an Entrepreneur | Manu Kumar of K9 Ventures"
+    },
+    {
+      "video_id": "jK6lVwp0HJE",
+      "title": "When AI can do inspiring things except eliminate jobs | Whisper"
+    },
+    {
+      "video_id": "PL9mBq2WStw",
+      "title": "In a Failed Business, Until Building a Notion and Figma-focused Startup | Partly"
+    },
+    {
+      "video_id": "oiWwyt3HVT0",
+      "title": "How I Built Three Billion-dollar CompaniesㅣFrank Slootman, CEO at SnowFlake"
+    },
+    {
+      "video_id": "BYaP3SiofyU",
+      "title": "How Leadership Helped Me Increase My Value 200 Times | Jina Kim (2/2)"
+    },
+    {
+      "video_id": "ZSWIoJTUfn4",
+      "title": "What It Takes to Be the 4th Employee of a Unicorn Startup | Jina Kim (1/2)"
+    },
+    {
+      "video_id": "AP0cxygwoDU",
+      "title": "The Fastest Productivity Tool to Reach 1M Users | Tome"
+    },
+    {
+      "video_id": "0xfBCb9QS6U",
+      "title": "Lessons from investing in 1000 startupsㅣSaeed Amidi & Alireza Masrour at Plug and Play"
+    },
+    {
+      "video_id": "ZA9K0JMrbWg",
+      "title": "Survival Strategies in the Era of AI Taught by Stanford | Stanford AIRE Director"
+    },
+    {
+      "video_id": "dRJVKoYhisM",
+      "title": "The Not-so-pretty Story of Growing a CompanyㅣIYUNO CEO David Lee"
+    },
+    {
+      "video_id": "63FWL7KcWrE",
+      "title": "$1Billion Edu Giant backed by OpenAI | Speak"
+    },
+    {
+      "video_id": "FPYl7nIKRbA",
+      "title": "9-Year Hustle to Achieve a Single GoalㅣNotion's Cofounders"
+    },
+    {
+      "video_id": "Owk3EbneBDk",
+      "title": "4 Key Lessons from a 30-Year-Old Unicorn Founder | FiscalNote Tim Hwang (2/2)"
+    },
+    {
+      "video_id": "Y-i5-nhqVzQ",
+      "title": "The Simplest Yet Most Challenging Way to Grow a Startup | FiscalNote Tim Hwang (1/2)"
+    },
+    {
+      "video_id": "xyr9v1laE9s",
+      "title": "Career Advice for Ordinary People ㅣJoshua Zerkel"
+    },
+    {
+      "video_id": "laHrTDQfZpk",
+      "title": "What it takes to raise $5.5M from nothingㅣBusiness Canvas team documentary"
+    },
+    {
+      "video_id": "HaLZcaDfaVY",
+      "title": "What I Learned From In Hyper-growing Startups | Troy Malone"
+    },
+    {
+      "video_id": "PgdsItdmtMk",
+      "title": "Advice for the future entrepreneurs l Saeju Jeong (2/2)"
+    },
+    {
+      "video_id": "ZHRLOnGdKIA",
+      "title": "He didn't make money for 8 years | Saeju Jeong (1/2)"
+    },
+    {
+      "video_id": "dKKo2_rblF4",
+      "title": "An Associate Dean of Stanford Was A Bottom Student | Paul Kim"
+    },
+    {
+      "video_id": "FeDnW5wYjwA",
+      "title": "The Fastest Growing SaaS Startup in History | deel"
+    },
+    {
+      "video_id": "fZT3_O2Uazk",
+      "title": "Why I Choose Web3 Rather Than Big Tech | Sisun Lee (2/2)"
+    },
+    {
+      "video_id": "lWeiVX7PnEQ",
+      "title": "Things I Learned From 10 Years In Silicon Valley | Sisun Lee (1/2)"
+    },
+    {
+      "video_id": "e-arMLz2qdI",
+      "title": "6 Years Journey From 0 to 60 Million Subscribers | Nas Daily"
+    },
+    {
+      "video_id": "lV61TDHiALo",
+      "title": "Follow this 2-week plan to build a great businessㅣPhil Libin (2/2)"
+    },
+    {
+      "video_id": "XM6NHNxS39E",
+      "title": "How I built 400 million users app EvernoteㅣPhil Libin (1/2)"
+    },
+    {
+      "video_id": "llevwQZ3VtA",
+      "title": "A Learning App Tutors 10 Million Children Worldwide | Enuma"
+    },
+    {
+      "video_id": "GP5jXj0O4OM",
+      "title": "Best startup lessons from Y CombinatorㅣMichael Seibel"
+    },
+    {
+      "video_id": "aHGIVzYqScs",
+      "title": "How a World Cup soccer player built a $600 million shoe brand | Allbirds"
+    },
+    {
+      "video_id": "ivZsEVNe4tM",
+      "title": "We are team EO🙌"
+    }
+  ]
+}

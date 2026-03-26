@@ -1,0 +1,1117 @@
+﻿all Jae
+[Speaker 1]
+Yeah, my name is Jay Min. I'm the co-founder and president at Magic Labs. Yeah.
+Hi, my name is Jay Min. I'm the co-founder and president at Magic Labs. Yeah, Magic is known as the seamless onboarding solution.
+We provide an easy way to log in to a blockchain app. So think of logging in with a very familiar login option like email, phone number, or social login. Also, we provide a easy-to-plug-in wallet infrastructure.
+So think about a complete white label solution that allows, for example, big enterprise like Mattel, Naver, Forbes, et cetera, to be able to add a crypto feature without having to change their existing tech stack. Yeah, before Magic came into the scene, the only people that could use blockchain was crypto enthusiasts or technologists. At the time, I would say using a blockchain kind of felt like trying to assemble IKEA furniture without any instructions given to you.
+You had all these unfamiliar parts, and at every step along the way, you had to figure it out on the fly. It was so confusing that most people had given up even before finishing the setup. And for example, in crypto, you have to first download a browser extension, and then you have to write down the seed phrase and also figure out how to store that safely.
+Also, you have to read and sign these unreadable blockchain messages without really knowing what you're agreeing to. On top of that, there are gas fees, and there are more and more blockchain jargon, so it was definitely overwhelming. And where Magic came in was we came up with a very easy-to-onboard, very easy, we came up with a very simplified onboarding solution, logging with email, phone number, and social login.
+So pretty much what we did was we took blockchain that was powerful, but yet it was inaccessible, and we made it feel familiar, seamless, and secure.
+[Speaker 2]
+Wow, you must have practiced a lot.
+[Speaker 1]
+Those ones I did.
+[Speaker 2]
+Yeah. So then, back in 2018, the- Yeah, in 2018, the crypto market had completely taken a downturn.
+[Speaker 1]
+I remember crypto was being called a scam from media headlines, and VCs had pulled back, and the ICO bubble had burst. So definitely the people that are left over in the space were the true believers of crypto and the true builders of crypto, and we're definitely one of them. For us, even though the market had completely taken a downturn, we saw an opportunity to solve a real fundamental problem, and that was the broken user experience.
+So Sean and myself, we weren't discouraged at all. That's something that we truly believed in that needed to be solved, and at the same time, for me at Apple, I learned that user experience isn't just about user experience, it's actually everything. And someone in the space had to jump in and really start from backwards, as in start from the user experience and back towards a blockchain technology, and we felt like we're the right people to be able to tackle that.
+So we jumped on it, found the Magic Labs, and pursued our vision of making blockchain accessible.
+[Speaker 2]
+This is a follow-up question. What was the reaction like to your family and friends when you said you were starting a company, and did you have a better day or something, sub-15 or a good day?
+[Speaker 1]
+Yeah, at the time, in 2018, people had already written crypto off, and in fact, not many people actually knew about crypto, and when they heard crypto, they thought it was more like a gambling, like, yeah, they thought it was more about gambling. And when I told them I'm jumping into crypto, they asked me about why, and I jumped more into the, I dove more into technology, and I told them that I've always been interested in the intersection of finance and technology, and blockchain was exactly that. And for me, I was not really scared at all when people had those doubts, because I really believed in it, and for me, I started as an engineer.
+I went to all these great, I worked at all these great companies, like Apple, Amazon, and Uber, but the true passion that I found was when I learned about Ethereum, and also, Ethereum was created by Vitalik in Waterloo, and I'm from Waterloo as well, Sean is also from Waterloo, and that really caught our interest, and yeah, I just knew that that's the space that I wanted to be in, and I see myself actually retiring in this space as well.
+There's nothing that interests me outside of crypto, so with all these, I didn't hear that many negative comments about the direction that I was taking, but even with that, that did not move a needle at all for me, so I jumped in, and pretty much here I am.
+[Speaker 4]
+Thank you.
+[Speaker 2]
+Can you just leave?
+[Speaker 4]
+Yeah.
+[Speaker 2]
+And let's just reconnect.
+[Speaker 4]
+Yeah.
+[Speaker 1]
+Or will you be asking that later, about my experience at Waterloo?
+[Speaker 2]
+Yeah, I'll ask later, once you have your question.
+[Speaker 1]
+Okay, yeah, I'll jump in then.
+[Speaker 2]
+So, before the one on the screen, so, if so, I would love to hear from you.
+[Speaker 1]
+Yeah. To be honest, as a teenager, I did not exactly know what I wanted to do. That's why I tried to excel in pretty much every subject that was there in school, but a couple things that really drew me was computer science, mathematics, and physics, and biology as well, and within that, there were obviously multiple angles that I could go, whether I go try to become a doctor, or become a engineer, or become more like a financial analyst, and for me, I was drawn to finance because I always liked how people speculate the market, and I really loved hearing stories and reading books about economy, and when it came to technology, when I was introduced to computer when I was around nine years old, it was really fascinating because there was this screen, and just by clicking buttons, it was able to really pop up these very interesting visuals, and at the same time, when I just click one button, it's an action that performs another action, and on, and on, and on, and I was really interested to learn how that was working under the hood, and how I was interested in the intersection of finance and technology was that when I started using mobile apps, like Facebook or even Uber, there was always this element of payments, and this element of UX that made it really easy to graduate from the old, for example, going back to Uber, they made the old industry, taxi, become actually cool and interesting, so in a similar fashion, I felt like with technology and finance married, that route could really be opened up, so essentially, I wanted to ride something that was really looking forward to the future, and then I enjoyed mathematics, and I enjoyed building, so that's why I was drawn to both of them.
+[Speaker 2]
+Who's founders, how much early did you meet Sean?
+[Speaker 1]
+Yeah, so Sean and I go way back. We actually both graduated in the same program called software engineering from Waterloo. Sean graduated two years ahead of me, and we first both went off in our own direction.
+Sean, he created his own startup called Kitematic, which got sold to Docker Desktop, and now his product is known as Docker Desktop. Sorry, his company, he sold his startup, Kitematic, to Docker, and his product is now known as Docker Desktop, and for me, I joined Uber early in 2015 when the team was still very small, and I got to ride through the hyper growth phase. Both of us dabbled into Ethereum.
+Actually, should I talk about that, or? Should I talk about that, too? Okay, so both of us dabbled into Ethereum around 2016 or 2017, and for me, I heard about Ethereum when I was just about graduating university, and I heard this guy named Vitalik, and I heard this word Ethereum, and he's creating this new blockchain called Ethereum, and at the time, I only knew about Bitcoin, so it really got me interested in looking more into the technology, and what I liked about that was, for me, Bitcoin was more about just the value transfer, and at the time, it was really fast.
+Now, it's more considered as a digital gold, but with Ethereum, it was adding logic into the blockchain, so imagine there's no middleman, and you can pretty much peer-to-peer, not just transfer value, but actually add logic to it, so any form of contract, whether that's agreeing a contract on real estate, when you sell assets tied to, let's say, a prediction market, that all can be facilitated through Ethereum, so I got interested into that, and then for Sean, I remember he told me that he was trying out a couple projects on Ethereum, and he noticed that it was really hard to onboard new users, and for me, when I tried out Ethereum, I saw the potential of technology, but also, I noticed the broken user experience as well, and funnily enough, we actually got to know that we both had seen the same pain point when we actually reconnected in person, so that was in 2018. We met at an arcade bar in San Francisco called Coin Op, and it started as casual drinks, and then it became more like a five-hour deep conversation, and we kept circling back to one question, which was, why hasn't anyone tackled in simplifying onboarding in blockchain, and why hasn't anyone tried building a very easy login with email, and that's the moment when it clicked.
+We felt like that was the fundamental problem, I mean, that was the solution to the fundamental problem of blockchain with the broken user experience, so we built the conviction there, and we decided to team up and start Magic Labs.
+[Speaker 2]
+Really quick, you never explicitly said Vitalik, just so we have it in this way.
+[Speaker 1]
+Vitalik went to Waterloo.
+[Speaker 2]
+I just feel like, when I was at Waterloo, I heard it like, it used to be like that, or however you want to say it, but just to get on that, can you be more clear?
+[Speaker 1]
+When I was graduating from Waterloo, I heard there was a student named Vitalik who created this blockchain called Ethereum.
+[Speaker 4]
+Yeah?
+[Speaker 2]
+Yeah. Why do you think no one was solving that problem at the time?
+[Speaker 1]
+Yeah. Yeah. That time, most people in the space were developers like myself, and people were mostly interested in the very inner workings of the blockchain, and before thinking about the user experience, people wanted to first tackle use cases, so I remember there were two projects, like MakerDAO, which was focused on creating the stable coin that can be, that stable coin that is backed by Ethereum as a collateral, and there was another project called Augur, which was focused on prediction markets, so you can think of like DraftKings, or like Fantasy Football type of app that can be built on Ethereum, so it was more about finding the use cases of how Ethereum can be used, before even thinking about how to onboard the new users, and for us, I guess, Sean and myself, I come from the UX background, Sean is a designer by background as well, I worked at Apple, I saw the obsession with detail, like from leaders like Steve Jobs, Johnny Ive, and Tim Cook, and at Apple, everyone deeply cared about really making it right, and they always thought from UX principles, and I think that really carried over to how I thought about product, and Sean, being a designer by background, he was also very, he was also very sophisticated on how he thought about making all that pixel look great, so once we really teamed up and started thinking together, we felt like that was a clear problem that needed to be solved but also really excited, it's something that drew us more than thinking about building a custom app on top of Ethereum.
+[Speaker 2]
+So, what the product was like, and how users reacted to that?
+[Speaker 1]
+Yeah, in the early days, first thing, as I said, we wanted to tackle was introducing a familiar login, so we came up with the login with email mechanism, and to support that, we built this key management system, what it really means is a lockbox that stores these crypto assets, and we built it in a way that only the user has access and control to the lockbox, so this whole lockbox foundation is the foundation that was able to support logins like email, phone number, and social logins, and what was the other question after that?
+[Speaker 2]
+What was the product was like, and how users reacted to that?
+[Speaker 4]
+Yeah.
+[Speaker 2]
+Yeah. Was there a particular moment when finding these kind of things?
+[Speaker 1]
+Yeah, in 2018, when we built out that, when we built out a seamless login solution, people actually felt a bit skeptical around it because it was too simple, like it sounded too simple to be secure. At the time, still MetaMask and seed phrases were the main ways to login, and people had already internalized friction. Yeah, yeah, they already had internalized friction, and they thought the complexity was the cost of using blockchain, and the moment where we realized this actually has, that the product that we've built actually has a fit within this market was when we onboarded this customer called Set Protocol.
+It's kind of like a eToro-like app for crypto investing, and they told us when they implemented our solution and onboarded their users, their users were able to be onboarded within seconds, not minutes or hours. So that's the moment when we realized we didn't just reduce friction for new user signups, we actually unlocked a new market. So there was the crypto-savvy user market, and there was a non-crypto-savvy user market, and that's the market that we opened up.
+So from then on, we kept on, yeah, from then on, we continued strengthening our conviction and making a very easy-to-use solution, and now we have over 50 million wallets that are in the magic ecosystem. Yeah, the hardest part in convincing early partners was, there are a couple things. One was trust.
+So at the time, when we had almost zero customers, we had to really win with product and really by showing how much we were there to support. So this meant real-time support, and also Sean and I, myself, Sean and myself, we invested in in-person relationships. So we, for example, if we required travel and meeting them in person, we did that to help educate on exactly what we're building, but also convince them that adding a very easy login solution is a way to open a new market.
+What was the other question? Yeah.
+[Speaker 2]
+Oh, yeah. So how did you do that?
+[Speaker 1]
+Yeah, and then the other hard part about convincing customers were that they were used to, you know, the old logins, like MetaMask and zPhrases, and they were very technical. So for them, they didn't really see how hard, they didn't really understand how hard it was to go about setting up a wallet and using an app. And once we show them, you can literally click on one button in the login, that really caught their interest.
+And once they added our solution and actually tried onboarding customers, I mean, tried onboarding users, they saw firsthand how easy it was for them to onboard. Can I drink water a bit? I'm a little thirsty.
+Is that April? Hey! What brings you to New York?
+Oh, nice. Thank you. Okay, thank you.
+Here. All right.
+[Speaker 2]
+It seems like trust is absolutely essential for a product like this. Every founder I interviewed, from your experience, what have you learned about very good trust advice for?
+[Speaker 1]
+Yeah, I think there are standard answers that probably founders have already mentioned. For us, especially working in the crypto market, it was really about showing our history of resilience. We've been around for more than seven years now, and we've been fully battle-tested, and we've gone through multiple bear markets.
+And just having survived those tough times, people actually recognize that, and they value that. And that helped with building our brand as more like a trust and UX and security-focused company. But now, getting into details on how to actually build a trust, I would say from zero to 10 customers, it's really important to treat them like VVIP customers.
+So whenever they need help, whenever something goes wrong, whenever they have new feature requests, whenever they have ideas that they wanna bounce off ideas with, you really have to be there. And it really has to be founder-led, because really, the founders truly care about not only your product, but also the growth and the customers. And if the founder's not there to support, that actually doesn't really instill trust.
+So I would say that's one. The other one is just the product has to just work. If there's even some friction when it comes to integrating the product, that, they always get approached by many different types of companies.
+For example, there's Magic, but there are also other competitors as well. So you have to really show with product. And what I mean by that is, when it comes to developing SDK, like Software Development Kit, making it really easy to integrate and then easy to understand, and having it flexible enough so that developers can not only use the product for one use case, they have the flexibility to expand their use cases without having to change the integration, right?
+So stuff like that, they compound over time. And I think that's what trust is. It's not like you can just win trust by having one meeting, even though you wow them.
+It's really about investing time and also consistently showing that you are delivering value with high quality. And over time, only then you get to build trust. So I would say it's, to summarize, consistent action over time, and only then the trust will be born.
+Norris. Do you know why?
+[Speaker 2]
+I don't know. What was the market and investor sentiment?
+[Speaker 1]
+Yeah, the investor sentiment for the, investment sentiment in the crypto market was very cautious, even skeptical. Understandably so in 2018, because the ICO boom had just burst and a lot of builders had left and there were no breakout crypto apps yet. But one thing that a couple investors saw was the potential of the blockchain technology, but at the same time, they saw that if blockchain were to evolve, there needed to be a stable infrastructure.
+And one thing that they definitely paid attention to was onboarding. So that's where Sean and I came into the picture. We pitched them on how we saw our vision of enabling blockchain to be accessible play out in the future.
+At the time, there are not many apps, but what we sold them on was that at the time only maybe 0.00x percent of users were actually using blockchain. But through our solution, we can open it up so that almost 100%, if not 100% of the world can come in and use a blockchain. So with that, investors doubled down on myself and Sean and we raised multiple rounds of funding and we were able to continue pursuing our vision.
+No worries.
+[Speaker 2]
+Before we move on to your career journey, I'd love to briefly revisit something you mentioned on your show. You emphasized the importance of consistency, delivering high-summer, right? Yeah.
+Consistency and what drives you to keep that bar so high?
+[Speaker 1]
+Yeah, I think it really comes down to customer obsession. And this is one thing I learned at Apple, right? Every design and every time, every step of building and shipping, there was just so much attention.
+There was attention to detail that was put into it. But more importantly, people just really cared about the user experience and their customers. It's more like when they're feeling the pain, you're feeling more pain yourself.
+So how do you react to that? You go about solving, right? So for example, with us, I was pretty much always on call.
+So whenever there were questions, either through Slack chats or emails or even gave them my phone numbers, et cetera, I just told them I'm always available and they can call me when things go wrong or they have questions. And I actually like doing that because I really want to support them and I want to see them succeed because that's how we succeed, right? So yeah, that's pretty much how we went about it.
+[Speaker 2]
+Thank you. Career training. You switched from mechanics to software engineering.
+So what internship experience made you think this is the right path?
+[Speaker 1]
+Yeah, so when I was applying to Waterloo, I did not exactly know what I wanted to do. I was always interested in the intersection of technology and finance. So I wanted to keep my options open.
+And one hard skill that I recognized and valued was the ability to build and ship. And for me, that guided me towards engineering. And within engineering, I wanted to be exposed to multiple disciplines.
+So I joined mechatronics, which allowed me to learn about software, hardware, electrical, like chemistry and physics all combined. But one internship that was like the turning point for me in making the decision to switch to software engineering was when I interned at Xtreme Labs and now they got acquired by Pivotal Labs. And there I got the opportunity to build real apps for this quite large entertainment company.
+And that's where I realized that I really enjoyed coding. And more importantly, I felt that impact of software. It was during the time when there was a mobile boom with the mobile ecosystems like iOS and Android.
+And when I was looking at mechatronics from hardware perspective, of course, building robots is really cool, but I felt like the awareness and the impact was not there at the time. I think now people are seeing that robots is the future and it's definitely gotten a lot more, we've definitely seen a lot more innovation on it. But at the time for me, software was like the way to get so much awareness.
+It's kind of like Facebook, Uber, Airbnb, like they built their mobile apps and that just unlocked so much access for them, right? So with that and myself really enjoying coding, it was a really easy decision for me to switch to software engineering.
+[Speaker 2]
+Yeah.
+[Speaker 1]
+Sorry, what was the first question? Did I do it at Apple? Yeah, yeah, yeah, yeah.
+So at Apple, I worked on a couple of things. One was integrating Apple Maps into Siri. So I was given this huge set of geolocation data and I was tasked with training the Siri model so that it can better understand places types of places.
+So that involved like Siri trying to understand if this place is a theater or like a mall or like a park. So that's one thing I worked on. The other one was directly working on the tokenization pipeline.
+So that involved breaking down sentences into smaller units so that Siri model can easily ingest and then detect what type of grammar it should be and also detect exactly what the user intent was. So that's really about understanding what user is trying to say, right? So for example, on Siri, you say, what's the nearest K barbecue restaurant that I can look for?
+And it detects that the place is restaurant and then it does look for your location to see what's the nearest. And then they look at Apple Maps to see what are the options out there that you can detect. So I was pretty much on the team that helped with enabling all of that.
+And when it came to, was it user experience or?
+[Speaker 2]
+The biggest lesson of your user experience in there, but before the question, what landscape looked like at the time and what trends were taking off and what's the general atmosphere in there?
+[Speaker 1]
+Yeah, that time. So for me, I've always been an Apple fanboy. I used all Apple products like iPhone, iPad, like iPod and MacBook and all that.
+So it was a dream job for me when I joined Apple. And then, oh, during that time, mobile app ecosystem was all the craze. So people were all interested in learning about Xcode and that's like the iOS framework to build a mobile app on top of Apple ecosystem.
+And I mean, there was Android as well. But also, that's the time when I think Apple started thinking about introducing a more holistic ecosystem where like Siri and iPhone and MacBook and Apple Watch, they all work seamlessly together. And then big corporations like them wanted to start more value in that way.
+And yeah, that's how I remember that space at the time. Yeah, oh, one more thing is, when I joined Apple, that's the time when Apple Watch was starting to be worked on. So before that, there were not wearables that had software and yeah, there were not wearables at the time.
+And that's the time when Apple started looking into how they can contribute on the health side from technology and they introduced wearable with Apple Watch. Yeah, that's how I remember.
+[Speaker 2]
+Yeah. Yeah.
+[Speaker 1]
+Siri, AI. Yeah, I remember that one. Got it.
+Can I have water again? Thanks. At AI?
+[Speaker 2]
+Yeah, I forget what the context was.
+[Speaker 1]
+Oh, then I'll read you the question.
+[Speaker 2]
+Okay, and then you said in 2013, 2014, AI voice recognition was still in early stages and that you worked on that with Siri.
+[Speaker 1]
+Oh, yeah, yeah, yeah.
+[Speaker 2]
+Because you specifically were talking about AI.
+[Speaker 1]
+Yeah, that time was like more command-based than like dialogue, yeah, yeah. Okay.
+[Speaker 2]
+Yeah. Yeah, Christian, so what was the AI voice recognition?
+[Speaker 1]
+Yeah, so in 2013 and 2014 when I was there, AI voice recognition was popular, but I remember that it was more command-based. So it wasn't actually able to have a dialogue like what you can do with chat GPT and other large language models today. But definitely there were people that really enjoyed using Apple Siri's product and yeah.
+[Speaker 2]
+Any lessons from Apple's internal culture or competitive environment?
+[Speaker 1]
+Yeah, so a big lesson that I learned at Apple while I was there was the obsession with detail and especially it being spread through the leaders like Steve Jobs, Tim Cook, and Johnny Ive. Couple things that I noticed was there was like a great sense of ownership and craftsmanship. Everyone deeply cared about making it right and also when it came to design, building, and shipping, there was so much thought put into it.
+And for me, like that level of precision that I learned really guided how I look at products today, how I look at products.
+[Speaker 2]
+What was your biggest lesson of your user experience in there and what was your lesson?
+[Speaker 1]
+Yeah, biggest lesson for me was that I thought I cared a lot about UX, user experience, and I still think I was on the upper part of the group if it were to be ranked, but I remember there was this meeting where we spent a couple hours really thinking about this couple steps that we could optimize to improve user experience and I would have thought that in other companies or even myself, just personally, that could have been just like a 30 minute meeting and that's the time that I realized, wow, like Apple, not just the leaders, but everyone really cares about it and yeah.
+[Speaker 2]
+As a MacBook fanboy myself, I've always felt how obsessed the company is with user experience.
+[Speaker 4]
+Yeah.
+[Speaker 2]
+Yeah. So from your time there at Apple, so do you have any personal stories or example that show just how far that obsession goes internally and how did that attention to detail influence your own product philosophy later on?
+[Speaker 1]
+Yeah. Let me see how I can walk you through that. I think one example is when it came to collaboration, in a big corporation like Apple, not just Apple, in other big corporations, it's really hard to collaborate cross-functionally and there's also a lot of people as well, so you're given certain tasks or certain responsibilities and only if you do that right, then you've done your job, right?
+But one thing that I noticed at Apple was they spent a lot of time when it came to cross-functional collaboration and when it came to connecting all the pieces, for example, let's say Apple Watch, we had to make sure that Siri worked under Apple Watch, but within Apple Watch, there had to be another ecosystem of apps they need to support and it had to work like how it was working on iPhone or iPad and for them it was very important to offer more like a unified experience, so when you try out a new product or a new wearable or new hardware, it doesn't feel different than the other products that you've been using and I think that was really only possible because of course there was like that attention to detail, but how much time and effort they spent on cross-functional collaboration and really educating each other so that you're not only tasked in your own silo, you have to really understand how other teams were working and how they built their product to be able to make sure that there was like a seamless connection between all the features and products that Apple had built.
+[Speaker 2]
+Yeah, I imagine there were certain perfectionist, hardy mindset you picked up at Apple, so were there moments during your startup journey where you had to unlearn or let go of some of those and what was the situation and what lesson did you take away from that?
+[Speaker 1]
+Yeah, so one thing I learned about my pursuit for perfection was when I would go about implementing it. So at Apple, every task or every idea that we had, we approached it with a perfectionistic mindset. When I started Magic with Sean and all the times we were building along the way, one thing that I realized was perfection takes time and there's no way you can get it right as a small company going from zero to one to come out with a product that's perfect.
+I don't think anyone in the world can do that. And when it came to zero to one, we focused on shipping fast and getting the product out so that we can get user feedback and we focused on really leaning into their feedback but also trusting our intuition of what the next stage of the product can be. So after multiple and multiple iterations, that's when I started to kind of slip in certain parts that we can perfect.
+And also with a lot of user feedback, you see these patterns where it helps you build confidence on investing in certain features to make it very perfect. So my overall lesson is, it's something that should always stay with you but it's very important to find the right time and find the right opportunity to practice that perfection.
+[Speaker 2]
+Yeah. I think that I'm not seeing the speed that startups demand with the need to build trust with customers seems incredibly difficult. So I imagine you constantly challenging, so can you share, was there a particular moment or situation where that period of especially tough?
+[Speaker 1]
+Yeah.
+[Speaker 2]
+What happened and how did you navigate it?
+[Speaker 1]
+Yeah, there are definitely tough times. You can't just purely focus on speed all the time and also you just can't purely focus on security all the time. We always try to find the right balance between speed and speed, which is really about user experience.
+I mean, speed to get user experience and focus on user experience versus security. And how we made decisions were sometimes from our intuition and our own internal discussions and sometimes due to customer's feedback or the technical debt that we had detected and we had to address it. So you can't really be leaned on completely one way all the time.
+And the tough time that we had was first we built a product fully focused on user experience and the backbone for enabling the seamless email login was this key management system, which I talked about the lockbox as an example. And for that we actually built it in a way that gets a little technical. Let me see how I can simplify.
+Okay, so when we built that key management system, we focused on just purely the user experience, but one thing that we had realized was we had given up some advantages or the benefits of security. And within Web3, the core ethos is that you with your wallet, you're the only one that can access and own your wallet. And that is what makes Web3 superior than Web2 because with Web2, people talk about how people don't exactly own their own data.
+For example, like Google, Facebook, these big corporations, although they do have privacy controls implemented, they are still the ones that actually store your personal data. And so this was more like a fundamental question and we wanted to align with the core Web3 ethos and that's where we decided, all right, let's take a step back, let's figure out how, let's spend some time, let's figure out how we can preserve the seamless UX that we have built, but at the same time, let's ensure that we are able to promote Web3 ethos and that's what we truly believed in as well. So I remember we took about a month or two to come up with a new design of key management system and it's patented and that allowed us to keep the same UX, but ensure that it was non-custodial, meaning the user has full access and control of their wallet.
+[Speaker 2]
+Yeah. What made you, what took you there?
+[Speaker 1]
+Yeah, my time at Apple was more about learning what it's like to build a almost perfect product and I was quite strategic about how I went, I was quite strategic in how I went about taking new companies. I wanted to learn what it's like to build a very reliable and secure system. I also wanted to learn what it's like to be in a company that's going through a hyper growth phase.
+So when I joined Amazon, that's where I learned the mindset of, really, that's where I noticed, that's when I learned that Amazon had this culture and mindset of keeping the system up and running 24-7. Reliability wasn't an afterthought, it was baked in from design, it was baked in design from day one. And they had all these comprehensive monitoring and multiple layers of redundancy and they really prioritized ensuring that system was always available and scalable and reliable for their developers.
+And at Amazon, their customers were developers. So I wanted to learn what it's like to not only think about user experience on the end user side, but also think about the developer experience on the developer side. And the learning that I took from that was, when it comes to designing this development, software development kit, it's very important to design it in such a way that it's easy to understand, easy to integrate, and flexible too.
+So that was my learning there at Amazon. And my last one was at Uber. And with Uber, what drew me to Uber was how they were disrupting a old industry.
+It's kind of like blockchain disrupting finance and pretty much all the industries that are out there, which I think will happen eventually. And I went to learn what it was like to go through all these hurdles of regulatory problems, but also people not having seen this new paradigm. And also going through this hyper growth phase.
+I remember at Uber in 2015, they really doubled down and expanding. So it wasn't just North America. There was China, Southeast Asia, Europe, and they grabbed significant market share.
+So there I learned it's really important to recognize momentum and capitalize on it. Because if you don't recognize, momentum can just slip away. It's kind of like a wave.
+You gotta find the right time and right place to ride the wave. It's very similar. So with Magic, yeah, that's the learning that I took away from Uber as well.
+So yeah, so that's how I made my decisions on joining these specific big companies.
+[Speaker 2]
+Yeah. What was the most valuable lesson from your experience?
+[Speaker 1]
+Yeah, it's how much care, how much attention they pay to having the system up and reliable. And the other one was, they had a very model business plan around selling to developers. So they built this cloud infrastructure, and it was quite hot at the time.
+I would say it's pretty hot today still as well. With this cloud infrastructure, it made it really easy for developers to think about just building their core app without having to worry about building their own infrastructure. And they made it easy to integrate.
+Developers didn't have to think about dealing with scalability and reliability. And for us, with Magic, Magic can grow only if developers integrate our SDK. And then our user base can only grow if we help developers succeed in ensuring that they can provide the best user experience for their users.
+So I would say the biggest takeaway from Amazon was, yeah, really learning about the importance of developers and also building a secure and reliable system so that they can just think about building their core app. Yeah.
+[Speaker 2]
+So. Yeah.
+[Speaker 4]
+Thanks. A lot of talking.
+[Speaker 2]
+So after I went to Uber, and what was the first role or project you took on there?
+[Speaker 1]
+Yeah. I was lucky enough to get many opportunities. I was actually on the fence between Snapchat and Uber at the time.
+They're both two of the fastest growing companies. And I remember my friends at Facebook, Google, Apple, et cetera, they all wanted to join Uber or Snapchat. And for me, I chose Uber because I was always interested in how companies like Uber disrupt the old industry.
+And I was curious like what that new version of the transportation industry may look like. And I also heard that a lot of my friend, through my friends that they joined Uber too because they were interested in solving this logistics problem. And it was a new kind of problem that software engineers did not really see at the time.
+So think about going from point A to point B and figuring out what's the most optimized path to get there. And imagine millions of people opening the Uber app. They see a map of, they see a map of drivers that they need to be connected to.
+And figuring out the matching of all these riders and drivers, that was also very interesting to me. But more importantly, I wanted to go to a place where I can learn when it came to hyper growth. And when I joined Uber, it was less than 1,000 people.
+And when I decided to transition from Uber to starting my own company, it was around 25,000 people. So I learned what it was like to scale really fast. I saw the pros and cons.
+And that really has shaped how I now think about, how I've been thinking about building and growing Magic.
+[Speaker 4]
+Yeah.
+[Speaker 2]
+Yeah. Yeah.
+[Speaker 1]
+Yeah, at Uber, it was all about moving really fast. But also, to be honest, working a lot. We had stand-ups early at eight or 9 a.m. And I remember, even past 12 a.m., I look around, everyone was still around. Everyone coding. I was coding till 3 a.m. every day at the time, too. But the only reason that was possible was because everyone understood the why of why, everyone understood the why and what the impact would be if we were able to keep building and continue delivering value, not only to our existing customers, but also when it came to expanding to different global markets.
+And another interesting part was, North America works very differently than Asia and Europe and Southeast Asia, not just how operations work, but also from technology as well. So I remember when we expanded to China, we had to work on, yeah, I had to work on, with a bunch of team members, on how we can make sure the database is completely replicated and separated out between North America and China. And one thing that really kept us on our toes was there were competitors, local competitors that were emerging, and they were moving really fast.
+So it was trying to move really fast, still trying to maintain the bar that we had set. But one thing that I also recognized was, the people that I was working with, they're really smart, and we didn't need to spend many cycles on thinking about the quality, because we had trust in each other and ensuring that the quality bar is always met. It was more about prioritizing and picking the right features to work on.
+But yeah.
+[Speaker 2]
+I'm curious, aligning on the why, of course, were there any leadership or cultural lessons you would pick up at Uber that you found?
+[Speaker 1]
+Right. One thing that I liked about Travis when he was there at Uber was, he had this mindset of, like, just do it. Even with all these hurdles, he did not put much, yeah, he wasn't worried, or he didn't seem to care too much of that.
+He was more like, if we gotta do it, we just gotta do it. So that mentality kinda stuck with me. And of course, it's something that you just can't abuse.
+It's something that you gotta use at the right times. And the way I've used it was, when there's some uncertainty, when there's some questions on how our team may feel about the direction that we're going, you can continue to use logic to debate and try to get to that consensus. But it's also really important for the founders to help drive that with conviction and intuition.
+And I would say the reason why we've been surviving to, I mean, we've survived and we've been thriving to this day for the last seven years was Sean and myself believing in the direction that we're going. But also, yeah, but also just having this mindset of doing mentality. Like, we've pivoted multiple times.
+And through each pivot, it really required us to believe that this is gonna work. And also, we've tried our products that didn't work, but what's really important is learning from that and reacting from it, and how fast you can react from it. And that's the muscle that we have built.
+So I would say that's why we've grown to this size to this day.
+[Speaker 2]
+Thank you. So if we start to look back to the original into the outline, so just to make sure we have a link of what was the most important?
+[Speaker 1]
+Yeah, the biggest lesson I learned at Uber was that when it comes to building payment systems, it's all about reliability and trust. With payment systems, even if there's a small outage, it can really erode user confidence and there could be major downstream issues. Yeah, there could be major downstream issues.
+And I remember it wasn't just about building features. Every time you were building, you had to ensure that the system could always work under high load. So the learning that I took away and implemented at Magic was when we built this wallet infrastructure, wallet is like an identity and payments combined together.
+So we treated this infrastructure as a critical payment system. And reliability and security were always top of mind. So that's something that we ensure that they're non-negotiable when it comes to making feature decisions.
+[Speaker 2]
+Is there any Uber experience?
+[Speaker 4]
+Yeah.
+[Speaker 2]
+How did the experience influence your strategy to grow it?
+[Speaker 1]
+Yeah. I would say we were able to prep for some of it when we saw the momentum. And how we prepped for that was when we started building our wallet infrastructure, we thought about scale as part of design from day one.
+And then when we developed our software development kit, we made it such that it's not only easy to use, but it's flexible enough to, it's flexible and modular enough to take on new use cases. And when that momentum came, when we noticed the momentum, for example, when we started onboarding big enterprises like Mattel, Naver, Forbes, 7-Eleven, Starbucks, and so on, we probably spent, we had 50% of what we need to do already ready because we had to build, we already had built the stack to be reliable and scalable. At the same time, the SDK was easy to use and flexible.
+The other part that we had to, the other gap that we had to fill in was ensuring that our org was set up in such a way that we can support these new growth initiatives. So we, I remember we had one general eng team, one general product team, and I was pretty much jumping here and there. And we divided our teams to be very vertical and use case focused so that we're able to serve these big enterprises, the list that I've just mentioned.
+[Speaker 2]
+Thank you. And we're over for Starbucks, so.
+[Speaker 4]
+Yeah.
+[Speaker 2]
+Again, didn't people try to talk you out of it and what were your thinking back, thinking back?
+[Speaker 1]
+Yeah. People, a lot of people thought crypto was gambling or even a scam. So they were actually surprised that I was jumping into this crypto scene.
+But for me, but at the same time, they questioned whether it's the right move to leave a stable, high paying job at Silicon Valley, like big corporation, and then move on to starting a startup where you would almost have very little salary and just focus on trying to make it work, right? It was an easy decision for me to move on, but also I did not get influenced by any noise because I was young and I felt like I had nothing to lose. And I've always wanted to be an entrepreneur.
+I wanted to be part of zero to one, see and be part of implementing a product from scratch. And I was also excited to go through the process of building an incredible team. So with all that, it was easy for me to make the decision.
+And also if I happened to fail, I knew that I could always come back and then continue my career as a software engineer. And the thing that I was most scared about was actually not trying. I felt like I would regret more if I didn't try than trying it out and then failing.
+So yeah. Yeah.
+[Speaker 2]
+I feel like one of the hardest thing what to do for the founders who are just starting out. So what would you say to help them turn off so many noises or the noise a lot?
+[Speaker 1]
+Is this for founders that haven't started yet or are about?
+[Speaker 2]
+Yeah, starting in or just starting out.
+[Speaker 1]
+Yeah. Yeah, for founders just starting out or about to start, I would say, take more of a bold mindset. In the beginning, not many people will believe in you.
+And it's totally fine if no one believes in you. But what's really important is you leaning into your intuition and how much you believe in yourself and the problem that you're chasing to solve, right? And then you could, what's the right word?
+You could stall. You could stall if you think that what you're doing is what you're doing feels uncertain or you're still like kind of waiting for the perfect time. But honestly, the way to get over it is just taking action and just doing it.
+There's nothing better than just doing it and then you'll make mistakes. But as long as you know how to learn from those mistakes and then continue to keep doing it, I don't think you'll have a problem and you're gonna learn a lot along your journey.
+[Speaker 2]
+This just came to mind. When you first entered this space, did you have other dreams you didn't seem to imagine at the time?
+[Speaker 1]
+Yeah. Should I repeat that question when I answer? Okay, yeah.
+Interestingly, I think it was literally Sean and myself that saw the vision of enabling a seamless way to onboard the masses. At the time, in 2018, even in 2020, I would say a lot of people still thought the main way to onboard users was through metamask and seed phrases. And people had already accepted that you have to go through a complexity to use blockchain.
+And they thought that that was the value of using a blockchain. So when we sold this idea to builders and just people in the space, they were supportive but they were skeptical because it was just too simple. And at the same time, in blockchain, security is definitely top of mind.
+So they questioned if we were able to balance the right level of security and UX. But yeah, we continue to believe in it. And now we have 50 million wallets onboarded and we have these big enterprises using it.
+I don't think anyone would have imagined that a big enterprise like Naver and Mattel would be using crypto technology behind the scenes. And we've enabled a way where people can use crypto without knowing that they're using crypto. And that's the vision that we want to accomplish.
+And yeah, we've definitely done that with our step one. Step two now is obviously with AI. How do we make sure that AI and crypto can work together?
+So that's the next vision that we're chasing.
+[Speaker 2]
+This is a follow-up to the last question. On the way to the pillar of crypto, Jinso Jin actually mentioned, I feel that magic mice just become the next hip hop. Thank you.
+When you first started the company, did you have any specific vision of the future or a role model?
+[Speaker 1]
+Oh, that's a great question. I'll say a couple. For PayPal or Stripe, they started popping up in our mind once we had our first or second version of our product built.
+And once we had seen users and customers starting to use our product. Originally, we felt like we're gonna be more of like Apple or like a big bank or like a revolutionary bank that is thought from technology-first mindset. Yeah, yeah.
+Originally, we, because we had started with user experience all the time and we want to build this product so that anyone can use it. And the first thing that came up was obviously Apple. But would we have imagined that our product would exactly become like Apple?
+No, the mindset and the approach kind of helped us get along like the first zero to one. But in terms of like the best comparison, I would actually think is PayPal. I mean, we got our PayPal ventures backing.
+I would say, I mean, Chong can speak to this more, but I would say PayPal really backed us because they saw potentially an equivalent version of themselves in the crypto world. And yeah, I think there's a lot of similarity in what we are doing, even though we're not like credit card payments, it's more crypto payments. But if you look at it like high level and compare it side by side, I would say we're actually quite similar.
+[Speaker 2]
+And just to build on that, so of course companies like that don't succeed because of just the one factor. But in your view, what do you think has been the single most important factor in managing the success so far and other companies like PayPal or Stripe? I imagine your perspective on this might have changed now compared to when you first started.
+[Speaker 1]
+Yeah, I would say for Magic and especially in the crypto market, it's really been about having this open mindset of allowing yourself to disrupt yourself and also really focusing on survival because crypto market isn't like the other markets. I mean, now it's a lot more mainstream, but before in 2018, like when Sean and I took, I like to call it nuclear crypto market. Literally no one cared and there was just no one in the space, right?
+And we stuck it through. And then in 2020, there was like the digital collectibles. And now people are talking about stable coins.
+So there's always like new toy that eventually develops into an actual use case that a lot of like enterprise want to adopt. We had believed in that in 2018. Once we saw in 2020, we're like, oh, okay, there's a new toy that's popping up, both DeFi and FT.
+And we had a lot of customers in both verticals using us. And now there's stable coins, there's RWAs. And then now people talk about how AI, if it were to be truly autonomous, it needs programmable money and programmable money is crypto.
+So how we were able to get here was ensuring that we survived every stage of the bear market, but also stay convicted and continue to commit to building and just iterating with our users. So I would say that's really how we stand out.
+[Speaker 2]
+I think that's such a great insight. Thank you.
+[Speaker 3]
+Do you think that the audience will know what like NFT is?
+[Speaker 2]
+Or do you feel like that? Yeah, that level is magic. I know a lot of people.
+MagicPool itself was a blockchain infrastructure company. So what's your most important principle when making this?
+[Speaker 1]
+Yeah, the most important principle when it comes to making decisions between tech and UX is finding the right balance. Finding the fine balance between user experience and technology. You can't lean too much into one or the other because then it really defeats the purpose of what we're trying to accomplish, which is seamless onboarding.
+But what's important is that you should be able to build your product in a way that on the surface level, it looks very easy to use, but it's your job to abstract away all the complexities when it comes to supporting with great security and great reliability. For us, we had two constant streams that we maintained. One was very UX focused.
+The other one was security. When they met, that's when the prioritization came in. And what influenced that was obviously one, customer feedback that we definitely value.
+The other one is having that responsibility of protecting users' assets. So if we saw any holes, any potential holes that could make us feel less confident about protecting users' assets, then we would definitely prioritize security features. But in the end, how I see when it comes to having a crypto product, because it's both identity and finance, it's your responsibility to figure out both.
+Yeah, and the way we're, yeah. I think that's, yeah, I think that's it.
+[Speaker 2]
+Yeah. User experience feel more with so many products popping up all the time.
+[Speaker 4]
+Yeah.
+[Speaker 2]
+It feels like the ones that really stick are the ones that keep the users' taste just right. So just right. So like finding a great hidden gem of every spot.
+So yeah. Has your perspective on UX changed at all with the rise of AI, or has everything shifted in how you think about bringing experience now?
+[Speaker 1]
+Yes. AI has definitely influenced how we see user experience today. I would say magic has already solved onboarding with email logins, et cetera.
+But with AI, it gives us the opportunity to solve more than just onboarding. It gives us the opportunity to enable the seamless interactions with blockchains even after onboarding. Today, when users log into apps, they still need to familiarize themselves with the app UI and learn all the features of an app.
+But now with AI, we see an opportunity for app abstraction, which basically means no UI is the best user experience. You see today already, people use ChatGPT and these other chat-based LLMs. It's just purely chat. You just have a dialogue.
+You give commands, you give prompts, and it's able to perform actions on behalf of you. You don't have to go visit all these apps. You don't have to think about managing hundreds of apps.
+It's gonna be all done through one app, right? So with magic, how we see it is we originally started with the mission of onboarding a billion users onto crypto, but now humans will start to have more AI agents. In the future, it'll likely be multiple AI agents that generate all these actions on behalf of you.
+So that's like trillions of wallets that could be a potential for magic. So it's not just about UX that we see a benefit when it comes to AI. We also see a benefit in how we can grow and expand.
+[Speaker 2]
+I think you've touched on a key point. Finalize your experience at voice interface to become more mainstream, and things are happening in terms of how users interact with products in the AI area.
+[Speaker 1]
+Yeah. Today, I think people use voice recognition and typing prompts for separate purposes. I think when it comes to more research-based, you usually go about typing.
+When it comes to more day-to-day activities or simple prompts, people are starting to use voice recognition. But I actually don't see an innovative tech that needs to be done in voice recognition. It's more about just taking the input from your voice and then just breaking it down into words, right?
+And it's like simple units so that the AI can understand. The future that I see is, you already see today with Meta and Ray-Ban, the glass that has the camera and also AI built in. I think we'll move more towards that world where AI will literally be your companion.
+It's not something that, it's not something like an app that you interact with. It's more of like your companion that just knows more about you and starts to learn more about you and really becomes you.
+[Speaker 2]
+Yeah.
+[Speaker 1]
+Yeah, with Fortmatic, there was a thoughtful meaning behind it. It meant, Fort meant fortress and Matic meant automatic protection. It was all about safeguarding users' digital assets.
+But one thing that we learned was, the name wasn't as memorable. People liked our product, but they had a hard time remembering our name. And the other one was that it kind of boxed us to be more of like a security-driven company because it was about protecting real assets.
+So we rebranded to Matic. And what we wanted to do was, we wanted to come up with a name that's like simple, like easy to remember, but also allow us to be more aligned with our vision of making Web3 or blockchain be invisible. And easily accessible.
+What we wanted to accomplish was, using a blockchain should just feel like magic without you knowing anything that needs to happen behind the scenes.
+[Speaker 2]
+Yeah.
+[Speaker 1]
+With big enterprises like Mattel, Naver, et cetera, they were interested in, sorry, is this how they got into crypto or how they used crypto? Because I can talk about Mattel, how they were able to make revenue. That's one thing I can talk about.
+Yeah, that's the reason why they jumped into crypto. Yeah, okay. The reason why big enterprises like Naver and Mattel jumped into the space, let's take Mattel for example.
+They saw a clear revenue opportunity with tokenizing their iconic IP, like Hot Wheels or Barbie, and then being able to sell them as digital collectibles. And with the blockchain technology, it also allowed them to earn fees through royalties, which really means that if the digital collectible were to be resold on secondary markets, all those fees would go back to the creator, which is Mattel. So Mattel was able to generate significant revenue and they were able to clearly see the benefit of having their product built on blockchain.
+And how Magic helped out was we have this flexible wallet infrastructure and usually the enterprise requirement is they wanna keep their tech stack as is because it's a giant tech stack. And they also have existing customers and they have distribution. And all they care about is, I mean, a big thing that they care about is conversion rate.
+So they wanted to make it really easy for their users to continue using their existing app, but also be able to use the crypto features behind the scenes. And how we enabled that was with our full white label wallet infrastructure, we were easily plugged into their system and we let them own the UI and UX end to end. So there were no signs of Magic and that's the use case that really hit with the enterprises.
+[Speaker 3]
+Do you guys need anything? No. We're good, we're good.
+[Speaker 2]
+What was the biggest phase and how did you solve it?
+[Speaker 1]
+Yeah, one to 10 was all about building trust because we were new. No one knew that we would be lasting forever, I mean, lasting for a long time because we're a small startup. And people hadn't known much about what we exactly do.
+So one thing that we did was we went to conferences, like Sean and myself, we went to conferences, we met up with developers and we really tried to get our first one to five and purely focus on supporting them. And only through that we felt like we can ride on this word of mouth and start to see more prospects starting to adopt us. And that involved building real relationships, always being there for real time support.
+And then, again, just having a product that's easy to use and clearly solved a problem that they were looking to solve because they were actually interested in onboarding new types of users and that's where our product came into, that's where our product exactly fit in. When it came to 10 to 100, it was more about how we could manage and, yeah, it was more about how we could manage use cases and a growing number of customers coming in from different verticals. So it was very important for us to have this product built in a way that it was flexible to support multiple use cases.
+And we weren't able to always be there for every one of our customers because we can only scale so much given our team size was very small. So we invested heavily into making our doc very easy to understand and we invested heavily into our self-serve so that developers were able to self-onboard and then be able to launch their product without us always having to be there.
+[Speaker 2]
+What's the biggest difference between versus blockchain customers and?
+[Speaker 1]
+Yeah, for enterprise customers, it required a lot of education and actually, let me take it back. Okay, yeah, for enterprise customers like Naver, Mattel, Forbes, Starbucks, 7-Eleven and many more, they care a lot about preserving their existing user experience and they wanted a solution that was easily pluggable into their existing tech stack and they really wanted to own their UI as well. So they wanted to hide away all signs of magic and then also completely abstract away all complexity of blockchain as well.
+For crypto natives like PolyMarket, WalletConnect, Immutable and et cetera, they already had crypto savvy users and they wanted to unlock new access where the focus was on non-crypto savvy users. So they implemented our email login, phone number login and social login which made it very easy for non-crypto savvy users to just click a button and then log in and they also used our out-of-the-box UI because they were actually comfortable and okay with some of the magic branding being there because we already had established trust and it also had a reliable, yeah, secure brand which they're totally fine with putting up on their page.
+[Speaker 2]
+Recently, you launched Newton Protocol, so what exactly is Newton Protocol and how did you decide to launch this protocol?
+[Speaker 1]
+Yeah, like magic already solved onboarding with crypto and with AI, we see crypto being the main rails for the agent to AI and that's where Newton comes in. So Newton is a trust layer that acts as a policy engine defining and enforcing programmable rules such that users and AI agents can safely and autonomously interact with blockchains. So think of Newton as more like a system on your phone where you can set app permissions.
+So you get to control apps that can access your location. Yeah, access your location and user camera and send notifications, et cetera. So with Newton, you're able to set these permissions and then just trust that AI will be able to safely interact with blockchains on behalf of you.
+Is that the question that I'm answering? Just making sure.
+[Speaker 2]
+And why did you decide to launch this program?
+[Speaker 1]
+Oh, okay. We decided to launch Newton now because we believe that we're already at an inflection point. People already today use ChatGPT daily and it's only a matter of time before AI pretty much takes over all daily activities of what humans do.
+And for that, one barrier today that exists is the trust and humans do recognize that AI is able to simplify their lives a lot, but are they able to trust with their money? Are they able to trust with their identity? How do you make sure that that layer is there to make it comfortable for all of us to be able to freely use AI?
+And it's not here yet, but we see this happening within the next couple of years. And we've always been about innovating and looking forward and building our product in a way that it's ready for the future. So magic is already here for what exists today and Newton is here for what's coming next.
+So that's why we started working on Newton.
+[Speaker 2]
+Seriously, is this really the right path and why are we doing magic and how did you propose?
+[Speaker 1]
+Yeah, there are multiple times that I doubted and Sean doubted as well if we're taking the right path. There was one time when we had only one month of runway and yeah, we did doubt if we were taking the right path was because if we were, then we probably wouldn't have ended up with only one month of runway. And we're pretty much close to running out of money and closing down our startup.
+So that's the time I doubted. Luckily we made out of it, right? The other one is when it was during the COVID crash in 2020 and I remember Ethereum price went down all the way to $100.
+And that's the time when I doubted if we were taking the right path but at the same time if Ethereum was gonna survive. It felt like you're building an app on iOS like an Apple ecosystem and suddenly Apple had to shut down the entire ecosystem and that meant our whole app and business would be taken down as well. So that was definitely scary and it really made me doubt.
+That time, the doubt was really intense.
+[Speaker 2]
+Like, what went through your exact moment basically and?
+[Speaker 1]
+Yeah. Yeah, that time when Sean told me that we had, I mean, I knew that we had little amount of money left but when he told me that we had exactly one month of runway left, I, to be honest, instinctively felt nothing. As in, there's nothing that I could think of in my brain that could make me feel comfortable or feel better.
+But I sat down, I would say probably took a day or two to really process through. But to keep me not distracted from that thought, I continued to, yeah, talk to our customers and partners and I knew that, I mean, they are, I knew that they really enjoyed using our product and they enjoyed being our customer. So that really helped me not be too distracted on the runway problem.
+And at the same time, we felt like it was very important to be transparent with our team. That time we had a team size of probably eight to 10 and they were all, yeah, they're all working very hard, super motivated and really loved working together with them and we let them know that there could be a chance that we may not be able to process payroll for the next month or two. But it's our focus to ensure that we extend our runway.
+Luckily, we were talking to a few investors at the time and I remember Placeholder, they're a very crypto-native, they're an investor that's very crypto-native and they really believed in our patented key management system that we had built and they saw a future where we could extend that to be able to make it easy for developers to onboard e-users. So we luckily survived.
+[Speaker 2]
+All right. Yeah. How did you keep the interest?
+[Speaker 4]
+Yeah.
+[Speaker 2]
+Yeah.
+[Speaker 1]
+At the time, there were actually not many people left in the space, so no one told us to quit. As I said, people had written crypto off. The VCs, a lot of VCs pulled out.
+There were not many builders left in the space. So it was more about just feeling that, it was more about just growing with the community of builders that were left over and were all true believers of crypto. And for myself and Sean, we just felt this great responsibility of needing to deliver the solutions so that at least, even if it's an experiment, it can be tried out on the blockchain and show to other developers, but also show the world that there is this seamless onboarding solution that can be tried out.
+And luckily, it worked out. But even if that hadn't worked out, I don't think Sean and myself would have quit because we just loved working on everything related to crypto and we fundamentally believed in the technology. Yeah.
+At the time, a lot of blockchain startups started closing down, mainly due to runway. Some, even smart founders that I knew had given up, not just because of runway problems, but they actually just lost conviction in blockchain. Literally, there was not much happening and it was a very small community.
+And for us, we, for us, we're working on a problem that was more about unlocking new access, unlocking a new market, and that was an opportunity that investors clearly saw. And for the blockchain to evolve, they recognized that infrastructure needed to evolve as well and they saw the first step would be an onboarding solution that needs to be tied to the blockchain in order to unlock that. And obviously, we're at the forefront of that, so a lot of our great investors doubled down on us, which allowed us to pursue our vision.
+[Speaker 2]
+Yeah.
+[Speaker 1]
+First, it's very important to have an open mindset. As I have multiple times stressed how Sean and I felt convicted about the path that we were taking. Also, it was very important to allow ourselves to even disrupt completely.
+And I would say we stayed along the same line, but we kind of diverted a little bit as we kept on pivoting. So one example is when we built out the email login, but made it completely white label. And with that, that allowed us to focus on the auth market as well on top of crypto.
+And it was a passwordless email login. It's pretty much you click a link and without having to type in your password, you can log in to an app. And that solution was used both by non-crypto and crypto customers.
+And our pitch was that it's not just gonna be about onboarding people onto blockchain, it's also about onboarding people onto this new innovative authentication technology so that when the time is ready, they can use blockchain behind the scenes. And to summarize that again, it was more about allowing ourselves to be more flexible and just be open to changing a bit of that direction. And my advice to the founders that go through a similar cycle as us is, of course, you gotta be convicted on what you're working on.
+You gotta truly believe in the problem that you're solving. But sometimes you can take a detour or divert a little bit so that you can survive and get there.
+[Speaker 2]
+This is a sensitive topic, but since we are talking about, there was ever a moment during the period where you did something particularly extreme or perhaps faced rejection in a way that really stopped you from doing it?
+[Speaker 1]
+Extreme to keep the company alive. Kind of goes back to what I talked about. Let me see.
+Thanks. Maybe I can talk about what I talked about a bit more extreme. So when we first started out, our company was called Fortmatic.
+And that was a product that had a full UI and widgets as part of the holistic solution. And as we had pivoted to working on more of a seamless, like passwordless authentication system, that involved us literally unbundling everything that we had built. The one thing that only had stayed was our patented key management system, which was the foundation.
+But anything on top of that, we had to unbundle. And as a small startup with not much runway, and that's pretty much the state for all the startups, it was a big commitment because we had to spend multiple engineering cycles. And it did not help us move forward.
+It was more about just optimizing and reshuffling or reorienting ourselves so that we can actually chase the next path. So imagine you had six months of runway and we had to spend three months of runway to just get to the state that allowed us to chase a new revised path. That was, to me, a really hard but also stressful and tough decision because you see your bank account continue to go down and you really want to move fast and continue moving forward, but you just can't do that because you're tied down to these dependencies.
+Yeah.
+[Speaker 2]
+I'm wondering if you have any.
+[Speaker 1]
+Yeah, I think I can answer this one separately. So because we've gone through so many, because we've gone through so many bear markets, when we saw a clear use case take off and also when a lot of enterprises jumped into the space a couple of years ago, we were just dealing with an overload of customer requests and prospects coming in. And these were really big brand names.
+We've onboarded so many enterprises and one thing that we struggled with was just chasing a number of great ideas. I mean, a lot of number of great ideas dealing with multiple customer requests. And because we felt like that was the point when we felt that momentum, we pushed really hard in terms of expanding.
+And the one big takeaway from that was we had to sacrifice focus and that meant lowering the bar, unknowingly, on the quality and not being able to serve our customers the best way that we were able to before. And that was a painful lesson because when you build these new products on the new ideas and you wanna move away from it, you just can't move away from it because you still have the responsibility to maintain and serve customers that are using the product. So it really stretched us thin and my big takeaway was that focus is a multiplier.
+So when it comes to expanding, we should really thoughtfully expand because it's equally as, it could potentially be equally as disruptive as you having to deal with no activity even during the bear market.
+[Speaker 2]
+Just to get a clean take for editing purpose. Could you put it this time as simple as talking to someone, so talking to staff once more.
+[Speaker 1]
+Okay, I see. Yeah, people know Bitcoin, Ethereum and these other cryptos as just a digital asset that you can invest in. And it's more like, they see it more like a stock.
+But behind the scenes, what actually exists is, for example, Ethereum, it's like Apple. Like Apple has a mobile ecosystem of many apps. On Ethereum, you can build these blockchain apps and Ethereum think of that as like Apple App Store.
+And what Magic did was creating a product that made it really easy to access these apps. So in the old days, like in 2018, people had to set up their own MetaMask or these other wallet browser extensions. They have to write down the seed phrase and they have to go through a lot more hurdles to be able to use these apps.
+And what we enabled was, just like when you go to a mobile app or a website, you just click a button and log in. We brought that same experience onto blockchain app.
+[Speaker 2]
+I think that makes it really easy to understand, yeah.
+[Speaker 1]
+Okay, nice.
+[Speaker 2]
+Yeah, it's really good. That's good. As president now, overseeing product, business, and tech altogether.
+So how do you prioritize those three areas?
+[Speaker 1]
+Yeah, as a president overseeing product, tech, and business, I actually see all three of them as like one interconnected system. So product is the experience and technology is the foundation that enables that experience. And business is about creating sustainable value so that we can continue building product and innovate on tech.
+Personally, I gravitate towards product because that's where the impact is most felt. And I always like to think from end user perspective as my principle. But starting with that, I look at, is our tech able to support it?
+And then can we create a meaningful business value out of that? And if all three align, then that's a green light. If not, then something needs to shift.
+But usually it ends up in a place where something does need to shift. But what I see more important as a president overseeing these core departments is sharing the right context. So with the right context, I believe the right priorities can surface.
+Of course, we have these people that are great at their expertise, but I always encourage them to think outside of their silo. And as a president overseeing these departments, I focus on sharing the right context consistently and clearly across these departments. And what I noticed was, as long as I do that job properly, then I am able to show them what the bigger picture is like.
+And also, they're able to understand the why on what they're building. And they are able to make better decisions and better priority decisions, even better than me. And that's how we stay aligned and we're able to move fast.
+[Speaker 2]
+One more and to decide which firm to enter.
+[Speaker 4]
+Um, okay.
+[Speaker 1]
+So when entering markets like Korea that's fast moving, we look at offering our solution in a couple ways. We break it down into a couple ways. One is about the awareness.
+So when it comes to visiting our website, visiting our docs, and learning more about what our solution does, that's where we invested in localizing. When it comes to product, on the developer experience, it's usually done in a coding way, which means it's usually done in English. But at the same time, educating on integration, that requires, like, that requires a real relationship.
+And luckily we have some Korean members in our team. Our director of product, our senior director of product, he speaks Korean very fluently. And we have our VP of finance, who's now, we have our COO who is also Korean, myself is Korean as well.
+So when we started working with Naver, we went through, I remember, two quarters of just educating and building a relationship and then helping them integrate our solution. There we spent a lot of time speaking both Korean and English. And language is definitely one important thing that we noticed.
+So on the awareness side, when people are able to still serve as a go-to-docs or website, we localize that. When it comes to more human-touch relationships, we invested heavily, like my time, our COO's time, and our senior director of product's time, to make sure that they, customers like Naver could be onboarded.
+[Speaker 2]
+Thank you. What's your criteria for deciding who must do it, who should not?
+[Speaker 1]
+Yeah. When building new features, let's see. I think it was customer feedback and then there was, oh yeah, okay.
+When building new features, we look at a couple of key factors. One is customer feedback. We definitely value what we get from them because really customers are the heart of the business.
+And let's say we see a clear pain point brought from them that we agree as well. Or we see a pattern of the same feature request coming up, then we definitely tackle it right away. The other one is, we look at strategic leverage.
+Would building this feature allow us to unlock a new market? Would it drive meaningful business growth and could it help strengthen our differentiation? If so, we definitely prioritize.
+If so, we definitely prioritize.
+[Speaker 2]
+How could companies?
+[Speaker 1]
+Yeah, I think I answered that before. Yeah. Do you want me to do it again?
+Okay, yeah. Companies like Mattel and other companies in different verticals generate revenue in different ways. Take Mattel for example.
+They tokenized their iconic IP Hot Wheels and Barbie as digital collectibles and sold them on their e-commerce site. And the other revenue stream was for every time that digital collectible was resold on the secondary market, Mattel earned fees and royalties. And how, yeah.
+[Speaker 2]
+So, what do you reserve to pull 10X or 100X?
+[Speaker 1]
+Yeah. So, with Magic, we already solved onboarding when it comes to logging seamlessly into blockchain apps. The opportunity that we see with AI is that now it's not just about onboarding humans.
+So, our original mission was to onboard a billion users onto crypto. But now, it's not just that. With AI, each human will have multiple agents.
+We are talking about not just a couple, like hundreds of AI agents that they could potentially manage. And with that, we see trillions of wallets that will need to be onboarded. And that's how we see ourselves not just growing 10X, but 100X.
+Oh, yeah. Also, now, as years go by, we've been noticing that crypto has been becoming more and more mainstream. And now, we're seeing governments actually taking serious attention onto digital assets, like the Genius Act.
+And then, we're seeing fintech companies like Stripe and Robinhood getting into the space with real intent. And how we've been preparing for this world, and yeah, we've been prepping for this world for a long time. We're very excited.
+And luckily, we already have this flexible wallet infrastructure that is able to support stablecoins, RWAs, and any new types of real digital assets. Yeah, and then now, we're starting to see real use cases. For example, with stablecoins, it's being used for remittances.
+It can really make, I like to call it like money on steroids, because with wire transfers, it's quite expensive, but also, it takes a lot of time. But with stablecoins, there's no hurdles with regions or borders. It will happen instantly, and it's even cheaper.
+So there's a lot of new use cases coming out now. And even RWAs, like real world assets, that would allow you to, for example, let's say you're in Korea, you wanna invest in American stocks, or you wanna tap into the treasury yield by the American government. With RWA, that would allow to do so, because with blockchains, that completely eliminates borders.
+Yeah, that completely eliminates borders.
+[Speaker 3]
+I'm curious, what does it mean, like onboarding AI agents?
+[Speaker 1]
+Onboarding AI agents? Yeah, so every human will be tied to AI agent, but AI agent, for it to perform actions on behalf of the user, they still need their identity and a wallet. So where magic comes in is, it's not just providing wallets for humans, but it's also providing wallets for AI agents.
+[Speaker 2]
+I wanna describe it more specifically on my computer.
+[Speaker 1]
+Yeah, yeah, so, yeah, I can explain that, let me see. So for AI agent to safely and securely manage money on behalf of you, it actually needs to go through the crypto rails. And how it can do that is, you simply give a command, let's say, manage my money, I wanna tap into treasury yield and these other real estate or American stocks.
+And then AI agent would take that prompt, and they would, yeah, and then they would use blockchain on their own, because they already know how to use it, and they would transfer your funds within your consent and within the permission that you've set into these protocols that are connected to, let's say, treasury yield and these other investment opportunities. Yeah, does that help, or should I go deeper into? Okay, yeah.
+Yeah. Got it, yeah. RWA stands for real world assets.
+Imagine tokenizing a part of your real estate, let's say you own a home, and you wanna break that down into units of stock, and you can easily tokenize that on the blockchain. But imagine trying to do that in today's world, you have to go through compliance, I mean, you still need to go through compliance on the blockchain side, but to go through the process, it's a quite rigorous process. And every region has, every country has their own system in how they go about tokenizing assets.
+And real world just means any asset that exists in the real world can be tokenized onto blockchain so that it can be freely flowing across, not just in your country, but in other countries, and be accessible by anyone in the world. So, if I, I want to make sure I understand this correctly. So, it would be, so there is an AI agent, please, and that AI agent helps that, right?
+Yeah, that's correct, yeah.
+[Speaker 3]
+So, can you please present it?
+[Speaker 1]
+Got it, so the journey is, yeah. So, you want me to go through AI agent being set up with the wallet, and then it being able to, you want me to talk about RWA first, and how AI agent can manage that on behalf of you? Yeah, okay, so.
+Yeah, that's important, yeah. Okay, let me see. Okay, so, should I talk about RWA as well, like what it is, again, and then do it through?
+Yeah, okay, got it. So, AI agent really simplifies, AI agent really makes it easy for you to tap into these new opportunities like RWAs, or a stable coin yield, and many more, and for the AI agent to perform those actions on behalf of you, it first needs its own wallet, and that's where magic comes in to provide a wallet. The other part is, the AI agent needs to be set with certain policies and permissions, so that, as human, you're able to trust AI agent, and you're able to trust the AI agent because you know that it's only gonna perform actions that you've, under the guardrails that you have set.
+And then, now, when it comes to investing into RWAs and stable coins, you may not know how to do that at all, but AI agent is already trained, and they know exactly how to do, but also optimize and find the best path for you, and this is where AI with the wallet is connected to the blockchain, and the blockchain is the one that stores all these assets, and there are protocols that are built in blockchain as well, and when it comes to the coordination and finding the best path and finding the best yield opportunities, AI agent, with its own logic, is able to automate all that for you behind the scenes.
+[Speaker 2]
+What's your ultimate goal for magic?
+[Speaker 1]
+Yeah, ultimate goal for magic is making blockchain feel invisible, but I think with AI, we have expanded, I mean, that vision still holds, but we've expanded from that. The world that we see is, actually, no, should I say expanded? AI, vision, technology.
+Oh, it's technology invisible, right? It's making technology visible. Yeah, yeah, invisible, and then, yeah, I got it, okay, yeah.
+[Speaker 2]
+It's making technology invisible, and then one.
+[Speaker 1]
+Right, right, right. Yeah, yeah.
+[Speaker 2]
+So that's incorporated?
+[Speaker 1]
+Yeah, okay, I'll start over. What was the question again, so I can repeat?
+[Speaker 2]
+Oh, ultimate goal for magic.
+[Speaker 1]
+Okay, yeah. Our ultimate goal for magic is making blockchain, making, our ultimate goal for magic is making technology feel invisible. Our vision, Sean and my vision, still hasn't changed to this day.
+We continue to believe in our vision being realized, and one thing that I would say has expanded is we're now not just thinking about humans. We're also thinking about AI agents, so in five years from now, what we see is there'll be your AI agents or multiple AI agents pretty much managing your money, managing your contracts, booking travels, and doing all the daily activities that you do today and being fully automated through AI agents, but ensuring, but Newton will ensure that they operate within the guardrails that you have set so that you're able to trust, you're able to trust that AI agent is making the right decisions and right actions even while you're asleep. Yeah, yeah.
+Water, water? Oh, for him, for him, yeah. No, for him as well, yeah.
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+[Speaker 4]
+Oh, you're, oh, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+[Speaker 2]
+Shoot, James, James, he wants to, he has a lot of money and he wants to invest in us. I would invest, I have a lot of money.
+[Speaker 1]
+In us?
+[Speaker 2]
+Oh, thank you.
+[Speaker 4]
+Sorry.
+[Speaker 1]
+Here, thanks.
+[Speaker 2]
+Please, yeah.
+[Speaker 1]
+Okay.
+[Speaker 2]
+Maybe five or six, yeah.
+[Speaker 1]
+Okay. So, almost there.
+[Speaker 2]
+So, it's kind of, it's not magic. Give yourself one piece of advice, so what would it be?
+[Speaker 1]
+If I could go back, I would tell myself to really stress test how deeply I care about solving, how deeply I care about the problem that I'm solving and how badly I want to own my own destiny because the truth is, when it comes to startups, there will be a lot of pain and when I had joined, I was just excited about building cool stuff and I did not know that I was gonna go through so much pain. But what really kept me to here and I know that I'll stick it through until the end is just my conviction and my, and how much I care about the vision and the problem that we're looking to solve. The other part is, the other part that I would tell myself is you gotta be really obsessed with the problem and you gotta be obsessed with building what matters because if you're not obsessed, then it'll be really hard to make it through.
+It's like a roller coaster where there will be highs when you feel amazing, but there will be a lot more lows where it'll feel brutal. So, if you have other goals where it could be like, money, you're trying to make money and doing a startup, I would advise not to do that. It really has to be something that you're so passionate about that you would wake up every day thinking about it.
+It's not just a job, it has to become your life. So, it is a big commitment and it's not for me to scare people, but it's also for me to just let people know that it's gonna be a long journey, but I can guarantee that it's worth it.
+[Speaker 2]
+Yeah? How far, actually, do you mean? Could you give us a real-life example from your obsession that actually shows up?
+[Speaker 1]
+Yeah, obsession to me, especially when it comes to founders, building a startup is, the problem that you're looking to solve and the product that you're building, that has to be something that you think about 24-7. Like, there's no weekends, there's no time that you just don't think about it. And also, you care so much that if you're not talking about that or if you're not thinking about that, you're in a situation where the topic is totally different.
+Like, you should be kind of annoyed because you're so hungry and you're so ready to continue to think about solving the problem. Like, to me, that's what obsession is.
+[Speaker 2]
+Yeah? Yeah?
+[Speaker 4]
+Yeah.
+[Speaker 1]
+Yeah. When it comes to starting a new company, I believe that having a co-founder is super valuable. It's already a lonely process and journey, even if you have multiple co-founders, because there's just so many problems that come up and there's so much uncertainty that you gotta deal with.
+There's always pressure on the investor end, but also on the customer end, and especially on the competitor's end as well. And having a co-founder, it's like having a best friend. I even like to say that you're even more married to your co-founder than your actual wife or husband, because you spend literally 24-7 of your time.
+And it's very important to have someone that you can depend on. But of course, it's very important, I keep saying important, but of course, you need to find the right co-founder, because one of the common reasons that startups fail is because there's a co-founder conflict and they decide to split. And when that happens, and let's say you have a significant size of team members, it really goes from top down when it comes to operation execution.
+And usually, co-founders have certain big responsibilities that they divide. And if the conflict were to happen and the split were to happen, then that can cause a huge damage. So I would say it's very, very, very important to find the right co-founder.
+But I would advise to definitely find a co-founder.
+[Speaker 2]
+Yeah.
+[Speaker 1]
+Yeah, we went through a lot of debates, very heated debates multiple times. I would say, I can't count. There are so many times that we've had those debates.
+But one thing that we made sure was it's not personal. We're both thinking about what's the best path and best solution. And also, it's good to have different opinions and get to consensus.
+So for me and Sean, Sean likes to think more from artistic and visionary purpose. So, I should be careful here. Let's see.
+Yeah, I'm gonna get it right. I wanna, yeah, I mean, it's good. Yeah, so Sean likes to think from artistic and visionary point of view.
+He has some great ideas. And eventually, as I understand what he's trying to get to, I'm actually wowed because he thinks about like multiple steps ahead that people haven't even thought about. He thinks about the future already like it's present.
+And for me, I usually go into the tactical. I like to break down the problem or break down the strategy into executable tasks. And I think about how to best operate on it and then bring that vision to be realized.
+So once we've had these heated debates, and it's also been seven years since we started this company like now we know each other more than maybe we even know ourselves. So we work really well together. And his role now is more about setting the future.
+And my role is understanding the future, aligning on the future, and then coming up with the steps so that we can get there. Yeah.
+[Speaker 2]
+Yeah. Yeah.
+[Speaker 1]
+Yeah. Yeah. Yeah, let me think of it.
+So first it's Sean and then the team. And then what's the third one?
+[Speaker 2]
+Yeah.
+[Speaker 1]
+Oh, got it, got it, okay. When I first met Sean, I was just an engineer. No, not first met Sean, okay.
+When I decided to, no, no, okay, I'll talk about it. When I first met Sean, Sean was a guy that I remember as someone that's always open to trying new things. And it was during the time when we were both in Waterloo.
+For me, I focused on going to the top companies and kind of building my prestige and learn the best from the best. For Sean, he always believed, for Sean, I noticed that he liked to take more of the unconventional paths. And he had many ideas that he wanted to try out.
+So he was more like a hacker. And how that evolved over time was, I think Sean still has the hacker mindset. But I think Sean has grown as a leader where he does respect a lot of ideas that come to him.
+And he tries to collect them all together and try to align it with the future that he's seeing. So I would say the difference was, in the early days, we're both young. We're both rolling up our sleeves and actually doing the work.
+Now, the team has grown. So even though our responsibilities, I mean, our team has grown. So even though we're not doing the actual work of building day to day, I think we still have kept our philosophies.
+So I like to ideate with Sean when I feel like I'm kind of stuck with my creativity. And that's where Sean kind of comes in and helps me a lot. And then for Sean, he has so much creativity.
+And to kind of bring him back to the ground, I'm the one that kind of helps him. Oh, I think that's too far. And I think we've got to go this way.
+Let's think more tactical here. So, yeah.
+[Speaker 2]
+Yeah. If Sean had to introduce you, what do you think he'd say?
+[Speaker 1]
+I think he would say, oh, that's an interesting question. I hope he says good things about me. Let's see.
+I think he would talk about me as someone that really cares about doing the right things. I care a lot about execution and aligning the entire team. And I think Sean has full trust in me now too, since I'm the president of Magic Lab.
+To really run this org across multiple departments. And yeah, I think he would call me someone that's just reliable and he can go about being creative and just think about the future. And the rest, just let me handle it.
+Kind of like that. So, yeah.
+[Speaker 2]
+For founders, wanting to create meaningful products, so what's one truth about startups that nobody tells you?
+[Speaker 1]
+Yeah, okay, yeah. So, one truth about startups that nobody tells you, especially for first-time founders, is thinking about distribution. So, first-time founders that I've noticed usually obsess over just building the right product.
+And I've been an example of that. But luckily, I was working with Sean, and Sean, being a second-time founder, he told me, he educated me how important it is to think about building product with distribution in mind. Because if you don't have distribution in mind, so when you're building product, you gotta simultaneously figure out your go-to-market, like your positioning and distribution strategy.
+So that strategy has to be implemented day one. That strategy needs to be implemented since day one. Yeah.
+For engineer-turned-founders that are, how do I answer this one? What did I say exactly? I forget.
+[Speaker 2]
+Engineer-turned-founders, they once they had learned that it comes to zero to one, and then they're like, it's not worth it.
+[Speaker 1]
+Oh, yeah, yeah, yeah. Yeah, got it.
+[Speaker 2]
+When they're building, polishing, refactoring. I see.
+[Speaker 1]
+But it's a challenge. Yeah. Yeah, my brain is getting fired.
+So one thing I learned about, one thing when it comes to first-time founders is the importance of, sorry. Can I get water?
+[Speaker 2]
+Yeah.
+[Speaker 1]
+Yeah, I need to take a break a bit.
+[Speaker 2]
+Do you wanna read this quick? Because we also talked about customer obsession.
+[Speaker 1]
+Yeah, I think so, yeah. Oh, yeah, okay.
+[Speaker 2]
+Also, I got you food, so if you wanna break at any point, you can eat if you're like.
+[Speaker 1]
+Yeah, it's okay, yeah. Okay. So one thing about engineer-turned-founders that I learned the hard way was that you'll never feel like your product is ready.
+You could fall in this habit of the cycle of building, polishing, and refactoring, and that's dangerous because the longer you wait to launch, the more uncertainty there is for you to figure out if you're building the right product or not. But the superpower of an engineer is the ability to ship. So what I would advise is build quick, ship quickly, and iterate with users, but also don't just listen to your friends for user feedback.
+It's more important to listen to actual user feedback. Some of the feedback can be quite brutal, and it will sting, but never take that personally, and lean into that because that's where the true insight is. And one thing that I've seen with engineer-turned-founders is how they overlook customer obsession.
+Because they're so good at building, it's also easy to continue building because that's what you're great at. And I've dealt with imposter syndrome on my own. I was taught to build, and for me to step out there and then talk to customers, it was quite scary at the time.
+But then I knew the importance of iterating with them, so I jumped on, and then once I got a couple calls in and a couple reps in, I was then more comfortable to continue talking to customers and iterate. And I think it's very important to obsess over customers because it's not just about listening to them, but you have to really care because they also don't know exactly what they want. And if you care, then you can also figure out what they want even without them knowing.
+So that's something that I would definitely advise these guys to adopt.
+[Speaker 2]
+I don't think one and a half of this business, but you had said you talk to users.
+[Speaker 1]
+Oh, okay. Talk to users constantly in a what?
+[Speaker 2]
+You can say it in your own words, but talk to users constantly, let them shape the product for you.
+[Speaker 1]
+Oh yeah, yeah, right, right, yeah. You gotta talk to your users constantly and let them shape the product with you, and that's how you find product market fit.
+[Speaker 2]
+Nice. My last question is, throughout our conversation today, I feel the word trust has come up on me, but I feel really trust in my members, customers, really anyone isn't easy, so what piece of advice about bringing trust to young founders just starting out their entrepreneurial journey, what would it be?
+[Speaker 1]
+Yeah, hmm, that's a good question. Yeah, for young founders that are just starting, when it comes to building trust, I would tell them to focus on consistency. And if you commit to it, you have to deliver because as an audience, you may not think that they may not see, but they are able to actually see through if you're actually delivering and if you're actually delivering to what you have committed.
+At the same time, it's consistency and time. So you can't just be consistent for a short amount of time. There's something that you gotta build it into your body and continue to demonstrate that you're delivering value and how you act and how you talk and how you support all come with the same level of consistency.
+And then over time, as people see a repetition of that, they'll start to build trust in you. But also trust is quite fragile. If you do something wrong, and let's say if it was more like unintended mistakes, people will tend to understand you, but if you make repetitive mistakes like that, then trust will just erode.
+So it's a very fragile term, I would say. But at the same time, if you gain trust, it's so powerful because they will really believe in you. Yeah.
+[Speaker 4]
+I have some additional questions about why the world needs magic. Yeah.
+[Speaker 3]
+So from Wallet's abstraction, we also see it as targeting or helping the unbanked. Who do you think?
+[Speaker 1]
+Hmm. I think the end users, oh, okay. I think the end users benefit the most when it comes to Wallet abstraction.
+Definitely our customers as well, because we make it easy for them to support features in crypto while maintaining their tech stack. But I do think end users take the benefit the most because it's kind of like when internet happened before, when it comes to sending messages, you'd have to mail or email. I mean, you'd have to mail it out or make an actual phone call.
+But now with the internet, it's so easy to send messages. But do people know that there was all these engineers and a team assembled to work on bridging between the pre-internet world and the post-internet world? I don't think so.
+But they've definitely gained the most benefits. In a similar way, crypto is about making money programmable. It's kind of like internet with messages, but now with money, it's easy.
+With money, it's global and it's programmable. And once we are in the post-crypto world, people will be able to do a lot more than what they can do today. Did I say that or?
+[Speaker 3]
+Yeah, yeah, and so why is it important to make Web3 Wallet easy and accessible for everyone?
+[Speaker 1]
+Oh, okay, yeah. Why is it important to make?
+[Speaker 3]
+It's not just, you know, making an online money. It's much more than that.
+[Speaker 1]
+Oh, I see, I see, yeah, got it.
+[Speaker 3]
+When you use crypto, you're using Web3.
+[Speaker 1]
+We should use crypto, right? Not Web3? Yeah.
+Yeah, crypto, okay. Okay, I think I can think of one. It's important, yeah.
+Actually, no, sorry. Oh, sorry. So the question, so that I can repeat was, why is it so important for the users to be onboarded with wallets or?
+[Speaker 3]
+Why is it important for many people, more people to use Web3 Wallet?
+[Speaker 1]
+Yeah, got it, got it, okay. Can I get water? I think I'll talk about like digital ownership and then.
+[Speaker 4]
+Yeah, I think that's good.
+[Speaker 1]
+Like you own your own data.
+[Speaker 2]
+I think that's a good narrative.
+[Speaker 1]
+Do I wait for him or I can just go? It's important for end users to be using crypto wallets, not only for making money, but it's the foundation where it allows you to own your own data. People today actually not care too much yet about these big corporations like Apple, Google, et cetera, Facebook owning your personal data.
+And they're trying their best to make sure that they have best privacy controls built in so your data is best protected. But also there's a lot of hacks that happen and there's a lot of headlines that are being made on the personal data being stolen. And with crypto wallets, wallet represents both identity and a wallet for storing assets.
+And one thing that people haven't overlooked is the power of identity. And with crypto wallets now, you are the only one that can access your wallet and you're the only one that can access your personal data and you're the only one that can set permissions and controls on how your data can be accessed. So that's why I think it's very important.
+[Speaker 3]
+You mentioned that crypto industry often evolves from new toys to real world use cases. So what do you think is the next turning point or inflection point you're paying attention to right now?
+[Speaker 1]
+Yeah. Next inflection point I'm paying attention to right now is definitely crypto and AI. Right now, people use AI to automate tasks and learn about certain topics.
+But it's not used much for payments yet. And people are talking about agents of commerce. But with an agent of commerce, crypto definitely needs to be involved.
+Sorry, what was I trying to answer? I was trying to, what was I trying to answer?
+[Speaker 3]
+The next inflection point.
+[Speaker 1]
+The next inflection point, yeah, okay. Okay.
+[Speaker 3]
+This might be a good time that you're entering and then you talk to us.
+[Speaker 1]
+Yeah.
+[Speaker 2]
+Right, right.
+[Speaker 1]
+Oh, yeah, yeah, yeah, that's a good one. Yeah, so. Do you want to read this quick or are you good?
+I think I'm good, yeah. So the next inflection point is, as we see it, is crypto and AI. And it's kind of like we're at a state where using internet is very easy.
+But with AI, how do you go about trusting the AI to be able to coordinate and automate all these actions on behalf of you? And we like to think crypto and AI, like cars and, wait, actually, let me read that. I forget, yeah.
+[Speaker 2]
+It's been like three hours.
+[Speaker 1]
+Yeah. My brain's not working as well now.
+[Speaker 2]
+It's not the exact question, but you do bring it up. So I think that it could make sense.
+[Speaker 1]
+I don't think I need to explain cars. Oh, no, I can talk about horses and cars, yeah. Yeah, okay.
+Yeah, yeah. The next inflection point is crypto and AI. In the pre-AI world, think of like horses, and then in the post-AI world, it's more like cars.
+So what I mean by that is, sorry, let me look at that again. My brain's not working, yeah. Cars, brains.
+Oh, yeah, okay. Requires significant change in infrastructure, so the rules and policies I tried, okay.
+[Speaker 2]
+Yeah, yeah.
+[Speaker 1]
+The inflection point is crypto and AI. Right now, there's a transition that has started going from pre-AI world to post-AI world. So I like to think of pre-AI as like horses and post-AI as cars.
+So imagine when you transition from horses to cars, there had to be a complete new infrastructure that had to be developed in order to, for example, build new traffic laws, or totally build a complete new car infrastructure, and yeah, totally build new cars, new car infrastructure. Let me repeat that again.
+[Speaker 2]
+Inflection point. Yeah.
+[Speaker 1]
+Yeah, I don't think I'm getting it together, yeah. So pre-AI world was like horses, and post-AI world will be like cars. So the transition between horses to cars, there needed to be a new infrastructure that was completely built up from scratch to define new traffic laws and policies and et cetera so that cars were able to be easily coordinated and transported.
+For us, in the post-AI world, that's exactly how we see the same type of transition play out. So it's really important that a player like Newton comes in to help define the programmatic rules such that AI agents can autonomously and safely interact with the blockchains.
+[Speaker 2]
+Yeah, yeah.
+[Speaker 1]
+Yeah, yeah.
+[Speaker 2]
+He said we want some like clips.
+[Speaker 1]
+He said he wanted that? Newton protocol will be the infrastructure for rules and policies and act as a decentralized policy engine for AI transacting on behalf of humans and blockchains. It doesn't need to be exact.
+Yeah. Newton protocol will act as a, will act as, what was it?
+[Speaker 2]
+Newton protocol will be the infrastructure for rules and policies.
+[Speaker 1]
+Oh yeah, yeah, yeah, okay. And act. Yeah, Newton protocol will be the infrastructure for rules and policies and act as a decentralized policy engine that enables AI agents to transact seamlessly and safely.
+Yeah, sure, yeah.
+[Speaker 3]
+I have one more question about the early days like Newtonian and Waterloo. Were there any interesting anecdotes or memories from that time about like, what was Newtonian like as a student? And when you first heard about him or Bitcoin, how did you initially understand or interpret what that was?
+[Speaker 1]
+Yeah, I didn't talk to him directly. I just knew of him. But I heard, when I first got introduced to Ethereum and my friends telling me about Vitalik, he was known as the guy that writes a blog post on Bitcoin and educating people about Bitcoin.
+And all I know was he dropped out of school after two years. Yeah.
+[Speaker 3]
+So what was your initial understanding about Bitcoin?
+[Speaker 1]
+Oh, Bitcoin.
+[Speaker 3]
+And has it changed over time?
+[Speaker 1]
+Okay, yeah. So I learned about Bitcoin in 2013. And there was this startup called Coinbase, which is very well known now, where you can go and buy and sell your crypto.
+And I checked out Coinbase through looking at the hacker news. And then I saw Bitcoin. And I was like, oh, what is that?
+So I went on to read the white paper. And for me at the time, I didn't believe in it because I was like, how do you even start this? And there seems to be a really big cold start problem for it to be used as the main payment system globally.
+And also I thought the scale may not be able to be supported. And luckily now, Bitcoin is considered as a digital gold. It's not actually used for day-to-day payment system.
+But that's how I first saw it. So I didn't fully believe in Bitcoin. And I actually had Boston, but I sold early.
+So I wasn't able to write that. But when I heard Ethereum in 2016, I was a lot more interested because it was more than just payments. It was more about acting as this decentralized middleman that's not a human, that can kind of facilitate a contract peer-to-peer.
+So it was payments plus smart logic built on top. And also I actually did see examples of that when I worked at Uber. So at the time, it was more about, one thing that I worked on was creating these scripts and APIs that can be reused by other team members when it came to facilitating data or even payments.
+But it was done in the Uber ecosystem. And when I saw Ethereum, Ethereum was more like it can be done within the global ecosystem. So that was really eye-opening for me.
+That was one year?
+[Speaker 2]
+I don't know if you're being, if you're not using it, it doesn't matter, but if you were to use it.
+[Speaker 1]
+Oh, I guess it's one year, because he quit second year.
+[Speaker 2]
+Yeah.
+[Speaker 1]
+Yeah, yeah.
+[Speaker 4]
+Yeah.
+[Speaker 2]
+Yeah. What is the definition of the traditional?
+[Speaker 1]
+Traditional login method?
+[Speaker 2]
+You're like, you're just memorizing some code.
+[Speaker 1]
+Oh, you mean the traditional login method for crypto, right? Oh, okay, yeah. So, should I say traditionally old?
+Old login method? Do you want me to say traditional? Yes.
+Okay, so traditional login, I should look at it this way, right? So traditional login method in the early days involved multiple steps. So it involved downloading a wallet browser extension, and then you had to go through setting up a seed phrase, and I mean, writing down the seed phrase, and also remembering where you, no, actually, let me, sorry, let me repeat that.
+So when it came to traditional login system in crypto, it required you to download a wallet browser extension, write down the seed phrase, and then figure out how to store that seed phrase safely. On top of that, you have to go through multiple pop-ups where there are all these unreadable blockchain messages that you did not know what they meant, but also you had to sign, and sign while not knowing exactly what you're agreeing to. And then there were these gas fees.
+For example, in the non-crypto world, gas fees are abstracted away. When you use Facebook, or when you use Instagram, or these other apps, they don't charge you for making posts or sending messages. But in crypto, you had to pay those gas fees yourself.
+So there was a lot more from there, and what we did was, do you want me to talk about what we did, or is that enough? Okay.
+[Speaker 4]
+Yeah.
+[Speaker 1]
+Right, right. Okay. So web one, web two, web three, right?
+Yeah. So if you look at the transition from web one, web two, to web three, the scale and impact has definitely gotten a lot bigger. With web one, you can only read, so all you could do was consume data, but you could not interact with it.
+With web two, you could read and write. With that, you could start sending messages, so when it came to social apps, like Meta, like Instagram, and many more, they were able to really get a lot of traction because with web two, now you could read all these activities that are happening around the world, but also you can write, send messages, and really educate and spread cool activities that are happening around the world. With web three, now you can read, write, and own.
+And because now you can own, it really opens up even more possibilities. And I would say owning doesn't directly translate to movement of money assets, but I would still like to highlight that with web three, now you can work with programmable money. So it's not just about sending money from A to B.
+You can set logic and conditions, so you can do that. All while you own the assets in your wallet, and also the personal data that's tied to your wallet. So it's really about giving back control to the users while ensuring that you have all the benefits of web two.
+So when it comes to coordination, all these activities, they can all be preserved while all the assets or personal data that belong to you actually stay within your wallet.
+[Speaker 3]
+And lastly, could you please introduce yourself and about Magic or the editing program? Okay. And could you share also the key metrics?
+[Speaker 1]
+Yeah, yeah, let's see. I remember we had a pretty good script on that. Let me see.
+Let me actually search one thing.
+[Speaker 2]
+Do you know where it was?
+[Speaker 1]
+I think it's from the, there's a good one from two years ago. Let me grab it.
+[Speaker 2]
+Magic is a leading wallet service provider that helps...
+[Speaker 1]
+Is Steve here? Steve? How do you think I should talk about Magic?
+Do you think I should talk about Magic as it is right now? So I could say it's a wallet service provider, 50 million wallets, and then I talk about, I can drop some logos, and then I say we make onboarding very easy, like indistinguishable from Web 2. Do you think I should say that, or?
+How do you want to introduce it? I don't know how Sean wants to introduce it. Yeah.
+Will Sean talk about Magic and Magic Newton as well? Like will he introduce? Okay.
+So I can try my version and then see.
+[Speaker 3]
+Like layer Sean's on as a... Yeah, we can layer, or we can choose the better version.
+[Speaker 1]
+Yeah, because I can talk about the present, like a bit of past to present, and how we talk about Magic. And then maybe Sean can talk about Magic a bit in a future tense. I mean, not future tense, but like what Magic is trying to be as kind of like present.
+[Speaker 2]
+Yeah, I thought maybe you'd say what we're known for, and then give the history, and then say we're also the creators of Magic, but not defining those things. Kind of like this is what we're known for, and then this is what we're working on. I wanted to work, you know, for like an audience where you're talking embedded, where it doesn't sound like we're no longer doing that.
+It's like we're known for this, and we're also doing this project.
+[Speaker 1]
+Yeah. Okay, I'll...
+[Speaker 2]
+I don't think you have to define epistemic.
+[Speaker 1]
+Okay, yeah. It's just like high level. Cool.
+[Speaker 2]
+And I would mention the creators.
+[Speaker 1]
+Yeah, we're the pioneers and inventors of embedded wallets, right? Yeah, I would definitely mention that. Did you drop 50 million, 200,000 number?
+50 million wallets, 200,000 developers, and we have customers like Naver, Polymarket.
+[Speaker 2]
+You can break this up too.
+[Speaker 1]
+Yeah, let's break it up. Yeah. Okay, yeah.
+Yeah, that's great. So I should say my name and then start?
+[Speaker 3]
+Yeah, and I think it's better to be energetic because you're being the first.
+[Speaker 1]
+Yeah. Maybe we should have done this first. Okay.
+Yeah. Okay. Go, Jay.
+So I say my name and then, okay. Hi, my name is Jay Min. I'm the co-founder and president at Magic Labs.
+Magic Labs, we're the pioneers of embedded wallets. We're the pioneers and inventors of... We're the pioneers and inventors of embedded wallets.
+We offer a magic... We offer wall... Sorry, I haven't done this for a while.
+[Speaker 2]
+Just practice. You want it to feel like really like...
+[Speaker 1]
+Yeah.
+[Speaker 2]
+Like casual.
+[Speaker 1]
+Yeah. We offer a flexible wallet infrastructure that allows blockchain apps to... Yeah, let me walk through a little bit.
+We're the pioneers of embedded wallets with 50 million wallets on board to the state.
+[Speaker 4]
+And we have...
+[Speaker 1]
+We've been working with big enterprises like Naver.
+[Speaker 2]
+We've been working with some famous companies.
+[Speaker 1]
+Steve, what are the... If I say three names, I should say Naver, PolyMarket, and who do you think I should use? Naver, PolyMarket...
+Mattel. Mattel? Mattel.
+[Speaker 4]
+You're going with Mattel.
+[Speaker 1]
+Oh yeah, true. Naver, Mattel, PolyMarket. Oh, that's a good question.
+[Speaker 2]
+Maybe we do two versions?
+[Speaker 1]
+Yeah.
+[Speaker 2]
+I think do one that's Naver, Mattel, PolyMarket.
+[Speaker 4]
+Yeah.
+[Speaker 2]
+So like the biggest hooks.
+[Speaker 4]
+Okay.
+[Speaker 2]
+Any brand names, it's Forbes. I think one will say Naver, Mattel, PolyMarket, but then we still need to... It's possible Naver says we'd rather not be mentioned in that context.
+So then we need a version with another brand. Naver, Mattel, PolyMarket, Wallet. Yeah.
+So we could say maybe one with three... Three has a nice rhythm, so I'd like to keep three just as it sounds.
+[Speaker 1]
+PolyMarket and...
+[Speaker 2]
+If you say two, it sounds like two. Forbes? Forbes?
+Yeah, Forbes. There's also WalletConnect.
+[Speaker 1]
+I don't think they know WalletConnect, right? I mean, the audience doesn't know WalletConnect.
+[Speaker 2]
+I think Naver, Mattel, PolyMarket, and then Forbes, Mattel, PolyMarket.
+[Speaker 1]
+Okay.
+[Speaker 2]
+I mean, Forbes speaks to value.
+[Speaker 4]
+Yeah.
+[Speaker 1]
+Yeah. Yeah. Can I have some water?
+Last question. The hardest one. We're supposed to do the easiest one.
+[Speaker 2]
+Just really pretend like you're not talking to a camera, like you're talking to a friend. It should come off super personable. A lot of pressure when you're tired, but it is your introduction, so...
+Yeah. Let your personality come through. Talk slow, like you're comfortable.
+[Speaker 1]
+Yeah. And then Wallet... Okay, let me just jog through again.
+We're the leading wallet as a service provider. We're the pioneers and inventors of better wallets. We've onboarded 50 million plus wallets to the state, 200K plus developers.
+We've been working with some of our key customers like Naver.
+[Speaker 2]
+What we essentially do is make it really seamless to log into launching that.
+[Speaker 1]
+Okay, yeah. I'll try again.
+[Speaker 2]
+Which name do we, what do we want to introduce yourself with? What do we want to introduce you as? Do we want to say I'm Jay, I'm Jaymin?
+Full name, what's your preference?
+[Speaker 1]
+Probably Jay, Jaymin. Probably full name. I don't know, what do you guys think?
+[Speaker 2]
+Do you normally have people introduce themselves first?
+[Speaker 1]
+Yeah.
+[Speaker 3]
+Do you want to say Jay or Jaymin because the context is different?
+[Speaker 1]
+Yeah, it's mostly Korean, right? Yeah. Jaymin might be better.
+Jaymin? Yeah. Jay is fine?
+[Speaker 2]
+You said Jay naturally, so maybe just...
+[Speaker 1]
+Okay, yeah. The last time you said Jay. Got it, got it.
+Okay. I'll try again. Let's see.
+Hi, my name is Jay. I'm the co-founder and president at Magic Labs. We're the pioneers and inventors of embedded wallets.
+What we provide is a wallet as a service provider. What we provide is a wallet as a service infrastructure that makes it really easy for customers like Naver, Mattel, Polymarket to offer a seamless onboarding solution such as logging with email, phone number, or social login. To this date, we have onboarded over 50 million plus wallets.
+We have 200K plus developers. Yeah. Then...
+I got to have a punchline in the end. And...
+[Speaker 3]
+Yeah. We're going to do another version. That would be first.
+We have to do, like, things that we're not confident we can do.
+[Speaker 4]
+How do you...
+[Speaker 1]
+I should say we've been around for seven years. Yeah.
+[Speaker 2]
+That's good.
+[Speaker 1]
+Yeah. Headquartered out of New York?
+[Speaker 2]
+We could say...
+[Speaker 1]
+Are we... It's not headquartered out of... Technically, we're not really moving out of New York.
+Yeah, yeah.
+[Speaker 2]
+But like...
+[Speaker 3]
+And do you think it's worth saying, like...
+[Speaker 1]
+Yeah, okay. Or been in the industry? We've been in the industry for over seven years.
+Yeah, yeah.
+[Speaker 2]
+But I think we...
+[Speaker 1]
+A punchline in the end. So I say... We're the pioneers and inventors of embedded wallets.
+We offer a flexible wallet infrastructure for customers like Naver, Polymarket, Mattel, and Forbes. To this date, we've onboarded 50 million plus wallets and 200K plus developers. And then what should I end it with?
+Oh yeah, and then... Where should I say we've been around for over seven years? And then what should I end with for the punchline?
+[Speaker 3]
+We want a punchline, we want like a...
+[Speaker 1]
+Yeah, but like... Can it be more shorter?
+[Speaker 2]
+What do you guys think?
+[Speaker 1]
+Shorter? I see, got it.
+[Speaker 2]
+So, this is harder than it seems, right?
+[Speaker 1]
+Yeah, it's... Because I haven't done it for a while.
+[Speaker 2]
+Yeah, I'm a co-founder and president now.
+[Speaker 1]
+Okay, maybe I should just end with a list of customers and boom, just stop there.
+[Speaker 2]
+Jay...
+[Speaker 1]
+Yeah, my name is Jay.
+[Speaker 2]
+For crypto, do we need to say crypto?
+[Speaker 1]
+Oh, yeah, okay. We raised... Should we break this up?
+Raised almost 90 million, yeah. We raised almost 90 million. Should I say 90 million?
+Almost 90 million to the state.
+[Speaker 2]
+Raised over 80 million.
+[Speaker 1]
+We raised over 80 million to the state with backing from PayPal Ventures.
+[Speaker 2]
+Yeah, maybe let's just stop there.
+[Speaker 1]
+Yeah, okay.
+[Speaker 2]
+And then we can get into embedded wallets and customers and then we'll hit it on like, boom.
+[Speaker 1]
+Yeah, so I should say my name, role, and then we've been around for seven years and we've raised over $80 million to the state with backing from PayPal Ventures, with the likes of PayPal Ventures.
+[Speaker 2]
+I think we just need to say over 80 million.
+[Speaker 1]
+Yeah.
+[Speaker 2]
+And the TLDR was invented embedded wallets. I'm not saying it has to be exactly the same.
+[Speaker 1]
+Yeah, no, I like it. Pioneered and invented.
+[Speaker 2]
+In 2018. Created over 50 million wallets.
+[Speaker 1]
+Can you repeat that again?
+[Speaker 2]
+Yes. I think wallets in 2018. We didn't say that.
+[Speaker 1]
+Crypto wallets?
+[Speaker 2]
+Embedded crypto wallets. No, because you're thinking of it like your audience. Wallets.
+Crypto wallets. So let's just do embedded. Created over 50 million wallets for customers like Naver, Mattel, Polymarket.
+[Speaker 1]
+Naver, Mattel, Forbes. Naver, Mattel, Polymarket, Forbes.
+[Speaker 2]
+Let's do one take where you're just saying Naver, Mattel, Polymarket. Yeah. Let's do that first.
+I'm gonna write something and send it to you so you can look.
+[Speaker 1]
+Okay. What would the definition of Naver be? And then you can cut it out.
+Yeah. Just paper.
+[Speaker 2]
+You're gonna cut it? Would that have to be the flow view of anything still?
+[Speaker 4]
+Yeah.
+[Speaker 2]
+Then let's just do that one.
+[Speaker 4]
+Okay, yeah.
+[Speaker 2]
+Simplify it, because I already have one going on.
+[Speaker 1]
+Okay, so. But the ending, I'm still not sure. I haven't seen it.
+So right now, it's. Co-founder and President of Magic Labs. Co-founder and President of Magic Labs.
+We've been around for the last seven years. We've been around since 2018. He raised over $80 million a day to be exactly like we've got.
+We've been around since 2018. We've raised to the state.
+[Speaker 2]
+We invented and pioneered embedded wallets for XYZ customer, for Naver. We can link them. Because then you go into things later on.
+[Speaker 1]
+Yeah, let's start with that then.
+[Speaker 2]
+I think that's just better.
+[Speaker 1]
+So, okay. I talk about my title and then we've been around for, we've been around since 2018. Does it better, is it better to say seven years or 2018?
+What do you think? Seven years. Oh.
+We've been around for the last seven years. And we've raised over eight.
+[Speaker 2]
+I started this company seven years ago, we've raised.
+[Speaker 1]
+Oh yeah, yeah. I started this company seven years ago. We've raised over $80 million to the state with major backing from PayPal.
+PayPal Ventures. With backing from PayPal Ventures. We're the pioneers and inventors of embedded wallets.
+[Speaker 2]
+Maybe let's just do the PayPal Ventures and stop and then let's do the next part. Because they can cut it together.
+[Speaker 1]
+Yeah.
+[Speaker 2]
+Unless you would rather flow. It's just like a lot to remember.
+[Speaker 1]
+I can try it first. Yeah, I want it to flow.
+[Speaker 2]
+Because then it's embedded wallets and it's pioneers and inventors. Mattel, Polymarket, and Forbes.
+[Speaker 1]
+We're the pioneers and inventors of embedded wallets. We've onboarded over 50 million wallets to the state. 200,000 plus developers.
+And we've been working with, should I say marquee, top tier customers? We've been working with some top tier customers like Naver, Polymarket, Mattel, and Forbes. Yeah, we've been collaborating with some top tier names such as Naver, Polymarket, Mattel, and Forbes.
+Yeah?
+[Speaker 2]
+Let's try that.
+[Speaker 1]
+Okay, I'll try it. Can I try now?
+[Speaker 2]
+Yes. Okay, yeah. Just conversational.
+It's better to talk slower than feel like you're saying a script.
+[Speaker 1]
+Hi, my name is Jay. I'm the co-founder and president at Mattel. I should look at you.
+Yeah. Hi, my name is Jay. I'm the co-founder and president at Mattel.
+I'm the co-founder and president at Magic Labs. I started this company over seven years ago and we've raised over $80 million to the state with backing from PayPal Ventures. We're the pioneers and inventors of embedded wallets.
+We've onboarded over 50 million wallets to the state, over 200,000 developers, and we've been collaborating with some top tier names like Naver, Polymarket, Mattel, and Forbes.
+[Speaker 2]
+Great. That was great.
+[Speaker 1]
+Nice. What is that? It's a tape.
+[Speaker 2]
+All right, we're good, right? Yeah, we're good.
+[Speaker 1]
+Thank you.
+[Speaker 4]
+Wow. You must be exhausted. I'm exhausted.
+[Speaker 1]
+This should be easy. It's the hardest one now. You did like three hours straight, so.
+Yeah.
+[Speaker 2]
+I got you food. I got it from that place you always get it from.
+[Speaker 1]
+Which one? Guy Kitchen? Okay, thanks.
+Oh, okay. Ooh, okay, I should bring it down here.

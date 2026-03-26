@@ -1,0 +1,1532 @@
+﻿Nico
+all_Nico
+===
+
+
+[00:00:00] Speaker: [00:00:05] So first is, [00:00:10] could you briefly introduce yourself? 
+
+
+[00:00:14] Speaker 2: Hi, my [00:00:15] name is Nico. I'm a product designer, the third product manager here at tma. Uh, and [00:00:20] yeah, I've been working on prototyping and activity, the editor and, and now Figma [00:00:25] make. 
+
+
+[00:00:26] Speaker: And could you more, uh, could you. More explain about [00:00:30] your current mission.
+
+
+[00:00:31] Current mission with pma. Make. Mm, 
+
+
+[00:00:34] Speaker 2: I've, [00:00:35] I've been working since eight years, nearly eight years in March. And, and for this [00:00:40] entire time, basically, I've always worked on interactivity features, uh, related to, to [00:00:45] prototyping and, and getting more people to play with, with ideas in an interactive way. And, and [00:00:50] really Figma make is a continuation of that in a new technology now that kind of [00:00:55] like ai.
+
+
+[00:00:56] Enables the editing of code to be incredibly approachable and [00:01:00] easy. It's the same mission still that like empowered us, uh, throughout [00:01:05] the years for kind of like prototyping. It's to get people to play with interactive [00:01:10] ideas and find essentially the, the thousand and first idea, uh, [00:01:15] because that's basically where, what design is about.
+
+
+[00:01:19] Speaker: [00:01:20] Damn. I I heard you, you are the, uh, having built the Figma [00:01:25] editor for eight years. So, so how has your definition of the design tool [00:01:30] evolved from the holidays to today's AI treatment work? 
+
+
+[00:01:33] Speaker 2: I think that [00:01:35] design tools are really there to, to enable you and, and your team to [00:01:40] uncover ideas that you didn't even know you had, and really a lot less about, like, [00:01:45] perfecting this one idea that that's also a job.
+
+
+[00:01:47] But, but in, in also in my experience of. [00:01:50] Once I knew exactly what I needed to do and, and what the solution was, I'm, [00:01:55] I'm done anyways. Right. Uh, and, and I think throughout, once I even got to this point [00:02:00] that I could perfectly explain what the solution or what even the problem is, that also means I'm [00:02:05] kind of done in so much of the space in between.
+
+
+[00:02:08] It's like dealing with like two spaces [00:02:10] of ambiguity at the same time. You have the questions on what even is the [00:02:15] problem, who are we solving it for? And at the same time, you have the questions of like, what can we do? What could [00:02:20] the solutions be? And you're, you're jumping back and forth between those two.
+
+
+[00:02:24] And I think zooming out [00:02:25] at that level, the role of design tools really hasn't changed, right? It, it [00:02:30] became faster. It became faster to get to a higher fidelity. There's more materials to work with. [00:02:35] Um, but I don't think that design itself has [00:02:40] changed. There's, there's two truths. Your first idea is never the best one.
+
+
+[00:02:44] Uh, [00:02:45] design is never one and done. And, and you always have to even to just [00:02:50] compare how good your first idea is. You need a second idea and a third and a fourth to [00:02:55] understand how good that first idea was. And, and that at some point leads you to finding the [00:03:00] actual right idea. And I think the second one is design is still social, [00:03:05] right?
+
+
+[00:03:05] It's like I, on, in, in, on top of this, I can gain [00:03:10] confidence into an idea, but how do others, how do my [00:03:15] collaborators. Kind of like also gain confidence to that idea. And that's because they can compare [00:03:20] different ideas with each other, but they can also express their own ideas. Sometimes I'm just like, [00:03:25] oh, I, I like this idea, but like, oh, what if we did this like slightly differently, that [00:03:30] could be better.
+
+
+[00:03:30] Right? And, and then I gain confidence in this other idea because I'm like, yeah, that [00:03:35] doesn't work that well. Okay. Yeah, maybe it is really hard. Okay, I do like this idea. And then now I've [00:03:40] gained confidence as a team, uh, and, and with in, in none of what I just described. [00:03:45] It's really kind of like it defines what tool you're using for that process.
+
+
+[00:03:49] It's a [00:03:50] collaborative creativity process that we need to go through, uh, as teams and, and, and [00:03:55] we're still doing that today. Now just with the help of ai. 
+
+
+[00:03:59] Speaker: Then [00:04:00] you have read wrong term project, like TI and, uh, variance. So [00:04:05] what, what were the most valuable lessons from those effort and how have the, [00:04:10] how have they influenced your approach to today's best ai?
+
+
+[00:04:14] Development. [00:04:15] 
+
+
+[00:04:17] Speaker 2: Yeah. 
+
+
+[00:04:17] Speaker: I think, 
+
+
+[00:04:19] Speaker 2: is [00:04:20] this alright? Um, yeah, I've, I've, [00:04:25] over the years I've kind of like worked on, on on problems that like fell into that space. Right. That fell [00:04:30] into that space because, for example, with multi edit, right? Um, [00:04:35] multi edited was a really interesting experience. We multi edited and variants were actually deeply connected with each other.[00:04:40] 
+
+
+[00:04:40] They shipped slightly separate from each other, but they were actually thought of with one. In one [00:04:45] afternoon and like a big jam session between show Brady and Rasmus, uh, and me. And like, it was, it [00:04:50] was really fun. And the thing we knew was that like we wanted to show for variants, [00:04:55] different states of the variant side by side.
+
+
+[00:04:58] Other tools didn't do [00:05:00] that in, in, in one grouping, right? But it was an emergent behavior we have seen inside of Figma and [00:05:05] in other tools. Um, and that required us to kind of like rethink some of the things [00:05:10] of like, how do you edit all those states at one? And that's kind of like where multi [00:05:15] edit came from because when we tried it out, how the editing is today, it actually wasn't [00:05:20] great.
+
+
+[00:05:20] Right? And so we started out with this idea of like, hey, we somehow have to make [00:05:25] editing of variants better, right? We somehow have to find a way to edit [00:05:30] repeated content across different frames. But [00:05:35] all the solutions we kind of like came up with with this problem definition of we need to find a [00:05:40] way to make like variance better.
+
+
+[00:05:42] Variances editing better made it [00:05:45] feel like complicated. Right? It made it feel kind of like, like too heavy handed. Like, [00:05:50] uh, with, in, in, in Germany you'd say with Canon anden, which is like, you [00:05:55] shoot cannons onto sparrows, I think, which sounds much worse than English. I don't know. [00:06:00] But, but it's like, the point is, is we, we, at some point I [00:06:05] was like discussing a lot with sho about this and at some point.
+
+
+[00:06:09] I realized [00:06:10] myself, it's like, Hey, I'm working on a design tool now. Like, and there's a lot of [00:06:15] behavior that is established on how design tools work, and that's kind of like the ground [00:06:20] you're standing on. And this was the first project for me personally. I, I joined as an intern I, [00:06:25] and where I felt like, oh wait, I can open up, I can [00:06:30] open up the hatch and make changes to this like underlying core of how design tools [00:06:35] work and that.
+
+
+[00:06:37] Kind of like realization allowed us to then re [00:06:40] rethink the problem statement for multi edit to be much, much, much broader. So [00:06:45] instead of being at about editing variance at once, right? It was about [00:06:50] any selection across two frames or two hierarchies should be better. [00:06:55] And so that kind of like was the, was the, was the the moment where it was like, wait, I'm now [00:07:00] able to explain multi edit in a sentence.
+
+
+[00:07:02] But it took us a year to explain it in a sense. [00:07:05] And when I told it to a coworker who hadn't heard about the project and the coworker [00:07:10] kinda like goes away with like, oh yeah, that makes sense. I'm like, no, you're not. Like, it's not [00:07:15] nice enough. Like this took us so long to get to the simple description on, on, on fixing multi edit [00:07:20] and all of those things.
+
+
+[00:07:24] [00:07:25] Liberating the exploration, the understanding, the problem. Uh, again, all of those things. [00:07:30] We could have done this maybe faster with ai. But we would've went through the same motion. We [00:07:35] would've went through the same motion of like, ah, what we're solving doesn't feel quite right. The problem feels [00:07:40] important, but we need to find a way to like zoom out.
+
+
+[00:07:42] Um, and, and yeah, and I think that that's the [00:07:45] part where AI will, will help. Um, but yeah, that, those are [00:07:50] kind of like the tricky projects. Uh, I, I've worked on in the past. [00:07:55] 
+
+
+[00:07:55] Speaker: I heard show, show open. Emphasize the feel of the product. So, so [00:08:00] from PM's perspective, how, what defines a great field in an AI powered [00:08:05] products product speed, uh, alpha quality, uh, [00:08:10] predictability or something else?
+
+
+[00:08:13] Speaker 2: I think that it's [00:08:15] really in a lot of cases about the field coming through. Once you [00:08:20] crack the, like, general model of how people work with the software, so much of the field is [00:08:25] about all the. Details. And as an example for this, kind of like looking back into Figma design, I remember when [00:08:30] I looked at Figma design before I applied, they did one thing really nicely, which was that [00:08:35] if you had a selection bound, if you had an object selected and you moved it underneath a different object, [00:08:40] the selection bound is still at the top and then clicking again and moving, it didn't move the [00:08:45] object that was visually in front of this.
+
+
+[00:08:47] So that's like one of the things where, oh yeah, that's [00:08:50] what I expected, but it's also not what I was used to. And I think that. [00:08:55] Apart from meeting a baseline of, of quality meeting, a baseline of kind of like [00:09:00] capabilities. There is this thing where the moment you touch it, [00:09:05] you're like, oh yeah, oh yeah, that's what I always wanted.
+
+
+[00:09:07] And, and so I think that so much of when it feels [00:09:10] polished, it's like when you sand wood long enough and then you touch it, you're like, wait, this [00:09:15] actually feels really smooth now. There are these kind of like lots of little things that, that we [00:09:20] still need to. To kind of like, like get to in a lot of places, um, [00:09:25] that really makes things feel nice.[00:09:30] 
+
+
+[00:09:31] Speaker: Then when Figma decide to invest [00:09:35] seriously in ai, so what was the initial reaction within the product team? So more [00:09:40] excitement or skepticism? Yeah, something like that. 
+
+
+[00:09:44] Speaker 2: We've [00:09:45] been investing in AI for, for a couple of years now, and I think there were a couple of moments. [00:09:50] Where we saw demos in the wild and people kind of like [00:09:55] sharing things, uh, of like what is even possible with, with new large [00:10:00] language models.
+
+
+[00:10:01] And, and we've experienced all of this ourselves within, uh, [00:10:05] within our personal lives, right? Like, like using chat bt for the first time and you're like, wait, what is happening? [00:10:10] Like what is, what is what is working? This is a wonderful technology. And so I think there [00:10:15] was actually a lot of excitement and drive to being like, what does that mean for design?
+
+
+[00:10:19] And [00:10:20] I think one key part really was that we don't think, [00:10:25] and this was pretty much clear early on, we don't think they had AI kind of like replaces [00:10:30] designers or even other people in, in, in any of this, uh, workflows, [00:10:35] but that it supercharges individuals and gives them superpowers [00:10:40] so that you can work better together, really.
+
+
+[00:10:43] And I think that, that once we [00:10:45] kind of like got to that point, it was just like, yeah. This is, this is wild. We [00:10:50] have to work with this. We're actually really excited to work with this. Um, and so yeah, starting on this was, [00:10:55] was super fun 'cause it started to kind of like challenge people's thoughts, [00:11:00] challenge on like how do we do this?
+
+
+[00:11:02] But it was also hard, right? When, when, when [00:11:05] we started with AI features, I was working on a feature that we had called Magic Link. [00:11:10] It's now called ADD Interactions and you can select a couple of frames and there's kind of like a simple AI that [00:11:15] like. Looks for possible connections and draws those interaction noodles between those frames.
+
+
+[00:11:19] [00:11:20] This was before vibe coding in AI and code. Um, building. [00:11:25] This was really interesting because the first demo we had built in like two weeks and, and [00:11:30] that's often the point when people share something on Twitter or on socials and then, [00:11:35] and then you can often see so many things happening, but actually [00:11:40] productionizing it, actually finishing it actually like.
+
+
+[00:11:42] Going through this like Gartner hype cycle by [00:11:45] yourself as an internal team, it's like it takes a while to go from a [00:11:50] cool demo and with AI so much more, um, than with, with general [00:11:55] features to something where it's like, oh, this is reliable now. Like this is something that we [00:12:00] can actually work on. And I think not getting too hyped up in the beginning of like, oh, this is gonna like, [00:12:05] change everything.
+
+
+[00:12:06] Um, but kind of like also just being, having like a quality bar [00:12:10] that we want them. To feel, feel smooth, feel good. It's kind of like what, what like [00:12:15] also pushed things, um, to kind of like the first config release where we started with like our AI [00:12:20] features two years ago, I think. Two or three. 
+
+
+[00:12:24] Speaker: Then I want [00:12:25] to ask, uh, you have spent years building feature, uh, centered on [00:12:30] users precision and control, like market editing.
+
+
+[00:12:33] So, but [00:12:35] generative ai, so by nature is about ambiguity. Ambiguity and [00:12:40] iteration. So what was the most challenging cognitive for you in moving [00:12:45] between those two words? 
+
+
+[00:12:47] Speaker 2: I actually disagree with you. Oh, [00:12:50] sorry. Let's, I'll do it again. Yeah. I think it's interesting looking at the [00:12:55] editor as something that is a space for precision and refinement and AI as a space for [00:13:00] iteration and ambiguity.
+
+
+[00:13:01] But I don't think that that's necessarily [00:13:05] how we've been looking at Figma design in the past. Um, there's been. Um, [00:13:10] a lot of discussions on how could we make Figma design maybe more structured [00:13:15] or more organized. But if you, one of the things I feel that like I [00:13:20] am most proud of, uh, for, from, from us as a team is that when [00:13:25] people get into Figma design as a team and they start working on this, [00:13:30] it gets messy, right?
+
+
+[00:13:31] And you can see all of those explorations, we [00:13:35] call it like milky weighing. They all go down, down to the, like generally do the [00:13:40] right and, and and to the bottom. And it's all these different ideas from an individual or from different people. [00:13:45] And so Figma design always was also about iteration [00:13:50] and, and, and, and, and navigating ambiguity.
+
+
+[00:13:53] Right? And of course there's [00:13:55] also this part of finalizing things, having precise control, but I think that that goes hand in [00:14:00] hand with exploring something and iterating on something. You need precise control. [00:14:05] To actually get this idea in your head out, and you need to then be able to duplicate [00:14:10] this idea and, and, and try out something else also with high precision.
+
+
+[00:14:14] And you need to just do [00:14:15] this over and over and over again. And so I think that again, with the [00:14:20] role to AI in this space is it's going to make this process faster. It's [00:14:25] going to actually allow me to get my idea when it's even more [00:14:30] ambiguous onto paper. Much, much faster than before in an [00:14:35] playable and experienceable state, but only to then do it [00:14:40] again and again and again, similar to how we've done this today.
+
+
+[00:14:42] Uh, 'cause then, then that's how you find [00:14:45] your, your best idea out of the sea of hundreds of ideas. 
+
+
+[00:14:49] Speaker: Hmm. [00:14:50] Then I heard PMA has long, has long been strong [00:14:55] at supporting structured design, so system and components, so. How are [00:15:00] you reconciling that kind of structured rigor with the float [00:15:05] and unpredictable nature of the generative ai?
+
+
+[00:15:07] So are there, are there points [00:15:10] where, where the two comes into, into complete mm-hmm. [00:15:15] 
+
+
+[00:15:15] Speaker 2: I think that there's a lot of space in which both [00:15:20] structured design and like iterative, explorative, [00:15:25] um, design actually. Match and, and we've, we've just released like [00:15:30] make kits as well, which is like a design system for make in which you [00:15:35] can reuse components across different files.
+
+
+[00:15:37] I think a lot of those pieces is, [00:15:40] is because structure and iteration, uh, go hand in hand, [00:15:45] right to you rarely iterate entirely from scratch. You [00:15:50] often iterate from something that exists before and then you tweak it and you do some other changes, but a [00:15:55] lot of those things you don't want to touch. And I think that, uh, that is something where [00:16:00] structure and design systems come in.
+
+
+[00:16:01] There's a lot of pre-existing knowledge of, of, of patterns that [00:16:05] work. And as a designer and, and a product team, you need to navigate this ambiguity [00:16:10] of when do I adhere to the system and when do I break it? And, and, and where [00:16:15] does the system helped me to get an idea out faster so that we can [00:16:20] refine the cherry on top.
+
+
+[00:16:21] And I feel like so much of product design is, is, is, especially with the [00:16:25] design system. It's actually what's the cherry on top of our feature and what's [00:16:30] the things we can just use that we have? 'cause if you can focus on the cherry on top, then suddenly [00:16:35] it's like, that's the thing that's gonna matter. The, the, just the i everyone can build the ice cream, but [00:16:40] like, what's your cherry on top in that sense?
+
+
+[00:16:42] And I think that that's where, uh, um, [00:16:45] structured and systems designed actually supports the development of this cherry on top of, [00:16:50] for every idea, I'd have to rebuild the entire ice cream tower right by hand. [00:16:55] Because there was no structure available for me. I would just spend so much time [00:17:00] recreating stuff that exists.
+
+
+[00:17:01] So you shouldn't recreate stuff that exists. You shouldn't have to. [00:17:05] And that's kind of like where the structured design supports the development of craft on top of [00:17:10] it
+
+
+[00:17:13] Speaker: from the the, [00:17:15] from the perspective of someone who isn't a technical expert like me. So iterating [00:17:20] AI feature without disrupting the core editor experience is challenging? I think so. What [00:17:25] guiding principle have Figma? Strike that balance. 
+
+
+[00:17:29] Speaker 2: [00:17:30] Figma is, Figma design especially really is like a, it's a highway, [00:17:35] right?
+
+
+[00:17:35] It's a highway. Or if you think about it, it's at the same time, it's a, it's [00:17:40] the main stage on a, on a festival. Everyone is there [00:17:45] and everyone wants to be there and navigating that highways is hard. It's tricky. [00:17:50] You can't just put up a roadblock sign in a highway where people go. 150 miles per [00:17:55] hour. Right?
+
+
+[00:17:56] And you need to find ways to un understand how to [00:18:00] introduce changes, how to make these changes in a way that flows the traffic [00:18:05] smoothly. Right? And so, of course, I think there are sometimes pieces where we're [00:18:10] struggling ourselves and like, how much can we change? How much can we change [00:18:15] abruptly? How much can we change slowly?
+
+
+[00:18:17] There's a couple of guiding principles. Uh, one of [00:18:20] those is, is we don't change your pixel. Right. We don't touch your [00:18:25] pixels. If, if, if what is on your canvas looks like this today, it's gonna look like [00:18:30] this in years from now. Even if this meant that, like under the hood, we actually have to retain [00:18:35] every data model we have ever had that is content within a Figma file.
+
+
+[00:18:39] [00:18:40] But we need to preserve this so you don't suddenly lose trust in the [00:18:45] editor. So that's a pretty, pretty, pretty hard baseline principle. We are [00:18:50] not changing your design. And so if you go into old design files, actually, uh, [00:18:55] and you'll click around. There's a couple of moments where we've introduced like an upgrade step, [00:19:00] right?
+
+
+[00:19:00] Where it's like, Hey, this is using an old form of our text rendering capabilities to [00:19:05] enable text on a path or something like this. I'm not super sure what it is. You can click a button that [00:19:10] says, update this. Then you're looking at the design, we're making a change. Maybe [00:19:15] some position changes and that's okay.
+
+
+[00:19:17] We've did that with baseline height as well. Uh, [00:19:20] and we've also did this for some kind of like in-depth prototyping features around or around state management. [00:19:25] So not changing what you see on the canvas is a high principle. [00:19:30] There's other ways on top of this. Of course, we want to make changes to the ui, [00:19:35] right?
+
+
+[00:19:35] And, and, and we do constantly make changes to the ui. And really now it depends on, [00:19:40] on how trafficked that area is, right? So for example, when we [00:19:45] switched from UI one to UI two. Which was kind of like the first big redesign of Figma. [00:19:50] We changed it overnight and redesigns are hard. People are gonna hate you [00:19:55] for the redesigns anyways.
+
+
+[00:19:56] Like, like that's, that's just like a, a given change aversion [00:20:00] behavior. And in a couple of weeks people generally find it better than [00:20:05] before. Um, especially when after a couple of weeks of using UI two myself, looking [00:20:10] back at U one, I'm like, I don't want to use this anymore. Um, and so change of [00:20:15] version is real.
+
+
+[00:20:16] And, but, and we learned out of it, we switched from UI two to UI three in a much more [00:20:20] staggered phasing where early adopters can opt into this change. And late adopters [00:20:25] can kind of like find, find their ways, try it out. Maybe if they're like really busy right now and they can go [00:20:30] back, kind of like fix, finish their work in the old workflow that they're accustomed to.
+
+
+[00:20:34] Um, [00:20:35] but it's hard at some point we do have to switch. We don't want to preserve different kinds of UIs for the [00:20:40] whole time. And then I think the third one is just moving things around as hard. [00:20:45] Right. We're like, Hey, this button placement over here has to shift to down there. Uh, we made some [00:20:50] updates in the ui, maybe some stuff shifts around highlighting people that something has changed and [00:20:55] there we just try to communicate it not too aggressively, [00:21:00] um, and easily dismissible, but also like noticeable.
+
+
+[00:21:04] Uh, so we [00:21:05] have to strike a balance between not getting in your way, but also telling you that there's something [00:21:10] new. Uh, and that again, is kind of like tricky and it depends on the size of the launch or the size of the [00:21:15] change. 
+
+
+[00:21:17] Speaker: Yeah. Right [00:21:20] now, the, the market is so messy and every day the new AI product [00:21:25] coming out, popping up.
+
+
+[00:21:26] So I wonder with [00:21:30] many competitors, lacing to Lilly's AI features and how do you balance market [00:21:35] pressure and product, uh, readiness as a. As a product. Yeah. [00:21:40] Manager. Yeah. 
+
+
+[00:21:41] Speaker 2: It's been switching into PM has been, has been really [00:21:45] interesting. I think one thing definitely where I have shifted my own kind of like [00:21:50] way of thinking about some of those pieces is better understanding [00:21:55] what's, what's what, what can we trade off as scope Where I'm like my designer hat, [00:22:00] like if I have my designer hat on, let's make it perfect.
+
+
+[00:22:03] Let's make it smooth, let's make it nice. [00:22:05] If I put my PM hat on. I do realize that my prioritization slightly [00:22:10] shifts where it's like, can we, can we get this faster? Can we cut the scope of this? Is this really [00:22:15] necessary in the first version? So there's a lot of kind of like that, that is like on the [00:22:20] ground changes on how I've changed how to think about what my, [00:22:25] what my team needs of me, essentially in terms of like competitive [00:22:30] pressure to the pressure of ai, uh, or [00:22:35] competitive pressure.
+
+
+[00:22:36] In terms of like competitive pressure with all this [00:22:40] AI developments. Um, and, and pressuring kind of like the [00:22:45] quality at the same time internally of like, when is it good enough for us to ship? I think kind [00:22:50] of like it comes, it comes to how traffic does the space, how much can we make changes [00:22:55] without disrupting users' workflow change a version is a real thing and [00:23:00] we don't want to kind of like keep changing things around and I think this can then gets back to.[00:23:05] 
+
+
+[00:23:05] Being on one hand super flexible with technical problems and technical [00:23:10] developments. What are things that can rapidly change? And then on the other hand, [00:23:15] designing isn't that much different now than it was 10 years ago. It, it, it [00:23:20] is largely the same process. There are human elements to this. There's human elements to this [00:23:25] problem that haven't changed.
+
+
+[00:23:26] Human behaviors, human needs, human processes [00:23:30] change much, much, much slower. Uh, if at all. Right, and, and [00:23:35] understanding when is a problem in which of those spaces, when it is a technical [00:23:40] problem that needs fast, uh, alignment and fast reaction. And when it is a human [00:23:45] problem, where it is more important to get it right and meet users where they are.[00:23:50] 
+
+
+[00:23:50] And I think that like understanding which, which of those it is, is hard. Uh, but that [00:23:55] helps a little bit of, of like, oh, do we need to do this now? Do we need to do this [00:24:00] yesterday? Or can we wait and kind of like find the right solution here before we push on this [00:24:05] forward? Mm-hmm. 
+
+
+[00:24:07] Speaker: Then what, [00:24:10] what core user problem is pig make to make Pig make trying to solve?[00:24:15] 
+
+
+[00:24:16] Speaker 2: I've, I've worked on prototyping and IT activity features [00:24:20] for eight years, nearly eight years in [00:24:25] March, and. It's, it's always been about expressing your [00:24:30] interactive ideas or the interactive quality of your ideas more [00:24:35] quickly and more easily. Right. And so when AI and code came along, we [00:24:40] actually had started working on sites and I was one of the people working on code [00:24:45] layers, which, um, was a way to bring custom code [00:24:50] into, into the process of designing and [00:24:55] building a website.
+
+
+[00:24:55] It and, and, and over time, one thing that was really interesting was [00:25:00] that like, it was powerful, especially once we added AI to this and, and code layers became [00:25:05] AI powered code layers within a website. And it was [00:25:10] really like cool technology already, but it, it [00:25:15] kind of like was missing something. And, and so I do think that internally we've also realized that [00:25:20] um, there's a shift happening and a lot of times.
+
+
+[00:25:23] Just using [00:25:25] AI and code as the entire product is a good way to get an idea [00:25:30] started. And I think that that's really where, uh, Figma Make was born out of [00:25:35] as a way to, for anyone to, to get their idea off the ground and get it to be [00:25:40] playable. Right. And I think that that's really where we are today, is that like [00:25:45] there's something, I have an idea.
+
+
+[00:25:47] I go to figma.com, I open a make file, I [00:25:50] just start typing. I don't, there's nothing else for me to think about. There's no, there's no need for me to [00:25:55] create a webpage or kind of like contextualize this, which is, we're all things you'd have to do for doing that. [00:26:00] Same thing inside of sites with code layers, right?
+
+
+[00:26:03] And it's really just about like getting get, [00:26:05] get something going. And again, I think that like that fits into this larger [00:26:10] process of getting your first idea is just a stepping stone to get your second [00:26:15] idea. And then you can start evaluating and compare and contrast. To get your third idea and [00:26:20] then see again how that compares to just start, start getting your ideas out on [00:26:25] paper to be able to kind of like come to the best idea, which is somewhere down the line.[00:26:30] 
+
+
+[00:26:30] And that's where, where Figma make is good is really good at today. We're far from done. There's [00:26:35] a lot of things to, to solve on top of this. 
+
+
+[00:26:38] Speaker: Then can you take [00:26:40] us to the first aha moment that when fig make generates something [00:26:45] complex successfully, and how did the team react? [00:26:50] 
+
+
+[00:26:50] Speaker 2: I think that
+
+
+[00:26:54] my [00:26:55] first aha moment with, with Meg was, was [00:27:00] actually kind of like at the keynote for Config in London. So it's a little [00:27:05] later. It's a little later, but that was kind of like, that's the one I remember and I was [00:27:10] backstage, uh, my demo was about code layers and, and code layers within insights. And I saw Holly Demo make.[00:27:15] 
+
+
+[00:27:15] And I think in the, in the past weeks before this, I was too busy to really [00:27:20] like look at the capabilities of make or what people had built with it. And then I'm like standing there [00:27:25] and I'm just looking at it and, and I can see Holly presenting. Uh, Tammy had built [00:27:30] like a a 3D modeling environment, uh, within Figma make.
+
+
+[00:27:34] [00:27:35] And I kind of like questioned my own career for a second because I [00:27:40] was like, wait. I have spent seven and a half years slowly increasing the fidelity [00:27:45] within like, Figma, prototyping, like step-by-step variance, uh, interactive components, [00:27:50] smart, animate, like all these, like things small, small and small, like increasing fidelity.
+
+
+[00:27:54] [00:27:55] And, and then like this last bit of time that we've worked with AI and code, [00:28:00] the fidelity like skyrocketed. And now I look at the progress that I've made in comparison to [00:28:05] this and I zoom it to the same scale and I'm like, wait, that progress looks like really slow. [00:28:10] Right? And I think that that's the part where, where it wasn't aha moment for me.
+
+
+[00:28:14] I'm like, [00:28:15] oh man, this is like wild what you can get to, uh, it's, [00:28:20] it's going to be amazing with letting everyone express their ideas. Who can describe [00:28:25] it, who can feel it, but who might not have? The right understanding of using a [00:28:30] tool, but they can talk about this and so many people can talk about what's wrong with their software, [00:28:35] what could be better with their software.
+
+
+[00:28:37] Right. And that was, I feel like the, the first [00:28:40] aha moment for me where I was like, yeah, this is, this is gonna get pretty [00:28:45] wild.
+
+
+[00:28:49] Speaker: Then I want, [00:28:50] I want to ask the, the traditional metrics like, um, may [00:28:55] not feel AI to. So how did you define and measure success for [00:29:00] People Bank? 
+
+
+[00:29:01] Speaker 2: I think there are a lot of metrics that are [00:29:05] important, right? And I, I think there, of course, it is important to understand [00:29:10] general retention and, uh, user growth and, and seeing adoption [00:29:15] rates, right?
+
+
+[00:29:16] Uh, but also like in Figma design over the past years, [00:29:20] there's a lot of kind of like very granular metrics that are quite hard to value. [00:29:25] And that's the same for me because if we look at time spent in the [00:29:30] tool right inside of Figma or in me, if people spend a lot of the time in the [00:29:35] tool, it could mean they're having a lot of fun because they're just like in flow state.[00:29:40] 
+
+
+[00:29:40] Or it could mean things are so annoyingly slow that they're spending a lot of time in the tool and you don't know [00:29:45] just by the numerical value of some of those things, right? If someone [00:29:50] only does, opens the file, does one change and it's done, maybe that was all they needed. [00:29:55] To succeed in their job. And maybe this first operation they did was so [00:30:00] bad that they're like, I'm not touching this again and again, you don't know.
+
+
+[00:30:03] It's just, it's, it's a single [00:30:05] interaction might've been the best interaction of their day or the worst. And so without [00:30:10] qualitative feedback, a lot of those, like detailed, um, behavioral things [00:30:15] are hard to evaluate because it's just a different context in which they are happening. And that's [00:30:20] the context that matters.
+
+
+[00:30:21] Uh, and so I'm not saying. They're not [00:30:25] matter. They don't matter at all. They're very important metrics, especially if we get [00:30:30] into really qu, easily quantifiable things such as latency, loading speed, [00:30:35] general performance, um, like frame rates as you interact with the tool. [00:30:40] All of those are critical to track and there's a lot of kind of like numerical [00:30:45] values that, um, numerical metrics that are hard to evaluate when it comes [00:30:50] to how do users use the tool.
+
+
+[00:30:52] Throughout the course of a day. And I think [00:30:55] kind of like understanding which category the thing you're trying to move falls [00:31:00] under shifts, how you would evaluate it over time. Right? Because with [00:31:05] performance metrics, we, it's like the goal is to get the number, get the number up, get the [00:31:10] number down, um, and keep tracking that over time.
+
+
+[00:31:13] And then you can show great [00:31:15] progress at the end and mean like, yes, we reduced loading times by X amount with some of these [00:31:20] other pieces. I think actually a lot of times it's less about showing that some [00:31:25] number progressed. Of course, it's important to show the adoption of a tool, of a, of a feature, [00:31:30] but again, there it's like sometimes a small subset of users really, really, [00:31:35] really, really needs the feature.
+
+
+[00:31:37] And a large subset of users don't care about it at all. [00:31:40] But if that's an important subset of users, the adoption metric as a [00:31:45] metric of global, global usage of Figma is actually relatively small. [00:31:50] But the perception of Figma having this feature now is a [00:31:55] totally different expectation or a totally different impact to users.
+
+
+[00:31:58] And so for those [00:32:00] kinds of cases and, and the usage where it's ambiguous, you need to evaluate based on qualitative [00:32:05] content, understanding users before understanding users during the process of building it. [00:32:10] How do they react to any prototypes or mocks or, or kind of like back and forth you tell them and how do [00:32:15] they respond, um, once it's out there, right.
+
+
+[00:32:18] Are they, are they happy about it? [00:32:20] Okay. And I, what I would love, what I love doing there is actually like following a [00:32:25] user throughout this whole journey, understanding a specific user's need, [00:32:30] seeing that they're like a good candidate for a continuous evaluation. Seeing [00:32:35] their vibe and their reactions to prototypes or mos, we showed to them [00:32:40] after beef, understand their problem, letting them play with something in an early access program or [00:32:45] like an alpha, and then kind of like shipping it.
+
+
+[00:32:48] And over the course [00:32:50] you can kind of like do like a super cut of user reactions and show the same kind of progress [00:32:55] that you can show with a number going down is user's happiness going up. You [00:33:00] can't do that with just a quantitative number. You need qualitative, uh, [00:33:05] ways to support those kinds of metrics.
+
+
+[00:33:08] Speaker: Then [00:33:10] I'm curious, looking back, so what was the biggest bad [00:33:15] experience or long assumption during. And what, what did you [00:33:20] run from it? 
+
+
+[00:33:22] Speaker 2: Figma make is not even a year old. [00:33:25] So I think that there's a lot of things that I could, we could [00:33:30] talk about in like three years, four years of like, oh yeah, that was a wrong assumption.[00:33:35] 
+
+
+[00:33:35] Uh, I think we're still so early that there's a lot of things we, we don't [00:33:40] know yet that we did wrong, uh, because we might not know a better way yet. And there's a lot of things that like, [00:33:45] are, are correct and I think that like. It's a tricky, it's a tricky problem [00:33:50] to solve when it's so early. I think there's a couple of things that [00:33:55] we, of course could have maybe foreseen better, uh, uh, [00:34:00] earlier, but there's also always something where it's like, we always feel like where [00:34:05] we always generally felt like we're working on the most important thing.
+
+
+[00:34:08] And so [00:34:10] we'll talk again in a couple years, I hope, uh, and, and kind of like see where the biggest failures have been [00:34:15] and ideally how we, how we reconcile them. Uh, but yeah, it'll be, it'll be interesting to see [00:34:20] this is the start, right? Where I've been at Figma for eight years and we'll [00:34:25] talk in eight years.
+
+
+[00:34:26] We'll see how Figma make has progressed then. Um, but yeah, [00:34:30] 
+
+
+[00:34:32] Speaker: I remember something Noah [00:34:35] mentioned that a couple of years ago, uh, that, uh, selling for Creativities [00:34:40] creativity keep getting higher and the, uh, wire the floor keep getting. [00:34:45] So that really started me. So I want to ask, um, has, [00:34:50] has building AI product, has building AI product changed your perspective on creativity [00:34:55] or how you think the world of design and creation will evolve?[00:35:00] 
+
+
+[00:35:04] Speaker 2: I think that [00:35:05] creativity really has stayed the same throughout the years. It's, it's an [00:35:10] important process that that requires. You to be comfortable with your own ideas, [00:35:15] develop a confidence for yourself that something is, is, is worth enough to be [00:35:20] shared. Once it is shared, you also need to have kind of like a, a, a different [00:35:25] mindset that it's not my idea against your idea.
+
+
+[00:35:29] We have to [00:35:30] transition as team from my ideas to our ideas and find [00:35:35] ways that, uh, we, that we work better together. And I think that [00:35:40] AI opens up. Like, as you said, like AI [00:35:45] does increase the ceiling significantly, it lowers the floor. And I think the last [00:35:50] part for that, for that quote is, is it widens, widens the room [00:35:55] and gives you options for different paths to identify the thing.
+
+
+[00:35:59] So I [00:36:00] think, I don't think that creativity changed significantly by itself. I [00:36:05] think the process got faster, but I still think that you need to [00:36:10] like evaluate together a. As a team and come to a conclusion together on what is the best idea [00:36:15] going forward, which requires you to, to iterate and compare, uh, and, [00:36:20] and like understand each other still to this day.[00:36:25] 
+
+
+[00:36:25] Speaker: Hmm. Yeah. [00:36:30] Yes. Now I want to ask, looking at your career, [00:36:35] so you have been at Figma ever since your only internship, aside from the. [00:36:40] Pre, pre break in between. So yeah. What, what, what has kept [00:36:45] you at PMA or over these years and is there something about the product [00:36:50] itself, the team or the culture that continues to draw you in [00:36:55] something that perhaps outside the magazine?[00:37:00] 
+
+
+[00:37:01] Speaker 2: Yeah, I was working on design tools actually back in the day [00:37:05] when I was in college. Which, um, was, [00:37:10] yeah, back in college I started working on, on design tools, uh, after a sketch hackathon. [00:37:15] Um, and I was building a, a plugin, um, for a couple of [00:37:20] years that I saw as a student in Germany. I saw someone, uh, [00:37:25] KA Saren, who now works, uh, who now leads linear.
+
+
+[00:37:28] Um, he used that [00:37:30] plugin at an, like a hackathon where he talked about how Airbnb is using design systems. [00:37:35] I think it's like. Six, 2016 or something. And [00:37:40] I think at that point something clicked for me where it's like, wait, design tools [00:37:45] aren't just a topic that you learn about in school. Like we literally had classes to learn software design [00:37:50] tool software on a Friday afternoon in our university.
+
+
+[00:37:53] Uh, and so it always felt like [00:37:55] this unreachable thing of like, someone somewhere most likely in San Francisco is [00:38:00] deciding how these tools work. And at that point, when, when, when Kari was demoing my plugin. [00:38:05] I realized like, like, wait, wait. I think design tools are kind of fun. [00:38:10] And I was at Shopify, continued to build, uh, plugins there before I came to Figma.[00:38:15] 
+
+
+[00:38:15] Uh, and I applied and I was like, yeah, I don't know. This like, kind of seems interesting. It's like a startup [00:38:20] experience, but I also like design tools a lot. Um, my mentor at Shopify, I was like, yeah, you [00:38:25] should try out that thing. Like go, go do that internship. Don't, don't stay, don't stay at [00:38:30] Shopify. Try try this thing out.
+
+
+[00:38:31] You're clearly passionate about design tool. And [00:38:35] so I did, and then they offered me a full-time position. Um, and [00:38:40] I ended, I ended up thinking about it and I asked, and she just [00:38:45] said like, try it out. You can always quit in a year. And so eight years later, I haven't quit yet. And I think [00:38:50] that like, really the part is that working on design tools is so [00:38:55] gratifying because you end up working on features for a while and you're [00:39:00] deep in the, in the forest of edge cases.
+
+
+[00:39:03] And then, and then you [00:39:05] launch it into the world and that's all exciting by itself. But then you see [00:39:10] someone using it for the actually intended purpose of creating something that is in their head [00:39:15] and, and that gives you so much power back. It gives you so much like [00:39:20] energy back because you're like, wait, you were able to do this [00:39:25] with the thing I was building?
+
+
+[00:39:26] Like, this is so cool because I don't necessarily see myself as a very [00:39:30] creative designer or a PM. Um, I'm, I'm [00:39:35] fast at Figma. Am I a great explorative designer? I, I don't think so. [00:39:40] Um, but so seeing other people use Figma to, to, and push to its limits in [00:39:45] ways that like I could never imagined doing myself, that is so, [00:39:50] it just gives you so much back and, and I don't see [00:39:55] myself doing this somewhere else.
+
+
+[00:39:58] Speaker: And looking back [00:40:00] on your. Years of kma. So if you had to name one thing, [00:40:05] the simple, most important ingredient inbreeding product that people truly love. [00:40:10] So what would be? What would be So, I know, I know there there's probably no real [00:40:15] secret sauce, but yeah, I think that's actually what people watching will want to know.[00:40:20] 
+
+
+[00:40:21] Speaker 2: Single. What is the single most [00:40:25] important thing.[00:40:30] 
+
+
+[00:40:30] Oh, this is really hard.[00:40:35] 
+
+
+[00:40:35] I think it's collaboration. I think that, and there's so much tied to [00:40:40] this. I think that the answer is somewhere in the middle. Uh, so it's a back and forth. It's a give [00:40:45] and take. It's about humility, it's about finding answers that, that [00:40:50] are, are somewhere in between. We all are different experts with different kind of like preconceived, [00:40:55] uh, preconceived notion, but also different kinds of.
+
+
+[00:40:58] Of understanding and different depths and [00:41:00] different, uh, arrays in different spaces. And so coming together and [00:41:05] evaluating each other's ideas as if they would be our own and finding and going from [00:41:10] my ideas to our ideas, that has been the through line in any of the projects. Of course, [00:41:15] there's care for detail and all of those things, but I don't think any of that wouldn't, would have been possible [00:41:20] without collaboration.
+
+
+[00:41:23] Speaker: Nice. And [00:41:25] I'm curious. Pimas, uh, team culture. So, uh, Pima has long value, [00:41:30] is a little big update culture of correct, correct measure. So has [00:41:35] this please survived amid the speed of AI development[00:41:40] 
+
+
+[00:41:42] Speaker 2: details are so incredibly [00:41:45] important in, in, in so many workflows, right? I think that the [00:41:50] question of at what point do details matter. I think that's an interesting, [00:41:55] interesting question where if, if you look at like eight [00:42:00] years, right? So many of the features we've built once we are an auto layout [00:42:05] version six, I don't even know, right?
+
+
+[00:42:07] Like there's so many features we've built [00:42:10] that we've improved over time and we did another pass at them and we did another pass at them. And I [00:42:15] think that's where in so many, in every one of those things, quality still matters. [00:42:20] And in. All those things. It's like sometimes in the first couple of weeks or in the first couple of months, [00:42:25] some of those qualities, some of those polish items might get a [00:42:30] second step, right?
+
+
+[00:42:31] Because you just need to ship this thing right now because we're under like an [00:42:35] active, in an active competition with a lot of other tools. Of course it's a crazy space in a crazy time. [00:42:40] We can't just like sit on the users we have, we have to act, [00:42:45] but we cannot lose this view on quality and I think by.
+
+
+[00:42:49] Having [00:42:50] been here for, for a couple of years, you kind of do zoom out and you see the patterns over [00:42:55] time. And quality is a constantly floating bar that [00:43:00] keeps being pushed up as we go along. We don't ship a feature and then never [00:43:05] touch it. We have to keep improving those things sometimes at a faster rate.
+
+
+[00:43:09] [00:43:10] All the layout had a version two scheduled by the time we ship version one. Um, [00:43:15] sometimes at a slower rate where we kind of like rethinking some of the ways we. Build design systems, [00:43:20] uh, on how it's structured under the hood. Uh, and that kind of like can take a couple of [00:43:25] years, but we keep pushing quality forward as well.[00:43:30] 
+
+
+[00:43:30] And so I don't think it's a, oh, quality now doesn't matter. Quality still [00:43:35] matters. It's the prioritization and the sequencing that if you look at just two months, [00:43:40] maybe at that point there's a couple of quality items that we skipped or a couple of Polish [00:43:45] items. And then you look at it in six months, you look at it a year, quality will rise [00:43:50] up to just having the feature itself.
+
+
+[00:43:52] Because at the end of the day, [00:43:55] we are a tool in which people wanna do work. They wanna spend like eight, [00:44:00] ideally maybe eight hours a day or something to just get into the flow state and all of those [00:44:05] little trip wires, all of those little like moments where like, I don't know, it [00:44:10] feels like the, the curtain, not the curtain, the rugs like edges kind of greased up.
+
+
+[00:44:14] [00:44:15] They're gonna annoy you if you walk on that, on that rug, hundreds of times a day. [00:44:20] Right? So they all are important and I think over time actually created a, a [00:44:25] very good experience within the Figma editor. Um, that is hard to get out of. [00:44:30] I think it's good. It's fun to work on these kinds of details, uh, over time, [00:44:35] and they continue to matter.
+
+
+[00:44:36] Yeah. 
+
+
+[00:44:38] Speaker: So last question is, [00:44:40] so for those watching this and. To join Figma FMAs product [00:44:45] team. So what advice would you give them? So, and what was the one thing you tell [00:44:50] them to focus on? Focus on work value most. And one thing I I want to [00:44:55] add is what would you say is the simple, most important value that your team holds[00:45:00] [00:45:05] 
+
+
+[00:45:08] Speaker 2: thinking about? [00:45:10] How, how to join Figma and what matters as you're kind of like [00:45:15] applying Figma. There's, there's a couple of different angles where, of course it's hard to [00:45:20] understand. Um, of course it's like sometimes a different, depending on the [00:45:25] team. We're, we're looking for different kinds of profiles and it's always a, a [00:45:30] very kind of like individual situation in, in, in what, what you're good at or where you're [00:45:35] struggling with.
+
+
+[00:45:35] So this is not. Kind of like a general purpose, uh, kind of like, like, like [00:45:40] advice in that sense. It always is a, a unique situation. Um, for [00:45:45] me when I've been interviewing over the years and, and, and been looking at things, uh, and I work on the [00:45:50] editor, uh, one of the things I've, I've, I've looked at is always the, the aptitude for [00:45:55] complexity and, and for example, if you've worked on other kinds of authoring tools, [00:46:00] other kinds of design tools, maybe, and, and other tools where people add things.[00:46:05] 
+
+
+[00:46:05] And create things with things you create that adds like a second layer of [00:46:10] complexity that is just hard. And so if you have that experience before [00:46:15] in some way or the other, you've somehow thought about some kind of authoring environment that [00:46:20] has primitives that other people can combine into new primitives in some way, or shape or form.[00:46:25] 
+
+
+[00:46:25] That is already a really good signal, uh, for, for Figma, uh, for [00:46:30] Figma complexity within the added. Right. Um, there might be, if you're applying for a [00:46:35] different kind of job at Figma, there might be a very different set of expectations, uh, as well. [00:46:40] So, so don't take, think, take this for granted for all jobs at Figma.
+
+
+[00:46:43] Right. And I think the [00:46:45] other part is this need for going [00:46:50] out of just like, just mocks on just [00:46:55] prototypes. I think we're actually at a stage where it's been really, really, really interesting to see when [00:47:00] people start to ship. Their ideas and, and I've given that same [00:47:05] feedback in the past when in, in the past, that feedback has been tricky because you kind of needed someone [00:47:10] else to be able to help you build something.
+
+
+[00:47:12] Right? But, but we are, we are at this point where like if you [00:47:15] have an idea for something, scratch your own problem, build a version that like fixes that [00:47:20] problem and maybe you can get a couple of people actually using it. Because once you get people using it, [00:47:25] you're gonna start dealing with opinions on what the next thing should be for the software that you were imagining in your head.[00:47:30] 
+
+
+[00:47:30] And now it gets into. And, and that understanding of how to, [00:47:35] how to trade off between your own vision, uh, and other people's, your user's [00:47:40] vision and, and and, and what you can achieve, uh, with the thing you've already built. [00:47:45] That trade off is, is the other big thing that like we're doing day in, day out is as PMs and as [00:47:50] designers as well.
+
+
+[00:47:51] Uh, so those two are kind of like two core qualities. I, [00:47:55] I do tend to keep looking for over the years. Uh, and, and, and I hope that's kind of like helpful [00:48:00] to understand. Uh, what, what it is like you would be doing here at [00:48:05] Figma. And yeah, you should apply. 
+
+
+[00:48:08] Speaker: One last, one last question is, [00:48:10] uh, uh, could you describe what kind of leader, uh, she [00:48:15] is and his leadership and ship and personality and something like that?[00:48:20] 
+
+
+[00:48:22] Speaker 2: I've worked with Shaw over [00:48:25] basically my entire time at Figma, uh, on and off and on different projects. And I think [00:48:30] that like there's a couple of, of, of qualities that that define show that really like help [00:48:35] shape me who I am and what I have learned over the years. Uh, one thing, his show is [00:48:40] incredibly good at kind of like actually prioritizing what to do next.[00:48:45] 
+
+
+[00:48:45] And, and he's been, that's been really one of the biggest things he's been teaching me in the beginning. [00:48:50] 'cause I came from university and my head was all up in the clouds and I was like, so yeah, what is the thing we're shipping in the [00:48:55] next six weeks? And that kind of like shifted my perspective a lot. Uh, uh, [00:49:00] on that side, at the, at the other side, there's a lot of like systemic understanding where she'll [00:49:05] still understands how things will fit together long term.
+
+
+[00:49:08] And if he sees two things, [00:49:10] it's like, wait, they should be kind of like the same. Um, and that's something that kind of like, I've also [00:49:15] grown, uh, uh, uh, with him as well. And there's a third thing, and I think that one was [00:49:20] actually the one that is one of the biggest reasons, uh, why I'm also still here [00:49:25] is, is show is like actually really humble.
+
+
+[00:49:28] And I [00:49:30] joked in the past that like when shows started working on design tools, I was three, which kind of [00:49:35] like creates wild difference in terms of like experience. I'm like, yeah, you're clearly [00:49:40] significantly more experienced than me. And there was a discussion we had back in the day about [00:49:45] a prototyping feature, surprise surprise, that where we kind of like [00:49:50] debated on like, oh, what should we do?
+
+
+[00:49:51] Should we go this route or this route? I had some thoughts on like how this should be working [00:49:55] and show. I said, I was like, okay, let's think about [00:50:00] it. And on the next day he came to me and I was sitting, sitting in the office drinking coffee, and he sat down and [00:50:05] said, because something bad happened. And I was like, yo, what, what's going on?
+
+
+[00:50:09] And he said like, [00:50:10] yeah, you're right. And, and that to me was, was, was [00:50:15] so impactful and, and not in the, not in the, in the, in the way that like, oh, I was right. [00:50:20] Great. But in the way of like, wait, if sho this person was like. Clearly [00:50:25] significantly, like 30 years of experience more than me tells me I'm, I'm, [00:50:30] I'm right and that he's wrong.
+
+
+[00:50:32] Then I can be wrong so many more times with [00:50:35] my like three or four years of experience, uh, and, and con continue be bold to my [00:50:40] ideas. And yeah, that was really kind of like what, what I've worked with with show over the years. [00:50:45] Thank you. Thank you. 
+
+
+[00:50:48] Speaker: Yeah. Thank you very [00:50:50] much.
+
+
+
+
+Sho
+all_sho
+===
+
+
+[00:00:00] Speaker: [00:00:05] [00:00:10] Chris, continue.[00:00:15] 
+
+
+[00:00:18] My name is Show Komoto and I am a [00:00:20] VP of product at ma at uh, Figma.[00:00:25] 
+
+
+[00:00:25] Can you walk us through your career?[00:00:30] 
+
+
+[00:00:30] Yeah. Can I say the intro again? 'cause I feel like I stumbled over it. [00:00:35] Hi, my name is Shoko Moto and I'm VP of product at Figma.[00:00:40] 
+
+
+[00:00:42] Um, so how did I get started? Yeah. 
+
+
+[00:00:44] Speaker 2: Yeah. 
+
+
+[00:00:44] Speaker: [00:00:45] So I went to school for physics and um, I was there for [00:00:50] a long time. I got a PhD and part [00:00:55] of the way through my PhD program, I decided, well, I just don't want to be doing this anymore. [00:01:00] And, uh, 
+
+
+[00:01:01] Speaker 3: you know, you think when you're a kid that, uh, you're gonna discover all this [00:01:05] stuff about the world, but then it turns out that it's a lot of, a lot of, uh, annoying [00:01:10] calculations and, and stuff.
+
+
+[00:01:11] And I really liked working on computers. And so I switched to, [00:01:15] um, the computer industry and my first job was at a company called General Magic. [00:01:20] Which was an early company that was building small devices for people to [00:01:25] carry around that let you browse the internet and get email and stuff. Um, but [00:01:30] it was a little too early.
+
+
+[00:01:30] The products were, it was the right idea, but they were this big. It was too big. [00:01:35] And then, uh, I went from there to Macromedia 
+
+
+[00:01:38] Speaker: where I was part of the [00:01:40] team that created a product called Dreamweaver. And then eventually I came to manage. [00:01:45] A bunch of teams including, uh, uh, [00:01:50] fireworks, uh, contribute home site, uh, freehand, so a bunch of m media [00:01:55] tools.
+
+
+[00:01:56] And then, uh, 
+
+
+[00:01:57] Speaker 3: I 
+
+
+[00:01:58] Speaker: did a startup for a while. [00:02:00] Uh, I worked at a company called Medium. I was part of the founding team there, and then I came to [00:02:05] Figma a little over 10 years ago. So could you briefly [00:02:10] share 
+
+
+[00:02:10] Speaker 4: what kind of project you have worked on? Figma, some of. Some of [00:02:15] the key ones you 
+
+
+[00:02:16] Speaker: have read and what you're currently focusing on?
+
+
+[00:02:19] Speaker 3: Yeah, [00:02:20] so I've 
+
+
+[00:02:21] Speaker 2: worked on 
+
+
+[00:02:23] Speaker: almost everything inside the [00:02:25] editor, uh, over the last 10 years. And so everything from [00:02:30] components and styles and variables, guides, constraints, [00:02:35] um, uh, component properties, variance sets, [00:02:40] um. You know, pages, uh, frames, uh, [00:02:45] uh, sections, like pretty much everything that's in there except for the core, [00:02:50] just drawing, uh, 
+
+
+[00:02:51] Speaker 3: tools I've worked on,[00:02:55] 
+
+
+[00:02:56] as you mentioned. 
+
+
+[00:02:58] Speaker 2: So how would you [00:03:00] define the first principle design drawing from your Yeah, 
+
+
+[00:03:04] Speaker: I, 
+
+
+[00:03:04] Speaker 2: [00:03:05] uh, I was very interested in this question, uh, about, you know, how [00:03:10] physics might inform how I think about product. Um,[00:03:15] 
+
+
+[00:03:17] I think 
+
+
+[00:03:18] Speaker 3: one of the things that makes [00:03:20] physics, physics is at the end of the day, you can have. [00:03:25] The best idea in the world, but the world will tell you whether the idea is right or [00:03:30] not. You can run an experiment and you can say, Hey, here's my, here's my theory, and you can test it with an [00:03:35] experiment. And the experiment will tell you whether that theory is helpful or not in 
+
+
+[00:03:39] Speaker 2: predicting the [00:03:40] world, you know?
+
+
+[00:03:41] And I think when it comes to software, [00:03:45] people can get confused a lot about what it means to make good software. They can [00:03:50] say. Oh, I have this idea, and the idea is so great, and that alone makes it [00:03:55] okay. Or they might be in a big company and they might say, well, I have this idea and my [00:04:00] boss's boss's boss approved it, and it aligns with my strategy and all this stuff.
+
+
+[00:04:04] And so you can [00:04:05] get yourself confused about what it means to make great software. [00:04:10] At the end of the day, just like in physics, you can, the world is gonna tell you whether [00:04:15] something is right or not. When it comes to software. The world will also tell you whether you're right or not, and you know, you [00:04:20] can have the best idea in the world, but if, if it's not quite right, people won't [00:04:25] use it.
+
+
+[00:04:26] And if it is right, then people will use it. And like [00:04:30] that's the ultimate test of whether something is a good idea or. [00:04:35] It's something they want to use. And so the f we were always really, really [00:04:40] careful to, um, deeply listen to what people wanted. [00:04:45] Uh, as we release things, we would check to see what they liked, what they didn't like.
+
+
+[00:04:48] If there was something that [00:04:50] wasn't landing, we would, uh, adjust things. Uh, and think that [00:04:55] ultimately is one of our keys to success, is that we never confused about, [00:05:00] you know, what really matters. What really matters is what people think. So [00:05:05] sorry to interrupt just Mike once. Of course.[00:05:10] [00:05:15] [00:05:20] 
+
+
+[00:05:20] Speaker: Okay. Sure.[00:05:25] [00:05:30] 
+
+
+[00:05:33] Speaker 3: Hello? [00:05:35] Hello? Hello? Hello? Yeah. Better. Okay. [00:05:40] 
+
+
+[00:05:40] Speaker 5: And is it okay In my pocket and it's not gonna, yeah. Okay. You gonna come back up [00:05:45] here? Come back up here. Come on. You wanna stay down there? It's up to [00:05:50] you. Come on. Okay.[00:05:55] [00:06:00] [00:06:05] [00:06:10] 
+
+
+[00:06:13] Speaker 4: What does look? [00:06:15] 
+
+
+[00:06:16] Speaker 5: Yeah. 
+
+
+[00:06:17] Speaker 3: Um,[00:06:20] 
+
+
+[00:06:20] I think we all have intuitions about what's gonna work and what's not gonna work. [00:06:25] Um, if you're, if you're working in software. You might have an idea [00:06:30] that, you know, you might say, oh, we should really just make it so that this feature makes this happen, [00:06:35] or this button should be bigger or any smaller big thing about, you know, the way software works [00:06:40] and like I was saying before, what really matters is what people [00:06:45] ultimately end up deciding.
+
+
+[00:06:47] So whether what people end up using or buying or spending [00:06:50] time on. And um, so I [00:06:55] think what. What you need to do in order to develop product sense is to really come at it [00:07:00] with a spirit of curiosity and humility. And what I mean by that is, [00:07:05] you know, there are certain things where [00:07:10] you get to decide what's good, right?
+
+
+[00:07:11] So for example, I get to decide what [00:07:15] tastes good to me. And if you think it tastes good and I don't think it tastes good, then it, I don't care what you [00:07:20] think. If it doesn't taste good to me, I'm not gonna eat it. You know? And so when it comes to food. [00:07:25] I get to decide what, you know, good taste means for me, right?[00:07:30] 
+
+
+[00:07:30] But when it comes to software, I might think something is good, but if you think it's not good and then a bunch of other people [00:07:35] think it's not good, I have to really ask myself, well, why is that? You know, [00:07:40] why is it that I thought it was good? But then other people didn't like it? You know, I thought this was like a really great way to [00:07:45] control how shapes, um, are formed on the canvas, but then people didn't end up using the [00:07:50] feature.
+
+
+[00:07:50] Is it because it was too complicated? Is it because it wasn't expressive [00:07:55] enough? Is it because it was too hidden? You know? And so if [00:08:00] the way that people react to a piece of, you know, to uh, a new [00:08:05] feature is different than what I expected, I'm always asking myself why, you know, what is it about [00:08:10] that? And so I think it's that spirit when I say curiosity and humility, you know, is if you can [00:08:15] always be asking yourself, well, why is it that people reacted differently than I thought?
+
+
+[00:08:18] I think that's how you learn. [00:08:20] And you know, when I've talked about this before, I think you can even do this when you're not in a [00:08:25] position. Like I, I'm fortunate in that I get to actually make product decisions, you know, [00:08:30] and so I get to then have to live with my own product decisions and then I have to, you [00:08:35] know, wrestle with did I make the right decision?
+
+
+[00:08:37] But even if you're not in that position of making the [00:08:40] decision, you can still observe from the side and say, okay, well this is something that is [00:08:45] happening. I think it's gonna work, or I don't think it's gonna work. And then you can. Have [00:08:50] this idea in your head, a prediction in your head about what's gonna happen.
+
+
+[00:08:53] And then you can test it against, okay, well what [00:08:55] happened? And then you can ask yourself, well, why did that happen? And you can just repeat that loop, [00:09:00] 
+
+
+[00:09:01] Speaker 4: just your title. You are, you are at the center [00:09:05] of the single player Desktop. Desktop software [00:09:10] as an insider. What specific fluctuation of that [00:09:15] paradigm?
+
+
+[00:09:17] Speaker 3: About desktop versus, uh, [00:09:20] yeah, 
+
+
+[00:09:20] Speaker 4: yeah. So you are, you are at the center of the single player desktop. Oh 
+
+
+[00:09:24] Speaker 3: yeah, [00:09:25] yeah, yeah, yeah. Um, [00:09:30] so I'll connect this a little bit with how I got to Figma. It's related, I think. Um, [00:09:35] so I spent a lot of my career working on design [00:09:40] tools. I was at Macromedia and Adobe for 10 years total.
+
+
+[00:09:43] And. [00:09:45] Um, 10 years is a long time to stay at one company. Um, most [00:09:50] people don't do that. And when I left Adobe, [00:09:55] I looked around and I, I, I saw the entire world had changed. You know, when I started at [00:10:00] Macromedia, people would make software and printed on [00:10:05] CD ROMs and then they would put it in a box and then they would ship it to a [00:10:10] store, and then somebody would buy it in a store and.
+
+
+[00:10:13] By the time I left, Adobe was [00:10:15] still doing that, and the rest of the world was delivering software using the web. [00:10:20] So I kind of felt like, oh man, I need to adapt to this new world of [00:10:25] software. And so I spent a couple years doing that. I did my own startup for [00:10:30] four years. I was at uh, medium for two and a half years, [00:10:35] and I was looking for my next thing and, um.[00:10:40] 
+
+
+[00:10:40] I really didn't want to do design software because I was worried that [00:10:45] I'd already spent so much time doing design software that if I did design software again, everybody [00:10:50] would just look at me and say, oh, that guy doesn't know how to do anything except for design software. 
+
+
+[00:10:53] Speaker 6: You know? [00:10:55] 
+
+
+[00:10:55] Speaker 3: But, um, the reason why I [00:11:00] ended up joining is because when I looked at the, the [00:11:05] demo version of Figma that Evan and, uh, Dylan had created.[00:11:10] 
+
+
+[00:11:10] It was so fast, and so it felt like a desktop software, but it [00:11:15] was in the web and it just blew my mind because, you know, it's easy to [00:11:20] forget now because we're used to it. But back then nothing like that had existed before [00:11:25] and it instantly clicked for me that of course you want [00:11:30] to do it that way because, um, first of all, all other software had [00:11:35] already moved to the web.
+
+
+[00:11:35] So when it came to things like. Word processing. There was already Google [00:11:40] Docs and when it came to spreadsheets, there was already, you know, uh, Google Sheets and other, [00:11:45] you know, pieces of software like this. And when you look at how people work in those pieces of [00:11:50] software, the way that people work together is totally different, right?
+
+
+[00:11:54] So [00:11:55] in the old days, you would mail around a copy of a Word document and you would [00:12:00] say, Hey, do you have any updates for me? Then they would send some updates and you'd say, oh, actually you're looking [00:12:05] at the wrong version. Let me send you the new one. And it was just a disaster, you know? And now it's so easy.
+
+
+[00:12:09] [00:12:10] You just go to the web and then you select something and then you, everybody's looking at the same thing. And [00:12:15] that's true of any software where people have to work together and [00:12:20] design. That's all anybody ever does in design. You know, if I was the only person working on a piece of [00:12:25] software, I could just sketch it on a piece of paper and be done.
+
+
+[00:12:29] But [00:12:30] if I'm working on it with. For other people, I have to show them in more detail [00:12:35] what's in my head. And the only way I can do that is with the design software. So the whole purpose of design software is to [00:12:40] work with other people. So anyway, all that stuff clicked instantly. And I was like, well, if this is [00:12:45] gonna be possible, then it's completely gonna change everything.
+
+
+[00:12:49] And so I [00:12:50] was convinced from the beginning that that was a big deal. Um, and I thought [00:12:55] that a long time ago too. I just thought, didn't know it was possible. I thought it was gonna be impossible for that kind of software to [00:13:00] work in the browser.
+
+
+[00:13:04] Speaker 4: So, [00:13:05] yeah, I, I think just touched [00:13:10] or, but I want to ask more.[00:13:15] 
+
+
+[00:13:19] So, [00:13:20] yeah, I think it was around 2017. So I remember something [00:13:25] saying, you mind the picture of the picture of design? I find design. So yeah, [00:13:30] there was a lot. So, yeah. When you first encountered and were deciding [00:13:35] to join the team, so what were your, what were you, yeah. What were your feeling and [00:13:40] how, how, how, 
+
+
+[00:13:40] Speaker 3: how did you feel?
+
+
+[00:13:41] Yeah. Yeah. So [00:13:45] your question if I understand it is, is what was I, [00:13:50] what was I nervous about or was I excited about when I was joining Feed Big Month? At the time, what, [00:13:55] what, what's your emotional level concern and thinking up? Yeah. [00:14:00] Um, well,[00:14:05] 
+
+
+[00:14:08] I, I mentioned before I had a [00:14:10] certain ideas about my career. You know, I wanted to, um, [00:14:15] I wanted to get out of design and do other stuff. So I was, first of all, I was worried that I was [00:14:20] gonna be, um. You know, I was gonna be typecast. You know, [00:14:25] uh, there's, there, there are actors who only do comedies and they [00:14:30] wanna do dramas, or there are actors who only do action movies and they wanna do comedies.
+
+
+[00:14:33] And, you know, I kind of felt like I was gonna be [00:14:35] somebody who only did design software, you know? So that was really the biggest thing. Um, [00:14:40] and then when it came to doing stuff in the browser, I actually was not worried about [00:14:45] whether it was a good idea, you know? So I know that we like to talk about. [00:14:50] How much resistance we had in the beginning.
+
+
+[00:14:51] There were people who said, I don't want people watching over me when I'm working. [00:14:55] Um, I think that's a very human and [00:15:00] understandable sentiment. You know, there's a part of design that feels like, [00:15:05] um, it's a creative process like [00:15:10] art or music and having people watch over your [00:15:15] creative process can be hard.
+
+
+[00:15:16] Right. It's hard to be creative if. If every step of the way you feel like you're being [00:15:20] judged. And, um, so I understand why people are nervous about it, but, [00:15:25] um, you know, I didn't have that worry because I [00:15:30] felt like, um, working together on creative things [00:15:35] is ultimately gonna help help the team get to places faster.
+
+
+[00:15:38] And that proved to be right. [00:15:40] And I, one thing that I think is surprising, even to people who are worried about. [00:15:45] Being judged as they were trying to be creative has actually helped them. Because in the old days, what would [00:15:50] happen is you'd spend two weeks doing every single idea you [00:15:55] could possibly think of, and then you finally get to what you think is the best idea.
+
+
+[00:15:59] And then you [00:16:00] show them the idea. And then people would say, well, why didn't you try this? Or, why didn't you try that? And you'd say, well, I did try it. You just [00:16:05] didn't see it because it was, you know, I was doing it in my room back there. [00:16:10] And then you'd have to go back and then show them and so on. And when people see the process.[00:16:15] 
+
+
+[00:16:15] They understand more like, oh, I see all the different problems with all the different [00:16:20] approaches that you tried and I actually think this, I understand now why you got here, and so on. And so, so I [00:16:25] think bringing people along in the journey actually helped people, uh, understand the design [00:16:30] more and trust designers more.
+
+
+[00:16:31] And so ultimately, um, I think the things that people [00:16:35] were worried about, I think didn't come to pass. Um, and I also think it [00:16:40] gave people more of a appreciation for, um. You know, the, [00:16:45] the, the skill and craft that designers bring because, um, [00:16:50] Figma is so easy that everybody can actually use it, but because it's so easy that [00:16:55] everybody can use it, they can try it themselves and they can find out pretty quickly that it's a lot harder to do this [00:17:00] stuff than you think, you know?
+
+
+[00:17:01] And so I think it help people appreciate the role of designers more. [00:17:05] 
+
+
+[00:17:05] Speaker 7: Yeah. 
+
+
+[00:17:08] Speaker 4: Quite this quite weird. [00:17:10] Christian, you decided to join. So how did you [00:17:15] work with the fear of living stable career behind the joints? Tell us part of how failure [00:17:20] 
+
+
+[00:17:20] Speaker 3: can. Yeah. I, um, I actually, [00:17:25] I don't know what's wrong with me. I don't know why I'm this way, but I actually don't have [00:17:30] a fear of instability like that.
+
+
+[00:17:33] And so for [00:17:35] four years I was doing my own startup and I had, um, I had [00:17:40] this idealistic, uh. Concept that I wanted to [00:17:45] bootstrap my own startup. So I didn't want to go look for funding. And, you know, there's lots of reasons why, but [00:17:50] I just didn't want, I didn't want people giving me money and then having to be, [00:17:55] um, doing whatever they they told me to do.
+
+
+[00:17:57] I wanted to do everything myself. So I was a little bit [00:18:00] independent. And so for four years I just ran my own thing [00:18:05] out of my own pocket. I just paid for it myself, you know? And, uh, uh. [00:18:10] Four years is a long time to not get a paycheck. And so, uh, I was pretty stubborn. And then, uh, [00:18:15] right after that, I joined Medium, which was a six person company when I joined.
+
+
+[00:18:18] Um, and then that [00:18:20] grew to be pretty big. I think it grew to be about a hundred before I left. Um, [00:18:25] and then, uh, and then I went to Figma after that. So I'd already had [00:18:30] a couple of, uh, risky situations. Um, I think the thing [00:18:35] that's surprising to me is actually the opposite. Like whenever I joined something risky, I assume that.
+
+
+[00:18:39] The [00:18:40] best case scenario is that it's maybe gonna turn into something kind of small and [00:18:45] hopefully doesn't die, you know? And uh, the fact that Figma became so, [00:18:50] uh, big and popular, I think is really surprising to me. So that wasn't in the plan. [00:18:55] 
+
+
+[00:18:55] Speaker 4: And I think your dream, your dream was a powerful validation [00:19:00] of Figma founding business.
+
+
+[00:19:02] So what was the most curs piece of [00:19:05] Olympic that you gave the founder? 
+
+
+[00:19:08] Speaker 3: Yeah, the, [00:19:10] when I joined the company was really small. It was about 10 people. [00:19:15] They had been working on a piece of software for two and a half years, [00:19:20] maybe two years, because I think at the beginning they were working on something else.
+
+
+[00:19:24] And two [00:19:25] years is a long time these days to be working on something without any feedback. And, uh, [00:19:30] the single biggest thing I think I did, there's two things that I did. Um, the [00:19:35] first is I really wanted to get the software out. So I helped everybody, [00:19:40] uh, get excited about shipping to fix all the bugs that needed to be [00:19:45] fixed, to not worry about the things that they shouldn't be worried about.
+
+
+[00:19:47] And just help everybody, uh, [00:19:50] be comfortable with shipping. The piece of software, because the longer you wait, the more you get [00:19:55] worried that it's not perfect, you know? And so, uh, so, so just getting everybody [00:20:00] ready to ship was a big thing. And the second thing is culture. So [00:20:05] the company was, they'd been working under intense pressure for [00:20:10] a couple years and everybody was feeling really, um, [00:20:15] a little bit ragged, you know, a little bit tired and.
+
+
+[00:20:19] Getting people to [00:20:20] remember how fun it's to work on software, I think was really important to me because, um, [00:20:25] I think if you're doing work, because if you're doing work [00:20:30] for the wrong reasons, like if you're doing work because you wanna make money or you're doing work [00:20:35] because your boss is gonna be mad at you, or you're doing work out of fear that you're going to, [00:20:40] you know, run out of funding or something, you're just always reacting to [00:20:45] things.
+
+
+[00:20:46] Um. Like you're reacting to fear, kind of, you know? [00:20:50] And I think in order to do your best work, you have to be able to lean into, um, playing around [00:20:55] with things a little bit. And so I tried to make sure that the culture shifted a little bit. So there was a [00:21:00] little bit more breathing room, a little bit more room for fun, uh, a little bit more room for connection.[00:21:05] 
+
+
+[00:21:06] And 
+
+
+[00:21:08] Speaker 4: you mentioned, you mentioned [00:21:10] that seeing Dylan immediately order of fix for minor, minor. [00:21:15] Was your first experience of the leadership prior prioritizing the customer [00:21:20] over themselves? So how did the, uh, incident, incident change [00:21:25] your leadership 
+
+
+[00:21:25] Speaker 3: style? Yeah, um, so this story is about, um, [00:21:30] Figma before we launched our private beta.
+
+
+[00:21:34] So we only [00:21:35] had maybe 10 people using the software, and there was a [00:21:40] period where, um, we had a bug. And because the bug. [00:21:45] The site was down for a day and Dylan was running around [00:21:50] saying, oh, the site's down, we gotta fix it. This is like a code red, you know? And I said, [00:21:55] this is not a code red. 'cause we don't have any customers.
+
+
+[00:21:57] You know, it's, if we had customers then it would be a problem, but we [00:22:00] don't have any customers. And he said, no, we have some customers, there's like 10 alpha people and they're using the [00:22:05] software. And um, so, you know, so we dropped everything, we fixed it. But, um, [00:22:10] I think why that resonated to me is. There's certain things that I care about, and I [00:22:15] like when my leaders care about the same thing, and I really, really care about not letting [00:22:20] customers down.
+
+
+[00:22:20] And I could see that Dylan cared about that even more than I did, you know? Um, [00:22:25] and so I think that really signaled to me, okay, what is this company about? [00:22:30] And, um, I think we try to live up to, to this day, it's harder when you have millions of people than when you [00:22:35] have 10 people to make sure that they're all happy.
+
+
+[00:22:36] But we really, really, really try to make sure that we're not letting people [00:22:40] down. 
+
+
+[00:22:41] Speaker 4: Then I want to ask more detailed story about your customer object. [00:22:45] So you implemented customer software is everyone's job, so [00:22:50] allocating 20% of engineering kind of software. So this contradicted [00:22:55] the convention development.
+
+
+[00:22:58] So how did you persuade the team? [00:23:00] 
+
+
+[00:23:01] Speaker 3: Yeah. Um, I didn't really have to [00:23:05] persuade the team because, um, first of all, Dylan. He [00:23:10] cared a lot about customers. And so, you know, when we were supporting customers that was [00:23:15] aligned with what he cared about. And I think we just had a culture where everybody cared about it.[00:23:20] 
+
+
+[00:23:20] But, um, I think what [00:23:25] what's counterintuitive about it is you would think that, I think most people think [00:23:30] of customer support as a cost. You know, it's, I can't do engineering as [00:23:35] fast because they're spending time on other stuff. And if we could cut that out, then they could do engineering fast work, you know?[00:23:40] 
+
+
+[00:23:40] But the, [00:23:45] the, the thing that makes you move the fastest is knowing where to go. [00:23:50] Um, if, if you're wandering around a city and you don't know the [00:23:55] streets of the city, it might take you a long time to get from here to there because you don't really know how to get there. [00:24:00] But if you actually know all the.
+
+
+[00:24:01] Back alleys and the shortcuts, then if you [00:24:05] want to go somewhere, you can get there much faster. And with the engineers, what [00:24:10] would happen is they would talk to customers and they would say, uh, you know, they'd have a bug [00:24:15] and they'd work with them on the bug, or they'd have a complaint, or they'd have a feature request.
+
+
+[00:24:18] And [00:24:20] whenever they, whenever you're face to face with somebody, it becomes so, so clear what the problem is. You [00:24:25] know, if you read a bug report that somebody else made. It says, click on these things and this should happen and that [00:24:30] should happen. And you look at it and you say, okay, whatever. Whereas when you sit with somebody and they say, I'm [00:24:35] trying to get this work done for this presentation I have to give tomorrow, and when I do this, it's not [00:24:40] working.
+
+
+[00:24:40] And you're like, oh my gosh, I have to fix this for you because like you have this presentation coming up and [00:24:45] um, it becomes really, really obvious why it's important, what the problem is, maybe what the [00:24:50] deeper problem is. Not just like clicking on the things causes this to happen, but like what they're trying to do [00:24:55] and why it's important and.
+
+
+[00:24:57] All this stuff. And so when [00:25:00] engineers understand this, first of all, they'll work harder on fixing it 'cause they care. And [00:25:05] second of all, they might realize that the bug isn't the problem. Maybe there's some other problem. And they say, oh, well [00:25:10] it's true that when you click on this, this should happen. But really the problem is that they shouldn't have to click on that in the first [00:25:15] place.
+
+
+[00:25:15] It should just automatically do that. Or that maybe that what they're really trying to do is, [00:25:20] um, you know, have two different versions of this thing that they can look at side by side, and we should allow [00:25:25] that or. Whatever the idea is. And so what would happen is the engineers would be [00:25:30] so plugged into what people wanted that they would just work on the right stuff [00:25:35] and you're not wasting time working on the wrong stuff.
+
+
+[00:25:36] And eventually the, you know, that meant that the product was moving [00:25:40] much faster, uh, moving forward much faster because we knew what to work on,[00:25:45] 
+
+
+[00:25:46] Speaker 4: like the feel of the product [00:25:50] or feature, like multi player there was there internal. [00:25:55] Distance to prioritizing field over functional. [00:26:00] Explain the three element of good performance [00:26:05] familiarity and 
+
+
+[00:26:07] Speaker 3: Yeah. Um,[00:26:10] 
+
+
+[00:26:12] so it's my belief that, um,[00:26:15] 
+
+
+[00:26:17] people resonate with, [00:26:20] um, software but with all things based on this. [00:26:25] Intuitive idea of quality and you [00:26:30] can't put your finger on it necessarily. You know? Um, my experience, for example, [00:26:35] is, um, when I step into a car and I try to [00:26:40] work the radio or the, you know, the electronic system, I [00:26:45] don't know why, but all car UIs are confusing and, you know, I [00:26:50] mean, I, I kind of know why.
+
+
+[00:26:51] It's because, um. Cars take a long time to build. [00:26:55] And, you know, because of that, you have to, you know, all, all the systems are four years out of date and [00:27:00] there's all sorts of other things that are really hard to do about cars. So I'm sure it's a really hard problem, but, [00:27:05] um, but it's, my experience is I, I go to a car, I [00:27:10] try to like place a music up from my phone and it's super confusing, right?
+
+
+[00:27:13] And, um, [00:27:15] you can, you can boil that down to usability or you can say it took me three clicks instead of two clicks or [00:27:20] whatever else, but. At the end of the day, I think it's an emotional reaction [00:27:25] too, you know, is when you, when you have something that works well, you just, [00:27:30] it feels good. And people really, really care about, um, [00:27:35] when something feels right and it feels good versus it feels bad, uh, it's like, it's like somebody didn't [00:27:40] take the time to, um, get something to the [00:27:45] quality it needs to get.
+
+
+[00:27:45] And now I have to spend five minutes every time I get into the car. [00:27:50] Um, fiddling around with something, you know, so, um, so anyway, high level is, [00:27:55] I think people have an emotional reaction to the quality of something. And, [00:28:00] uh, um, with design tools especially, it's important [00:28:05] because design tools are software that [00:28:10] is there to serve a purpose.
+
+
+[00:28:11] You know, it's there to help you do your job, but it's also [00:28:15] something that's more like. Um, it's, it's the way that I, as a [00:28:20] designer, express myself. And, you know, if I'm a photographer [00:28:25] and I have a camera that I just love the feel of, and I love how it shoots or [00:28:30] whatever, like that's an extension of my art.
+
+
+[00:28:32] You know, if I am a [00:28:35] musician or, um, you know, or a, a, you know, a painter or [00:28:40] whatever, like the tools that I use are part of me. It's part of how I express myself. And so. [00:28:45] How the tool feels is so, so important for design software. It's important for all [00:28:50] software, but it's really, really important for design software.
+
+
+[00:28:51] So, um, that boils down to things like performance, [00:28:55] um, how, um, how consistently things [00:29:00] work when I hold certain keys down, when I move the mouse, um, how it's [00:29:05] giving me feedback, how it's not getting in my way. Um, and, uh, [00:29:10] yeah, so we, we focused on that from the beginning. Uh, and, uh. It [00:29:15] actually gets harder, uh, the more features you add.
+
+
+[00:29:17] So it was easier in the beginning 'cause there were fewer [00:29:20] features. So it's easy to make it feel right. And then when you put more and more features in, it's hard to make it feel right when it [00:29:25] has, has so much stuff in there.[00:29:30] 
+
+
+[00:29:30] Speaker 4: Sometimes higher or [00:29:35] just the what is the most I Or [00:29:40] when? 
+
+
+[00:29:42] Speaker 3: Yeah. Well, first of all, speaking about intern. [00:29:45] Um, our interns are amazing. Uh, the interns [00:29:50] nowadays, the company is big enough that it probably doesn't ebb and flow like this, but when the [00:29:55] company was smaller, um, we would get so much more done during the [00:30:00] summer than any other month.
+
+
+[00:30:01] And 'cause the summer was when the interns were there, and what would happen is we would [00:30:05] have people who were so excited to be at Figma and who really, really wanted to do [00:30:10] something, uh, impactful in the short time that they were there. So they would like. Really, [00:30:15] um, surprised us with how much they could do.
+
+
+[00:30:18] Uh, and it was just a joy to work with them. [00:30:20] Um, but in terms of hiring, I think, [00:30:25] so I look for, um, people [00:30:30] who are talented, obviously, you know, and talent can be [00:30:35] hard to, um, put your finger on, but it can be coding talent, it can be [00:30:40] design talent. A lot of times it's, um, a little bit of a, [00:30:45] uh, a more, um, [00:30:50] intuitive quality about how people sometimes [00:30:55] can see the, you know, the, um, see the right path through [00:31:00] something that's a little complex, you know, so people who have that kind of talent I think is important.
+
+
+[00:31:04] [00:31:05] Uh, passion. People who really, really love, um, this space. [00:31:10] Who either like the technical aspects of working on something like this or, uh, who [00:31:15] love the world of design, I think that can matter a lot. Um, and then [00:31:20] teamwork and humility. Um, it, you know, no, no features built by just a [00:31:25] single person working by themselves.
+
+
+[00:31:26] Everything is built with a bunch of people working together. And when you have a [00:31:30] team of people who are just, um, easy to work with, everything feels [00:31:35] easy. And when you have. A team of people who don't know how to work together. Everything feels [00:31:40] hard, you know? And so, um, people who are easy to work with tend to be [00:31:45] curious and humble.
+
+
+[00:31:46] Um, you know, they have strong opinions, but they're [00:31:50] also good at listening to other people and finding a way to sort of take the two [00:31:55] ideas and turn them into a better idea together. So that's, that's kind of what I look for. [00:32:00] 
+
+
+[00:32:01] Speaker 4: I love to ask about.[00:32:05] 
+
+
+[00:32:08] I, I heard Mark [00:32:10] two five to develop process[00:32:15] 
+
+
+[00:32:17] during, during this length [00:32:20] to the poor mechanism, and, and [00:32:25] the team felt the most frustrate. And, 
+
+
+[00:32:29] Speaker 3: um, [00:32:30] I, I. People ask me this kind of questions sometimes, you know, what was the hardest [00:32:35] time or whatever. Um, I think I have a weird personality because I [00:32:40] think I, I end up forgetting all the hard times. So, so people ask me this and I'm like, I don't remember any hard [00:32:45] times.
+
+
+[00:32:45] But, um, multi edit is technically a very, very [00:32:50] challenging problem. Uh, it's, um, [00:32:55] just to be technical for a second, it's, it's like these very complicated [00:33:00] backend. Distributed system engineering problems where, [00:33:05] you know, at large companies like Google and Meta and so on, some of the most [00:33:10] talented engineers work on these large distributed, uh, distributed, uh, [00:33:15] uh, uh, you know, problems.
+
+
+[00:33:19] And [00:33:20] it's, it's multi edit is similar to that in that it's essentially you [00:33:25] have multiple different clients. Each client is trying to. Make local changes and [00:33:30] reconcile with other clients. And so it's, it's, it's tricky. But, um, [00:33:35] so because it's tricky, it took a long time. Um, but we knew that [00:33:40] we needed to do it because, um, it's really the only way that you [00:33:45] can make, uh, it's, it's the only way that you can make [00:33:50] software where everybody's seeing the same thing at the same time.
+
+
+[00:33:52] And it's, um.[00:33:55] 
+
+
+[00:33:57] It's not that we thought it was important for [00:34:00] two people to be editing rectangles at the same time. You know, it's, [00:34:05] I don't think to myself nowadays, actually, we do have lots of times where [00:34:10] people are editing different things on the same document at the same time. But back then, when we were starting this, [00:34:15] we didn't think to ourselves, um, that that was an important use.
+
+
+[00:34:19] [00:34:20] But it's just important for people to be able to see the same thing at the same time and as it's being edited to see the same edits. [00:34:25] And so, um, anyway, I feel like I'm overexplaining this thing that, [00:34:30] that doesn't need to be explained, but, um, but that's why multi edit was important. [00:34:35] And um, you know, in terms of what was hard [00:34:40] about it, uh, there's an engineering challenge obviously.
+
+
+[00:34:42] Um, uh, Evan, [00:34:45] who was one of the co-founders, he was. Amazing at building the technical [00:34:50] underpinnings of that. He came up with a bunch of novel ways to, uh, to do [00:34:55] this that we still use today. Um, and so he pioneered a lot of that stuff. [00:35:00] Um, there were a lot of user interactions that we had [00:35:05] to really think about is if somebody did, uh, change the size of a rectangle and somebody else [00:35:10] changed the color of the rectangle, what do we want to happen?
+
+
+[00:35:12] Uh, and then if later somebody else was on a plane when all [00:35:15] this stuff was happening and they made some edits. And then they came back online after being on the plane. [00:35:20] You know, should those edits take precedence over the other edits or maybe, [00:35:25] uh, we should look at the timestamps of those edits, or, you know, what should we do there?
+
+
+[00:35:29] Um, if, [00:35:30] you know, if two people were making edits simultaneously, could you ever get into a situation where the [00:35:35] document was in a really, really weird state, uh, where it was maybe invalid and how would we [00:35:40] prevent that? And so there's a lot of, lot of hard challenges, but, um, [00:35:45] but yeah, I took. Okay. It was really the last push from, um, [00:35:50] doing it in earnest to actually getting it out, I think was a little over a year.
+
+
+[00:35:54] So that [00:35:55] last push went pretty smoothly. I don't know if there's, you know, some, uh, there might have been some hiccups before that, [00:36:00] but, uh. Uh, yeah.[00:36:05] 
+
+
+[00:36:06] Speaker 4: You argue for growing engineering concept, [00:36:10] uh, to prevent, prevent structure from, uh, stifling creativity. So [00:36:15] how approach,[00:36:20] 
+
+
+[00:36:20] Speaker 5: sorry, what was the 
+
+
+[00:36:20] Speaker 3: question? 
+
+
+[00:36:21] Speaker 4: Uh, how have this approach been specifically? [00:36:25] Yeah, 
+
+
+[00:36:25] Speaker 3: sorry. The beginning part. Ah. 
+
+
+[00:36:26] Speaker 4: Yeah. So you argue for borrowing engineering concept 
+
+
+[00:36:29] Speaker 3: competition, [00:36:30] branching to prevent growing engineering. [00:36:35] Growing engineering. What was the next word? Uh, borrow, borrowing, engineering [00:36:40] concept.
+
+
+[00:36:40] Borrowing engineering concepts. Yeah. Okay. Prevent structure. Something like [00:36:45] design system from 
+
+
+[00:36:47] Speaker: aing. Sorry, [00:36:50] I I, I 
+
+
+[00:36:50] Speaker 3: can, can I read the words? I, I am having trouble understand. 
+
+
+[00:36:54] Speaker 4: [00:36:55] 21 
+
+
+[00:36:55] Speaker 6: for borrowing engineering concepts, competition, branching to prevent structure. [00:37:00] Okay. I think I understand. Okay. 
+
+
+[00:37:02] Speaker 5: Mm-hmm. 
+
+
+[00:37:02] Speaker 3: Okay. 
+
+
+[00:37:04] Speaker 5: Go 
+
+
+[00:37:04] Speaker 3: back.[00:37:05] 
+
+
+[00:37:06] All right. Okay. Um,[00:37:10] 
+
+
+[00:37:12] so I think one of the, um, [00:37:15] one of the things that's surprising, at least was surprising to me about design is that you would [00:37:20] think that, uh. Being really close to the [00:37:25] eventual format would help you be more creative. So, uh, in the [00:37:30] case of building an application, actually this is relevant to today 'cause there's a lot of, [00:37:35] um, apps out there that do, you know, vibe coding and things like this, and we have [00:37:40] a vibe coding tool.
+
+
+[00:37:41] Um, but you would think that being really, really close to the [00:37:45] final output would help you be more creative, right? And so. There are ways in [00:37:50] which being close to the, uh, the eventual output, um, can help you [00:37:55] be creative, right? But it can also be really limiting. So just to take an [00:38:00] example, in the old, old, old days of web design, um, it was [00:38:05] really easy to make certain kinds of layouts because of the way tables worked and the way [00:38:10] headers worked and so on.
+
+
+[00:38:11] But when people wanted to create something really different and [00:38:15] interesting. It was really hard to do it using tables and headers and things [00:38:20] because, um, um, it's just not natural to do it using those. [00:38:25] And so it's really helpful to be able to have a more freeform approach [00:38:30] when you're doing design, uh, and um, you know, be able to place [00:38:35] things wherever you want and have them animate or do whatever.
+
+
+[00:38:38] And then eventually, once you get something that you're [00:38:40] interested in, then say, okay, now how do I make that, you know. So, um, so I think that's true. [00:38:45] That was true then, and it's true now. So with, uh, creating [00:38:50] apps, I think it's helpful to make apps using JavaScript and H TM L [00:38:55] and to just try it out for real.
+
+
+[00:38:56] But it's also useful to be able to break out of that and to [00:39:00] say, well, if we didn't have all these restrictions, what could we do? 
+
+
+[00:39:02] Speaker 6: You know? 
+
+
+[00:39:03] Speaker 3: Uh, and then you [00:39:05] back yourself out from the more creative exploration back into, okay, now that's gonna be really hard to implement, but how could [00:39:10] we do that? 
+
+
+[00:39:13] Speaker 4: And you predict the, to [00:39:15] predict that designer removal of those stack.
+
+
+[00:39:17] So, uh, to solve more [00:39:20] strategy problem with the ai. So what do you think are the core, [00:39:25] core competencies required for the future designers? 
+
+
+[00:39:29] Speaker 3: Yeah, so [00:39:30] design is always changing. Uh, this is a big moment [00:39:35] for everybody doing software is, there's a lot of interesting, exciting changes, but. [00:39:40] Um, it's not the first time things have changed, you know, um, back in the old [00:39:45] days, designers actually would, uh, today designers are very specialized, right?
+
+
+[00:39:49] So [00:39:50] you have, uh, UI is different than ux, which is different than like [00:39:55] graphic design, which is different than motion design. And, um, in the old days it wasn't like that so [00:40:00] much. In the old days, you'd just be a designer and then you would maybe do a little bit of, [00:40:05] uh. Graphic design and you do a little bit of video editing and you do a little bit [00:40:10] of motion design and then you'd make a website and, um, that was normal.[00:40:15] 
+
+
+[00:40:15] And so, um, with this new [00:40:20] wave of, you know, AI and other changes that are happening in our industry, [00:40:25] I think what'll happen is that it'll be much easier for everybody to do [00:40:30] a little bit of everything. And so. Uh, an engineer who doesn't know any design might be able to ask [00:40:35] ai, Hey, can you help me with the design a little bit?
+
+
+[00:40:37] Or a designer who doesn't know any engineering could say, Hey, [00:40:40] I have this design, but can you help me with the engineering a little bit? And because of that, everybody's gonna be able to do a little bit of everything, [00:40:45] which might feel, um, you know, threatening To some people they [00:40:50] might say, oh, what does that mean for my job?
+
+
+[00:40:51] Or, what does that mean for this? But, but I think it's actually a little [00:40:55] bit going back to the old days where. Uh, designers used to do a little bit of everything. You know, [00:41:00] it was very common. I had designer roommates in the nineties and, um, they would have clients [00:41:05] who would say, Hey, can you do this for me?
+
+
+[00:41:07] Can you make me a little video short? Or whatever? And they'd say, [00:41:10] sure. And then after, after saying yes, they would then have to learn how to do that. You know? So that was pretty [00:41:15] normal. And uh, and I think that's the world we're living in now, where there's so many [00:41:20] different possibilities with the tools that we have that people are gonna have to be a lot more flexible about, you [00:41:25] know?
+
+
+[00:41:25] Um. The range of things that they, uh, they can do. And, and, [00:41:30] uh, I think that's actually exciting that people can do things now that they couldn't do before. [00:41:35] Uh, but that flexibility I think is gonna be really key. And then, so that's the, you know, just generally [00:41:40] speaking, the, the flexibility. But, but I think in terms of the role of the designer in this world, [00:41:45] um, I think designers all know this, but non-designers don't always know this is, is [00:41:50] ultimately the designer's job is not to draw stuff.
+
+
+[00:41:53] You know, their job is not to make. [00:41:55] Things look good. Their job is to try to figure out the best answer to [00:42:00] a specific, uh, user problem. So whether it's a user interface [00:42:05] or, uh, even visual things like posters or whatever, they're all these, [00:42:10] uh, creative ways to, um, achieve a result. You know, it could be [00:42:15] information, it could be, uh, aesthetic, it could be, uh, emotional, you know, but, [00:42:20] but you're really trying to achieve this result and.
+
+
+[00:42:23] A designer's key [00:42:25] role is to be the best person at navigating towards that result. And that is a result of [00:42:30] craft and, uh, experience with using tools, but it's also taste [00:42:35] intuition. Um, and, uh, as the [00:42:40] tools get better and better, I think the, the necessity of having somebody who, to pilot that stuff, [00:42:45] who has that taste, who has that intuition, I think is gonna be more and more critical.
+
+
+[00:42:49] And the companies who [00:42:50] really do that well are gonna be the ones who. Create things that are so amazing that people look at and say, wow, [00:42:55] I never would've thought to make that. It's amazing. And I think the designer is a key, is [00:43:00] the key role to help do that. Yeah. 
+
+
+[00:43:04] Speaker 4: My last question [00:43:05] is, you mentioned you always wanna find form problems, so what is the next form problem [00:43:10] that you personally wanna solve?
+
+
+[00:43:11] Through King 
+
+
+[00:43:12] Speaker 3: Fund? Yeah. Oh yeah. The next fund Pro. So this is [00:43:15] what, what I was just talking about, the the next fund problem is, um. [00:43:20] You know, when the world is staying still, [00:43:25] it's easy to know what to do, but it's a little bit boring, you know? And when the [00:43:30] world is changing, it's really hard to know what to do.
+
+
+[00:43:33] But that's when, that's [00:43:35] when you can do the most interesting work. And so there's a lot of exciting stuff happening in the [00:43:40] world right now, which means I couldn't tell you exactly what a designer's [00:43:45] job is gonna look like five years from now, you know, or 10 years from now. Um. But that's, [00:43:50] that's, I think when we can do the best work is when we say, okay, look, at the end of the day, we [00:43:55] just wanna help designers do the things they want to do.
+
+
+[00:43:57] We wanna help them solve problems. We wanna help them express [00:44:00] themselves. We wanna help them have good careers, good lives. How can we build [00:44:05] tools to help them do that given all this new stuff that's happening? [00:44:10] I mean, I think that's, that's the big challenge right now. And that's the fun, fun part.[00:44:15] 
+
+
+[00:44:18] Speaker 5: Okay. 
+
+
+[00:44:19] [00:44:20] Yeah.
+
+
+
+
+Tammy
+Tammy_(OnlyOne yet)
+===
+
+
+[00:00:00] Speaker: [00:00:05] Okay. Emmi, take one.[00:00:10] [00:00:15] 
+
+
+[00:00:18] Yeah. Nice to meet you, [00:00:20] Phil. Yeah. So first is, uh, could you start [00:00:25] by introducing yourself and, oh yeah. Could you briefly introduce yourself? 
+
+
+[00:00:29] Speaker 2: [00:00:30] Sorry, I say that last one again. 
+
+
+[00:00:30] Speaker: Um, could you briefly introduce yourself? 
+
+
+[00:00:32] Speaker 2: Okay. Um, my name is Tammy Tab [00:00:35] Bassam. I am a product designer on the Figma team, and I have [00:00:40] been focused on, you know, building AI tools that help people [00:00:45] work better, work together, collaborate on campus.
+
+
+[00:00:47] Mm, 
+
+
+[00:00:48] Speaker: thank you. And, uh, [00:00:50] also, could you describe your current vision as a general AI product [00:00:55] designer at Gig Big Pharma? 
+
+
+[00:00:56] Speaker 2: So, my goal has been trying to find ways to [00:01:00] help designers, like, get their work done faster. How do we help [00:01:05] people, you know, get in their, into the weeds of things, work faster, but also collaborate with [00:01:10] others?
+
+
+[00:01:10] How do we include AI in part of that? How much of that should actually be included in [00:01:15] there? Um, and how we, how do we. Have AI be part of that experience, not just [00:01:20] with you, but also a group of people, your coworkers, your XFN partners, just all [00:01:25] from end to end figuring out where does AI seamlessly kind of fit [00:01:30] both in and out of those experiences.
+
+
+[00:01:32] Speaker: And how is designing for [00:01:35] AI fundamentally different from traditional? Design. And [00:01:40] what motivated you personally to move into this field? 
+
+
+[00:01:43] Speaker 2: I think what's [00:01:45] difficult or different about designing for AI is that AI is non-deterministic, and [00:01:50] so it's very difficult to rely on what you're gonna get out of it.
+
+
+[00:01:53] And so we've started to [00:01:55] really take a prototyping approach. You kind of have to build [00:02:00] the thing like at a sta, at like a starting point and then riff from there. A lot of the [00:02:05] times when we are working on traditional products, we can come up with a bigger vision of like what it [00:02:10] is that we want to build.
+
+
+[00:02:11] However, with AI, it's very difficult to know if you're gonna [00:02:15] ever actually build that thing. And so what actually works better is what is [00:02:20] like the smallest thing we can do. How can we build it very quickly? How do we then iterate on the [00:02:25] quality and at the same time push its boundaries, see how we can explore more, um, [00:02:30] and then from there, build up its capabilities over and over again.
+
+
+[00:02:34] Speaker: And [00:02:35] I'm curious, what, what's, what new way of thinking or technical skill did you [00:02:40] have to run design for ai and such as, uh, understanding data. [00:02:45] Yeah, working with uncertainty and something like that. 
+
+
+[00:02:48] Speaker 2: So one of the [00:02:50] things that I had to learn about, um, you know, just out of the [00:02:55] box being a. Designer for AI is quality and evaluations.
+
+
+[00:02:59] Um, [00:03:00] it's not something that I've ever had to deal with, but it became very, very important. We had to [00:03:05] understand what is the AI putting out and how and why it was gonna [00:03:10] be doing it that way. And given that I am a designer working on design tools, I had [00:03:15] knowledge about what is high quality design and what wasn't.
+
+
+[00:03:18] And since I also have deep. [00:03:20] Seeded knowledge about how Figma works. It kind of became my task to [00:03:25] figure out, okay, if AI is producing this kind of work, why is it, what would've been the right [00:03:30] answer? Um, and then I have to learn about like evals and like what should we test? What is the right thing [00:03:35] to test?
+
+
+[00:03:35] How do we evaluate, create rubrics? And like building that whole skillset [00:03:40] about how do you make sure that the AI is creating the right things. That was a completely different [00:03:45] skillset that I was not prepared for, but it was like a lot of fun to learn and see and kind of. Uh, [00:03:50] learn with the ai. I guess. 
+
+
+[00:03:54] Speaker: We [00:03:55] interviewed the interview with show this morning and show open, [00:04:00] open talk about the feel of the products.
+
+
+[00:04:01] So yeah, from a designer perspective, what defines [00:04:05] what defines a great feel in AI experience and what make [00:04:10] users feel a sense of message? 
+
+
+[00:04:12] Speaker 2: I think a, a lot of the [00:04:15] times when we think about ai, there's this feeling of like sparkle or magic. But [00:04:20] when I think about products or like collaboration tools or like productivity tools [00:04:25] like Figma that help you get your work done, it's more about is this thing helping [00:04:30] me do the things that I want to do?
+
+
+[00:04:32] Is it helping me unlock the things that I need to get [00:04:35] done? And it's less about the AI itself and more about, wow, I couldn't do this before, or, [00:04:40] wow, this saved me so much time. And so the feel of AI [00:04:45] and I think is less about it being AI and more about. It has [00:04:50] unlocked these capabilities for me that I couldn't do before, or it has allowed me to, you know, [00:04:55] explore things that I wasn't capable or thinking about exploring before.
+
+
+[00:04:58] Um, and it feels [00:05:00] like a, a very seamless part of my experience that's not allowed, but shows up exactly when I need it to [00:05:05] be. I, 
+
+
+[00:05:07] Speaker: and I wonder,[00:05:10] 
+
+
+[00:05:11] so is known tructure [00:05:15] system and components, so how do you.[00:05:20] 
+
+
+[00:05:20] Uh, unpredictable nature of generative ai. [00:05:25] 
+
+
+[00:05:25] Speaker 2: Yeah. That's kind of where, you know, that's where the evals and stuff like that comes into [00:05:30] play. Um, I think when I think about AI too, I kind of think about, [00:05:35] um, well, what kind of information do we give to the ai and what kind of information is coming out [00:05:40] of it and how do we make sure the AI is getting the right level of context to produce the right level of, [00:05:45] uh, the, the fidelity you're looking for in the same way that.
+
+
+[00:05:49] For me to [00:05:50] design, uh, something high quality, I need to build up my own context. I need to understand [00:05:55] what are the constraints in that same regard. The AI also needs to understand its constraints, and [00:06:00] so when we think about these deterministic things, are there ways that we can [00:06:05] help the AI understand what those rules are, what the properties that need to change are, and [00:06:10] you know, he'll climb against them and give it lots and lots of examples, give it all the information it [00:06:15] needs to understand.
+
+
+[00:06:17] The rules that can stay within those boundaries.[00:06:20] 
+
+
+[00:06:22] Speaker: I wonder many ants here that [00:06:25] AI might replace their role. So did you, did you notice similar concern [00:06:30] with, within PMA design team, or how did you, how did you communicate [00:06:35] or collaborate through this, through those concerns? 
+
+
+[00:06:38] Speaker 2: Um, I understand there's [00:06:40] been like a lot of fear and concern about AI within Figma specifically.
+
+
+[00:06:43] I think a lot of us [00:06:45] have been. Quite excited about jumping in and trying things out. Uh, we [00:06:50] have designers shipping code as a group where we're like trying out different models. We [00:06:55] use Figma make a lot internally to like prototype things, mess around. Like literally just [00:07:00] trying to see what are the things that we can introduce into our, um, into [00:07:05] our workflows and how they can fit.
+
+
+[00:07:06] Um, on top of that, I think Figma has been particularly sensitive [00:07:10] to, um, making sure that the designers feel heard, to make sure that, uh, [00:07:15] you know, they're taking into consideration what are people's skill levels, what are the gaps that they have, [00:07:20] um, and in those places are there ways that we can support everybody, [00:07:25] um, you know, workshops or working groups or documentation so that people feel [00:07:30] they have all the tools and the knowledge that they need to.
+
+
+[00:07:34] Come [00:07:35] using AI tools when they need to. Um, personally, I've found that my [00:07:40] scope and my role as a designer has expanded. So instead of it feeling [00:07:45] like I have, you know, design is being taken away from me, [00:07:50] I'm finding myself becoming more of a builder. I can now expand into code. I can expand [00:07:55] into doing more of like the product stuff that I wasn't maybe able to do before.
+
+
+[00:07:59] It has allowed [00:08:00] me to kind of. Ex widen my horizons more, um, [00:08:05] and explore in areas that maybe I wasn't able to before. [00:08:10] 
+
+
+[00:08:11] Speaker: I'm curious in emerging area, like generative design, so [00:08:15] your journal don't know exactly what they, what they want. So yeah. How do you gather [00:08:20] feedback and set design direction? The user intent is unclear.
+
+
+[00:08:24] Speaker 2: That's a good [00:08:25] question. Um, when users, I think. When we think [00:08:30] about the types of things that users want to do, a lot of it also kind of depends on the modality [00:08:35] that we are giving them to tell us what they want. So there are way the [00:08:40] world where there's an open prompt box, the open prompt box kind of [00:08:45] affords you to be able to do anything.
+
+
+[00:08:46] And so if that is the modality that we're going down, it kind of has [00:08:50] to support anything. Um, but. There are certain situations [00:08:55] where you know exactly what the user is looking for, and in those worlds, maybe the prompt box isn't the [00:09:00] right flow, and maybe there is a more deterministic UI sort of way to go down [00:09:05] that path.
+
+
+[00:09:06] And so the way that we've been approaching it is using, [00:09:10] um, you know, prompting and using, uh, you know, natural language as a way of [00:09:15] collecting or understanding what are the things that people want to do, what do they want to try and. [00:09:20] Learning about all of the, the work that people want to accomplish and [00:09:25] building better features off of that.
+
+
+[00:09:27] Um, starting with the baseline, starting with some high value [00:09:30] use cases and then iterating from there and like building in more capabilities as we learn what [00:09:35] those use cases are. 
+
+
+[00:09:36] Speaker: Thank you then in your view, so what. [00:09:40] Product design are most overrated. And which one, [00:09:45] which, which ones are the most underrated?
+
+
+[00:09:49] Speaker 2: Which ones [00:09:50] are the most in terms of designing AI for product? Yes.[00:09:55] 
+
+
+[00:09:56] I would say [00:10:00] that when we're designing for AI right now, a lot of the times it [00:10:05] feels very loud and in your face. Um. Um, but I think the [00:10:10] parts that are the most underrated when designing for AI are the ways that it shows up for [00:10:15] you quietly. Um, especially, especially when you're working on, you know, workflows where you're [00:10:20] trying to kind of, um, you know, you want the UI to get out of your [00:10:25] way and you want to really focus in, in that work.
+
+
+[00:10:27] And so in that world, how can [00:10:30] AI show up for you right when you need it in subtle, wonderful ways that don't feel [00:10:35] distracting. Um, and that feel helpful, but not [00:10:40] overwhelming. And so I think investing more in those like silent but helpful [00:10:45] AI moments, um, is something that feels super undergrad right now [00:10:50] 
+
+
+[00:10:50] Speaker: and during the, during the design process for, [00:10:55] so yeah.
+
+
+[00:10:56] What was the most difficult decision you had to make and how did [00:11:00] you maintain that 
+
+
+[00:11:00] Speaker 2: moment? Right. Um, so this has been kind of a. [00:11:05] Uh, attention that we kind of have to figure out in terms of when we are working on Figma make, we are [00:11:10] now introducing this system where you prompt to edit. And so that is [00:11:15] you having to ask the AI to make all these little changes for you.
+
+
+[00:11:18] But Figma [00:11:20] historically has been a very direct manipulation based system, and so you manually go [00:11:25] through and make those little changes yourself. And now these two paradigms are kind of [00:11:30] at odds and we had to decide how do we. Like, you know, how much of each [00:11:35] one do we lean into? And what we realized is that there is room for both.
+
+
+[00:11:39] [00:11:40] It has to be both, because you should be able to show up and work at whatever [00:11:45] fidelity or capacity that you feel comfortable. If you want to go in and get to the nitty gritty and make [00:11:50] those changes, you should be able to. And if you wanna get those big ideas from the prompting, you should be able [00:11:55] to do that too.
+
+
+[00:11:56] Um, and these workflows aren't just one-to-one. You can start at [00:12:00] prompting and then go into this direct manipulation mode and vice versa and flow between the [00:12:05] two very easily. Um, and so how do you support those kind of workflows instead of like [00:12:10] trying to pick between one or the other? 
+
+
+[00:12:13] Speaker: Dan, [00:12:15] I want ask more.
+
+
+[00:12:19] [00:12:20] Interaction model in AI product. So how did you approach designing the prompt, [00:12:25] prompt experience to user, to reduced user [00:12:30] part T from from constant prior and error? 
+
+
+[00:12:34] Speaker 2: [00:12:35] So I think the important part of, uh, when [00:12:40] we think about prompting and what results out of prompting. Um, [00:12:45] and why people run into the problems that they run into.
+
+
+[00:12:47] I think a lot of it is based on the [00:12:50] context that the AI has and how much it understands what you're trying to do. Um, [00:12:55] and so when we think about how do we help users get, get out of any of these error states that [00:13:00] they're in, it's first, how do we equip the AI to help the [00:13:05] user understand what it doesn't understand?
+
+
+[00:13:08] Like, can we ask clarifying [00:13:10] questions? Can we, um. You know, take the history of all the things that you've tried and try to [00:13:15] reason about what it is that you're trying to ask for. And so, in that world [00:13:20] where we build more understanding about the things that you wanna try, ask, follow up questions, [00:13:25] build, understanding that trial and error, uh, becomes, you know, the gap [00:13:30] is lower and lower because we, we start to have the same amount of information or context about [00:13:35] what you're trying to do as you do.
+
+
+[00:13:36] 'cause you've communicated it to us. And so having it be a back and forth [00:13:40] experience as opposed to like a one off that, you know, is hard to like align on. [00:13:45] 
+
+
+[00:13:45] Speaker: And I'm curious, balancing automation and is crucial for user trust. [00:13:50] So yeah. How did you design the human flow, [00:13:55] ownership and control over ai, control over ai, generat [00:14:00] AI generated costs?
+
+
+[00:14:02] Speaker 2: Yeah. Um, this is. [00:14:05] The ability to control the product and the outcomes, [00:14:10] and then being able to go to automation is something that is very, very important. Um, so [00:14:15] we've been exploring in the, the workflows that people have when it comes to design. [00:14:20] Um, when do they start at the high level and they're like really excited about, you know, [00:14:25] prompting and they wanna like, kind of let the AI take over.
+
+
+[00:14:27] And at what moments are they ready to say, [00:14:30] okay, you know what, this is actually exciting and I wanna take over now. And in those [00:14:35] moments, what is it that they need? Um, and so things like do we [00:14:40] surface more direct manipulation tools? Do we give you a way to like go from [00:14:45] prompting to direct manipulation back and forth and at every moment.
+
+
+[00:14:48] Do we always [00:14:50] allow you to have choice, um, and making sure that anything that the AI [00:14:55] produces, sure, the AI can give you all of the, the different versions that you're exploring, but at [00:15:00] the end of the day, it's up to you to decide which version is the best for you. And it's [00:15:05] through your guidance and it's through your, uh, you know, work and tweaking and [00:15:10] like maybe 300 different prompts that you get to a final version that you're happy with because [00:15:15] it was your choices along the way that made it that.
+
+
+[00:15:17] What it became [00:15:20] 
+
+
+[00:15:21] Speaker: when, when I use ai, AI product. So AI occasionally [00:15:25] produce or, so then how, how, how did you design [00:15:30] for those fail modern, fail, fail most to minimize your [00:15:35] frustration and maintain trust? 
+
+
+[00:15:37] Speaker 2: That is also a good question. Um, when we think [00:15:40] about like how do we maintain user trust, um. We have to think [00:15:45] about what is it that the users are expecting?
+
+
+[00:15:47] And so I think this ties [00:15:50] back into making sure that they use the AI has the same context that the [00:15:55] user has. So making sure we are asking follow up questions, making sure that we understand what states [00:16:00] they're in, maybe making sure there's transparency in the system, um, telling them what the errors [00:16:05] are, how to recover from them.
+
+
+[00:16:06] If they can't recover, how do they like move on from wherever [00:16:10] they are. And so. Those kinds of things. Um, there's also an element of [00:16:15] this where, um, people are, um, excited to [00:16:20] kind of like play around with these tools and then kind of push it to see how far it can go. And [00:16:25] so we get a lot of great feedback from people who are like, I use this thing in this way that [00:16:30] I wasn't expecting.
+
+
+[00:16:31] We weren't expecting it that way either, but then they just kind of like played with it and [00:16:35] messed with it. Um, and that really helps us, like understand the intent and then build for those better [00:16:40] too. 
+
+
+[00:16:42] Speaker: Then were there any design ideas or [00:16:45] features in PMA make or others that other feature that you eventually discarded [00:16:50] due to for, for electrician?
+
+
+[00:16:53] And what did you [00:16:55] run from, what did you learn from those iterations? 
+
+
+[00:16:58] Speaker 2: So one of the things [00:17:00] that we were exploring is more, um, like contextual [00:17:05] suggestions. Um, so we kind of thought about. You [00:17:10] know, you have no idea how to get started. If there's like a blank canvas, if there's an empty chat [00:17:15] box, what can this thing do?
+
+
+[00:17:16] How do you get started? And so one of the things we're exploring [00:17:20] is, um, if you have something selected, could the AI give you [00:17:25] suggestions? Um, by just taking a look at what you've selected, generate something that might be [00:17:30] helpful. We actually found that, um, it wasn't like that helpful for [00:17:35] users. And what we realized is, again.
+
+
+[00:17:37] Context is really, really important. And so [00:17:40] it's not just about we can see what you're doing and give you suggestions. It actually has to be meaningful [00:17:45] to the goals that you are trying to accomplish. The AI has to not only understand the [00:17:50] what of what you're trying to do, which is you know, the designs, but also the why, the [00:17:55] decisions you're making, um, because those things help you understand what an actual helpful [00:18:00] next step or next suggestion should be.[00:18:05] 
+
+
+[00:18:08] Speaker: I, I, I, [00:18:10] I think AI development is core of uncertainty, so, yeah. How has [00:18:15] collaboration between designers, PMs, and engineers evolved in this context? [00:18:20] And have you tra have traditional boundaries for, [00:18:25] 
+
+
+[00:18:25] Speaker 2: I would say given the uncertainty of ai, a lot of the. [00:18:30] Boundaries and the, the rules and the the roles have kind of really, really blended.
+
+
+[00:18:34] Um, [00:18:35] when I work with my PMs and my engineers, I found myself doing a little bit of the [00:18:40] stuff that they would do, and I found them doing the same thing with my role. Um, and we've found that [00:18:45] we've all become builders. We all now kind of lean on each other and we've [00:18:50] gotten to a place where if somebody on my team is like, Hey, Tammy, I need to [00:18:55] step out.
+
+
+[00:18:55] Can you take over? I can a hundred percent do that now and the same thing can happen, [00:19:00] um, from my other coworkers. We've found that some of, like the best ideas [00:19:05] are coming from people, um, you know, who may not have had the traditional skillset [00:19:10] and they can now take on that role and like mess around with it and play with it.
+
+
+[00:19:13] Um, and [00:19:15] we've just essentially, we have all become an actual team of [00:19:20] people and we're just there to help each other build something really cool. [00:19:25] 
+
+
+[00:19:26] Speaker: Um, this is my curiosity, but I, I [00:19:30] wonder beyond, beyond simple building on top of the top of the foundation [00:19:35] model. So what does it, what does it really mean to build great AI product?
+
+
+[00:19:39] [00:19:40] So in your view, what's, what makes an AI experience truly delightful and [00:19:45] useful for users? 
+
+
+[00:19:46] Speaker 2: I think in order for AI to be truly [00:19:50] delightful and usable, you really have to understand. What is it that the person is trying to [00:19:55] do and how much of what you are creating is [00:20:00] acceptable? So especially when it comes to design, trying to understand do [00:20:05] people want these end to end fully functional zero [00:20:10] one designs, or are they just looking to have, you know, get me 80% of the way there [00:20:15] and I can do the rest, help me get my work done?
+
+
+[00:20:17] And so. When I think [00:20:20] about theis are the most helpful and the most useful for people. Um, and the ones that make [00:20:25] me like this is really good. It's the ones that help me [00:20:30] improve those workflows. Help me. You know, I was going to go around and [00:20:35] do this one edit like 50 times. The AI can handle it for me, and now I'm free to do the [00:20:40] things that I actually want to do.
+
+
+[00:20:41] Those are the things that I think help. [00:20:45] Free up designers from like, how to do those menial tasks and they can focus on the things that they actually enjoy doing. [00:20:50] 
+
+
+[00:20:52] Speaker: Yeah. I imagine people's pattern of the using [00:20:55] product have changed quite a bit in the age of ai. So have, [00:21:00] have there, have there been any aha moments?
+
+
+[00:21:02] So where, where you [00:21:05] realize, oh, this is how people behave. Safety now? 
+
+
+[00:21:08] Speaker 2: I think [00:21:10] in the age of ai, the. Changes in people's, [00:21:15] uh, behavior, interaction with our products changes almost daily. [00:21:20] Um, and I've, what I've found is different people come in with different mental models depending on the [00:21:25] tools that they're most used to, if they've never used AI versus they've used one product over another.
+
+
+[00:21:29] [00:21:30] Um, and we're coming in with different workflows that people have kind of built. And so, [00:21:35] uh, we are really at this like cutting edge. Frontline where we [00:21:40] are getting to build some of the new world of AI [00:21:45] experiences and workflows that people are going to be adopting and taking into the future. Um, [00:21:50] uh, I basically, from all of the user experiences, um, and things I've been collecting, I've [00:21:55] just been seeing tons and tons of different workflows and not one or another has felt like [00:22:00] this is the right flow.
+
+
+[00:22:02] It just depends on the things that you're trying to do and the workflows [00:22:05] that you're used to. 
+
+
+[00:22:07] Speaker: And can you share an example of [00:22:10] this a within the team about AI US direction, so, and how you [00:22:15] personally contribute to buying alignment? 
+
+
+[00:22:19] Speaker 2: Say that one again. I'm [00:22:20] sorry, I missed that. Oh, yeah. 
+
+
+[00:22:21] Speaker: Uh, so I, I I want to, uh, ask, uh, your, [00:22:25] when, when your team, this a peace agreement within the team about ai, ux direct [00:22:30] direction.
+
+
+[00:22:30] So how, how, how you personally contribute to buying online. [00:22:35] 
+
+
+[00:22:35] Speaker 2: Um, so when we are working on AI tools [00:22:40] and trying to figure out like the UX alignment for a lot of this stuff, um, it's really helpful for us, [00:22:45] again to just build prototypes really quickly. So we will use Figma make, um, we will [00:22:50] try building like coded prototypes and we find that for something as [00:22:55] um, you know, like nitty gritty and granular as Figma, we really do need to get a [00:23:00] lot of that functionality in.
+
+
+[00:23:01] And that's where like, you know, using Figma make, using these. Prototyping [00:23:05] tools really comes in handy. And once we've built these tools, we can actually feel it out. We can actually try it [00:23:10] and people can play around with it, spend some time using it, and [00:23:15] then that becomes a conversation about, well, how did that feel to use, as opposed [00:23:20] to having a conversation about like static mocks.
+
+
+[00:23:23] Um, and so in [00:23:25] that world, what we've found is when we have these arguments or disagreements, just [00:23:30] let's build a prototype and like. Let's put it on and let other people use it and try it out [00:23:35] and see what feedback we collect. And so moving very, very quickly, trying, [00:23:40] trying it out and getting feedback through that.[00:23:45] 
+
+
+[00:23:46] Speaker: So you experienced, you, you experienced a [00:23:50] variety of urbanization before joining Pima. So what felt most different once [00:23:55] you arrived here? And uh, was there anything you had to unlearn or major? [00:24:00] Insight you gained from working in this environment? 
+
+
+[00:24:04] Speaker 2: I think [00:24:05] my favorite thing about Figma is just how like, excited people are [00:24:10] to just build things and try things out.
+
+
+[00:24:12] Um, this has been like basically one of the few [00:24:15] places where I've been heavily encouraged to just do it. Um, and [00:24:20] I've found empowerment to try ai, try these different. [00:24:25] Different things and then blend my rules myself. And so I came in as a [00:24:30] designer, but I quickly found myself, um, you know, getting access to the code base [00:24:35] and then building my own prototypes or running and doing my own, uh, [00:24:40] like project management things.
+
+
+[00:24:41] And so what has been helpful here is [00:24:45] knowing that. That scrappiness, that like build it mentality, let's just run with [00:24:50] it. Energy, um, is just very, very core and has allowed me to just explore [00:24:55] and try ideas and not be afraid to fail, um, which has allowed me to [00:25:00] expand my scope as a designer into like areas that I didn't think [00:25:05] was possible.
+
+
+[00:25:06] Um, at a, at a company. 
+
+
+[00:25:09] Speaker: I [00:25:10] wanna ask. Has long standing culture of [00:25:15] play. Playfulness. Playfulness. So how do you bring that sense of play and delight [00:25:20] into AI experience so they don't feel overall? Yeah. Mechanical. [00:25:25] 
+
+
+[00:25:25] Speaker 2: I think this is kind of where we, when we think about how to bring playfulness [00:25:30] into ai, um, we think about how, how we should show up for you.
+
+
+[00:25:34] [00:25:35] And so some of the things that we've explored is, could AI show up as. [00:25:40] Um, you know, a collaborator for you on Canvas, and if it does, does it get its own cursor? [00:25:45] And then as you are kind of moving around, could it potentially also move around with you and just a [00:25:50] moment of having this like back and forth experience with it.
+
+
+[00:25:53] Um, there's also an [00:25:55] element of, um, when do you want that playfulness? Um, if you're [00:26:00] like deep in the core work of things that you're doing, if you're like, I'm really focused on this particular [00:26:05] project and I don't wanna be dis disrupt dis, I don't wanna be distracted. Do [00:26:10] we want to surface playfulness or is the focus, let me just get out of your way so you [00:26:15] can do the work that you need to, um, is playfulness more focused [00:26:20] on, um, once you're in a more like, less focused [00:26:25] state where we can, you know, give you delight, give you suggestions that maybe were a little [00:26:30] bit, uh, out of the box of what you were thinking, but maybe pushed you in a new area that you [00:26:35] weren't thinking before.
+
+
+[00:26:37] Speaker: That if AI automate most [00:26:40] interface generation in the future. So what will remain the core human [00:26:45] trends of designers and how do you see the designers all evolving [00:26:50] as curators, strategists or something else? 
+
+
+[00:26:53] Speaker 2: I think as [00:26:55] the AI starts to generate more and more designs and like starts [00:27:00] generating um, things for you, your role starts to become about.[00:27:05] 
+
+
+[00:27:05] Guiding the ai. Um, so I use AI in my everyday [00:27:10] workflow, and what I find is it's great at helping me [00:27:15] make my ideas come to life, but they're, at the end of the day, they're my ideas and I have to be the one to [00:27:20] push it. I have to know what I want to prompt, what does that next change I want to make and [00:27:25] why those changes need to be made are kind of locked in [00:27:30] my head, I suppose.
+
+
+[00:27:31] Um, and so I imagine that as. [00:27:35] The, like, the industry evolves. We're going to find that [00:27:40] people, their role is guiding the ai, being the, the, the [00:27:45] visionaries, the innovators of what needs to be done next and why. Um, I also find that within [00:27:50] my own workflows, um, the AI is pretty good at getting me to a [00:27:55] specific spot.
+
+
+[00:27:55] But beyond that, I have to take over control just to get that final [00:28:00] grain control over and make sure I'm getting the final nitty gritty details. Those, um, [00:28:05] interactions, those like nice moments, the, like animations, the motion [00:28:10] design, the tiny little details I still need to take over. Um, and then just [00:28:15] get it to feel right.
+
+
+[00:28:16] And I think that differentiation, that craft that [00:28:20] designers or your years of training have, that's something that will stay [00:28:25] really, really. Specific to humans. 
+
+
+[00:28:28] Speaker: I think it's kind of similar [00:28:30] question, but what advice would you give to those who are just beginning their journey in design [00:28:35] today? 
+
+
+[00:28:36] Speaker 2: Um, the advice I would give to people starting their journey today [00:28:40] is just build things.
+
+
+[00:28:41] Get excited about the things that you're excited about. Um, [00:28:45] figure out what makes you, um, like excited about technology in general and try it [00:28:50] out. Um, use Figma. Make, use the AI tools. Learn about what they do, what are they good [00:28:55] at, what are they bad at? Um, break it. See if there's ideas that you have. It's more [00:29:00] about finding ways to open doors for yourself and just [00:29:05] trying it, trying things out.
+
+
+[00:29:06] Become a builder, um, and not letting, [00:29:10] um, anything kind of stop you. Just like, how can I get this thing done? How can I explore this [00:29:15] further? Um, and figuring out your, uh, pathway to getting there. [00:29:20] Basically become a builder. 
+
+
+[00:29:24] Speaker: So [00:29:25] thank you. And I know there's no real seeker sauce, but, uh, [00:29:30] one behalf of the audience, if, if you had to name one key [00:29:35] ingredient or principle behind the of product as love as pma, so [00:29:40] what would it be?
+
+
+[00:29:43] Speaker 2: I would say [00:29:45] that the secret sauce of building a product. Uh, that is as [00:29:50] loved as Figma is really listening to users and really trying to keep them at the [00:29:55] core. Um, we've spent a lot of time understanding and [00:30:00] respecting the user, their, you know, motor memory, their skills, their, the [00:30:05] things that they care about, and finding ways to disappear.
+
+
+[00:30:09] Um, how [00:30:10] do we make it so that when you're working, you can really just focus on the work that you're [00:30:15] doing as opposed to the ui. And that, that just kind of blends into the background. [00:30:20] And so when you think about how do you make a beautiful, well-crafted product, [00:30:25] it's about understanding at a fundamental level, what are the things that users are [00:30:30] trying to do and how to get out of their way, and how do you make sure that we're [00:30:35] helping you do that through collaboration or through, um, just, you know, the workflows [00:30:40] that you're trying to get and unlocking those things for them.[00:30:45] 
+
+
+[00:30:46] Speaker: So he, and he also really emphasized the idea of [00:30:50] customer obsession. So do you have any unique team, practice or [00:30:55] personal habit that help you better understand your users? 
+
+
+[00:30:58] Speaker 2: So I, [00:31:00] um, some of the things that we do to like stay [00:31:05] customer focused and like user focused, um, we love. Like running up [00:31:10] alphas for different products that we're working on.
+
+
+[00:31:11] So we explore different ideas, get it in front of [00:31:15] users, do rapid research, and we're constantly just like collecting as much user feedback as possible. [00:31:20] Um, I also spend a lot of time personally going through, uh, the prompts that [00:31:25] people try with AI just to see like what do they try, what do they run into, what errors did they get, [00:31:30] and it helps me get a better intuition for their workflows.
+
+
+[00:31:33] What are they expecting, what things are they [00:31:35] running into so that I get a better understanding of. Uh, what isn't working for them. [00:31:40] And so we spend lots of, lots of time as a team, [00:31:45] um, understanding the, the types of things that people are looking to try and then [00:31:50] digging into why it didn't work. Um, and I do that personally.
+
+
+[00:31:53] Like I love digging [00:31:55] into people's feedback. And when they give us, um, you know, thumbs up, thumbs down [00:32:00] ratings, like what is it that they're saying? Why did they feel that way? Following up if we have to. Um, [00:32:05] and just making that a core part of our. Everyday workflow is just dedicating [00:32:10] time to just like really reading what people are trying to say to us.[00:32:15] 
+
+
+[00:32:16] Speaker: It's my, uh, I'm curious product like, so [00:32:20] p vendor product is used globally. Designing naturally [00:32:25] has to account for both global and local contests. So how do you set [00:32:30] that balance and what principle or criteria guide you approach to designing? [00:32:35] Consistent yet currently adaptable user experience? [00:32:40] 
+
+
+[00:32:40] Speaker 2: That's a good question.
+
+
+[00:32:41] When you are trying to design for something that has to kind [00:32:45] of fit the local, within the global sense as well? Um, I think [00:32:50] there is two, two kind of mental models. One where let's figure out [00:32:55] an area where we, uh, the, the work, the thing that we're doing fits in the current [00:33:00] context that we're working in, and then start adapting going further.
+
+
+[00:33:02] So some of the work that we've done in the past. [00:33:05] Um, would be, um, you know, if we make a specific feature, how do we [00:33:10] then evolve it to the needs and the use cases of other people? And so starting with one [00:33:15] use case and getting it to be really, really strong, valid, good. And then from there, [00:33:20] adapting it to the, the use case of that other people have in other areas, um, [00:33:25] and seeing what the differences are and why.
+
+
+[00:33:26] Um, and how do we like, you know, find the [00:33:30] balance between the two. Um. Yeah. 
+
+
+[00:33:34] Speaker: And [00:33:35] was there any piece of user feedback or, or leave you, you came across [00:33:40] essentially that really stood out to you? And what made it, what made it so memorable?[00:33:45] [00:33:50] 
+
+
+[00:33:51] Speaker 2: I would say the piece of feedback [00:33:55] that we got from users that was really memorable would be [00:34:00] honestly. My is, is is one where we saw people getting angry [00:34:05] at the tools that they're using. I think because it shows both the frustration with the [00:34:10] things that they're wanting to do, but also, um, how much they care about [00:34:15] this thing working in the first place.
+
+
+[00:34:16] Um, I think in the moments where people are, [00:34:20] you know, frustrated, it reveals a lot about, um, the things that they [00:34:25] really wish would go right, and those are the moments that I really care about because those things should [00:34:30] not happened. And so I love to spend time looking at any [00:34:35] moments where people are like, Hey, this really didn't work the way that I wanted to.
+
+
+[00:34:38] And that kind of violates [00:34:40] the principles of how do we get out of your way? And those are the ones that I think are the most [00:34:45] memorable, important to focus on, because that's the thing that makes a difference between [00:34:50] a, a product that feels seamless and lovable, and one that just like, man, I [00:34:55] can't use this.
+
+
+[00:34:55] Like this is gonna get in my way. 
+
+
+[00:34:58] Speaker: And for someone. [00:35:00] For someone who want to join Pimas product or design team. So why [00:35:05] would, what would you say are the team's core value or guiding from philosophies? [00:35:10] And if you have, if you had to name one thing, the team would never [00:35:15] come from Amazon. So what, what, why would the be?
+
+
+[00:35:18] Speaker 2: I would say the thing [00:35:20] that the team would never, uh, compromise on would be craft, um. [00:35:25] I have never met a team in my entire career who [00:35:30] are just so amazing at the things that they do. Everybody that I talk to is so [00:35:35] dedicated, um, and so focused on even the tiniest little details. And I've had [00:35:40] conversations at the most abstract levels all the way down to things about like [00:35:45] stroke width or icon sizing and stuff.
+
+
+[00:35:47] And so at Figma we really, really sweat [00:35:50] those details and trying to figure out what is. The right thing for the right people and [00:35:55] why, and kind of like digging into all the different complicated intricacies. Um, [00:36:00] and so that is one thing I don't see ever changing. It's like the [00:36:05] love that people have for the things that they do, their work, their, uh, focus [00:36:10] on their own craft and their desire to grow in those areas.
+
+
+[00:36:13] Um, and I think it's core and [00:36:15] integral to basically everything that we do. 
+
+
+[00:36:19] Speaker: And [00:36:20] I think it might be over with be with what you discussed, what we discussed earlier. [00:36:25] But, uh, looking, looking back to when you first joined pma during pma, was [00:36:30] there something that made you think, oh, this, this place is really different.
+
+
+[00:36:34] So, and what stood [00:36:35] out to you? What stood out to you most at the time 
+
+
+[00:36:38] Speaker 2: when I first joined [00:36:40] Figma, um, I think the thing that stood out to me was their [00:36:45] willingness to let me try things. Um, I joined and [00:36:50] I was given a project, but then I had some interest in some other areas that [00:36:55] I was kind of like excited to pursue.
+
+
+[00:36:56] Um, we had one project where I noticed that, you know, we [00:37:00] didn't really have a, uh, a good documentation set up, and so I was like, you know [00:37:05] what? Why don't I just go ahead and make this? And everyone's like, go for it, Tammy. Do the thing you want to do. Every [00:37:10] step of the way there, like the willingness to just say.
+
+
+[00:37:13] If you wanna try it, and if you wanna [00:37:15] improve your craft in these different areas, go for it. And, um, it's helped [00:37:20] me, like, basically everyone's gonna remove barriers for me so that I can explore the things [00:37:25] that I want to. Um, and I think it's been really integral to me [00:37:30] becoming, you know, a builder. Me becoming somebody who is, you know, [00:37:35] capable of blurring my role.
+
+
+[00:37:36] Is because I've been in an environment where that [00:37:40] kind of mentality is like valued and nurtured and, [00:37:45] um, you're more than welcome to kind of like figure out what you wanna do and how do we get you there. [00:37:50] 
+
+
+[00:37:51] Speaker: Then as you work on designing ai, so, uh, is [00:37:55] there any board or unconventional vision you have for the future?[00:38:00] 
+
+
+[00:38:00] Someone, something that others might not? But you, you find yourself dreaming [00:38:05] about. 
+
+
+[00:38:06] Speaker 2: I think the future of AI that I'm dreaming about is [00:38:10] one where you maybe don't even have to prompt, [00:38:15] um, one where the AI can kind of meet you where you are. Um, one of the things, the [00:38:20] workflows that I'm thinking about are sometimes when you're like really, really deep in a specific [00:38:25] problem and you're like, I can't really quite figure this out.
+
+
+[00:38:28] It can be kind of difficult [00:38:30] sometimes to. Uh, prompt your way out of it, right? It's like you have to articulate the [00:38:35] thing, the problem. Does it make sense? Um, and sometimes the than just doing the thing [00:38:40] yourself is much easier. So what are the workflows? Where can the [00:38:45] AI understand what you're doing, um, and the see the work that you've [00:38:50] done?
+
+
+[00:38:50] And. Uh, where you are and where you're getting stuck and meet you where you [00:38:55] are. So that in those pivotal moments where you're like, I'm really stuck here, we can show up [00:39:00] for you. And that could be a moment of major delight where you weren't expecting the support, [00:39:05] but wow, it's right there and it was actually really useful.
+
+
+[00:39:07] That is, I think, the future I wanna get [00:39:10] to where AI can come to you as an old friend as [00:39:15] opposed to something that you have to go to. 
+
+
+[00:39:17] Speaker: I think this, this is kind of [00:39:20] weird question, but I recently heard someone says that the best UX is one of the [00:39:25] best. UX is the one you don't even notice. So if the future [00:39:30] move toward the kind of seamless experience where user no longer even feel the [00:39:35] presence of us, how do you think the world of designers really, [00:39:40] 
+
+
+[00:39:40] Speaker 2: I think that in the world where we start to have less and [00:39:45] less.
+
+
+[00:39:45] Actually interfaces, um, the role of the designer is going to be to [00:39:50] figure out what does that mean? What does that look like? And so a good example of [00:39:55] this would be all the work that we've put into the editor. Um, like [00:40:00] the focus we put into understanding what mental models do we need to preserve and keep absolutely [00:40:05] sacred.
+
+
+[00:40:05] Um, and what does that imply for any UI that we do build or don't build. And so [00:40:10] the decision of what UI needs to be built and why. Or how [00:40:15] is it going to be up to somebody to decide? And so what it, when we figure out [00:40:20] what UI needs to be seamless, that's a decision that needs to be made. And that is gonna be entirely [00:40:25] dependent on the user, their workflows, their mental models, the context they're coming in with.[00:40:30] 
+
+
+[00:40:30] Um, what are the things that they're expecting. You have to really understand [00:40:35] what are the things that they are thinking about subconsciously, and how do we make those [00:40:40] pieces in the background. And those are design decisions that somebody's gonna have to make [00:40:45] intentionally about which pieces deserve, uh, UI in the forefront and which ones need to be [00:40:50] hidden in the back.
+
+
+[00:40:51] Speaker: And the point, I'm [00:40:55] curious, uh, looking ahead, what does, what does an idea collaboration between humans and [00:41:00] AI look like to you? 
+
+
+[00:41:02] Speaker 2: I think the ideal collaboration between [00:41:05] humans and AI is like. AI shows up for me as a collaborator. It shows up [00:41:10] as, uh, somebody who can help me with the things and [00:41:15] basically help me level up my craft and help me get things done so that I [00:41:20] can focus on the things that I want.
+
+
+[00:41:21] Um, AI shows up in my workflows right [00:41:25] when I need it, but allows me to take over when I'm excited about, uh, you know, doing the little nitty [00:41:30] gritty things. And I think that looks really different for each person. Some people absolutely [00:41:35] love. You know, getting into the motion details, other people are like, I do not wanna touch [00:41:40] that.
+
+
+[00:41:40] I would rather spend my time, you know, building layouts with auto layout. Other people are like, ah, [00:41:45] do not gimme auto layout. And so it's about a really personalized experience with a [00:41:50] collaborator that shows up for you, knows who you and the things that you care about. [00:41:55] Um, but at the same time, you know, knows how to step back and let you [00:42:00] decide what is the right decision.
+
+
+[00:42:02] And at the end of the day. It's kind of up to you [00:42:05] to guide what it is that, that vision of the thing that you're working for, working towards [00:42:10] 
+
+
+[00:42:11] Speaker: and as a designer at the intersection [00:42:15] of AI and creativity. So what's the most exciting yet still [00:42:20] impossible design problem you develop? Tackle, 
+
+
+[00:42:24] Speaker 2: I think [00:42:25] for AI and creativity, the part that I'm really.[00:42:30] 
+
+
+[00:42:30] Excited or like about for the future is this idea of like, [00:42:35] context. Um, because I think context is basically going to be key for [00:42:40] creating, um, the right AI like experience. Um, and so [00:42:45] when we think about context, what is the right information to feed to the ai? [00:42:50] What is the right information for the AI to be consuming?
+
+
+[00:42:53] How do we know what [00:42:55] information is or isn't helpful? At what moment in time? How do we retrieve that information? [00:43:00] Um, because I think part of the magic that people expect [00:43:05] that come out of AI is entirely dependent on what the AI [00:43:10] understands about your workflows and this current state of the world that you're in.
+
+
+[00:43:13] And in order for you to have [00:43:15] these features and these tools be useful [00:43:20] and relevant, it needs to understand you, your workflows [00:43:25] and um, your systems in, in like deeply. And so that is an [00:43:30] area that I think is like very, very, uh, like there's a lot of explorations and we've been doing a [00:43:35] lot of under, like thinking about how do we tap into that?
+
+
+[00:43:37] How do we make that better? Um, but that's [00:43:40] like very core, integral, I think for the future. 
+
+
+[00:43:44] Speaker: Yeah. To wrap [00:43:45] up, so could you please introduce yourself once more and give us a [00:43:50] quick overview of your career journey so far and so many guests. So, [00:43:55] and also. Uh, little are great. If you could briefly [00:44:00] highlight some of the key project you work on at Figma.
+
+
+[00:44:03] Speaker 2: Um, [00:44:05] so my name is Tammy, um, and I am a product designer at Figma. [00:44:10] Um, before Figma I've been all over the place. Um, [00:44:15] I have, um, at a research company, I have started my own [00:44:20] company that we, um, had sold. I had. I've been intern at [00:44:25] like a whole bunch of different places. Um, I also was a software engineer for a couple years, [00:44:30] and so I've kind of been all over the place trying to really understand, um, you know, from design [00:44:35] agencies to, uh, VC firms kind of end to end all over the world trying to [00:44:40] figure out where in the design world do I fit in.[00:44:45] 
+
+
+[00:44:45] So introduce us 
+
+
+[00:44:46] Speaker 3: for Key project of Figma. Yes. 
+
+
+[00:44:48] Speaker 2: Um, so [00:44:50] a bunch of the products, uh, projects that I've worked on for Figma specifically, I had [00:44:55] done a notification revamp where we updated basically your entire [00:45:00] notification overhaul. Um, I also worked on Figma make, um, more [00:45:05] specifically, I worked on the direct manipulation tool.
+
+
+[00:45:07] I also worked on, um, the super base [00:45:10] integration. I also did some of the early versions of our style context feature. [00:45:15] Um, and now I'm exploring more on canvas prompting [00:45:20] experiences, um, to allow people to use AI directly in [00:45:25] Figma design Canvas. 
+
+
+[00:45:26] Speaker: Perfect. Thank you very much. Yeah, we are done. Yeah. 
+
+
+[00:45:29] Speaker 2: [00:45:30] Whew.

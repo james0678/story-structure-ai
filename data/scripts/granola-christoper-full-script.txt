@@ -1,0 +1,510 @@
+﻿00:00 | Yeah
+00:02 | Yeah totally
+00:03 | So we we launched Granola a year and a half ago
+00:05 | Uh we were 4 people at the time um at the company
+00:09 | We're now 35 people or so
+00:12 | We raised our Series B um earlier this year at a $250 million valuation um and we're we're growing super quickly
+00:39 | Yeah
+00:40 | So when we launched a year and a half ago there were already tons and tons of these AI meeting bot uh companies out there
+00:48 | So whenever we talked to investors or early people and we told them what we were working on they they were everyone was very negative uh that we would ever be able to like um break out of that and anybody would uh ever be able to notice us
+01:02 | And um we've been we've been able to do that
+01:05 | I think luck and timing was a big part of it but I also think the design of the product had a lot to do with the fact that um Granola has kind of popped out into at least Silicon Valley's consciousness
+01:15 | There are lot of people and a lot of leaders in Silicon Valley who who use us
+01:19 | Um and I think the same uh the same design principles the idea of focusing on you as a user augmenting your ability and um AI being helpful but in the background I think those like there's so much more we can do there to be useful
+01:34 | Um and I think uh I think Granola a year from now will be 10 times more useful than it is today for users with all the stuff that we're cooking that we haven't released yet
+01:42 | Sure
+01:44 | so I tried doing a startup in college
+01:47 | It didn't it didn't work out
+01:49 | I had to get um a real job so I I was lucky enough to join Google at the time um and worked on Gmail Maps you know kind of classic uh search classic Google products
+01:59 | I I quit because I wanted to do a startup and I started uh an ed-tech company an AI tutor for high school kids called Socratic in New York City
+02:09 | And I uh I ran that for five years and then Google acquired that company
+02:16 | And uh 3 years ago about I quit knowing I wanted to do another startup and I was trying to figure out I was trying to find an idea
+02:25 | I was exploring different ideas and I came across early versions of LLMs at that point and they blew my mind
+02:32 | Even though they were really imperfect and much much much worse than they are today I could kind of-- I could tell that there was something different and special there
+02:40 | Um and that's that's kind of the genesis of the exploration that ended up leading to Granola
+02:46 | Yeah I-- so I grew up um I-- so I was let's see
+02:52 | Uh I was born in '86 right
+02:55 | And Google like the search engine launched in '98 so I was 12 years old when Google launched
+03:00 | So just kind of as I as I was coming of age the internet like kind of the early days of like the modern internet was coming up and I was I was just fascinated
+03:10 | Like the-- I I lived in a small town in the middle of the woods in upstate New York so the internet was like this window onto the world and it was changing
+03:19 | It felt like it was changing before my eyes
+03:21 | Like all these people were coming online
+03:23 | There were all these communities that were evolving
+03:25 | People were um people were launching really interesting thought experiments
+03:30 | I remember like when Wikipedia came out and it was like "What?" Like people are going to contribute to this thing for free
+03:35 | So it was a really really exciting time
+03:37 | And I um And and from this small town in upstate New York I I kind of looked at California and Silicon Valley and Stanford and Google and all those companies
+03:46 | I looked at them as like a you know up on an altar
+03:49 | Uh you know it's like how like how do they do this
+03:52 | Um and and from the early days I was interested in technology but I was interested in technology because of what it could do for people right
+03:59 | And I I thought the internet at the time was very much a communication medium because it was again early days like we weren't using it quite in the same way as we were today
+04:08 | So when I went to university I kind of studied I wanted to understand okay how do computers work
+04:12 | How does the internet work
+04:13 | How do you build things for the internet
+04:14 | So I studied computer science but I was also really interested in in the internet as a communication medium
+04:19 | So I I I I majored in in computer science but also communication and and journalism
+04:29 | Mm-hmm
+04:30 | Yeah
+04:32 | Yeah
+04:33 | Yeah I guess I guess people ask me a lot of questions about what it's like like okay who-- what's it take to be a good product manager um or or a good CEO or founder entrepreneur
+04:44 | And I guess when when I was growing up I didn't really know any of those words
+04:49 | I didn't know I didn't know product management existed
+04:52 | Um I don't think I ever heard the word entrepreneurship until I got to Stanford
+04:57 | So what And and I didn't have a word for it at the time but what I was always doing is I was always trying to like build stuff
+05:06 | And I I guess the the word that I that resonates most strongly for for me at least how I think of myself is like I'm a builder per-- as imperfect you know like I'm I'm not the best builder with my own hands but I'm always trying to create things
+05:17 | Um and and that was I mean if you look back as as a teenager I was doing all kinds of stuff
+05:23 | Like in college I made this website called YouTube Repeat and basically it was like um if you listen to a s-- it Like I'm one of those people who like when I discover a new song I like to listen to that song on repeat until I get sick of it
+05:35 | And it was this I think the first website uh online where let's say you're on a YouTube video you'd change the URL from youtube.com to youtuberepeat.com and it would just play that thing um play that song over on repeat
+05:47 | And I I built that for myself on a weekend and forgot about it
+05:51 | And then like a year later I I looked up the stats and millions of people were using it and um I had no idea
+05:56 | And then I I I tried to turn that into something like a business and completely failed
+06:00 | So there are lots of um I've been trying things trying to build product for ages um and and building product's hard
+06:09 | It's like so-- it's like an order of magnitude harder I think than anybody expects
+06:14 | It's like it's not that hard to make something but to make something that people actually want to use almost impossible
+06:20 | And then to make something that people actually want to use that then kind of spreads is like the next level of impossible
+06:25 | So um I think I have a very very healthy respect for just how hard building things are and I have very low expectations whenever we go out and try to build something new that it's gonna be any good on the first 10 tries
+06:39 | So so when I was in college so I was studying computer science and um I I discovered this thing called uh human-computer interaction
+06:47 | Um and and basically it was this There are these like there are these very key moments that happened to me in college where I was like "Oh interesting
+06:54 | That that speaks to me." And like one was I was um in a security class and I learned that hey cryptography is basically magic but most almost all security vulnerabilities come from people doing the wrong thing or systems not being designed in a way that makes sense to people
+07:11 | Uh and I was like "Oh interesting." Even something as technical as security kind of the the human interaction element is huge
+07:18 | Um and then and then later in my journey I discovered this field called human-computer interaction and it's basically this the study of how do people use technology and how do you design technology for people
+07:29 | Um and I'm I'm not I'm not a designer
+07:31 | I'm not I'm not gifted in that way um but I was just really really fascinated about this idea of like how do you design things for people that spoke to me as a as a builder so to speak
+07:42 | and and there's something really I think it's like if you take that to the extreme there's something like really deep almost anthropological about that
+07:50 | Like if you want to build a really really fantastic product you really really need to understand your user in that moment
+07:57 | Um so it's just like a it's like a it's a deeply human but also technical task
+08:02 | and okay I got to the end of university I'm like "Oh I need to get a job," as we talked about
+08:07 | And I was like "What what do I want to do
+08:10 | Do I Should I be an engineer?" And that's when I discovered on Google's website I think it's like oh there's this thing called product management right
+08:17 | And and I was like "Oh." When I when I read it I was like "This sounds like a lot like spending a lot of time on the same things I did in my human-computer interaction classes." And I was like "That sounds great." Um and at the time at Google they would only hire PMs who had um engineering backgrounds
+08:32 | So you still had to be quite technical which I was excited about
+08:35 | Um and that's that's how I started
+08:36 | Yeah I was um uh so I I joined Google as a as an APM
+08:40 | It's basically their baby PM program so PMs who have no experience um before joining the company
+08:45 | And uh my first I did an internship on Gmail
+08:49 | I was then put on Search um and then I worked on Google Maps
+08:53 | So they were all utilities
+08:55 | Like I love building I love working on tools
+08:58 | I was given a choice on some of those and I really love building tools that let people do things
+09:03 | There's something I think kind of something really beautiful about the utilitarian uh aspect of that
+09:08 | It's it's like this idea of "Oh if I make this product great and people use it uh it means they get value out of it and their lives are perhaps a little bit better as a result." Like that that's something that I've always uh found really motivating
+09:33 | Yeah so many
+09:34 | I mean um so let let's just so you put it in context um this was in It's like 2009 or so
+09:43 | So I joined Google I think in late 2008 early 2009
+09:48 | so my view is like there's at least with product management which I had no idea what that looked like before there there's a lot of value in understanding how world-class teams operate right
+09:58 | Like if you if you join um big tech companies like they If you if you look on Twitter they get a lot of hate uh but there there's a certain like it's just seeing what-Uh how do those companies operate at scale at a very high bar is um something that's I think really interesting and useful to learn
+10:17 | I think there's you have to be careful though because if you if your interest is is really building things or entrepreneurship or starting your own thing a-after you kind of get a sense of "Oh this is what companies function like," then uh the skills you learn deviate at the large companies from the skills you need to learn to be able to do your own thing
+10:36 | And um and I I think a lot of the rhetoric inside of those companies is like "Oh you know no no
+10:41 | Like there's so much to learn here." And I think the transferability Like I stayed at Google for 4 and a half years
+10:46 | I think I could have left after 2 years
+10:48 | I think that I think in 2 years I learned a tremendous amount
+10:50 | And then if I'd then gone and started gone to a small startup or started my own thing then I would've started learning like the next set of skills that I needed
+10:57 | Uh so I think I stayed for too long
+11:01 | so I I think it's I think it's valuable to understand like a-at a very basic level it's valuable to understand how companies work
+11:09 | Like if you come out of university and you never worked at a company or a big company you are not exposed to what it means to work at a company or what like the the workforce the American workforce experiences
+11:21 | And that's a problem from like a building perspective
+11:23 | Like you'll have to If if you never go work at a big company you'll have to find other ways to really deeply understand um your users and their pain points
+11:31 | And the the thing is if you stay too long in a large company um and Paul Graham has amazing essays about this from like 20 years ago and I think they're still spot on today
+11:39 | But basically uh you s- you start learning to play these internal games
+11:45 | Games is maybe sounds harsh but I just mean like the problems you're trying to solve are very internal-focused problems right
+11:51 | They end up being around stakeholder management collaboration and and all these are like really hard things uh right
+11:57 | And there's a lot um there's a lot to learn on how to do them well but it it's very kind of organization-specific or large organization-specific and it it gets further and further away from uh this solving problems for customers or solving problems for users
+12:12 | And uh like a classic example is like in a big company you might not even be allowed to or or may not be expected that you talk to users because there might be a different team like a research team whose entire job is to do that
+12:25 | And talking to users is the best way to learn about anything right
+12:29 | So the idea that you might be disintermediated from that process by default like I'm sure you can you can insert yourself
+12:35 | Like that's just like one specific example of like okay you're learning a very different set of skills
+12:39 | You're kind of put into a swim lane uh when if you really want to build stuff for people like you actually need to spend a whole bunch of time on that
+12:47 | The first time you mean
+12:49 | Yeah
+12:49 | Um you-- Like why did I Like when I quit Google
+12:52 | Is that is that what you're asking about
+12:54 | Or like when in my life
+12:55 | Yeah
+12:55 | Um so w-when I was at Google I tried you know I had this idea for this new product and I was able to uh I started a team with some of my best friends inside of the company um to to build it and we got this VP support
+13:10 | And after a couple months the the VP strategy changed for the org and um they like sunset our project
+13:20 | And that was that was the moment when I was like "All right
+13:23 | I've I It's time
+13:24 | It's time for me to to try to try to do this somewhere else." Um and I ended up quitting in in short order and and joining a tiny startup and then that pivoted then starting my own startup
+13:36 | Yes
+13:37 | Yep
+13:37 | Yeah
+13:38 | Yeah
+13:39 | Yeah so when I left when I left Google I was interested in uh the education space
+13:47 | I kind of looked around and uh at the time I thought the the quality of um ed products in the education space was was quite low
+13:56 | Um and I was like "Oh okay
+13:57 | I've I've learned all this stuff at at Google about how to build high high standard high quality products." at least I thought so at the time
+14:04 | And I'm like "Okay now I can apply that to education." And um I was very lucky
+14:08 | I met my co-founder Shreyans like early in that journey
+14:11 | And um we started off solving a pain point that I had noticed at Google actually which was that when um students let's say high school students were stuck on a problem and they'd go to Google for help uh the results that Google gave them were really unhelpful
+14:27 | Like if you didn't understand how to if you're confused by some topic or stuck on a homework problem you really wouldn't be able to figure that out um based on the Google results
+14:35 | And we basically tra-- worked on that pain point that user pain point for the entire 5 years of Socratic and we tried very different ways of solving it
+14:43 | We started off building an online community like a Q&A community that um looked like Stack Overflow
+14:49 | Um and and that was relatively successful but then we actually realized um students were increasingly using cell phones and um typing in homework problems was really painful on cell phones
+15:01 | They didn't know what questions to ask
+15:03 | So that's when we realized okay what if students could take photos of their homework problems and then we could identify what that problem was actually asking about and then try to teach you that topic
+15:13 | Um and that that was the genesis of of Socratic
+15:17 | It it was an AI um product
+15:19 | Like we used well we OCR the the photo but then we would use OCR to understand Sorry we would use AI to understand the underlying topics and the problems
+15:27 | It was like Stone Age AI compared to what we have today with LLMs
+15:32 | It was like very very very basic
+15:34 | Um do do you mind if I kind of change the question a little bit
+15:37 | Because the Socratic product started off as a community product and then changed into So um I guess I mean I I learned a lot of things at Socratic
+15:46 | I think as like a first-time founder there's just a lot of things that you're going to um do for the first time
+15:51 | You're gonna mess up and then you kind of learn the basics
+15:54 | So I-I'll maybe just focus on one thing that I that I took from that experience and it was kind of night and day
+15:59 | And it's basically um you need to systematize your ability to talk to users
+16:05 | And and if if the activation energy for you to go and talk to your user is high uh then you're just not gonna do it very often right
+16:16 | And if you can lower that activation energy necessary to go talk to a user um and if you can do that for your whole company great great things are gonna happen
+16:25 | So this was 2013 we started Socratic
+16:28 | We were building for high school students and um it was really hard for us to actually go and talk to high school students
+16:35 | Like at at first I would literally I remember we'd know the-- there were a few colleges and a few high schools around our office in New York and I would sometimes go after school and be like "Hey do you wanna answer some questions?" And it felt super creepy
+16:48 | Um and eventually uh it took us a while to get there but we figured out this system where on every Tuesday and Thursday we would have um I think it was like 5 to 8 high school students come into the Socratic office and spend the afternoon there
+17:04 | And if we didn't have anything to talk to them about that's fine
+17:07 | They would just sit there do their homework and leave and they would get paid for it and they were super happy
+17:11 | But if we were working on a new feature or if we were um working on messaging or whatever it was they would be there and we could show them whatever we were doing
+17:20 | And the moment we had that our ability to improve our product and make it better sped up dramatically
+17:26 | So that that's something that I've I've taken away from from the Socratic experience um and have kind of carried with me since
+17:35 | Sure
+17:35 | Yeah
+17:37 | Yeah yeah yeah
+17:38 | Google acquired Socratic yeah
+17:42 | Yeah
+17:49 | um so in 2022 I quit Google and I knew I wanted to do another startup but I didn't know what that startup was gonna be
+17:59 | And I I was lucky because uh Google had bought my last startup I had some time to figure it out
+18:06 | So I said "Okay I'm gonna give myself a year to really explore different ideas and and see what I fall in love with." And very early in that year I came across an early version of GPT
+18:16 | It was GPT-3 the instruct version of it and I started playing with it
+18:21 | And my Like very quickly I was like my mind was blown
+18:24 | I think there's this moment we can-- everyone has probably experienced over the last couple years where they first used ChatGPT or Claude or some other LLM product and they're like "Whoa this is this is different than what's come before." So I at the time I wasn't like "Okay what's a great startup idea
+18:40 | I I need to start a company." I was like I was like "This technology is different
+18:44 | It's weird
+18:45 | It's magical
+18:46 | I wanna play with it and and get a feel for it as a from like so I can understand how to build products with it." And um because I was in this exploration mode I just started building interesting stuff for myself
+18:58 | Like the the first thing I built was this uh like voice diary where it was like an iOS app where every day I would just talk into it and it would transcribe what I would say and then it would um write a diary entry like an LLM would write a diary entry and then it would do all this analysis on my diary entries
+19:16 | And it was really really interesting and fascinating to see what worked and what didn't work like what were the problems that cropped up
+19:23 | And as I was exploring and building all these prototypes for myself I became completely convinced that all the tools we use for knowledge work you know for like like email work is is one way to describe it like all those tools are gonna be reinvented on the backs of LLMs
+19:42 | Um it's basically like up until now computers couldn't understand uh natural language right
+19:47 | And now they can understand natural language like human language so our tools should be so much more powerful
+19:53 | Um so I had that conviction early on but it wasn't super clear to me where to start
+19:59 | And and that's when I met my co-founder Sam
+20:02 | He's an amazing designer um and he had come from the tools for thought space
+20:06 | So- roughly like the note-taking space at the at the time there'd been lots of different famous like note-taking apps like Roam Research and and what have you
+20:15 | And kind of the perspective that I came with LLMs and his perspective on everything that was wrong with these like super power user-centric note-taking apps kind of pointed us in this direction of like okay what are the main pain points uh around note-taking
+20:31 | And when we started talking to users it became really really clear that the vast majority of notes anybody takes are from meetings and it's super hard to take good notes during a meeting
+20:41 | And if you're trying to take notes during a meeting it means you're less present and you're less thoughtful in the meeting
+20:47 | And we showed all these different ideas and prototypes to users and there's this one prototype which it's kind of like an early version of Granola but it was uh during a meeting you could type some words and we would auto-expand that to a full note
+21:00 | And when we showed that to people they're they're like they were like "I need that." So that's where we started working
+21:05 | That's how we started working on Granola
+21:12 | Yeah
+21:13 | Yeah absolutely
+21:14 | Um so like our-- the vision we had from day one uh when we started Granola you can see it in our seed deck which is online somewhere
+21:23 | It's it was basically this vision that okay now that computers can understand your context now that they understand natural language and they can understand your work context then there's gonna be a new class of software that's kind of like your contextually aware workspace
+21:39 | So as I-- I'm on a computer and I'm doing some work and up until now every email I write I started with a blank email right
+21:47 | Or every document uh I started writing would start with a blank document um and it didn't know who I was and it didn't know what I was doing
+21:53 | It was always the same
+21:54 | And that idea felt kind of crazy in a world where AI can help you and understand what you're doing
+21:59 | So we we started Granola with that big vision in mind and we're still building towards that big vision
+22:05 | We just started with this really acute pain point of meetings and meeting notes because AI is just remarkably good at taking our voices transcribing it and then turning that into useful notes
+22:17 | Um but we see that as a stepping stone
+22:19 | Like Granola today the way people use Granola today is actually uh is not-- they don't go back and read specific notes
+22:26 | They're gonna-- they go and they chat with their entire corpus of notes
+22:29 | So they'll be like "Oh well what did John say to me about this?" They don't really care when it was said
+22:33 | They just know that Granola knows the answer to that and they can ask it and they can then ask it to do all kinds of analysis as well
+22:39 | yeah so when we started building Granola we we took a very very iterative approach
+22:46 | Like we built the bare minimum thing and then we tried to get people to use it and uh we see all the reasons why it didn't work and then we try to fix those and then we try to change it
+22:55 | And for-- it was about a year that Sam and I started working on Granola to when we launched the first version which felt like forever in the AI space because the AI world is moving so quickly
+23:06 | And basically the process we we went through was that uh every day we would try to onboard one or two users and uh we'd watch them try to use the product and inever-inevitably they-- it would fail for a whole bunch of reasons
+23:20 | And then we'd try to fix some of those reasons before the next day and then we just kept doing this and doing this
+23:25 | And um very quickly we realized actually if if we're promising to take notes for you uh then um there's a pretty high bar there because you ne- you need to trust the software with something that's pretty mission critical
+23:39 | Like if you're used to taking notes and now you're gonna trust Granola to take notes for you to take most of the notes for you Granola can't mess up
+23:46 | So there's actually a lot of um uh just technically in terms of like making sure you always get the transcript and the audio is working and if something if it stops working for any reason it really tells you as soon as possible so you don't you don't miss information
+23:59 | There's a there's a pretty high bar there to to to get that right
+24:08 | Around the iterative process you're saying or Yeah
+24:24 | Yeah
+24:24 | So like I very much believe that user feedback talking to users is the lifeblood of building product
+24:34 | I think if if you're not constantly talking to users not constantly getting feedback um you're just not gonna build something really good
+24:40 | Now what I don't believe is that you should talk to users and then just do whatever they ask you to do right
+24:46 | Because um users are gonna say a whole lot of things and uh sometimes they'll contradict
+24:51 | Sometimes what users think they want and what they actually want or what they actually need are different
+24:57 | So like Sam and my my philosophy is to talk to users so you can really get their context you can hold that in your brain but then use your intuition and your vision of what the product should do
+25:10 | So from the get-go I think we've always um known that we wanted Granola to be a very simple minimal design uh product where it feels nice to spend time in
+25:21 | It's not distracting it's not vying for your attention
+25:24 | It's something that makes you feel calm uh makes you feel like you know someone's got your back
+25:29 | Um like we've always known that and we-- that's been rooted on what we wanted in a product right
+25:34 | 'Cause we use Granola and we've always wanted to use Granola
+25:37 | Um but as we try to build that out we have hundreds and hundreds of users kind of in our heads that we can kind of close our eyes and be like "Oh what what would Nancy think of this?" And we we can kind of visualize their response pretty well and I think that's super important
+25:50 | I think if you just make a prioritized list of user needs and build those um that that doesn't work very well
+25:56 | Like whenever we've done that users never ended up uh using those features very much as opposed to when we really kind of thought about what we thought was important and informed that by all the user context all the user feedback we're getting that's worked really well for us
+26:15 | It it's just it is it is remarkable how um easy it is to convince yourself that you know something is good
+26:26 | Like this happens all the time where you're you're building something you're like "This is great," and then you put it in front of users and then they don't understand it they hate it they don't get it
+26:35 | Um there's this amazing video on on YouTube I saw
+26:38 | Have you ever seen it
+26:39 | It's um the it's like the shape game for little kids where they have holes like squares and circles and triangles and you have to fit the right thing
+26:46 | And and it's basically um the video is of like a product designer doing a user test and you see the user grab the square and put it into the square hole and the and the designer's like "Yes." And then you see the user grab the circle and put it in the square hole and the user's like "What?" And then you just see like basically completely misunderstanding the product in front of them
+27:06 | Uh when I saw that I I like I think I laughed for 10 minutes
+27:09 | I had never felt so seen
+27:10 | Um it's just really hard
+27:12 | And I I think the only way you can build an intuition is by putting stuff in front of people and getting feedback on it quickly
+27:21 | And I think if you if it takes a month to to get feedback on it it's it's almost not worth doing because the thinking you had when you made the original decisions you don't even remember
+27:31 | So I think the short cycle there is super important
+27:34 | And I think your intuitions do get better um but you can never stop doing it
+27:39 | That's the other thing
+27:39 | It's like the intuitions get better and then you stop talking to users and your confidence level still stays high
+27:43 | So you're like "Oh I understand users
+27:45 | I know what I can what what I need to build." And then when you start user testing again you realize you're totally off-piste
+27:52 | Yeah
+27:53 | Um so a big difference at Granola versus Socratic is that um uh we can we can talk to users remotely like over Zoom
+28:01 | And and that actually makes a lot of sense because um uh our product's meant to be used during meetings right
+28:07 | So we'll do a lot of video calls with with users
+28:09 | So we we usually have standing uh user interviews 4 days a week that anybody at the company can join um and whoever's working on stuff can can ask for ask for information
+28:19 | We also do uh periodically kind of go to companies in person and then uh watch people use Granola in person interview them in that context which is also really helpful
+28:29 | Uh but we primarily do uh remote interviews
+28:32 | Yeah
+28:34 | so so I I think that the the secret in my opinion like the secret with user interviews is you wanna put um you wanna put the most real thing in a user's hands as possible uh and get feedback on it
+28:51 | And then you don't you don't need to hear the same thing from 10 people right
+28:56 | If I if I put a prototype in front of you and you say "Oh I don't Like "This button's super confusing." Um and I look at it and I'm like "Oh I totally understand why you're confused." I don't need 10 other people to tell me that
+29:08 | I should go and I should change that button immediately so that the next time I show it to somebody I learn what the next problem is
+29:15 | And I think this is something that um especially in big companies that's un-unheard of right
+29:20 | Because you have the people doing the interviews are different from the people doing the designs and you-- there's a whole methodology
+29:25 | So the way we do user interviews at Granola would not pass muster at from any user researcher right
+29:31 | Uh but what we do is very fast and very opinionated
+29:34 | Like we really are trying to probe uh what the problems are with our design
+29:39 | Um I don't care about positive feedback right
+29:42 | People are try- gonna try to please us all the time
+29:45 | So that's just human nature
+29:47 | In a user interview you're gonna try to say nice things
+29:49 | Um so I can categorically ignore all positive things that people say
+29:53 | And our questions are very very probing on what they would actually do um and we try to get them to do it on their real data
+30:00 | So like when we do user interviews we have them open up a special build of Granola with all their Granola meetings in there but with the new feature the new functionality enabled and we watch them play around with a real prototype
+30:13 | And then you can see all the different ways it can Because like it can fail 'cause it's slow it can fail because they don't have the right type of meeting it can fail because the UI's confusing um it can fail because of technical issues
+30:23 | There's really a huge number of ways something can fail
+30:26 | And you can Like you wanna use mocks or or click prototypes um to validate early directions and you should do that really quickly
+30:35 | But at the end of the day you won't really know if something's useful or not until it's actually in code and it's actually on their on the user's data um because oth-- you know you you might be blindsided by something you don't expect otherwise
+30:52 | Yeah
+30:55 | I'm trying to think of an example
+31:04 | So we we have lots of different people at Granola talk to users and um what every person's gonna take away from an interview is is gonna be different
+31:13 | And that might be a function of who they talk to right
+31:16 | Maybe they just talk to 2 people who happen to think a certain way
+31:19 | That could be their bias that could be how they ask questions
+31:23 | usually there's not a lot of disagreement in terms of what confu- users are confused about you know what makes sense what doesn't make sense to them
+31:30 | Those are usually y- they're relatively objective um 'cause you can kind of look at it
+31:34 | I think where where the different ideas come from is like well what do we do about it
+31:39 | How are we gonna solve that problem
+31:41 | And there there's um We have a pretty Granola way of building which is really trying to keep it simple trying to trying to solve the the hero use case really well and not worry so much about the secondary use cases
+31:58 | Um and there we we we try and we we prototype
+32:02 | Um ultimately at the end of the day Sam and I do kind of look at everything that goes out and try to make sure the app stays simple minimal consistent um because I think y-you need someone who's kind of looking across the entire product experience
+32:16 | Otherwise uh you know anyone who's working on a specific problem they're gonna do the best to solve that problem um but they might not realize that they're like gonna gunk up the home screen or make the app more complicated or make it more bloated
+32:27 | Like when when I was at Google Marissa Mayer one of her main responsibilities was to protect the Google Home homepage right
+32:34 | 'Cause like Google very famously had like a blank white page with a search box right
+32:38 | And basically everybody else inside of Google was incentivized to put something on there right
+32:44 | If you were Maps you're like "Hey I want I want the Google Maps link." And if you're the ads team you wanna put ads on there right
+32:50 | Um and it was her job to make sure that that page was really clean because that was the best thing for the user and ultimately the best thing for the company
+32:56 | So uh Sam and I are trying to play that role at Granola whereas all the actual feature and product building and designing is coming kind of bottoms up from the team
+33:06 | Yes
+33:07 | Yeah
+33:13 | Yeah
+33:14 | Yeah absolutely
+33:15 | So I think a huge advantage for us when we started building Granola is that um we we didn't launch it for a year
+33:24 | And what that meant is that during that year as we were exploring things and trying new things we had a lot more freedom to change the product drastically
+33:33 | And uh I'd say for the first 9 months 10 months we were mostly adding things
+33:39 | We were we were adding new features trying to improve them adding new like screens what have you to understand what would be useful
+33:46 | And then at one point we kind of realized "Okay here's the thing that's gonna be most important most useful to users," and we went and we cut about 50% of what we had built
+33:56 | That would have been really hard to do if we had been launched and we had lots of users
+34:01 | Like it'd be very hard for us today to in one fell swoop cut half of the product
+34:05 | I think our users would would really yell at us
+34:08 | But because we hadn't launched we could do that
+34:10 | And we did get some hate from some of our investors who were using the product and loved those features um but that was that was really important
+34:16 | So I I guess like in There's this The-- My whole philosophy is that there's a there's explore and exploit
+34:22 | So for any product that you're that you're building first you have to go through this explore phase where you're figuring out what's the shape of the solution right
+34:31 | And there you wanna try as many different things as possible and you're gonna try to understand where's-- what resonates what's the value
+34:38 | And once you kind of know what the shape is then you go into a different mode we call it exploit internally where you just polish right
+34:46 | You take the rough shape and you polish polish polish polish
+34:48 | And here's where the details matter the um the product love like the really you know the craft comes in
+34:53 | But you need to make sure you're polishing the right shape 'cause if you're polishing the wrong shape then all of that is throwaway work
+34:59 | Um and yeah and that's that's a big part of uh the way we build
+35:11 | Yeah
+35:13 | Yeah
+35:14 | Um so when we launched Granola it it was very simple what it did
+35:19 | You'd you'd use it in a meeting and then you'd get great notes at the end right
+35:24 | And then you could use those notes however you wanted
+35:26 | And as people use Granola more and more uh slowly they build up all their notes inside of Granola
+35:33 | So there's this incredible repository of information
+35:35 | And users started asking us uh for different ways that they can use that information
+35:41 | So they'd be like "Hey I'm going into Granola and I'm copying transcripts and I'm pasting them into ChatGPT because I need to do X Y Z and it's super painful
+35:49 | Like why can't I just do this inside of Granola?" So that that was the genesis of the recipes idea which is basically the-- we observed all these workflows that users were already doing that were based on the information and the context that was in Granola and we just wanted to make those easier
+36:05 | Whether that's writing a f- follow-up email or doing an analysis of a user-- set of user interviews or or what have you
+36:11 | Um it was things that people were already trying to do but they wanted to be able to do that inside of Granola because it would be more streamlined and and better for them
+36:22 | Hmm
+36:23 | Can you tell me a bit more like proving your-- like what do what do you think uh like what do you think he meant by or they meant by uh proving themselves wrong
+36:33 | Yeah
+36:38 | Yeah
+36:41 | so I I think I think it's easy to Like when you when you first want to s-- let's say you you're starting a company or building a new product I think it's really easy to have the wrong mental model in mind right
+37:00 | I think a lot of people will sit down and say "I'm gonna build a product
+37:03 | Here's the product here's the pain point I'm gonna solve
+37:05 | I'm gonna build a great solution and it's all about can I execute on that?" And I think the the right metaphor is it's Have you ever played those video games where you land on a new level and there's like a little map in the corner and it's all gray and then you need to kind of go and walk around and then the map kind of un-blurs right
+37:25 | They call I think they call it fog of war
+37:27 | Um but when you start off basically you have no idea of what the terrain around you looks like
+37:32 | Um I think that's the right metaphor
+37:34 | I think So building product or building a company it's it's complex right
+37:39 | It's not complicated it's complex which means that the right solution is unknowable until you go out and you try it and it gets in contact with the world
+37:49 | And when you're when you're tackling a complex problem instead of a complicated problem you can't sit and design the perfect thing
+37:55 | You need to like put stuff out there probe the system and see how the system probes back
+38:00 | Um and I think what people are unprepared for if they don't-- if you have that mental model then it's kind of easy
+38:06 | You're basically like "Oh I was I was landed in this map that I-- this terrain I have no visibility into and I need to go explore explore explore explore explore and and map that terrain." I think um what I got wrong and I think a lot of early founders get wrong is they don't think that's the case
+38:22 | They think they know the destination
+38:24 | They're like "Oh I I have the map already
+38:25 | I know the destination
+38:26 | I just need to figure out how to how to get there most efficiently." And if you have that wrong mental model model it's incredibly demoralizing because you'll do all It's like you're playing the wrong sport right
+38:37 | It's like I'm I'm trying to play I'm trying to play American football and when it's a soccer game you know and I keep getting uh you know I keep getting um uh uh tackled or I keep getting uh the ref calling the whistle
+38:49 | Like I think that's basically what happens and you're like "Why why isn't it working
+38:52 | Why isn't it working?" And I think that's a It it really helps if you kind of appreciate you're coming from this place of ignorance
+38:59 | There are amazing solutions out there
+39:02 | There are like gold nuggets all over the place but you need to ferret them out and that ferreting out can be very slow very hard and very hard to tell if you're making any progress until you actually find it
+39:12 | Yes
+39:17 | Yeah
+39:19 | yeah
+39:22 | Uh this is something I talk about a lot internally at Granola that that um Granola as a product the product should feel like it has soul
+39:28 | And w-what I mean by that is that when we interact with a product like if I if I pick up this mug right and and I hold it and I interact with it that interaction it it's a little bit like interacting with a person right
+39:43 | Um and let's say if you Let's say there's a Let's say you're Take your your best friend
+39:50 | Imagine your best friend right
+39:52 | You can kind of imagine what your best friend is gonna do in most circumstances right
+39:57 | If you if if you say uh if you make fun of them or you um you you make a joke or you praise them you're kind of gonna know if they're gonna be graceful or blush or make fun of you back or start crying and um you kind of under- understand what they stand for what they like what their values are
+40:13 | We we build these mental pictures of-And we do the same thing with products right
+40:18 | And it's a very very unsettling feeling when you use a product and you you-- like you say if you start talking to your best friend and all of a sudden they start acting like uh like your principal you know or your boss it's like you're you don't really know what to do with that right
+40:32 | So what I mean by building a product with soul is that that whole product should feel coherent consistent like it's coming from the same place it's coming from the same set of values
+40:45 | Um and and I think it's very easy to tell if a product has that and it's very hard to build
+40:51 | And and the the reason it's hard to build is because the the bigger the more complex a product gets the more people are involved in the making of the product
+41:00 | And when lots of people are involved in making it well they're all gonna have different values different viewpoints for different ideas
+41:07 | And if those if that group of people if they're not um aligned in a very deep way every screen of the app is gonna feel very different right
+41:17 | You know there's that that famous thing which is if you look at a product and you can tell the organizational structure of the company that that built it by the design of the product then that's really really bad
+41:27 | What I mean is like a product with soul is the exact opposite
+41:30 | It's it's not about the company structure
+41:31 | It's it's coming from a much deeper place in terms of of of values and personality
+41:38 | so first off I think it is so early in terms of AI
+41:42 | Like we've just gotten this technology
+41:44 | It always takes a few years for really native product experiences to evolve on top of a a new platform right
+41:52 | Um and I think with AI it's it's one of the first times in in history where um the Nope that's not true
+42:02 | Um let me start that over and then Yeah
+42:07 | So it's it's very early days for Like we we've just gotten these LLMs we've got-- just gotten this incredible technology and it's still very early days for the products we're gonna build on top of AI right
+42:19 | What do those pro-products look like
+42:21 | What are those experiences like
+42:22 | And I think we we have a a a choice um or there are different diff- 2 different paths you can take when you're building products on top of AI
+42:30 | You can you can you can build a product that will basically replace the human right
+42:35 | That will that will do work for them
+42:37 | Or you can try to build uh a product that's going to augment or enhance what what the human does
+42:44 | And that is something that is very very core to us at Grano- granola
+42:48 | Like we really want to-- we only want to build tools that enhance and augment humans
+42:52 | We don't want to replace them
+42:53 | And like what we started with was meeting notes
+42:57 | But if you think about all the different type of work that we do with technology and how much better and easier that work could be if you had an AI workspace that was supporting you with all the context and and helping you do those things that's basically where we're going with Granola
+43:15 | So we're starting with meeting notes
+43:16 | We're gonna help you with all the work you do after a meeting whether that is writing follow-up emails whether that's drafting a memo
+43:22 | We're gonna help you prepare for your previous meetings
+43:24 | We're gonna help you do analysis across all your meetings
+43:27 | We're gonna help you do more and more and more um and and hopefully make make your life a little bit better every day
+43:33 | Yeah
+43:34 | Oh
+43:36 | Um oof
+43:37 | I've gotten so much so like touching
+43:40 | Let's see
+43:41 | I I like I guess the the the the level I've I've been building product my whole life
+43:50 | I've never gotten feedback positive feedback the way we do for Granola
+43:55 | Which is which is funny right
+43:56 | 'Cause it's a it's a note-taking app
+43:58 | It's not something that you'd necessarily expect people to to to feel so much about
+44:03 | But I I mean I've I've been walking down the street right and someone's pulled me aside and started talking about how how much Granola meant to them
+44:12 | Um there are like some of the most heartfelt things I've heard are around people going through really tough situations like their partner has cancer for example and they're going to lots of different appointments and there's all this medical jargon and they've just used Granola throughout
+44:27 | I honestly I think one of the the pinch me moments is I was at a I was at a conference and I was at a bar with a with a friend of mine and this man comes over and he notices Granola on my name tag and he says "Oh Granola this is fantastic
+44:41 | Like I..." blah blah
+44:42 | And he starts giving me all this product feedback and like all these things that he thought was amazing and- and I was like "Okay thank you." And then he gave me all these feedback of things we should change
+44:49 | I was like "Oh that's pretty good feedback." And I looked over and and it was uh I saw the name Tony Fadell right which is like the like the father of the iPod and early iPhone
+44:57 | And and I was just like "I cannot believe that Tony Fadell is giving me feedback on a product that I made." I was like "What is the what is happening right now?" Um uh but it's it's amazing and it's like a it's a big responsibility
+45:09 | I think every Like right now when I look at the product I only see what's wrong with it you know
+45:14 | There's so much more we need to change so much we can do to make it better and and I I I hope we can do that as quickly as possible
+45:20 | Yeah
+45:22 | Yeah
+45:29 | Oof
+45:30 | Okay
+45:30 | That's a that's a great question
+45:32 | I have a lot of I have a few different thoughts about this and m-maybe maybe I can I can rattle through it
+45:39 | Okay
+45:40 | So I I guess the the question's kind of like how do you know if you have something that's How do you know if you have PMF
+45:45 | Like how do you know if you have the have have the right shape
+45:48 | Like should you stop exploring
+45:49 | Like all of a sudden oh did we hit something that's valuable and now it's time to polish or do we should we still be looking for a new shape right
+45:56 | Um the answer is like it is really hard to know if you have the right shape of a of a product
+46:04 | It's really hard
+46:05 | When we launched Granola I didn't I really I I didn't think we had it
+46:11 | I thought at that point I was like "I think this is good enough where we'll learn more by giving it to more people." So that's why we decided to launch when we did 'cause we said like "Are we gonna learn faster by continuing to do this or are gonna learn faster by launching it and getting feedback from lots of users?" And up until that point it was really clear to me that if like we would learn faster by just onboarding 2 3 people every day and getting feedback
+46:34 | And at some point once we started doing that and we started hearing the same things over and over and we kind of understood those users we said "Okay now let's give it to lots of people because maybe there are people who want to use it for a use case we've never thought of." And the fact is we had product market fit on day one and we didn't realize it
+46:49 | And one of my biggest mistakes was not noticing it
+46:52 | Like I didn't think It took me six months to realize that we had product market fit and we had it on day one of launch
+46:57 | So I I think the first lesson is like it is really hard to know when you have it
+47:02 | I think um I heard this story that the Facebook team they started They were still building They had this other idea which is kind of like I don't know Dropbox Dropbox for music some kind of file sharing thing
+47:13 | And they worked on it I think for the first 6 months or 9 months after they launched Facebook because they were like "Oh yeah Facebook I don't know if there's something I don't know if there's a there there you know
+47:22 | We might wanna work on this other thing more." And that's Facebook right
+47:25 | That's like the generational company of the decade and they still didn't know necessarily if they were onto something huge
+47:31 | So I guess that's that's one thing that it's hard to know um if you have it
+47:36 | Um the second thing is it's very easy to delude yourself right
+47:42 | So be very very skeptical and critical and honest about if what you've built is actually something people want and they're actually gonna use
+47:53 | So classic ways to do that are um charge early
+47:57 | If people are willing to give you money for something then that's a pretty big sign that it's worth it
+48:01 | Uh we didn't do that for a few different reasons but that is a really good way
+48:05 | Another one is don't believe anything nice that people tell you
+48:09 | So like in a user interview never ever ask someone if they would use something
+48:13 | Or you can ask it but then completely ignore the answer because it it's it it's it's not indicative of whether they're actually gonna use it
+48:19 | Always ask them if you're putting them in front of a prototype ask them like "What would you do next
+48:23 | What would you do next?" And then if they say something say "Is that true?" Or like "Really
+48:28 | Like wouldn't you be Don't you think you'd be busy
+48:30 | Don't you think you'd..." Like "Don't you think you'd be um tired or..." You know like really probe on it from a negative perspective 'cause that'll I think get you to the reality faster
+48:40 | And lastly um use really conservative metrics of engagement
+48:47 | So so for us basically we only The only When internally when we say a user it's only a user who's done at least one meeting new meeting on this day and that meeting has to have over five minutes of transcription
+49:01 | Otherwise we don't count you as a user
+49:03 | So if you used Granola yesterday we don't count you as a user today
+49:07 | If you open up Granola and looked at 10 meetings but you didn't do a new meeting we don't count you as a user
+49:12 | And we basically from from the get-go we've always had very conservative metrics for what's activity uh so that we kind of we don't we don't kid ourselves
+49:21 | 'Cause it's so so easy to come up with excuses or say like "Oh you know like it it it it's actually because of this other thing that we're gonna fix
+49:29 | It'll be fine
+49:30 | Like the product's actually good enough."
+49:31 | Um hi I'm I'm Chris Pedregal
+49:34 | I'm one of the co-founders and the CEO of Granola
+49:37 | Um Granola for those of you who don't know Granola is an AI notepad
+49:42 | It helps you take great notes in meetings
+49:44 | It's um for those of you who have ever used Apple Notes it's a lot like Apple Notes
+49:48 | You take whatever notes you want in it
+49:50 | The difference is that it'll listen to what's being talked about in a meeting and when the meeting ends it'll take whatever notes you've written and flesh them out so you always end up with really great notes for for all your meetings
+50:06 | Yeah yeah sure
+50:08 | So we're a super young company
+50:10 | We launched uh a year and a half ago
+50:12 | There were 4 of us
+50:14 | Uh we didn't know if anybody would want to use uh Granola or not when we put it out there and then kind of magically it just started growing on its own
+50:22 | Um if you use the product it it it'll be surprising
+50:26 | It like doesn't share It's like the It's almost like we designed it not to grow um because really designed it to be a very personal tool and a helpful tool
+50:34 | Uh and yet somehow that that worked
+50:35 | I think it really resonated with people so they tell their friends
+50:38 | Um and then the yeah-- la-- in the last year and a half we've gone from four people um at I think we're thirty-five today and um we've raised a Series B a couple months ago
+50:50 | and yeah great great things to come
+50:51 | one thought was in the sorry have a little bit of a cough
+50:55 | In the questions you sent over I guess if you're gonna edit it down it's maybe not that big of a deal but I feel like um Uh let's not talk about Apture because that was such a long time ago
+51:04 | I don't I don't feel like I have too much to talk about
+51:06 | We can talk about Socratic
+51:07 | I don't think people will care about it so much
+51:08 | I'm happy to talk about it but I think it might be more interesting if we talk about more recent stuff like Granola or product building in general or AI or what what have you
+51:17 | Great
+51:18 | Sounds good
+51:20 | Sure
+51:20 | Um hi I'm I'm Chris Pedregal
+51:23 | I'm the uh I'm one of the founders of Granola
+51:26 | I'm the CEO
+51:27 | and let me let me do that again
+51:33 | um cool
+51:34 | Uh hi I'm I'm Chris Pedregal
+51:36 | I'm the co-founder and CEO of Granola
+51:41 | Uh Granola is an AI notepad for meetings
+51:44 | So uh think of it like Apple Notes except uh it will listen in the background and when your meeting ends it'll take whatever kind of crappy or raw notes you've written and flesh them out into great notes
+51:56 | Um so that way you can be focused on the meeting um still jot down whatever you think is important but end up with really great notes for any meeting you have
+52:04 | Yeah great question
+52:06 | so when we started Granola we were trying to solve this problem of people who are in back-to-back-to-back meetings and um aren't able to pay attention be present uh because they're either having to take notes or they're gonna forget about stuff
+52:22 | So um that's the initial problem we set out to solve
+52:26 | So you have great notes after every meeting but they really feel like your notes
+52:30 | what's happened is that since people start using Granola for lots of meetings turns out Granola kind of becomes someone's backup brain
+52:38 | Like if all of your meeting notes for all your meetings um are in Granola then you can ask Granola questions about what's happening and you can it solves a whole different set of problems that we didn't originally set out to solve

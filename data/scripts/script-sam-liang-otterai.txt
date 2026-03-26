@@ -1,0 +1,446 @@
+﻿sam liang_otterai_audio
+===
+
+
+[00:00:00] [00:00:10] Thank you. Are you, can we start or? Yes. Oh, and [00:00:20] could you put down your water, water, water, uh, on the floor. Oh, yes. Oh, I'll need to drink water once a while. Yeah. You can [00:00:30] drink anytime you want, but like you after the answer, like the, you can pause. Oh. So you can drink the water. Okay. At the time, do I need to tell [00:00:40] you or do I Oh, you, you don't have to just pick up.
+
+
+Okay. Have, have water. Okay. Yes. Okay. So first of all, like, would you introduce [00:00:50] yourself? I'm Sam, I'm co-founder and CEO of audit.ai. Other, uh, [00:01:00] if you haven't used it, uh, it's, uh, we started as a, a transcription tool, then evolve it into a AI [00:01:10] meeting, assistant it, transcribe your meetings, summarize your meetings, and also enable you to search and chat against all your meeting [00:01:20] contents.
+
+
+And now it, again, uh, it's actually going be above and beyond just the meeting note taker. Uh, we're building [00:01:30] a meeting centric enterprise knowledge base, uh, with agent workflows on top of it. Thank you. And [00:01:40] like, could you tell me the, like, metrics that you want to point out? Like what, what's the, what's your current revenue and team size these days?
+
+
+Yeah. We, we [00:01:50] continue to grow rapidly. Um, so far we have over 35 million users. And, um, uh, [00:02:00] we have public announced that we, uh, exceeded a hundred million dollars in a RR. Uh, the actual revenue is actually already higher than that. We're just now [00:02:10] announcing it yet. Um, we are also getting higher, uh, adoption in enterprises now.
+
+
+It started [00:02:20] as an individual tool, but now enterprises are adopting it to manage their huge, uh, meeting content. [00:02:30] What kind of company are working with you these days?
+
+
+Um, um, [00:02:40] what do you mean by what company? I mean, like the, you told me that you expand to enterprise, so. Oh. Um, most of [00:02:50] them don't allow us to share their names, but there are a lot of, in, um. Uh, enterprises that do, uh, finance [00:03:00] a lot of financial companies, um, SaaS companies, um, media companies, um, a lot of, [00:03:10] uh, very well known media companies are our customers.
+
+
+Um, and also universities. Um, actually I can say [00:03:20] Harvard University, uh, Stanford Universities, university of California system, uc, Berkeley, uc, San Francisco, UCLA [00:03:30] are all our customers. Thank you. Uh, so you told me that you raised like $100 million, like [00:03:40] we under 200 people. So I think it is very like, uh, interesting point because usually [00:03:50] that like many, most companies and your scale.
+
+
+Need more people to achieve that goal. So how did you get here? We have always been very [00:04:00] lean. Um, this is the power of hard work, power of innovation. Um, we actually, [00:04:10] uh, build our own speech recognition technologies and speaker recognition technologies, which is still very unique. [00:04:20] We build a product like Growth Engine that rely on the product itself to grow revenue, [00:04:30] grow user base.
+
+
+Uh, it also has a natural viral loop built into the product. Um, when people have meetings, [00:04:40] um, you know, supposedly there are 10 people in the meeting. Um, you know, oftentimes it's actually good to share the meeting notes with the other [00:04:50] I people. If you are using order. That help others spread from, you know, just one person to the other nine people.
+
+
+[00:05:00] Um, we rely on that viral growth and organic growth, um, to grow to over a hundred million dollars in a RR. Um, [00:05:10] yeah, it, recently we started to build a sales, sales, uh, team, but it's still relatively small. Um, lot of words of mouth, a [00:05:20] lot of, um, uh, organic growth that help us, uh, uh, grow to the current scale.
+
+
+Okay, thank you. [00:05:30] So before we deep dive into the company story, I want to start with your, uh, start off your founder story. So like you started [00:05:40] other author in 2016 when AI like barely, barely worked. So what was the personal frustration that made you say, [00:05:50] oh, I have to build this product. Yeah, just a little bit, uh, history.
+
+
+Before 2016, I was, uh, [00:06:00] at Google, 2006 to 2010. I was the lead of Google Map location platform. Then I quit Google in 2010 to [00:06:10] start a mobile startup in Palo Alto. Um, we were the first that build a, uh, location [00:06:20] tracking system and also do persistent sensing on mobile devices that understand users', um, mobile behaviors [00:06:30] so that we can personalize the more mobile services for them.
+
+
+That company was successfully acquired. Uh, then in 2016, [00:06:40] uh, was, uh, thinking about something new and something bigger than the, uh, mobile service we built. Um, [00:06:50] I have been, uh. Uh, frustrated that, you know, while I was building the first startup, I had a lot of meetings with [00:07:00] investors, uh, a lot of meetings with our internal team and customers.
+
+
+Uh, really hard for me to remember all the meeting contents. [00:07:10] It's also hard to share that knowledge with, uh, all the team members, so I think there must be a better way to address that. [00:07:20] In the meantime, I realized that, uh, although human beings have been talking with each other for hundreds, thousands of years, uh, most of the voice [00:07:30] knowledge in the history has been lost.
+
+
+Uh, we never heard from Shakespeare. We never heard from Charles Starvin. Um, there's [00:07:40] tremendous loss of human knowledge and human intelligence. So, um, with those, uh, uh, frustration and insight. [00:07:50] We thought that in the voice, ai, uh, will be really huge in the future. Uh, we didn't actually foresee [00:08:00] all the potential use cases, but um, but we thought, you know, it's going to be huge to record everything, transcribe everything, [00:08:10] index everything, make everything searchable.
+
+
+So we started with that simple, uh, belief, um, to, uh, start [00:08:20] order. Thank you. Then why do you think, like, what makes you think you want to make something big and something new? [00:08:30] Well, um,
+
+
+I did my PhD at Stanford University and I learned a lot from my, uh, PhD advisor. [00:08:40] Um, he, uh, he's a professor in distributor system, which I did my, uh, picture thesis on. [00:08:50] In the meantime, my professor, uh, created multiple startups himself. Um, and also after I graduated, I [00:09:00] learned that he actually, uh, wrote a check of a hundred thousand dollars to two PhD students at Stanford.
+
+
+And that company [00:09:10] was actually Google. Um, I learned a lot from him in terms of thinking big. Um, and he also, you know, always told [00:09:20] us to, uh, solve hard problems, solve big problems so that we can change the world. So, uh, when we [00:09:30] started Otter, uh, I was looking for a big problem and I realized that, uh, the, you know, the voice, ai [00:09:40] and the um, recording everything in the world is a big problem and it's going to generate a huge impact.
+
+
+Uh, it is [00:09:50] also hard because, um, at that time, um, speech record technology wasn't very good. Um, the, [00:10:00] uh, the accuracy was low. There was no way to recognize each speaker, so we decided to take on that, um, really hard problem. [00:10:10] Right. So then do you remember any specific conversation? Did you talk with your advisor at that time?
+
+
+Yeah, I did. [00:10:20] Um, obviously, you know, he, uh, he created multiple startups. As I said, he, uh, has the vision about [00:10:30] what will, uh, generate a big impact, what will change the world. That's why he actually in recognized the talent of Larry Page and Sergey [00:10:40] when he wrote a hundred thousand dollars check to them before they had anything.
+
+
+Right. He also invested. And, um, [00:10:50] VMware, uh, he wrote the first check to the founders of VMware. So I shared my, uh, idea with him. Had a lot of discussion [00:11:00] with him, and, um, he agreed with me that, uh, it is a big problem. It is a hard problem, and, uh, if we [00:11:10] can solve the problem, it's going to, it's going to change the world.
+
+
+So, um, so he actually, uh, invested in us really early, [00:11:20] uh, in the seed round as well. Um, and he continually invest in us in, uh, all the subsequent financing round. [00:11:30] Was there any worries that he, uh, talked to you at that time? Kind of worries. Um, [00:11:40] by the way, his name is David Sheridan. Uh, you can, uh, look up his name.
+
+
+Um. I haven't talked to him for a while, but, um, [00:11:50] no, he, you know, he didn't share any worries with me. I know, um, there are always challenges. There are competitions, um, [00:12:00] but the market continue to grow, continue to expand, um, and we are supporting more and more use cases. [00:12:10] So I, I, I see that the opportunity continue to expand.
+
+
+I see. [00:12:20] So at that time, like, uh, is the problem you set out to solve in 2016 still the same problem, uh, you are [00:12:30] solving today? Um, it's not exactly the same problem we have. Um, we created [00:12:40] really, uh, sophisticated speech recognition technology. So we solved a lot of accuracy problem with, you know, for example, how do we handle noise?
+
+
+How do [00:12:50] we handle, um, reverberation, uh, how do we handle crosstalk? Um, how do we handle, how do we [00:13:00] recognize each speaker when there are multiple speakers in the same room? Uh, we solved, I would say maybe 90% of that [00:13:10] problem. There are still remaining problems to be solved. Um, the, um, compared to other meeting [00:13:20] note takers, uh, we actually can recognize, um, uh, you know, people's name, company names, jargons, [00:13:30] acronyms, much better.
+
+
+Uh, but there are still, uh, challenges, like New World, new Words are being created all the time. [00:13:40] Um, so how do we learn them quickly? Because I know new company names, new technologies. Um, and [00:13:50] also, um, the new problem we see is how do we make the meeting knowledge available to [00:14:00] more people, uh, not just, uh, the individual meeting note taker.
+
+
+How do we share that knowledge with all your team members, [00:14:10] uh, instantly? How do you, uh, enable them to, uh, get insights, uh, and also how to enable AI to [00:14:20] take actions on top of the voice knowledge. Uh, for a large company, if you think about Google or Microsoft, they probably have millions of [00:14:30] meetings happening every year.
+
+
+Um, the CEO of that company actually probably don't even know how many meetings are, are happening every year. How [00:14:40] many. Millions of hours, uh, are spent in, in meetings. So we, uh, are working on [00:14:50] providing that insight, um, organize that knowledge, make it available, and also enable AI to take agent actions [00:15:00] on top of the voice knowledge, which can, um, execute a lot of tasks on behalf of a human being [00:15:10] so that we can free up, uh, the, uh, human, uh, workers' time to focus on more creative, more collaborative tasks.[00:15:20] 
+
+
+So those are new challenges. Yeah. And like as I told you before, like many founders, like [00:15:30] young founders, are looking to your interview to get advice. So right now, like thousands of founders are. Like starting companies because [00:15:40] like AI is hard and AI we have to follow AI something. But you started before anyone cared, I guess, 'cause it was [00:15:50] 2060.
+
+
+So what's the difference between building around the problem versus building around like technology and what kind of advice do you wanna give to them? [00:16:00] Yeah. Every company is different. I can only speak about our startup. Um, for me, I came from technology background. I like technologies. [00:16:10] I like engineering because, uh, I also see that a lot of our revolutionary companies are built on deep technologies like Google, [00:16:20] um, you know, Tesla, um, um, there, there, if you want to really go big, you need to [00:16:30] have deep technology roots.
+
+
+Um, so that's the tr that's the path that we. Uh, uh, we chose, [00:16:40] um, so from day one, we decided to build our own speech, uh, speech recognition technology and speaker, uh, recreation [00:16:50] technology. Um, it's true that today there are a lot of, uh, APIs you can use, uh, to quickly [00:17:00] build a meeting. Notetaker, any college students can do that already.
+
+
+However, there are still deep problems that require, uh, AI scientists to [00:17:10] work on. Uh, for example, you know, when we have, uh, hundreds of millions of voice data, uh, how do we use that [00:17:20] to truly model human conversation? Uh, how do we model, uh, the interactions of multiple speakers [00:17:30] talking to each other in the meeting so that we can build a voice agent that can, uh, s.
+
+
+Participate naturally in a [00:17:40] multi-speaker meeting, that's still a unsolved problem. Um, on OpenAI there is this a voice mode. You can talk to chat [00:17:50] GPT one-on-one. It's working pretty well now. However, uh, you, uh, that, uh, voice [00:18:00] mode cannot join a multi-speaker meeting today. Um, it doesn't know when it should talk and when it should, uh, [00:18:10] just stay silent.
+
+
+Um, so that's still an unsolved problem. And to solve that problem, you cannot just rely on, [00:18:20] uh, third party APIs. You have to build your own deep AI tech. So those are the problem we are, uh, working on. [00:18:30] Um, so our choice is to build, uh. Uh, deep technologies, [00:18:40] which can enable us to create a new revolution in the future.
+
+
+Then if you choose, [00:18:50] uh, to build by yourself, then it will take longer than, uh, just using other API, I [00:19:00] guess, uh, for certain things we do use, uh, the, uh, some open source foundation models, open ai, philanthropic for, for, [00:19:10] for some tasks. But as I said, uh, there are problems they, uh, they haven't figured out, uh, how to solve yet.[00:19:20] 
+
+
+So, um, you know, that, like the problem I just described, how do you enable a voice agent to speak in a multi-speaker, [00:19:30] uh, environment? Uh, we see that, uh, it is a huge opportunity that will enable us to build a voice agent or a voice [00:19:40] avatar to join a multi-speaker meetings. Uh, I actually demonstrated a Sams avatar [00:19:50] with Bloomberg before they actually interviewed my avatar.
+
+
+Uh, it just is trained based on hundreds or thousands of meetings I've spoken [00:20:00] in the past. So, uh, my avatar learned, uh, my perspective, my point of view, how, how I, uh, [00:20:10] make decisions and how I talk so that my avatar can just talk, uh, just like myself. So the longer term I can send my avatar [00:20:20] to join meetings on my behalf.
+
+
+Um, you know, there's no, uh, public API that can do that. Yeah. [00:20:30] Uh, I agree that there's, um, there's an unsolvable problem that we should solve, uh, solve in near future, [00:20:40] but like, I feel like in 2026, the, the speed is really important in like startups. So I think it will [00:20:50] take more time if we only focus on solving the big or like difficult problem.
+
+
+So how can founders endure [00:21:00] those time to get to solve the big problem for problem that have been already solved their existing technologies? So we're [00:21:10] not going to reinvent the wheel. We're going to use, uh, the existing technologies. Uh, but in the meantime we allocate some resources to, [00:21:20] uh, create new technologies that enable us to create a new products, uh, in the future.
+
+
+Right? Just the, the same way we did. [00:21:30] Uh, in 20 16, 10 years ago, at that time, if we were waiting for someone else to create the API, you know, we, we would be many years [00:21:40] late. So that's why we actually move ahead and build the technology, uh, ourself, which enable us to provide, uh, [00:21:50] transcription and meeting note assistance at a very low cost that enable us to grow super fast so we don't have to charge [00:22:00] a very high price.
+
+
+Um, it, the, the same will happen, uh, for the future as well. So, [00:22:10] right, we're creating something new that enable new product features that our competitors are not able to provide yet, that give us, [00:22:20] uh, the, uh, leadership, uh, enable us to, to build the market leadership early. So.
+
+
+At any time, some [00:22:30] problem have been solved. There are always a thousand other problem that have been solved yet. So we have to, um, work [00:22:40] on both. Um, you know, we use existing technology to provide some features, but we also, um, reserve some, allocate some resources to [00:22:50] work toward the future. We have to look at the next 10 years, not just today.
+
+
+That's how you know this generational companies are built, [00:23:00] right? Um, Google would be, uh, one of the best examples. Um, you know, they're very technology driven. They're always looking [00:23:10] at the, the next frontier.
+
+
+Then how can we like, see and predict next [00:23:20] 10 years? I think it, I, I know it is very like broad question, but how can. We, uh, predict the next features and how can we prepare for [00:23:30] that? What's your, uh, something routine or something work you to predict the future? Do you have anything else? I think you have to [00:23:40] think different.
+
+
+You have to think bigger. Uh, you know, there, the existing AI can already enable a lot. Um, so you [00:23:50] do want to use that to build a product, uh, that people can already use. But you also need to think about new [00:24:00] paradigm. You need to think about what the future, uh, will change. Um, you know, the new technology will [00:24:10] enable behavior change, will enable mindset change.
+
+
+You know, one of the biggest things we did back in 2016 was to, we were, uh, [00:24:20] we at anticipate that, um. People, behavior will change. So we build technology to enable that. [00:24:30] Even today, well maybe back in 2016, um, being recorded, it's, uh, makes a lot of people nervous. [00:24:40] Um, even today, um, it's still not completely, uh, accepted yet.
+
+
+Although more and more people are accepting that [00:24:50] it's, it has become a norm that, uh, someone used a meeting notetaker, uh, in the meeting. So we, we [00:25:00] anticipate that, um, the, uh, Einstein will change, uh, the culture will change. So we build the product [00:25:10] that, um, enable that change. The world will always change. Um, you know, the people [00:25:20] say, oh, you know, we, the AI today is, you know, a thousand times more powerful than, um, than 10 years ago.
+
+
+But it will [00:25:30] become even another thousand times more powerful in a, in a few years. So it will cause new changes. [00:25:40] Um, it will cause, um, happy change, culture change, mindset change. So we need to anticipate that. Don't assume [00:25:50] people will think the same way three years from now. That's very insightful, I guess.
+
+
+But I think there were people who opposed [00:26:00] your tradition. Maybe there are some people, oh, I think that won't happen like that. Or, how can you, how did you persuade them who are opposite to you? [00:26:10] Um, you can convince some people. You cannot convince everyone. Um. That's okay. Um, [00:26:20] so this, this is why there are people who adopted altar really early, and there are people who haven't adopted Altar yet.
+
+
+Um, [00:26:30] but, um, you know, for any new product, it, it follows certain adoption curve. Um, for [00:26:40] people who adopted a product like er, they actually get, uh, value and benefit sooner. They, they can become, uh, more effective, more [00:26:50] productive, and they can show the value to their colleague. Um, then, you know, they can help convince, uh, the other [00:27:00] users as well.
+
+
+So, um, this is why order has been growing organically so fast. Uh, we rely a lot on our users to [00:27:10] convince, uh, the, uh, the, the, uh. The other people who, uh, didn't adopt OT early, [00:27:20] but sometimes, uh, what I expected will, uh, is, is it can be wrong maybe. So [00:27:30] how can you, how can people get the signal that, oh, I was going to the wrong direction.
+
+
+This won't be happen, this won't happen. Like, how can we, [00:27:40] uh, catch that signal? Yeah. This, this is my perspective on starting a new company. Uh, if anyone wants to start a new [00:27:50] company, um, you have to, in my view, you have to do something that most people [00:28:00] don't feel comfortable yet. If everyone agree with you, they're probably, you know, a hundred other people already doing the same [00:28:10] thing, um, then it's hard for you to stand out.
+
+
+You have to pick something that most people haven't, [00:28:20] uh, haven't been convinced yet. Uh, doesn't mean any weird idea, you know, most of the weird idea won't, uh, won't work. [00:28:30] But, uh, but if you don't have a weird idea, uh, the chance for you to stand out is actually even lower unless you have something really [00:28:40] special that do, uh, the, uh, build your product, you know, 10 times better than everyone else.[00:28:50] 
+
+
+Uh, of course, I mean they, they're, uh, their power there as well. You, you may build a, a existing, uh, product way better. Well, zoom is [00:29:00] example. Zoom didn't invent video conference, but they built a, uh, a much better product that do video conference way better. Uh, that's one type [00:29:10] of approach. Uh, the, the approach we decide to take is to, uh, think about the idea that most people don't agree with yet, [00:29:20] but you have high conviction that it will become big because the, the, in the few years that most people don't agree with you, [00:29:30] that give you the time to build the leadership, of course, you know, you, you have to make the right bet.
+
+
+Um, but that's, uh, that's the [00:29:40] approach I prefer. Uh, it does take courage. It take conviction. You, you have to be fully convinced yourself. [00:29:50] Um, because building a startup is so hard. Um, if you don't truly believe it in it, uh, you're going to give up really [00:30:00] fast. Um, so you. You know, again, our, our, uh, approach is to pick a [00:30:10] idea that most people say that's crazy or that's impossible, or it's a, or people, [00:30:20] uh, tell you nobody will use it.
+
+
+Um, but, uh, but you have the, the true conviction that it will work [00:30:30] and most people will use it. Um, so that, that's our approach. Yeah. Thank you. The lights are off. So we have, [00:30:40] how can we Yeah. Go back on, uh, there is a button there you can press, but on the, [00:30:50] at the end.
+
+
+Oh yeah. I think it is turned off. [00:31:00] There, there are two buttons on the.
+
+
+Press again. The other one on the top. Okay. Then it off. [00:31:10] Thank you. Yes, thank you. Yeah, it's, it's, yeah. When there's no motion, it turns off.[00:31:20] 
+
+
+So then what is the most, I think it's quite similar, but [00:31:30] what is the most important thing when making a product that people are not familiar with? What kind of like accept conviction, what kind of things founders have to have[00:31:40] 
+
+
+for Otter? When we started back, back in 2016, we say we're gonna record everything. We're going to [00:31:50] enable it to be shared with other team members. Both made the most people and comfortable, number one being recorded. [00:32:00] Is, uh, is uncomfortable. And also share meeting notes with other people is uncommon because traditionally people take [00:32:10] notes on the paper notebook.
+
+
+It's a personal thing. Um, and we [00:32:20] advocate a new behavior. We say, Hey, use order in every single meeting. Um, share that meeting notes with everyone in real time. [00:32:30] Um, because when you record it, you capture the knowledge and when you share it with other people, you help, uh, other people [00:32:40] to get the notes. And also we enable the real time sharing.
+
+
+So even if someone is not in the [00:32:50] meeting, they can still get access to it. It help spread knowledge in real time. Um, [00:33:00] those are all, uh, two, you know, two examples that, uh, we challenge, uh, the norm. We challenge the status quo. [00:33:10] Next for, uh, uh, enterprises, we advocate that share your [00:33:20] knowledge across different departments.
+
+
+Share your meeting notes between sales, marketing, product design, engineering that [00:33:30] will, uh, break down the information silos that help your company operate way more productively and [00:33:40] way more, uh, efficiently. Um, not everyone, um, is comfortable with that yet, [00:33:50] um, but you know, we firmly believe that. It will create a way more, uh, way more value for, uh, for the enterprises.
+
+
+Uh, so [00:34:00] we're building products that enable that change.
+
+
+So you told me that, uh, [00:34:10] like there are some people who are not used to this recording or conversation voice something, but most of people [00:34:20] are, uh, used to getting used to use voice to record, like, or use AI note taker. So do you, is there any [00:34:30] moment that you thought, or this is the moment where, when this is the moment when, which are what I expected, like what [00:34:40] I dreamed?
+
+
+Is there any specific moment or This era is the moment that I believe it'll come like that. [00:34:50] You know, we, from day one, we always had that belief that that should be the way, that should be the right way. Uh, it took us, you know, a [00:35:00] number of years for us to become the norm for many people. Still, I would say it's still not the norm for 90 or [00:35:10] 90% of the people in the world, yet it's still a new concept.
+
+
+Um, I think it become the, sort of become the norm in [00:35:20] Silicon Valley now, but it's not the norm outside of silicon, uh, Silicon Valley or outside of the us. Um, I think Silicon Valley is usually [00:35:30] more, um, futuristic. Um, so I would say that people's mind has not completely changed yet. [00:35:40] Um, more people are accepting that new idea compared to 10 years ago.
+
+
+Um, so we have [00:35:50] to work on both fronts. We like to change the mind of more people to use a meeting notetaker, like we are also looking at the [00:36:00] next 10 years, say, you know, uh, have everyone use it eventually, uh, all the time. Right now [00:36:10] people are using order in a meeting, but our goal is to make order become always on tool.
+
+
+Um, [00:36:20] you can run eventually always on, on your phone. It can run always on, on your watches. Um, [00:36:30] so a lot of people will, um,
+
+
+uh, will be worried about [00:36:40] privacy, concern, uh, security. We do take security very seriously. We build a lot of security. Um, a mechanism in order to [00:36:50] protect users', uh, privacy, uh, confidentiality. And even for enterprise, we have very sophisticated data retention mechanism, [00:37:00] but in the meantime, we see I AI can become a lot more powerful if AI can hear [00:37:10] everything, um, so that it fully understands what everyone needs.
+
+
+It fully understands, um, [00:37:20] the context. Um, and then also provide advice, reminder or take actions in real [00:37:30] time because a lot of the conversations also happen outside official meetings. You know, you may run into someone at the coffee machine and you just [00:37:40] chat for three minutes. There could be new ideas that happen during that three meeting conversation, or you just say, Hey, you know, I'm waiting [00:37:50] for this to be done.
+
+
+Um, then AI hear that, and AI can inform the, uh, the right people that, Hey, um, can you [00:38:00] get that done today? So that, uh, my work, uh, uh, is unblocked. Um, so tho those are the new things, uh, we're [00:38:10] building. Uh, and, you know, uh, they're, uh, uh, new behaviors to be, uh, enabled boat. [00:38:20] And could you share how you use author in your daily life?
+
+
+Yeah. I, I use author for all my [00:38:30] meetings now. Uh, I synchronize, uh, my calendar with other, so that author join every Zoom meeting. Automatically, I [00:38:40] don't even need to manually turn it on. It's just join those meetings. Uh, for, for most of those meetings, I also, uh, share the meeting notes [00:38:50] with all the meeting attendees so that, uh, everyone, uh, can benefit from the alternate notes.
+
+
+The, I [00:39:00] also for in-person meetings, other, I also note it cannot join the meeting automatically, but it notify me at the beginning of the meeting. I usually, you know, uh, [00:39:10] uh, respond to the notification to turn it on. Um, and, um, I also, um, have [00:39:20] our own team use order for almost all meetings so that, um, the meeting notes are shared in the right channels.
+
+
+It could, it could be sales [00:39:30] meeting channel, it could be design meeting channel. Um, and many of those channels are public, so that. Other department, people from the other [00:39:40] department can also access those meetings. Uh, people in, uh, product team. The product managers can access the, uh, sales [00:39:50] meetings so that they can hear from the customers firsthand.
+
+
+They can understand, uh, the use cases of the customers, the pain points of the customers, uh, new [00:40:00] features that customers need. So they don't need to wait for the sales team to share that knowledge to the product managers. Product manager can get that, uh, in [00:40:10] real time, so it speed, uh, speed up everything. It enhance collaboration.
+
+
+They improve, uh, the, the speed of [00:40:20] execution. Um, and also we, uh, are incorporating other knowledge into order as well. We are inject [00:40:30] ingesting data from emails, from documents. Uh, we'll connect a slack as well, so that author get more [00:40:40] context. Um, next step, our goal is to build agen, build the knowledge base and build agen workflow.
+
+
+For [00:40:50] example, after a product, uh, brainstorm, uh, meeting, uh, right after the meeting, the, we can generate the, uh, a document that, [00:41:00] document the, all the ideas. It, it create the product requirement document, uh, automatically. Um, and also you may say, Hey, we should [00:41:10] share this, uh, with Michael. Michael is not in this meeting.
+
+
+Then we just say, Hey, we share the meeting notes with Michael automatically, uh, or send them a, [00:41:20] a slack message or email so all those can be executed in real time. Um, so we use order and order that [00:41:30] also enable us to feel the pain. Uh, or anything doesn't work, we, we can detect that firsthand. Um, a lot of our team [00:41:40] members, because they use order, they also generate a lot of, uh, ideas on how to enhance it.
+
+
+Um, so, um, [00:41:50] yeah, we, we know we, um, get the benefit there because not just a few people thinking about how to enhance the, [00:42:00] the product. Almost everyone in the company, because they use the product, they, they, they, they can all, um, generate, uh, new ideas as well. Nice. [00:42:10] Then I wanna talk about like, competitor these days.
+
+
+So the problem you start solving in 2016, like meeting [00:42:20] transcription is now free, built in feature inside Zoom, Microsoft or Teams, but the platforms your customers are already, uh, no, no. Like [00:42:30] does a stand standalone AI product. Still makes sense when the platform itself does it for free. There, there's several aspect, [00:42:40] uh, transcription, uh, that third party transcription API is getting better, way better than 10 years ago.
+
+
+Um, but still they haven't solved all [00:42:50] the problems yet. Um, as I mentioned earlier, uh, people's names especially, uh, [00:43:00] uh, people, the names of immigrants who came, uh, to America, they, they have, you know, unusual, uh, [00:43:10] names. You know, it's, it's not like, uh, common names like Michael or uh, Brendan, and those are easy to transcribe for immigrant's name.
+
+
+It's [00:43:20] still hard to transcribe. Um, a lot of new companies, new technologies, uh, are being created. They, they oftentimes have unusual names [00:43:30] or acronyms. They're, they're still, uh, still challenging to transcribe, uh, a lot. A lot of the, uh, third party APIs still cannot do them [00:43:40] very well. Um, in addition, um, for in-person meetings, um, there, uh, oftentimes a lot of background noise [00:43:50] on Zoom is relatively easier because most people are doing zoom meeting in a quiet place.
+
+
+Um, but in person meetings usually have, [00:44:00] uh, more noise. Uh, for example, if you meet someone at a Starbucks in a coffee, uh, uh, shop or in a restaurant, [00:44:10] um, there are a lot of background. Noise is still very, uh, very challenging. Accents are still challenging for people who, uh, are not native [00:44:20] English speakers.
+
+
+Uh, who came from Asia, Europe, um, and other countries. Uh, it's, it's still challenging. So, so that's one aspect. [00:44: 30] Uh, the other part is you mentioned Microsoft and Zoom. They have the meeting note taker now as well. However, they're still, [00:44:40] uh, providing it as individual, uh, meeting note taker. They're not, they haven't built a, uh, enterprise knowledge [00:44:50] base yet.
+
+
+So that's the part we are focusing on. How do you connect the dots across hundreds of meetings where thousands of [00:45:00] meetings, how do you extract insights, uh, out of the thousands of meetings, how do you share the knowledge across many different departments? [00:45:10] In addition, um, the. As part of the meetings, they, it also has a voice social graph embedded in there.[00:45:20] 
+
+
+Most people didn't realize that it's the, um, because the meetings involve so many people, hundreds of thousands people. [00:45:30] Um, how do people interact with each other in meetings? Uh, who is the expert on what subject and who care about [00:45:40] what and how do people collaborate? You know, one, for any project, it usually involve many people to collaborate to get it done.
+
+
+How do they [00:45:50] collaborate with each other? Um, who depend on whom? There's a lot of, uh, cross-functional dependency. Um, other can de [00:46:00] uh, detect those and then help you solve the dependency. Um, those are all, and solve the problems. Um, we. [00:46:10] Haven't seen Microsoft or Zoom focusing on that problem. So that's the, uh, uh, what we are focusing on.
+
+
+We building [00:46:20] this knowledge base, we're building the, uh, the context graph embedded in the, uh, in all the meetings. So, uh, there are [00:46:30] entities like, you know, topics, projects. There are also people, people is a big part. Um, so how do you understand the, the [00:46:40] relationship between people, right? How, how do we use AI to help them collaborate better?
+
+
+So tons of unsolved problems. Yeah. Yeah. Like, it [00:46:50] seems like you pay very, very close attention to people's behavior. So is it your, like, personality? [00:47:00] Like why are you so like, uh, interested in people's behavior?
+
+
+Um. [00:47:10] Behavior always change when you have new technologies. If, if you look back in the last 30, uh, 50 years, right before [00:47:20] internet became, uh, so common, uh, well even before email or how, how, how, how do you send messages, right? It's a, it [00:47:30] rely on, uh, paper mail, but now it's email. So you know, it, it's like, it feels like we have been having emails forever.
+
+
+Uh, but [00:47:40] then like a new tool like Slack became popular, then people actually send fewer emails. They rely on Slack. Um, [00:47:50] but then, you know, with when the voice technology become, uh, much more mature, we think that, um, voice will become [00:48:00] the primary interface for, uh, enterprise intelligence. We think that you'll probably, you know.
+
+
+I don't need to [00:48:10] write so much. Actually, I think, uh, in a few years people will rarely write anything. [00:48:20] Uh, they will rarely use keyboard to write anything because they can just talk. Because talk is easier than writing. [00:48:30] Um, they can just talk and our AI will write everything for you. It's, it start to happen, right?
+
+
+Uh, a lot of people [00:48:40] actually use AI to write documents, to write emails, to write linking posts. It's already happening. Um, it will only [00:48:50] accelerate. So our view is that voice is becoming the primary interface for, uh, business intelligence will enable [00:49:00] that, uh, to happen faster. So our vision is that you can just talk or AI will do all the busy work for you.[00:49:10] 
+
+
+And author went like from like, there's various rapid growth between 2023 and [00:49:20] 2025. So there's roughly like 4.5 x in two years, I guess. So, uh, and that period is exactly when like [00:49:30] gym or teams are rolled out, free transcription. So how do you explain, like how do you explode on that time? What's [00:49:40] your core strength?
+
+
+Part of the reason is because we're, we own our own technology. So we, um, [00:49:50] uh, we can keep the cost low. If you use a third party, API, you have to pay them a lot of money that limit, uh, how much a free service you can provide. [00:50:00] Um, and also the, uh, the collaboration system we build plays a big role. Um. A lot of the other [00:50:10] competitors are still operating in, uh, as a individual meeting note taker.
+
+
+But, uh, we are the first one who think about team for [00:50:20] who, think about building a, uh, team collaborative, uh, workspace. You know, slack is a really good collaborative [00:50:30] workspace. Um, and order has a similar, uh, philosophy. So, uh, we're still very unique in that in terms [00:50:40] of creating a team first product. Uh, so that help us grow because, you know, when you, uh, [00:50:50] operate as a team, you need to bring your team members onto the workspace.
+
+
+Um, and then that infrastructure get, help us get into [00:51:00] enterprises now because for enterprises it's all about collaboration. It's not about like each one just. You know, uh, record their own meeting notes. [00:51:10] Your meeting notes will have 10 x more value if it's shared with, uh, the other team members. So we build a system that facilitate [00:51:20] that, uh, knowledge sharing.
+
+
+All those help us grow a lot faster. I think it will only accelerate in the next few years. [00:51:30] Okay. And I saw the LinkedIn posts, uh, like you are a marathon marathoner runner. Oh, so you went [00:51:40] to Boston Marathon. I see that post. So is that, that pain and suffering have entertainment value? So nine years in, what kind of pain [00:51:50] actually makes you stronger and what, what does that post mean?
+
+
+Uh, there are always pain, um, because when we decided [00:52:00] to build our own speech recognition technology, um. We didn't know how long it would take. Um, we didn't, uh, we, we [00:52:10] know there, there's a lot of risks. We know that we had, uh, a lot less, uh, resource, a lot less money, lot less [00:52:20] people than Google or Microsoft.
+
+
+Uh, we want to challenge them, um, but we're not totally sure how fast we build it. [00:52:30] Um, so we're always under the, the challenge and risks. We have to handle a lot of [00:52:40] risks. And then, um, there's always question, oh, okay, we built this and, uh, what if Google or Microsoft or [00:52:50] other people catch up fast? Uh, how, you know, so, so we always think about the, the next three or five years, um, we always try to think.[00:53:00] 
+
+
+Um, and of course there, there always the challenges to change people's behavior. You know, we, we firmly believe that there is a new way [00:53:10] of doing things, but other people don't necessarily agree with you. Um, you know, they, they're early adopters. Uh, and also, and even [00:53:20] with investors, um, I would still say in 90, at least 95% of investors don't agree [00:53:30] with us.
+
+
+Uh, that that was always true. Sometimes even higher. You know, I can talk to 30 investors, maybe only one thought. Oh, that's pause. That, [00:53:40] that, that's interesting. So, um, that, that's okay. Uh, as I said, if everyone agree with you, you're probably [00:53:50] already too late. Um, so you do need to have that you face. Of course, you, assuming you, you pick the [00:54:00] right path, uh, you have to be, uh, determined.
+
+
+You have to overcome all that skepticism. Um, [00:54:10] and, um, that, that, you know, that's how revolution happens. You know, I run Star and people say, building a startup like running a [00:54:20] marathon, actually building a startup is way harder than running a marathon. Um, yeah, I, I've run, uh, 11 marathons. I'm going run [00:54:30] another one in two months in London.
+
+
+Um, uh, that, uh, definitely helped me, uh, stay [00:54:40] healthy, uh, handle stress, um, but, um, you know, help, help me push through all the challenges. [00:54:50] We are also startups and our company culture is. Is, let's work hard and let's exercise hard. So we are [00:55:00] trying to, uh, participate in Baron together. Like this year we are planning to do that.
+
+
+So yeah, I agree with that. Like Baron is like [00:55:10] startups and is important to engineer. Yeah. I also, you know, try to, uh, encourage everyone in our company to [00:55:20] exercise. So we actually have a health and workout Slack channel. People share their workout with other team members and we have, [00:55:30] uh, more and more people running now.
+
+
+Some, some run 5K, 10 k, half marathon and marathon. So that's one of my biggest [00:55:40] achievements is to get more people to exercise, uh, to build a successful company. You want your team to be healthy as well. We also have those kind [00:55:50] of channel in our step then. Uh, do you see startup these days are also focusing on things that bring about, like long-term [00:56:00] changes?
+
+
+Like, like you, like because you stayed in Silicon Valley for 30 years. So I think you can see the changes between founders, I [00:56:10] guess. What do you think? Uh, sorry, I didn't understand. I mean, like, do you think like these days many startups are focusing [00:56:20] on, uh, like the long focusing on the work that can change in the future, change the future?
+
+
+So are they [00:56:30] focusing on long term view or are they just focusing on like, these days problems?[00:56:40] 
+
+
+Yeah. For us, uh, we like to focus on the long term. Um, of course you have to build a bridge between the present, uh, [00:56:50] to the future. Uh, if you only work on the future, um, it's, uh, it's hard for people to adopt, uh, your product. [00:57:00] So you, you have to solve their, uh, problems today and then create an incremental ramp or create a [00:57:10] bridge that lead them to go to the future.
+
+
+Um, and also when you create a new startup, because the, [00:57:20] uh, a lot of services are very easy to build today. Um, how do you build a competitive [00:57:30] advantage? Uh, is the biggest problem. You know, as, as I said, you know, it, if it's too easy for you to build, it's very easy for a hundred [00:57:40] other people to build as well.
+
+
+Um, so what differentiation can you. Uh, that's the [00:57:50] biggest problem for a new startup. Then, I'm just curious in person, like, how are you talked about as a leader in the company? Do you [00:58:00] know how, like, how your, uh, teammates are, describe you? I mean, like what kind of [00:58:10] leadership do you have? I lead by example.
+
+
+Um, you know, building a startup is hard. Uh, I work hard on myself. I, [00:58:20] I do hope everyone work hard. Uh, in the meantime, um, as I said, uh, we always want to innovate. So we do [00:58:30] encourage everyone to think big and think different and, and innovate. Um, we. [00:58:40] Uh, we use our own own product, as I discussed earlier, so we see that's a good way to, uh, inspire [00:58:50] everyone, um, to use our own product, uh, so that we can use our own product to become more productive, to become more efficient.
+
+
+In the [00:59:00] meantime, uh, it can help inspire everyone to, uh, come up with new ideas to improve the product. [00:59:10] Uh, so we have a very transparent, uh, culture here. Um, I think that that's, and we use art to share most of the [00:59:20] meetings so that each team, um, share their knowledge with the other team. Um, I think that help us to [00:59:30] grow really fast with a small team as well.
+
+
+So that's a culture we want to build, uh, we or we want to enable in other enterprises as well. [00:59:40] Before founder. When you were a kid, you said that you loved tech. So what were your, what was [00:59:50] your kid like? Like how, what kind of, uh, person were you in the teenager? What kind of students? [01:00:00] Um,
+
+
+I think with ai, suddenly the way we learn [01:00:10] is different. Um, because, uh, with AI you can
+
+
+find, well, even with Google, you can [01:00:20] find anything, uh, anytime. But with, without a large language model, um, it's way more [01:00:30] powerful than Google because it can explain things to you really well. Um, so. [01:00:40] I was at Harvard University just two days ago. I think the existing curriculum needs a lot [01:00:50] of, um, changes because the, the way we do education, um, it's actually created, the system was [01:01:00] created at least a hundred years ago.
+
+
+Um, with ai, uh, everything has changed and a lot of professors actually [01:01:10] don't allow students to use a tool like other to help them learn. I think that's, um, as old thinking. Um, [01:01:20] they have to allow the students to use whatever AI tools, um, [01:01:30] to, um, to learn faster. Um, because, you know, after they graduated, they're going to use AI at their jobs.
+
+
+Of [01:01:40] course. I mean, how do you still, um, um, enable the student to think critically? I think the critical [01:01:50] thinking is important. Um, although AI can answer a lot of questions for you, can you fully understand the answer? [01:02:00] Um, can you understand why AI make that recommendation? It's still important. Um, so I don't, definitely don't have all [01:02:10] the answers, but I see a lot of reform that needs to happen in our education system, you know, for the, uh, for, for students, for teenagers, [01:02:20] how do they learn better?
+
+
+Um, how do they use AI to help them gain that critical thinking skill and [01:02:30] creative thinking skill as well? Actually, like we are planning to make a series about ai. Education. So we are trying to [01:02:40] figure it out how use AI to, uh, get more learning. Like how can we use AI well to better education [01:02:50] that, yeah, learning.
+
+
+The first step is to capture the, uh, knowledge first. So author can help you capture that first and then you need to [01:03:00] synthesize all the knowledge. So we have a three, uh, step product letter. We start with capture, you capture the information [01:03:10] by recording, transcribing. Then the second step is synthesize.
+
+
+You synthesize the information across multiple recordings. So also [01:03:20] synthesize across both voice knowledge and written knowledge, such as documents or emails. And the third step is to take action. Um, [01:03:30] then that's where the agent workflow can happen. It used the knowledge, used the insights. Uh, we captured and [01:03:40] synthesized and say, Hey, what do you need to do?
+
+
+Do you need to write a document? Do you need to write an email? Do you need to, um, get a certain job done? Uh, [01:03:50] where the agents can break that job down, down into maybe three steps and execute each step by using the right tools or using the right API. [01:04:00] So again, three steps. Capture, synthesize, and take action.
+
+
+Thank you. [01:04:10] And, uh, the question, what I want to ask you is, uh, what kind of, uh, child were you before? [01:04:20] Were you like when you were young? Um, I'm always curious. Um, I'm curious about [01:04:30] how things work. Um, this is why I, uh. I decided to pursue a PhD degree because, uh, I [01:04:40] want to get really deep into how things work.
+
+
+You know, my focus, my c PhD was on distributed systems and [01:04:50] specifically in internet, uh, protocols, like TCP ip, uh, that helped me build a startup because it, it, uh, uh, [01:05:00] helped me think about how to build a large system. Um, and today, of course, I, you know, I wish I had more time de [01:05:10] deeper into the AI models.
+
+
+Um, I, I have to, uh, handle a lot of business problems, but I, I still wish I could spend more [01:05:20] time, uh, learning more, uh, uh, uh, dig deeper into the AI training system so that, you know. [01:05:30] I can help me think about how to do more AI innovation, especially on the voice AI part. Um, so yeah, I, I [01:05:40] guess for, you know, a, a young, uh, younger generation, you, you always want to stay curious.
+
+
+Uh, and with ai, right, again, AI can [01:05:50] help you learn better. So you can probably learn 10 x more things faster than the last generation.[01:06:00] 
+
+
+Okay. Lastly, I want to ask one more question. So, you've been building author for nine, like [01:06:10] almost 10 years. So what has nine years given you that nine months? Never could. Yeah. Um, it is 10, almost [01:06:20] 10 years now. It's a long time, but it also feels like it, uh, went by so fast. Um. You know, many new things we [01:06:30] didn't anticipate happen, we didn't know the large language model will ha would happen 2022.
+
+
+Um, [01:06:40] that definitely help us accelerate a lot of things. Um, we didn't know how fast people will change their mind. [01:06:50] Um, it did take, you know, many years for people to slowly change their mind. Um, but, uh, there are always new surprises. Uh, [01:07:00] larger is a big, uh, was a big surprise. Um, so we're constantly changing our own strategies as well.
+
+
+You know, how do [01:07:10] we, we are always thinking, how can we operate better? How can we use AI to, uh, make our own team more productive? How can [01:07:20] we innovate better? How, how, how do we understand users' pain points better? Um, and also, you know, um, there are always new competitors emerging [01:07:30] all the time. I think that's normal.
+
+
+Um, uh, you know, we, we can learn from competitors as well, but also we also, [01:07:40] uh, also want to build our own differentiation. Um, so, um, looking forward to the next many years, there's [01:07:50] still a long way to go. Um, yeah, now that's why I continue to run marathons to keep myself healthy.[01:08:00] 
+
+
+Like you said, there's, there was many challenges and it was difficult, but you don't seem like someone who would waver from moment to [01:08:10] moment to like, it's because you are people. Yeah. Startup is never a straight line, uh, growth, you know, [01:08:20] sometimes you grow faster, sometime you grow a little slower. They're always.
+
+
+Uh, risks, challenges, difficulties you don't anticipate? [01:08:30] Um, it's definitely super important to be persistent. Um, you have to look, uh, beyond the [01:08:40] current difficulty. You have to, to solve the current problems, but, uh, you have to be resourceful. You have to be [01:08:50] versatile. Um, you know, if you give up quickly, um, most people give up pretty fast.
+
+
+Um, [01:09:00] you know, if you're building something challenging, you know, the, uh, the difficulties are as expected. Um, [01:09:10] you, you, you have to persist and, and continue pursuing your goal. At what point [01:09:20] is it considered giving up fast? All. Huh. I mean, like, when do you think all people that people give up too, Kiko. What, what's [01:09:30] the moment where, at what point do you think like that?
+
+
+Yeah, it's really hard to tell, you know, are you really on the wrong path? Sometimes you are on the wrong [01:09:40] path, so you, you do want to adjust, but how this is again, case by case. You have to make the judgment call. Maybe you are on the [01:09:50] right path. You just, you just have to overcome some obstacles to continue on your path.
+
+
+So, no, you know, [01:10:00] no, no. Nobody can tell you exactly. Um, this is definitely the hard part about, uh, building a company. You know, if you are a founder, you [01:10:10] have to make those, um, finalizations, you definitely want to seek advice from other people. Um, but as a founder, you have to [01:10:20] make the finalization yourself.
+
+
+Sometime some advice you take, some advice you don't take. Um, so no, no. Nobody knows, uh, who you should listen to. [01:10:30] So believe yourself is important. I, I think so. Um, you know, definitely, you know, I, I made a lot of mistakes myself [01:10:40] in the past, you know, is, uh, also want to learn from my own mistake. I learn, learn from other, uh, other people as well.
+
+
+Um, you know, we [01:10:50] also want to learn from our, our own team members. We need to look for, um, uh, uh, smart people, uh, and people [01:11:00] who want to change the world. We want to leverage their collective talent as well. So it is always a team sport. It's now [01:11:10] just the founder. Um, you know, we, which is always limited. I think I'm done.[01:11:20] 
+
+
+And do you have any words you wanna talk to our audience for?
+
+
+Um, as I said earlier, [01:11:30] uh, if your founder pick something hard, uh, if it's too easy for you, it'll be easy for a hundred other [01:11:40] people. It's hard for you to build anything significant. What I was very impressed during the interview, is that [01:11:50] the word that hasn't changed yet? 'cause I thought that many people use voice AI to their life.
+
+
+But you didn't think like that? [01:12:00] Yeah, I think at least 95% or even higher. I would say 90, 99% of the world hasn't adopted a tool like Otter yet. [01:12:10] You see outside of the Silicon Valley, you see the global, yeah. Silicon Valley has higher adoption, but. [01:12:20] Outside of Silicon Valley, you go to the, you know, the middle of, uh, America, uh, there are more adoption in like Boston or New York City.
+
+
+But if, if you go [01:12:30] to other states, adoption is still very low. Um, and you go out of the US the, the adoption is also very low. Uh, [01:12:40] do you have any reason that you think, uh, outside of Silicon Valley to like, to expand globally? Well, Silicon Valley is the center of [01:12:50] innovation, so that, that's very natural.
+
+
+People are more futuristic, people are more open to new ways of doing [01:13:00] things. But, uh, the rest of the world, um, they're a lot slower. Uh, it would take many more years for them to [01:13:10] adopt a new behavior like this. Uh, then what did, what do you do. To get to those people. Do you have any [01:13:20] specific Yeah, we, um, you know, for example, we, we see that, uh, you know, construction [01:13:30] business is actually the most, not the most innovative business, but we actually see that they start to adopt order as well, uh, because some of them already [01:13:40] see how author can make their business more productive.
+
+
+Um, and also, uh, for the rest of the world we are, [01:13:50] uh, we have been mostly focused on English, uh, but we also have added, uh, new languages like [01:14:00] Spanish, French, Japanese, um, we're adding other languages as well. So, um, we'll, we'll start to do more [01:14:10] marketing outside of us in non-English speaking markets as well.
+
+
+Yeah. So do you think [01:14:20] that's why you hire a sales person or a building person these days or, yeah, we we're building a, we, our sales team is still small, but [01:14:30] we are growing that team because we're seeing more, uh, larger enterprise adoption. We, we do want to, um, allocate more [01:14:40] resource on that. Um, for enterprises, you know, you, you do need a sales team to help.
+
+
+Okay. I think that's done. [01:14:50] Okay. Yes. Thank you. Thank you Grace so much. Thank you for your story all. Thank you.
+
+
+What do you [01:15:00] think, how long does it take? Um, maybe like four months or four. Okay. Yeah. Or like, but I'm trying to, we are trying to [01:15:10] unload it as fast, as fast as after we film. So maybe three, two weeks. Three. How, when did you start? You said you [01:15:20] are a startup. Oh, but, well, my founder is, uh, our, our studio starts in from South [01:15:30] Korea.
+
+
+Okay. Seven.

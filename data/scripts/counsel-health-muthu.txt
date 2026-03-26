@@ -1,0 +1,932 @@
+﻿draft_Muthu
+===
+
+
+[00:00:00] Speaker: We all set? Yeah. Yeah, that's 
+
+
+[00:00:02] Speaker 2: okay. 
+
+
+[00:00:03] Speaker: Can you briefly introduce [00:00:05] yourself and as a follow up, could you also give us short introduction to 
+
+
+[00:00:09] Speaker 2: Yeah, [00:00:10] sorry, before we jump in, if we want to redo a question or something like that. I [00:00:15] assume you're just rolling continuously. So should I just tell you after a question like, Hey, can we try that again?
+
+
+[00:00:19] Yeah. [00:00:20] Right. Okay. So, 
+
+
+[00:00:21] Speaker: so I'll let you, okay, sure. So try it again. 
+
+
+[00:00:24] Speaker 2: Okay. [00:00:25] Yeah. Okay. Sounds good. Alright. Do you wanna just repeat the question and then I can 
+
+
+[00:00:28] Speaker: Oh yeah. Yourself [00:00:30] and K say health. 
+
+
+[00:00:31] Speaker 2: Yep. So my name is Muo Allin, the founder and CEO at Council [00:00:35] Health. My background is that I'm an internal medicine physician by training [00:00:40] practice medicine for a number of years, both on the faculty of Massachusetts General Hospital and [00:00:45] UCSF.
+
+
+[00:00:46] Before becoming a doctor though, I was an AI researcher at Stanford and I [00:00:50] spent a number of years publishing papers and doing research and how AI can be [00:00:55] applied in clinical medicine. And before that I was a data scientist and actually did work across both [00:01:00] healthcare and sports analytics on the data side.
+
+
+[00:01:02] So I'm a bit of, uh, I've had a background that [00:01:05] sort of blended both the technical worlds and the clinical worlds. And then after practicing [00:01:10] medicine, spent this last several years building health tech companies and started council two years ago. [00:01:15] Council's mission is to multiply the world's clinical capacity, and that mission was born [00:01:20] out of a observation that so many problems in healthcare today felt [00:01:25] downstream to a fundamental mismatch of supply and demand.
+
+
+[00:01:28] Namely, there was a huge [00:01:30] scarcity of clinicians, not just in the United States but worldwide, and that huge supply [00:01:35] demand mismatch was leading to problems around cost, affordability, and [00:01:40] access to healthcare. And so a lot of the motivation behind council was, what if we could five [00:01:45] X or 10 x the number of clinicians in the world?
+
+
+[00:01:48] What if we could solve the scarcity [00:01:50] problem? And if we could do that, we felt like we could then solve a lot of the downstream problems, again related to [00:01:55] cost, access, and quality. So we set out on this mission to think in multiples, not [00:02:00] percentages, what does it look like to 10 x the world's clinical supply?
+
+
+[00:02:03] And specifically, we got [00:02:05] really interested in the fact that maybe the only way to do that successfully would be to [00:02:10] train software to deliver care instead of only humans. And we felt like [00:02:15] one of the things holding healthcare back is for so long it's been a human service that's [00:02:20] only been delivered by people.
+
+
+[00:02:21] And in our mind, in our hope is that we can one day [00:02:25] achieve what we believe will be perfect. Doctors that embody three characteristics. One [00:02:30] being extremely personalized, two being infinitely knowledgeable, [00:02:35] and three, being always accessible. And we feel like with the right combination of both [00:02:40] AI and humans working together to deliver care, we can unlock this future of perfect [00:02:45] doctors and do that in a way that multiplies the world's clinical capacity.
+
+
+[00:02:48] Speaker: The next question [00:02:50] is about the problem you're trying to solve. I think you already [00:02:55] explained a little bit, but could you re-explain? 
+
+
+[00:02:58] Speaker 2: Yeah. So I think [00:03:00] the fundamental and perhaps most threatening problem in healthcare today is supply and demand. And the [00:03:05] fact that in most major US cities, the wait time to even see a primary care physician [00:03:10] is over 20 days.
+
+
+[00:03:11] And if you go around the world, even in well-resourced countries and [00:03:15] cities. There's often a line out the door of most clinics and hospitals in order to see a [00:03:20] clinician. And so it felt like we were really holding the world back in terms of access to care. [00:03:25] And there's a projected shortage of close to a million clinicians by 2030 around the world.[00:03:30] 
+
+
+[00:03:30] And it's interesting because you never hear about a shortage of lawyers or accountants, but [00:03:35] everyone hears about a shortage of clinicians. And one of our big motivations was how do we [00:03:40] solve that? And there's no easy way to manufacture more doctors, you know, we can't simply [00:03:45] train more, and they're leaving the profession at an alarming rate, both due to [00:03:50] burnout and doctors wanting to switch careers.
+
+
+[00:03:52] So this felt like an existential crisis in [00:03:55] healthcare, this idea that the fundamental. Entity delivering care is both [00:04:00] burning out, leaving the profession and also has their own cognitive limitations that prevent them [00:04:05] from being always available to you, from being infinitely knowledgeable. And we were [00:04:10] really excited about developing a new care model that combines modern technology components, [00:04:15] namely the use of large language models with all of the benefits of human led [00:04:20] care into a novel construct, a new type of interplay between AI and doctor [00:04:25] that would allow the next 10 billion people in the world to feel like they have the world's perfect [00:04:30] doctor in their pocket.
+
+
+[00:04:31] And that really became the vision is how do we unlock perfect [00:04:35] doctors at the cost of compute for the next 10 billion people so that they [00:04:40] feel like the best doctor that's ever lived is available to them at all times. 
+
+
+[00:04:44] Speaker: [00:04:45] And the next question is about why do you view such an [00:04:50] important problem? I know health is kind of very important for every human being.[00:04:55] 
+
+
+[00:04:55] But I wanna hear in your word. 
+
+
+[00:04:57] Speaker 2: Yeah. We think [00:05:00] access to not just healthcare, but the highest quality healthcare is really a [00:05:05] fundamental human right. And it should be a fundamental human affordance to every person that's born. [00:05:10] And if you look at modern technology, it's made it so that no matter where you live in the world, you can [00:05:15] access the best version of most things.
+
+
+[00:05:17] You can watch a Broadway musical from your TV [00:05:20] and you know, Vietnam and you can, you know, read a book written by the best [00:05:25] authors wherever you live. But healthcare is still one of those things that the quality of healthcare you [00:05:30] receive is often gated by where you live and who you have access to. [00:05:35] So I live in Boston and we're fortunate to have some of the world's best cancer centers and cardiology [00:05:40] hospitals and medical facilities, but there are billions of people in the world who don't have that type of access.
+
+
+[00:05:44] And [00:05:45] despite all of the progress we've made in technology over the last 30 or 40 years, we still [00:05:50] haven't cracked that. Problem of how do you democratize the best quality care to every [00:05:55] person in the world? And I think that's what we're really excited about here. We believe [00:06:00] access to best quality healthcare is a human right.
+
+
+[00:06:02] And, uh, we're really excited about modern [00:06:05] technology allowing us to deliver that. Where you can live in a rural town in Sub-Saharan [00:06:10] Africa, but still feel like you're interacting with the best doctors that have ever lived. We also feel that [00:06:15] healthcare is so fundamental because it's really the underpinning of the rest of your ability to experience [00:06:20] life.
+
+
+[00:06:20] So the ability to get an education to thrive in your workplace, to have [00:06:25] relationships, all of that sort of ladders and builds upon having your health. [00:06:30] And without that, you know, you compromise an individual's ability to experience life, [00:06:35] to earn an income to, uh, to advance their family and future generations.
+
+
+[00:06:39] And [00:06:40] so, uh, we view optimizing healthcare as almost a great equalizer across [00:06:45] the world of opportunity. And, uh, and, and that's another reason we've been very excited about it. 
+
+
+[00:06:49] Speaker: And the [00:06:50] next one. Is about achievements, like could you share any notable [00:06:55] achievements or metrics, numeric results? So far, 
+
+
+[00:06:59] Speaker 2: there are [00:07:00] many different metrics or measuring sticks by which we measure our progress [00:07:05] towards this mission of 10 Xing.
+
+
+[00:07:06] The world's clinical capacity. One of them that we've [00:07:10] spent a lot of time on from the earliest days is how many patients can one of our [00:07:15] doctors see in a given hour? And so I used to be a primary care physician in [00:07:20] Boston, and even in a busy day, I could only see three or four patients per [00:07:25] hour with virtual care video-based telemedicine.
+
+
+[00:07:28] Over the last 10 or 15 [00:07:30] years, we've moved that from three or four patients to patients an hour to maybe five or six patients an [00:07:35] hour. But today on council's platform, we can see up to 21 or 22 patients in a given [00:07:40] hour. And that's because of this novel interplay, this synthesis of AI and human [00:07:45] doctor coming together.
+
+
+[00:07:46] We believe either alone is insufficient. AI only chat [00:07:50] bots have the problem of hallucination, a lack of supervision, and a lack of [00:07:55] ability to actually action on the advice they give. And human doctors have the [00:08:00] fundamental laws of physics that constrain their ability to see enough patients with enough [00:08:05] quality in a given time.
+
+
+[00:08:06] But through our synthesis, we've been able to unlock efficiencies that have really [00:08:10] never been seen before in modern virtual care. And we think we're also only scratching the surface [00:08:15] there. And so we think we can, you know, move that from where we are today to even greater [00:08:20] bounds as we both improve the medical grade AI and the ability for our AI to work [00:08:25] alongside our doctors.
+
+
+[00:08:26] Thank you. 
+
+
+[00:08:26] Speaker: I think example would be really good for our audience, [00:08:30] like the doctor used to be able to find patients at most plenty using [00:08:35] consult. So could you repeat that sentence like briefly? Mm-hmm. 
+
+
+[00:08:39] Speaker 2: [00:08:40] So in modern medicine, a doctor can see about four, maybe five patients an hour [00:08:45] with counsel. Our physicians can see 21, even 22 patients in a given hour.[00:08:50] 
+
+
+[00:08:50] Speaker: Perfect. I think sure. A lot of now already. Check your checks in my [00:08:55] Google Doc. So, 
+
+
+[00:08:56] Speaker 2: okay. 
+
+
+[00:08:56] Speaker: Let's go to a little bit deeper. So how [00:09:00] did you, how did your unique age shape, identity connecting [00:09:05] AI and clinical medicine, and why did you see it as [00:09:10] essential for healthcare innovation? 
+
+
+[00:09:12] Speaker 2: I'm a big believer that cross pollination of [00:09:15] ideas across different domains is where we often have the greatest sparks of [00:09:20] creativity and the most advancement.
+
+
+[00:09:21] And so what I mean by that is taking an [00:09:25] idea that has succeeded in one realm and being able to then bring it across to another realm where the shape of the [00:09:30] problem looks somewhat similar. And I've been fortunate in my career where I've gone [00:09:35] into the depths of both. Clinical AI and AI research, but [00:09:40] also the practice of medicine.
+
+
+[00:09:41] And we felt early on that H [00:09:45] shaped profile, having two depths of experience, one in ai, one in medicine, [00:09:50] and having the connectors between the two was really important to solve some of the hardest [00:09:55] challenges ahead in the world of clinical ai, it's because these problems aren't [00:10:00] specific to a single domain.
+
+
+[00:10:01] They sort of crossover between both domains. It requires [00:10:05] you to understand how do doctors do it today, but also requires [00:10:10] you to understand the art of the possible with ai. And we felt like if you [00:10:15] only understand understood one of those two disciplines, you would be fundamentally [00:10:20] constrained both in the creativity but also the depth of the types of solutions you could create.
+
+
+[00:10:24] And [00:10:25] so to take a simple example like history taking, which is the clinical art of when [00:10:30] a patient comes to me and says that their head hurts, knowing what questions to ask that patient to [00:10:35] uncover the clinical history. That is best going to allow me to get to a diagnosis. [00:10:40] This is a skill that's taught for months in medical school and honed in residency and [00:10:45] further refined over years of clinical practice.
+
+
+[00:10:47] Teaching an AI to do that is [00:10:50] both non-intuitive and also very challenging. And we found that if you only [00:10:55] understood the clinical history taking aspect without understanding the ai, you would sort of jump [00:11:00] to solutions that are either not scalable or simply don't work. And if you only understood the AI [00:11:05] pieces but didn't, but had never actually interviewed a patient in the real world, [00:11:10] you'd be operating very much from a textbook in terms of the way that should be done as opposed to having the [00:11:15] intuition on how to solve the problem.
+
+
+[00:11:16] And so as we've built out the company, we've tried to maintain that [00:11:20] multidisciplinary H shape profile where we look for individuals who have excelled not in just one [00:11:25] domain, but multiple domains across ai, clinical medicine, and also distribution [00:11:30] of products within the US healthcare system. 
+
+
+[00:11:32] Speaker: And the next one is about 10 x.
+
+
+[00:11:34] And [00:11:35] what led you to take on the mission of increasing the world's clinical [00:11:40] capacity by 10 x? Where did you get that idea from? 
+
+
+[00:11:43] Speaker 2: Yeah. Before I answer that, I think [00:11:45] one thing that we haven't touched on that I probably should have touched on earlier was just like more of a [00:11:50] two liner on what the company does.
+
+
+[00:11:52] Speaker 3: Do 
+
+
+[00:11:52] Speaker 2: you want me to provide that now and [00:11:55] then answer the 10 x question? Okay. So Council is an AI enabled [00:12:00] virtual care company. We're a modern care company with our own in-house [00:12:05] medical group, augmented by AI in unique ways where we can deliver care [00:12:10] that's higher quality, more accessible, and more personalized than ever before.
+
+
+[00:12:14] So that'll [00:12:15] be the answer to the first question. In terms of why we chose to focus on 10 x in human [00:12:20] doctors, we felt like as soon as large language models started to gain popularity in late [00:12:25] 2022, early 2023, we found a lot of people rushing to deploy them in [00:12:30] administrative use cases in healthcare. So using AI to write.
+
+
+[00:12:33] Notes faster [00:12:35] to submit prior authorizations to review billing codes. And while we think many of those [00:12:40] use cases are great businesses and also time savers for the US healthcare system, [00:12:45] we found that they're only moving the needle on efficiency and [00:12:50] productivity on the scale of 10% or 20% or 30%. But when we [00:12:55] looked at what truly confronted healthcare from an access perspective, speeding up [00:13:00] doctors by 20% wasn't gonna solve that problem.
+
+
+[00:13:02] Uh, it just wasn't enough of a difference. [00:13:05] And so we really wanted to go at the root cause of the problem, which is not how do you do [00:13:10] administrative work faster, but how do you actually deliver care itself [00:13:15] faster, higher quality, more personalized? And so the idea of 10 [00:13:20] X was to give us a benchmark and a goal that we felt like was [00:13:25] both aspirational and achievable, and one that would force us to solve [00:13:30] the hardest problems in ai.
+
+
+[00:13:32] Which were the problems around how do you teach an AI to [00:13:35] deliver healthcare itself? And it's a problem that many others shy away from because of the [00:13:40] liability, the risk associated with it. But we felt like we'd brought together a team [00:13:45] and a set of investors that were uniquely suited to solve this really hallmark [00:13:50] challenge of teaching AI to deliver care.
+
+
+[00:13:52] Speaker: Thanks. And I think that answer can be [00:13:55] related to your previous example about a doctor who can just [00:14:00] spike patients at most. So can you give us questions like increasing 20 or [00:14:05] 30%, like it would be up to seven or eight patients at most. Could you [00:14:10] repeat that in that way? 
+
+
+[00:14:10] Speaker 2: Sure. We found, we felt like many of the AI [00:14:15] solutions being worked on in healthcare were improving doctors' capacity by maybe 10% or [00:14:20] 20%.
+
+
+[00:14:21] But what that actually translates to then is instead of seeing four patients an [00:14:25] hour, you're maybe. Only able to see five patients an hour. And while that is a [00:14:30] meaningful improvement, we felt like it wasn't enough to truly make a difference in the access to care [00:14:35] and the quality of care and how personalized care was at council.
+
+
+[00:14:39] Since [00:14:40] we've been able to teach an AI to work alongside a doctor and delivering care itself, we've been able to [00:14:45] move from four patients an hour up to 20, 21, 22 patients an hour. We're seeing [00:14:50] a real step change improvement in productivity and quality, which again, we think is sort of the root cause of the [00:14:55] challenge we face today.[00:15:00] [00:15:05] 
+
+
+[00:15:08] So I grew up in Houston, which is the [00:15:10] home to the world's largest medical center, another place with some of the best cancer hospitals, [00:15:15] teaching hospitals, medical schools. And it was really interesting being in that environment because it [00:15:20] was an example of. This is the best we have to offer in modern medicine.[00:15:25] 
+
+
+[00:15:25] It really doesn't get better than this. And when you grow up in that environment and you still see [00:15:30] cracks in the foundation, you still see misdiagnosis challenges with access, [00:15:35] wait times, diagnostic errors. You start to realize that even the best [00:15:40] that we've ever created, the best medical centers, the best hospitals, the best doctors are still [00:15:45] not quite at either the quality or capacity that we need to serve the broader, [00:15:50] uh, US and, and global healthcare needs.
+
+
+[00:15:52] And so growing up in Houston was really informative and [00:15:55] instructional because it taught me that despite all of the advancements in modern medicine, we [00:16:00] still have a long way to go and connecting that. Care to the millions and billions of people [00:16:05] that need it. When I later went to Stanford for undergrad and studied engineering, it felt like [00:16:10] these worlds were colliding.
+
+
+[00:16:11] On the one hand, I'd seen the challenges of healthcare in Houston, and now [00:16:15] I was being exposed to the amazing world of optimism and entrepreneurship in the Bay [00:16:20] Area. The idea that, you know, a few lines of code and the right [00:16:25] ambition and optimism has been the answer to many of the other problems we faced in [00:16:30] transportation and education and energy, and we could apply that [00:16:35] same discipline to healthcare.[00:16:40] [00:16:45] 
+
+
+[00:16:49] [00:16:50] So growing up, I had a speech impediment where I couldn't say the letter R and I distinctly remember sitting in [00:16:55] class and. Hoping the teacher wouldn't call on me to read out loud the sections. And I actually [00:17:00] remember counting the number of Rs in a given sentence to see which sentence I should [00:17:05] volunteer to read, uh, to avoid, you know, being embarrassed.
+
+
+[00:17:08] And, um, I'm now [00:17:10] married to someone who is a speech therapist, and as, as you mentioned later in my life, did a lot of [00:17:15] public speaking and speech and debate. And to me that was mostly a [00:17:20] form of building conviction in a growth mindset. And the idea that just because something is [00:17:25] broken or it doesn't work or isn't the way you want it, doesn't mean that it can't be solved.
+
+
+[00:17:29] [00:17:30] And in a way, that personal lesson of going from something, becoming an impediment to eventually being a [00:17:35] strength, I think is sort of a trait and characteristic we try to embody at council as well. The [00:17:40] idea that these are, these challenges are opportunities and there are ways to turn these [00:17:45] weaknesses into strengths.
+
+
+[00:17:46] Whether that's, you know, the issue with US healthcare or, [00:17:50] you know, the lack of capacity and, and physicians today. Specific to why we chose [00:17:55] to focus on asynchronous messaging based care as an entry point. When we were looking at [00:18:00] trends across industries, we found that almost every industry was moving from synchronous [00:18:05] communication to asynchronous.
+
+
+[00:18:06] So phone calls were moving to text messages, [00:18:10] phone calls were also moving to email and Slack, other forms of asynchronous communication. [00:18:15] We found that people preferred listening to podcasts where you could choose to start and stop and [00:18:20] listen at your own pace. We found that live TV was being replaced by [00:18:25] TikTok and YouTube and social media, and so we were really betting on this belief that [00:18:30] people preferred to communicate on their own terms asynchronously when and where they [00:18:35] want it to, as opposed to having to be at an appointment at a certain time face to face with a [00:18:40] person who you then lose access to as soon as you walk out of the doctor's office.
+
+
+[00:18:44] [00:18:45] That belief that asynchronous care was emerging was paired with very. [00:18:50] Convincing data that even in healthcare, people prefer to send messages to their doctor [00:18:55] over scheduling visits. So in the last decade alone, the number of messages patients send [00:19:00] their doctor has risen sixfold. And we're seeing that trend continue to [00:19:05] rise.
+
+
+[00:19:05] So much so that overflowing inboxes are one of the biggest problems [00:19:10] PCPs and providers face today. And so we sort of developed this saying internally that [00:19:15] we think the mobile phone is gonna be the fastest growing care setting in the world. Not the hospital, not the [00:19:20] clinic, not the home, but actually your mobile phone.
+
+
+[00:19:22] And we also have this belief that more care will be [00:19:25] delivered via messaging in the next decade than any other care modality. And so that's where we [00:19:30] leaned in on asynchronous care is the starting point. A place that felt familiar and [00:19:35] convenient for users, again, wherever and whenever they wanted to access it.
+
+
+[00:19:38] That being said, I think one of the [00:19:40] promises of AI is that. The communication modality is not a limiter. [00:19:45] We may start as text-based communication, but AI opens the door to doing [00:19:50] ai, voice communication, ai, video communication, and so much more. And so [00:19:55] I would say we are not wedded to any one particular form factory of communication.
+
+
+[00:19:59] [00:20:00] I think what we're most excited about is delivering this promise of perfect healthcare at the [00:20:05] cost of compute to as many people as possible.[00:20:10] [00:20:15] 
+
+
+[00:20:17] So what was later called MuTu Ball [00:20:20] started because we had an idea. It was a small tech company, a spin out [00:20:25] of Stanford's math department called a osdi, using a novel branch of mathematics called [00:20:30] topology and topological data analysis to analyze big data sets. And I had this [00:20:35] idea that we could take the same analytical approach used to find drugs out of [00:20:40] big compound libraries to identify promising basketball [00:20:45] players before they entered the professional league.
+
+
+[00:20:47] And the shape of those problems felt very similar. [00:20:50] Choosing a drug compound from a library of a hundred thousand compounds to attach to a specific [00:20:55] target was very similar to choosing a basketball player from a pool of 10,000 players [00:21:00] to see who was gonna become the next Michael Jordan. And so another example of cross [00:21:05] pollinating ideas from one industry into another, the idea ended up sort of [00:21:10] reaching virality before virality was really a thing.
+
+
+[00:21:13] And so before long, our [00:21:15] approach was being mentioned at some of the sports top sports conferences in [00:21:20] video games on broadcast. And we also became an analytic partner [00:21:25] of several NBA and MLB teams working on analytics for them, [00:21:30] using these very novel, innovative approaches. Now, the idea of convention is interesting because a lot [00:21:35] of people in the front office of basketball teams making these decisions are individuals who grew up [00:21:40] in the world of basketball.
+
+
+[00:21:41] They're former players, former coaches, who are now GMs and making the [00:21:45] personnel decisions. And what we found so fascinating was that we were really approaching it from [00:21:50] a outsider, nothing to lose perspective, taking principles [00:21:55] that had worked in other domains, completely foreign to basketball and applying them in sports for the first [00:22:00] time.
+
+
+[00:22:00] And so it was amazing the type of insights we could uncover [00:22:05] and how novel our approach was because we didn't fit the mold of [00:22:10] conventional NBA GMs. And so every conversation we had, it [00:22:15] felt like we were bringing, uh, ideas to the table that they had never considered. [00:22:20] Partly because of our ignorance and then partly because of the areas of expertise we had outside [00:22:25] of basketball.
+
+
+[00:22:25] And that became sort of one of the many sort of [00:22:30] aspects that kicked off a, a, a revolution in sports analytics around using data [00:22:35] to make better decisions, which is now ubiquitous across almost every 
+
+
+[00:22:37] Speaker 4: NBA team.[00:22:40] [00:22:45] 
+
+
+[00:22:46] MuTu 
+
+
+[00:22:47] Speaker 2: Ball was the name given to our approach to [00:22:50] basketball Analytics modeled after how Moneyball changed the game of, of baseball [00:22:55] analytics and baseball decision making. And so the idea was that we could use data [00:23:00] numbers and algorithms to be much more effective at predicting who in the [00:23:05] NBA draft would end up being the most successful basketball players and making a host of other [00:23:10] decisions on behalf of NBA teams.
+
+
+[00:23:12] So it was the application of data numbers and [00:23:15] analytics. To a, a space in basketball that had previously been 
+
+
+[00:23:18] Speaker 5: very naive to [00:23:20] these concepts.[00:23:25] 
+
+
+[00:23:25] The MuTu ball experience was 
+
+
+[00:23:27] Speaker 2: an eye-opener that even in a room full [00:23:30] of people who had worked in a particular field their entire lives, [00:23:35] there was still the opportunity to introduce new ideas, new ways of thinking, new insights [00:23:40] that they'd never considered before without that experience, it's very easy to think that when you walk into a [00:23:45] room of experts that they've already thought of and considered every idea and solution possible.[00:23:50] 
+
+
+[00:23:50] But it turns out often coming in with a fresh pair of eyes, with a new way of thinking can [00:23:55] totally change the type of insights that you can conceive of. And we did that in basketball. We [00:24:00] worked with teams who had, you know, executives who had been in basketball for [00:24:05] decades, yet hadn't been able to uncover the insights that we had as to how to use data in [00:24:10] these ways.
+
+
+[00:24:11] And we find the same thing true at council. You know, it'd be very easy to sit back and [00:24:15] say. Yes, there is a large capacity crisis in healthcare, but there are so many [00:24:20] great minds and big institutions already working on this problem. What is there new for us to [00:24:25] contribute? But we have taken the mentality that if you bring people who have experience across multiple [00:24:30] domains who have that HHA profile, you can often stumble on insights [00:24:35] that, again, have not yet been uncovered.
+
+
+[00:24:37] And we found that to be true here. You know, we have conversations [00:24:40] all the time with some of the leading consumer health and, and health plan organizations who [00:24:45] have spent years thinking about this problem of increasing access to care of lowering [00:24:50] costs, of increasing quality, um, yet run into some of the same [00:24:55] challenges year after year.
+
+
+[00:24:56] And we're hopeful that by combining some of the Vanguard principle [00:25:00] techniques in AI and clinical medicine, kind of morphing those together, we [00:25:05] can have a, a new product where the whole is greater than the sum of its part.[00:25:10] [00:25:15] [00:25:20] 
+
+
+[00:25:23] When I was doing the work with Muha [00:25:25] Ball, I was still a medical student at Stanford and so I distinctly remember sort of studying for a [00:25:30] test and then jumping on a plane and flying out to meet an NBA gm. And so I was living this [00:25:35] sort of two universe reality of, you know, basketball statistician, but also, you know, [00:25:40] aspiring physician.
+
+
+[00:25:41] And I remember there was a particular, uh, day, my second year of med [00:25:45] school when I was in class and I got a phone call from an NBA GM who offered me a role to [00:25:50] run analytics for their NBA team. And I had this sort of very quick decision I had to make [00:25:55] over the next few days on, do I leave medical school and take a full-time role running [00:26:00] analytics for one of the, you know, 30 teams in the NBA or do I stay on this?[00:26:05] 
+
+
+[00:26:05] Long, arduous path to becoming a doctor, which had at least many more years of training [00:26:10] still in sight for me. And I obviously picked the latter, I chose the harder path of, of staying in [00:26:15] school, you know, accumulating debt and going on this path to becoming a doctor. But the [00:26:20] calculus that that I went through is if I fast forward my career 20 years or 30 years, [00:26:25] which domain, which area allows me to have a greater impact [00:26:30] over the course of my career?
+
+
+[00:26:31] And where can my contributions make a bigger difference for [00:26:35] not just thousands of people, hundreds of thousands of people, but maybe billions of people. [00:26:40] And healthcare just felt like a much more, both meaningful and [00:26:45] impactful discipline to focus my energy on. It would certainly take a lot longer to get that impact, [00:26:50] but it felt like when I got there, the opportunity to sort of really leave a mark would be much bigger [00:26:55] at the time, of course, we had no way of knowing that.
+
+
+[00:26:57] 2022 would bring chat, [00:27:00] GPT and large language models, and these worlds would collide so, so early. But there was always this [00:27:05] optimism that one day technology and medicine will collide. And when those things [00:27:10] happen, hopefully my expertise will be well suited to make a real difference in the world in a way [00:27:15] that again, could fundamentally change the trajectory of potentially billions of people who need the best [00:27:20] healthcare.
+
+
+[00:27:20] Speaker: Oh, it's such brain MBA analytics. This is additional [00:27:25] question about related to the previous question. So there are a lot of people, [00:27:30] especially our audience, there are a lot of our audience who confront a big [00:27:35] decision in our life, like your experience in medical. So could you [00:27:40] give, what is what? What's the principle of you?
+
+
+[00:27:43] What is the principle of you when you decide [00:27:45] a big decision? 
+
+
+[00:27:45] Speaker 2: I think it's helpful to have a consistent value [00:27:50] framework by which you can measure and make a lot of these difficult [00:27:55] decisions. And to refine that value framework over time. And for some [00:28:00] people that framework may be monetary. It could be around [00:28:05] enjoyment or impact.
+
+
+[00:28:06] And I think for me, I've often tried to make decisions based on [00:28:10] a combination of two factors. One, where are my [00:28:15] strengths? And we all have different strengths, but where are my unique strengths most suited [00:28:20] to have the most meaningful contributions in startups? This is often called founder [00:28:25] market fit, but where are you as a founder best suited to solve a particular [00:28:30] market challenge?
+
+
+[00:28:30] And I think there's a realization over time that this is more and more of an interesting concept. [00:28:35] Important concept. So to me, that's number one is where are my unique strengths? The way I think about [00:28:40] problems, the way I communicate, the way I try to bring teams together, where is that best suited? And then the [00:28:45] second for me is sort of net impact.
+
+
+[00:28:48] And at my graduation [00:28:50] from undergrad, I remember the commencement speaker, you know, with a quote about how, you know. [00:28:55] Don't think you hit a triple when you were actually born on third base or the quote, something like that where, [00:29:00] you know, so many of us are born with so many things that we're fortunate for, that we've been sort of [00:29:05] gifted.
+
+
+[00:29:05] And in my mind I view a lot of that as a responsibility to then give back, [00:29:10] not just proportionally, but even in an outsized way. And so I think a lot of what motivates me, [00:29:15] giving back in a way that feels outsized to what's been given to me in terms of opportunities, in terms of the people [00:29:20] I've met, the education I've been able to receive.[00:29:25] [00:29:30] [00:29:35] 
+
+
+[00:29:35] Speaker 4: There's 
+
+
+[00:29:36] Speaker 2: a couple of times where I've felt like the way we practice medicine today is just [00:29:40] not good enough and, and we can do a lot better. And I remember many times being in [00:29:45] clinic as a primary care physician, having a patient sit in front of me and explain their [00:29:50] problems, and knowing that there is some limitation I have.
+
+
+[00:29:54] In [00:29:55] my memory, my recall in, you know, my ability to connect the dots that was [00:30:00] preventing me from helping this person in the best way possible, right? Humans were working [00:30:05] off fallible, memory, off logical and cognitive biases. We [00:30:10] may be hungry before lunch, and that's making us feel rushed with a particular patients.[00:30:15] 
+
+
+[00:30:15] And it felt like all of these were shortcomings. You know, I often felt guilty at the end of each clinic day [00:30:20] realizing that if I had a perfect memory, if I had read every journal article, [00:30:25] if I had infinite time, I could help these people so much better than I was. [00:30:30] On the flip side, I'm still a physician who practices on council's platform, and so I get [00:30:35] to experience providing care now in the world of council, and it feels like [00:30:40] this huge breath of fresh air.
+
+
+[00:30:41] I remember early on in council, we had a patient who came to us [00:30:45] with. Really debilitating shoulder pain about a week after receiving a [00:30:50] vaccine. And normally it's, uh, it's common to get shoulder pain in the [00:30:55] first 24 hours after a vaccine, but one week out fairly uncommon. [00:31:00] And what a traditional doctor in a clinic would've done would probably be to, [00:31:05] you know, prescribe this patient Advil, maybe get an MRI maybe do physical [00:31:10] therapy, all of these things, which are both inconvenient and cost the system thousands of dollars.[00:31:15] 
+
+
+[00:31:15] But with our AI augmented platform, as I was messaging [00:31:20] back and forth to this patient, the AI immediately surfaced that it thought this patient had a [00:31:25] diagnosis called Serva, which is shoulder injury related to vaccine administration. [00:31:30] It's a really rare condition that is becoming slightly more common year over year.[00:31:35] 
+
+
+[00:31:35] There's only about two journal articles in the world that have ever been published about Serva. [00:31:40] It's a diagnosis I had never heard of in my medical training or practice, and not one that I [00:31:45] would've ever thought of if I was seeing this patient face to face. But because I had this AI [00:31:50] essentially whispering in my ear, I was able to not only make a more accurate [00:31:55] diagnosis, but avoid an MRI avoid further downstream appointments, avoid [00:32:00] physical therapy, and treat the patient the way Serva is normally treated.
+
+
+[00:32:04] And she [00:32:05] ultimately got better. But it was an example of how if you sort of had this perfect doctor whispering into your [00:32:10] ear, you can deliver care that just feels so much more high quality and meets the [00:32:15] patient where they want to 
+
+
+[00:32:16] Speaker 4: be.[00:32:20] [00:32:25] [00:32:30] 
+
+
+[00:32:32] Speaker 2: We think the problems of access are [00:32:35] downstream to problems in capacity. And so if you could wake up and. [00:32:40] Multiply the number of clinicians in the world by by 10 or even five, [00:32:45] you would end up with enough clinicians such that there wouldn't actually be an access crisis, right? If [00:32:50] everyone had a perfect doctor in their pocket, we wouldn't have to wait 20 days or 30 days to see a physician [00:32:55] in clinic.
+
+
+[00:32:56] And so we really think the supply side of the equation, the capacity of [00:33:00] healthcare, is the limiter to, to so many downstream problems, including access. [00:33:05] And you know, what we've seen time and time again is when we increase capacity. When we can go [00:33:10] from four patients an hour to 20 patients an hour, it means that we can take care of far more [00:33:15] patients in this care model.
+
+
+[00:33:16] And those access challenges sort of melt away.[00:33:20] [00:33:25] [00:33:30] 
+
+
+[00:33:33] Speaker 4: Yeah. 
+
+
+[00:33:34] Speaker 2: When we started the [00:33:35] company, we had a choice of do we want to build software that tried to practice medicine on its [00:33:40] own, or one that augmented existing doctors? And we felt really strongly that the right [00:33:45] care model here would be one that combined AI with human doctors for supervision [00:33:50] and guidance such that you get the best of both worlds.
+
+
+[00:33:52] We started thinking about our AI [00:33:55] augmentation as a sort of Iron Man suit for our clinicians. Imagine a physician that can [00:34:00] supercharge their own abilities. You know, essentially obtain these clinical superpowers by [00:34:05] using our AI platform, both in terms of capacity, in terms of quality, in [00:34:10] terms of personalization.
+
+
+[00:34:11] They could suddenly remember every article they've ever read, they could [00:34:15] review a patient's chart, even if it's hundreds of pages within seconds. And we really [00:34:20] like the Iron Man analogy because it sort of resembled turning something [00:34:25] ordinary into something extraordinary, turning a human into a superhero.[00:34:30] 
+
+
+[00:34:30] And we were really excited about AI's potential to do that immediately. And, and that's what we've seen. And [00:34:35] so we often talk about our platform is an Iron Man suit for our doctors. And the other [00:34:40] unique thing about council is that we built our own physician group in-house. So today we run and operate a 50 state [00:34:45] medical practice with our own employed physicians.
+
+
+[00:34:48] And the reason that's important is it [00:34:50] means we control not only the Iron Man suit, but the Iron Men and women themselves, and we [00:34:55] can truly create the best combination of, of human and AI working 
+
+
+[00:34:58] Speaker 4: together.[00:35:00] [00:35:05] [00:35:10] 
+
+
+[00:35:12] I remember 
+
+
+[00:35:13] Speaker 2: practicing medicine and [00:35:15] wanting to have an impact on people, but feeling like that impact was constrained to one [00:35:20] patient at a time, one visit at a time. And one of the things I was really excited about when [00:35:25] transitioning from clinical medicine into technology was the ability to scale [00:35:30] impact, the ability to help people, not one at a time, but at a large [00:35:35] magnitude where a single software application, a single new algorithm, a new technique, could [00:35:40] suddenly help millions of people or billions of people.
+
+
+[00:35:42] And that's what first led me to move away [00:35:45] from daily practice and medicine, to helping build technology companies that could have [00:35:50] this large scale paradigm shifting change on healthcare. Overall, specifically in [00:35:55] terms of founding a company, I was most drawn to the mission. Of helping [00:36:00] AI deliver excellent care alongside doctors in a way that would multiply the world's [00:36:05] clinical capacity.
+
+
+[00:36:06] And when we canvassed the space of companies that were [00:36:10] working on that problem, we found that there was a dearth of companies that were [00:36:15] approaching it in the type of mindset and approach that I thought was best. And [00:36:20] so from a founder market fit perspective, I was encouraged that I'd spent [00:36:25] so much of my career doing fundamental AI research, tens of thousands of hours in [00:36:30] hospitals, practicing medicine, and also years helping build companies.
+
+
+[00:36:33] And so I felt like I had a unique [00:36:35] vantage point on these three different ingredients on ai, on medicine, and on [00:36:40] company building that felt like they could come together to build a really enduring [00:36:45] company in this space, built on modern technology platforms that could really make a difference. [00:36:50] And so it was less about needing to be a founder and more about feeling like this was the [00:36:55] best vehicle to solve the problems I cared about.[00:37:00] [00:37:05] [00:37:10] 
+
+
+[00:37:12] So our clinician cockpit, which we often refer to [00:37:15] as the Iron Man suit, is a software application that our doctors use in-house to [00:37:20] deliver their care. Think of it like a blend of an electronic health record and a [00:37:25] personal AI copilot trained to deliver the highest quality care and working together.
+
+
+[00:37:29] [00:37:30] We've built all of these components from scratch ourselves, and we've designed it in a [00:37:35] way that it augments our physicians' quality, productivity, and [00:37:40] efficiency by an order of magnitude. So I'm one of the physicians who practices on our clinician [00:37:45] cockpit ourselves, and every day I sort of get to witness the types of advancement [00:37:50] we've made over traditional physician workflow systems.
+
+
+[00:37:54] How as [00:37:55] I'm having a conversation with a patient. I can almost instantly have access to [00:38:00] all of their medical records relevant to the type of question they're asking. How I [00:38:05] can instantly sift through millions of journal articles to have the one or two [00:38:10] articles most pertinent to how I'm treating this patient, how I can have suggestions on the way to [00:38:15] craft my message from a tone and empathy perspective to reach the patient in the most meaningful [00:38:20] way.
+
+
+[00:38:20] And so it's a software application that that truly does amplify the impact of our [00:38:25] doctors in terms of challenges we face as we're building the clinician cockpit. One that we often [00:38:30] encounter is almost this emotional resistance of physicians to want to give up [00:38:35] their practice autonomy. As a physician, there's something very threatening [00:38:40] about this idea that you've spent 10 or 15 years honing the [00:38:45] craft of medicine, and now there's a software application that is telling you what to [00:38:50] do or.
+
+
+[00:38:51] That in many ways is actually better than you are. And that can [00:38:55] really kind of hit against your core ego, uh, and your core sense of self in a very powerful [00:39:00] way. And we sort of see this moment when we bring a new physician onto the team. There's this [00:39:05] initial sense of disbelief and almost resistance of is this really happening?
+
+
+[00:39:09] Is this what [00:39:10] the world has come to? Is AI really this good at medicine? But over time, we find that [00:39:15] suddenly becomes optimism and hope, uh, in that the [00:39:20] quality of care this physician's able to deliver when using counsel is so much better than [00:39:25] they were able to do before. And many physicians are really conscientious.
+
+
+[00:39:28] They're driven by [00:39:30] this desire to help people. And over time we find that physicians come around and [00:39:35] they get really excited about the idea of having master AI clinicians helping them along 
+
+
+[00:39:39] Speaker 4: the way.[00:39:40] [00:39:45] [00:39:50] [00:39:55] [00:40:00] 
+
+
+[00:40:00] Yeah, 
+
+
+[00:40:00] Speaker 2: there there's three concepts that are often at tension when designing a platform like [00:40:05] this. One concept is efficiency, you know, the need to wanna see more [00:40:10] patients and increase productivity. The second component is quality, so wanting to [00:40:15] increase efficiency without actually sacrificing the quality.
+
+
+[00:40:17] Right? It's easy to see 50 patients an hour [00:40:20] if you're doing it in a way that is haphazard and just skimming the surface. And [00:40:25] then the third is effort. It turns out it's actually quite easy to deliver high quality care [00:40:30] if you're willing to expend a lot of money or effort, for example. [00:40:35] If I ask the patient a hundred questions about their symptoms before I give them a [00:40:40] diagnosis, I'm much more likely to be right, but I'm also much more likely to frustrate [00:40:45] the patient and have them leave the platform altogether.
+
+
+[00:40:47] And so we're constantly trying to balance these three [00:40:50] components, quality and safety, the efficiency and the effort, and trying to dial all of it in [00:40:55] the way that sort of best serves the end user, which in our case is patients. That being said, as a [00:41:00] physician-led organization, safety is the one that sort of trumps all others at all [00:41:05] times.
+
+
+[00:41:05] And we spend an extraordinary amount of effort, both in our AI evaluations and the way [00:41:10] we design our agents and architecture to maximize safety. One thing we [00:41:15] found is that AI chatbots on their own who try to practice medicine [00:41:20] without either being fine tuned for medical use cases or without having a [00:41:25] physician in the loop, will often take the liberties of over [00:41:30] escalating patients to in-person resources.
+
+
+[00:41:33] So if you go to a lot of the consumer [00:41:35] chat applications and you say you have chest pain, almost immediately it will tell you to go to the emergency room. [00:41:40] And while that is sort of the defensive, safe way to practice medicine, it [00:41:45] leads to a lot of unnecessary costs and expense in the healthcare system.
+
+
+[00:41:48] You have a lot of patients coming [00:41:50] to the ER in urgent care, so you don't need to be there. So for example, one of the things we focus a lot on is having [00:41:55] an agent specifically designed to detect emergencies with higher accuracy than [00:42:00] any chat bot alone. And when a potential emergency is detected, escalating [00:42:05] it to one of our doctors right away in the chat so that they can discern if it's true emergency or not.[00:42:10] 
+
+
+[00:42:10] And an example like that, you're sort of towing the line between wanting to do the [00:42:15] safest thing possible for the patient, but wanting to do it in a way that doesn't sort of over [00:42:20] utilize scarce healthcare resources, uh, that we have available. And so we are [00:42:25] constantly sort of grappling with those different dimensions, but far in a way, safety is the one we [00:42:30] index 
+
+
+[00:42:30] Speaker 4: on the most.[00:42:35] 
+
+
+[00:42:38] So, so we 
+
+
+[00:42:38] Speaker 2: find that [00:42:40] text is actually an incredible medium to preserve trust and empathy in these [00:42:45] interactions. One of the reasons for that is that we can craft our [00:42:50] messages in a way that best resonate with the user. From a reading level, tone and empathy [00:42:55] perspective, if I'm talking to an individual, it's very hard for me to mimic [00:43:00] their level of comprehension or their speaking style.
+
+
+[00:43:02] But when I'm doing it through text, I can sort of [00:43:05] change the language, the sentence structure, the tone in a way that really compels that particular [00:43:10] user. And the next patient can have a very different form of messaging that resonates with them. And [00:43:15] so one of the goals of our AI is to be able to craft the messages in a way that that best [00:43:20] connect with the end patient.
+
+
+[00:43:21] And we found that to be incredibly rewarding and meaningful for [00:43:25] patients. We've also found that because text-based interactions, there's a written record [00:43:30] of everything you've told the patient. We find that in conventional doctor's appointments, patients [00:43:35] may forget 80% of what you told them. And as soon as they leave the office, they may have very [00:43:40] little memory of the care plan, their instructions, what to do if things get [00:43:45] worse.
+
+
+[00:43:45] But with counsel, we find that patients often pull up the thread and can refer back to it, [00:43:50] and can get in touch with our doctors in a few hours, in a few days, or in a few weeks. [00:43:55] In conventional telemedicine, as soon as you hang up, you have no way to reach that provider again, and you may [00:44:00] never hear from them again.
+
+
+[00:44:01] But we're big believers in this feeling like a doctor in the family, [00:44:05] someone that you can ask one question to in the morning and sort of follow [00:44:10] up with whenever you want over any period of time. The feeling of a doctor never going away.[00:44:15] [00:44:20] [00:44:25] 
+
+
+[00:44:27] So early on we made the [00:44:30] argument that asynchronous care was rising in popularity so fast. [00:44:35] So many patients were sending messages to their providers on inbox. They were asking [00:44:40] questions on Google and chat GPT, that this deserved to be its own care setting in its own [00:44:45] specialty. And the idea of specialties in medicine is very fluid.
+
+
+[00:44:48] There are specialties [00:44:50] that started a hundred years ago and some that started just 20 years ago or 30 years ago. [00:44:55] And many specialties have been the result of a either a new form of [00:45:00] care or care settings. So for example. Intensivists started as [00:45:05] ICUs became more and more popular with the advent of ventilators.
+
+
+[00:45:09] Hospitalists [00:45:10] became popular in the 1990s as more and more patients were being hospitalized with more [00:45:15] complex conditions. So we felt like there was really good precedent for saying we can create a new [00:45:20] specialty if a new care setting gains enough popularity, whether that's the ICU, the inpatient [00:45:25] floor.
+
+
+[00:45:25] And it again, it felt like the mobile phone was this really fast [00:45:30] emerging care setting, this place where so much care was already being delivered, yet no physician was being [00:45:35] trained on the right way to deliver care in a text-based manner. And it [00:45:40] turns out, and we see this all the time at council, as we bring new physicians onto the team.
+
+
+[00:45:44] It's not [00:45:45] obvious how to deliver care via messaging. There's a certain style, a certain cadence, [00:45:50] a certain skillset that you have to acquire through practice and teaching. And a lot of what we do at council [00:45:55] is train physicians on how to be asynchronous on how do you deliver a text-based care that is [00:46:00] high quality and empathetic and accurate.
+
+
+[00:46:02] And so we felt like if it [00:46:05] didn't become its own specialty, it would continue to be something that physicians did on the side of their desk that [00:46:10] they assumed they knew how to do, but didn't actually spend the time getting better at it. And [00:46:15] by having it designated as more of its own field of medicine, we felt like there would be a [00:46:20] push for new quality metrics, new training protocols, new curriculum to help physicians be [00:46:25] really good at this type of care.[00:46:30] [00:46:35] [00:46:40] 
+
+
+[00:46:40] Speaker 4: Was there kind of accuracy failure to get 
+
+
+[00:46:43] Speaker 2: customers one. One of [00:46:45] the biggest challenges we faced with council help to date is feeling like [00:46:50] we had a really great, successful, well-functioning care model, [00:46:55] but then needing to work backwards into the right way to distribute this to [00:47:00] patients in the United States.
+
+
+[00:47:01] So much of paying for healthcare is defined by [00:47:05] these legacy payment infrastructure where you have to have a CPT code [00:47:10] and be in network with major insurers and the amount of bureaucracy and [00:47:15] complexity of the payment system makes it very hard to develop a new care model [00:47:20] that sits outside of that payment system and can still deliver care.
+
+
+[00:47:24] And so early on, [00:47:25] we found that a lot of times we had to shift the burden of paying for the care onto the [00:47:30] patient as opposed to the health plan or their insurer who [00:47:35] normally would pay for other types of care. And so one of the things we've spent a lot of our energy doing now is [00:47:40] advocating for payment reform, both at the government and state level to figure out what [00:47:45] are the right ways to compensate platforms like ours who are delivering care, [00:47:50] having AI augment that care, often delivering a higher quality [00:47:55] experience with lower wait times and more satisfaction, but doing it in a way that still gets [00:48:00] rewarded and compensated by the medical system.
+
+
+[00:48:02] And so payment reform [00:48:05] and distributing counsel in a way that despite how innovative the care model is [00:48:10] still fits within traditional distribution routes has been something we focused on. [00:48:15] We've also spent a lot of energy, I'd say. Explaining the [00:48:20] benefits of AI to the medical community in a way that feels non-threatening [00:48:25] to their underlying role in healthcare.
+
+
+[00:48:27] I think it can be very threatening for physicians to [00:48:30] feel like their jobs will be replaced or they won't be needed, and that's certainly not the case [00:48:35] we're making. Uh, you know, our goal from the beginning has been to multiply the [00:48:40] capacity of clinicians by 10 X-ing them, not by, you know, let's say replacing them all together.
+
+
+[00:48:44] And [00:48:45] so that tension, I think, is sort of in the undercurrent of the AI clinical, uh, [00:48:50] discussion these days, and one that we take very seriously. 
+
+
+[00:48:52] Speaker: And the next one is about medicine. [00:48:55] So medicine, which the sentence do not harm. So while startup [00:49:00] preach, move fast and break things, when this crashes, [00:49:05] which discipline do you prioritize?
+
+
+[00:49:07] I think you can start with a sentence like there is [00:49:10] sentence. Mm-hmm. 
+
+
+[00:49:12] Speaker 2: Yeah. One of the interesting things about building council [00:49:15] is that we're seeing two worlds collide. We have the world of medicine that is anchored around this principle [00:49:20] of do no harm, kind of core to the Hippocratic Oath. And in startups you have this adage of [00:49:25] move fast and break things.
+
+
+[00:49:26] This willingness to experiment, to try new things, to move quickly and [00:49:30] see what works. And those two worlds collide and come intention when building a platform like [00:49:35] Counsel, where we're a physician led company. It's very important for us to do no harm to the end [00:49:40] patient and to take risks in a very measured way.
+
+
+[00:49:43] But at the same time, we're pushing [00:49:45] forward a care model that has never before existed, where dreaming up a reality for how care should look like, [00:49:50] that requires us to be innovative, to think outside of the box, to be willing to take risks where [00:49:55] others haven't. And we do see those come into tension. I'd say a couple of things have guided us in [00:50:00] this discussion.
+
+
+[00:50:01] One is that there's a lot of harm from doing nothing as well, [00:50:05] right? Uh, clinicians often find that the only harm is the harm they caused by. A [00:50:10] misdiagnosis or using AI inappropriately, but it turns out not giving access to [00:50:15] care to billions of people, to allowing people to wait in lines outside [00:50:20] clinics in India and Southeast Asia is its own form of harm.
+
+
+[00:50:24] And one thing [00:50:25] we're really excited about is if we can multiply the world's clinical capacity, we can reduce the [00:50:30] silent harm, the latent harm we're doing by not having access, by having those patients go [00:50:35] without any conversation with a doctor. And so that's something that's really important to us. This idea that [00:50:40] harm isn't only from the actions you take, it's also from the actions you don't take from the people you don't see.
+
+
+[00:50:44] The [00:50:45] other thing is we've had to be mindful of where we turn the dial on being more innovative and taking [00:50:50] risks, and instead where we turn the dial safety and preserving, you know, overall patient [00:50:55] wellness. One thing that's been really nice about our care model is that we sort of get the best of both [00:51:00] worlds.
+
+
+[00:51:00] We can take risks with our AI because we have the safeguard of a [00:51:05] clinician in the loop. So even if we're moving fast and breaking things with the way our [00:51:10] AI is searching the medical record or suggesting a diagnosis or doing a translation, [00:51:15] we know we have this safety mechanism built in of the physician [00:51:20] guard railing and safeguarding, supervising many of these AI interactions.
+
+
+[00:51:24] [00:51:25] And to us, that's been an important balance to strike. If we had designed the company as [00:51:30] only an AI chatbot, we wouldn't have the luxury of, of moving fast and breaking things because we [00:51:35] would have no stopgap, no safety measure in place. Uh, but I think we've actually been able to be [00:51:40] very innovative, uh, 'cause of the way we've architected the core business.
+
+
+[00:51:43] Speaker: Excellent. How was, [00:51:45] has medical training shaped the way you as a CEO make high stakes [00:51:50] decisions under uncertainty? 
+
+
+[00:51:52] Speaker 2: I think medical training is a, is an amazing [00:51:55] platform for honing both leadership skills as well as decision making skills. There's been a [00:52:00] recent. Rise in physician founders who've gone on to be very successful in [00:52:05] building iconic category, defining companies.
+
+
+[00:52:07] And I think because there are these [00:52:10] takeaways from medical training. In medical training, you are often dealing with the highest [00:52:15] stake decisions You can imagine patients being rushed in with a heart attack or a [00:52:20] stroke being alone in the ICU at 2:00 AM with a, a patient whose [00:52:25] blood pressure is falling and who is not responding to any medications.
+
+
+[00:52:28] You're dealing with life or death [00:52:30] decisions. Do you take someone off a ventilator? How do you comfort a family member who's grieving the loss of their [00:52:35] son or daughter? And in those moments, you develop a certain resilience. You've [00:52:40] been really at the footsteps of. Human mortality of death, of your [00:52:45] own limits, your own exhaustion.
+
+
+[00:52:46] So many times that you build, I think this almost this [00:52:50] piggy bank having done really hard things of having made decisions that really were life or [00:52:55] death decisions for people. And it's not that it makes the decisions we face at council [00:53:00] any easier, but it does give me some confidence that we've made hard decisions before, [00:53:05] that we've operated in periods of uncertainty.
+
+
+[00:53:08] Um, and we've [00:53:10] sort of come out of that on the other side. And so in a way it gives you perspective, it gives you a sense of [00:53:15] reframing the types of decisions we're making today on should the button have a [00:53:20] curvature that looks like this or looks like that. And while these decisions are important, you sort of realize [00:53:25] that the magnitude of what we're 
+
+
+[00:53:25] Speaker 4: doing is actually much bigger.[00:53:30] [00:53:35] [00:53:40] [00:53:45] [00:53:50] 
+
+
+[00:53:51] The Stanford commencement 
+
+
+[00:53:52] Speaker 2: speech was, I'd say I'd mostly describe it, uh, [00:53:55] my own feeling as one of awe and awe of my classmates, of the professors, of [00:54:00] the researchers. And commencement is a, it's a really exciting [00:54:05] time because it marks the end of medical school, but really the commencing the beginning of our [00:54:10] journeys as physicians.
+
+
+[00:54:12] And what I remember being so struck by in that moment was [00:54:15] knowing that the a hundred of us there were going to go on to our different residencies across the [00:54:20] country, but being really inspired by the fact that. We don't yet [00:54:25] know what impact these a hundred people will have. But if we fast forward 20 years or 30 [00:54:30] years, many of those classmates are gonna go on to make groundbreaking discoveries in the life [00:54:35] sciences into new drug therapies.
+
+
+[00:54:37] They're gonna design new care models, new payment [00:54:40] infrastructure. And it felt really exciting to be at the ground level, the starting point of the [00:54:45] career of so many of the most amazing people I'd ever met, and to just wonder [00:54:50] what their contributions would one day be. So it was much less about myself, I think much more a moment of awe and [00:54:55] appreciation for the people around me and what I thought their careers would unfold into.
+
+
+[00:54:59] I [00:55:00] think at the time, none of us sort of had a way of knowing that large language models would burst onto the scene in [00:55:05] the way they, they, they have. But my own silent dream at that time was one day these [00:55:10] worlds of AI medicine would collide and we didn't know it would happen. [00:55:15] In the early 2020s, but I thought at some time it would, and, and my own hope was that when those worlds collide, [00:55:20] I'd be in a position to take advantage of that in terms of bringing new innovations and care to the world.[00:55:25] [00:55:30] [00:55:35] [00:55:40] 
+
+
+[00:55:44] [00:55:45] Yeah, with with medical ai, this is a totally new space, and so a lot of [00:55:50] both the ethics, the regulation, the observability of it is still being determined [00:55:55] and played out. I think a lot of what we view our role as is helping advance the conversation [00:56:00] in the medical ethics of AI and how should this be regulated?
+
+
+[00:56:03] If the AI makes a mistake, who does [00:56:05] the liability fall on the patient or the company, or the AI itself? And I [00:56:10] think we're still in the works of figuring a lot of these questions out. The other big ethical question again [00:56:15] is the one of omission, you know. Do you compare an AI to a [00:56:20] doctor or do you compare an AI to the act of doing nothing?
+
+
+[00:56:23] Right? And so you take a person [00:56:25] in, let's say rural India who may have no access to doctors. [00:56:30] Is it fair to compare the AI's performance to a doctor? Or should we actually compare the AI's performance [00:56:35] to what that patient would've done otherwise, which is probably to stay at home and do nothing and let their [00:56:40] illness get worse?
+
+
+[00:56:41] And so there are really interesting questions around how do you [00:56:45] compare an AI's performance? Who do you benchmark it against? What is the omission of care [00:56:50] look like? What's the impact of that? And is a well-functioning AI better than nothing [00:56:55] for a lot of people? And so I think we try to tackle a lot of those questions head on.
+
+
+[00:56:59] But again, [00:57:00] as a physician led company, I think our morality points us in a direction of do no harm [00:57:05] of only release products that we would. Sort of be willing for our own [00:57:10] family members to use and test. And I think a lot of us, myself and included, use counsel all the [00:57:15] time for ourselves and our own family.
+
+
+[00:57:16] And I think sort of a testament to the type of platform we want to build. [00:57:20] Where I trained for residency at Beth Israel, we sort of had this saying that we were the types of [00:57:25] physicians that you'd want your family members to go to. And a lot of that we've sort of carried into council as [00:57:30] well. What would it look like to build this AI human doctor construct [00:57:35] that not only would you be proud sharing with the world, but you would feel, you know, [00:57:40] excited to have your own family members used from their first breath to their final 
+
+
+[00:57:43] Speaker 4: wishes.[00:57:45] [00:57:50] 
+
+
+[00:57:54] We 
+
+
+[00:57:54] Speaker 2: [00:57:55] view technology as a great equalizer of disparities in the realm of [00:58:00] care. And so there's a few examples. Um, one is in the form of language, [00:58:05] uh, a lot of people who don't speak. English or even Spanish or marginalized from US [00:58:10] Healthcare because they may go to an appointment and be unable to communicate with their providers, or [00:58:15] they're communicating via interpreter phone lines and other platforms that just make the [00:58:20] care experience feel diluted and lower quality.
+
+
+[00:58:23] And doing this type of care in a [00:58:25] messaging based asynchronous manner means we can translate it to their language, to their reading level within [00:58:30] seconds and make it feel like a doctor basically designed for them is the one [00:58:35] taking care of them. So we think language and reading level is a big area where we can [00:58:40] bridge the gap.
+
+
+[00:58:40] The other one is in terms of quality. It still holds true that in many [00:58:45] rural parts of America, those are healthcare deserts. There is no access to healthcare within [00:58:50] 10 miles, 20 miles, even a hundred miles sometimes. Not only that, even in many major [00:58:55] metros, the quality of care varies greatly depending on where you live.
+
+
+[00:58:58] If you live in Boston or [00:59:00] New York or San Francisco or Houston, you may have access to the world expert in a particular [00:59:05] condition. But if you live elsewhere, you may be out of luck. And we view that as another disparity that can be [00:59:10] bridged with ai, with counsel, you can contact us wherever you are in the world and [00:59:15] get access to the best quality doctors within minutes, and we view that as another [00:59:20] way to bridge the gap.
+
+
+[00:59:21] You know, it's interesting today the wealthy often rely on [00:59:25] concierge doctors because concierge doctors are probably the closest thing we have to [00:59:30] always available. Hyper-personalized, very knowledgeable. We [00:59:35] actually think what we're building supersedes even the quality, access and [00:59:40] knowledge of a concierge doctor.
+
+
+[00:59:41] And we actually think in the future, people for the cost of [00:59:45] compute will have access to these perfect doctors that far exceed the capabilities of even the best [00:59:50] concierge doctor in the country, such that no matter what socioeconomic class you're part of, [00:59:55] you get access to healthcare that feels many times better than the richest have access to today.[01:00:00] [01:00:05] [01:00:10] [01:00:15] 
+
+
+[01:00:16] These models of primary care, which loosely [01:00:20] primary care, is this idea that you need a single physician who is your [01:00:25] first point of contact, your primary point of contact for any medical issue that arises, [01:00:30] and that person becomes the one who then navigates or guides you into the rest of the [01:00:35] complex healthcare system.
+
+
+[01:00:36] This model originated in the UK about a [01:00:40] hundred years ago, and the reason it originated is that [01:00:45] suburbs as a concept were starting to gain popularity. People were moving away from the city center [01:00:50] and they were starting to live in these small towns, but living in the small towns, it wasn't [01:00:55] clear to people when they had to go into the city to see specialists.
+
+
+[01:00:58] So was it worth making the two [01:01:00] hour journey to London to go see a pulmonologist or infectious disease specialist? And so [01:01:05] the country had this idea of having these primary care doctors who would reside in the [01:01:10] very suburbs the people lived in, and it would be a doctor that could come to your house that could [01:01:15] see you right away, and then help you make the decision on when to go into the city and when the [01:01:20] issue could be resolved locally.
+
+
+[01:01:21] What's interesting is models service well for [01:01:25] decades, but we are starting to see it fray and perhaps collapse at the edges. [01:01:30] It, for many reasons, doesn't exactly make sense anymore that there should only be [01:01:35] one doctor that you're confined to seeing, and that this one doctor would have enough [01:01:40] memory or knowledge to take care of you in the best way possible, let [01:01:45] alone the fact that in many cities, even finding a primary care physician can take weeks.
+
+
+[01:01:49] [01:01:50] And so we're already starting to see this model sort of. Reach its natural [01:01:55] conclusion. And as new technology components arise, AI Cloud, [01:02:00] digital Mobile, we're finding that these models, they feel a bit out of [01:02:05] place. In a way, it's almost like a landline versus a smartphone. And when [01:02:10] smartphones became really popular, more and more families started to turn off or, or get rid of their landlines.[01:02:15] 
+
+
+[01:02:15] And what we think will likely happen, and it's hard to predict the future, but what we think will [01:02:20] likely happen in the next decade is new virtual first care models will [01:02:25] emerge. Like counsel, where you can have this perfect doctor in your pocket at all times. [01:02:30] And over time, that will feel like a much smarter and higher quality offering [01:02:35] than the primary care physicians we have today.
+
+
+[01:02:37] And we even wonder sometimes, will we tell [01:02:40] our children in 20 or 30 years about this concept of primary care doctors and will they look at us [01:02:45] with sort of admiration and wonder at this idea that there was only a single person and. [01:02:50] They didn't really remember your medical records and if you traveled, you couldn't really get access to them.
+
+
+[01:02:54] And, [01:02:55] and maybe one day that'll all feel a bit, uh, old 
+
+
+[01:02:57] Speaker 4: fashioned[01:03:00] [01:03:05] [01:03:10] [01:03:15] [01:03:20] 
+
+
+[01:03:21] Growing 
+
+
+[01:03:22] Speaker 2: up and, and even during my medical training, I spent a lot of time [01:03:25] overseas, both in the UK and India, seeing medicine practice in different healthcare [01:03:30] systems and environments. And what I was struck by is that many of the problems that feel so [01:03:35] grave in the United States are very similar problems to the ones we face all around the world.
+
+
+[01:03:39] [01:03:40] Regardless of whether you're a single payer healthcare system or privatized healthcare, those problems [01:03:45] around access and quality remain the same. And the ambition of council as a company has always been to [01:03:50] think in the billions. You know, how do we impact the next 10 billion people? Which very much means [01:03:55] how do we impact people around the world?
+
+
+[01:03:56] How do we solve an access and quality challenge that plagues not [01:04:00] just our healthcare system, but nearly every country out there? And so we very much [01:04:05] have a vision of deploying platforms like counsel, these perfect doctors in your [01:04:10] pocket to the next 10 billion people. And we often have this belief that in the future when you have a [01:04:15] child, you may enroll them for a social security number and a [01:04:20] passport, and access to an account with a platform like counsel.
+
+
+[01:04:23] And from their very first [01:04:25] days on the planet, their medical records, their conversations, their health [01:04:30] issues will be cataloged in a single place. That will persist with them throughout their life and [01:04:35] will help them make decisions, will help them get care through every one of those inflection points across their lives.[01:04:40] 
+
+
+[01:04:40] And we view that being a, a, a global need, not only a US need. And when we think about [01:04:45] internationalizing a platform like council, there's many aspects to AI and human [01:04:50] care that make this really advantageous. One is our ability to transcend language barriers. [01:04:55] We can very easily go from English as the only language to multiple languages, hundreds of languages [01:05:00] very, very quickly.
+
+
+[01:05:01] We can also bridge the digital divide in many developing countries. [01:05:05] The mobile phone is the most used sort of advice in many of these countries, [01:05:10] commerce and banking. And so much more is done through WhatsApp and through phones. And [01:05:15] we can leverage platforms like that to now deliver 
+
+
+[01:05:17] Speaker 4: healthcare.[01:05:20] [01:05:25] 
+
+
+[01:05:27] Speaker 2: So there are many bottlenecks we [01:05:30] see sort of beyond the initial primary care bottleneck. A very obvious bottleneck that will follow [01:05:35] is specialty care. This idea that for many conditions there may only be a handful of [01:05:40] experts in the country or in the world who treat that particular condition. And today, [01:05:45] people fly across the world to see one of these experts for their conditions.
+
+
+[01:05:48] There's many stories of [01:05:50] patients who fly monthly to the Mayo Clinic to see the one expert who treats their [01:05:55] specific autoimmune or neurologic condition. And we believe that [01:06:00] AI will make it such that specialties as a human construct may not even need to exist. [01:06:05] If you think of what a medical specialty is, it's really a finite body of [01:06:10] knowledge that we've sort of drawn a line around.
+
+
+[01:06:12] Because that's what humans sort of have the mental [01:06:15] capacity to learn, right? So no human is sort of intelligent enough to know everything [01:06:20] about every field of medicine. And so we've created these specialties as human constructs to [01:06:25] help us make sense of the vast body of knowledge. But we view AI as a re aggregator [01:06:30] of specialties, uh, and AI with sufficient compute and inference can actually know the [01:06:35] entire body of medicine.
+
+
+[01:06:36] It doesn't have to be segmented into specialties. And so we do envision a [01:06:40] future where those specialties melt away. Where the doctor you go to is the doctor you go to [01:06:45] for everything, and you don't have to worry about am I seeing a. [01:06:50] Cardiologist or a neuro neurologist or a neuro oncologist, and instead it's just a single [01:06:55] front door for all of your care.
+
+
+[01:06:56] And we view that as being a bottleneck. That should be eliminated as [01:07:00] well. And we also view the form factor of messaging as something that [01:07:05] some people may love, but other people may prefer voice or video as how they want to communicate with their [01:07:10] doctors. And at council, we very much believe that AI can help us bridge multiple [01:07:15] communication modalities.
+
+
+[01:07:16] All of the care doesn't have to be via messaging. It can be via voice, [01:07:20] video, and, and other means as well. And, and we think we can deliver all of 
+
+
+[01:07:23] Speaker 4: those with high quality.[01:07:25] [01:07:30] [01:07:35] [01:07:40] 
+
+
+[01:07:41] Speaker 2: A couple of areas that we're excited to tackle in the future, but we've chosen not to [01:07:45] focus on immediately. One of them is performing this type of AI plus [01:07:50] doctor care in live video interactions and live phone [01:07:55] calls. The challenge with doing AI care and video and phone is that [01:08:00] everything is happening in real time, and so it's really hard to have an AI [01:08:05] intercept, a patient doctor conversation to provide context, [01:08:10] to suggest a diagnosis to translate.
+
+
+[01:08:12] All of those things become much harder when you don't have [01:08:15] these natural breaks in the conversation every turn. That is a solvable problem in one [01:08:20] we're excited to solve, but one we will likely tackle in the near future as opposed to right now. [01:08:25] The other one is subspecialty medicine, and so in the conditions where there's [01:08:30] only a few world expert physicians that tackle that area, there's a number of things that need to be [01:08:35] done to provide care in that area.
+
+
+[01:08:36] We have to. Obtain a set of knowledge that today may not [01:08:40] even be captured in textbooks and only lives in that expert's mind. And we have to codify that [01:08:45] knowledge and fine tune that knowledge into our models. And those are, again, problems that we wanna solve [01:08:50] because we wanna make it where no matter what condition you have, where in the world you can access the best care from [01:08:55] your phone.
+
+
+[01:08:55] And, uh, I think those are problems we'll solve in the future as 
+
+
+[01:08:58] Speaker 4: well.[01:09:00] [01:09:05] [01:09:10] [01:09:15] 
+
+
+[01:09:15] Speaker 2: I'd say the world as we know it in healthcare in most industries, will probably [01:09:20] change fundamentally over the next five years. There's going to be a massive reshuffling [01:09:25] of norms and paradigms, the way we interact with a lawyer, a doctor, [01:09:30] and account. Even an investor will change greatly in the next five years.[01:09:35] 
+
+
+[01:09:35] And I think one piece of advice that's really helpful is not solving perhaps for the next five [01:09:40] years, but solving for what the world will look like as a result of this reshuffling. If [01:09:45] it's the case that everyone is accessing care via their phone, what does that mean in terms of [01:09:50] computational and video needs on a phone?
+
+
+[01:09:53] What does that mean for how we structure [01:09:55] pharmacies, how we perform infusions? Does that mean we need to lean on at [01:10:00] home phlebotomy more than retail phlebotomy? And so I think it's a bit of [01:10:05] thinking, not where, where's the puck today, but where's the puck headed and how is the world gonna fundamentally [01:10:10] transform?
+
+
+[01:10:10] And what are the new needs and challenges that will arise? I think that's really important. I [01:10:15] think the other is to make sure that founders are coming at this from a multidisciplinary angle. It can be [01:10:20] easy to get caught only in a single domain. For example, ai. And at that [01:10:25] point, it's sort of like a hammer where everything looks like a nail, where you start to approach every problem from an AI [01:10:30] only perspective.
+
+
+[01:10:31] And I think it's really important to bring people across the table that [01:10:35] have expertise across different disciplines, people who've run insurance [01:10:40] companies and health plans, people who've orchestrated large care, delivery organizations, doctors [01:10:45] at the front line, AI researchers, and, and having those different voices come together to come [01:10:50] up with the most innovative 
+
+
+[01:10:50] Speaker 4: solutions.[01:10:55] [01:11:00] 
+
+
+[01:11:01] One of 
+
+
+[01:11:02] Speaker 2: the things that I've found as a founder is there are [01:11:05] always so many fires, so to speak, going on at the company or in the business. [01:11:10] And it's really impossible to devote your full attention to all of those fires at one time. [01:11:15] And if you try, you end up doing a subpar job across the board. Okay. [01:11:20] One of the things that I think medicine has really taught me is the ability to identify out of [01:11:25] 20 patients you may be taking care of, who are the one or two patients that need all your attention right [01:11:30] now?
+
+
+[01:11:30] And how do you really focus in an outsized way on the couple of problems [01:11:35] in this case, patients that matter the most while you let others stabilize, you know, [01:11:40] take care of themselves. And I think being a founder is very similar, where when you're looking across maybe [01:11:45] 20 fires to the company, having the ability to figure out what are the one or two that you are [01:11:50] most well suited to solve and contribute to, and trusting your team and [01:11:55] trusting the business you've built to handle the other fires in a responsible way.
+
+
+[01:11:59] So it's really [01:12:00] a matter of prioritization. And, and of knowing where to really pour your energy into at [01:12:05] any given time. I have found that really helpful from a time management perspective. I think it also helps [01:12:10] incredibly to build the best team and to surround yourself with people that are better in their [01:12:15] domain than you are such that you have both immense trust and faith in their [01:12:20] responsibility and their ability to contribute in that way.
+
+
+[01:12:21] And so all the time we'll encounter new challenges where I [01:12:25] feel so confident and excited to hand that off to someone on the team that has been a world [01:12:30] expert, let's say in this discipline.[01:12:35] 
+
+
+[01:12:38] I'd say one. One of the [01:12:40] things that we believe really strongly is that almost all of the cognitive aspects of [01:12:45] practicing medicine, the diagnosis, the decision making, the literature review, the chart [01:12:50] review, almost all of the cognitive aspects will likely be performed by an [01:12:55] AI better than by a doctor over the course of time.
+
+
+[01:12:58] We may not be there today a. [01:13:00] But the pace of progress, the pace of improvement, the scaling laws point to [01:13:05] almost any cognitive responsibility in the practice of medicine being performed [01:13:10] in a higher quality, lower cost way by AI over time. And again, that can be a [01:13:15] very threatening belief to adopt as a physician.
+
+
+[01:13:18] It really sort of [01:13:20] cuts at the core of who am I? What is our place as humans on the world? What are we really [01:13:25] good at? But, but I think it's something that we believe will be true, and we've learned to embrace that. We've learned to [01:13:30] believe that if that is true, what are the positive benefits that arise?
+
+
+[01:13:34] What does that [01:13:35] mean in terms of the number of patients we can help, the type of care we can deliver? What does it feel like to never miss [01:13:40] a diagnosis, to always get to the right treatment and to look at the upsides of 
+
+
+[01:13:44] Speaker 4: [01:13:45] that type of dynamic?[01:13:50] 
+
+
+[01:13:53] Of course, I 
+
+
+[01:13:53] Speaker 2: think we as a [01:13:55] company want to be remembered for immense contributions. To the field of [01:14:00] medicine, namely in helping the world introduce a new paradigm of [01:14:05] AI enabled care that feels perfect in really every way. [01:14:10] And that moves care from being scarce to being abundant, from being [01:14:15] expensive, to being delivered at the cost of compute.
+
+
+[01:14:17] So I think those fundamental contributions [01:14:20] to the field of medicine. What is it like to practice care in this new hybrid AI doctor [01:14:25] way? I think we want to be really foundational in, but as a company, I think we also wanna be [01:14:30] remembered operators who carried ourselves with high integrity, with a strong sense of [01:14:35] morality, with treating other people with kindness and fairness of, of sort of [01:14:40] going about operating the business in really the most ethical and highest integrity [01:14:45] way.
+
+
+[01:14:45] And I think that's really important for there to be, uh, uh, sort of synergy [01:14:50] and consonance between. The way we operate as people and the type of business we're building, we think [01:14:55] it's really hard to operate in an unfaithful or competitive or sharp elbowed way, yet be [01:15:00] building a company that we think is gonna have an immense impact on the next 10 billion people.
+
+
+[01:15:04] And so when we [01:15:05] think about investors, when we think about hiring, when we think about our team or even our customers, we [01:15:10] really do screen for, you know, are these the type of people with the integrity and, and the moral [01:15:15] character that we think are fit to build this type of business. 
+
+
+[01:15:17] Speaker: The EO audience, you know, you [01:15:20] could remember all the one message from today's conversation.
+
+
+[01:15:23] What should it be? [01:15:25] 
+
+
+[01:15:25] Speaker 2: For most of our lives, healthcare has probably felt disappointing and [01:15:30] expensive and frustrating. But at Council Health, we're extremely optimistic that in our [01:15:35] lifetime and hopefully even in the next few years, we will have perfect [01:15:40] doctors in their knowledge, their personalization, and their access available [01:15:45] to every person on the planet at nearly the cost of compute.
+
+
+[01:15:48] And we think that future is not [01:15:50] far away. And we often say this may be the best time in the history of humanity to to be [01:15:55] born because we really do hope the next 10 billion people have access to 
+
+
+[01:15:59] Speaker 4: perfect care.[01:16:00] [01:16:05] [01:16:10] [01:16:15] [01:16:20] [01:16:25] 
+
+
+[01:16:29] I think what we 
+
+
+[01:16:29] Speaker 2: [01:16:30] found from talking to a lot of investors was a supreme optimism for what the world would look [01:16:35] like in 10 years. So the type of business we're building, uh, there's a lot of [01:16:40] complexity in the short term in the next six months, in the next year. How do you get paid? How do you distribute?[01:16:45] 
+
+
+[01:16:45] But I think a lot of us believe that if we were to close our eyes and wake up in 10 years. [01:16:50] Undoubtedly we'd enter a world where we all had access to the best quality care [01:16:55] within minutes, likely on our phone anytime we wanted. And it would be [01:17:00] essentially free or at the cost of compute. And I think so many investors we talked to also [01:17:05] shared that belief.
+
+
+[01:17:06] The path from here to there may be rocky, it may be uncertain, [01:17:10] but there's definitely a destination where healthcare is abundant. It's high [01:17:15] quality, it's personalized, it's available to everyone, and it feels completely different than it does [01:17:20] today. And I think there are, uh, very few companies credibly [01:17:25] pursuing that end state in the way that we are with an in-house physician [01:17:30] group, with a company that's both physician led and also AI led, uh, in [01:17:35] thinking through all of the fundamental parameters of how care is delivered.
+
+
+[01:17:39] How is care [01:17:40] quality measured? What needs to be taken into account from a safety and ethics perspective? [01:17:45] And I think we've done a good job of sort of being a leader across many of those dimensions. And so we were fortunate to have [01:17:50] significant interest in our series a far ahead of when we were planning to raise the round amongst [01:17:55] some of the most iconic investors in the space.
+
+
+[01:17:57] And we're excited to bring that 
+
+
+[01:17:58] Speaker 4: group together[01:18:00] [01:18:05] [01:18:10] [01:18:15] [01:18:20] 
+
+
+[01:18:24] Speaker 2: at council. We've [01:18:25] always believed in bringing together the best individuals from different disciplines. So [01:18:30] what is the vanguard of AI research, of clinical medicine, of payer provider [01:18:35] distribution look like and how do we bring those people? Around the same table [01:18:40] to have those ideas convene and to get to the best solutions.
+
+
+[01:18:43] As we think about our fundraising [01:18:45] strategy, it looks very similar. How do we take investors that have spanned the [01:18:50] disciplines of life sciences, of healthcare services, of AI research? We look for [01:18:55] individuals who are uniquely multifaceted, multi-talented, and those have [01:19:00] been the investors that we've been most excited about.
+
+
+[01:19:01] And we, we've been lucky in that this [01:19:05] space has been extremely, um, uh, it's been of extreme interest to a lot of investment [01:19:10] firms because of their strong thesis that this type of care will exist in the future. [01:19:15] And that council is a company that is already leading in the way we're thinking about the care models of the [01:19:20] future, thinking about how to design these systems.
+
+
+[01:19:22] And so, yeah, so very simply, [01:19:25] we, we've gone out, sort of asked who are the best investors in the space with multiple different [01:19:30] talents? And, and the capital is sort of back a very ambitious, but hopefully paradigm changing [01:19:35] bet 
+
+
+[01:19:35] Speaker 4: in this.[01:19:40] [01:19:45] 
+
+
+[01:19:49] In a space [01:19:50] like 
+
+
+[01:19:50] Speaker 2: ours, we look for investors who we don't have to convince [01:19:55] of a certain vision, but yet who already have believed that vision and were looking for the [01:20:00] company that shared that vision with them. In both the case of A 16 Z [01:20:05] and gv, we found that both of those investment teams had spent a huge amount of [01:20:10] time in this space crafting their own point of view and their own vision for what [01:20:15] care would look like.
+
+
+[01:20:16] And when we both sort of uncovered what our vision was and what theirs [01:20:20] was, we found there was striking similarity. And that's what gets us most excited. If we have [01:20:25] to convince an investor about a vision over many conversations. That often means that either we [01:20:30] actually fundamentally disagree on the vision or they're following our lead [01:20:35] without sort of having crafted their own opinion and a perspective first.
+
+
+[01:20:38] And we've been very lucky with our lead [01:20:40] investors where, um, they've been thought leaders in the space for decades. They've crafted their own [01:20:45] points of view in a very strong first principles manner. And we happen to [01:20:50] share a huge amount of alignment in where we think the future of care is going.[01:20:55] [01:21:00] 
+
+
+[01:21:01] Speaker 4: So 
+
+
+[01:21:02] Speaker 2: with more capital, we've been able to unlock expansion [01:21:05] across a few very important domains. One of them is clinical reach. Our [01:21:10] medical group is now live in all 50 states, and that's at both an expensive and time consuming [01:21:15] endeavor. Uh, but one that we've taken underway. In order to provide the [01:21:20] safest, highest quality care in our care model, it's also allowed us to tackle clinical [01:21:25] breadth.
+
+
+[01:21:25] When we started as a company, we focused primarily on medical advice and [01:21:30] triage. We now handle a huge variety of urgent care medical concerns, [01:21:35] and we're also expanding into chronic conditions and lifestyle conditions, support. And over [01:21:40] time we view a platform like Counsel as one that can con continue to expand its clinical breadth.[01:21:45] 
+
+
+[01:21:45] We can take care of more and more of a person's care needs in a given period of time [01:21:50] and have less and less reliance on that patient needing to go elsewhere for parts of their [01:21:55] care. And then finally it's been, it's allowed us to attract the very best AI talent in the [01:22:00] world. As we were building council, we identified a handful of people in the world who had [01:22:05] sort of devoted their careers to clinical AI decision making at the highest level.[01:22:10] 
+
+
+[01:22:10] And a lot of our focus at council is having those folks come [01:22:15] together and to work on this mission collectively, to join together their talent, their [01:22:20] insights, their time to propel this mission. And it's allowed us to go after some of that best [01:22:25] talent and bring them to the same 
+
+
+[01:22:25] Speaker 4: place.[01:22:30] 
+
+
+[01:22:34] Speaker 2: We've always [01:22:35] been very careful when taking on more capital because we know there's responsibility that comes with that as [01:22:40] well. And so a lot of our decision making around the fundraise was specifically [01:22:45] how would this excess capital allow us to unlock a type of care, experience and [01:22:50] patient experience?
+
+
+[01:22:51] That was a step change over what we could have done, done otherwise. [01:22:55] And we found that more capital would unlock broader clinical geographic [01:23:00] reach, more clinical use cases we could tackle and better talent in the AI world. [01:23:05] That would allow us to advance our clinical AI paradigms and the quality of care we're [01:23:10] delivering.
+
+
+[01:23:10] And when we got confident with that realization is when we felt 
+
+
+[01:23:13] Speaker 5: really excited about [01:23:15] taking on more money.[01:23:20] 
+
+
+[01:23:20] So 2025 has been 
+
+
+[01:23:21] Speaker 2: a a banner year for us so far. We have five x [01:23:25] star revenue so far compared to this time last year. We've over 10 x the [01:23:30] number of patients we're now available to, which will exceed millions of patients by the end [01:23:35] of the year. And we've also improved our care model on almost every dimension.
+
+
+[01:23:39] [01:23:40] Physicians at council can now see upwards of 20 patients per hour with a higher [01:23:45] quality of care than they could without using council's AI assistance. [01:23:50] We resolved 96% of our medical concerns from patients within a few [01:23:55] minutes or less, and the average response time of one of our doctors to a patient [01:24:00] question.
+
+
+[01:24:00] Is now under two minutes, which is some of the fastest access to [01:24:05] care and access to a doctor really anywhere in the world. Today. We're also finding that we're [01:24:10] saving members and health plans about [01:24:15] $380 per member per year by avoiding and eliminating downstream expenses. [01:24:20] So that means fewer, unnecessary emergency room visits, fewer urgent care visits, fewer [01:24:25] specialist visits, and as a result, we're able to make a meaningful dent in the [01:24:30] medical waste and cost increases year over 
+
+
+[01:24:32] Speaker 4: year in healthcare.[01:24:35] [01:24:40] [01:24:45] 
+
+
+[01:24:45] Speaker 2: So one of our primary milestones is around patient reach, and we'd love for [01:24:50] council over the next one to two years to be available to tens of millions of people across [01:24:55] both the United States and potentially around the world. We're also really focused on clinical [01:25:00] quality today, council elevates the quality of care by 13% [01:25:05] compared to unaided physicians.
+
+
+[01:25:07] In the future, we'd love to see a world where council is not [01:25:10] only increasing capacity by five X or 10 x, but we're doing that with quality improvements that [01:25:15] exceed 20% across the board. And then finally, from an access to care [01:25:20] perspective today, our response times to patient messages are under two minutes, but even two [01:25:25] minutes can feel like a world of time when a patient is really in a dire medical emergency.[01:25:30] 
+
+
+[01:25:30] And so we'd like to drive down that access time in response time to under 60 [01:25:35] seconds.[01:25:40] 
+
+
+[01:25:41] Speaker 4: The 
+
+
+[01:25:42] Speaker 2: ultimate scale of our vision is we want to [01:25:45] deliver perfect care from a combination of AI and human doctors [01:25:50] at the cost of compute to the next 10 billion people on the planet. And we want to fundamentally [01:25:55] redefine, reimagine. What care should look like for the next century using modern [01:26:00] technology components.[01:26:05] [01:26:10] 
+
+
+[01:26:13] Speaker 4: My name is 
+
+
+[01:26:13] Speaker 2: MuTu Ein. [01:26:15] I'm the founder and CEO at Council Health. I'm a physician by training, but spent the [01:26:20] early part of my career as an AI researcher at Stanford and have spent the last many years [01:26:25] building health technology companies. Council Health is an AI enabled virtual care company. We're [01:26:30] redefining virtual care for the modern era, and our hope is that we can multiply the [01:26:35] world's clinical capacity by creating perfect doctors, a combination of [01:26:40] AI and our in-house medical group to deliver the highest quality care to the next [01:26:45] 10 billion people.
+
+
+[01:26:46] With counsel, we allow patients to text a doctor at any [01:26:50] time and get the highest quality advice and care within minutes. What [01:26:55] many patients describe to us as feeling like they have a 
+
+
+[01:26:57] Speaker 5: doctor in their pocket.[01:27:00] 
+
+
+[01:27:03] Today we're 
+
+
+[01:27:03] Speaker 2: really excited to [01:27:05] announce our $25 million series A co-led by Andreessen Horowitz, a 16 [01:27:10] Z and gv. This fundraising marks our expansion into new clinical [01:27:15] use cases, into being live across all 50 states and to [01:27:20] unlocking new AI technology and innovations that will elevate the standard of care we're delivering to 
+
+
+[01:27:24] Speaker 4: [01:27:25] all of our members.[01:27:30] [01:27:35] [01:27:40] [01:27:45] [01:27:50] [01:27:55] [01:28:00] 
+
+
+[01:28:03] When building a 
+
+
+[01:28:04] Speaker 2: company like [01:28:05] Council Health, there are two themes constantly. Intention. One is the medical [01:28:10] theme and premise of Do No Harm, the Hippocratic Oath, and the other is the startup [01:28:15] adage of move fast and break things. The idea that only by taking risks and moving quickly, can you [01:28:20] truly unlock innovation at scale.
+
+
+[01:28:23] When building a medical grade [01:28:25] AI care delivery platform like council, those two things could be at odds, but we found a [01:28:30] really elegant way to resolve them. First and foremost, we focus on do no harm. [01:28:35] How do we ensure that everything we deploy, every aspect of the care model, not only has [01:28:40] physician supervision baked in, but also has been evaluated and tested [01:28:45] to be high quality, safe and at the very least exceeding [01:28:50] the performance of the world's very best doctors.
+
+
+[01:28:53] At the same time, because we [01:28:55] have an in-house physician group, we're able to safeguard our ai, where we can have our [01:29:00] AI take risks, be more innovative in the way the AI is [01:29:05] suggesting diagnoses and reviewing the literature knowing that all of those things will be safeguarded [01:29:10] and supervised by a physician in the loop.
+
+
+[01:29:12] In that way, we get to enjoy the best of both [01:29:15] worlds. We get to make sure the end patient experiences no harm yet at the same time, we can [01:29:20] have our AI. Push the boundaries of what AI is capable 
+
+
+[01:29:23] Speaker 4: of.[01:29:25] [01:29:30] 
+
+
+[01:29:33] Um.[01:29:35] [01:29:40] [01:29:45] [01:29:50] [01:29:55] [01:30:00] [01:30:05] [01:30:10] [01:30:15] [01:30:20] [01:30:25] [01:30:30] [01:30:35] [01:30:40] [01:30:45] [01:30:50] [01:30:55] [01:31:00] [01:31:05] [01:31:10] [01:31:15] [01:31:20] [01:31:25] [01:31:30] 
+
+
+[01:31:33] As 
+
+
+[01:31:34] Speaker 2: a founder, one of [01:31:35] the. Issues you deal with all the time is that there are constantly fires across the [01:31:40] business, maybe 10 or 20, and it's really impossible to focus on all of them at one time. And [01:31:45] if you try to, you find that you actually end up doing a subpar job on any one of them. One [01:31:50] of the great things about medical training is it trains you for this very, very issue in [01:31:55] medicine, you may have 20 patients you're taking care of in a hospital.
+
+
+[01:31:58] And one of the skills you have to develop [01:32:00] is how do you identify the one or two patients who need your help the most? And how do you [01:32:05] spend an outsized proportion of your time on the patients who are the most critically ill [01:32:10] and for who your interventions can make the most difference? And it turns out that's a very [01:32:15] similar challenge that you face as a founder.
+
+
+[01:32:17] And so at council, even though we may feel like [01:32:20] there are many different problems going on at one time, many different fires, uh, [01:32:25] I like to identify where are the one or two areas where my skillset, my [01:32:30] context, can make the biggest difference. And then most importantly, how do we empower our team where [01:32:35] we've already recruited some of the best across AI and clinical medicine and and go to [01:32:40] market, and how do we enable them to choose their fires that they can best work on?[01:32:45] 
+
+
+[01:32:45] And as a result, we end up with a really good outcome, one that empowers the team, and one that [01:32:50] allows each of us to focus on the areas where we have unique [01:32:55] [01:33:00] [01:33:05] [01:33:10] superpowers.

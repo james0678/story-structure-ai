@@ -1,0 +1,932 @@
+﻿Selects_ALL
+===
+
+
+[00:00:00] Speaker: CEO of radical ai. Yes. Okay, thank you. Yep, no problem. 
+
+
+[00:00:03] Speaker 2: Okay, then let's begin. [00:00:05] So it's truly wonderful to meet you. So, uh, could you [00:00:10] introduce yourself and what you are doing now for our viewers? 
+
+
+[00:00:13] Speaker: Sure. Absolutely. [00:00:15] My name is Joseph. I am the co-founder and CEO of radical ai. And what [00:00:20] we are building at Radical AI is artificial general intelligence for science.
+
+
+[00:00:24] We [00:00:25] are recreating the way we do the scientific process with AI and [00:00:30] autonomy at the center so that we can drive some of the most important advancements inside [00:00:35] materials for the most important technology industries in the world. Thank 
+
+
+[00:00:38] Speaker 2: you for that. [00:00:40] Uh, before we dive into the electrical ai, I want to ask about your [00:00:45] childhood.
+
+
+[00:00:45] Sure. So every great journey begins somewhere. What was, what was [00:00:50] your childhood like and where did you grow up and what kind of kid were you? 
+
+
+[00:00:54] Speaker: Sure? [00:00:55] I grew up outside of Philadelphia, so not too far from New York. Um. I was a [00:01:00] very exploratory person as a child, but also disciplined and [00:01:05] really lived by the rules, was afraid of getting in trouble and what my parents called a rule [00:01:10] follower, which ended up, I think, moving into to why I did military service later on in, in our, in my [00:01:15] career.
+
+
+[00:01:15] And really always had a knack for science. Knew I [00:01:20] wanted to be involved in science or was exploring science. Pretty young, [00:01:25] probably grade school into high school and had taken classes all around that technology. [00:01:30] Uh, and knew that's what I wanted to go study in college as well. Yeah. 
+
+
+[00:01:33] Speaker 2: Hmm. I think, [00:01:35] uh, uh, what were your parents like and do you have, uh, [00:01:40] what was the atmosphere at home?
+
+
+[00:01:41] Speaker: Sure. My parents are the reason I am where I am [00:01:45] today. They're the most supportive and loving people that I [00:01:50] probably have ever encountered outside of, uh, my wife as well. And I think the thing that they taught [00:01:55] me the most was to never give. Which I think is one of the most important lessons an entrepreneur can learn [00:02:00] early on, as well as to do everything you're going to do with a hundred percent [00:02:05] if you're going to do something, then you might as well really make it the best it can possibly [00:02:10] be.
+
+
+[00:02:10] And I've thought about that a lot in everything that I've done in my life and they have been in [00:02:15] incredibly supportive in every decision I've made through that, which I think is helpful. I think [00:02:20] when you're young, for a lot of people, parents are your guiding light, for lack of a [00:02:25] better word, meaning that's who you look to for approval or acceptance or even direction on the [00:02:30] steps that you're gonna take.
+
+
+[00:02:31] And for me, regardless of when I wanted to go to [00:02:35] graduate school, to when I wanted to drop out of graduate school, uh, my parents were there and [00:02:40] kind of helped me think through my decisions and again, we're this supportive force that also told me to [00:02:45] go, go for the big things. And I think it was incredibly transformative as a child 
+
+
+[00:02:48] Speaker 3: and as a young adult.[00:02:50] [00:02:55] [00:03:00] [00:03:05] [00:03:10] [00:03:15] 
+
+
+[00:03:16] So I think my 
+
+
+[00:03:17] Speaker: ability to ask why is much better today [00:03:20] being in startups at radical ai, we think that is one of the most important questions that you can ask is [00:03:25] why I actually think younger on, I struggled with that question [00:03:30] more so from the perspective of not always challenging the status quo, [00:03:35] not always having the ability to question whether what I heard something was truth [00:03:40] or not.
+
+
+[00:03:41] Especially when it came to things like thinking outside the box, which [00:03:45] happens in science all the time. And so I think early on, especially early in my academic [00:03:50] career, there was a lot of moments when I might have had ideas that I would've pushed [00:03:55] and didn't have the confidence or that ability to ask why and pursue.
+
+
+[00:03:58] And as I [00:04:00] continued to move through graduate school and then into being a venture investor, I really [00:04:05] learned how important that question y is and the ability to really [00:04:10] think from first principle perspective. And we think that is incredibly important at radical ai. It's [00:04:15] really inherent in everything we do as a company first principle perspective and asking why.
+
+
+[00:04:19] [00:04:20] And so now when I think forward and where I am today, that is probably the question I ask [00:04:25] the most of the radical AI team. And me and my co-founders all ask that question of each other very [00:04:30] frequently. So it's been a long evolution in, 
+
+
+[00:04:31] Speaker 3: in the question of why.[00:04:35] [00:04:40] [00:04:45] 
+
+
+[00:04:46] Experience. 
+
+
+[00:04:47] Speaker: I was going [00:04:50] to orient college orientation with my parents and I wanted to [00:04:55] become a chemical engineer and I didn't know why. Like I mentioned earlier, I just was always interested in [00:05:00] this idea of the sciences overlapping with engineering. And so I was [00:05:05] dead set on becoming a chemical engineer.
+
+
+[00:05:07] And so at orientation you were required to [00:05:10] go to a bunch of classes. You looking at new programs the university was offering and everyone [00:05:15] was required in inside the school to go to them inside, uh, the College of Science and Engineering. [00:05:20] And there. We, I got introduced to nanotechnology, which is essentially the [00:05:25] science of the very small at a, at an atomistic or macroscopic scale, or microscopic, excuse [00:05:30] me, scale.
+
+
+[00:05:30] And they gave this presentation and they showed these [00:05:35] images, which were transition electron microscopy images, which are just these ways that you can [00:05:40] image down to atomic structures of rail materials. And I was [00:05:45] so amazed that we could see the things that we were looking at with the [00:05:50] microscope. And they gave an analogy that looking at these atoms on the screen was [00:05:55] like looking at a soccer ball while standing on the surface of the moon and that soccer [00:06:00] ball being on the surface of the earth.
+
+
+[00:06:02] And that to me is where it ignited this [00:06:05] excitement around, man, the ability to manipulate atoms is the ability [00:06:10] to craft and create the world that we wanna build. And that kicked off my love for material science. [00:06:15] And I went into nanotechnology as an undergraduate and then grad school in material science as well.
+
+
+[00:06:19] From there.[00:06:20] [00:06:25] [00:06:30] [00:06:35] [00:06:40] [00:06:45] 
+
+
+[00:06:46] Speaker 3: Sure. My answer 
+
+
+[00:06:48] Speaker: is really cliche here. It's my [00:06:50] father. He has nothing to do with science. He's not a scientist. Uh, he's an entrepreneur [00:06:55] in, in the sports media business. But it was this drive at [00:07:00] doing what you love, which I talked about earlier, and not just about being happy about what you're [00:07:05] doing, but much more engaged in what you're doing.
+
+
+[00:07:07] Find the thing that you [00:07:10] can be better at anyone else in the world in. And he always instilled that. I [00:07:15] mean, when the story I just gave when we were looking at and considering like switching my major and going [00:07:20] to this field of nanotechnology, which was at the time, you know, new and novel and a [00:07:25] little bit like quote unquote scary for most, for most people going there, it was always this [00:07:30] question of, but do you have interest?
+
+
+[00:07:31] Like, do you love that? Could you love that? Would you wanna move into that? [00:07:35] And that for me has always been this guiding light into what I want to do and how I want to do it. And so it [00:07:40] wasn't so much as a role model from science that I wanted to be like, I just always was [00:07:45] taught and really wanted to be like my dad and pursuing something that I knew I was [00:07:50] the best in the world at and that I truly love to do.
+
+
+[00:07:52] And that's where I really 
+
+
+[00:07:53] Speaker 3: learned that from.[00:07:55] [00:08:00] [00:08:05] [00:08:10] 
+
+
+[00:08:14] I love this 
+
+
+[00:08:14] Speaker: [00:08:15] story because I think it's one of the maybe poor decisions I've made as a young person. So when I was [00:08:20] in high school, I really wanted to go to a military academy in the [00:08:25] United States. They're incredibly prestigious. You have the opportunity to serve the country. [00:08:30] Um, you can do a bunch of different roles coming outta the military academies, depending on which [00:08:35] branch you go into.
+
+
+[00:08:36] So I thought that this would be for me, and coming into, you [00:08:40] know, getting ready to apply for colleges and everything, I, I wanted to actually [00:08:45] experience the college lifestyle as well, which, in hindsight, I think I would change that [00:08:50] decision. But everything happens for a reason. And so I elected. To continue my applications to [00:08:55] the military academy.
+
+
+[00:08:56] So in the back of my mind, I always had this thought of, you know, I really [00:09:00] want to serve in the military. I, I think it can teach so many good lessons. I, I'm passionate about [00:09:05] it, I care about the mission of it, so let me see if there's ever an opportunity for that to come up. And [00:09:10] so when I was an undergraduate, I actually bumped into someone who was [00:09:15] serving part-time in the National Guard and the US National Guard is a reserve [00:09:20] component, both of the Army and the Air Force.
+
+
+[00:09:22] Um, and you pretty much go to [00:09:25] drill one week in a month and then you do two weeks in the summer of training to actually make sure you're up to [00:09:30] code with your military training and if you ever get deployed down range. And so [00:09:35] I was like, well, this is amazing. I can continue to study. I knew I was going to grad [00:09:40] school at the time, but I can also serve in the military in my free time is the way I looked at it.
+
+
+[00:09:44] So [00:09:45] I enlisted in the military my junior year of college, uh, and. Went away to basic [00:09:50] training and then came back and finished my senior year and then went away to training again before starting [00:09:55] graduate school at Rice. And, uh, it was an incredible experience and one that I'd be [00:10:00] happy to dive into. It really taught me a lot of incredible 
+
+
+[00:10:02] Speaker 3: lessons,[00:10:05] [00:10:10] [00:10:15] [00:10:20] 
+
+
+[00:10:23] but basic training is an 
+
+
+[00:10:24] Speaker: [00:10:25] amazing experience, right? Because you show up to this place, you [00:10:30] are removed from normal life, no cell phone, no connection. You're just dropped in a new [00:10:35] environment. You're given everything that you will need to live for the next three months, [00:10:40] clothes, supplies, food, water, et cetera, and [00:10:45] you're with a bunch of people you've never met in your life.
+
+
+[00:10:48] And all of you know you're about to [00:10:50] go through something incredibly challenging. Some of you won't make it, and in [00:10:55] the end, you'll have to work together to solve a problem. Or at least you know that after it's over, you don't know this on the [00:11:00] first day. And so for me, the most [00:11:05] amazing experience of this was meeting people from so many different [00:11:10] walks of life.
+
+
+[00:11:11] I met people from New York, Pennsylvania, [00:11:15] Georgia, Maine, and the East coast through to the Midwestern or, or, or western [00:11:20] states, all the way through to California coming from San Diego or, or Silicon Valley. And [00:11:25] everyone was there for the same mission. They were there for the same goal [00:11:30] of building a stronger military to protect and defend the freedoms that America [00:11:35] likes to propagate throughout the world.
+
+
+[00:11:36] And that was not only inspirational, [00:11:40] but was the first time I was forced to remove myself from the equation and put [00:11:45] the mission of the team, which was. The, the, the, the battery that I was serving in [00:11:50] before yourself. And that was an incredibly insightful lesson. And so my most, [00:11:55] my kind of favorite moment of basic training was graduation [00:12:00] when I was a platoon leader, um, in inside basic training.
+
+
+[00:12:04] [00:12:05] Uh, and a squad leader for specifically. And seeing people who I didn't think would [00:12:10] graduate by helping them graduate was, was really 
+
+
+[00:12:12] Speaker 3: rewarding experience.[00:12:15] [00:12:20] [00:12:25] 
+
+
+[00:12:26] So I 
+
+
+[00:12:27] Speaker: chose the field 'cause I was a scientist and [00:12:30] it's probably the closest field in the military to science anything in. Chemical or [00:12:35] biological warfare, including nuclear warfare, sits with inside this division, the [00:12:40] chemical core inside the military. And what we really focus on is preparing [00:12:45] for and responding to any type of chemical, biological, [00:12:50] radiological, or nuclear attack.
+
+
+[00:12:51] That's what SEABURN stands for. And it was a really cool [00:12:55] experience because it is a bad case scenario when you need to [00:13:00] actually execute on your job. But it was an incredibly important job [00:13:05] in that you had to be trained. It was one of those things that you could not skip over. And so from an [00:13:10] early kind.
+
+
+[00:13:11] Age in my military career, I was required to interface with company [00:13:15] leadership, with battalion leadership, where I was constantly enforcing on them, Hey, [00:13:20] we need to make sure we have our training done for seaburn. We know what to do in the event of a, of a chemical or [00:13:25] nuclear attack. And making sure the rest of the unit was up to speed on training and [00:13:30] believed in was, you know, trustworthy in that we were gonna execute the mission in the right way.
+
+
+[00:13:34] And so [00:13:35] that was hard to do 'cause you're doing something people don't think is gonna happen. You [00:13:40] make them go through painful trainings like gas safety training or something [00:13:45] similar. And typically it's in, it is doing it in place of [00:13:50] something they have to do already. And so it's this extra work and burden you're adding on top of them.
+
+
+[00:13:54] And so, [00:13:55] incredibly important role and was really fun to interface, uh, across multiple different components of a 
+
+
+[00:13:58] Speaker 3: unit. Wow. [00:14:00] Damn.[00:14:05] [00:14:10] [00:14:15] 
+
+
+[00:14:16] Yes. Great 
+
+
+[00:14:17] Speaker: question. There was a very specific one. [00:14:20] So while I was serving in the National Guard, I was also not [00:14:25] together, a scientist at the Army Research Lab. It is this corporate research [00:14:30] lab that the US Army has a bunch of scientists working in to try to push [00:14:35] novel research up to higher technology readiness levels or, or [00:14:40] make that science more approachable for the army.
+
+
+[00:14:42] And there, there were people [00:14:45] who had military service, who were veterans, who were serving in the National Guard of the Reserves, but not [00:14:50] that many within science and the national. And so we used to have these [00:14:55] commanders who would come through and tour the facility or a lieutenant, uh, you know, [00:15:00] LG or something similar.
+
+
+[00:15:01] And we would have to tell them why the work [00:15:05] we were doing was relevant to the Army. And their relevance was not the same [00:15:10] relevance to us. They were thinking about future conflict, about current conflict, about how to [00:15:15] bolster the force or make it stronger. We were thinking around, you know, electrons [00:15:20] and, and hydrogen atoms and thinking about making new novel 2D materials for different technologies.
+
+
+[00:15:24] And so [00:15:25] there was this disconnect between leadership at the army and the scientific [00:15:30] perspective that we were driving. And there was this day where I had to actually explain [00:15:35] why what we were doing in the lab could eventually impact future of warfare or [00:15:40] future technology that the Army would want to use.
+
+
+[00:15:42] And that's when I realized that that [00:15:45] is exactly what I wanted to do. I wanted to transition from this fundamental [00:15:50] area of research, you know, driving our understanding of science. To actually commercialize [00:15:55] science, science that could actually go into products and make a difference. And that is [00:16:00] where I got this interest in entrepreneurship and material science, technology development, or [00:16:05] materials engineering, and really thinking around the way we could actually push the [00:16:10] scientific discovery process forward.
+
+
+[00:16:11] Uh, and I didn't know it at the time, but that is what 
+
+
+[00:16:14] Speaker 3: goes into radical [00:16:15] AI today.[00:16:20] [00:16:25] 
+
+
+[00:16:27] So I was doing them 
+
+
+[00:16:28] Speaker: concurrently. So [00:16:30] I was doing, I was both in graduate school and in the military at the same time. [00:16:35] And it was a process of learning. Uh, I had done [00:16:40] research as an undergraduate and I had published my first publication and or my paper [00:16:45] and knew that was the place that I was strong in [00:16:50] and had this.
+
+
+[00:16:51] Desire to kind of explore that field more. But I didn't know what I [00:16:55] wanted to do after graduate school. I didn't know if I wanted to be a professional scientist. I had thought [00:17:00] about fields like law, patent law. I had thought about generally going into [00:17:05] business at a high level and not knowing what that meant.
+
+
+[00:17:06] And so in school, in graduate [00:17:10] school, I did this deep dive in understanding where could I make an impact. And again, I had this [00:17:15] experience where I was looking at the challenge of transitioning, transitioning material science [00:17:20] into the real world. And that was where things started to come together, that the only way to really do this [00:17:25] is to actually push technology in a novel way, [00:17:30] in which case startups are the best, in my opinion, the best place to do that today.
+
+
+[00:17:33] And so that was how that 
+
+
+[00:17:33] Speaker 3: evolution came about.[00:17:35] [00:17:40] [00:17:45] 
+
+
+[00:17:47] Speaker: No, it made me better. Uh, the military [00:17:50] teaches discipline aggressively, rightly so. I think it's a huge part of the way I operate [00:17:55] today. They teach attention to detail, which anyone within radically, I will tell you, [00:18:00] is an incredibly important, uh, idea for us. And they teach you [00:18:05] how to align to a mission, which is what the hardest companies in the world have to do.
+
+
+[00:18:09] And [00:18:10] when we get into the company culture, you'll hear us talk about how important [00:18:15] the mission is to every single person that works at Radical ai. And so those [00:18:20] three things have carried over me from all the way from school into [00:18:25] building radical AI today. They are what I would say foundational to how I operate as a [00:18:30] person, and certainly foundational to how I operate 
+
+
+[00:18:32] Speaker 3: as an entrepreneur.[00:18:35] [00:18:40] [00:18:45] 
+
+
+[00:18:47] So for Rice, 
+
+
+[00:18:49] Speaker: there were two [00:18:50] specific reasons. One, I had went to this undergraduate research [00:18:55] symposium, which I presented my work on, and I won that symposium. And in [00:19:00] winning the symposium, the best presentation, I got to sit with a bunch of [00:19:05] both graduate students and professors inside the program and asked them about their [00:19:10] research and what they were working on.
+
+
+[00:19:11] And there was a concurrent theme through that they were [00:19:15] all working on problems that could have a big impact, actual things that they were trying to [00:19:20] transition at one point or another, whether it was still in the early fundamental days, or that [00:19:25] technology was being funded by a corporate sponsor or something similar in looking at commercialization [00:19:30] and.
+
+
+[00:19:30] I interviewed a lot of graduate programs when I was thinking about where to go to [00:19:35] school and none had felt as strong as I did when I met the faculty and [00:19:40] students at Rice and this kind of focus on the future and what they were trying to build. So [00:19:45] that was the first reason. And then the second reason was I really wanted to [00:19:50] change a pace.
+
+
+[00:19:50] Uh, rice is in Houston, Texas. I had lived in the Upper East Coast from [00:19:55] from Virginia northward my whole life. And I thought it was gonna be a really good opportunity to get [00:20:00] out of my comfort zone and focus 100% on what I was [00:20:05] going there to do, which was become a material scientist and study. And so those two things together made an [00:20:10] easy 
+
+
+[00:20:10] Speaker 3: decision for me.[00:20:15] [00:20:20] 
+
+
+[00:20:22] Sure. 
+
+
+[00:20:23] Speaker: So I think I went in with the [00:20:25] wrong reason in retrospect on why I started the PhD. But if I [00:20:30] went back in time, I would do it all again because I learned a ton from it. So on the first day, I remember [00:20:35] exactly what I felt. I said, I'm not sure I should do this. I don't know if this is [00:20:40] what I want to spend my wife's work on.
+
+
+[00:20:41] And it was really because I didn't know where I wanted to go from it, not [00:20:45] because I didn't think graduate school was the right opportunity. And you know, fast forwarding to [00:20:50] today where I, I've, I left my PhD, I kind of dropped out after my qualifying exam. I did [00:20:55] not complete it. It was really in search of where can I make an [00:21:00] impact?
+
+
+[00:21:00] Where can I do something that I'm gonna be incredibly passionate about [00:21:05] and can really drive change? And that is what I was trying to unlock with graduate school. [00:21:10] But I quickly realized that for me, for my skillset and [00:21:15] for what I wanted to do every day, it was not just stand behind a lab [00:21:20] bench, which is an incredibly important role, and people are very good at that.
+
+
+[00:21:23] It was actually much more [00:21:25] on pushing that technology into market, making real products that could make an impact. And [00:21:30] so very quickly, early on in that process, I started researching and learning about startups, venture [00:21:35] capital, that ecosystem, what it meant to build a company, what it meant to invest in companies.
+
+
+[00:21:39] And [00:21:40] about four years later led to my transition, uh, uh, to venture capital.[00:21:45] [00:21:50] [00:21:55] [00:22:00] [00:22:05] [00:22:10] [00:22:15] 
+
+
+[00:22:16] Speaker 3: Norm warfare for computing 
+
+
+[00:22:17] Speaker: is trying to [00:22:20] make transistor or semiconductor technology operate like the brain. And so [00:22:25] in the way we build chips today, we have what is called the von Neumann bottleneck, in which we [00:22:30] separate memory and CPU or compute. And so there [00:22:35] is both energy and latency associated with moving, uh, information back and [00:22:40] forth between those two.
+
+
+[00:22:42] But if you think about the brain, we do not [00:22:45] separate memory and CPU or what you would call like task or actions like lifting your arm. [00:22:50] They're the same neurons all firing in the same system. [00:22:55] And so norm for computing is an attempt to build chips like the [00:23:00] way the brain is built. And there's a bunch of really exciting opportunities from this.
+
+
+[00:23:04] If you [00:23:05] have what we call multiple memory states, which is what we described the brain as having, then you can do [00:23:10] more powerful computation versus the computation you can do with [00:23:15] binary based chips today, like zero and one. And so that is where normal is an exciting [00:23:20] field. The reason that we were excited about it were a lot of [00:23:25] novel technologies coming out from artificial intelligence and machine learning [00:23:30] all the way through to areas like.
+
+
+[00:23:33] Bio nanotechnology, for [00:23:35] example, specifically like sensors and rebuilding human senses like [00:23:40] smell or taste in an artificial form. And there's this idea that you want [00:23:45] to have transistors or con semiconductors that are more operating like [00:23:50] biological systems to be able to interpret and utilize some of that data.
+
+
+[00:23:53] So that was where that 
+
+
+[00:23:53] Speaker 3: interest came from.[00:23:55] [00:24:00] [00:24:05] [00:24:10] [00:24:15] 
+
+
+[00:24:16] I knew 
+
+
+[00:24:16] Speaker: that I wanted to make a change [00:24:20] in what I did for a living, like what I did every day, but I didn't know what the change [00:24:25] was. And so the most frustrating moment for me was going [00:24:30] through the same. Process or set of motions every day and [00:24:35] not knowing where I was going. And that was a very hard place [00:24:40] because I like to build toward things.
+
+
+[00:24:42] I like to have a north star. I like to have a mission that I [00:24:45] know I'm working towards. And when I didn't know what I wanted to do following graduate school, I actually [00:24:50] didn't have that. What kept me going was my never [00:24:55] quit attitude. Uh, again, I learned from a young age that you have to be tenacious in [00:25:00] the things that you go after.
+
+
+[00:25:01] You have to never, ever give up no matter the [00:25:05] scenario. And so I didn't care that I didn't know what was coming next. I didn't care if it [00:25:10] was going to work or not. I didn't care if I was gonna be a scientist or not. In, in the [00:25:15] real retrospect, what I cared about was continuing to push forward and searching for the [00:25:20] answer.
+
+
+[00:25:20] And I think that's truly how I ended up getting to the answer. So I just reminded myself every day [00:25:25] that this will lead to something. One of my favorite quotes in the world is, you know, Steve Jobs is [00:25:30] connecting the dots. You can never connect the dots looking forward. You can only connect them looking [00:25:35] backwards.
+
+
+[00:25:35] This is an exact moment where I didn't know where this dot was going to lead, but now when I [00:25:40] look back, it was imperative that I went through that experiment and experience and [00:25:45] live through the frustrations of materials 
+
+
+[00:25:47] Speaker 3: research today,[00:25:50] [00:25:55] [00:26:00] [00:26:05] 
+
+
+[00:26:07] failure is 
+
+
+[00:26:07] Speaker: the opportunity for learning. That's all [00:26:10] it is. If you are going to do anything of value, if you're going to build anything of value, it [00:26:15] will be riddled with failure. It requires failure to actually learn [00:26:20] and implement on those failures. And so the. F [00:26:25] you know more, the faster that you can learn.
+
+
+[00:26:28] Failure is a part of the process. [00:26:30] The better you get at accepting it and kind of taking it in stride and understanding that this [00:26:35] failure is an opportunity to learn. And that's how we try to build the company today. Everything that we [00:26:40] do, we know that there's a risk of failure. The entire company has a risk of failure.
+
+
+[00:26:43] As every [00:26:45] startup does, individual products within inside the company have a risk of failure, and [00:26:50] our team is hungry for those opportunities because [00:26:55] on the other side of failure is of course success. And the higher the risk, the higher the reward can [00:27:00] be really true, especially when it comes to building novel technology that 
+
+
+[00:27:04] Speaker 3: the world has never seen [00:27:05] before.[00:27:10] [00:27:15] [00:27:20] 
+
+
+[00:27:23] So as I mentioned, 
+
+
+[00:27:24] Speaker: I was thinking [00:27:25] about what was coming next and I finally settled on, okay, I know one [00:27:30] day I want to build a company, but I have no idea how to build it. [00:27:35] And so I said, let me find entrepreneurs and investors who have [00:27:40] built a company in the past and now are investing in the companies of, of the future.[00:27:45] 
+
+
+[00:27:45] And so I looked up a bunch of venture capitalists, entrepreneurs [00:27:50] and really wanted to be in New York. Actually, I tailored my search to New York and I bumped into Kevin Ryan. [00:27:55] Kevin Ryan is a prolific entrepreneur in New York City. He built and [00:28:00] ran double click before taking that company public. And then he came out of that and started Ally Corp, [00:28:05] which.
+
+
+[00:28:05] It's both an incubation studio as well as an early stage investment [00:28:10] firm. And when I talked to Kevin, I had told him, if you're not investing in materials, you're not [00:28:15] gonna invest in the future. And he said, that's a big, that's a big bet. Why don't you come prove that out? And so I [00:28:20] took a leave of absence.
+
+
+[00:28:21] I moved to New York a week later and I had a six month [00:28:25] internship to see if this was the field for me, if this was the career for me. And that was about [00:28:30] five years, or four and a half, five years ago now. So it went, it went well, and 
+
+
+[00:28:33] Speaker 3: I've been here ever since.[00:28:35] [00:28:40] [00:28:45] [00:28:50] 
+
+
+[00:28:51] So 
+
+
+[00:28:52] Speaker: when I became an investor and actually left [00:28:55] the scientific field, I think the ability to ask why was [00:29:00] formed in science, you are always asking the question why in science, that's where most good questions start. [00:29:05] And then I think having an ability to test hypotheses, which is really [00:29:10] what the scientific method is all about.
+
+
+[00:29:11] And what that means in practice as an investor is being willing to [00:29:15] challenge the status quo in an industry. Why can this change? And then [00:29:20] looking at different opportunities that are attempting to make that change. And all, everyone has their own [00:29:25] approach or hypothesis on the way the market is gonna change and why their technology is going [00:29:30] to change it.
+
+
+[00:29:30] And so my background as a scientist, I think helped me learn, be a really [00:29:35] analytical investor. And as I started investing [00:29:40] and, and, and watching companies grow, I think a lot of those traits of [00:29:45] getting to the, you know, truth of something, going to first principle analysis, [00:29:50] like doing research around why you're making a decision, but also being able to sometimes make a [00:29:55] gut feel on a decision came through in that investing role.
+
+
+[00:29:58] And were incredibly important to my [00:30:00] success 
+
+
+[00:30:00] Speaker 3: as an investor.[00:30:05] [00:30:10] [00:30:15] [00:30:20] 
+
+
+[00:30:22] I learned and 
+
+
+[00:30:22] Speaker: still learn so many lessons from [00:30:25] Kevin. I think the most important lesson is a bias to action [00:30:30] strategy can be effective, but most of the time will also [00:30:35] lead to a dead end with no action involved. And I think [00:30:40] the best entrepreneurs, in my opinion, have an immense bias to [00:30:45] action. They just get things done and in doing so, [00:30:50] watch the results unfold in front of them as they do that.
+
+
+[00:30:52] And then they continue to go to go through their [00:30:55] process. And I think Kevin had taught me from a very kind of very. [00:31:00] Early part of my career that you have to have a bias to action and just get [00:31:05] things done. Startups are already hard enough and the way to [00:31:10] make them easier is to do more than anyone in your space will do with more [00:31:15] information than anyone in your space has with a thesis that no one else has been able to come up [00:31:20] with.
+
+
+[00:31:20] That is truly what can drive good value. And I think a bias to action is the most important [00:31:25] lesson 
+
+
+[00:31:25] Speaker 3: I've learned from him.[00:31:30] [00:31:35] [00:31:40] [00:31:45] 
+
+
+[00:31:46] Yeah. In all 
+
+
+[00:31:48] Speaker: of the investments that I parti, [00:31:50] partook in at Ally Corp, all of them were in the deep tech category, and [00:31:55] I think the thing that you really learn is these. Businesses take a long time [00:32:00] to proliferate. They're very technologically challenging. There is technical [00:32:05] risk sometimes as well as market risk, and people are the [00:32:10] most important variable that you can leverage to push technology to completion [00:32:15] and then attack and capture a market.
+
+
+[00:32:18] And in all of the companies that [00:32:20] I was privileged to work with, the best companies [00:32:25] understood those things. They knew that they needed to hire the best people in the world and in doing [00:32:30] so could build the best technology in the world so that they could capture their market. [00:32:35] That's the biggest lesson I took from those companies.
+
+
+[00:32:37] And conversely, on the other [00:32:40] side, the companies who failed to bring in great talent and [00:32:45] also failed to have a bias of action, struggled to find success. [00:32:50] Startups are already so challenging and the deep tech space there are so long [00:32:55] to see your vision become a reality. If you do not have milestone based [00:33:00] wins that you can continue to add and build a [00:33:05] cohesive and really effective business, then it's, it's quite challenging to 
+
+
+[00:33:08] Speaker 3: continue to move forward.[00:33:10] [00:33:15] [00:33:20] [00:33:25] 
+
+
+[00:33:27] So I never finished 
+
+
+[00:33:28] Speaker: the PhD, [00:33:30] uh, so I didn't have a a what now moment because I had [00:33:35] already moved on to my next career inside venture capital. So I had already found what I was [00:33:40] going to do next, and I more had a kind of realization moment of what I [00:33:45] talked about when I started, which was, where am I gonna go from here?
+
+
+[00:33:48] Why am I going to [00:33:50] graduate school? What am I doing a PhD for? And again, I think I learned a, a ton of incredible lessons from that [00:33:55] program and from that process. But once I got into the startup world, I knew [00:34:00] it was the place for me and that I was never going back. So I took a leave of absence and I have [00:34:05] never, never returned.
+
+
+[00:34:06] Speaker 3: Okay. Fair[00:34:10] [00:34:15] [00:34:20] 
+
+
+[00:34:24] radical AI has an [00:34:25] amazing founding 
+
+
+[00:34:26] Speaker: story. So, uh, one of my other co-founders and I we're [00:34:30] both investors at at, at Alley Corp. And Jorge was looking into [00:34:35] AI technology as every good investor was, but really at a fundamental [00:34:40] level. He was reading the publications, coming out on novel [00:34:45] architectures and novel approaches to machine learning and what the impact of the [00:34:50] technology was.
+
+
+[00:34:51] And he came over to me one day, we sat next to each other in the office and [00:34:55] said. You know, AI is so incredible. I am actually convinced this [00:35:00] technology is gonna change the world. What I don't understand is why everyone is [00:35:05] picking low hanging fruit and solving small problems. [00:35:10] Why is no one using AI to cure cancer?
+
+
+[00:35:12] Was the question he asked me. And, [00:35:15] and I said, well, I don't know about curing cancer, but that's a really good op, really good [00:35:20] opportunity. And so we spent the next month and a half reading hundreds of [00:35:25] research papers on all the different fields that we think AI could be put into. [00:35:30] And finally it dawned on me that, well, material science has a lot of problems [00:35:35] with fragmentation, slow moving ability, you know, lack of progress over short [00:35:40] timelines.
+
+
+[00:35:40] This might be a great area for AI to be implemented in. And so we took [00:35:45] another deep dive and we read every publication we could find at the intersection of material [00:35:50] science, ai. And as we found out robotics. And that led [00:35:55] us to our third co-founder, herd Cedar, who had built an autonomous [00:36:00] scientific lab at Lawrence Berkeley National Lab.
+
+
+[00:36:03] And together with him, US [00:36:05] three really saw and came up with this vision for where science is gonna go, [00:36:10] where AI and autonomy are gonna build a new paradigm of scientific discovery [00:36:15] driving us from a human driven to an AI and autonomy driven process. And we were [00:36:20] all aligned that whether we started radical AI or not, this is the way [00:36:25] science was going to go.
+
+
+[00:36:26] And it had to be us who were going to build this company. And [00:36:30] so all three of us agreed, and that was the formation story for 
+
+
+[00:36:33] Speaker 3: radical ai.[00:36:35] [00:36:40] [00:36:45] [00:36:50] [00:36:55] 
+
+
+[00:36:55] I think those are 
+
+
+[00:36:56] Speaker: the things people should work on. I think if you look at technology [00:37:00] today, the most important areas are the most challenging. [00:37:05] We don't struggle with what we call optimization [00:37:10] problems at radical AI driving one, two, or 5% improvements in a current [00:37:15] system. We're actually quite good at that.
+
+
+[00:37:17] What is incredibly challenging is [00:37:20] novel discovery, and that's where most hard problems lie. And when [00:37:25] us three wanted to form the company and we're gonna build radical ai, [00:37:30] we had this opinion that if you wanna impact. The most important industries in the [00:37:35] world, automotive and aerospace, manufacturing and defense, climate, energy, semiconductors, [00:37:40] all of them are a direct result from materials r and d.
+
+
+[00:37:44] But [00:37:45] these processes and materials just take an incredibly long time, typically 10 plus years, [00:37:50] and an exorbitant amount of cost to go from a novel discovery to a scaled material system. [00:37:55] And this was the exact place that we could make a massive [00:38:00] impact. We think AI and autonomy are going to drive change in the process [00:38:05] and in doing so, can actually unlock and remove materials as [00:38:10] our biggest barrier to some of our most important industries.
+
+
+[00:38:12] And I think if you are aligned on [00:38:15] that mission, then the problems that you wanna solve are naturally going to be [00:38:20] hard, because if you succeed, you will fundamentally reshape human [00:38:25] trajectory, and that is an incredibly impactful thing to be able to do, and also [00:38:30] incredibly important to the 
+
+
+[00:38:30] Speaker 3: future of the world.
+
+
+[00:38:31] Speaker: Thank you.[00:38:35] [00:38:40] [00:38:45] 
+
+
+[00:38:46] Speaker 3: So what 
+
+
+[00:38:46] Speaker: we did was we came back from a board [00:38:50] meeting in California actually, and both Jorge and myself and, [00:38:55] and we had talked to her about what we wanted to do as well. Had said, okay, well we're gonna [00:39:00] leave Ally Corp. And. We're going to raise money, of course, to start the company. And Ally [00:39:05] Corp, as I mentioned, likes to incubate companies.
+
+
+[00:39:06] And we were incubating this company inside the Ally Corp umbrella. [00:39:10] So we knew Kevin had told us they are gonna put some money in, in this incubation setting, and [00:39:15] then we'll roll out from there. And we knew we needed a lot of capital material. Science is a [00:39:20] hard business to build in, and we are building a full stack solution, which requires [00:39:25] a lot of capital.
+
+
+[00:39:26] So we knew we wanted to raise a fairly large pre-seed round. And so [00:39:30] we went to Kevin and said, look, we're gonna, we're gonna start this company. We had put together a whole hundred page [00:39:35] pitch deck on why we think the opportunity is now, where the technology is today, why [00:39:40] interdisciplinary approach is incredibly important to solving the problem.
+
+
+[00:39:43] And to [00:39:45] Kevin's credit, he said, you're not gonna raise money anywhere else. I, I wanna give you all of it. And [00:39:50] so he was the only investor. We raised our pre-seed round in about 45 minutes, uh, which was [00:39:55] great. And we were able to get started and start building. And us three started recruiting from that time on and.[00:40:00] 
+
+
+[00:40:00] Uh, built a company that, that we have 
+
+
+[00:40:01] Speaker 3: today. So,[00:40:05] [00:40:10] [00:40:15] [00:40:20] 
+
+
+[00:40:22] so Ally Corp 
+
+
+[00:40:23] Speaker: has an [00:40:25] incredible perspective on the world, and the question that Kevin Ryan always likes to ask and challenge us on is [00:40:30] what does 10 years look like in the future and potentially even farther than 10 [00:40:35] years. And so when we came to the Ali Corp team and told them that we were gonna do this and [00:40:40] we, we wanted to do it with them, there were two things that really stuck out.[00:40:45] 
+
+
+[00:40:45] Number one, AI in the physical world was a massive [00:40:50] untapped opportunity. We saw a bunch of AI companies in, you know, [00:40:55] uh, software or kind of consumer facing products, or even something like. [00:41:00] You know, normal SaaS based businesses, and we had not seen many AI [00:41:05] companies yet start to move into the physical world.
+
+
+[00:41:08] And so they had this thesis [00:41:10] that that is gonna be a huge opportunity and one of the most impactful places for AI [00:41:15] to exist. And then the second I think was people, the Ally Corp team and [00:41:20] Kevin knew whether they were involved or not. We were gonna make this our [00:41:25] life's work and that everything we were going to do was going to be making [00:41:30] radicalize successful so that we can find and discover novel materials that [00:41:35] changed the trajectory of the human race.
+
+
+[00:41:37] And because they had known us, what [00:41:40] drove us, the type of investors we were, how we like to operate, [00:41:45] operate, they didn't, they already had done years of diligence on, [00:41:50] I think, how we were gonna be as operators. It was more showing the conviction and [00:41:55] the passion that we had for this idea. And so we knew we wanted to go into [00:42:00] AI in the physical world, and they wanted to back people who will make this their life's [00:42:05] work.
+
+
+[00:42:05] And both of those things were present, and to their credit, they jumped 
+
+
+[00:42:08] Speaker 3: right on top of it.[00:42:10] [00:42:15] [00:42:20] [00:42:25] [00:42:30] [00:42:35] [00:42:40] [00:42:45] 
+
+
+[00:42:45] The future 
+
+
+[00:42:46] Speaker: that we wanna build is one that we actually cannot [00:42:50] predict today. And what we mean by that is if you look at the most important [00:42:55] technological waves of the last 50 or 60 years. And starting with the transistor [00:43:00] and semiconductors and of course leading into now the AI revolution. [00:43:05] All of these were driven from materials number one, and then they [00:43:10] enabled technologies to be built on top of that that we could not predict in the, [00:43:15] uh, you know, 40, 50 years ago.
+
+
+[00:43:17] So what we think the future looks like is [00:43:20] creating, scaling and selling materials that [00:43:25] unblock our most important innovations. Whether that's setting up a colony [00:43:30] on the surface of Mars, having nuclear energy, you know, exist throughout the [00:43:35] world, or thinking about flying bullet trains with room temperature.
+
+
+[00:43:38] Superconductors. [00:43:40] Regardless of what this world looks like, we want to remove [00:43:45] materials as the blocker to those innovations. And so what we like to say is by [00:43:50] being a materials discovery and and development company, we actually can give a Blake [00:43:55] Canvas. To technologists who want to build a better world on top of those novel [00:44:00] discoveries.
+
+
+[00:44:00] And that's exactly what we're going after. And that's why we don't think there's an [00:44:05] end to the company. We think this company will be a hundred, 200 years old. It will way [00:44:10] outlive myself and, and the two co-founders. This is a company and a technology [00:44:15] that when it succeeds, will truly be able to create a world [00:44:20] not today 
+
+
+[00:44:21] Speaker 3: thought possible.[00:44:25] [00:44:30] [00:44:35] [00:44:40] [00:44:45] 
+
+
+[00:44:45] So what 
+
+
+[00:44:47] Speaker: AI and autonomy can really do for the scientific [00:44:50] process is speed up discovery. [00:44:55] Run both computational experiments and [00:45:00] real world experiments in an interconnected manner, sharing the data [00:45:05] and then draw on those conclusions from both the computational and the [00:45:10] experimental side to synthesize or predict what's gonna come next.
+
+
+[00:45:14] [00:45:15] And the reason AI is so impactful in this space is its [00:45:20] ability to index information. The best example that we always like to give is [00:45:25] Alpha Go. It was this AI that was built by the Google team and it played with the best player in the [00:45:30] world, a game of go. And the best part of the story is this infamous move it makes where everyone watching [00:45:35] thinks the AI makes a mistake.
+
+
+[00:45:36] And in reality, it has indexed so many games of go and [00:45:40] made a move to human brain has never thought of before. And when we take that to [00:45:45] science, all of our limitations in science come from the human. How [00:45:50] many papers can we read? How many things can we simulate? How many experiments can we [00:45:55] run? And then how do we tie all those together to make a new hypothesis on what we wanna build?
+
+
+[00:45:59] But [00:46:00] if you bring AI and autonomy to the center of that, you unlock [00:46:05] this indexing problem that a human scientist feels. You can read millions of [00:46:10] publications, simulate billions of materials and test thousands of [00:46:15] them connecting all of this information in real time. And so if you can do [00:46:20] that, the world that we think we can really build is one that is what [00:46:25] we call inversely designed, where we are no longer making materials [00:46:30] and then looking for a solution to solve.
+
+
+[00:46:33] We are actually taking our hardest [00:46:35] problems and inversely designing material from that. And human [00:46:40] scientists can't do that today, or if they can, [00:46:45] can do so in only very, very long timeframes. Whereas AI and [00:46:50] autonomy can do that incredibly fast and incredibly efficient. [00:46:55] And so when we talk about 10 scientists going to one problem [00:47:00] focused on one problem, having one scientist focused on 10 problems, [00:47:05] what we actually think AI can do is not replace that scientist, but rather [00:47:10] give them the tools and the capabilities to index across a multitude of different [00:47:15] experimental processes.
+
+
+[00:47:16] So they are spending their time thinking around what next material to [00:47:20] build or what next problem to solve and not on going through the monotonous [00:47:25] process of fundamental research. That is really where we see the impact on [00:47:30] AI for science and how we are building the 
+
+
+[00:47:32] Speaker 3: future of the scientific process.[00:47:35] [00:47:40] [00:47:45] [00:47:50] 
+
+
+[00:47:51] So the autonomous 
+
+
+[00:47:52] Speaker: lab is a scientific lab [00:47:55] that can make materials, characterize the materials that [00:48:00] you make, and then validate the materials for the properties that you are trying to [00:48:05] solve for. And inside the lab, what we have are three [00:48:10] components. There are the material tools themselves. This is how you actually conduct science.[00:48:15] 
+
+
+[00:48:15] There are the software interface, or what we call the operating system that [00:48:20] runs this entire autonomous lab. And then there are the robotics or the automation that [00:48:25] connect the different material tools together. And when we build an [00:48:30] autonomous lab, what we enable is in each individual tool. [00:48:35] Autonomous function, you do not need a human scientist to run that experiment [00:48:40] or tool.
+
+
+[00:48:41] And then when you interconnect them together, going from tool to [00:48:45] tool to tool to build a data set of a material all autonomously as [00:48:50] well. And so in summary, what we can really do is take the [00:48:55] scientist out of the loop and more put them on the loop [00:49:00] where they are actually watching scientific progress unfold, and [00:49:05] then jumping in and weighing in on different areas where they have [00:49:10] expertise rather than having to do each individual function themselves.[00:49:15] 
+
+
+[00:49:15] That is what 
+
+
+[00:49:15] Speaker 3: an autonomous lab is.[00:49:20] [00:49:25] [00:49:30] [00:49:35] [00:49:40] [00:49:45] [00:49:50] [00:49:55] 
+
+
+[00:49:56] We are 
+
+
+[00:49:56] Speaker: approaching that level of intelligence, [00:50:00] but we are not there yet. And the key missing piece in, in science [00:50:05] is data. We do not have large experimental data sets [00:50:10] to train the models on and allow them to make. [00:50:15] New hypotheses based on those results. And so part of a [00:50:20] self-driving lab is actually enabling that technology where if you can [00:50:25] capture every piece of information or data that exists in an experimental process, [00:50:30] temperature, pressure, oxidation, concentration, then you can take that [00:50:35] information and actually train a model on the material that you made [00:50:40] and the properties that that material exhibits there.
+
+
+[00:50:43] You can start to build an AI [00:50:45] scientist that can hypothesize and try to solve new problems. [00:50:50] But the only way to be able to do that is to run a lot of experiments. And, [00:50:55] you know, scientists will run a couple, you know, maybe a hundred or a couple [00:51:00] hundred experiments per year in a research team, which, when we're thinking about the scalability of [00:51:05] data for, for Lang, for or for machine learning models.
+
+
+[00:51:08] That's quite a small data set, [00:51:10] and so this is where self-driving labs allow us to really run thousands of [00:51:15] experiments per year so that we can actually build this experimental data set and actually [00:51:20] build a scientist that can truly possess the ability to hypothesize 
+
+
+[00:51:23] Speaker 3: new materials to.[00:51:25] [00:51:30] [00:51:35] [00:51:40] [00:51:45] [00:51:50] [00:51:55] [00:52:00] [00:52:05] [00:52:10] [00:52:15] 
+
+
+[00:52:17] So when we looked into the material 
+
+
+[00:52:18] Speaker: science space, [00:52:20] we realized that there were two paradigms in which science exists today. [00:52:25] You have on one end your academic national lab really [00:52:30] discovery space of scientific research where you are driving your understanding of science. [00:52:35] It's very fundamental in nature and usually is not looking at commercial application.[00:52:40] 
+
+
+[00:52:40] Now, on the other side, you have corporate r and d, which is very much focused [00:52:45] on commercialization, but on that optimization problem where we are focused on driving [00:52:50] one, two or 5% gains, as I mentioned, and not really on novel discovery. [00:52:55] So in the middle is this wide open white space to do fundamental novel [00:53:00] discovery with an entirely commercially focused mindset.
+
+
+[00:53:02] And we knew that's what we wanted to do. So [00:53:05] when we looked into the material space today, we realized that all of the big material [00:53:10] companies in the world sell materials. And the reason why [00:53:15] is if you try to sell software is called informatics, you really reach [00:53:20] a local maxima where you might. Be able to sell your software into [00:53:25] companies that are trying to solve a problem, but you never solve the problem for them [00:53:30] because a real material is made when you can make it, [00:53:35] characterize it and test it in an application.
+
+
+[00:53:38] Just generating on a [00:53:40] computer is only half of the discovery process that we have today. And so the [00:53:45] software approach doesn't work because companies need real materials. And the [00:53:50] second option that you can actually go after is licensing. And the problem with licensing is [00:53:55] after a few years, and there have been companies that have tried this, you start to see reverse [00:54:00] engineering of that material system.
+
+
+[00:54:02] And the reason why is the real [00:54:05] IP around a material is not just the structure, yes, but the processing [00:54:10] of that material as well. How do I make it at scale at the cheapest [00:54:15] cost with the best properties for the applications I'm actually going after. The [00:54:20] only way to capture all of that value in material science is to discover, [00:54:25] characterize, validate, and scale materials, and sell them to [00:54:30] actually realize the benefit of that discovery.
+
+
+[00:54:32] And that is why we push the company that way. [00:54:35] The only way we actually commercialize novel materials is by 
+
+
+[00:54:38] Speaker 3: building the full stack [00:54:40] approach.[00:54:45] [00:54:50] [00:54:55] [00:55:00] [00:55:05] [00:55:10] 
+
+
+[00:55:11] We are incredibly 
+
+
+[00:55:13] Speaker: passionate about the [00:55:15] culture that we build at the company. Yeah. Every single person that we hire into radical [00:55:20] ai, we ask the same question. If you are looking for a job, this is not the [00:55:25] place for you. You're incredibly intelligent. You can go get employed other places. If you are [00:55:30] looking for a mission, then you should come work here.
+
+
+[00:55:33] And every person that [00:55:35] comes to radical AI deeply, deeply believes in the mission that we are going after. [00:55:40] And the way that we keep that alignment is through culture. [00:55:45] And we have a bunch of values as a company that we think exemplify that [00:55:50] culture. And we uphold both ourselves as a founding team, as [00:55:55] well as the company to our culture in everything that we do.
+
+
+[00:55:59] And there [00:56:00] are two really important things that exist in that. The first is, first principle, the question of [00:56:05] asking why we are trying to disrupt the process that is 150 [00:56:10] years old with some of the biggest companies today in materials. We want to reinvent [00:56:15] the way we do the scientific process. That starts with why.
+
+
+[00:56:19] And [00:56:20] the second is relentless ambition. We talked about failure [00:56:25] earlier. We are never afraid to fail. We actually [00:56:30] know failure is a part of the discovery and learning process, and so we [00:56:35] will push aggressively, relentlessly to drive [00:56:40] technology to rethink from first principles and to build a connected system that [00:56:45] can truly discover novel materials.
+
+
+[00:56:47] Those two things are some of the [00:56:50] foundation that everything else we believe in the company sits on top of because if you [00:56:55] lose either of them, it doesn't matter how many other traits you bring into the organization. It's not gonna be the [00:57:00] culture that we have at radical 
+
+
+[00:57:00] Speaker 4: ai.[00:57:05] [00:57:10] [00:57:15] 
+
+
+[00:57:18] Speaker 3: So we adopted a [00:57:20] rule 
+
+
+[00:57:20] Speaker: very on in the company, I believe SpaceX started it called the 51% rule, where [00:57:25] when you are at 51% confidence on a decision, you just make that [00:57:30] decision. And the reason why is you'll actually cause more [00:57:35] time and less efficacy across the company by debating on [00:57:40] decisions that you could otherwise quickly decide on and see what the result of that decision is going to be.[00:57:45] 
+
+
+[00:57:45] Rarely do we make decisions that are catastrophic for the [00:57:50] company. Most decisions will either move us forward in a meaningful [00:57:55] way or we'll have to reset and learn from. And because we operate the company [00:58:00] that way. Failure is inherent. You will automatically fail if [00:58:05] you come work at radical AI in something that you do.
+
+
+[00:58:07] But again, we view failure very [00:58:10] differently. We don't view someone as failing or a project as failing. We [00:58:15] view it as learning and an opportunity to recreate the process that we just thought [00:58:20] that we should build. And so for us, I actually think we go deeper [00:58:25] into the essence of asking why in first principles.
+
+
+[00:58:27] And we don't view things as [00:58:30] failure. It is just normal to try things that don't work. Learn from them and try again [00:58:35] at 
+
+
+[00:58:35] Speaker 3: radical ai.[00:58:40] [00:58:45] [00:58:50] [00:58:55] [00:59:00] 
+
+
+[00:59:01] So the first thing we 
+
+
+[00:59:02] Speaker: did as co-founders was really index [00:59:05] the space and understand, okay, who is thinking about materials in a new light, [00:59:10] right? In a, in a new form of technology? And we came across a bunch of [00:59:15] incredibly talented people and we interviewed hundreds of people to [00:59:20] get at the first 20 people that we wanted to bring inside the company.
+
+
+[00:59:23] And there was a [00:59:25] recurring theme from all of them. That theme was, I don't really care the [00:59:30] way we're going to do it. I don't really care how we're going to make [00:59:35] money. What I care about is reinventing the material science [00:59:40] process so we can make some of the most important impacts in the world. The other [00:59:45] things I bet we'll figure out in due time, and every person that we brought into the company [00:59:50] had that perspective.
+
+
+[00:59:52] They spent all of their questions and [00:59:55] times in their interview process learning about why materials were broken, learning [01:00:00] about why this technology was relevant today, asking about the different ways we think we [01:00:05] can implement it and put it into the scientific process that exists today. And very little [01:00:10] time worrying about the details that frankly don't matter or are [01:00:15] subject to change time and time again.
+
+
+[01:00:17] In the early stage of a startup, the [01:00:20] ones that we knew weren't a fit or have since learned and had to remove who weren't a [01:00:25] fit were the ones who didn't pay attention to where we were going, and much more focused [01:00:30] on where we were today, the answers that we had today. And that's not the culture [01:00:35] that we have as a company.
+
+
+[01:00:36] As a company, we are always thinking around what [01:00:40] technology is coming next, how can we build that technology? How can we be 10 steps into the [01:00:45] future? And the ones who weren't in as early as the interview process, we knew just [01:00:50] weren't, weren't gonna be a fit. And so there was this defining moment, we called it crazy people 'cause we think we're [01:00:55] crazy as well, where all of the conversation was around the crazy things we could do, [01:01:00] not the crazy ideas we had today.
+
+
+[01:01:02] And that's how we really indexed on the early team that we came [01:01:05] brought 
+
+
+[01:01:05] Speaker 3: into the company.[01:01:10] [01:01:15] [01:01:20] [01:01:25] [01:01:30] 
+
+
+[01:01:32] Yeah, so 
+
+
+[01:01:33] Speaker: like I've [01:01:35] mentioned, it starts with talent, and I'll talk about why talent's an important vector [01:01:40] to getting that shared mindset. If you bring in a plus people [01:01:45] into the company, you do not need to tell them what to do. [01:01:50] You need to tell them what the vision is, what the North star is, [01:01:55] and then they will go out and execute it directly against that vision.
+
+
+[01:01:59] They'll believe [01:02:00] in the vision, they'll know where they can make an impact in the vision. And they'll know why [01:02:05] what they're doing will get us closer to achieving that vision. That [01:02:10] is the most important job of a founding and executive team, in my opinion. [01:02:15] And so we go to extreme lengths to remind everyone [01:02:20] what are North Stars.
+
+
+[01:02:22] Every single time we have a team meeting, [01:02:25] we talk about how we are building one of the most important companies in the world. Every single time [01:02:30] we identify or go into a new design meeting, we talk about how do we [01:02:35] ask this question from first principles. Every single time we look at a new [01:02:40] talent or a new person that we wanna bring into the company, we are always asking, [01:02:45] are they gonna fit the culture?
+
+
+[01:02:46] Are they ambitious enough? Do they believe that what we are going to [01:02:50] do is gonna fundamentally change the world? Today, we are [01:02:55] always impressing our culture and our culture, which is built after chasing that [01:03:00] vision on the team. To a point that the team starts to just embody that as [01:03:05] well. And I think if you go talk to anyone in radical AI today and ask them, [01:03:10] what are you doing?
+
+
+[01:03:11] They'll tell you, building the most important company in the world, [01:03:15] rethinking the scientific method so that we can unlock human's most important technological [01:03:20] advancements. Everyone is aligned in that and we constantly remind them that [01:03:25] that's what we're doing. And that's the job of the executive team.
+
+
+[01:03:27] You set the vision and you let [01:03:30] incredible talent execute 
+
+
+[01:03:31] Speaker 3: against that vision.[01:03:35] [01:03:40] [01:03:45] 
+
+
+[01:03:46] I think 
+
+
+[01:03:47] Speaker: start to understand the way the field is gonna change. [01:03:50] One of the things that we talk about with science and that is frustrating about the scientific [01:03:55] process is the monotonous nature of research. You go [01:04:00] get a PhD and become an expert in a very specific field, only to then spend [01:04:05] hours overnight, potentially pipetting samples or running [01:04:10] experimental tools and pulling the data from them, and you don't really [01:04:15] need a PhD to do that.
+
+
+[01:04:17] What PhDs are incredible out are looking at the [01:04:20] data, analyzing that data, and coming up with the next best thing to create. [01:04:25] And so if you can be aware of where AI and autonomy are gonna impact that workflow [01:04:30] and can actually be a party to making sure that AI is [01:04:35] smart, making sure that AI is safe, making sure that AI [01:04:40] understands the intricacies of a space, then you can be [01:04:45] incredibly effective in the future version of science because it's gonna take a long period of time [01:04:50] for an AI scientist to truly understand every detail about every single [01:04:55] space in the world.
+
+
+[01:04:56] And that's what a PhD is, becoming an expert in a very specific space [01:05:00] and writing a dissertation on a new hypothesis made in that space. And so if you can [01:05:05] use that knowledge and work with where AI and autonomy is already better than you today, [01:05:10] you can have a really effective relationship at driving discovery.
+
+
+[01:05:13] I think a bad [01:05:15] idea would be to continue focusing and becoming an expert at the processes [01:05:20] we know are going to be automated or pushed away by AI running specific [01:05:25] tooling, just capturing data and even, even just, you know, [01:05:30] reading publications and being very good at indexing a lot of information quickly.
+
+
+[01:05:34] AI is very [01:05:35] good at those things today, and I think that that's not where the most brilliant minds in the 
+
+
+[01:05:39] Speaker 3: world should spend time.[01:05:40] [01:05:45] [01:05:50] [01:05:55] [01:06:00] [01:06:05] 
+
+
+[01:06:09] And look, the thing [01:06:10] that 
+
+
+[01:06:10] Speaker: we get most excited about is by making novel [01:06:15] materials with a new scientific process, we shorten the discovery timeline [01:06:20] and in doing so, we can actually enable a platform [01:06:25] for more technologists to build on top of. We do not [01:06:30] know what they're going to build. That's the entire excitement.
+
+
+[01:06:34] About [01:06:35] novel materials, research and discovery. We know the properties and the industries that we wanna work [01:06:40] into. We know how to do this inverse design problem we talked about of taking real properties [01:06:45] and inversely designing new materials for them. But once you discover those novel [01:06:50] materials, it's an endless amount of opportunities that you can truly build on top of.
+
+
+[01:06:53] And so what does the world [01:06:55] look like in 10, 15, 20 years? I don't think we know, but I do [01:07:00] think it'll be a world that is different than we see it today. [01:07:05] I think humans will be multi-planetary. I think there will be novel [01:07:10] technologies that enhance our reality, whether that's, you [01:07:15] know, everything from learning through to medical procedures.
+
+
+[01:07:19] I [01:07:20] think that the way we do transportation construction [01:07:25] or, or, or, uh, you know, novel industries like manufacturing will be [01:07:30] fundamentally disrupt. And all of this will be built off AI moving into the physical [01:07:35] world and novel materials that empower those 
+
+
+[01:07:37] Speaker 3: innovations and, and interventions[01:07:40] [01:07:45] [01:07:50] 
+
+
+[01:07:51] the alignment 
+
+
+[01:07:52] Speaker: on the vision. With my co-founders, [01:07:55] the most important thing in the company is the vision, as I've talked about. [01:08:00] Without that, there is no company to build. And the thing that I am most proud of [01:08:05] is even when we disagree, even if we have arguments around the right [01:08:10] path forward, those arguments are in the details, never in [01:08:15] the vision of what we are trying to solve and, and do as a company.
+
+
+[01:08:19] [01:08:20] And the thing that I think is incredibly important and something that we have at Radical [01:08:25] AI is a direct alignment from all three founders of exactly [01:08:30] where we're going. The way we get there might change. We might disagree on the next [01:08:35] stepping stone to take, but we all fundamentally believe the [01:08:40] world of 10 years looks 10 years away, looks different than the world we [01:08:45] live in today.
+
+
+[01:08:46] And that's exactly what we are working towards. And I think it is [01:08:50] humbling, as well as exciting to work with a co-founding team that truly believes [01:08:55] 
+
+
+[01:08:55] Speaker 3: all of the same things.[01:09:00] [01:09:05] 
+
+
+[01:09:08] Absolutely. I, I 
+
+
+[01:09:09] Speaker: would walk the exact same [01:09:10] path. Every mistake, every success, everything builds who you are as a person. [01:09:15] I'm a firm believer in everything happens for a reason. I talked earlier about connecting the [01:09:20] dots. Again, you need dots to be able to connect and while you might not [01:09:25] know where this.is gonna make an impact.
+
+
+[01:09:27] You never know where it is going to or [01:09:30] how it is going to impact what comes next. So there are so many mistakes I've made [01:09:35] as a person. There's mistakes I've made, even as an entrepreneur in, in running radical. But [01:09:40] all of them are learning opportunities and are an opportunity for growth. [01:09:45] And I think without them, you're never moving forward.
+
+
+[01:09:48] You are not [01:09:50] continuing to push for success as a person. Uh, it is in human nature to fail. [01:09:55] It's in human nature to make mistakes. And it's in those mistakes and failures that you can truly learn and [01:10:00] unlock the key to success. And so for me, 
+
+
+[01:10:02] Speaker 3: nothing I would ever change,[01:10:05] [01:10:10] [01:10:15] [01:10:20] 
+
+
+[01:10:22] never give up, 
+
+
+[01:10:22] Speaker: no matter what happens. Never, [01:10:25] ever, ever give up. Have a relentless, insane ambition [01:10:30] and pursue that ambition with everything that you can possibly have, uh, in, in the pursuit [01:10:35] of 
+
+
+[01:10:35] Speaker 3: that, that's what I would tell them.[01:10:40] [01:10:45] [01:10:50] [01:10:55] [01:11:00] [01:11:05] [01:11:10] 
+
+
+[01:11:10] You have to make it 
+
+
+[01:11:11] Speaker: a principle of your, you have to make it a principle of [01:11:15] yourself to never quit. And I think the military helped instill this in me. One of the, [01:11:20] uh, messages in, in, in the soldiers creed is I will never quit. And so there might be moments [01:11:25] where. You are down on a problem or you think about it, did I make the right [01:11:30] decision?
+
+
+[01:11:30] Should I actually be doing this? But if you have a core principle, a core [01:11:35] value of I will never quit, then even if you hit the [01:11:40] lowest of low in that process, you will still find a way to come [01:11:45] back and pursue the goal that you were originally going after. Humans always do. [01:11:50] We are unbelievably ambitious and [01:11:55] resilient creatures, and I think if you have principles built [01:12:00] around never quitting, then it is 
+
+
+[01:12:02] Speaker 3: impossible to do so.[01:12:05] [01:12:10] [01:12:15] 
+
+
+[01:12:16] I think that's where your 
+
+
+[01:12:17] Speaker: co-founders are the most important in [01:12:20] moments of doubt or even questioning. Are we doing this the right way? [01:12:25] Was that a concerning objection X uh, investor [01:12:30] X talent had, if you have a shared vision, as I talked about, [01:12:35] you very quickly get aligned on, no, we know why we're going where we're going.
+
+
+[01:12:39] We know what [01:12:40] the result of where we're going will be. We need to continue to push towards that. There will be bumps along the [01:12:45] road and that is what your co-founders are there for. And I think that's why, for me, the most, the [01:12:50] thing I'm most proud of is all of us being directly aligned on what we're doing, so that when it gets hard or when [01:12:55] we are unsure about a decision that we made, or if we're marching in the right direction, we can get [01:13:00] reassurance that the steps we're taking are all focused on the same North 
+
+
+[01:13:04] Speaker 4: Star.[01:13:05] [01:13:10] [01:13:15] [01:13:20] 
+
+
+[01:13:20] Speaker 3: So my co-founders 
+
+
+[01:13:22] Speaker: are incredible. They are the [01:13:25] smartest people I've ever met in my life. They have [01:13:30] more passion and resilience than most [01:13:35] people I've ever encountered. And they believe in the [01:13:40] same things I do, which is with enough ambition [01:13:45] and tenacity, you can make a change in the world today. And I [01:13:50] think the thing that I learned from them, I learned from them every day, is that there are [01:13:55] different ways to solve a problem and actually bringing in multiple perspectives around [01:14:00] that problem.
+
+
+[01:14:01] Often shine lights on things you, you probably yourself wouldn't already think about. [01:14:05] All of us are very different in stylistic approaches to problems, [01:14:10] but we all believe the same vision. And so while I might be [01:14:15] very, you know, aggressive or have a strong attention to detail on one issue and, and one of [01:14:20] the other two might not.
+
+
+[01:14:21] We are still trying to get at the same outcome and that [01:14:25] different look at a problem is in incredibly effective from an executive team, [01:14:30] you have three different attempts to solve the problem effectively, all with [01:14:35] the same outcome. That's exactly what you want to have. The more smart minds you can bring around to solve [01:14:40] problems, the more success you're gonna have around that.
+
+
+[01:14:42] So my co-founders are [01:14:45] imperative to the success of the company. They are imperative to the success [01:14:50] of our mission, and they are imperative to the success of us as a founding team, [01:14:55] building what we think is one of the most important 
+
+
+[01:14:57] Speaker 3: companies in the world.[01:15:00] [01:15:05] [01:15:10] [01:15:15] 
+
+
+[01:15:16] The next step that we will 
+
+
+[01:15:18] Speaker: see is [01:15:20] what I would call. Augmented scientific discovery, which is a stepping [01:15:25] stone between true artificial general intelligence for science and being [01:15:30] able to augment or assist a scientist in their discovery efforts and, and [01:15:35] that's what we do in the lab today. We have experimentalists working on novel materials [01:15:40] in the lab, but they are augmented by robotics and [01:15:45] AI in their approach of novel discovery.
+
+
+[01:15:47] And the next step will be really [01:15:50] transitioning those scientists from being inside that loop and a part of the discovery process [01:15:55] to moving them outside onto the loop where they're watching and informing the [01:16:00] discovery process, but not taking part in it. That will be the first stepping stone that we [01:16:05] take in the next 12 months before we start to move into and see artificial general [01:16:10] intelligence or the removal from the loop entirely of a 
+
+
+[01:16:12] Speaker 3: human scientist.[01:16:15] [01:16:20] [01:16:25] [01:16:30] 
+
+
+[01:16:31] So the 
+
+
+[01:16:31] Speaker: material process discovery process [01:16:35] is challenging today. It is a very fragmented based approach, [01:16:40] which means that every part of the discovery process from researching [01:16:45] information to simulating novel structures, [01:16:50] to then going out and making those novel structures and testing the properties [01:16:55] of those structures happens in a silo, happens individually.
+
+
+[01:16:59] And [01:17:00] the problem with that is that there's no interconnectivity between each [01:17:05] step that you can learn from for the next iteration. And so when we use [01:17:10] ai. We use it in every step of that process. [01:17:15] When we look into a new area, our AI agents will index [01:17:20] millions of scientific publications and learn what a field has done already.[01:17:25] 
+
+
+[01:17:25] It will take those results as well as using its own model and [01:17:30] generate novel material structures that it thinks will be stable and be able to be made [01:17:35] in the lab. It'll then send those material structures to a robotic lab [01:17:40] where those materials will be made and then characterized and [01:17:45] analyzed by artificial intelligence where we are actually looking at the results of those [01:17:50] experiments and in real time making decisions on what to make [01:17:55] next, or what we call forming a new hypothesis, all from artificial intelligence and machine learning [01:18:00] again.
+
+
+[01:18:00] And so this process that is fragmented from a human scientist is [01:18:05] fully interconnected and can happen. At an incredible speed in the [01:18:10] comparison to a human scientist about 370 times the speed we operate as a [01:18:15] human 
+
+
+[01:18:15] Speaker 3: scientist today,[01:18:20] [01:18:25] [01:18:30] [01:18:35] [01:18:40] [01:18:45] [01:18:50] 
+
+
+[01:18:51] I think discipline is 
+
+
+[01:18:51] Speaker: the bedrock of success. I [01:18:55] think if you are disciplined and execution oriented, you will outperform [01:19:00] 99% of people. People are lazy. They don't wanna put in the work. And they [01:19:05] stray from what they're trying to do from a lack of discipline. And so you [01:19:10] can beat 99% of the world just by that.
+
+
+[01:19:14] And then it comes to [01:19:15] playing in the 1%, which is where the fun lies. I think the things that I have added [01:19:20] on top of discipline have been being able to compartmentalize. [01:19:25] Um, I have a family at home. They are the most important thing in my world, [01:19:30] and there needs to be times, particularly when you're the found founder of, of a [01:19:35] startup where you need to be able to remove yourself from the startup [01:19:40] and apply yourself into the family.
+
+
+[01:19:42] And the way you can do that is being [01:19:45] very good at boxing off and, and removing yourself from [01:19:50] situations so that you can be present in others. And I think I didn't need to do that [01:19:55] before becoming a co-founder of a startup, but now is a very important part of my [01:20:00] day, particularly when I, when I get home in the day.
+
+
+[01:20:02] I think a lot of the lessons that I have in [01:20:05] discipline, I, I execute the same routine six, seven days a week. Uh, I get up early before [01:20:10] anyone else is awake. Um, I keep myself, uh, you know, active and [01:20:15] in shape because it's incredibly important for thinking and, and, and driving towards [01:20:20] success. And I think those things all continue to compound, especially as you start to [01:20:25] try and take on harder challenges.
+
+
+[01:20:27] So I think they actually become more important to [01:20:30] stay true to, to the core 
+
+
+[01:20:30] Speaker 3: discipline aspects that you have.[01:20:35] [01:20:40] [01:20:45] [01:20:50] [01:20:55] [01:21:00] 
+
+
+[01:21:00] Yeah. So, 
+
+
+[01:21:01] Speaker: uh, when it comes to 51%, two different things that we think about. [01:21:05] First, how big is the decision? And second, what are the risks [01:21:10] if the decision is wrong? And those two together allow us to actually identify [01:21:15] when we are at 51% or not. Of course, we do a bunch of research [01:21:20] and have a bunch of conversations and debate around getting to that confidence [01:21:25] interval of 51%, but when it is a decision in day to day, for [01:21:30] example, it's not.
+
+
+[01:21:31] Year defining or, or really decade defining and [01:21:35] what we're trying to go after, well then we can have confidence to make it quickly. [01:21:40] And when we think about what the other side of that decision is, what is the worst case [01:21:45] scenario that happens that usually alerts you to, you are already at 51% [01:21:50] or you are nowhere near 51%.
+
+
+[01:21:53] And that has a great checkpoint that [01:21:55] we ask ourselves and everyone in the company and constantly pushing towards, uh, getting, [01:22:00] getting at quick decision making, but effective decision making as well. You know, 51% [01:22:05] is not about just making decisions fast for fast sake. [01:22:10] 51% is making decisions that you are already going to make, just making them [01:22:15] earlier and then dealing with the effect of not always being a hundred percent correct.[01:22:20] 
+
+
+[01:22:20] Because no matter if you think a bad a decision for two weeks or two years, there's still a [01:22:25] likelihood that you're not gonna be correct. And so being able to be in a mentality and a mindset [01:22:30] around. Quick, effective decision making is 
+
+
+[01:22:33] Speaker 3: very important.[01:22:35] [01:22:40] [01:22:45] [01:22:50] [01:22:55] [01:23:00] 
+
+
+[01:23:04] So it depends. I 
+
+
+[01:23:04] Speaker: [01:23:05] think leaders are very dynamic in their role, or excuse me. I think leaders need to be very [01:23:10] dynamic in their role. They need to be able to sometimes have a [01:23:15] large reaction to a problem or a situation that unfolds to set [01:23:20] the tone and remind everyone of the North Star and sometimes need to show.[01:23:25] 
+
+
+[01:23:25] And exercise, thought and caution around the way that we're going to move [01:23:30] forward based on a decision and different times, different circumstances, different [01:23:35] environments call for different responses. And I think the best leaders in the world know when to use each [01:23:40] response to con, continually, collectively move a team forward.
+
+
+[01:23:44] I think one [01:23:45] thing that we always do, and I learned this in the military, was what the military calls an [01:23:50] after action review, uh, which is an analysis on what [01:23:55] happened, why did it happen, and what could we do differently next time? And I think we do [01:24:00] a similar version of that in all of the decisions, both failures and successes that [01:24:05] we have, that we have in the company.
+
+
+[01:24:06] What was the decision we made? Why did [01:24:10] we make that decision? And then as a result, why did that happen? What can we do differently the next [01:24:15] time we are in a similar situation? We are always asking that regardless of whether [01:24:20] it's in personnel, something in the scientific, experimental process or [01:24:25] something from a, a company-wide perspective, value setting, uh, fundraising or, or something on the [01:24:30] leadership side, we're always asking the same question because I think that gets you back to that first [01:24:35] principle analysis and ground truth.
+
+
+[01:24:37] This ability to truly [01:24:40] stay focused on the North Star, focused on the mission, and understand the decisions [01:24:45] you make, how they impact your ability to get closer or farther away from that mission, if you can do [01:24:50] that, I'd be hard pressed to find a decision that is gonna remove you or entirely eliminate 
+
+
+[01:24:54] Speaker 3: [01:24:55] you from achieving success.[01:25:00] [01:25:05] [01:25:10] [01:25:15] [01:25:20] [01:25:25] 
+
+
+[01:25:26] I think support systems can 
+
+
+[01:25:27] Speaker: look any way you want them [01:25:30] to. Mine is family, as I've talked about, and has been mine for a very long time. It [01:25:35] remains mine today, but I really think even in the founder community itself, [01:25:40] there is, uh, an opportunity to connect with like-minded people who [01:25:45] are working on hard problems, who are going through similar mistakes or decisions that you [01:25:50] are going through and who are most likely open.
+
+
+[01:25:54] To go through [01:25:55] or have a conversation with you about that. And so I think it really comes down to [01:26:00] building your support system. Your support systems don't, in my opinion, [01:26:05] form around you automatically. They take effort and they take kind of [01:26:10] consistent check-ins on being able to be, um, [01:26:15] lemme say that again.
+
+
+[01:26:17] I think support systems take consistent [01:26:20] effort on being able to have a dual approach. I can be here for [01:26:25] you and you can be here for me wherever you can find someone that [01:26:30] can do that for you. You can share your problems with them and they can share their problems with [01:26:35] you can be a support structure. My family can be a support structure and [01:26:40] is my co-founders are a support structure.
+
+
+[01:26:43] The team at Radical can be a [01:26:45] support structure. And my mentors, my investors, my board can be a support [01:26:50] structure. It's on anyone that you can truly lean on and have this dual, [01:26:55] uh, you know, two-way street approach on sharing and solving problems together. [01:27:00] I think that is what truly makes a support system, whether they're from family, [01:27:05] from community, or from company, matters less as much as the ability to be able to converse and 
+
+
+[01:27:09] Speaker 3: [01:27:10] solve problems.[01:27:15] [01:27:20] [01:27:25] [01:27:30] [01:27:35] [01:27:40] 
+
+
+[01:27:42] Arguably 
+
+
+[01:27:43] Speaker: the most [01:27:45] important material discovery in human history is that of [01:27:50] silicon, which is used in the discovery of a transistor, of course, and the reason why [01:27:55] is the most advanced technological developments we've had [01:28:00] today, as well as the ones that are coming in the future like artificial intelligence.
+
+
+[01:28:04] Are [01:28:05] built off the back of semiconductor or transistor technology, which is of course built off the back [01:28:10] of silicon technology. Where we see the world going in the future. And probably the most exciting [01:28:15] problem that most talk about today is a room temperature superconductor, which is a material that is [01:28:20] incredibly exotic, has never been able to be made today, and would [01:28:25] unlock everything from floating trains to really lossless nuclear energy.
+
+
+[01:28:29] [01:28:30] And so it's an incredibly exciting world. We get excited about, uh, multi-component systems, [01:28:35] high entropy alloys to be specific where you have a massive [01:28:40] design space. You know, 10 to the 80 different potential combinations would take humans, [01:28:45] five, six, 7,000 years to explore. But with AI and autonomy, can [01:28:50] actually find the best materials in there with incredible mechanical and thermal [01:28:55] properties.
+
+
+[01:28:56] And then thinking about, you know, systems that are more farther [01:29:00] away. Um, I think quantum technology and the novel materials that we might use there [01:29:05] are incredibly exciting as well as things as simple, uh, or as sophisticated [01:29:10] as the biomedical side where we are actually replacing or, or [01:29:15] being able to artificially create bones, skins, organs, and things like this to, to [01:29:20] repair and, and drive, uh, longevity inside, inside the human race.
+
+
+[01:29:24] So [01:29:25] there is an incredible amount of materials coming in the future. Anywhere you look, there is a 
+
+
+[01:29:29] Speaker 3: [01:29:30] material problem to be solved.[01:29:35] [01:29:40] [01:29:45] [01:29:50] [01:29:55] [01:30:00] [01:30:05] 
+
+
+[01:30:08] Absolutely. 
+
+
+[01:30:09] Speaker: One of the reasons [01:30:10] that we talk about what we do is artificial general intelligence for science is that [01:30:15] we are recreating the scientific process and the way we do [01:30:20] novel discovery. And the reason we think this company will be a hundred, 200 years old [01:30:25] and way outlive us is the technology itself.
+
+
+[01:30:29] [01:30:30] In doing that novel scientific process can be applied to a range [01:30:35] of industries across a range of problems and continue to be [01:30:40] improved in the future. And so the thing that we get the most excited about is [01:30:45] if you build technology and the technology leads [01:30:50] to focusing on specific products like materials or biotech or another, [01:30:55] then what you can really enable is endless discovery.
+
+
+[01:30:59] There is [01:31:00] always something new that can come from a novel discovery [01:31:05] because we are rethinking the way to drive the process of getting there, and that is why [01:31:10] all the technology that we focused on today is around this materials flywheel, this [01:31:15] AI and autonomy based loop that changes the way we do discovery.
+
+
+[01:31:19] Because if we do [01:31:20] that, then there is no material challenge that is too big or too hard for [01:31:25] radical AI to solve in our opinion. That's the future of the world that we wanna build as well in a [01:31:30] hundred years when we are looking for novel materials and what comes next. This same [01:31:35] iterated flywheel can be used to drive discovery yet again.
+
+
+[01:31:39] And I think that [01:31:40] technology that can be multiplied is technology that can truly leave an impact. And [01:31:45] so that's why we think this company is a, is a multi, you know, [01:31:50] decade 
+
+
+[01:31:50] Speaker 3: century based company.[01:31:55] [01:32:00] [01:32:05] [01:32:10] 
+
+
+[01:32:11] Speaker 4: My 
+
+
+[01:32:12] Speaker: name is Joseph Kraus. I'm the co-founder and CEO of [01:32:15] radical AI. At Radical ai. We are building artificial general intelligence [01:32:20] for scientific discovery, starting in material science. Where we are [01:32:25] focused on discovering materials that will impact the future technological [01:32:30] innovations of the world, we really get excited about materials because regardless of [01:32:35] whatever industry you care about, automotive and aerospace, manufacturing and defense, climate, energy, [01:32:40] semiconductors, all of these materials, all of these industries are a direct result [01:32:45] from materials r and d, and that is what our scientific process is attempting to solve.
+
+
+[01:32:49] Good. [01:32:50] All right. Good questions. Thank [01:32:55] you.

@@ -1,0 +1,1168 @@
+﻿Full Script
+nico full audio
+===
+
+
+[00:00:00] Yeah, we did the sound. Okay.
+
+
+Yep. One clap, take [00:00:10] one.
+
+
+Thank you. Okay. So first of all, could you briefly introduce yourself and briefly [00:00:20] describe fundamental research labs in shortcut? Yeah, sure. Uh, I'm Nico Christie. I'm the co-founder of Fundamental. I'm also the founder and CEO of Shortcut Fundamentals, a research lab. We spun out of [00:00:30] MIT about 18 months ago where my co-founder was a professor.
+
+
+Uh, and since then we've been on the pursuit of building digital humans, um, starting in games, getting into multi-agent from their productivity and eventually embodiment [00:00:40] and shortcuts our first winning product in the productivity space. Hmm. Okay. And like recently, a demo video of Shortcut is went really [00:00:50] viral.
+
+
+And so like, and also you raised, uh, like series A from the. So how did you, how did they [00:01:00] feel? Like, how did you expect such a reaction? Um, I guess I expected that if you can automate a significant portion [00:01:10] of Excel work that people would care. Um, I think people cared even more than I had anticipated, and in terms of how I felt, maybe I felt good for a [00:01:20] day.
+
+
+Um, but the truth is, is we've signed up to do something pretty profound and this becomes just a part of the job and just a small incremental step towards what we want to get [00:01:30] to. And can you describe how much does this video viral and how much funding fund did you raise? Yeah, [00:01:40] so we've raised, we raised a $33.5 million series A, uh, that was led by process.
+
+
+It, uh, incorporated a lot of our prior major investors like Andreessen Horowitz's Games Fund, [00:01:50] um, Eric Schmitz, first Spark, uh, patron, which is a, a games. Um, it included Patrick Collison and Balaji and some other angel investors and researchers [00:02:00] then, like, like could you clarify the relationship between fundamental research lab, research lab and shortcut?
+
+
+Like [00:02:10] why did you choose this structure? Yeah. Yeah. It's a great question. There's probably no model for it in the west. Um, but the most important thing you can do as [00:02:20] a research lab is address the fundamental tension between research and product. What are you going to build? How are you gonna prioritize what you build?
+
+
+Um, when you build something that succeeds, do [00:02:30] you put all of your effort into it? Um, that's what we've seen cause tremendous amounts of tension at places like open ai. And I think at the shallow level, what you can do is say, oh, well we're research oriented or [00:02:40] we're product oriented. But the truth is, when you have a breakout success, the tension at the company will become palpable and the company will split into factions.
+
+
+And that's why you see an exodus from open AI and people focus ont bt, for [00:02:50] example. Um, so there's two things you have to do. You have to have. A structural approach for how you address that tension. And you have had a, you have to have a systematic strategy for how you actually align these [00:03:00] things. So structurally, like I kind of alluded to, there's no model for it in the west.
+
+
+I think the best comparison would be ance, uh, where you don't have any coherent product theme. But what you do have is a very [00:03:10] coherent and intentional research and tech theme. So by chance, equivalent would be e recommendation engine. And from there all these flowers may bloom, right doin, um, to, [00:03:20] um, but for us, the core, um, for us, the core, you know, unifying theme is actually building multi-agent frameworks [00:03:30] and building strongly performing agents.
+
+
+And we've done this many, many times. So from there, different products may bloom. One of them was Minecraft. We built the first ever agents that could play Minecraft and the second one was [00:03:40] Roblox. Um, and the most recent one is an agent that can perform extremely well on Microsoft Excel. Um, and when something does succeed, you have to be able to [00:03:50] win as, win as in as unconstrained of fashion as possible.
+
+
+So shortcut is rapidly, rapidly scaling because the opportunity is to potentially replace the most important app [00:04:00] in business. Hmm. Cool. Okay. So before we dive into the shortcut journey, like I want to ask about your like, father journey. [00:04:10] Sure. So like, I heard that you are a basketball player. Yeah. So near like Don King days.
+
+
+Yeah. You [00:04:20] are like one of Miami's top dunkers. So how did that experience shape the way you lead the tech startup today? Yeah. Um, it's atypical, but I [00:04:30] was not argue. I was arguably not just Miami's best dunker, I was arguably one of the very, very best dunkers in the world. Um, and in most ways it's completely uncorrelated [00:04:40] and unrelated to what I'm doing now, except for I know what it looks like and what it's required to be the best in the world as something which is something that's really, really rare, um, definition of.
+
+
+And what it takes [00:04:50] is every living breath, every time you sleep, every food you eat, all of it serves in the purpose of accomplishing your goal. Um, and that sort of maniacal [00:05:00] alignment is what it takes to succeed. And I vowed to find people who felt that way about their work and their mission. Uh, and that's what we have here, is to build digital humans.
+
+
+We're very [00:05:10] specific about what that means. It means building machines with every fundamental human quality and modeling it after the brain to understand the brain, to build ai like it, and as a result, um, to build transformatively powerful machines. [00:05:20] Uh, and this has been my co-founder's dream since he was 17, being self-taught, uh, before getting into MIT.
+
+
+So, uh, I knew I needed to start a company, people like that. And I knew what it [00:05:30] takes in terms of the suffering required, uh, to push yourself and an organization to a goal that hardcore. What was your life like with [00:05:40] what was your life schedule and was when you were in. Player this? Yeah. Yeah. So I knew at a young [00:05:50] age that I was extremely gifted.
+
+
+Um, as in I was always the local best in my city. Um, and what that caused was a sort of a sense of confidence that like, I [00:06:00] can start to work more and more on this. Um, and then what that built was a really positive feedback loop that I would get better and better at it because I loved it. And then I would love it more.
+
+
+And then I would start to meet people who were just like me and I would travel. Um, I [00:06:10] ended up writing a book called How I Learned to Jump Higher Than LeBron James sold like tens of thousands of copies and I was providing, uh, for myself, but I knew that [00:06:20] this wouldn't scale and it wouldn't last. And, and frankly, I actually had accomplished all of what I had ever dreamed for in Dunking.
+
+
+Um, and that went to, while I was about 25 and even at [00:06:30] about 22, I knew that I would need a traditional career to support myself in addition to that. Um, so I actually took the first job I can find, which was as a finance consultant, um, [00:06:40] which looking backwards is not a coincidence that we've now built AI that can do finance work on Excel.
+
+
+Uh, but I would actually dunk, um, and work out every single day, uh, for hours a day, and I would [00:06:50] work from 6:00 AM to 8:00 PM in finance consulting. So you then shifted into corporate finance consulting and like [00:07:00] what motivated such a dramatic career change? Like could you describe more deeply detail? Yeah.
+
+
+Um, you know, it wasn't, uh, the most intentional thing. I think the [00:07:10] real truth is, is I would've taken whatever seemingly solid job I had. I didn't take my academics very seriously. Uh, I didn't even take my career very seriously. It was all second to my [00:07:20] pursuit of being the best dunker in the world. Uh, knowing that I had to satisfy a couple constraints.
+
+
+Like I had to be able to pay the bills. I had to be able to, you know, be proud of the work I did support a family, um, but I had [00:07:30] zero passion or fundamental interest for consulting or finance. Um, it took until a real authentic interest in technology that I actually [00:07:40] bridged, that I jumped out of finance consulting and that.
+
+
+You know, as the first hire, I joined and started a, a sports tech business that brought those two interests together and was my doorway into [00:07:50] coding, entrepreneurship and starting companies
+
+
+then, like, like what was the [00:08:00] most like, impact? Like what was the most, uh, exciting things you've done, you've done while you are working [00:08:10] as a finance consulting or like what was your, uh, the moment you want to like, describe [00:08:20] of this moment is really good or like, I don't wanna do that. Like, any moments you wanna like, tell us.
+
+
+Can [00:08:30] you remember? You know, the truth is, is not really okay. Uh, I think it was an important place for me to learn a lot, um, and it really taught me that. [00:08:40] You know, I think what, what people consider like being technical or having a strong skillset, um, in most of the world is at a very shallow level. Uh, [00:08:50] it means they can use keyboard shortcuts without using the mouse on Excel.
+
+
+It doesn't mean that they can code applications, um, into being through sheer will, right. Or, or to have original [00:09:00] ideas or to do something profoundly difficult. Um, and I think I was after, after having been something, uh, like at the tier of the best in the world of something to then go into consulting and to see everybody.[00:09:10] 
+
+
+Um, so surface level, I thought, um, I just didn't wanna be there. Okay. And later you transitioned to, into the AI research. [00:09:20] So teaching yourself to code and like confounding a lab at m mit. So how did you build, like, expertise so quickly without, uh, technical [00:09:30] background? So do you have a like personal learning back.
+
+
+Yeah. Yeah. Um, I would say, you know, maybe my motto in life is practice, practice, practice. Um, it was what I was taught when I was two. It's my dad's motto. [00:09:40] Um, and I really believe that the capacity ceiling for any human in any endeavor is way higher than you think. Um, that [00:09:50] any, any human can be in the top five percentile, top one percentile in most endeavors, um, and that they're probably gonna be 10 times better than they had thought.
+
+
+They can be in the limit that people who are naturally [00:10:00] gifted at a higher ceiling than others. Um, but you can pursue many, many different things and become extraordinary in all of them. And it's really a function of like the systems you put in place to get better, how fast can you iterate, right? [00:10:10] Um, so we talk about like end-to-end iteration as a key philosophy of this company, but also it's always been one in my life as well as the principle of specificity.
+
+
+So end-to-end iteration is like you wanna score by Friday and you wanna hit 80%, [00:10:20] you better have a score by Monday morning of, doesn't matter, it could be 1%, but from there, every time you have an iteration cycle, you can improve. Um, what you don't do is set up the things in, you know, in the periphery that [00:10:30] don't help you get there fastest.
+
+
+Uh, and that's similar to this principle of specificity, which is like if you wanted to dunk, you know what you're supposed to do. You find a hoop that is just high enough that you can [00:10:40] barely dunk on it, and you dunk on it a thousand times, and then the next day you raise it by one inch and you do it again and again.
+
+
+Um, doing the thing is the best way to get good at the thing. [00:10:50] So when I moved out of, um, dunking, I bizarrely artistically decided I'm gonna get good at programming. I had done a master's in data science. I [00:11:00] had used Python and ARB a bunch. Um, and I thought, you know what? I'm just gonna grind, uh, lead code every single day.
+
+
+And I did that for hours a day. Um, I wouldn't say it, [00:11:10] I wouldn't say it was transformative in like my ability to code, uh, but it was an amazing ability for like me to realize how quickly you can get better at something, uh, even if it was technical and your first jump into something totally different. [00:11:20] Um, and then coincidentally that's when, uh, the AI proliferation happened.
+
+
+Uh, and I was using AI to code the moment it was, you know, available to the public. And, and that was a unique skill [00:11:30] set. That has had outsized returns, uh, for people in our industry. Uh, but yeah, it's learning and getting world class at anything is actually a relatively similar thing [00:11:40] regardless of the field.
+
+
+And it requires quick iteration, specificity, uh, and the belief that like your ceiling is actually higher than other people probably think it's, Hmm. So when you were doing [00:11:50] the lead code of learning the programming, like how many hours a day did you study? Yeah, I was doing from, from 5:30 [00:12:00] AM to about 8:00 AM Um, and then I was doing, um, probably from like 8:00 PM to 10:00 PM uh, so two to, or three to five hours a day at least.
+
+
+Um, and then, you know, [00:12:10] that's not even the first time I've done that. Uh, when I wanted to get into MIT, it was the first time I had ever taken academics seriously. And I had realized that getting a perfect score was [00:12:20] totally doable. Um, it was just a game of gamified system. Uh, and what you should do is take as many tests as possible and iterate.
+
+
+So I got every practice test that's ever happened. [00:12:30] And I did one a day, uh, which takes two to three hours. Um, and then I got the feedback from every single score, and I would do it again. And like you can imagine the scores would climb. The other one that I did, which [00:12:40] is very bizarre, is I accounted for every word that has ever shown up in the vocabulary for the verbal section.
+
+
+And I learned every vocabulary. There wasn't one [00:12:50] word that I didn't know. Uh, and this is just like, I, I think it's a very silly anecdote, but of course I got a perfect score on the verbal, and I got into MIT with a full ride, but it was because I just decided [00:13:00] that like, you could get good at these things.
+
+
+Um, and then I brought that same approach. While I was doing that, I was also actually, uh, coding every single day. So to me it was very obvious that like you could [00:13:10] get insanely good at things, um, whether it was learning vocab or getting great scores or coding, um, and that there's a pretty linear correlation between how many times, how much time you put into it.[00:13:20] 
+
+
+Uh, once you know the tools and the sort of the methodology to get good. I, I feel like when you do something like, do you always think of it as [00:13:30] a game or a batch? Like your life is designed as a game? You know, maybe like, um, maybe subconsciously there's an [00:13:40] element of that. Um, I think there's like an animal brain in all of us, but maybe more so in in men, or maybe more so in men like me, in which to see a number go up [00:13:50] is kind of like the best feeling in the world.
+
+
+Uh, and it could be like the silliest number, but if you orient yourself around improving a number and you make it go up, it's, it's actually a pretty fulfilling way to, to [00:14:00] live your life. And do you think the reserves come out, uh, in pro like proportion to the time you put in? [00:14:10] Um, it's a great question.
+
+
+It's probably, um, it's probably log scale, uh, as in, you know, there's a [00:14:20] very powerful relationship between the initial time you put into something and then there's like a, you know, a. Is some sort of ceiling in which like the returns diminish. Um, the thing is, is that like [00:14:30] as the ceiling happens and as the long tail flattens, that's actually where the majority of the value accrues.
+
+
+So that, like getting from the 95th to 98th percentile than [00:14:40] anything is harder than getting from 1% to 95. Um, but the difference between the 95 and 98 is like, it's, it's everything. It's, it's how you distinguish [00:14:50] yourself amongst others, um, and how you really create value. So if, if as long as you have that framework for that, it actually becomes very tolerable to understand that you might see very menial improvements.
+
+
+Just like in [00:15:00] Dunking, I hit a 47 inch vertical, but to get from 46 to 47 took like three years of dedicating my life. Uh, and on the outside, like no one could tell the difference. [00:15:10] Um, but among the best in the world, it was very clear. Yeah. Then in your journey, like, was there a moment to when you felt that kind of low scale pro?[00:15:20] 
+
+
+Like the, the initial Yeah, like the. Yeah. Yeah. And that's actually usually the time in which you get, when, when you fall in love with something. So for example, [00:15:30] um, I shouldn't use donkey anecdotes, but even, even lead code, um, like to see that like you can accomplish your first problem or to see that, like you can build a webpage [00:15:40] and like to see that it would hot reload when you change, you know, some variable or, you know, some, some styling that, like, that instant gratification and knowing how much better you're getting on a daily basis is [00:15:50] probably what is, is what instills the love for the thing you're working on so that you can actually tolerate the slowdown, uh, that happens in the [00:16:00] limit, uh, and push through that.
+
+
+And how do you come to join the founding team at predictions drive? Like what was it, uh, [00:16:10] about the opportunity that objected you? Yeah. Um, I thought it was the perfect blend of like my two interests. Um, one which was, you know, I was [00:16:20] sort of maturing out of, which was this dunking. Um, which was sports tech, right.
+
+
+Or sports. And then the other one was tech. I had been starting to code adamantly. Um, and [00:16:30] then, you know, serendipitously my sister had gone to school at Harvard with Devin, who was the co-founder and CEO of prediction strike and offered to make an introduction and we hit it off. I think [00:16:40] Devin is one of the most spectacular people I know, um, specifically in how well-rounded he is across the board, which is atypical amongst people who start companies.
+
+
+Um, and what I offered [00:16:50] to do was do free work. So I worked for free from December to August. I worked eight months, two jobs in Dunking, [00:17:00] um, while coding. And I provided instrumental value to the company to the extent where when it was time and we had closed our first fundraising round, it was [00:17:10] obvious that I should be joining as a part of the founding team and the first hire.
+
+
+Um, that's actually one of my main advices for anyone looking to break into startups. Just find a place. [00:17:20] Add value, even if they can't pay you and be so good that they have to hire you. Um, so I did that and it was, uh, an incredible journey and we launched together, um, [00:17:30] from launch to Series A. We scaled to hundreds of thousands of users, millions of dollars in revenue.
+
+
+And, um, I learned what it meant to build like a product people [00:17:40] love and, and a business and to hire and to scale. And I knew that I wanted to do it, um, as a co-founder with people who were the best in the biggest and baddest pool, which is ai. [00:17:50] And what, uh, and for the audience, like what is, could you explain what is, what the position strike do?
+
+
+Yeah. Uh, prediction Strike [00:18:00] is a sports stock market. It's a long term alternative to traditional sports betting in which you might lose or double your money in a single night. You can put money into a share and it might go up or down a few percentage [00:18:10] points on a daily basis, and it might double or triple or go down significantly by the end of the year, but it's a much lower risk, longer term alternative for a much more.
+
+
+[00:18:20] Enjoyable and casual and honestly like a more representative experience for most sports fans. Um, so we had a, an amazing initial success because of how appealing that was to most people. [00:18:30] And I feel like you must have been really busy though, in those days, like that day. So how did you set your prior priorities?[00:18:40] 
+
+
+Like while you were, 'cause you told me that you did coding and then dunking and also this job, so I think the [00:18:50] days so busy. So how can you, how did you set your priorities? Yeah, yeah. Um, you know, I [00:19:00] lemme think about this one for a second. Um hmm.[00:19:10] 
+
+
+Yeah. [00:19:20] Um, okay, sure. Um, so how do I set my priorities? Yeah. You know, the different endeavors you, you take on have different, you know, success [00:19:30] criteria and the different things that you have to do to ensure that you get there. Uh, for example, if you're gonna get really good at swimming, you have to swim all day long.
+
+
+Time spent in the pool is like, is perfectly correlated with how [00:19:40] much better you get. But if you're gonna get really good at sprinting on the track, for example, all you can do is sprint two to three times a week for maybe 30 minutes to an hour. If you do any more than that, you'll tear your hamstring. [00:19:50] In fact, it's counterproductive.
+
+
+Uh, so, so for some of these things you see that. So for Dunking, the best I can do was hardcore training A couple times a week. I can stretch and do things at the, at the periphery [00:20:00] again, you know, on the other days, but. I, I had maximized and saturated what I had to do in order to succeed, and that could be paralleled with other things.
+
+
+So for coding, I actually found the best thing I could do was spend about an [00:20:10] hour or two on a problem and then get as far as I could on that problem, and then actually take a step back and think about why I couldn't be advancing, what kind, why I was running into bugs, what other approaches I should be solving, and that that could actually [00:20:20] happen in parallel, sort of offline while I was approaching my actual work on a day-to-day basis.
+
+
+So I would then work and probably my work was, you know, from 7:00 AM to late af late evening. [00:20:30] Um, and that's what was required to make the work succeed. Um, but then when I'd finish work, I would have a couple times to my, a couple hours to myself maximum, like at, at, at most. And I would actually [00:20:40] have had this background processing of like, oh, that's how you would like attack this problem, or like, like, you know, try to like solve this pal and drums stupidly code problem.
+
+
+[00:20:50] Um, and then I would work on it and I would make advancements. It's also like riding a bike, right? Like it's actually like, it's when you sleep, it's when you stop doing the activity that when you can come back, you're better at. Or, or learning any new skills. [00:21:00] So these things you can sort of orient so that like you can get maximally better at a few different things in, in parallel.
+
+
+It sounds so nice. Like, I, I like your [00:21:10] metaphor to with, uh, like athletes like to describe how you think. I really like it. So how have those [00:21:20] experiences influenced your journey from the fundamental research labs instructor club, the, the experience you, uh, the, [00:21:30] the experience you did in Paris Pride? How do you see influenced to these days?
+
+
+I'm making sure I understand the question. You said in sports and [00:21:40] in prediction strike. I mean the provision strike to not, like what kind of experience does it influence to you build this, uh, [00:21:50] shortcut and Yeah, yeah, yeah. Um, lemme think about that for a second. Yeah.[00:22:00] 
+
+
+Yeah. Um, okay. Um, so there's probably like two different [00:22:10] branches of what I had learned and other helpful to me, um, from my time at prediction strike. One is like, as a founder or as like, you know, a leader of a company, um, having the emotional stability [00:22:20] to capture the few miraculous moments that are required to capture at a company to succeed.
+
+
+Um, and having the awareness to dodge the three to five bullets that can just kill you instantly. [00:22:30] Um, we have had these existential moments at my prior company, um, in which if I had been better prepared, we could have avoided. Um, if I had been better prepared, we could have capitalized on more [00:22:40] significantly.
+
+
+Um, and I think it all comes down to a handful of these moments. Um, it also requires having the stability emotionally to tolerate this. Starting a company [00:22:50] is a brutal form of like, like a self torture, right? It requires the ability to suffer through these [00:23:00] moments of ambiguity, failure and struggle, um, in search of these moments that change everything.
+
+
+So I had seen that you can, you know, manifest those [00:23:10] moments. You can push through and to get them, and now I know it's like, um, the studies in which, like you put a mouse in water and it drowns. Uh, but if you put a mouse in water and then you take it outta the water before it [00:23:20] drowns, all of a sudden it can float for an hour 'cause it knows it might get saved.
+
+
+Um, that sort of optimism, uh, was something that I learned as a prior operator. Um, [00:23:30] and then there's also principles, which is the second branch. Like how do you build shortcut? Um, it was so obvious after experience. Uh, building prediction, strike that. Like friction [00:23:40] is the enemy that if you're gonna build a product, especially in consumer products, you should build something that is so easily accessible to people.
+
+
+They don't have to download, they don't have to click, they don't have to fill out [00:23:50] forms, they don't have to go through navigation links. Um, they don't have to. Share more of the details about themselves. They don't have to pay, they don't have to, whatever. Um, if you look at try shortcut right now, and [00:24:00] you go to the website, it, it directly links you to a spreadsheet.
+
+
+There's no buttons. You're, it opens directly into, into the app and it is an extremely powerful [00:24:10] conversion funnel. Um, so friction was one of these key things, um, that I took away, but there's a variety of these at the product level. Then you've said that, uh, Excel project, when [00:24:20] your finance days made, you think, oh, this is in two months, and like, and that you took it.
+
+
+So could you describe the situation in detail and [00:24:30] did it directly inspire your thought? Uh, yeah. Um, yeah. It's a funny quote from like a podcast I did. Um, [00:24:40] I was working as a consultant. I was like, I had gotten promoted and I was leading, um, like a reorganization of like one of a very big tech company here in San Francisco actually.
+
+
+But their finance [00:24:50] function. And I was handed, um, an operating model of like how the company is situated and how they prioritize things according to the hours they were. And it was, uh, many, many hundreds of [00:25:00] columns, many, many thousands of rows across like dozens and dozens of sheets. And it was all hard coded.
+
+
+Um, and I was handed to it. I was handed it by [00:25:10] someone who had left. So, uh, I honestly spent like, uh, three months building it. I didn't complete it. Um, and it was so torturous that I thought like, you know, I just, there must [00:25:20] be a better way. Uh, I didn't set out to build shortcut from that moment, but I think, uh, it, it was sufficiently burned into my head that it's probably related.[00:25:30] 
+
+
+And the fundamentals original vision was to create visitors human. So what exactly did you and Professor [00:25:40] Robert Young in, as in when you founding the lab? Yeah. Um, so to define it, to build a digital human, we mean giving AI. Our machines, [00:25:50] every fundamental human quality, um, in neuroscience, you know, you, you, or let, lemme answer that differently.
+
+
+Sorry. Um, so to build a digital human [00:26:00] being, we mean giving machines every fundamental human quality in AI that usually stops with intelligence or super intelligence in neuroscience. Words beyond [00:26:10] that are not dirty, right? Like Robert has a paper on olfactory smelling. Like, can, can AI or machines smell?
+
+
+Um, can they have long term autonomy? Can they collaborate? Can they have a sense [00:26:20] of time? Um, can they, um, have a sense of self, a theory of mind? Can they experience emotion? Can [00:26:30] they, can you model consciousness? Like all of these things in neuroscience are not nearly as dirty of words, uh, and in fact that they have been attempted to be modeled for, for, for very many [00:26:40] decades.
+
+
+So when we talk about building digital humans, we mean going far beyond intelligence, uh, as just a key component of who we are, but not, not, not, not really what it means to be a human. So, um, we've set out [00:26:50] to do that and we always painted the same picture. You should see the picture on our first like pitch deck.
+
+
+When we, when we were shutting down the lab, it was from games to multi-agent, [00:27:00] to productivity, to embodiment being, being the final stage. Now with shortcut, we're at the productivity stage, um, but we even have, you know, the [00:27:10] top rated AI game and Roblox, um, and a few other experiments that we have. But I feel like you could probably call it a perfect [00:27:20] AI agent, something, but why do you describe it as a digital issue?
+
+
+What's the difference? Yeah, there's just a lot more to us than, [00:27:30] there's a lot more to being a human than, than being intelligent. And in fact, your best coworkers are not necessarily your smartest coworkers, right? They're the coworkers that understand you, that care about you, that can [00:27:40] empathize, that understand when you're, when, when you need something that you haven't quite verbalized.
+
+
+Uh, and that is a different dimension of intelligence. So I think in order for AI to, to [00:27:50] create the kind of abundance that, like people in San Francisco talk about, uh, you need to solve things beyond intelligence. You need to get into the stuff that make humans really special, like the ability to collaborate [00:28:00] the fundamental initially built project seed.
+
+
+So a simulation where Thousand way of AI agents created a virtual society. So [00:28:10] why didn't you continue this project despite only investor, uh, interest? Yeah, yeah. Uh, project Sid was our first attempt at doing that second stage, [00:28:20] which I told you about, which was, um, multi-agent, uh, simulations, collaboration, so on.
+
+
+Um, and we were able to pursue that. Um, as far as I think it's ever still been pursued. It was a thousand agents [00:28:30] operating for, for many, many hours together to accomplish things they couldn't do independently. At the time it was very avant-garde. It still is. Um, and I think it points to what will be the next paradigm in ai, [00:28:40] which is test time scaling through multi-agent collaboration.
+
+
+I think what we need to solve still is the ability for a, uh, a smaller agent system to have a very high capacity, [00:28:50] um, to use things and get things done effectively. Uh, but this research will still happen in parallel and in fact, we still actually have this multi-agent work happening. Um, but what we need to [00:29:00] do, I'm trying to think, actually I need to answer that a little differently.
+
+
+Sorry. Um, project said,
+
+
+yeah. So [00:29:10] I guess, uh, you gonna say why did we switch from project said, right? Oh, yes. What, what, why did you, why did you continue this project? Or even though like, like are we, investors are [00:29:20] interested in Yeah, yeah. Okay. Okay. Um, now I can answer it better. Um, so Project Sid was our first attempt at doing, uh, that second stage, which I had told you [00:29:30] about, which from games to multi-agent.
+
+
+Uh, and it was our first endeavor, and I think it's still the furthest anyone's ever really taken multi-agent collaboration, um, which I believe will be the next paradigm for ai. Still, it would be test [00:29:40] time scaling through multi-agent. We put a thousand agents together. For many, many hours to do things they couldn't otherwise do alone.
+
+
+And at that point we felt it was very avant-garde, um, but not directly, [00:29:50] directly ready for production products yet. Um, but that research has to be paralyzed and, and and maintained. So we continued to push the boundaries on that. Um, but in the pursuit of that, actually we had put our agents in [00:30:00] multiple different environments.
+
+
+Um, we put them on slack, discord, Google tools, a, a longer list. And at that same time, the term QA or a computer use agent was [00:30:10] coming out. And we felt this is exactly what our agents had to be able to be capable of, even at the single agent level in order to make a big impact. So we put most of our research effort into UA at that point, and we had doubled the [00:30:20] state of the art in only five weeks on OS world, which is the most important benchmark on computer use agents.
+
+
+So that gave us an ability for the agent's capacity to, to provide value to dramatically [00:30:30] increase. And now we're actually at a fund research point, which is given that they can do very valuable things, how do you get a thousand of them or more together to build. Okay. Civilizations, [00:30:40] organizations, companies.
+
+
+Um, and that's, that's where the majority of our researchers focus still today. And you realize that no one will use ai. That's [00:30:50] only 50% of trade I service meant. And how did that inside drive you or people Say it one more time. Uh, like you realize that no one [00:31:00] will use ai. Oh, sure. Yeah. That's only 50% of create.
+
+
+So how did that insight drive your P vault? Yeah, yeah. So specifically that quote is the [00:31:10] OS world score we got was about 50%. It was like 48.85. Um, and it means that you get something really cool, um, but not, not useful in really any way. So, [00:31:20] like GPT agent I think is in that same ballpark, um, doing similar approach and it's fun to watch and you might find one or two workflows in which it might be helpful, um, but it's not something you're gonna deploy and [00:31:30] like use massively.
+
+
+And we don't even have the budget to serve that and to lose money on that. So I think the real insight. It's not that it's 50 or 60 or 80 or 90 [00:31:40] or a hundred, I think that there is a sufficiently high level of accuracy that you have to hit, uh, and that that number is not perfect, but it is high, say 90, 95, [00:31:50] and that it has to be paired with a massive performance improvement on the dimension of time so that it's much faster than you.
+
+
+And it has to be paired with a trust and [00:32:00] observability, um, method. So that like, given that it might not be perfect and that it's at least much faster, your role will proceed to become [00:32:10] a little bit more of a supervisory role where you're, you're sort of working with a supervising ai, but in order to do that, you have to trust its outputs and you have to know what's changed and you have to be able to observe all of that chain.[00:32:20] 
+
+
+So you have to be able to work with it. That's actually what Cursor's big change was. It was full parody with vs code 10 times faster than copying and [00:32:30] pasting code. 'cause you get to see the diff and it automatically apply it, uh, and it's perfectly observable through that diff you. Um, so that same thing was very clear that it's going to happen everywhere.
+
+
+And like one example is in self-driving. [00:32:40] It's actually, it's not perfectly safe, but it is dramatically more safe than humans. Um, but the trust in observability is not still quite there enough to the extent. And like [00:32:50] the ability to be able to assign ownership or blame to something in the event that something goes wrong is still so important that we're actually as humans or most humans able to tolerate a less safe world [00:33:00] as long as we had someone to blame.
+
+
+Um, so the bar for what accuracy is, is different in different dimensions, but what you really need is accuracy, speed, performance gains, and [00:33:10] sufficient observability and trust. So that, that's really what we are, um, in the pursuit of a shortcut. And like for, [00:33:20] for the like audience, like, could you, uh, describe like from where to where you pivot?
+
+
+Like, could you describe the, [00:33:30] those situation one more time? Sorry. Sorry. Yeah, like could you describe the moment, like how, or like from from which industry to [00:33:40] like, which industry or you like pivoting, like, yeah. Yeah. I think I understand. Yeah.[00:33:50] [00:34:00] 
+
+
+We just wanted to get like a more clear sentence from you [00:34:10] because, uh, our questions will be edited out. Uh, can you, um, briefly mention from where to where you, like which direction to, with [00:34:20] shortcut or after shortcut or with short in the shortcut? Yeah. Yeah, yeah, yeah. Um,[00:34:30] 
+
+
+sure, sure. I'll try this. And um, so with the introduction of shortcut, um, be careful the words. So with the introduction of shortcut, we [00:34:40] progressed from a purely research focused, sorry. Lemme think.
+
+
+Yeah. Okay, I got it. Um, [00:34:50] so with the introduction of shortcut, we progressed from a multi-agent focus to a productivity focus. Uh, and then more specifically, because of how we build products, products have to be a little bit more [00:35:00] narrowly positioned. Um, so shortcut is not just productivity, but it's all spreadsheet labor.
+
+
+Um, so that is the focus for shortcut. But in parallel, we have multiple different products [00:35:10] experiments happening right now. Um, and all experiments are positioned in a more specific manner, uh, though probably more broadly than any other product or company [00:35:20] would tolerate. For example, shortcut isn't for.
+
+
+Lawyers or for finance people, or for accountants, or for fp and a or for real estate, it's for all human labor [00:35:30] on spreadsheets, which from a research perspective is considered maybe too narrow, but from a product perspective is it's almost too broad. And I think our DNA as a company allows us to tackle something that's specific.[00:35:40] 
+
+
+Um, so shortcut is gonna be focused on that, but other products are going to tackle different verticals or different industries as well. Thank you. And like, like [00:35:50] shifting from a brand vision, like digital human to a practical solution, like short, like Excel automation was a bold move, we [00:36:00] think. So how do you, how did you convince your team and execute to execute the Yeah, yeah, yeah.
+
+
+Um, [00:36:10] so I actually wanna answer a different question a little bit, um, and then get to this answer. Yes. 'cause I think they're connected, but it's, um, the question which is like, how do you organize fundamental and shortcut, uh, [00:36:20] 'cause it's kind of how I answer this question. And I wanna make sure I answered a little bit better.
+
+
+Yeah. Um, so what was that second question? Like how does Oh, like how did you convince your team? Yeah, yeah, [00:36:30] yeah. Um, and then what's the second question you ever asked me? It was the, um, how we like organized fundamental versus shortcut. [00:36:40] Yeah. Yeah. Um, so I wanna answer that one. Yes. I wanna answer that one again and then answer this second question after that.
+
+
+Okay. Yes. Um, so we're very, very [00:36:50] intentional about how we organize our company. There's probably no like, equivalent model in America for it, but the best comparison is bike dance, in which you can think of this as like a three-headed [00:37:00] beast. We have research, uh, which definitionally will have like a bunch of things happening in parallel, some of which will be fruitful in the short term, long term.
+
+
+Some of it might not ever be. Um, [00:37:10] and then you have a core product or, or core platform. And this platform is, is like the basis for how we do research and for how we build products. Um, in a good comparison would be like bike dance [00:37:20] has. Their core thesis, uh, they actually have no unified product theme, but their core thesis as a, as a tech layer is the recommendation engine.
+
+
+Uh, and from there, all these different things may bloom like, uh, [00:37:30] to implied jokes, right? Um, for us, our core thesis, our core tech platform is building strong agents, specifically multi-agent frameworks. So you have the research wing, [00:37:40] you have this core engineering platform, and then from there you also have products.
+
+
+And products can be built off of this core platform to give us advantage. And these products, again, they're not unified or [00:37:50] consistently branded in any way. Like we're not all building finance products, um, but we are all building agent products. And one of these products is shortcut. And when a product succeeds, [00:38:00] it has to be massively unconstrained in relation to its potential opportunity.
+
+
+So shortcut is going to automate all spreadsheet labor, which is done is pretty significant. [00:38:10] So we are dramatically growing the shortcut team in response to its very rapid success in the short term. So now I'll answer that other question. Yes. Um. [00:38:20] So because we're so intentional with this company structure, it's not a pivot.
+
+
+Like research does not serve product [00:38:30] research serves the company. Research advances the core tech platform, which in turn serves product. So the people who are [00:38:40] contributing to Frontier Research on multi-agent are not building shortcut with me side by side. They're advancing the core tech platform, the people at the company, former founders, technical co-founders, and builders [00:38:50] who sit with me upstairs here in the shortcut room.
+
+
+These people are, are working on shortcut with me because we have always committed to building products that capture value by building frontier agents. [00:39:00] So the fact that something has succeeded just means that we're gonna double down harder on it. But the people who are going to build up the Cortex platform are still doing that.
+
+
+The people who are going to continue the [00:39:10] state of the art on whatever research they're doing here are gonna continue to do that as well. So because we are so intentional with how we orchestrated this company, a breakout success or even a failure. Don't [00:39:20] change anything about our roadmap. Um, yeah. Thank you.
+
+
+And for the short shortcut, I wanna ask [00:39:30] about the shortcut. So you've called Excel the most beautiful piece of software humanity has ever created. Yeah. But why do you think like [00:39:40] this and how is shortcut reinventing Excel rather than replacing it? Yeah. Um, do you know how long shortcut or not shortcut, sorry.
+
+
+Do you know how long [00:39:50] Excel has been around? It launched in 1985. It's its 40th birthday on September 30th, which is actually my birthday now. [00:40:00] Um, in order to have that kind of staying power and software, that's like almost as long as computers have been around for people, you know, um, you have to be so darn good.
+
+
+You have to be [00:40:10] one extremely accessible to people so that any beginner can start to pick it up. And it has to be so good in the limit that when you're an expert, the seal, the skill ceiling is high enough that like it can provide [00:40:20] tremendous business opportunity or else people will build, you know, more powerful tools and, and those exist, but not for the masses.
+
+
+So it has a billion users, right? Um, it's used [00:40:30] by people in every single industry. It's massively broad. Uh, in fact, spreadsheets were the first killer use case in all of computers in the Apple two with VisiCalc. So, um, [00:40:40] it has the kind of success that any, any software would ever dream of or dream for. Now, um, I know [00:40:50] what's required to replace Excel, actually.
+
+
+Um, you have to have the 10 x performance game in all things you can do on it. And you have to have like [00:41:00] 90% plus parody, uh, with Excel or whatever the, whatever the, the, the behemoth of the day is. Uh, that is the, that is the constraint that Excel [00:41:10] satisfied when it replaced Lotus one two. That's what Lotus Satisfied when never replaced VisiCalc.
+
+
+And that's what VisiCalc is satisfied when never replaced the manual labor. Um, so one day this will happen again to Excel, and it might be because of [00:41:20] shortcut. Um, but again, I actually think the opportunity is bigger than that, as in Excel drives, you know, $10 billion in revenue a year. Um, but the [00:41:30] work, the labor that is done on spreadsheets is worth about two and a half trillion dollars a year.
+
+
+It's the most important software for most people in the world. [00:41:40] So that, that's what we're trying to do with Then circle lets users give, uh, the journal [00:41:50] instructions and AI agents perform complex tasks. So how do this agent collaborate in the backend? Could you, could you describe [00:42:00] how does it work? Yeah, yeah, sure.
+
+
+Um, tell me if I'm getting too technical or, or not at all. Um. So shortcut, looks and [00:42:10] feels, just like any spreadsheet, it's really easy to use. It's in the browser. Um, lemme answer. Be careful not to say Excel. Yeah. Um, so shortcut looks and feels like any spreadsheet, right? A grid. It [00:42:20] has all the common gooey features that you would expect, um, except it has a sidebar in which you can ask shortcut to do whatever work you want for you.
+
+
+Um, some examples are, you know, [00:42:30] fill out this massive tear sheet or complete this DCF model for an interview I have. Um, and it can do things that would otherwise take anywhere between 30 minutes and 10 hours in [00:42:40] 20 minutes usually. And that's, we actually have a benchmark internally of 75 cross industry tasks that take 30 minutes to 10 hours.
+
+
+And that's how we measure performance here. So it [00:42:50] takes long, long autonomous work and does it much, much faster for you. We're also in the pursuit of making the things that you already do very quickly, even more quick. So in terms of [00:43:00] how it actually works, we have an agent that lives in shortcut. It can jump in and out of the front end to understand what's happening at the spreadsheet level, log genetically search for what things it needs, [00:43:10] and then to execute code at runtime to change that.
+
+
+Um, there's a lot of cleverness you have to do in how you build an agent framework, and that's a lot of where the alpha is in companies. [00:43:20] Uh, like clot code within, within anthropic like cognition, um, and at shortcut, uh, or like Manus for example. Um, and some of this cleverness we've built because we've been building [00:43:30] agents for two years now, um, and we've been benchmarking them systematically and compare with like Microsoft [00:43:40] Co-pilot, like what is cost's biggest differentiator?
+
+
+What is biggest differe? Yeah, yeah. Um, I mean, we know the copilot team well and we like them. [00:43:50] Um, copilot is a product built for all Excel users, right? The large, large enterprises, the, the beginners, the people who have been using Excel for 40 years, and there's a lot of. [00:44:00] Of, uh, training that, you know, you can't, uh, you can't quite change about how they use the experience.
+
+
+So ex co-pilot is to help you use Excel better. It's not to help you do your work. So [00:44:10] for an example of that is co-pilot's good at a benchmark called spreadsheet bench. Um, as in like, the tasks might be things like insert a column and then use a summit formula. [00:44:20] So these one or two step things co-pilot's actually pretty good at.
+
+
+Um, what it's not good at is build me an m and a model for these two companies. Go find the PDFs, [00:44:30] extract them and do it over 20 tabs and lemme send it to my boss while I drink coffee. That's not what co-pilot can do, but it's what stroke can do[00:44:40] 
+
+
+and, uh, why you are working on like if there, there is Copala is very big team. So what do you think, uh, if in this [00:44:50] industry there's a big, uh, what kind of frontier? Mm-hmm. And you are, uh, and what kind of thing do you. Think [00:45:00] what, what do you think what I'm doing? If, if I have kind of big lunch here, do you get me?
+
+
+Um, I don't think [00:45:10] so. Oh, okay. Just a[00:45:20] [00:45:30] 
+
+
+like, uh, where's, when there's a, like, leading company, like mm-hmm. [00:45:40] Co-pilot, what kind of strategy strategy do you take? Like, yeah, yeah, yeah. Um, well, you, you, yeah. Yeah. Totally. Totally. [00:45:50] Um, so I, I, the question is a little bit like how we think of competition, right? Um. We think of competition in a few different [00:46:00] dimensions, and they're mostly in relation to like the kind of competitor.
+
+
+Uh, so for example, you have your co your copilot, right? Uh, which again, we're not, we're not sure it's a competitor. Um, but you [00:46:10] have Microsoft, you have the hyperscalers, you have the, you know, the foundation model lab companies, you have startups. Um, they all have [00:46:20] different flavors and different threats and different, you know, competitive strengths and weaknesses.
+
+
+For example, the hyperscalers have a significant business stake in things like spreadsheets and wanna succeed there. Um, [00:46:30] they're also very slow. Um, and I'm under no illusion that they won't build a competing product. Um, right now the delta is, we have one and they don't. [00:46:40] Eventually the delta will be, they have one too, and ours is better.
+
+
+Um, our duty as a, as a much faster moving startup and a pioneer in the space is to outstrip them. Now, there will have [00:46:50] distribution advantages in different ways that you have to sort of address that. That tension. But we believe building the most important and the best product is, is gonna be the most consequential factor here.
+
+
+Then you have the fun, then you have the foundation model companies. [00:47:00] So why won't open AI or do this? Um, it's possible that they do, but we are a research lab too, and we know those companies pretty well. Um, the truth is, is [00:47:10] they're not interested in Microsoft Excel really, uh, or spreadsheets or Google sheets.
+
+
+Uh, as in most of their people think, I guess you can say this, this is not specific to their [00:47:20] company, but most researchers really think spreadsheets are beneath them, right? They use Python for data analysis. Um, they think it's a rudimentary old software that will no longer be around. And there's [00:47:30] sufficiently AI pilled to think that Excel or spreadsheets won't be around in three years anyway.
+
+
+So they're not gonna build it. Um, that their model that's trained to do everything will also do it. And I think maybe in the limit they're right, but I think [00:47:40] the timeline is more like 10 years, not two. Uh, which means there's probably billions of dollars in value to capture along the way. Um, then you have startups and startups.[00:47:50] 
+
+
+And, you know, any, any YC little company right now can go build an agent with 60% parody. Um, I'm under no illusion. Right? And they're gonna be fast too. Um, and they're gonna want it, and they're gonna work hard too. [00:48:00] Um, what they almost always don't have is a systematic approach to improve your agent, as in, can you really build an distribution set of comprehensive evals [00:48:10] with a strongly correlated verifier that measures success?
+
+
+And can you run huge pipelines, uh, to parallelize that, and I, [00:48:20] I don't think that people can do it like we can is the truth. Um, I also think the fun thing about American startups is, is they have their principles and they're not gonna, they're not gonna, [00:48:30] you know, they're not gonna diverge from them. Some people think that you have to have an Excel plugin that that's gonna be like the thing.
+
+
+Um, can you name the biggest Excel plugin? Probably not, right? Because no one uses [00:48:40] them, right? Of course, people use them, use a FactSet, or they'll use Bloomberg. But like, no breakout company has ever started that way. Um, it's another form of. Right, which is a key philosophy for ours. Um, [00:48:50] that's one example, but there's all sorts of these examples, right?
+
+
+Or maybe they want to go specifically target private equity, uh, while we're broader. Um, this is a thing about American startups in which they think they know best and they have their way of doing it. And you know, [00:49:00] ours might be wrong. Um, and we believe in ours. The most dangerous kind of startup though is more like a Chinese term in which there is no shame [00:49:10] indirectly copy copying somebody, and it becomes a ruthless form of competition.
+
+
+I think that is the most dangerous form of competition. Um, because we work hard. I brag about working hard. [00:49:20] Everyone in in San Francisco thinks they work hard. I probably work less hard than your average Chinese adult working male in tech right now. And that's much scarier to me. So [00:49:30] that's, these are the different, you know, ways we compare competitors.
+
+
+Thank you. And like shortcut, shortcut currently achieves like 90% [00:49:40] accuracy. So, and you've said the set, the goal is transparency and. Perfection. So how do you help users trust and [00:49:50] verify outputs? Yeah, yeah. So there's two, two dimensions here. One is you have to have a novel like ui, um, to allow this sort of diff view, if you will, like what's [00:50:00] changed.
+
+
+So what we've done is created a view in which everything that has changed afterwards, you can see the cells that have changed. What are the citations, what's been hard coded, what's formula driven and why, um, that allows your [00:50:10] job as a reviewer, as it changes to that to be done much more easily. Now, the second way to do this is by training.
+
+
+As in Excel users haven't been exposed to this type of paradigm [00:50:20] in code. We're very easy. You know, we're easily, we're very malleable. We use CLO code, we use whatever tool, and we're like, okay, I got it wrong, but that's because I know [00:50:30] how to like, make it not get it wrong. And I'm gonna fork it there and I'm gonna revert, I'm gonna undo, and then I'm gonna change the prompt slightly and then I'll just pause it there and then do it again.
+
+
+And I'll clear the context, right? Like, [00:50:40] this language doesn't exist yet for spreadsheets. Uh, but it will, and it's on us to educate people on how to do that. So again, it's just, you know, a, a novel UI in which it's intuitive and then also a training mechanism to, to [00:50:50] introduce people to a new type of technology.
+
+
+And, uh, for the demo video, I want to ask like, [00:51:00] what made it so effective? Because you told it, you didn't expect this, but like, how does this work going, how does this work go and, and [00:51:10] insights into product demos and storytelling? Yeah, yeah. Um,
+
+
+lemme think about it for a second. [00:51:20] I,
+
+
+yeah. Um, I [00:51:30] think one fun heuristic for a demo is the right response to your demo should be, holy crap, these people are gonna make so [00:51:40] much money. Or how does this not exist? These are two different heuristics. I think the best ideas in hindsight seem obvious. Uh, and that's a good measurement for that. Uh, [00:51:50] and the other one is just like these people get it.
+
+
+Um, these people are building something that is so inherently valuable, huh? That it matters. Um, what you don't want to hear in terms of responses to your launch are [00:52:00] congratulations. It's vanilla means nothing. Um, or like, who's your videographer? I think the current trend has been like, go have some hyper, hyper [00:52:10] optimized video, uh, and talk about things that like your customers do not give a, uh, give a shit about, right?
+
+
+Um, for example, we've raised $50 million from x, y, Z [00:52:20] fund, and we work with this person and this investor is on our table, right? Like, no customer that's using their product cares at all about that. Um, so who are they [00:52:30] talking to? It's performative. It's theater for Twitter. Um, and it's garbage and it's vanilla.
+
+
+Uh, your entire demo should be a demo's, even a stupid word, like [00:52:40] your introduction to your customers should be talking to your customers. It should be, Hey, here's this product that you've always wanted. Here's exactly how it works, and I'll walk you through it. So our launches are always two minutes.
+
+
+Exactly. [00:52:50] And they spend the, the majority of them just walking through the use cases and showing the value to people in a way that is crystal clear. Every word in our demos like has to fight for [00:53:00] its existence in the demo. Right? All of them matter. So these are, you know, are, are the heuristics we rely on when we make these things.
+
+
+Uh, and [00:53:10] I feel like a lot of demo videos these days in like LinkedIn or Twitter, like, do you think, do you feel the same? And why are so many demo [00:53:20] videos being made lately? Yeah, yeah. Um,
+
+
+try, lemme, lemme think about that one for a second also.[00:53:30] [00:53:40] [00:53:50] 
+
+
+Okay, I'm sorry. I think I attribute the rise of the demo culture in startup to two things. One is we're demoing [00:54:00] technology that is very interesting. In fact, oftentimes it's more interesting than it is valuable. Uh, so it's inherently sort of a medic or viral. Uh, and that lends itself well to making a video that [00:54:10] can go viral.
+
+
+And because of that, there's like a really huge top of funnel distribution advantage that you can have if you can do this well. So people are doing it and some people do it very, very well like us. Uh, and that becomes an advantage. [00:54:20] Now the second and maybe is more nefarious, which is I think. It's become a bigger part of the cultural zeitgeist to be a founder or to [00:54:30] start a company or to work in ai.
+
+
+And people want to be famous. I think people wanna be celebrities, and this means making videos of yourself and creating controversy and being well known. [00:54:40] And I think I'm looking forward to the day in which it's a little bit more contrarian and a little bit less sexy to be a founder. Um, because I think people are in it now [00:54:50] for, for the fame.
+
+
+Um, the three ways you want to be in a company, one would be for the mission, and every founder really should be that way. [00:55:00] The second one is for the love of the game, right? You like, you just want to compete and win and you want to be. And like there's actually no shame in that either. Uh, but the third is to be famous and I think this needs to be [00:55:10] shaken out of, shaken out of our, of our system.
+
+
+Um, and I think it's, uh, it's a non-trivial part of what's driving the demo culture. And is there [00:55:20] a way to become. Celebrity, like as a founder? Uh, yeah, yeah, yeah. Be as controversial as possible. Uh, I think the optimum amount of [00:55:30] controversy in the pursuit of celebrity is non-zero. So, um, get as close as you, as you can, as to being canceled.
+
+
+In fact, maybe get canceled two or three times, um, [00:55:40] and make a habit of engaging with your audience as frequently as possible, specifically in probably one or two areas. Are you also, uh, delivering any controversial, [00:55:50] uh, debate or something with others? One more time. Sorry. Like, uh, are you also a controversial person or am I a [00:56:00] controversial person?
+
+
+Um, I think I authentically believe in things that are inherently controversial. Like I believe, [00:56:10] I believe you can ask me these things. Uh, lemme answer that again. Um, I don't think I'm an inherently controversial person. Um. But I think I authentically [00:56:20] believe a lot of things that if you ask me if I believe in them, I would tell you I do.
+
+
+And I think that would be somewhat controversial. Um, some of these are like, um, I believe [00:56:30] you need to suffer in order to really do anything significant. Um, I believe that if you're not suffering, you're not doing things enough. Uh, like I think we're all living on borrowed [00:56:40] time. Um, and it's like playing professional sports actually.
+
+
+Again, you play football and it's a sacrifice. You're gonna sacrifice the way you walk. I still have knee problems. You're gonna [00:56:50] sacrifice head pain, trauma, um, and it's in the pursuit of doing what you love and making a big impact. Um, I think I have high blood pressure. I think I'm gonna, I don't sleep well and I think I'm not gonna live as long as I otherwise would've.
+
+
+And it's because I [00:57:00] did something really significant and I'm doing something big and I'm going for it and is intentional. Um, I believe in God. I, I won't forfeit, I won't, I won't, I won't offer all of my opinions. [00:57:10] But, um, there's a lot of things that I make pretty clear about myself that I think, um, there do, you know, are disagreeable to a lot of people.
+
+
+Awesome. Hm. And how viral [00:57:20] did the demo go and how did the people around you react to after this viral? Um, yeah, the viral went very demo. I mean, sorry. [00:57:30] Uh, yeah. The, the demo went extremely viral. Um, and I think for like a few hours, it's fun. There's a little bit of a euphoria. You can't believe it's quite so big.
+
+
+You think about how [00:57:40] big this can be for your business. Um, but again, I don't care that like, people like in San Francisco recognize me sometimes, like that doesn't matter at all. Um, [00:57:50] I care because I have a pretty clear understanding of the people who click into my app, what percent of them monetize, and how big I can grow this business, and how big the opportunity is and how much I can make that even better.
+
+
+[00:58:00] So to me, the exciting thing really is, is that like we can build something that really, really, that, that shortcut could be the thing that replaces Excel. Like that's so motivating and exciting to me. [00:58:10] And after you went wire, did you notice any change, like any change in money? Digitization or customer? Oh, yeah, yeah, yeah.
+
+
+Um, we make a lot of [00:58:20] money now, like, um, we were pre-launch, uh, and now we're post significant revenue, um, and we're growing. So yeah, it was a massive catalyst for us that we [00:58:30] did that and that we did that when we did that. Hmm. They've been all, uh, and fun Research labs was part of a [00:58:40] 16 G speed run. Yeah. Uh, so how did that specifically help your growth?
+
+
+Sure, sure, sure. Um, yes. Speed run was huge for us, um, [00:58:50] especially because we were always very clear about we were gonna start, um, our research and started our company in games. We were very, very honest about like, none of us had games experience. Um, but we knew it was such [00:59:00] a great playground for rapid iteration.
+
+
+Like I talk about like, you can fail at low stakes, right? Um, but we didn't know the first thing about building a product that people like or monetizing [00:59:10] or working with people, um, or hiring in, in games and specific specifically. So working with Speed Run was a massive game changer for us. It also taught us the value, um, of storytelling in, in, in [00:59:20] some different ways.
+
+
+Um, we're used to it in terms of, you know, the science and accomplishing our mission, but not in terms of like how we build things. Um, and that was, that was huge for us. And then we even created an internal, [00:59:30] um, deadline we didn't have to do, in which we would present our progress every Tuesday, I think it was to the partners at Speed Run and they were like, you don't have to do this.
+
+
+And we're like, no, this is like the right [00:59:40] iteration cycle speed for us. Um, and that was massively beneficial and I think it's instilled in our culture, like a very maniacal sense of speed, um, where we ship every day, you know? [00:59:50] And you've said that speed round taught you the importance of velocity. So what does velocity mean in practice for us?[01:00:00] 
+
+
+Yeah. Um, the right, the right, um,[01:00:10] 
+
+
+I think the right question you need to ask yourself. About if you're moving fast enough is are you learning the same thing twice? As in you should go into everything you do with a [01:00:20] hypothesis, and you should measure the result afterwards, and you should see how wrong you were. And if you're consistently wrong in the same amount or in the same dimension, you're not learning fast enough.[01:00:30] 
+
+
+So every single day we learn to learn something new. And if we haven't learned something new, if we're learning the same thing, then we're not moving fast enough and we're not learning our lessons appropriately. So we ship every single day with an [01:00:40] hypothesis. Um, we approach every single, uh, scientific endeavor, um, with the expectation that we have a result that day.
+
+
+So that's, um, [01:00:50] many of our, actually, can I say that a little differently? Sure. Um,
+
+
+um, [01:01:00] sorry, can you answer, ask the question one more time. Um, like, what, what did you, uh, thought by the speed? Like what, [01:01:10] what did you learn? Program. Yeah. So I felt good about my answer on that one, which was, um, like the exposure to games and velocity. Yes. And also I want to ask [01:01:20] about the, what does velocity mean to your team and your, yeah.
+
+
+So at the surface level, velocity is like, everyone thinks speed is important, but I [01:01:30] think the hard problem is, is like, how do you systematize? Like how you, how you get fast as a company. And for us we have like two important ways. [01:01:40] One is end-to-end iteration fast. Meaning you want, um, a product shipped by Friday, you should actually make sure that it's deployed on Monday.
+
+
+Um, [01:01:50] and then you can iterate every single day. Um, you want a benchmark score in two weeks of 20%. Then you need your first score on day one. Even if it's zero, you need to understand, because it's like building a bridge. [01:02:00] If you're gonna build a bridge, you don't build the first step beautifully. You actually just throw a rope and in your first two seconds you have your bridge, and then from there you throw a second rope and you start to tie them together.
+
+
+Right. Like every [01:02:10] iteration should be from end to end. 'cause it susses out every single unknown. So for us, it's, again, you move fast, but that's shallow. The real way you do this is, and like philosophies like end to end [01:02:20] iteration or hypothesis testing in which like every single time we do something, we come into it with an hypothesis and we measure the delta between how right, how right we were, how wrong we were and why.
+
+
+Uh, and if you're learning the same thing twice, you're not moving fast enough or you're not internalizing [01:02:30] the feedback well enough. So these approaches are like so deeply ingrained into how we work that they make us faster. Uh, but I think it's on everybody to come up with their [01:02:40] frameworks for how they can move their company more rapidly.
+
+
+And for us, this is what we believe. And, and like global tech leaders like Country [01:02:50] Collision invested to the fundamental research labs. So what potential did investors value most? What, what potential did investors value most? [01:03:00] Yeah. Yeah. Um, I think the fun thing about fundamental is we're not shy about our ambition.
+
+
+We wanna build digital humans. And I think if we can do it, [01:03:10] it'll be the most profoundly important companies to ever exist. Um, on the pursuit of that, there's gonna be all sorts of opportunities to make great businesses. Um, but we're not shortcut, we're not [01:03:20] an application or a product, we're not a games company.
+
+
+Um, and everyone who invests in our company believes that there is a small but growing [01:03:30] chance that we are the company we say we are. Um, so investors say, you know, great short shortcut can make, I think shortcut can make a billion dollars in a year. Um, that's how big the opportunity is, [01:03:40] but I still think that's not enough.
+
+
+Uh, and I think all of our investors are actually much more excited about the intentionality, uh, by which we've built this business. I, I think the originality of [01:03:50] how you build a research wing, a product wing, and a core platform in which you sprout all sorts of strong agent products, um, and novel state of the art research is, is [01:04:00] the exciting thing.
+
+
+And that's actually what investors are buying, which is, um, the opportunity to create. Dramatic change. And [01:04:10] how long do you think it'll take to achieve that vision? Uh, yeah. Um, in some ways I think it's a forever game. Um, [01:04:20] you know, um, like I always talk about like the log scale, right? Like the difference between getting this 99.9 and nine 9% there, and then the 10th nine is maybe a decade.
+
+
+Um, but I think, [01:04:30] um, I think the way and the speed at which AI has been improving means that we can start to capture significant value like we have been even in the early innings, which is, I still think we are in the early days [01:04:40] of, of ai. We have AI that is in many ways an AI researcher level or like a PhD level.
+
+
+Um, but it isn't autonomous for more than a couple hours. It's can't collaborate in more than groups [01:04:50] of like five to 10 agents. Um, it has zero dimension beyond intelligence really. Um, so it's still very early in ai. And I think as we go from, you know. From [01:05:00] where we are to the next 10 years, I think we can be one of the most important tech companies in the world, um, and still have the rest of our lives in the pursuit of the rest of the mission.
+
+
+Uh, now I want to ask about [01:05:10] your leadership, like your personal things. So we've heard that you work around like 14 hours a day. So how do, how do habits from your athlete days [01:05:20] influence your current work working? I think you already covered, but I ask again. And how do you sustain energy and health? Yeah, yeah, great question.
+
+
+[01:05:30] Um, I think sustaining is not the goal. Um, I'm less healthy than I otherwise would be 'cause of this company. Um, and I, that's the sacrifice I'm gonna make. [01:05:40] Um, it's the same thing as playing professional sports, right? You don't walk the same afterwards and it's because you gotta do what you love for 10 years.
+
+
+Um, so yeah, 14 hours a day is like the minimum. It's table stakes. [01:05:50] Um, I get in every day around like six. I leave at like seven. I wanna see my kid before she goes to sleep. I, and then I work at night. Um, if you're not doing that. You probably aren't. [01:06:00] Maybe there's no first principled reason for why you can't win if you're not doing that.
+
+
+But there's also, it's pretty logically obvious that like you can do more if you did. Right. Um, [01:06:10] so yeah, I mean, what does every adult manage sheen working hours wise, right? Probably more than that. Right. My parents were in residency working much more than that, so it's table stakes. [01:06:20] Um, now I think my stamina is higher than most, and I think it's because of my, my background and having worked while being a professional athlete.[01:06:30] 
+
+
+Um, but I'm under no illusion that it's impressive. I, I think it's, it's an embarrassment, really, that it's not more commonplace. Um, and in fact, I worked 15 hours a day, seven, 16 hours a day as a consultant, and I didn't even [01:06:40] like it. So, so, um, to me, burnout isn't a function of your hours. It's really a function of like, are you rising to the occasion and doing what you wanna do?
+
+
+Um, [01:06:50] and for me, that's, that's easy, you know? And what do your coworkers or family say about your. Your life. [01:07:00] I think, um,
+
+
+lemme think about that for a second. Um,[01:07:10] 
+
+
+so I, I, I come from a family in which hard work is, is noble. Um, [01:07:20] so my family's really proud of me. Um, I think we live in a culture in which your early success, um, is really celebrated. Um, even though we, you know, have a [01:07:30] long way to go. Um, I think on the outside, people who know me are friends. They, they're, they're also proud of me, uh, or they think it's cool, um, and love our company.
+
+
+Um, I think the real hero is, uh, my family. Uh, [01:07:40] I've sacrificed most of my friendships, mostly, you know, in the pursuit of doing this. Um, but the hard one is actually not coming home for, to see your kid before bed. Right? Um, the hard one is not [01:07:50] being here. While, while we had to move my, my family from Miami and we have no grandparents around.
+
+
+Um, my wife is the superhero here. Uh, and it's her opinion I matter most. Um, and I think at the end of the day, I mean, you can [01:08:00] ask her, she's, she's really, really proud. I, I think my most important duty is to keep my family safe, um, and provided for, and I think I'm an exceptional, uh, dad and husband in that way.[01:08:10] 
+
+
+And does the support make you, like, improve? What, what does support, influence, [01:08:20] uh, how does that support influence to you? Yeah, yeah. Um, yeah, the support is huge. Um, like I've said a few times, I think [01:08:30] the, the emotional rollercoaster that is building a company, um, is almost too brutal to do alone. Um, in fact, that's why like most co-founders have co-founders, [01:08:40] right?
+
+
+Like the, it's a special kind of pain that you share. Um, and if I was, uh, or anyone was coming home to like, uh, you know, [01:08:50] not even support, but like a lot of people come back and they're like, why are you working so hard? You know, you know, any personal time with you. Um, it would make, it would make the endeavor probably undoable.
+
+
+So, yeah, that when I, when I say that like there's a, [01:09:00] when I say that my wife's heroic is in that, like, it's not just that she's not those bad things, she's, she's the good things. Like she, she encourages me to succeed for us. Um, so [01:09:10] it's, it's transformatively important, uh, and I think different founders of different, you know, it's not just founders.
+
+
+It's like everyone is at a small company, um, needs this, uh, and they can get it in different dimensions, but depending on your [01:09:20] life stage, whether you're married or not, or have kids, like, um, just make sure you're getting it like, uh, hang out with friends. If, if that's, if that's your version of it, then for [01:09:30] the co-founder, the Dr.
+
+
+Robert Young and like why you, why you, you leave a shortcut. Like how do you divide [01:09:40] responsibilities and collaborate? Yeah, yeah, totally. Um, it's very clear why Robert has to be the CEO of this company. Uh, we are a research lab that is in the pursuit of [01:09:50] building, you know, state of the art breakthroughs.
+
+
+And we've done it a few times, but now in multi-agent collabor. Uh, Robert is one of the premier scientists in the world. Um, he's also in [01:10:00] charge as CEO of the orchestration of this company machine. So how do you have research contribute to the core product? Uh, how do you have, uh, the core product platform?
+
+
+How do you have the core product [01:10:10] platform serve the needs of both research and product? In fact, in my role, I'm really only best suited to decide what the core product needs from the core platform. Um, but not for what the [01:10:20] core platform should do in its pursuit to solve my needs, right? Or in order, in order to solve the needs of the research.
+
+
+How do you do training? How do you do observability? How do you do, um, benchmark collection eval [01:10:30] setups? How do you do, um, how do you optimize the cash hit rate? Like, these are things that Robert, because he's so well-rounded both on product research and in engineering, um, he [01:10:40] is responsible for a CEO. Um, and my, my, my leadership is about how do we make sure the, the products that are built, succeed and win.
+
+
+[01:10:50] Then you've said that shortcut will reinvent the worst, most important. Business of there beyond Excel. So what's next? Right? [01:11:00] Um, it's pretty early to say. Um, we have some pretty exciting products in writing and, um, connecting people and reading [01:11:10] actually, um, and coding. Um, and I actually even maybe even more excited about the state of the research happening right here.
+
+
+Um, there's a new paradigm being set for [01:11:20] multi-agent and I, I expect that we're gonna be the company that comes out on top of it. Then is, uh, I would also ask about the [01:11:30] vision. So AI is shifting from like generative AI to agent to ai. So how do you see this changing the future of, uh, knowledge work? [01:11:40] You saying that it's changing from generative AI to agents?
+
+
+Yeah. You can say, yeah, yeah, yeah. You agree or not? Yeah, yeah, totally. Um, [01:11:50] yeah, AI is becoming pretty good. Uh, doing work, um, it's gonna create a big change in not just, uh, software engineering or spreadsheet work. [01:12:00] Like we're doing a shortcut. It's gonna happen for everywhere, everywhere, every in, every industry.
+
+
+Um, and I think what will happen is, like, what we've already learned in software engineering is that it creates this really high leverage [01:12:10] moment for people who can learn to use new tools, to get bizarrely good at things, uh, and that the net impact is like very, very positive for that industry and for the economy.
+
+
+So, [01:12:20] you know, as an engineer, I'm better than they are, you know, than than old senior engineers used to be, even though I'm not classically trained, because I'm very, very good at using cursor and clock code and whatever tools are out. Um, the same will be true for [01:12:30] shortcut, right? People who in their first year are all of a sudden as good as senior associates at building models.
+
+
+Um, I think the risk is people in this period of indigestion [01:12:40] are going to be, you know, potentially not ready to use these tools or not want to, and they're gonna be a little bit left behind. So it's a, it's our duty to make sure that people do this. Uh, you have to also. I think [01:12:50] some of the fear, the most important fear is that like, will AI replace jobs?
+
+
+And we've actually, we have no reason to believe this is the, this is the case historically. Whenever you [01:13:00] can reduce the cost of the inputs and the cost and the output quality goes up, it's a higher ROI. More people put more resources into that thing. It's a law of physics, a lot of capitalism. But within why has like Microsoft [01:13:10] done layoffs, right?
+
+
+Why are, why is it hard for junior engineers to get jobs? I think there are moments in which this dislocation happens and it will be painful to some people, and that's, that is a problem. [01:13:20] Um, I also believe it's hard to disambiguate the variables here. As in, in 2022, in March, there was a recession and companies are no longer rewarded for [01:13:30] growing headcount.
+
+
+They're rewarded for trimming headcount and for efficiency. And top line wasn't the most important thing. Um, so maybe if it wasn't for ai, Microsoft and all the big hyperscalers would've fired many, many more people. [01:13:40] Right? And I, I actually believe this to be the case. So it's on us and it's on people to be high, you know?
+
+
+High ownership in their [01:13:50] ability to learn new tools that are dramatically important for the way the world's changing. And I think if, if that does happen, which I expect it to, knowledge work will look different and people won't be doing as much manual things, but they'll be reviewing things [01:14:00] and shipping more product and more work product than ever before at a much higher quality.
+
+
+Okay. I want to ask [01:14:10] about like, advice to our fund to founders. So like from Fundamental Journey has balanced vision with like [01:14:20] immediate, like with immediate problems. So what advice would you give to founders struggling with is Palace? Yeah. Yeah. Decide what kind of company [01:14:30] you are. Um, no, no, no. I'm telling you.
+
+
+I'm sorry. This is the answer. Um, you need to decide what kind of company you are. Be very intentional about what you [01:14:40] believe and how you orchestrate your company. Are you a product company? If so, go solve a need or are you a research company? And then go solve a problem. We, our, our answer to this [01:14:50] is, is we are gonna have research, we're going to have a core platform, and we're gonna have products that capitalize on the research and the engineering here.
+
+
+And that's how we capture values and solve problems that may not be the right approach for everybody. [01:15:00] And I think it's a relatively new phenomenon. Um, I mean we're, we're sort of pioneering it, uh, but this is how we avoid these things. Our research gets to focus on like, how do you scale a million agents together?
+
+
+Um, it's [01:15:10] not on them to figure out how that solves a need. It's on the product department to figure out how we can capitalize on that and build specific use cases. So that's how we do it. Uh, and everybody needs to be very clear about what kind of [01:15:20] company they're building. But if you thought, well, if you did, if you do both things, I think sometimes you lose the past.
+
+
+Like how [01:15:30] Yeah, yeah, yeah. Totally. So actually this whole company culture, we've built, this intentionality we have about this like three-headed machine is not because we're geniuses necessarily, it's because we've had [01:15:40] this problem before. Um, a very famous investor once told us like. In the first meeting, he's like, how do you address the tension between research and product?
+
+
+And we're like, oh, hey, we have this approach. And he's like, [01:15:50] like, I'm not sure that this'll could be enough. Uh, and he's like, this is what broke with like, you know, all the other labs. Uh, and he was right. Um, in fact, our first product was a Minecraft agent that could play Minecraft. [01:16:00] It was actually in a lot of ways really broken.
+
+
+Uh, it was very novel and cool and we got like a ton of attention and it was awesome. Um, but in terms of the research and in terms of its relation to product, we had tried to think of [01:16:10] those things as the same thing. In fact, we had one benchmark in which it was very interesting for research, but it was also interesting for product.
+
+
+Uh, but the problem was, is it didn't capture the distribution [01:16:20] needs of what product people wanted for a fun, great agent to play with. And we couldn't even open source it for the research because it was our product. So it neither succeeded in terms of research, nor in terms of product building [01:16:30] because we thought they were the same thing.
+
+
+Research and product are massively different endeavors, um, unless you're more and more niche potentially. But like you need to be very intentional about the problems you solve and [01:16:40] then the value you capture and how they relate to one another. And that's why we come up with our, our methodology. And that's why I'm so convinced that like, first of all, I really believe in our approach, but you [01:16:50] cannot be, you, you need to be very clear about what kind of company you are.
+
+
+Thank you. And like you move [01:17:00] across like sports, finance and tech. And now, so what advice would you give to people considering a major career shift? [01:17:10] Yeah, I get, get really, really good. Get amazingly good at something. Uh, there's no reason you can't. Um, I also got good at piano and guitar and I can surf.
+
+
+Like you can [01:17:20] just get good at things by putting in many, many hours diligently and you have no business breaking into some other technology or some other field or whatever until you've put in your hours and gone good at it. Um, [01:17:30] and thankfully there's unlimited resources with the internet and AI for you to get good and you get exactly what you deserve.
+
+
+So if you can't break in, it's 'cause you're not good. [01:17:40] Well, there is some people that Oh, like, who are confused with, oh, do I really like this? Like, [01:17:50] like, do I really love it? Like, do I, am I good at? Yeah. What kind of other advice do you want do? Yeah.[01:18:00] 
+
+
+You know, I think this is one of my weaknesses as a person is that I am a man of like a passion and passions. I love music. I love, I love so many [01:18:10] things. So for me, I can't imagine not knowing what you wanna do. Um, I, I maybe at the shallow level, I can say getting good at things is a good way to start to love them.
+
+
+So [01:18:20] put in enough time to give yourself a chance to love something is probably the best chance you have. Um, I, I, I remember learning guitar and thinking this really hurt my fingers and [01:18:30] I wasn't sure I liked it. Um, but I remember about a weekend I started really loving it. So at least give yourself probably a week.
+
+
+To, to see that like initial point, like I talked about, where you can get pretty good pretty fast [01:18:40] and see if that's enough to get you to like something. Um, but I can't really relate to not having things to love, you know? That's very impressive. [01:18:50] Yeah. Okay. Then like in five years, like, like what do you see for shortcuts and fundamental labs?
+
+
+Like how will finance [01:19:00] professionals workflows have changed? Yeah. Yeah. I think in five years, shortcut could be a billion dollar revenue business a year. Maybe, maybe more than that. [01:19:10] I think it could replace most manual Excel work for most people that use computers, um, I think that won't be just exclusive to fundamental and it won't be just [01:19:20] exclusive to spreadsheets.
+
+
+I, I think people won't be doing very manual work on any of the most important softwares. They won't be creating their Jira tickets. They won't be creating Word Docs. They won't be [01:19:30] creating PowerPoints. They will be working with AI to create these things and they'll mostly progress to the role of supervisor and and editor.
+
+
+Um, I'm less confident about after five years. Um, [01:19:40] but I think in five years that's all very table stakes and that that will be, uh, that will be all unlocked. And right now you really love this, but [01:19:50] is there anything else you are interested in? Yeah, um, I mean, this is funny. I really believe, I really, really, really believe that, um, I'm gonna create a, a music album.
+
+
+[01:20:00] Um, and it's gonna be one of the best albums of the year. It'll be like profoundly successful. I do believe it. Um, my, my dad made an album. I've been musical. I play instruments. I can sing mediocre really well. Um, [01:20:10] but like, I know I can get really good at things and I'm gonna just do it again. Um, maybe sometime, I don't know, 5, 10, 20 years, but eventually [01:20:20] What kind of new?
+
+
+Um, it'll be mostly, um, mostly I would say like, [01:20:30] kind of, let me answer this differently. Um, it's very funny to imagine. Um, I'm just trying to think of actually what you would call [01:20:40] the genre. Um,
+
+
+there's, um, yeah, you know, I actually, [01:20:50] um, there's an artist I really like, uh, dije. Um, it's, I wouldn't call it hip hop. I wouldn't, maybe it's a kind of pop, um, soft pop. Um, [01:21:00] and I also really like Spanish music, so I might make, um, some, some more ton style music, but I really like a lot of different genres. Um, [01:21:10] so I mean, I, it's pretty bizarre.
+
+
+It's funny to say all that, but yeah, I wanna make a pretty, like a eclectic album. Maybe I'll interview next time that as you are singer or like, [01:21:20] maybe, maybe, um, I know it's really bizarre to say, um, but it's just because I really believe I can get insanely good at things, um, and I already have a passion [01:21:30] for it, so it's really easy.
+
+
+Yeah. So you. And, and you, so you work and then go, like, go do music recording after, after work? No, I don't do it now. I [01:21:40] play piano after work, um, at home, but I don't have the time. So maybe, you know, one day. Okay. And, [01:21:50] uh, for our, for like aspir aspiring founders who may feel stuck in real world, in real world struggles or are seeking opportunity [01:22:00] within them, so what is the single most important piece of advice you would, you would share?
+
+
+Yeah. Um, I actually [01:22:10] think this is the hardest bottleneck to becoming a founder. Um, and I think it's the reason that like people of higher means actually become more successful founders is [01:22:20] you have to be able to take risk and your appetite to test take risk is pretty correlated to, um, the floor at which you'll find yourself if you fail.
+
+
+Right? So, um. [01:22:30] I think, I think the thing that really people were thinking about starting a company should come around to, uh, understanding is there will be a period in which you [01:22:40] don't make money, um, and that you may fail, but the skills in which you'll develop, the skills in which you will develop and the pursuit of building something will dramatically [01:22:50] improve the quality of opportunities in the rest of your life.
+
+
+So even if you don't have as great means, um, how much better you'll get, not just at building companies, but in the [01:23:00] skills, technically whatever, marketing, growth, whatever, that you'll, you'll get so much better that even if you had failed, your, your floor has risen, uh, and your opportunities have probably increased as well.[01:23:10] 
+
+
+So once you can internalize that, I think becoming someone who could take bigger risks becomes easier. And, uh, and you are from [01:23:20] Miami? Yeah. Yeah. And you were, you moved to San Francisco? Yeah. Like when did you move in? So I was actually at MIT, um. Where I was [01:23:30] working out of Robert's lab. Um, and then while I was there, my wife was six months pregnant.
+
+
+Um, and when she was ready to actually, basically we wanted to avoid the winter, we give [01:23:40] birth to Miami around grandparents. So I drove down to Miami. We moved to Miami while I was still in school, um, while we were starting the company. And as soon as she gave birth, we had already like raised it around. We already like, really were [01:23:50] doing this.
+
+
+So I moved her out with the baby from Miami. Three months after moving to San Francisco. I was like, in fact, I was actually flying every week from Miami to San Francisco also. [01:24:00] Um, but yeah, we moved my MIT to Miami to San Francisco in a few months. Oh. And do you have any, like, what do you feel when you [01:24:10] just move into San Francisco?
+
+
+Um, you know what's really funny? I felt like a con. I felt like I was gonna conquer, um, a new land. Um, and, uh, I was [01:24:20] really, really, really excited. And I think I, you know, I'm on the way to doing it. Um, it would felt like a noble, a noble pursuit. Yeah. Yeah. How can [01:24:30] you, like, during all these like weekend flights?
+
+
+Yeah. Like how long do you do that? I did that for I think like, uh, 14 weeks. [01:24:40] Um, so like three, three to, yeah. Yeah. So I flew, um, or more than that. Um, but I flew Sunday night through Thursday [01:24:50] night, um, six hours each way. Was it okay to you, like, what does, what makes you to do like those flights? Um, my [01:25:00] wife, I really was adamant that she would be able to give birth and be pregnant, um, around family.
+
+
+Um, and all our families are from Miami, and I work so much that [01:25:10] I wouldn't be with her if we were in San Francisco, so she would be alone during a difficult time. And family is still my top priority. So I wanted, I would rather subject myself to a ton of travel [01:25:20] than her, not have what she needs. So that's, that's why we chose that path.
+
+
+Yeah. And, and also I want to ask like, uh, for the, like [01:25:30] lovings, find some, find things that I love. Yeah. Like, but if I turn what I love into a business like, or work like [01:25:40] once I end up disliking it, once it becomes a work, uh, does it pollute it? Um, yeah, it's funny. [01:25:50] Um,
+
+
+yeah, yeah, yeah. Um, I think this can happen and I don't have a good framework for, for how you avoid this [01:26:00] problem. In fact, I think one of the fun things is my dad used to say music is a great hobby, not a great career. Uh, and he's a musician too. Uh, and I [01:26:10] think there was some ancient wisdom in that, which isn't just that it doesn't pay well, but it's actually that.
+
+
+If you can separate the concerns in your life and allow the things you love to be the things you love, then you probably [01:26:20] keep them a little bit more pure. Um. Now it gets hard to do that because the things you love, you end up getting really good at. And if you get really good at things, you're able to provide and capture a lot of value [01:26:30] on those things.
+
+
+Um, I know a lot of people who make a lot of money, um, in professional dunking, for example, and they, it hasn't poisoned their passion. I think if you really love it enough, it's not a concern. Um, [01:26:40] but you should find the parts that taint, that taint the well and abstract those away from you as much as possible, even if it hurts your business.
+
+
+I think,[01:26:50] 
+
+
+I think I cover all the questions. And before we end though, I want to, uh, for the editing, uh, yeah. Could you briefly introduce yourself again? [01:27:00] And also, yeah. I also wanna introduce shortcut. I just wanna give people a reason to touch the, to, to send the link. Yeah.[01:27:10] 
+
+
+Uh, and, and this, and also, uh, also mention about. The speed run program. Yeah. Like when did you [01:27:20] get in and Sure. What do you learn? And then kind of brief introduction and also some metrics. Yeah, totally. Um, okay. Lemme [01:27:30] three of those things. Um, cool. So I'll say, uh, hey, I'm Nico. I'm the co-founder of Fundamental.
+
+
+Um, one more time. I'm sorry. Yeah. Uh, hey, I am Nico. I'm the [01:27:40] co-founder of Fundamental, I'm also the creator and CEO of Shortcut, uh, which is the first superhuman Excel spreadsheet agent that can automate most of your work on Excel. Um, okay. So now the second [01:27:50] thing is, um, uh, could you, uh, share some metrics like Yeah.
+
+
+Uh, wait on shortcut. Oh, shortcut and fundamental research. Yeah, [01:28:00] sure, sure, sure. Um, I have to be very careful. Um, well, well then first lemme answer this speed run question and then I'll think about that. Um, we [01:28:10] got our first term sheet, um, actually not first term. Uh, our first investor was a 16 Z speed run.
+
+
+Uh, they led our pre-seed round. Uh, we ended up raising a 900,000,901 more time. [01:28:20] Uh, our first investor was a 16 Z speed run. Um, and the journey there was transformative for us. We ended up getting our, our, our term sheet from them, I think Christmas Eve. Uh, we moved out to San [01:28:30] Francisco, participated in the program with John and, uh, the team there.
+
+
+And it was transformatively important for our success. By the end of it, we had established ourselves at the top research side in the, in the program and ended up [01:28:40] raising 9 million from Eric Schmid's first Spark Ventures right after and Pat run. Um, and put ourselves on the trajectory that we're on today and, you know, have since raised a total of like over 40 million.
+
+
+And our team [01:28:50] is almost 30 people. And, um, we have a breakout product now on our technology. So it's been really exciting times and I think Speed Run was a massive contributor to that. Not just a, as an unlock, but as, as [01:29:00] a as, as a, as a means to like install a lot of learning in our company, uh, at the cultural level, like about games, about speed and velocity.
+
+
+So, um, massively, massively appreciative of our time there. [01:29:10] December, uh, this was January 24, the first month of our company. Yeah. Um, then metrics, [01:29:20] unfortunately, I can't share metrics. Um, I will say that we have thousands of paying customers paying a good amount, um, a month at [01:29:30] thousands of companies. And, um, it's growing.
+
+
+So people enjoy the product, which is, uh, really reassuring and it's actually really clear to us that we're like sort of post [01:29:40] PMF, but we're pre-phase transition, as in there will be a moment in which it's so painfully obvious that you should not be doing manual excel work. That we're going to hit a, a turning [01:29:50] point in which it grows like wildfire.
+
+
+And I think we know exactly what the path is to get there and what has to be true. And we're turning it into a benchmark problem. And we're very, very good at hill climbing [01:30:00] benchmarks.
+
+
+Christian, there are two, just really quick, um, when you were mentioning the demo videos that. Really [01:30:10] well, uh, could you, could we get a sentence from you saying that it launched and then like so many people reacted to it? Can you, instead of the metrics of the [01:30:20] company, could we have you share some of those numbers?
+
+
+Uh, yeah, yeah, yeah. Um, looking at Chris, yeah, sure. Uh, 3.5 million. Yeah, but that's [01:30:30] just one of them. I think the other one got four. Um, and then the LinkedIn got five, I think. Um, something like that. Um, sure, sure. I'll say that. Um, so we launched [01:30:40] July 28th. Um, sorry, one more time. We actually launched, like, I think we launched.
+
+
+Alright. So we actually had a very funny, like, launch [01:30:50] story. We launched very early July, I think it was like July 2nd or third or, um, and it got I think 4 million views on just LinkedIn. It got like 4 million views on, uh, [01:31:00] Twitter as well. Uh, and then on Reddit, I think we probably had like 10 million views and like 10,000 plus comments or, or more than that even asking for access and.
+
+
+That was extraordinary. And it [01:31:10] was a very, you know, a great confirmation sign that we, like, we need to ship this thing fast. And then three weeks later we shipped, and this was like July 28th, and we did this, and we again got, uh, we like double [01:31:20] dipped. We, uh, we got even more views. I think it was like somewhere around like 10 million views as well across platform and like a huge amount of comments for access as well.
+
+
+And people at this time were able to use it and they were all [01:31:30] converting into, into users, uh, which was, um, a huge, you know, swing of success for this company. And it was, um, [01:31:40] the very rare experience in which I think I've never seen, uh, I've never seen an introduction launch video that does, that goes viral.
+
+
+[01:31:50] Um, be anywhere comparable in size to the public release afterwards. Think like, you know, cognition, think, uh, a bunch of these examples, things that go massively viral. [01:32:00] They're like, Hey, we're out and available is usually an afterthought. Um, and then they usually have to hit the wait list. I think the same was true for manos.
+
+
+Um, we had the rare success of double [01:32:10] dipping, which was like even just being publicly available. The response to that launch was, um, massive. And I think that was a big change in terms of how our companies performed, uh, [01:32:20] relative to other people who have these moments. I think. Yeah, I just had a curiosity.
+
+
+It, it doesn't have to the video, but, [01:32:30] uh, because it, I really found it interesting that you're building the foundation, you're building the research lab along with the product, and then you have the platform [01:32:40] and that all seems really, and it seems like you're building an entire house instead of just building the rooftop for every, for every application.
+
+
+So do you have plans [01:32:50] where in the long run, um, you, do you launch other products, uh, based on the research? Like is that something that Yeah, yeah. You're, you're, you're going for Totally. Is that like an [01:33:00] actual roadmap that you're looking for? Is this something like, oh, it could happen. No, no, no, no, no. Yeah.
+
+
+Um, it's a very, very intentional part of our roadmap that we're launching many, [01:33:10] many products in the next 12 months, all of which recently possible because of our research and where agent technology has gotten and because of our advantage with the Core tech platform to build agents on top of, um, [01:33:20] specifically, uh, multi-agent is like our, you know, our very important framework.
+
+
+Um, so yeah, it's not just a talking point like any other company that has a shortcut success [01:33:30] would've fired all of its researchers, or most of them would've fired the Cortex platform and just focused and renamed the company shortcut. Um, we didn't even think about that. It wasn't [01:33:40] even a topic of discussion.
+
+
+Um, our ambitions are so much bigger and we have so much other plans for what we launch, uh, at the product level, and that's still just a fraction of what we think we can do at, at the research and [01:33:50] engineering side. So, yeah, for sure. Then do you have a, like specific plan for a year? Uh, yeah. [01:34:00] Um. Yeah. I'm hesitant to share our, our year plans.
+
+
+Yeah. Um, but yeah, but we want to, we wanna launch five to 10 awesome. [01:34:10] Awesomely impactful, inherently retentive daily kind of use products with huge opportunity and upside, uh, that are just recently possible because of our technology. Uh, we also want to establish [01:34:20] ourselves with new states, with new state of the arts on the most important benchmarks and research, which all, all of which get into, um, multi-agent performance benefit.
+
+
+So test time scaling. [01:34:30] The reason why I asked is that how long do you, uh, how, when you make the plan, how long do you think, how far do you see? Yeah. Yeah. [01:34:40] This is where me and Robert really compliment each other very well. I'm actually not, um, I'm not very strong at like [01:34:50] two to five to 10 plus year out thinking.
+
+
+Uh, I'm very good at like executing in sprints. Um, Robert is a very, very big picture. Uh, in fact decided that [01:35:00] he was gonna build his company more or less when he was 17, 18 years ago. Like, he's okay with being wrong for a long time if he knows he's right. Uh, so this [01:35:10] intentionality with how we built the company and how we structure our long-term goals and where we need to get to is largely a result of his thinking.
+
+
+Um, and my goal is to be very in the weeds about how we succeed. [01:35:20] Um, so yeah, we, we don't just think, uh, one year out, like we're thinking decades out. Um, and our goal is not to be a generational company 'cause those companies are forgotten every generation. It's really to be a [01:35:30] historical company. Uh, and that requires a sort of grand picture thinking that goes way beyond a year.
+
+
+How do you like, uh, combine each other together? [01:35:40] Yeah. On the surface, it's really, you wouldn't picture like a Miami Pro street ball, dunker and a MIT professor starting a business together. Um, we [01:35:50] just, I get that guy very well. He hits me. Um, we're both deeply, uh. Um, flawed in some different ways and very, very [01:36:00] spec especially skilled in others.
+
+
+And they overlap in such a way that we cover each other very well. Um, and, um, it's usually, it's usually [01:36:10] Robert's duty to make sure that we're on the right long-term trajectory and usually my duty to make sure that we win. Um, and, um, it's not that you can't get in the weeds, [01:36:20] actually, this is something that's unique.
+
+
+It's not that Robert doesn't get in the weeds or that anyone who's capable of big picture, big picture thinking can't. Um, it's just that there are very few people in the world who can do this sort of big [01:36:30] picture thinking and it, and it's becomes where you wanna spend your time. Um, so if there was no one at the company who could do what I can do, he would have to do it and it would actually detract her ability to do the picture stuff.
+
+
+Um, I [01:36:40] actually am simply, um, not capable of, of doing this sort of big picture thinking at his level, which is I think there's only a handful of people in the world. Uh, so yeah, that you, I I think it's a really just a [01:36:50] happy byproduct of that we started the company that this was true. Uh, but I think it's a big, big difference maker that we have two leaders at.
+
+
+And was there a moment that you guys are really [01:37:00] like, yeah, it clicked. Yeah. Um, yeah. Yeah. Uh, it's a great question. Um, I'm [01:37:10] trying to think of when it really clicked for me. Um,
+
+
+you know, I, some people are really, [01:37:20] um, high slope, um, and I didn't, the hard part about judging people, which is the hard part about hiring and probably the hard part of VC and all sorts of things, is like judging people in a [01:37:30] dimension in which they're better than you. Uh, which is really difficult. How do you evaluate that?
+
+
+Right. Famously hard. Um, and I knew on the surface what it meant to be like a physics Olympiad and to [01:37:40] be like, um, a professor at MIT as the pinnacle of the field. Right. Um, but I couldn't quite evaluate it. Right. Um, but what I was able to evaluate was like how powerfully competent [01:37:50] those people are if you put them elsewhere.
+
+
+Um, and how quickly they could learn. So Robert was his first time being CEO of, of course. And there was all sorts of rookie mistakes, and he never really started a company or never been in entrepreneurship. [01:38:00] Um, but his ability to actually come up with original ideas that were right, um, and then to convince people in the [01:38:10] industry through sheer intellect that those ideas were right.
+
+
+And reason, uh, I've never seen before. Um, I've never seen people like you take it for granted, but very few people have original [01:38:20] thoughts ever. Uh, I think Robert is full of them. Um, and they're novel and insightful. Um, and I think one of the most important things he does is he teaches people things, uh, [01:38:30] and a very powerful dynamic.
+
+
+And, um, wouldn't colleges investing but in sales or anything is like, can you make people feel like they're learning something because of you? And can you give them something [01:38:40] to share, um, as a result of having met you? And that's Robert's superpower for sure. And we did a lot of that together. Um, and it was, it was in these [01:38:50] repeated moments of just.
+
+
+Robert can sit down and think for three hours and not leave his chair and stand up with an original idea that solves a problem. Like [01:39:00] that's a very special human being. Um, so having seen that more than a handful of times early was, um, I wish I had known that before we started coming together. I think I just had good instincts [01:39:10] in, in choosing the partner, but that was, um, seeing that enough times is, is, uh, powerful.
+
+
+Yeah. Wow. Cool. Okay. I want to meet [01:39:20] him, like Yeah, for sure. Yeah. Yeah, he's probably downstairs. He's actually getting naturalized today. Um, oh yeah, he was a citizen today. Okay. And for, for this [01:39:30] interview, I think we are done. Yeah. Okay. So thank you for being No, my pleasure. Thank you guys for doing this.
+
+
+Thank you for your interview. Was it a weird one or? No, it was a good [01:39:40] one.
+
+
+
+
+Gemini
+다음은 두 번째로 첨부하신 Nico Christie 오디오 스크립트를 요청하신 형식에 맞춰 정리한 내용입니다.
+Chapter 1: 회사 소개 및 초기 여정
+[00:00:20] 본인 및 회사 소개
+* 챕터 요약: 자신을 'Fundamental'의 공동 창업자이자 'Shortcut'의 창업자 겸 CEO로 소개합니다. 'Fundamental'은 MIT에서 분사한 연구소로 디지털 휴먼 구축을 목표로 하며, 'Shortcut'은 그 과정에서 나온 첫 번째 성공적인 생산성 제품이라고 설명합니다.
+* Full English Answer: Uh, I'm Nico Christie. I'm the co-founder of Fundamental. I'm also the founder and CEO of Shortcut Fundamentals, a research lab. We spun out of MIT about 18 months ago where my co-founder was a professor. Uh, and since then we've been on the pursuit of building digital humans, um, starting in games, getting into multi-agent from their productivity and eventually embodiment and shortcuts our first winning product in the productivity space. 1
+* 한국어 번역: 저는 니코 크리스티입니다. 'Fundamental'의 공동 창업자이자 'Shortcut'의 창업자 겸 CEO입니다. 'Fundamental'은 연구소로, 약 18개월 전 제 공동 창업자가 교수로 있던 MIT에서 분사했습니다. 그 이후로 저희는 디지털 휴먼을 만드는 것을 목표로 달려왔습니다. 게임에서 시작해 다중 에이전트(multi-agent), 생산성, 그리고 최종적으로는 구현(embodiment) 단계까지 나아갈 것이며, 'Shortcut'은 생산성 분야에서 저희의 첫 번째 성공적인 제품입니다. 2
+[00:01:00] 데모 영상의 바이럴과 투자 유치에 대한 소감
+* 챕터 요약: 엑셀 업무의 상당 부분을 자동화하면 사람들이 관심을 가질 것이라 예상했지만, 실제 반응은 예상보다 훨씬 뜨거웠다고 말합니다. 하루 정도는 기분이 좋았지만, 이는 원대한 목표를 향한 작은 단계일 뿐이라고 덧붙입니다.
+* Full English Answer: Um, I guess I expected that if you can automate a significant portion of Excel work that people would care. Um, I think people cared even more than I had anticipated, and in terms of how I felt, maybe I felt good for a day. Um, but the truth is, is we've signed up to do something pretty profound and this becomes just a part of the job and just a small incremental step towards what we want to get to. 3
+* 한국어 번역: 엑셀 작업의 상당 부분을 자동화할 수 있다면 사람들이 관심을 가질 것이라고 예상했습니다. 하지만 사람들은 제가 예상했던 것보다 훨씬 더 많이 관심을 가져주셨습니다. 제 기분에 대해 말하자면, 아마 하루 정도는 좋았던 것 같습니다. 하지만 사실 저희는 매우 심오한 일을 하기로 약속했고, 이것은 그저 일의 일부이자 저희가 도달하고자 하는 목표를 향한 작은 발걸음일 뿐입니다. 4
+[00:01:30] 영상의 바이럴 규모와 투자 유치 금액
+* 챕터 요약: Process의 주도로 3,350만 달러의 시리즈 A 투자를 유치했다고 밝힙니다. 이 투자에는 Andreessen Horowitz, Eric Schmidt의 First Spark 등 기존 주요 투자자들도 참여했다고 설명합니다.
+* Full English Answer: Yeah, so we've raised, we raised a $33.5 million series A, uh, that was led by process. It, uh, incorporated a lot of our prior major investors like Andreessen Horowitz's Games Fund, um, Eric Schmitz, first Spark, uh, patron, which is a, a games. Um, it included Patrick Collison and Balaji and some other angel investors and researchers 5
+* 한국어 번역: 네, 저희는 Process가 주도한 3,350만 달러 규모의 시리즈 A 투자를 유치했습니다. 이 투자에는 Andreessen Horowitz의 게임 펀드, Eric Schmidt의 First Spark, 게임 분야의 Patron과 같은 기존 주요 투자자들이 많이 참여했습니다. 또한 Patrick Collison과 Balaji, 그리고 다른 엔젤 투자자 및 연구자들도 포함되었습니다. 6
+[00:02:00] Fundamental과 Shortcut의 관계 및 조직 구조
+* 챕터 요약: 연구와 제품 사이의 긴장을 해결하기 위해 독특한 구조를 선택했다고 설명합니다. 바이트댄스(ByteDance)를 가장 유사한 모델로 들며, 회사를 연구, 핵심 플랫폼, 제품이라는 '세 개의 머리를 가진 짐승'으로 조직하여 각 부분이 유기적으로 작동하도록 설계했다고 말합니다.
+* Full English Answer: There's probably no model for it in the west. Um, but the most important thing you can do as a research lab is address the fundamental tension between research and product. What are you going to build? How are you gonna prioritize what you build? Um, when you build something that succeeds, do you put all of your effort into it? So structurally, like I kind of alluded to, there's no model for it in the west. I think the best comparison would be ance, uh, where you don't have any coherent product theme. But what you do have is a very coherent and intentional research and tech theme. So by chance, equivalent would be e recommendation engine. And from there all these flowers may bloom, right doin, um, to, um, but for us, the core, um, for us, the core, you know, unifying theme is actually building multi-agent frameworks and building strongly performing agents. And we've done this many, many times. So from there, different products may bloom. One of them was Minecraft. We built the first ever agents that could play Minecraft and the second one was Roblox. Um, and the most recent one is an agent that can perform extremely well on Microsoft Excel. 7777
+* 한국어 번역: 서구에는 아마 이런 모델이 없을 겁니다. 하지만 연구소로서 할 수 있는 가장 중요한 일은 연구와 제품 사이의 근본적인 긴장을 해결하는 것입니다. 무엇을 만들 것인가? 만드는 것의 우선순위는 어떻게 정할 것인가? 성공적인 것을 만들었을 때, 모든 노력을 거기에 쏟아부을 것인가? 구조적으로, 제가 암시했듯이 서구에는 이런 모델이 없습니다. 가장 좋은 비교 대상은 바이트댄스(ByteDance)일 것입니다. 그곳에는 일관된 제품 테마가 없지만, 매우 일관되고 의도적인 연구 및 기술 테마가 있습니다. 바이트댄스의 경우 추천 엔진이 그 핵심에 해당하고, 거기서부터 도우인(Douyin) 등 모든 꽃들이 피어날 수 있습니다. 하지만 저희에게 핵심적인 통일 테마는 다중 에이전트 프레임워크를 구축하고 강력한 성능의 에이전트를 만드는 것입니다. 저희는 이것을 여러 번 해왔습니다. 그래서 거기서부터 다양한 제품이 나올 수 있습니다. 그중 하나가 마인크래프트였고, 저희는 마인크래프트를 플레이할 수 있는 최초의 에이전트를 만들었습니다. 두 번째는 로블록스였습니다. 그리고 가장 최근의 것은 마이크로소프트 엑셀에서 매우 뛰어난 성능을 발휘하는 에이전트입니다. 8888
+________________
+
+
+Chapter 2: 개인적 성장과 경력 전환
+[00:04:20] 세계 최고의 덩커(Dunker)였던 경험이 리더십에 미친 영향
+* 챕터 요약: 세계 최고가 되기 위해 무엇이 필요한지 알게 된 것이 가장 큰 교훈이라고 말합니다. 그는 목표 달성을 위해 모든 것을 바치는 광적인 몰입과 정렬이 성공의 핵심이며, 자신의 일과 사명에 대해 그렇게 느끼는 사람들과 함께 회사를 시작하고 싶었다고 설명합니다.
+* Full English Answer: Um, it's atypical, but I was not argue. I was arguably not just Miami's best dunker, I was arguably one of the very, very best dunkers in the world. Um, and in most ways it's completely uncorrelated and unrelated to what I'm doing now, except for I know what it looks like and what it's required to be the best in the world as something which is something that's really, really rare, um, definition of. And what it takes is every living breath, every time you sleep, every food you eat, all of it serves in the purpose of accomplishing your goal. Um, and that sort of maniacal alignment is what it takes to succeed. And I vowed to find people who felt that way about their work and their mission. 9
+* 한국어 번역: 이례적이지만, 저는 마이애미 최고의 덩커일 뿐만 아니라, 논쟁의 여지 없이 세계 최고의 덩커 중 한 명이었습니다. 대부분의 면에서 지금 제가 하는 일과는 전혀 상관이 없지만, 한 가지 예외가 있다면 그것은 바로 어떤 분야에서 세계 최고가 되기 위해 무엇이 필요하고 어떤 모습이어야 하는지를 안다는 점입니다. 이는 정말 드문 경험입니다. 그리고 그것을 위해서는 살아 숨 쉬는 모든 순간, 잠자는 모든 시간, 먹는 모든 음식이 목표 달성이라는 목적에 부합해야 합니다. 그런 종류의 광적인 정렬(alignment)이 성공에 필요한 것입니다. 그리고 저는 자신의 일과 사명에 대해 그렇게 느끼는 사람들을 찾겠다고 다짐했습니다. 10
+[00:05:40] 농구 선수 시절의 생활
+* 챕터 요약: 어릴 때부터 재능을 인지했고, 이를 통해 얻은 자신감으로 더 많은 노력을 기울이는 긍정적인 피드백 루프를 만들었다고 회상합니다. 그는 덩크에 대한 책을 출판하여 생계를 유지했지만, 이것이 지속 가능하지 않다는 것을 알고 22살 무렵부터는 전통적인 직업의 필요성을 느꼈다고 말합니다.
+* Full English Answer: Yeah. Yeah. So I knew at a young age that I was extremely gifted. Um, as in I was always the local best in my city. Um, and what that caused was a sort of a sense of confidence that like, I can start to work more and more on this. Um, and then what that built was a really positive feedback loop that I would get better and better at it because I loved it. And then I would love it more. And then I would start to meet people who were just like me and I would travel. Um, I ended up writing a book called How I Learned to Jump Higher Than LeBron James sold like tens of thousands of copies and I was providing, uh, for myself, but I knew that this wouldn't scale and it wouldn't last. And, and frankly, I actually had accomplished all of what I had ever dreamed for in Dunking. Um, and that went to, while I was about 25 and even at about 22, I knew that I would need a traditional career to support myself in addition to that. 11
+* 한국어 번역: 네, 저는 어린 나이에 제가 매우 재능이 있다는 것을 알았습니다. 저는 항상 제 도시에서 지역 최고였습니다. 그로 인해 자신감이 생겼고, 이 분야에 점점 더 많은 노력을 기울일 수 있었습니다. 그리고 그것은 제가 그 일을 사랑했기 때문에 점점 더 잘하게 되는 긍정적인 피드백 루프를 만들었습니다. 그리고 더 사랑하게 되었죠. 그러면서 저와 같은 사람들을 만나기 시작했고 여행도 다녔습니다. 저는 결국 '나는 어떻게 르브론 제임스보다 높이 점프하게 되었나'라는 책을 썼고, 수만 권이 팔려 생계를 유지할 수 있었습니다. 하지만 저는 이것이 확장되거나 지속될 수 없다는 것을 알았습니다. 솔직히 말해서 저는 덩크에서 꿈꿔왔던 모든 것을 이미 이루었습니다. 그 시기는 25살 무렵이었고, 22살 때부터 이미 그것 외에 저를 부양할 전통적인 직업이 필요하다는 것을 알고 있었습니다. 12
+[00:07:00] 금융 컨설팅으로의 갑작스러운 경력 변경 동기
+* 챕터 요약: 경력 변경이 매우 의도적인 결정은 아니었다고 말합니다. 당시에는 세계 최고의 덩커가 되는 것이 최우선이었고, 생계를 유지하고 가족을 부양할 수 있는 안정적인 직업이라면 무엇이든 받아들였을 것이라고 설명합니다.
+* Full English Answer: Um, you know, it wasn't, uh, the most intentional thing. I think the real truth is, is I would've taken whatever seemingly solid job I had. I didn't take my academics very seriously. Uh, I didn't even take my career very seriously. It was all second to my pursuit of being the best dker in the world. Uh, knowing that I had to satisfy a couple constraints. Like I had to be able to pay the bills. I had to be able to, you know, be proud of the work I did support a family, um, but I had zero passion or fundamental interest for consulting or finance. 13
+* 한국어 번역: 음, 가장 의도적인 것은 아니었습니다. 진실은, 저는 안정적으로 보이는 직업이라면 무엇이든 가졌을 것이라는 점입니다. 저는 학업을 그다지 진지하게 여기지 않았고, 제 경력조차도 진지하게 여기지 않았습니다. 모든 것은 세계 최고의 덩커가 되겠다는 제 목표 다음이었습니다. 물론 청구서를 지불해야 하고, 제가 하는 일에 자부심을 느끼고 가족을 부양해야 한다는 몇 가지 제약은 만족시켜야 한다는 것을 알고 있었습니다. 하지만 컨설팅이나 금융에 대해서는 열정이나 근본적인 관심이 전혀 없었습니다. 14
+[00:08:00] 금융 컨설턴트 시절의 기억에 남는 순간
+* 챕터 요약: 금융 컨설턴트 시절에 대해 특별히 기억에 남는 순간은 없다고 솔직하게 말합니다. 그는 그곳에서 많은 것을 배웠지만, 세상 대부분의 사람들이 생각하는 '기술적 능력'이 매우 피상적인 수준에 머물러 있다는 것을 깨닫고 그곳에 머물고 싶지 않았다고 회상합니다.
+* Full English Answer: You know, the truth is, is not really okay. Uh, I think it was an important place for me to learn a lot, um, and it really taught me that. You know, I think what, what people consider like being technical or having a strong skillset, um, in most of the world is at a very shallow level. Uh, it means they can use keyboard shortcuts without using the mouse on Excel. It doesn't mean that they can code applications, um, into being through sheer will, right. Or, or to have original ideas or to do something profoundly difficult. Um, and I think I was after, after having been something, uh, like at the tier of the best in the world of something to then go into consulting and to see everybody. Um, so surface level, I thought, um, I just didn't wanna be there. 15
+* 한국어 번역: 솔직히 말해서, 별로 없습니다. 그곳은 제가 많은 것을 배울 수 있었던 중요한 곳이었습니다. 그리고 그 경험을 통해 세상 대부분 사람들이 '기술적'이거나 '강력한 기술'을 가졌다고 여기는 것이 매우 피상적인 수준이라는 것을 깨달았습니다. 그것은 엑셀에서 마우스 없이 키보드 단축키를 사용할 수 있다는 것을 의미할 뿐, 순수한 의지만으로 애플리케이션을 코딩해내거나, 독창적인 아이디어를 내거나, 심오하게 어려운 일을 하는 것을 의미하지는 않습니다. 세계 최고 수준의 무언가를 경험한 후에 컨설팅 업계에 가서 모든 사람들의 피상적인 수준을 보고 나니, 저는 그냥 그곳에 있고 싶지 않았습니다. 16
+[00:09:20] 비전공자로서 빠르게 AI 전문성을 쌓은 비결
+* 챕터 요약: 그의 좌우명은 '연습, 연습, 연습'이라고 말하며, 어떤 인간이든 노력하면 상위 1%에 도달할 수 있다고 믿습니다. 그는 목표를 달성하는 가장 빠른 방법은 '그 일을 직접 하는 것'이라는 '특수성의 원리'와 '엔드투엔드 반복' 철학을 통해 코딩을 포함한 모든 것을 빠르게 습득했다고 설명합니다.
+* Full English Answer: Um, I would say, you know, maybe my motto in life is practice, practice, practice. Um, it was what I was taught when I was two. It's my dad's motto. Um, and I really believe that the capacity ceiling for any human in any endeavor is way higher than you think. Um, that any, any human can be in the top five percentile, top one percentile in most endeavors, um, and that they're probably gonna be 10 times better than they had thought. So when I moved out of, um, dunking, I bizarrely artistically decided I'm gonna get good at programming. I had done a master's in data science. I had used Python and ARB a bunch. Um, and I thought, you know what? I'm just gonna grind, uh, lead code every single day. And I did that for hours a day. Um, I wouldn't say it, I wouldn't say it was transformative in like my ability to code, uh, but it was an amazing ability for like me to realize how quickly you can get better at something, uh, even if it was technical and your first jump into something totally different. 17171717
+* 한국어 번역: 제 인생의 좌우명은 '연습, 연습, 연습'입니다. 두 살 때부터 배운 것이고, 저희 아버지의 좌우명이기도 합니다. 저는 어떤 인간이든 어떤 분야에서든 그 잠재력의 한계는 당신이 생각하는 것보다 훨씬 높다고 굳게 믿습니다. 어떤 인간이든 대부분의 분야에서 상위 5%, 상위 1%에 들 수 있으며, 아마 생각했던 것보다 10배는 더 잘하게 될 것입니다. 그래서 저는 덩크를 그만두고 나서, 프로그래밍을 잘해야겠다고 다소 엉뚱하게 결심했습니다. 데이터 과학 석사 과정을 마쳤고, 파이썬과 R을 많이 사용했었습니다. 그래서 매일 몇 시간씩 리트코드(LeetCode)를 풀기로 했습니다. 제 코딩 능력에 있어 혁신적이었다고는 말하지 않겠습니다. 하지만 기술적인 분야이고 완전히 다른 분야로 처음 뛰어들었음에도 불구하고, 무언가를 얼마나 빨리 잘하게 될 수 있는지를 깨닫게 해준 놀라운 경험이었습니다. 18181818
+[00:11:50] 프로그래밍 공부 시간
+* 챕터 요약: 프로그래밍을 배울 때 매일 아침 5시 30분부터 8시까지, 그리고 저녁 8시부터 10시까지 하루 최소 3~5시간을 공부에 투자했다고 말합니다. 그는 MIT 입시를 준비할 때도 매일 모의고사를 풀고 모든 어휘를 암기하는 등 비슷한 접근법으로 완벽한 점수를 받았다고 덧붙입니다.
+* Full English Answer: Yeah, I was doing from, from 5:30 AM to about 8:00 AM Um, and then I was doing, um, probably from like 8:00 PM to 10:00 PM uh, so two to, or three to five hours a day at least. Um, and then, you know, that's not even the first time I've done that. Uh, when I wanted to get into MIT, it was the first time I had ever taken academics seriously. And I had realized that getting a perfect score was totally doable. Um, it was just a game of gamified system. Uh, and what you should do is take as many tests as possible and iterate. So I got every practice test that's ever happened. And I did one a day, uh, which takes two to three hours. Um, and then I got the feedback from every single score, and I would do it again. 19
+* 한국어 번역: 네, 아침 5시 30분부터 8시까지, 그리고 저녁 8시부터 10시까지, 하루에 최소 3시간에서 5시간 정도 했습니다. 이런 방식은 처음이 아니었습니다. MIT에 들어가고 싶었을 때, 처음으로 학업을 진지하게 받아들였고 만점을 받는 것이 충분히 가능하다는 것을 깨달았습니다. 그것은 단지 게임화된 시스템의 일부였고, 가능한 한 많은 시험을 보고 반복하는 것이 최선이었습니다. 그래서 저는 이제까지 나왔던 모든 모의고사를 구해서 하루에 하나씩 풀었습니다. 2~3시간이 걸렸죠. 그리고 모든 점수에서 피드백을 받고 다시 풀었습니다. 20
+[00:13:30] 인생을 게임처럼 설계하는지에 대한 생각
+* 챕터 요약: 무의식적으로 그런 요소가 있을 수 있다고 인정합니다. 그는 숫자가 올라가는 것을 보는 것에서 큰 만족감을 느끼며, 숫자를 개선하는 데 집중하고 실제로 그 숫자를 올리는 것이 꽤 만족스러운 삶의 방식이 될 수 있다고 생각합니다.
+* Full English Answer: You know, maybe like, um, maybe subconsciously there's an element of that. Um, I think there's like an animal brain in all of us, but maybe more so in in men, or maybe more so in men like me, in which to see a number go up is kind of like the best feeling in the world. Uh, and it could be like the silliest number, but if you orient yourself around improving a number and you make it go up, it's, it's actually a pretty fulfilling way to, to live your life. 21
+* 한국어 번역: 아마 무의식적으로 그런 요소가 있을지도 모릅니다. 우리 모두에게는 동물의 뇌 같은 것이 있지만, 아마 저 같은 남자들에게는 더 그럴 텐데, 숫자가 올라가는 것을 보는 것은 세상에서 가장 좋은 기분 중 하나입니다. 아주 사소한 숫자일지라도, 숫자를 개선하는 데 집중하고 실제로 그 숫자를 올리면, 그것은 꽤 만족스러운 삶의 방식이 될 수 있습니다. 22
+[00:14:10] 노력과 결과의 비례 관계
+* 챕터 요약: 노력과 결과의 관계는 로그 스케일(log scale)과 같다고 설명합니다. 초기에는 투입 시간 대비 큰 성과를 보이지만 점차 수확 체감 현상이 나타나며, 하지만 진정한 가치와 차별점은 바로 그 한계 지점에서 발생한다고 강조합니다.
+* Full English Answer: Um, it's probably, um, it's probably log scale, uh, as in, you know, there's a very powerful relationship between the initial time you put into something and then there's like a, you know, a. Is some sort of ceiling in which like the returns diminish. Um, the thing is, is that like as the ceiling happens and as the long tail flattens, that's actually where the majority of the value accrues. So that, like getting from the 95th to 98th percentile than anything is harder than getting from 1% to 95. Um, but the difference between the 95 and 98 is like, it's, it's everything. It's, it's how you distinguish yourself amongst others, um, and how you really create value. 23
+* 한국어 번역: 아마도 로그 스케일(log scale)일 것입니다. 처음에 무언가에 시간을 투자할 때는 매우 강력한 관계가 있지만, 어느 정도 한계에 부딪히면 수익이 감소합니다. 하지만 중요한 것은, 그 한계에 도달하고 긴 꼬리가 평평해지는 지점에서 실제로 가치의 대부분이 발생한다는 점입니다. 예를 들어, 어떤 분야에서든 1%에서 95%까지 가는 것보다 95%에서 98%로 가는 것이 더 어렵습니다. 하지만 그 95%와 98%의 차이가 바로 모든 것이며, 다른 사람들과 자신을 구별하고 진정한 가치를 창출하는 방법입니다. 24
+[00:15:20] 새로운 것을 배울 때 초반의 급격한 성장을 느끼는 순간
+* 챕터 요약: 그는 새로운 것을 배울 때 초반에 느끼는 즉각적인 만족감과 빠른 성장 경험이 그 일에 대한 사랑을 심어준다고 말합니다. 이 초기 단계의 긍정적 경험이 나중에 찾아오는 성장 둔화기를 견디고 돌파할 수 있는 원동력이 된다고 설명합니다.
+* Full English Answer: Yeah. Yeah. And that's actually usually the time in which you get, when, when you fall in love with something. So for example, um, I shouldn't use donkey anecdotes, but even, even lead code, um, like to see that like you can accomplish your first problem or to see that, like you can build a webpage and like to see that it would hot reload when you change, you know, some variable or, you know, some, some styling that, like, that instant gratification and knowing how much better you're getting on a daily basis is probably what is, is what instills the love for the thing you're working on so that you can actually tolerate the slowdown, uh, that happens in the limit, uh, and push through that. 25
+* 한국어 번역: 네, 맞습니다. 그리고 바로 그 순간이 보통 무언가와 사랑에 빠지는 때입니다. 예를 들어, 리트코드(LeetCode)를 풀 때 첫 문제를 해결하거나, 웹페이지를 만들었을 때 변수나 스타일을 바꾸면 바로 화면이 바뀌는 것을 보는 것과 같은 즉각적인 만족감, 그리고 매일 얼마나 나아지고 있는지를 아는 것이 바로 그 일에 대한 사랑을 심어주는 것입니다. 그래야 나중에 한계에 부딪혔을 때 찾아오는 둔화기를 견디고 돌파할 수 있습니다. 26
+________________
+
+
+Chapter 3: Prediction Strike에서 Fundamental까지
+[00:16:10] Prediction Strike 창립팀 합류 계기
+* 챕터 요약: Prediction Strike가 그의 두 가지 관심사였던 스포츠와 기술을 완벽하게 결합한 기회였다고 말합니다. 그는 CEO인 Devin의 다재다능함에 매료되어 8개월간 무급으로 일하며 자신의 가치를 증명했고, 결국 창립팀의 첫 멤버로 합류하게 되었다고 설명합니다.
+* Full English Answer: Um, I thought it was the perfect blend of like my two interests. Um, one which was, you know, I was sort of maturing out of, which was this dunking. Um, which was sports tech, right. Or sports. And then the other one was tech. I had been starting to code adamantly. Um, and then, you know, serendipitously my sister had gone to school at Harvard with Devin, who was the co-founder and CEO of prediction strike and offered to make an introduction and we hit it off. I think Devin is one of the most spectacular people I know, um, specifically in how well-rounded he is across the board, which is atypical amongst people who start companies. Um, and what I offered to do was do free work. So I worked for free from December to August. I worked eight months, two jobs in Dunking, um, while coding. 27
+* 한국어 번역: 제 두 가지 관심사가 완벽하게 결합된 기회라고 생각했습니다. 하나는 제가 점차 멀어지고 있던 덩크, 즉 스포츠 기술이었고, 다른 하나는 제가 열심히 코딩을 시작했던 기술 분야였습니다. 그러다 우연히 제 여동생이 Prediction Strike의 공동 창업자이자 CEO인 Devin과 하버드 동문이었고, 소개를 제안해 주어 만나게 되었는데 정말 잘 맞았습니다. Devin은 제가 아는 가장 멋진 사람 중 한 명으로, 특히 모든 면에서 다재다능한 점이 창업가들 사이에서는 드문 경우입니다. 제가 제안한 것은 무료로 일하는 것이었습니다. 그래서 저는 12월부터 8월까지 8개월 동안 덩크와 코딩을 병행하며 무급으로 일했습니다. 28
+[00:17:50] Prediction Strike 서비스 소개
+* 챕터 요약: Prediction Strike를 '스포츠 주식 시장'이라고 설명합니다. 하룻밤 사이에 돈을 모두 잃거나 두 배로 불릴 수 있는 전통적인 스포츠 베팅의 장기적인 대안으로, 훨씬 낮은 위험으로 스포츠 팬들에게 더 즐겁고 캐주얼한 경험을 제공한다고 말합니다.
+* Full English Answer: Yeah. Uh, prediction Strike is a sports stock market. It's a long term alternative to traditional sports betting in which you might lose or double your money in a single night. You can put money into a share and it might go up or down a few percentage points on a daily basis, and it might double or triple or go down significantly by the end of the year, but it's a much lower risk, longer term alternative for a much more. Enjoyable and casual and honestly like a more representative experience for most sports fans. 29
+* 한국어 번역: 네, Prediction Strike는 스포츠 주식 시장입니다. 하룻밤 만에 돈을 모두 잃거나 두 배로 만들 수 있는 전통적인 스포츠 베팅의 장기적인 대안입니다. 주식에 돈을 투자하면 매일 몇 퍼센트 포인트 오르거나 내릴 수 있고, 연말에는 두세 배가 되거나 크게 하락할 수도 있습니다. 하지만 훨씬 위험이 낮고 장기적인 대안이며, 대부분의 스포츠 팬들에게 더 즐겁고 편안하며 대표적인 경험을 제공합니다. 30
+[00:18:40] 바쁜 시기에 우선순위를 정하는 방법
+* 챕터 요약: 각 활동의 성공 기준과 필요 조건이 다르다는 점을 이해하고 우선순위를 설정했다고 설명합니다. 예를 들어, 덩크는 일주일에 몇 번의 고강도 훈련으로 충분했지만, 코딩은 문제에 대해 생각하는 '백그라운드 처리' 시간을 활용하여 업무와 병행할 수 있었다고 말합니다.
+* Full English Answer: You know, the different endeavors you, you take on have different, you know, success criteria and the different things that you have to do to ensure that you get there. So for Dunking, the best I can do was hardcore training A couple times a week. I can stretch and do things at the, at the periphery again, you know, on the other days, but. I, I had maximized and saturated what I had to do in order to succeed, and that could be paralleled with other things. So for coding, I actually found the best thing I could do was spend about an hour or two on a problem and then get as far as I could on that problem, and then actually take a step back and think about why I couldn't be advancing... So these things you can sort of orient so that like you can get maximally better at a few different things in, in parallel. 313131313131313131
+* 한국어 번역: 맡은 일마다 성공 기준과 목표 달성을 위해 해야 할 일이 다릅니다. 덩크의 경우, 일주일에 두어 번 고강도 훈련을 하는 것이 최선이었습니다. 다른 날에는 스트레칭 같은 부수적인 활동을 할 수 있었지만, 성공을 위해 해야 할 일을 최대한으로 포화시켰고, 이는 다른 일들과 병행될 수 있었습니다. 코딩의 경우, 한 문제에 한두 시간 정도 집중하고 최대한 진행한 다음, 한 발 물러서서 왜 더 나아가지 못하는지 생각하는 것이 최선이라는 것을 알게 되었습니다. 이런 식으로 여러 가지 다른 일들을 병렬적으로 최대한 발전시킬 수 있도록 방향을 잡을 수 있습니다. 323232323232323232
+[00:21:30] Prediction Strike에서의 경험이 현재에 미친 영향
+* 챕터 요약: Prediction Strike에서의 경험을 통해 두 가지 중요한 것을 배웠다고 말합니다. 첫째는 창업 과정의 고통을 견디고 결정적인 순간을 포착하는 감정적 안정성이며, 둘째는 사용자 경험에서 '마찰'을 최소화하는 것의 중요성입니다.
+* Full English Answer: Um, so there's probably like two different branches of what I had learned and other helpful to me, um, from my time at prediction strike. One is like, as a founder or as like, you know, a leader of a company, um, having the emotional stability to capture the few miraculous moments that are required to capture at a company to succeed. Um, and having the awareness to dodge the three to five bullets that can just kill you instantly. It also requires having the stability emotionally to tolerate this. Starting a company is a brutal form of like, like a self torture, right? It requires the ability to suffer through these moments of ambiguity, failure and struggle, um, in search of these moments that change everything. Um, and then there's also principles, which is the second branch. Like how do you build shortcut? Um, it was so obvious after experience. Uh, building prediction, strike that. Like friction is the enemy that if you're gonna build a product, especially in consumer products, you should build something that is so easily accessible to people. 333333333333333333
+* 한국어 번역: Prediction Strike에서 보낸 시간 동안 배운 것 중 저에게 도움이 된 것은 아마 두 가지 갈래로 나눌 수 있습니다. 하나는 창업가나 리더로서, 회사가 성공하기 위해 포착해야 하는 몇 안 되는 기적적인 순간을 잡을 수 있는 감정적 안정성을 갖는 것입니다. 그리고 즉시 당신을 죽일 수 있는 서너 개의 총알을 피할 수 있는 인지력을 갖는 것입니다. 또한 이 모든 것을 견딜 수 있는 감정적 안정성이 필요합니다. 회사를 시작하는 것은 잔인한 형태의 자기 고문과 같습니다. 모호함, 실패, 고군분투의 순간들을 견뎌내고 모든 것을 바꾸는 순간들을 찾아 나서는 능력이 필요합니다. 그리고 두 번째 갈래는 원칙입니다. 'Shortcut'을 어떻게 만들었는가 하는 점이죠. Prediction Strike를 만들었던 경험을 통해, 특히 소비재 제품을 만들 때는 마찰(friction)이 적이라는 것, 즉 사람들이 매우 쉽게 접근할 수 있는 무언가를 만들어야 한다는 것이 너무나 명백해졌습니다. 343434343434343434
+[00:24:20] Shortcut 개발에 영감을 준 컨설턴트 시절의 경험
+* 챕터 요약: 컨설턴트로 일할 때, 수백 개의 열과 수천 개의 행으로 이루어진 하드코딩된 엑셀 운영 모델을 분석하는 끔찍한 경험을 했다고 회상합니다. 그는 3개월 동안 매달렸지만 끝내지 못했고, 이 고통스러운 경험을 통해 '더 나은 방법이 분명히 있을 것'이라고 생각하게 된 것이 Shortcut 개발과 관련이 있을 것이라고 말합니다.
+* Full English Answer: I was working as a consultant. I was like, I had gotten promoted and I was leading, um, like a reorganization of like one of a very big tech company here in San Francisco actually. But their finance function. And I was handed, um, an operating model of like how the company is situated and how they prioritize things according to the hours they were. And it was, uh, many, many hundreds of columns, many, many thousands of rows across like dozens and dozens of sheets. And it was all hard coded. Um, and I was handed to it. I was handed it by someone who had left. So, uh, I honestly spent like, uh, three months building it. I didn't complete it. Um, and it was so torturous that I thought like, you know, I just, there must be a better way. Uh, I didn't set out to build shortcut from that moment, but I think, uh, it, it was sufficiently burned into my head that it's probably related. 35
+* 한국어 번역: 저는 컨설턴트로 일하고 있었습니다. 승진해서 샌프란시스코에 있는 한 대형 기술 회사의 재무 부서 조직 개편을 이끌고 있었습니다. 그때 회사가 어떻게 구성되어 있고, 시간을 기준으로 어떻게 우선순위를 정하는지에 대한 운영 모델을 받았습니다. 그 모델은 수십 개의 시트에 걸쳐 수백 개의 열과 수천 개의 행으로 이루어져 있었고, 모두 하드코딩되어 있었습니다. 그리고 그 파일은 이미 퇴사한 사람에게서 받은 것이었습니다. 솔직히 저는 3개월 동안 그것을 재구축했지만 끝내지 못했습니다. 너무나 고통스러워서 '분명히 더 나은 방법이 있을 텐데'라고 생각했습니다. 그 순간부터 Shortcut을 만들기로 결심한 것은 아니었지만, 그 경험이 제 머릿속에 충분히 각인되어 아마 관련이 있을 것이라고 생각합니다. 36
+________________
+
+
+Chapter 4: '디지털 휴먼' 비전과 'Shortcut'
+[00:25:40] '디지털 휴먼'의 정확한 의미와 비전
+* 챕터 요약: '디지털 휴먼'이란 기계에 모든 근본적인 인간의 특성을 부여하는 것이라고 정의합니다. 이는 단순히 지능을 넘어 후각, 시간 감각, 자아, 감정, 의식 등 신경과학에서 다루는 모든 인간적 요소를 포함하며, 회사의 최종 목표는 바로 이것이라고 설명합니다.
+* Full English Answer: Um, so to define it, to build a digital human, we mean giving AI. Our machines, every fundamental human quality, um, in neuroscience, you know, you, you, or let, lemme answer that differently. Sorry. Um, so to build a digital human being, we mean giving machines every fundamental human quality in AI that usually stops with intelligence or super intelligence in neuroscience. Words beyond that are not dirty, right? Like Robert has a paper on olfactory smelling. Like, can, can AI or machines smell? Um, can they have long term autonomy? Can they collaborate? Can they have a sense of time? Um, can they, um, have a sense of self, a theory of mind? Can they experience emotion? Can you model consciousness? Like all of these things in neuroscience are not nearly as dirty of words, uh, and in fact that they have been attempted to be modeled for, for, for very many decades. So when we talk about building digital humans, we mean going far beyond intelligence, uh, as just a key component of who we are, but not, not, not, not really what it means to be a human. 37
+* 한국어 번역: '디지털 휴먼'을 만든다는 것은 AI, 즉 우리 기계에 모든 근본적인 인간의 특성을 부여하는 것을 의미합니다. AI 분야에서는 보통 지능이나 초지능에서 멈추지만, 신경과학에서는 그 이상의 단어들이 금기시되지 않습니다. 예를 들어, 로버트는 후각에 대한 논문을 썼습니다. AI나 기계가 냄새를 맡을 수 있을까? 장기적인 자율성을 가질 수 있을까? 협력할 수 있을까? 시간 감각을 가질 수 있을까? 자아의식이나 마음 이론을 가질 수 있을까? 감정을 경험할 수 있을까? 의식을 모델링할 수 있을까? 신경과학에서는 이 모든 것들이 결코 금기어가 아니며, 실제로 수십 년 동안 모델링하려는 시도가 있었습니다. 그래서 우리가 디지털 휴먼을 만든다고 말할 때, 그것은 인간의 핵심 요소이긴 하지만 인간이라는 존재의 전부는 아닌 '지능'을 훨씬 뛰어넘는 것을 의미합니다. 38
+[00:27:20] '완벽한 AI 에이전트'가 아닌 '디지털 휴먼'이라고 부르는 이유
+* 챕터 요약: 인간이 되는 것에는 지능보다 훨씬 더 많은 것이 포함된다고 강조합니다. 그는 최고의 동료가 반드시 가장 똑똑한 동료가 아니듯, 공감하고 이해하는 능력이 중요하며, 진정한 풍요를 창출하기 위해서는 지능을 넘어 인간을 특별하게 만드는 협업 능력 등을 해결해야 한다고 말합니다.
+* Full English Answer: Yeah, there's just a lot more to us than, there's a lot more to being a human than, than being intelligent. And in fact, your best coworkers are not necessarily your smartest coworkers, right? They're the coworkers that understand you, that care about you, that can empathize, that understand when you're, when, when you need something that you haven't quite verbalized. Uh, and that is a different dimension of intelligence. So I think in order for AI to, to create the kind of abundance that, like people in San Francisco talk about, uh, you need to solve things beyond intelligence. You need to get into the stuff that make humans really special, like the ability to collaborate 39
+* 한국어 번역: 네, 인간이 된다는 것에는 지능보다 훨씬 더 많은 것이 있습니다. 사실, 당신의 최고의 동료는 반드시 가장 똑똑한 동료가 아닙니다, 그렇죠? 그들은 당신을 이해하고, 당신을 아끼며, 공감할 수 있고, 당신이 아직 말로 표현하지 않은 무언가가 필요할 때를 이해하는 동료들입니다. 그리고 그것은 지능의 다른 차원입니다. 그래서 저는 AI가 샌프란시스코 사람들이 말하는 그런 풍요를 창출하기 위해서는 지능을 넘어서는 문제들을 해결해야 한다고 생각합니다. 협업 능력처럼 인간을 정말 특별하게 만드는 것들을 다뤄야 합니다. 40
+[00:28:10] 투자자들의 관심에도 불구하고 '프로젝트 시드'를 중단하지 않은 이유
+* 챕터 요약: '프로젝트 시드'는 다중 에이전트 협업 연구의 일환이었으며, 당시로서는 매우 전위적이었지만 아직 상용 제품으로 만들 준비는 되지 않았다고 판단했습니다. 그는 이 연구를 병행하면서 단일 에이전트의 역량을 키우는 데 집중했고, 그 결과 컴퓨터 사용 에이전트(CUA) 분야에서 최첨단 기술을 확보하게 되었다고 설명합니다.
+* Full English Answer: Uh, project Sid was our first attempt at doing that second stage, which I told you about, which was, um, multi-agent, uh, simulations, collaboration, so on. At that point we felt it was very avant-garde, um, but not directly, directly ready for production products yet. Um, but that research has to be paralyzed and, and and maintained. So we continued to push the boundaries on that. So we put most of our research effort into UA at that point, and we had doubled the state of the art in only five weeks on OS world, which is the most important benchmark on computer use agents. So that gave us an ability for the agent's capacity to, to provide value to dramatically increase. 414141414141414141
+* 한국어 번역: '프로젝트 시드'는 제가 말씀드렸던 두 번째 단계, 즉 다중 에이전트 시뮬레이션 및 협업을 시도한 첫 번째 프로젝트였습니다. 그 당시에는 매우 전위적이었지만, 아직 상용 제품으로 만들 준비는 되지 않았다고 느꼈습니다. 하지만 그 연구는 병행되고 유지되어야 했기에, 저희는 계속해서 그 한계를 넓혀나갔습니다. 그래서 저희는 그 시점에 대부분의 연구 노력을 컴퓨터 사용 에이전트(CUA)에 쏟았고, CUA 분야의 가장 중요한 벤치마크인 OS World에서 단 5주 만에 기존 최고 수준을 두 배로 끌어올렸습니다. 그 덕분에 에이전트가 가치를 제공할 수 있는 역량이 극적으로 향상되었습니다. 424242424242424242
+[00:31:00] '50% 정확도의 AI는 아무도 쓰지 않는다'는 깨달음이 미친 영향
+* 챕터 요약: 50%의 정확도는 흥미롭지만 유용하지 않으며, 제품으로 성공하기 위해서는 완벽하지는 않더라도 90~95% 수준의 높은 정확도가 필수적이라고 말합니다. 그는 높은 정확도와 함께 인간보다 훨씬 빠른 속도, 그리고 사용자가 신뢰하고 관찰할 수 있는 시스템이 결합되어야만 비로소 AI가 감독관 역할을 하는 인간과 협업할 수 있다고 강조합니다.
+* Full English Answer: So specifically that quote is the OS world score we got was about 50%. It was like 48.85. Um, and it means that you get something really cool, um, but not, not useful in really any way. And we don't even have the budget to serve that and to lose money on that. So I think the real insight. It's not that it's 50 or 60 or 80 or 90 or a hundred, I think that there is a sufficiently high level of accuracy that you have to hit, uh, and that that number is not perfect, but it is high, say 90, 95, and that it has to be paired with a massive performance improvement on the dimension of time so that it's much faster than you. And it has to be paired with a trust and observability, um, method. So that like, given that it might not be perfect and that it's at least much faster, your role will proceed to become a little bit more of a supervisory role where you're, you're sort of working with a supervising ai, but in order to do that, you have to trust its outputs and you have to know what's changed and you have to be able to observe all of that chain. 43
+* 한국어 번역: 구체적으로 그 인용문은 저희가 OS World에서 받은 점수가 약 50%(48.85)였을 때 나온 말입니다. 이것은 정말 멋진 것을 얻었지만, 실제로는 전혀 유용하지 않다는 것을 의미합니다. 저희는 그것을 서비스하고 돈을 잃을 예산조차 없습니다. 그래서 진짜 통찰은 50, 60, 80, 90, 100%가 중요한 게 아니라, 도달해야 하는 충분히 높은 수준의 정확도가 있다는 것입니다. 그 숫자는 완벽하지는 않지만, 가령 90~95% 정도로 높아야 합니다. 그리고 그것은 당신보다 훨씬 빠르다는 시간 차원에서의 엄청난 성능 향상과 결합되어야 합니다. 또한 신뢰와 관찰 가능성 방법과도 짝을 이루어야 합니다. 즉, 완벽하지 않을 수 있지만 적어도 훨씬 빠르기 때문에, 당신의 역할은 AI를 감독하며 함께 일하는 감독관 역할로 조금 더 나아갈 것입니다. 하지만 그러기 위해서는 그 결과물을 신뢰해야 하고, 무엇이 바뀌었는지 알아야 하며, 그 모든 과정을 관찰할 수 있어야 합니다. 44
+[00:33:30] 다중 에이전트에서 생산성으로의 전환 과정
+* 챕터 요약: Shortcut의 도입은 다중 에이전트 중심에서 생산성 중심으로의 전환을 의미한다고 설명합니다. 그는 Shortcut이 모든 스프레드시트 작업을 포괄하는 넓은 범위를 다루지만, 회사의 DNA 덕분에 이러한 도전을 감당할 수 있으며, 병행하여 다른 산업 분야를 공략하는 제품들도 개발 중이라고 덧붙입니다.
+* Full English Answer: Um, so with the introduction of shortcut, we progressed from a multi-agent focus to a productivity focus. Uh, and then more specifically, because of how we build products, products have to be a little bit more narrowly positioned. Um, so shortcut is not just productivity, but it's all spreadsheet labor. Um, so that is the focus for shortcut. But in parallel, we have multiple different products experiments happening right now. Um, and all experiments are positioned in a more specific manner, uh, though probably more broadly than any other product or company would tolerate. For example, shortcut isn't for. Lawyers or for finance people, or for accountants, or for fp and a or for real estate, it's for all human labor on spreadsheets, which from a research perspective is considered maybe too narrow, but from a product perspective is it's almost too broad. 45
+* 한국어 번역: Shortcut의 도입으로 저희는 다중 에이전트 중심에서 생산성 중심으로 나아갔습니다. 그리고 더 구체적으로 말하자면, 저희가 제품을 만드는 방식 때문에 제품은 좀 더 좁게 포지셔닝되어야 합니다. 그래서 Shortcut은 단순히 생산성 도구가 아니라 모든 스프레드시트 노동을 위한 것입니다. 그것이 Shortcut의 초점입니다. 하지만 병행하여 현재 여러 다른 제품 실험이 진행 중입니다. 모든 실험은 더 구체적인 방식으로 포지셔닝되어 있지만, 아마 다른 어떤 제품이나 회사보다도 더 넓은 범위를 다룰 것입니다. 예를 들어, Shortcut은 변호사, 금융인, 회계사, 부동산 전문가만을 위한 것이 아니라, 스프레드시트 위에서 이루어지는 모든 인간의 노동을 위한 것입니다. 이는 연구 관점에서는 너무 좁게 보일 수 있지만, 제품 관점에서는 거의 너무 넓습니다. 46
+[00:36:00] 원대한 비전에서 실용적인 솔루션으로의 전환에 대한 팀 설득 과정
+* 챕터 요약: 그는 이것이 '전환(pivot)'이 아니라고 강조하며, 회사의 의도적인 조직 구조 덕분에 가능했다고 설명합니다. 연구는 제품에 종속되는 것이 아니라 핵심 기술 플랫폼을 발전시키고, 제품팀은 이 플랫폼을 활용해 가치를 창출하는 구조이므로, Shortcut의 성공은 기존 로드맵을 바꾸는 것이 아니라 오히려 더 강화하는 것이었다고 말합니다.
+* Full English Answer: So because we're so intentional with this company structure, it's not a pivot. Like research does not serve product research serves the company. Research advances the core tech platform, which in turn serves product. So the people who are contributing to Frontier Research on multi-agent are not building shortcut with me side by side. They're advancing the core tech platform, the people at the company, former founders, technical co-founders, and builders who sit with me upstairs here in the shortcut room. These people are, are working on shortcut with me because we have always committed to building products that capture value by building frontier agents. So the fact that something has succeeded just means that we're gonna double down harder on it. But the people who are going to build up the Cortex platform are still doing that. The people who are going to continue the state of the art on whatever research they're doing here are gonna continue to do that as well. So because we are so intentional with how we orchestrated this company, a breakout success or even a failure. Don't change anything about our roadmap. 47
+* 한국어 번역: 저희는 회사 구조에 대해 매우 의도적이기 때문에, 이것은 '전환(pivot)'이 아닙니다. 연구는 제품을 위해 존재하는 것이 아니라 회사를 위해 존재합니다. 연구는 핵심 기술 플랫폼을 발전시키고, 이는 다시 제품에 기여합니다. 그래서 다중 에이전트에 대한 선구적인 연구에 기여하는 사람들은 저와 나란히 Shortcut을 만들고 있지 않습니다. 그들은 핵심 기술 플랫폼을 발전시키고 있습니다. 저와 함께 여기 Shortcut 방에 앉아 있는 전직 창업자, 기술 공동 창업자, 개발자들은 저와 함께 Shortcut을 만들고 있습니다. 왜냐하면 우리는 항상 최첨단 에이전트를 구축하여 가치를 포착하는 제품을 만들겠다고 약속했기 때문입니다. 그래서 무언가가 성공했다는 사실은 단지 우리가 그것에 더 집중할 것이라는 의미일 뿐입니다. 하지만 코어텍스 플랫폼을 구축하는 사람들은 여전히 그 일을 하고 있고, 여기서 어떤 연구를 하든 최첨단을 유지하려는 사람들도 계속해서 그 일을 할 것입니다. 저희는 이 회사를 구성하는 방식에 대해 매우 의도적이기 때문에, 엄청난 성공이나 실패가 우리 로드맵을 전혀 바꾸지 않습니다. 48
+________________
+
+
+Chapter 5: Shortcut과 경쟁 환경
+[00:39:40] 엑셀을 아름다운 소프트웨어라고 생각하는 이유와 Shortcut의 역할
+* 챕터 요약: 엑셀이 1985년부터 40년간 유지될 수 있었던 이유는 초보자에게는 접근성이 높고 전문가에게는 무한한 가능성을 제공하기 때문이라고 말합니다. 그는 언젠가 엑셀도 대체될 것이며, Shortcut이 그 역할을 할 수 있지만, 더 큰 기회는 엑셀 소프트웨어 시장이 아닌 2.5조 달러에 달하는 스프레드시트 노동 시장을 자동화하는 데 있다고 강조합니다.
+* Full English Answer: It launched in 1985. It's its 40th birthday on September 30th, which is actually my birthday now. Um, in order to have that kind of staying power and software, that's like almost as long as computers have been around for people, you know, um, you have to be so darn good. You have to be one extremely accessible to people so that any beginner can start to pick it up. And it has to be so good in the limit that when you're an expert, the seal, the skill ceiling is high enough that like it can provide tremendous business opportunity or else people will build, you know, more powerful tools and, and those exist, but not for the masses. So it has a billion users, right? Um, it's used by people in every single industry. It's massively broad. Um, so one day this will happen again to Excel, and it might be because of shortcut. Um, but again, I actually think the opportunity is bigger than that, as in Excel drives, you know, $10 billion in revenue a year. Um, but the work, the labor that is done on spreadsheets is worth about two and a half trillion dollars a year. 49494949
+* 한국어 번역: 엑셀은 1985년에 출시되었습니다. 9월 30일이 40번째 생일인데, 공교롭게도 제 생일이기도 합니다. 소프트웨어에서 그 정도의 생명력을 가지려면, 즉 컴퓨터가 대중화된 거의 모든 기간 동안 존재하려면, 정말 뛰어나야 합니다. 첫째, 초보자도 쉽게 시작할 수 있도록 접근성이 매우 높아야 합니다. 둘째, 전문가가 되었을 때 기술의 한계가 충분히 높아 엄청난 비즈니스 기회를 제공할 수 있어야 합니다. 그렇지 않으면 사람들은 더 강력한 도구를 만들 것이고, 그런 도구들은 존재하지만 대중을 위한 것은 아닙니다. 그래서 엑셀은 10억 명의 사용자를 가지고 있고, 모든 산업의 사람들이 사용하며, 매우 광범위합니다. 언젠가 엑셀에도 이런 대체 현상이 일어날 것이고, 그것은 Shortcut 때문일 수 있습니다. 하지만 저는 기회가 그보다 더 크다고 생각합니다. 엑셀은 연간 100억 달러의 수익을 창출하지만, 스프레드시트 위에서 이루어지는 노동의 가치는 약 2조 5천억 달러에 달합니다. 50505050
+[00:42:00] Shortcut 에이전트의 백엔드 작동 방식
+* 챕터 요약: Shortcut은 일반 스프레드시트처럼 보이지만, 사이드바를 통해 사용자가 원하는 작업을 요청할 수 있다고 설명합니다. 백엔드에서는 에이전트가 프론트엔드를 넘나들며 필요한 정보를 찾고, 런타임에 코드를 실행하여 시트를 변경하는 방식으로 작동하며, 이는 지난 2년간의 에이전트 프레임워크 구축 경험을 통해 얻은 독자적인 기술이라고 덧붙입니다.
+* Full English Answer: So shortcut, looks and feels, just like any spreadsheet, it's really easy to use. It's in the browser. Um, except it has a sidebar in which you can ask shortcut to do whatever work you want for you. So it takes long, long autonomous work and does it much, much faster for you. In terms of how it actually works, we have an agent that lives in shortcut. It can jump in and out of the front end to understand what's happening at the spreadsheet level, log genetically search for what things it needs, and then to execute code at runtime to change that. Um, there's a lot of cleverness you have to do in how you build an agent framework, and that's a lot of where the alpha is in companies. 51515151515151515151515151515151
+* 한국어 번역: Shortcut은 일반 스프레드시트처럼 보이고 느껴지며, 브라우저에서 사용하기 매우 쉽습니다. 다만 사이드바가 있어서 사용자가 원하는 작업을 요청할 수 있습니다. 그래서 길고 자율적인 작업을 훨씬 더 빠르게 처리해 줍니다. 실제로 어떻게 작동하는지에 대해 말씀드리면, Shortcut 안에는 에이전트가 있습니다. 이 에이전트는 프론트엔드를 넘나들며 스프레드시트 수준에서 무슨 일이 일어나고 있는지 파악하고, 필요한 것을 논리적으로 검색한 다음, 런타임에 코드를 실행하여 변경합니다. 에이전트 프레임워크를 구축하는 데에는 많은 독창성이 필요하며, 그것이 바로 회사의 경쟁 우위가 발생하는 지점입니다. 52525252525252525252525252525252
+[00:43:40] 마이크로소프트 코파일럿과의 가장 큰 차별점
+* 챕터 요약: 코파일럿은 사용자가 '엑셀을 더 잘 사용하도록' 돕는 도구인 반면, Shortcut은 사용자의 '일을 대신 해주는' 에이전트라고 차이점을 설명합니다. 코파일럿은 한두 단계의 간단한 작업에 능하지만, 여러 문서에서 정보를 추출해 복잡한 M&A 모델을 만드는 것과 같은 작업은 Shortcut만이 할 수 있다고 강조합니다.
+* Full English Answer: Um, copilot is a product built for all Excel users, right? The large, large enterprises, the, the beginners, the people who have been using Excel for 40 years, and there's a lot of. Of, uh, training that, you know, you can't, uh, you can't quite change about how they use the experience. So ex co-pilot is to help you use Excel better. It's not to help you do your work. So for an example of that is co-pilot's good at a benchmark called spreadsheet bench. Um, as in like, the tasks might be things like insert a column and then use a summit formula. So these one or two step things co-pilot's actually pretty good at. Um, what it's not good at is build me an m and a model for these two companies. Go find the PDFs, extract them and do it over 20 tabs and lemme send it to my boss while I drink coffee. That's not what co-pilot can do, but it's what stroke can do 53
+* 한국어 번역: 코파일럿은 대기업, 초보자, 40년 동안 엑셀을 사용해 온 사람 등 모든 엑셀 사용자를 위해 만들어진 제품입니다. 그들의 사용 경험을 쉽게 바꿀 수는 없습니다. 그래서 코파일럿은 당신이 '엑셀을 더 잘 사용하도록' 돕는 것이지, 당신의 '일을 대신 해주는' 것이 아닙니다. 예를 들어, 코파일럿은 '스프레드시트 벤치'라는 벤치마크에서 좋은 성능을 보입니다. 열을 삽입하고 SUMIF 함수를 사용하는 것과 같은 한두 단계의 작업은 꽤 잘합니다. 하지만 '이 두 회사의 M&A 모델을 만들어줘. PDF를 찾아서 내용을 추출하고, 20개 탭에 걸쳐서 작업해줘. 내가 커피 마시는 동안 내 상사에게 보낼 수 있게 해줘'와 같은 작업은 코파일럿이 할 수 없습니다. 하지만 Shortcut은 할 수 있습니다. 54
+[00:45:40] 거대 기업과의 경쟁 전략
+* 챕터 요약: 그는 경쟁 상대를 여러 차원에서 분석하며, 마이크로소프트와 같은 거대 기업은 비즈니스 이해관계는 크지만 속도가 느리다는 약점이 있다고 지적합니다. 그는 현재의 차별점이 '우리는 제품이 있고 그들은 없다'는 것이며, 미래에는 '그들도 제품이 있지만 우리 것이 더 낫다'가 될 것이라고 자신합니다.
+* Full English Answer: Um. We think of competition in a few different dimensions, and they're mostly in relation to like the kind of competitor. Uh, so for example, you have your co your copilot, right? Uh, which again, we're not, we're not sure it's a competitor. Um, but you have Microsoft, you have the hyperscalers, you have the, you know, the foundation model lab companies, you have startups. Um, they all have different flavors and different threats and different, you know, competitive strengths and weaknesses. For example, the hyperscalers have a significant business stake in things like spreadsheets and wanna succeed there. Um, they're also very slow. Um, and I'm under no illusion that they won't build a competing product. Um, right now the delta is, we have one and they don't. Eventually the delta will be, they have one too, and ours is better. 55
+* 한국어 번역: 저희는 경쟁을 여러 다른 차원에서 생각하며, 주로 경쟁자의 종류와 관련이 있습니다. 예를 들어, 코파일럿이 있습니다. 다시 말하지만, 저희는 그것이 경쟁자라고 확신하지는 않습니다. 하지만 마이크로소프트, 하이퍼스케일러, 파운데이션 모델 연구소, 스타트업들이 있습니다. 그들은 모두 다른 특성과 위협, 그리고 경쟁적인 강점과 약점을 가지고 있습니다. 예를 들어, 하이퍼스케일러들은 스프레드시트와 같은 분야에 상당한 비즈니스 이해관계를 가지고 있으며 그곳에서 성공하고 싶어 합니다. 하지만 그들은 매우 느립니다. 저는 그들이 경쟁 제품을 만들지 않을 것이라는 환상을 가지고 있지 않습니다. 현재의 차이점은 우리는 제품이 있고 그들은 없다는 것입니다. 결국에는 그들도 제품을 가지게 될 것이고, 그때의 차이점은 우리 것이 더 낫다는 것이 될 것입니다. 56
+Chapter 5: Shortcut과 경쟁 환경 (계속)
+[00:45:40] 코파일럿과 같은 선도 기업에 대한 경쟁 전략
+* 챕터 요약: 경쟁자를 MS와 같은 거대 기업, 파운데이션 모델 회사, 스타트업으로 나누어 분석합니다. 그는 거대 기업은 느리고, 모델 회사는 엑셀에 관심이 없으며, 대부분의 스타트업은 체계적인 개선 접근법이 부족하기에 자신들이 경쟁 우위를 가질 수 있다고 설명합니다.
+* Full English Answer: We think of competition in a few different dimensions, and they're mostly in relation to like the kind of competitor. Uh, so for example, you have your co your copilot, right? Uh, which again, we're not, we're not sure it's a competitor. Um, but you have Microsoft, you have the hyperscalers, you have the, you know, the foundation model lab companies, you have startups. Um, they all have different flavors and different threats and different, you know, competitive strengths and weaknesses. For example, the hyperscalers have a significant business stake in things like spreadsheets and wanna succeed there. Um, they're also very slow. Um, and I'm under no illusion that they won't build a competing product. Um, right now the delta is, we have one and they don't. Eventually the delta will be, they have one too, and ours is better. Then you have the fun, then you have the foundation model companies. So why won't open AI or do this? Um, it's possible that they do, but we are a research lab too, and we know those companies pretty well. Um, the truth is, is they're not interested in Microsoft Excel really, uh, or spreadsheets or Google sheets. Uh, as in most of their people think, I guess you can say this, this is not specific to their company, but most researchers really think spreadsheets are beneath them, right? So they're not gonna build it. Um, then you have startups and startups. And, you know, any, any YC little company right now can go build an agent with 60% parody. Um, I'm under no illusion. Right? And they're gonna be fast too. Um, what they almost always don't have is a systematic approach to improve your agent, as in, can you really build an distribution set of comprehensive evals with a strongly correlated verifier that measures success? And can you run huge pipelines, uh, to parallelize that, and I, I don't think that people can do it like we can is the truth. The most dangerous kind of startup though is more like a Chinese term in which there is no shame in directly copy copying somebody, and it becomes a ruthless form of competition. I think that is the most dangerous form of competition.
+* 한국어 번역: 저희는 경쟁을 여러 차원에서 생각하며, 주로 경쟁자의 종류와 관련이 있습니다. 예를 들어, 코파일럿이 있죠. 다시 말하지만, 저희는 그것이 경쟁자인지 확신하지 못합니다. 하지만 마이크로소프트, 하이퍼스케일러, 파운데이션 모델 연구소, 스타트업들이 있습니다. 그들은 모두 다른 특성과 위협, 그리고 경쟁적인 강점과 약점을 가지고 있습니다. 예를 들어, 하이퍼스케일러들은 스프레드시트와 같은 분야에 상당한 비즈니스 이해관계를 가지고 있으며 그곳에서 성공하고 싶어 합니다. 하지만 그들은 매우 느립니다. 저는 그들이 경쟁 제품을 만들지 않을 것이라는 환상을 가지고 있지 않습니다. 현재의 차이점은 우리는 제품이 있고 그들은 없다는 것입니다. 결국에는 그들도 제품을 가지게 될 것이고, 그때의 차이점은 우리 것이 더 낫다는 것이 될 것입니다. 다음으로 파운데이션 모델 회사들이 있습니다. 왜 OpenAI 같은 곳이 이 일을 하지 않을까요? 그럴 가능성도 있지만, 저희 역시 연구소이며 그 회사들을 꽤 잘 알고 있습니다. 사실 그들은 마이크로소프트 엑셀이나 구글 시트에 정말로 관심이 없습니다. 대부분의 연구자들은 스프레드시트를 자신들의 수준 이하라고 생각합니다. 그래서 그들은 만들지 않을 겁니다. 그리고 스타트업들이 있습니다. 지금 당장 어떤 YC 출신 회사라도 60% 수준의 에이전트를 만들 수 있습니다. 저도 잘 알고 있습니다. 그리고 그들도 빠를 겁니다. 하지만 그들에게 거의 항상 없는 것은 에이전트를 개선하기 위한 체계적인 접근 방식입니다. 즉, 성공을 측정하는 검증기와 함께 포괄적인 평가 세트를 구축할 수 있는가 하는 점입니다. 그리고 그것을 병렬화하기 위해 거대한 파이프라인을 운영할 수 있는가. 저는 다른 사람들이 우리처럼 할 수 있다고 생각하지 않습니다. 하지만 가장 위험한 종류의 스타트업은 다른 사람의 것을 그대로 베끼는 데 부끄러움이 없는 중국식 스타트업이며, 이는 무자비한 경쟁이 됩니다. 저는 그것이 가장 위험한 형태의 경쟁이라고 생각합니다.
+[00:49:40] 90% 정확도를 달성한 상황에서 사용자의 신뢰를 얻는 방법
+* 챕터 요약: 사용자의 신뢰를 얻기 위해 두 가지 방법을 사용한다고 설명합니다. 첫째는 변경된 셀, 출처, 수식 등을 시각적으로 보여주는 독자적인 UI를 통해 투명성을 확보하는 것이고, 둘째는 사용자에게 새로운 기술 패러다임을 교육하여 AI와 효과적으로 상호작용하도록 돕는 것입니다 .
+* Full English Answer: So there's two, two dimensions here. One is you have to have a novel like ui, um, to allow this sort of diff view, if you will, like what's changed. So what we've done is created a view in which everything that has changed afterwards, you can see the cells that have changed. What are the citations, what's been hard coded, what's formula driven and why, um, that allows your job as a reviewer, as it changes to that to be done much more easily. Now, the second way to do this is by training. As in Excel users haven't been exposed to this type of paradigm . this language doesn't exist yet for spreadsheets. Uh, but it will, and it's on us to educate people on how to do that. So again, it's just, you know, a, a novel UI in which it's intuitive and then also a training mechanism to, to introduce people to a new type of technology.
+* 한국어 번역: 여기에는 두 가지 차원이 있습니다. 첫째는 무엇이 변경되었는지 보여주는 'diff view'와 같은 새로운 UI가 있어야 한다는 것입니다. 그래서 저희는 변경된 모든 셀, 출처, 하드코딩된 값, 수식 기반 값과 그 이유를 볼 수 있는 뷰를 만들었습니다. 이를 통해 검토자로서의 역할이 훨씬 쉬워집니다. 두 번째 방법은 교육입니다. 엑셀 사용자들은 이런 종류의 패러다임을 접해본 적이 없습니다. 스프레드시트에는 아직 이런 언어가 존재하지 않습니다. 하지만 곧 생길 것이고, 사람들에게 그 방법을 교육하는 것은 우리의 몫입니다. 다시 말해, 직관적인 새로운 UI와 새로운 유형의 기술을 사람들에게 소개하는 교육 메커니즘이 필요한 것입니다.
+________________
+
+
+Chapter 6: 데모 영상과 창업 문화
+[00:51:00] 데모 영상이 성공적이었던 이유와 스토리텔링에 대한 통찰
+* 챕터 요약: 좋은 데모는 "이 사람들 돈 엄청 벌겠네" 또는 "이런 게 왜 아직 없었지?"라는 반응을 이끌어내야 한다고 말합니다. 그는 많은 데모들이 투자 유치 사실 등 고객이 관심 없는 내용으로 채워져 있다며, 고객에게 항상 원했던 제품을 명확하고 간결하게 보여주는 것이 핵심이라고 강조합니다.
+* Full English Answer: I think one fun heuristic for a demo is the right response to your demo should be, holy crap, these people are gonna make so much money. Or how does this not exist? These are two different heuristics. I think the best ideas in hindsight seem obvious. Uh, and that's a good measurement for that. Uh, and the other one is just like these people get it. Um, what you don't want to hear in terms of responses to your launch are congratulations. It's vanilla means nothing. I think the current trend has been like, go have some hyper, hyper optimized video, uh, and talk about things that like your customers do not give a, uh, give a shit about, right? Um, for example, we've raised $50 million from x, y, Z fund, and we work with this person and this investor is on our table, right? Like, no customer that's using their product cares at all about that . your introduction to your customers should be talking to your customers. It should be, Hey, here's this product that you've always wanted. Here's exactly how it works, and I'll walk you through it. So our launches are always two minutes. And they spend the, the majority of them just walking through the use cases and showing the value to people in a way that is crystal clear. Every word in our demos like has to fight for its existence in the demo.
+* 한국어 번역: 좋은 데모에 대한 한 가지 재미있는 경험 법칙은, 데모에 대한 올바른 반응이 "맙소사, 이 사람들 돈 엄청 벌겠네"여야 한다는 것입니다. 또는 "이런 게 왜 아직 없었지?" 같은 반응이요. 이 두 가지는 다른 경험 법칙입니다. 저는 최고의 아이디어는 돌이켜보면 당연해 보인다고 생각합니다. 그리고 그것이 좋은 척도가 됩니다. 또 다른 반응은 "이 사람들은 제대로 아네" 같은 것입니다. 론칭에 대한 반응으로 듣고 싶지 않은 말은 "축하합니다"입니다. 그건 아무 의미 없는 평범한 말입니다. 제 생각에 요즘 추세는 고객들이 전혀 신경 쓰지 않는 것들에 대해 이야기하는, 과도하게 최적화된 비디오를 만드는 것입니다. 예를 들어, "우리는 XYZ 펀드에서 5천만 달러를 투자받았고, 이 사람과 함께 일하며, 이 투자자가 우리 이사회에 있습니다" 같은 것들이죠. 제품을 사용하는 어떤 고객도 그런 것에는 전혀 관심이 없습니다. 고객에게 하는 소개는 고객과 대화하는 것이어야 합니다. "이것이 바로 당신이 항상 원했던 제품입니다. 정확히 이렇게 작동하고, 제가 직접 보여드리겠습니다"가 되어야 합니다. 그래서 저희 론칭 영상은 항상 2분입니다. 그리고 대부분의 시간을 사용 사례를 보여주고 사람들에게 가치를 명확하게 전달하는 데 사용합니다. 저희 데모에 들어가는 모든 단어는 그 존재 이유를 위해 싸워야 합니다.
+[00:53:10] 최근 데모 영상이 많아지는 이유
+* 챕터 요약: 최근 데모 영상이 많아지는 이유는 기술 자체가 흥미롭기 때문이기도 하지만, 일부 창업가들이 명성을 얻기 위한 수단으로 활용하기 때문이라고 설명합니다. 그는 진정한 동기는 명성이 아닌 미션과 경쟁에서의 승리에 있어야 한다고 강조합니다.
+* Full English Answer: I think I attribute the rise of the demo culture in startup to two things. One is we're demoing technology that is very interesting. In fact, oftentimes it's more interesting than it is valuable. Uh, so it's inherently sort of a medic or viral. Uh, and that lends itself well to making a video that can go viral. And because of that, there's like a really huge top of funnel distribution advantage that you can have if you can do this well. So people are doing it and some people do it very, very well like us. Now the second and maybe is more nefarious, which is I think. It's become a bigger part of the cultural zeitgeist to be a founder or to start a company or to work in ai. And people want to be famous. I think people wanna be celebrities, and this means making videos of yourself and creating controversy and being well known. And I think I'm looking forward to the day in which it's a little bit more contrarian and a little bit less sexy to be a founder. Um, because I think people are in it now for, for the fame. Um, the three ways you want to be in a company, one would be for the mission, and every founder really should be that way. The second one is for the love of the game, right? You like, you just want to compete and win and you want to be. And like there's actually no shame in that either. Uh, but the third is to be famous and I think this needs to be shaken out of, shaken out of our, of our system.
+* 한국어 번역: 스타트업에서 데모 문화가 부상한 데에는 두 가지 이유가 있다고 생각합니다. 첫째는 우리가 매우 흥미로운 기술을 시연하고 있다는 점입니다. 사실, 종종 그 기술은 가치 있는 것보다 더 흥미로울 때가 많습니다. 그래서 본질적으로 바이럴이 될 소지가 다분하죠. 그리고 그것은 바이럴 영상을 만드는 데 유리하게 작용합니다. 그 때문에, 만약 이것을 잘 해낼 수 있다면 정말 거대한 초기 고객 확보(top of funnel) 유통 우위를 가질 수 있습니다. 그래서 사람들이 하고 있고, 우리처럼 아주 잘하는 사람들도 있습니다. 이제 두 번째, 어쩌면 더 사악한 이유일 수 있는데, 제 생각엔 창업가가 되거나, 회사를 시작하거나, AI 분야에서 일하는 것이 시대정신의 더 큰 부분이 되었다는 겁니다. 그리고 사람들은 유명해지고 싶어 합니다. 사람들이 셀러브리티가 되고 싶어 하고, 이것은 자신을 영상으로 만들고, 논란을 일으키고, 유명해지는 것을 의미하죠. 저는 창업가가 되는 것이 좀 더 반골 기질이고 덜 섹시하게 여겨지는 날을 기대하고 있습니다. 왜냐하면 지금 사람들은 명성을 위해 이 분야에 뛰어들고 있다고 생각하기 때문입니다. 회사에 몸담고 싶은 세 가지 이유가 있는데, 첫째는 미션을 위해서이고, 모든 창업가는 정말 그래야 합니다. 두 번째는 경쟁 자체를 사랑하기 때문입니다. 그냥 경쟁하고 이기고 싶어 하는 거죠. 그리고 거기에는 부끄러워할 것이 전혀 없습니다. 하지만 세 번째는 유명해지기 위해서인데, 이것은 우리 시스템에서 털어내야 한다고 생각합니다.
+[00:55:20] 창업가로서 유명해지는 법
+* 챕터 요약: 창업가로서 유명세를 얻는 방법은 논란을 만드는 것이라고 말합니다. 그는 명성을 추구하는 과정에서 최적의 논란 수준은 '0'이 아니며, 대중과 자주 소통하는 것이 중요하다고 덧붙입니다.
+* Full English Answer: Be as controversial as possible. Uh, I think the optimum amount of controversy in the pursuit of celebrity is non-zero. So, um, get as close as you, as you can, as to being canceled. In fact, maybe get canceled two or three times, um, and make a habit of engaging with your audience as frequently as possible, specifically in probably one or two areas.
+* 한국어 번역: 가능한 한 논란의 중심에 서는 것입니다. 제 생각에 유명세를 추구하는 과정에서 최적의 논란 수준은 0이 아닙니다. 그러니, 어, '캔슬(cancel culture)' 당하기 직전까지 최대한 가까이 가세요. 사실, 두세 번 정도 캔슬 당할 수도 있고요. 그리고 가능한 한 자주, 아마도 한두 가지 특정 분야에서 청중과 소통하는 습관을 들이세요.
+[00:55:50] 본인이 논란이 되는 사람인지에 대한 생각
+* 챕터 요약: 스스로 논란을 일으키는 사람은 아니지만, 자신이 진정으로 믿는 것들이 본질적으로 논란의 소지가 있을 수 있다고 말합니다. 그는 큰 성취를 위해서는 고통이 필수적이며, 현재의 삶이 희생을 바탕으로 한 의도적인 선택이라고 믿습니다.
+* Full English Answer: Um, I don't think I'm an inherently controversial person. Um. But I think I authentically believe a lot of things that if you ask me if I believe in them, I would tell you I do. And I think that would be somewhat controversial. Um, some of these are like, um, I believe you need to suffer in order to really do anything significant. Um, I believe that if you're not suffering, you're not doing things enough. Uh, like I think we're all living on borrowed time. Um, and it's like playing professional sports actually. Again, you play football and it's a sacrifice. You're gonna sacrifice the way you walk. I still have knee problems. You're gonna sacrifice head pain, trauma, um, and it's in the pursuit of doing what you love and making a big impact. Um, I think I have high blood pressure. I think I'm gonna, I don't sleep well and I think I'm not gonna live as long as I otherwise would've. And it's because I did something really significant and I'm doing something big and I'm going for it and is intentional.
+* 한국어 번역: 음, 저는 본질적으로 논란을 일으키는 사람이라고 생각하지 않습니다. 하지만 제가 진정으로 믿는 것들에 대해 묻는다면, 그렇다고 대답할 것이고, 그것들이 꽤 논란이 될 수 있다고 생각합니다. 예를 들어, 저는 무언가 의미 있는 일을 하기 위해서는 고통을 겪어야 한다고 믿습니다. 만약 당신이 고통받고 있지 않다면, 충분히 노력하고 있지 않은 것이라고 믿습니다. 우리 모두는 빌린 시간 위에서 살고 있다고 생각합니다. 이건 마치 프로 스포츠를 하는 것과 같습니다. 미식축구를 하면 희생이 따릅니다. 걷는 방식을 희생해야 하죠. 저는 아직도 무릎 문제가 있습니다. 두통, 트라우마를 희생해야 합니다. 하지만 그것은 당신이 사랑하는 일을 하고 큰 영향력을 미치기 위한 과정입니다. 저는 고혈압이 있고, 잠을 잘 못 자며, 아마 원래 살 수 있었던 만큼 오래 살지 못할 것이라고 생각합니다. 그리고 그것은 제가 정말 중요한 일을 했고, 큰일을 하고 있으며, 그것을 향해 나아가고 있기 때문이며, 이는 의도적인 것입니다.
+________________
+
+
+Chapter 7: 데모의 성공과 회사의 성장
+[00:57:20] 데모 영상의 바이럴과 주변 반응
+* 챕터 요약: 데모 영상은 엄청나게 바이럴되었고, 처음 몇 시간 동안은 황홀한 기분이었다고 회상합니다. 하지만 그는 개인적인 명성보다는 비즈니스의 성장 가능성, 즉 제품이 엑셀을 대체할 수 있다는 사실에 더 큰 동기부여를 받는다고 말합니다.
+* Full English Answer: Um, yeah, the viral went very demo. I mean, sorry. Uh, yeah. The, the demo went extremely viral. Um, and I think for like a few hours, it's fun. There's a little bit of a euphoria. You can't believe it's quite so big. You think about how big this can be for your business. Um, but again, I don't care that like, people like in San Francisco recognize me sometimes, like that doesn't matter at all. Um, I care because I have a pretty clear understanding of the people who click into my app, what percent of them monetize, and how big I can grow this business, and how big the opportunity is and how much I can make that even better. So to me, the exciting thing really is, is that like we can build something that really, really, that, that shortcut could be the thing that replaces Excel. Like that's so motivating and exciting to me.
+* 한국어 번역: 네, 데모가 정말 바이럴됐어요. 데모가 엄청나게 바이럴됐습니다. 처음 몇 시간 동안은 재미있었죠. 약간의 행복감 같은 게 있었습니다. 이렇게까지 커질 줄은 믿을 수 없었죠. 이게 우리 비즈니스에 얼마나 큰일이 될 수 있을지 생각하게 됩니다. 하지만 다시 말하지만, 샌프란시스코에서 가끔 사람들이 저를 알아보는 것 같은 건 전혀 신경 쓰지 않습니다. 그건 전혀 중요하지 않아요. 제가 신경 쓰는 것은 제 앱에 접속하는 사람들, 그들 중 몇 퍼센트가 수익을 창출하는지, 그리고 이 사업을 얼마나 키울 수 있는지, 기회가 얼마나 큰지, 그리고 그것을 얼마나 더 좋게 만들 수 있는지를 꽤 명확하게 이해하고 있기 때문입니다. 그래서 저에게 정말 신나는 것은 우리가 엑셀을 대체할 수 있는 '숏컷(Shortcut)'과 같은 무언가를 만들 수 있다는 점입니다. 그게 저에게는 정말 큰 동기부여가 되고 신나는 일입니다.
+[00:58:10] 바이럴 이후 사업적 변화
+* 챕터 요약: 데모 영상의 바이럴은 회사의 중요한 촉매제가 되었다고 밝힙니다. 론칭 전과 비교해 현재는 상당한 수익을 내며 성장하고 있다고 말합니다.
+* Full English Answer: Oh, yeah, yeah, yeah. Um, we make a lot of money now, like, um, we were pre-launch, uh, and now we're post significant revenue, um, and we're growing. So yeah, it was a massive catalyst for us that we did that and that we did that when we did that.
+* 한국어 번역: 아, 네, 그럼요. 이제 돈을 많이 법니다. 저희는 출시 전이었는데, 지금은 상당한 수익을 올리고 있고, 계속 성장하고 있습니다. 그래서 네, 그때 그것을 했다는 것이 우리에게 엄청난 촉매제가 되었습니다.
+[00:58:40] a16z Speedrun 프로그램이 성장에 미친 영향
+* 챕터 요약: 'Speedrun' 프로그램은 게임 분야 경험이 전무했던 팀에게 매우 중요했다고 말합니다. 이를 통해 빠른 반복 실험의 가치와 스토리텔링의 중요성을 배웠으며, 이는 회사의 '광적인 속도감' 문화로 자리 잡았다고 설명합니다.
+* Full English Answer: Speed run was huge for us, um, especially because we were always very clear about we were gonna start, um, our research and started our company in games. We were very, very honest about like, none of us had games experience. Um, but we knew it was such a great playground for rapid iteration. Like I talk about like, you can fail at low stakes, right? So working with Speed Run was a massive game changer for us. It also taught us the value, um, of storytelling in, in, in some different ways. And then we even created an internal, um, deadline we didn't have to do, in which we would present our progress every Tuesday, I think it was to the partners at Speed Run and they were like, you don't have to do this. And we're like, no, this is like the right iteration cycle speed for us. Um, and that was massively beneficial and I think it's instilled in our culture, like a very maniacal sense of speed, um, where we ship every day, you know?
+* 한국어 번역: Speedrun은 우리에게 정말 큰 도움이 됐습니다. 특히 우리는 연구를 시작하고 회사를 게임 분야에서 시작할 것이라고 항상 명확히 했기 때문입니다. 우리 중 누구도 게임 경험이 없다는 점에 대해 매우 솔직했습니다. 하지만 우리는 그곳이 빠른 반복 실험을 위한 훌륭한 놀이터라는 것을 알고 있었습니다. 제가 말했듯이, 실패해도 리스크가 적은 곳에서 실패할 수 있으니까요. 그래서 Speedrun과 함께 일한 것은 우리에게 엄청난 전환점이었습니다. 또한 여러 다른 방식으로 스토리텔링의 가치를 가르쳐주었습니다. 그리고 우리는 심지어 할 필요가 없었던 내부 마감일을 만들어서 매주 화요일마다 Speedrun 파트너들에게 진행 상황을 발표했습니다. 그들은 "이럴 필요 없다"고 했지만 , 우리는 "아니요, 이것이 우리에게 맞는 반복 주기 속도입니다"라고 했습니다. 그리고 그것은 엄청나게 유익했고, 우리 문화에 매일 제품을 출시하는 것과 같은 매우 광적인 속도감을 심어주었다고 생각합니다.
+[00:59:50] 팀에게 '속도(Velocity)'가 의미하는 것 (1)
+* 챕터 요약: 속도는 단순히 빨리 움직이는 것이 아니라, '같은 것을 두 번 배우고 있는가?'를 자문하는 것이라고 정의합니다. 그는 가설을 세우고, 결과를 측정하고, 그 차이를 통해 매일 새로운 것을 배우는 것이 중요하다고 강조합니다.
+* Full English Answer: I think the right question you need to ask yourself. About if you're moving fast enough is are you learning the same thing twice? As in you should go into everything you do with a hypothesis, and you should measure the result afterwards, and you should see how wrong you were. And if you're consistently wrong in the same amount or in the same dimension, you're not learning fast enough. So every single day we learn to learn something new. And if we haven't learned something new, if we're learning the same thing, then we're not moving fast enough and we're not learning our lessons appropriately. So we ship every single day with an hypothesis.
+* 한국어 번역: 스스로에게 던져야 할 올바른 질문은 '충분히 빠르게 움직이고 있는가'에 대해 '같은 것을 두 번 배우고 있는가?'라고 생각합니다. 즉, 하는 모든 일에 가설을 가지고 접근하고, 나중에 결과를 측정하며, 얼마나 틀렸는지를 확인해야 합니다. 그리고 만약 지속적으로 같은 양이나 같은 차원에서 틀린다면, 충분히 빨리 배우고 있지 않은 것입니다. 그래서 우리는 매일 새로운 것을 배우려고 노력합니다. 그리고 만약 새로운 것을 배우지 못했다면, 같은 것을 배우고 있다면, 우리는 충분히 빠르게 움직이지 않고 있으며, 교훈을 제대로 배우지 못하고 있는 것입니다. 그래서 우리는 매일 가설을 가지고 제품을 출시합니다.
+[01:01:20] 팀에게 '속도(Velocity)'가 의미하는 것 (2)
+* 챕터 요약: 속도를 시스템화하는 두 가지 방법으로 '엔드투엔드(end-to-end) 반복'과 '가설 검증'을 제시합니다. 그는 다리를 지을 때 밧줄부터 던지듯, 처음부터 완벽하게가 아닌 전체 과정을 빠르게 반복하며 미지의 변수를 찾아내고 학습하는 것이 진정한 속도라고 설명합니다.
+* Full English Answer: So at the surface level, velocity is like, everyone thinks speed is important, but I think the hard problem is, is like, how do you systematize? Like how you, how you get fast as a company. And for us we have like two important ways. One is end-to-end iteration fast. Meaning you want, um, a product shipped by Friday, you should actually make sure that it's deployed on Monday. Um, and then you can iterate every single day. you want a benchmark score in two weeks of 20%. Then you need your first score on day one. Even if it's zero, you need to understand, because it's like building a bridge. If you're gonna build a bridge, you don't build the first step beautifully. You actually just throw a rope and in your first two seconds you have your bridge, and then from there you throw a second rope and you start to tie them together. The real way you do this is, and like philosophies like end to end iteration or hypothesis testing in which like every single time we do something, we come into it with an hypothesis and we measure the delta between how right, how right we were, how wrong we were and why. Uh, and if you're learning the same thing twice, you're not moving fast enough or you're not internalizing the feedback well enough.
+* 한국어 번역: 표면적으로 속도란, 모두가 속도가 중요하다고 생각하지만, 어려운 문제는 어떻게 그것을 시스템화하느냐입니다. 회사로서 어떻게 빨라질 수 있는가. 우리에게는 두 가지 중요한 방법이 있습니다. 하나는 '빠른 엔드투엔드 반복'입니다. 즉, 금요일까지 제품을 출시하고 싶다면, 실제로는 월요일에 배포되도록 해야 합니다. 그러면 매일 반복 작업을 할 수 있습니다. 2주 안에 벤치마크 점수 20%를 원한다면, 첫날에 첫 점수를 얻어야 합니다. 비록 0점일지라도 이해해야 합니다. 왜냐하면 그것은 다리를 짓는 것과 같기 때문입니다. 다리를 지을 때, 첫 단계를 아름답게 만들지 않습니다. 그냥 밧줄을 던져서 2초 만에 다리를 만들고, 거기서부터 두 번째 밧줄을 던져 함께 묶기 시작합니다. 진짜 방법은 엔드투엔드 반복이나 가설 검증과 같은 철학을 통해, 우리가 무언가를 할 때마다 가설을 가지고 접근하고, 우리가 얼마나 맞았는지, 얼마나 틀렸는지, 그리고 그 이유 사이의 차이를 측정하는 것입니다. 만약 같은 것을 두 번 배우고 있다면, 충분히 빨리 움직이지 않거나 피드백을 제대로 내재화하지 못하고 있는 것입니다.
+________________
+
+
+Chapter 8: 비전과 리더십
+[01:02:50] 투자자들이 가장 높게 평가한 잠재력
+* 챕터 요약: 투자자들은 단순히 '숏컷'이라는 제품이 아니라, '디지털 휴먼'을 만들겠다는 회사의 원대한 야망과 독창적인 조직 구조를 높이 평가했다고 말합니다. 그는 투자자들이 연구, 제품, 핵심 플랫폼을 결합하여 강력한 에이전트 제품과 최첨단 연구를 창출하는 독창성에 투자하고 있다고 설명합니다.
+* Full English Answer: I think the fun thing about fundamental is we're not shy about our ambition. We wanna build digital humans. And I think if we can do it, it'll be the most profoundly important companies to ever exist. Um, but we're not shortcut, we're not an application or a product, we're not a games company. Um, and everyone who invests in our company believes that there is a small but growing chance that we are the company we say we are. Um, so investors say, you know, great short shortcut can make, I think shortcut can make a billion dollars in a year. Um, that's how big the opportunity is, but I still think that's not enough. Uh, and I think all of our investors are actually much more excited about the intentionality, uh, by which we've built this business. I, I think the originality of how you build a research wing, a product wing, and a core platform in which you sprout all sorts of strong agent products, um, and novel state of the art research is, is the exciting thing. And that's actually what investors are buying, which is, um, the opportunity to create. Dramatic change.
+* 한국어 번역: Fundamental의 재미있는 점은 우리의 야망에 대해 부끄러워하지 않는다는 것입니다. 우리는 디지털 휴먼을 만들고 싶습니다. 그리고 만약 우리가 해낼 수 있다면, 역사상 가장 심오하게 중요한 회사가 될 것이라고 생각합니다. 하지만 우리는 '숏컷'이 아니고, 애플리케이션이나 제품이 아니며, 게임 회사도 아닙니다. 우리 회사에 투자하는 모든 사람은 우리가 말하는 그런 회사가 될 가능성이 작지만 점점 커지고 있다고 믿습니다. 그래서 투자자들은 '숏컷'이 1년에 10억 달러를 벌 수 있다고 생각합니다. 기회가 그만큼 크지만, 저는 여전히 그것만으로는 충분하지 않다고 생각합니다. 그리고 저는 우리 투자자들 모두가 우리가 이 사업을 구축한 의도성에 훨씬 더 흥미를 느낀다고 생각합니다. 연구 부문, 제품 부문, 그리고 강력한 에이전트 제품과 최첨단 연구를 창출하는 핵심 플랫폼을 구축하는 방식의 독창성이 바로 흥미로운 점입니다. 그리고 그것이 바로 투자자들이 사고 있는 것, 즉 극적인 변화를 만들 기회입니다.
+[01:04:10] 비전 달성에 걸릴 시간
+* 챕터 요약: 비전 달성은 '영원한 게임'과 같다고 표현하며, AI 기술이 발전함에 따라 초기 단계에서도 상당한 가치를 창출할 수 있다고 말합니다. 그는 앞으로 10년 안에 세계에서 가장 중요한 기술 기업 중 하나가 될 수 있으며, 그 후에도 남은 평생 동안 미션의 나머지 부분을 추구할 것이라고 전망합니다.
+* Full English Answer: Um, in some ways I think it's a forever game. Um, you know, um, like I always talk about like the log scale, right? Like the difference between getting this 99.9 and nine 9% there, and then the 10th nine is maybe a decade. Um, but I think, um, I think the way and the speed at which AI has been improving means that we can start to capture significant value like we have been even in the early innings, which is, I still think we are in the early days of, of ai. We have AI that is in many ways an AI researcher level or like a PhD level. Um, but it isn't autonomous for more than a couple hours. It's can't collaborate in more than groups of like five to 10 agents. Um, it has zero dimension beyond intelligence really. Um, so it's still very early in ai. And I think as we go from, you know. From where we are to the next 10 years, I think we can be one of the most important tech companies in the world, um, and still have the rest of our lives in the pursuit of the rest of the mission.
+* 한국어 번역: 어떤 면에서는 영원한 게임이라고 생각합니다. 저는 항상 로그 스케일에 대해 이야기하곤 합니다. 99.9%와 99.99%에 도달하는 것의 차이, 그리고 그 다음 9를 하나 더 붙이는 데는 아마 10년이 걸릴 수도 있습니다. 하지만 제 생각에 AI가 발전해 온 방식과 속도는 우리가 아직 AI의 초기 단계에 있다고 생각함에도 불구하고, 이미 상당한 가치를 포착하기 시작할 수 있다는 것을 의미합니다. 우리는 여러 면에서 AI 연구원 수준 또는 박사 수준의 AI를 가지고 있습니다. 하지만 두어 시간 이상 자율적으로 작동하지는 못합니다. 5명에서 10명 정도의 에이전트 그룹 이상에서는 협업할 수 없습니다. 지능 외에는 사실상 다른 차원이 없습니다. 그래서 아직 AI는 매우 초기 단계입니다. 그리고 저는 앞으로 10년 동안 현재 위치에서 나아가면서, 우리가 세계에서 가장 중요한 기술 회사 중 하나가 될 수 있다고 생각하며, 그 후에도 남은 평생 동안 미션의 나머지 부분을 추구할 수 있을 것입니다.
+[01:05:10] 운동선수 시절의 습관과 현재의 워크 에식
+* 챕터 요약: 그는 현재의 건강 상태가 회사를 위한 희생의 결과이며, 이는 프로 스포츠 선수가 경력을 위해 신체적 희생을 감수하는 것과 같다고 말합니다. 하루 14시간 근무는 최소한의 기본 조건이며, 번아웃은 시간이 아닌 자신이 원하는 일에 도전하고 있는지에 따라 결정된다고 믿습니다.
+* Full English Answer: Um, I think sustaining is not the goal. Um, I'm less healthy than I otherwise would be 'cause of this company. Um, and I, that's the sacrifice I'm gonna make. Um, it's the same thing as playing professional sports, right? You don't walk the same afterwards and it's because you gotta do what you love for 10 years. Um, so yeah, 14 hours a day is like the minimum. It's table stakes. Um, I get in every day around like six. I leave at like seven. I wanna see my kid before she goes to sleep. I, and then I work at night. Um, to me, burnout isn't a function of your hours. It's really a function of like, are you rising to the occasion and doing what you wanna do? Um, and for me, that's, that's easy, you know?
+* 한국어 번역: 저는 유지가 목표가 아니라고 생각합니다. 이 회사 때문에 저는 원래보다 덜 건강합니다. 그리고 그것이 제가 감수할 희생입니다. 프로 스포츠를 하는 것과 똑같습니다, 그렇죠? 그 후에는 예전처럼 걷지 못하게 되고, 그것은 당신이 사랑하는 일을 10년 동안 해야 했기 때문입니다. 그래서 네, 하루 14시간 근무는 최소한입니다. 기본 조건이죠. 저는 매일 6시쯤 출근해서 7시쯤 퇴근합니다. 딸이 잠들기 전에 보고 싶어서요. 그리고 밤에 다시 일합니다. 저에게 번아웃은 근무 시간의 함수가 아닙니다. 그것은 정말로 '당신이 상황에 맞게 일어나서 하고 싶은 일을 하고 있는가'의 함수입니다. 그리고 저에게는 그게 쉽습니다.
+[01:06:50] 고된 업무 스타일에 대한 가족과 동료의 반응
+* 챕터 요약: 가족들은 열심히 일하는 것을 고귀하게 여기며 매우 자랑스러워한다고 말합니다. 그는 이 일을 위해 대부분의 우정을 희생했지만, 진정한 영웅은 이 모든 것을 지지해주는 아내이며, 아내의 의견이 가장 중요하다고 강조합니다.
+* Full English Answer: so I, I, I come from a family in which hard work is, is noble. Um, so my family's really proud of me. Um, I think on the outside, people who know me are friends. They, they're, they're also proud of me, uh, or they think it's cool, um, and love our company. Um, I think the real hero is, uh, my family. Uh, I've sacrificed most of my friendships, mostly, you know, in the pursuit of doing this. Um, but the hard one is actually not coming home for, to see your kid before bed. Right? Um, my wife is the superhero here. Uh, and it's her opinion I matter most. Um, and I think at the end of the day, I mean, you can ask her, she's, she's really, really proud. I, I think my most important duty is to keep my family safe, um, and provided for, and I think I'm an exceptional, uh, dad and husband in that way.
+* 한국어 번역: 저는 노력을 고귀하게 여기는 가정에서 자랐습니다. 그래서 제 가족은 저를 정말 자랑스러워합니다. 외부적으로 저를 아는 친구들도 저를 자랑스러워하거나 멋지다고 생각하고, 우리 회사를 좋아합니다. 하지만 진정한 영웅은 제 가족입니다. 저는 이 일을 추구하면서 대부분의 우정을 희생했습니다. 하지만 정말 힘든 것은 아이가 잠들기 전에 집에 들어가지 못하는 것입니다. 제 아내가 여기서 슈퍼히어로입니다. 그리고 저에게 가장 중요한 것은 그녀의 의견입니다. 결국, 아내에게 물어보면 알겠지만, 그녀는 저를 정말, 정말 자랑스러워합니다. 제 가장 중요한 의무는 가족을 안전하게 지키고 부양하는 것이라고 생각하며, 그런 면에서 저는 뛰어난 아빠이자 남편이라고 생각합니다.
+[01:08:20] 가족의 지지가 미치는 영향
+* 챕터 요약: 회사를 세우는 과정에서 겪는 감정적 롤러코스터는 혼자 감당하기에 너무 힘들기 때문에 가족의 지지가 절대적으로 중요하다고 말합니다. 그는 아내가 단순히 힘든 상황을 만드는 사람이 아닐 뿐만 아니라, 성공하도록 격려해주는 존재이기에 '영웅적'이라고 표현하며, 이러한 지지가 사업을 가능하게 한다고 강조합니다.
+* Full English Answer: Um, yeah, the support is huge. Um, like I've said a few times, I think the, the emotional rollercoaster that is building a company, um, is almost too brutal to do alone. Um, in fact, that's why like most co-founders have co-founders, right? Like the, it's a special kind of pain that you share. Um, and if I was, uh, or anyone was coming home to like, uh, you know, not even support, but like a lot of people come back and they're like, why are you working so hard? Um, it would make, it would make the endeavor probably undoable. So, yeah, that when I, when I say that like there's a, when I say that my wife's heroic is in that, like, it's not just that she's not those bad things, she's, she's the good things. Like she, she encourages me to succeed for us. Um, so it's, it's transformatively important.
+* 한국어 번역: 네, 지지는 엄청납니다. 몇 번 말했지만, 회사를 세우는 과정에서 겪는 감정적 롤러코스터는 혼자 감당하기에는 너무 잔인합니다. 사실, 그래서 대부분의 공동 창업자들이 공동 창업자를 두는 이유이기도 하죠. 그건 함께 나누는 특별한 종류의 고통입니다. 그리고 만약 제가, 혹은 누군가가 집에 돌아왔을 때 지지는커녕 "왜 그렇게 열심히 일해?" 같은 말을 듣는다면 , 그 일은 아마 불가능해질 겁니다. 그래서 제가 제 아내가 영웅적이라고 말할 때, 그건 단지 그녀가 그런 나쁜 것들을 하지 않아서가 아니라, 좋은 것들을 하기 때문입니다. 그녀는 우리를 위해 제가 성공하도록 격려합니다. 그래서 그것은 혁신적으로 중요합니다.
+________________
+
+
+Chapter 9: 회사 운영 철학과 미래
+[01:09:30] 공동 창업자와의 역할 분담
+* 챕터 요약: 공동 창업자인 로버트가 CEO를 맡는 것은 명확한 결정이었다고 말합니다. 로버트는 세계적인 과학자로서 회사의 연구 방향을 이끌고, 연구, 제품, 핵심 플랫폼 간의 조화를 이루는 역할을 하며, 자신은 구축된 제품이 성공하도록 이끄는 데 집중한다고 설명합니다.
+* Full English Answer: Um, it's very clear why Robert has to be the CEO of this company. Uh, we are a research lab that is in the pursuit of building, you know, state of the art breakthroughs. Uh, Robert is one of the premier scientists in the world. Um, he's also in charge as CEO of the orchestration of this company machine. So how do you have research contribute to the core product? How do you have the core product platform serve the needs of both research and product? In fact, in my role, I'm really only best suited to decide what the core product needs from the core platform. Like, these are things that Robert, because he's so well-rounded both on product research and in engineering, um, he is responsible for a CEO. Um, and my, my, my leadership is about how do we make sure the, the products that are built, succeed and win.
+* 한국어 번역: 로버트가 이 회사의 CEO가 되어야 하는 이유는 매우 명확합니다. 우리는 최첨단 기술 혁신을 추구하는 연구소입니다. 로버트는 세계 최고의 과학자 중 한 명입니다. 또한 그는 CEO로서 이 회사라는 기계의 조율을 책임지고 있습니다. 어떻게 연구가 핵심 제품에 기여하게 할 것인가? 핵심 제품 플랫폼이 연구와 제품 양쪽의 요구를 어떻게 충족시킬 것인가? 사실 제 역할은 핵심 제품이 핵심 플랫폼으로부터 무엇을 필요로 하는지 결정하는 데 가장 적합합니다. 이런 것들은 제품 연구와 엔지니어링 양쪽에서 다재다능한 로버트가 CEO로서 책임지는 부분입니다. 그리고 저의 리더십은 우리가 만든 제품이 성공하고 이기도록 하는 방법에 관한 것입니다.
+[01:10:50] 'Shortcut'의 다음 단계
+* 챕터 요약: 아직 말하기에는 이르지만, 글쓰기, 사람 연결, 읽기, 코딩 분야에서 흥미로운 제품들을 준비하고 있다고 언급합니다. 그는 현재 진행 중인 다중 에이전트 연구의 새로운 패러다임에 대해 더 큰 기대를 걸고 있으며, 회사가 이 분야에서 최고가 될 것이라고 확신합니다.
+* Full English Answer: Um, it's pretty early to say. Um, we have some pretty exciting products in writing and, um, connecting people and reading actually, um, and coding. Um, and I actually even maybe even more excited about the state of the research happening right here. Um, there's a new paradigm being set for multi-agent and I, I expect that we're gonna be the company that comes out on top of it.
+* 한국어 번역: 아직 말하기에는 좀 이릅니다. 우리는 글쓰기, 사람 연결, 읽기, 그리고 코딩 분야에서 꽤 흥미로운 제품들을 가지고 있습니다. 그리고 사실 저는 지금 여기서 일어나고 있는 연구 현황에 대해 훨씬 더 기대가 큽니다. 다중 에이전트에 대한 새로운 패러다임이 설정되고 있으며, 저는 우리가 그 분야에서 최고가 될 회사라고 기대합니다.
+[01:11:30] AI 에이전트가 지식 노동의 미래를 어떻게 바꿀 것인가
+* 챕터 요약: AI는 모든 산업의 업무 방식을 바꿀 것이며, 새로운 도구를 배우는 사람들에게는 엄청난 레버리지를 제공할 것이라고 예측합니다. 그는 AI가 일자리를 대체할 것이라는 두려움에 대해, 역사적으로 생산 비용 감소는 더 많은 자원 투입으로 이어졌다고 반박하며, 오히려 AI가 없었다면 최근 경기 침체기에 더 많은 해고가 있었을 것이라고 믿습니다.
+* Full English Answer: yeah, AI is becoming pretty good. Uh, doing work, um, it's gonna create a big change in not just, uh, software engineering or spreadsheet work. It's gonna happen for everywhere, everywhere, every in, every industry. Um, and I think what will happen is, like, what we've already learned in software engineering is that it creates this really high leverage moment for people who can learn to use new tools, to get bizarrely good at things, uh, and that the net impact is like very, very positive for that industry and for the economy. I think some of the fear, the most important fear is that like, will AI replace jobs? And we've actually, we have no reason to believe this is the, this is the case historically. Whenever you can reduce the cost of the inputs and the cost and the output quality goes up, it's a higher ROI. More people put more resources into that thing. It's a law of physics, a lot of capitalism. Um, so maybe if it wasn't for ai, Microsoft and all the big hyperscalers would've fired many, many more people. Right? And I, I actually believe this to be the case. And I think if, if that does happen, which I expect it to, knowledge work will look different and people won't be doing as much manual things, but they'll be reviewing things and shipping more product and more work product than ever before at a much higher quality.
+* 한국어 번역: 네, AI가 꽤 잘하게 되고 있습니다. 일을 하는 데 있어서요. 소프트웨어 엔지니어링이나 스프레드시트 작업뿐만 아니라 큰 변화를 가져올 겁니다. 모든 곳, 모든 산업에서 일어날 겁니다. 그리고 제 생각에 무슨 일이 일어날 것이냐면, 우리가 소프트웨어 엔지니어링에서 이미 배운 것처럼, 새로운 도구를 사용하는 법을 배울 수 있는 사람들에게는 엄청난 레버리지의 순간을 만들어 줍니다. 그들은 이상할 정도로 일을 잘하게 되고, 그 순 영향은 해당 산업과 경제에 매우 긍정적입니다. 가장 중요한 두려움 중 하나는 'AI가 일자리를 대체할 것인가?'입니다. 하지만 역사적으로 이것이 사실이라고 믿을 만한 이유가 없습니다. 투입 비용을 줄일 수 있고 결과물의 질이 올라가면 ROI가 높아집니다. 더 많은 사람들이 그 일에 더 많은 자원을 투입하게 되죠. 이것은 물리학의 법칙이자 자본주의의 법칙입니다. 그래서 만약 AI가 없었다면, 마이크로소프트와 모든 대형 하이퍼스케일러들은 훨씬 더 많은 사람을 해고했을지도 모릅니다. 저는 실제로 그렇다고 믿습니다. 그리고 만약 그렇게 된다면, 저는 그렇게 될 것이라고 예상하는데, 지식 노동은 달라 보일 것이고, 사람들은 수작업을 덜하게 될 것입니다. 대신 그들은 검토하는 일을 하고, 이전보다 훨씬 더 높은 품질로 더 많은 제품과 작업 결과물을 내놓을 것입니다.
+________________
+
+
+Chapter 10: 창업가들을 위한 조언
+[01:14:20] 비전과 당면 과제 사이의 균형을 잡기 위한 조언
+* 챕터 요약: 창업가들에게 가장 중요한 것은 '당신이 어떤 종류의 회사인가'를 결정하는 것이라고 조언합니다. 그는 자신의 회사가 연구, 핵심 플랫폼, 제품이라는 세 가지 요소를 의도적으로 결합하여 문제를 해결하고 가치를 창출하는 방식을 설명하며, 모든 회사가 자신만의 명확한 정체성을 가져야 한다고 강조합니다.
+* Full English Answer: Decide what kind of company you are. This is the answer. Um, you need to decide what kind of company you are. Be very intentional about what you believe and how you orchestrate your company. Are you a product company? If so, go solve a need or are you a research company? And then go solve a problem. We, our, our answer to this is, is we are gonna have research, we're going to have a core platform, and we're gonna have products that capitalize on the research and the engineering here. And that's how we capture values and solve problems that may not be the right approach for everybody. Our research gets to focus on like, how do you scale a million agents together? Um, it's not on them to figure out how that solves a need. It's on the product department to figure out how we can capitalize on that and build specific use cases. So that's how we do it. Uh, and everybody needs to be very clear about what kind of company they're building.
+* 한국어 번역: 당신이 어떤 종류의 회사인지 결정하세요. 이것이 답입니다. 당신이 어떤 종류의 회사인지 결정해야 합니다. 당신이 믿는 것과 회사를 어떻게 구성할지에 대해 매우 의도적이어야 합니다. 당신은 제품 회사입니까? 그렇다면 필요를 해결하러 가세요. 아니면 연구 회사입니까? 그렇다면 문제를 해결하러 가세요. 이에 대한 우리의 답은, 우리는 연구를 할 것이고, 핵심 플랫폼을 가질 것이며, 여기의 연구와 엔지니어링을 활용하는 제품들을 가질 것이라는 겁니다. 이것이 우리가 가치를 포착하고 문제를 해결하는 방식이며, 모든 사람에게 맞는 접근 방식은 아닐 수 있습니다. 우리 연구팀은 '백만 개의 에이전트를 어떻게 함께 확장할 것인가'와 같은 문제에 집중할 수 있습니다. 그것이 어떻게 필요를 해결하는지 알아내는 것은 그들의 몫이 아닙니다. 그것을 활용하여 특정 사용 사례를 구축하는 방법을 알아내는 것은 제품 부서의 몫입니다. 이것이 우리가 하는 방식입니다. 그리고 모든 사람은 자신이 어떤 종류의 회사를 만들고 있는지에 대해 매우 명확해야 합니다.
+[01:15:30] 연구와 제품, 두 가지를 병행할 때의 어려움
+* 챕터 요약: 연구와 제품을 동일시했을 때 겪었던 실패 경험을 공유합니다. 그는 마인크래프트 에이전트 프로젝트를 예로 들며, 연구와 제품의 목표가 달라 두 마리 토끼를 모두 놓쳤던 경험을 통해 현재의 독자적인 방법론을 확립하게 되었다고 설명합니다.
+* Full English Answer: So actually this whole company culture, we've built, this intentionality we have about this like three-headed machine is not because we're geniuses necessarily, it's because we've had this problem before. In fact, our first product was a Minecraft agent that could play Minecraft. It was actually in a lot of ways really broken. Um, but in terms of the research and in terms of its relation to product, we had tried to think of those things as the same thing. In fact, we had one benchmark in which it was very interesting for research, but it was also interesting for product. Uh, but the problem was, is it didn't capture the distribution needs of what product people wanted for a fun, great agent to play with. And we couldn't even open source it for the research because it was our product. So it neither succeeded in terms of research, nor in terms of product building because we thought they were the same thing. Research and product are massively different endeavors. And that's why we come up with our, our methodology. And that's why I'm so convinced that like, first of all, I really believe in our approach, but you cannot be, you, you need to be very clear about what kind of company you are.
+* 한국어 번역: 사실 우리가 구축한 이 회사 문화, 이 '세 개의 머리를 가진 기계'에 대한 의도성은 우리가 천재라서가 아니라, 이전에 이 문제를 겪었기 때문입니다. 사실, 우리의 첫 제품은 마인크래프트를 할 수 있는 마인크래프트 에이전트였습니다. 여러 면에서 정말 문제가 많았죠. 하지만 연구와 제품과의 관계 측면에서, 우리는 그 두 가지를 같은 것으로 생각하려고 했습니다. 실제로 연구적으로도 흥미롭고 제품적으로도 흥미로운 벤치마크가 하나 있었습니다. 하지만 문제는, 제품 사용자들이 원했던 재미있고 훌륭한 플레이 에이전트에 대한 배포 요구를 충족시키지 못했다는 것입니다. 그리고 그것이 우리 제품이었기 때문에 연구를 위해 오픈 소스로 공개할 수도 없었습니다. 그래서 우리는 연구와 제품이 같은 것이라고 생각했기 때문에, 연구 측면에서도, 제품 구축 측면에서도 성공하지 못했습니다. 연구와 제품은 엄청나게 다른 노력입니다. 그것이 우리가 우리만의 방법론을 만든 이유입니다. 그리고 그래서 저는 우리의 접근법을 정말 믿지만, 당신은 당신이 어떤 종류의 회사인지에 대해 매우 명확해야 한다는 것을 확신합니다.
+[01:17:00] 큰 경력 전환을 고려하는 사람들을 위한 조언
+* 챕터 요약: 어떤 분야에서든 '놀라울 정도로' 잘하게 되라고 조언합니다. 그는 인터넷과 AI 덕분에 무엇이든 배울 수 있는 자원이 무한하며, 진입하지 못하는 것은 실력이 부족하기 때문이라고 말하며, 부지런히 시간을 투자하여 실력을 키울 것을 강조합니다.
+* Full English Answer: Yeah, I get, get really, really good. Get amazingly good at something. Uh, there's no reason you can't. Um, I also got good at piano and guitar and I can surf. Like you can just get good at things by putting in many, many hours diligently and you have no business breaking into some other technology or some other field or whatever until you've put in your hours and gone good at it. Um, and thankfully there's unlimited resources with the internet and AI for you to get good and you get exactly what you deserve. So if you can't break in, it's 'cause you're not good.
+* 한국어 번역: 네, 정말, 정말 잘하게 되세요. 어떤 분야에서든 놀라울 정도로 잘하게 되세요. 못할 이유가 없습니다. 저도 피아노와 기타를 잘 치게 됐고 서핑도 할 수 있습니다. 부지런히 많은 시간을 투자하면 무엇이든 잘하게 될 수 있습니다. 그리고 시간을 투자해서 실력을 키우기 전까지는 다른 기술이나 다른 분야에 뛰어들 자격이 없습니다. 고맙게도 인터넷과 AI 덕분에 실력을 키울 수 있는 자원은 무한하고, 당신은 정확히 당신이 노력한 만큼 얻게 됩니다. 그래서 만약 진입하지 못한다면, 그건 당신이 실력이 없기 때문입니다.
+[01:17:40] 자신이 무엇을 좋아하는지 모르는 사람들을 위한 조언
+* 챕터 요약: 그는 개인적으로 열정이 없는 상태를 이해하기 어렵다고 인정하면서도, 무언가를 잘하게 되는 것이 그것을 사랑하게 되는 좋은 시작점이 될 수 있다고 조언합니다. 그는 기타를 배울 때의 경험을 예로 들며, 최소한 일주일은 투자해서 무언가를 좋아할 기회를 스스로에게 주라고 말합니다.
+* Full English Answer: You know, I think this is one of my weaknesses as a person is that I am a man of like a passion and passions. I love music. I love, I love so many things. So for me, I can't imagine not knowing what you wanna do. Um, I, I maybe at the shallow level, I can say getting good at things is a good way to start to love them. So put in enough time to give yourself a chance to love something is probably the best chance you have. Um, I, I, I remember learning guitar and thinking this really hurt my fingers and I wasn't sure I liked it. Um, but I remember about a weekend I started really loving it. So at least give yourself probably a week. To, to see that like initial point, like I talked about, where you can get pretty good pretty fast and see if that's enough to get you to like something.
+* 한국어 번역: 저는 열정적인 사람이라 이것이 제 약점 중 하나라고 생각합니다. 저는 음악을 사랑하고, 정말 많은 것을 사랑합니다. 그래서 저는 하고 싶은 일을 모른다는 것을 상상할 수 없습니다. 음, 피상적인 수준에서 말하자면, 무언가를 잘하게 되는 것이 그것을 사랑하게 되는 좋은 방법이라고 말할 수 있습니다. 그러니 무언가를 사랑할 기회를 자신에게 주기 위해 충분한 시간을 투자하는 것이 아마도 당신이 가진 최고의 기회일 겁니다. 저는 기타를 배울 때 손가락이 정말 아팠고, 이걸 좋아하는지 확신이 없었던 기억이 납니다. 하지만 주말쯤 지나자 정말 좋아하기 시작했던 기억이 있습니다. 그러니 적어도 일주일 정도는 스스로에게 시간을 주세요. 제가 말했던 것처럼, 꽤 빨리 꽤 잘하게 되는 그 초기 지점을 보고, 그것이 무언가를 좋아하게 만들기에 충분한지 확인해 보세요.
+[01:18:50] 5년 후의 미래 전망
+* 챕터 요약: 5년 안에 '숏컷'이 연 매출 10억 달러 규모의 사업이 되어 대부분의 수동 엑셀 작업을 대체할 수 있을 것이라고 예측합니다. 그는 이러한 변화가 스프레드시트에만 국한되지 않고 모든 주요 소프트웨어에서 일어날 것이며, 사람들은 AI와 협력하며 감독자 및 편집자의 역할로 전환될 것이라고 전망합니다.
+* Full English Answer: I think in five years, shortcut could be a billion dollar revenue business a year. Maybe, maybe more than that. I think it could replace most manual Excel work for most people that use computers, um, I think that won't be just exclusive to fundamental and it won't be just exclusive to spreadsheets. I, I think people won't be doing very manual work on any of the most important softwares. They won't be creating their Jira tickets. They won't be creating Word Docs. They won't be creating PowerPoints. They will be working with AI to create these things and they'll mostly progress to the role of supervisor and and editor. Um, I'm less confident about after five years. Um, but I think in five years that's all very table stakes and that that will be, uh, that will be all unlocked.
+* 한국어 번역: 5년 안에 '숏컷'은 연 매출 10억 달러, 어쩌면 그 이상의 사업이 될 수 있다고 생각합니다. 컴퓨터를 사용하는 대부분의 사람들의 수동 엑셀 작업을 대체할 수 있을 것이라고 생각하며, 이는 Fundamental이나 스프레드시트에만 국한되지 않을 것입니다. 사람들은 더 이상 가장 중요한 소프트웨어들에서 수작업을 많이 하지 않을 것입니다. 지라 티켓을 만들거나, 워드 문서를 만들거나, 파워포인트를 만들지 않을 것입니다. 그들은 AI와 협력하여 이런 것들을 만들 것이고, 대부분 감독자 및 편집자의 역할로 나아갈 것입니다. 5년 이후에 대해서는 확신이 덜합니다. 하지만 5년 안에는 이 모든 것이 기본이 되고, 모든 것이 가능해질 것이라고 생각합니다.
+[01:19:50] 현재 관심 있는 다른 분야
+* 챕터 요약: 그는 언젠가 음악 앨범을 만들어 크게 성공할 것이라고 굳게 믿는다고 말합니다. 음악적 배경이 있고 무엇이든 매우 잘할 수 있다는 자신감을 바탕으로, 5년, 10년, 20년 후가 될지는 모르지만 언젠가는 꼭 이룰 것이라고 이야기합니다.
+* Full English Answer: Yeah, um, I mean, this is funny. I really believe, I really, really, really believe that, um, I'm gonna create a, a music album. Um, and it's gonna be one of the best albums of the year. It'll be like profoundly successful. I do believe it. Um, my, my dad made an album. I've been musical. I play instruments. I can sing mediocre really well. Um, but like, I know I can get really good at things and I'm gonna just do it again. Um, maybe sometime, I don't know, 5, 10, 20 years, but eventually.
+* 한국어 번역: 네, 음, 재밌는 얘기지만, 저는 정말, 정말, 정말로 제가 음악 앨범을 만들 것이라고 믿습니다. 그리고 그 앨범은 올해 최고의 앨범 중 하나가 될 것이고, 엄청나게 성공할 겁니다. 저는 그렇게 믿습니다. 저희 아버지도 앨범을 만드셨고, 저는 음악적 재능이 있으며, 악기를 연주합니다. 노래는 그럭저럭 잘 부릅니다. 하지만 저는 제가 무엇이든 정말 잘할 수 있다는 것을 알고 있고, 다시 한번 해볼 생각입니다. 언제가 될지는 모르겠지만, 5년, 10년, 20년 후가 될 수도 있지만, 언젠가는요.
+[01:21:50] 현실적 어려움에 처한 예비 창업가들을 위한 조언
+* 챕터 요약: 창업의 가장 큰 장벽은 리스크를 감수하는 능력이며, 이는 종종 경제적 여유와 관련이 있다고 말합니다. 하지만 그는 실패하더라도 창업 과정에서 얻는 기술과 경험은 남은 인생의 기회 질을 극적으로 향상시키므로, 실패의 최저선이 높아진다는 것을 내면화하면 더 큰 리스크를 감수하기 쉬워진다고 조언합니다.
+* Full English Answer: I actually think this is the hardest bottleneck to becoming a founder. Um, and I think it's the reason that like people of higher means actually become more successful founders is you have to be able to take risk and your appetite to test take risk is pretty correlated to, um, the floor at which you'll find yourself if you fail. Right? So, um. I think, I think the thing that really people were thinking about starting a company should come around to, uh, understanding is there will be a period in which you don't make money, um, and that you may fail, but the skills in which you'll develop, the skills in which you will develop and the pursuit of building something will dramatically improve the quality of opportunities in the rest of your life. So even if you don't have as great means, um, how much better you'll get, not just at building companies, but in the skills, technically whatever, marketing, growth, whatever, that you'll, you'll get so much better that even if you had failed, your, your floor has risen, uh, and your opportunities have probably increased as well. So once you can internalize that, I think becoming someone who could take bigger risks becomes easier.
+* 한국어 번역: 저는 이것이 창업가가 되는 데 가장 어려운 병목 현상이라고 생각합니다. 그리고 이것이 경제적으로 여유 있는 사람들이 더 성공적인 창업가가 되는 이유라고 생각합니다. 리스크를 감수할 수 있어야 하고, 리스크를 감수하려는 의지는 실패했을 때 자신이 처할 최저 수준과 꽤 상관관계가 있습니다. 그렇죠? 그래서, 창업을 생각하는 사람들이 정말 이해해야 할 것은 돈을 벌지 못하는 기간이 있을 것이고, 실패할 수도 있다는 것입니다. 하지만 무언가를 만드는 과정에서 발전시킬 기술들은 남은 인생의 기회 질을 극적으로 향상시킬 것입니다. 그래서 비록 경제적 여유가 많지 않더라도, 회사 설립뿐만 아니라 기술, 마케팅, 성장 등 어떤 기술이든 훨씬 더 나아질 것이기 때문에, 실패했더라도 당신의 최저선은 올라갔고, 기회도 아마 늘어났을 겁니다. 일단 그것을 내면화할 수 있다면, 더 큰 리스크를 감수할 수 있는 사람이 되는 것이 더 쉬워진다고 생각합니다.
+[01:24:10] 샌프란시스코로 이주했을 때의 느낌
+* 챕터 요약: 샌프란시스코로 이주했을 때, 그는 새로운 땅을 '정복'하러 온 것 같은 기분을 느꼈다고 말합니다. 그는 그 과정이 매우 흥분되고 고귀한 추구처럼 느껴졌으며, 현재 그 목표를 향해 나아가고 있다고 덧붙입니다.
+* Full English Answer: Um, you know what's really funny? I felt like a con. I felt like I was gonna conquer, um, a new land. Um, and, uh, I was really, really, really excited. And I think I, you know, I'm on the way to doing it. Um, it would felt like a noble, a noble pursuit. Yeah. Yeah.
+* 한국어 번역: 음, 정말 재밌는 게 뭔지 아세요? 저는 마치 정복자처럼 느꼈습니다. 새로운 땅을 정복하러 온 것 같았어요. 그리고 정말, 정말, 정말 신났습니다. 그리고 저는 지금 그 길을 가고 있다고 생각합니다. 그것은 고귀한, 고귀한 추구처럼 느껴졌습니다. 네.
+[01:24:30] 매주 주말 비행을 감당한 이유
+* 챕터 요약: 그는 아내가 임신과 출산을 가족 곁에서 할 수 있도록 하는 것이 최우선이었다고 말합니다. 아내가 어려운 시기에 혼자 있지 않도록, 자신이 힘든 이동을 감수하는 편이 낫다고 판단했기 때문이라고 설명합니다.
+* Full English Answer: I did that for I think like, uh, 14 weeks. Um, but I flew Sunday night through Thursday night, um, six hours each way. Um, my wife, I really was adamant that she would be able to give birth and be pregnant, um, around family. Um, and all our families are from Miami, and I work so much that I wouldn't be with her if we were in San Francisco, so she would be alone during a difficult time. And family is still my top priority. So I wanted, I would rather subject myself to a ton of travel than her, not have what she needs. So that's, that's why we chose that path.
+* 한국어 번역: 14주 정도 그렇게 했던 것 같습니다. 저는 일요일 밤부터 목요일 밤까지 편도 6시간씩 비행기를 탔습니다. 제 아내가 가족들 곁에서 임신 기간을 보내고 출산할 수 있어야 한다고 정말 강력히 주장했습니다. 우리 가족들은 모두 마이애미 출신이고, 저는 너무 많이 일해서 우리가 샌프란시스코에 있었다면 그녀 곁에 있어주지 못했을 겁니다. 그러면 그녀는 힘든 시기에 혼자 있어야 했을 테죠. 그리고 가족은 여전히 제 최우선 순위입니다. 그래서 저는 그녀가 필요한 것을 갖지 못하는 것보다 차라리 제가 엄청난 이동을 감수하는 쪽을 원했습니다. 그래서 우리가 그 길을 선택한 겁니다.
+[01:25:30] 좋아하는 일이 직업이 되었을 때의 문제점
+* 챕터 요약: 그는 좋아하는 일이 직업이 되면 순수함이 오염될 수 있다는 점을 인정합니다. 아버지가 "음악은 좋은 취미이지, 좋은 직업은 아니다"라고 말했던 것을 언급하며, 정말로 충분히 사랑한다면 큰 문제가 되지 않겠지만, 열정을 해치는 요소들은 사업에 손해가 되더라도 가능한 한 멀리하는 것이 좋다고 조언합니다.
+* Full English Answer: Um, yeah, it's funny. Um, I think this can happen and I don't have a good framework for, for how you avoid this problem. In fact, I think one of the fun things is my dad used to say music is a great hobby, not a great career. Uh, and he's a musician too. Uh, and I think there was some ancient wisdom in that, which isn't just that it doesn't pay well, but it's actually that. If you can separate the concerns in your life and allow the things you love to be the things you love, then you probably keep them a little bit more pure. Um, I know a lot of people who make a lot of money, um, in professional dunking, for example, and they, it hasn't poisoned their passion. I think if you really love it enough, it's not a concern. Um, but you should find the parts that taint, that taint the well and abstract those away from you as much as possible, even if it hurts your business.
+* 한국어 번역: 네, 재밌는 질문이네요. 네, 그럴 수 있다고 생각하지만, 이 문제를 피하는 방법에 대한 좋은 틀은 가지고 있지 않습니다. 사실 제 아버지가 "음악은 훌륭한 취미이지, 훌륭한 직업은 아니다"라고 말씀하시곤 했습니다. 아버지도 음악가이신데요. 그 말에는 단순히 돈벌이가 안 된다는 것 이상의 깊은 지혜가 담겨 있다고 생각합니다. 인생에서 관심사를 분리하고, 사랑하는 것들을 그저 사랑하는 것으로 남겨둘 수 있다면, 아마 그것들을 좀 더 순수하게 유지할 수 있을 겁니다. 예를 들어, 프로 덩크슛으로 많은 돈을 버는 사람들을 많이 아는데, 그것이 그들의 열정을 해치지는 않았습니다. 정말로 충분히 사랑한다면, 그건 문제가 되지 않는다고 생각합니다. 하지만 우물을 흐리는, 즉 열정을 해치는 부분들을 찾아내서, 비록 사업에 손해가 되더라도 가능한 한 그것들을 자신에게서 멀리해야 합니다.
+________________
+
+
+Chapter 11: 향후 계획과 파트너십
+[01:32:50] 장기적으로 다른 제품을 출시할 계획이 있는지
+* 챕터 요약: 그는 앞으로 12개월 동안 많은 제품을 출시하는 것이 회사의 매우 의도적인 로드맵의 일부라고 단언합니다. 회사의 야망은 '숏컷'의 성공을 넘어 훨씬 크기 때문에, 연구 및 핵심 기술 플랫폼의 이점을 활용하여 다중 에이전트 기술 기반의 영향력 있는 제품들을 계속해서 출시할 계획이라고 밝힙니다.
+* Full English Answer: No, no, no, no, no. Yeah. Um, it's a very, very intentional part of our roadmap that we're launching many, many products in the next 12 months, all of which recently possible because of our research and where agent technology has gotten and because of our advantage with the Core tech platform to build agents on top of, um, specifically, uh, multi-agent is like our, you know, our very important framework. Um, so yeah, it's not just a talking point like any other company that has a shortcut success would've fired all of its researchers, or most of them would've fired the Cortex platform and just focused and renamed the company shortcut. Um, we didn't even think about that. It wasn't even a topic of discussion. Um, our ambitions are so much bigger and we have so much other plans for what we launch, uh, at the product level, and that's still just a fraction of what we think we can do at, at the research and engineering side.
+* 한국어 번역: 아뇨, 아뇨. 네. 앞으로 12개월 동안 많은 제품을 출시하는 것은 우리 로드맵의 매우 의도적인 부분입니다. 이 모든 것은 우리의 연구와 에이전트 기술의 발전, 그리고 에이전트를 구축할 수 있는 핵심 기술 플랫폼의 이점 덕분에 최근에 가능해졌습니다. 특히 다중 에이전트는 우리의 매우 중요한 프레임워크입니다. 그래서 이건 그냥 하는 말이 아닙니다. '숏컷'과 같은 성공을 거둔 다른 회사였다면 모든 연구원을 해고하거나, 코어텍스 플랫폼을 없애고 그냥 '숏컷'에 집중하며 회사 이름도 바꿨을 겁니다. 우리는 그런 생각조차 하지 않았습니다. 논의의 대상도 아니었죠. 우리의 야망은 훨씬 더 크고, 제품 수준에서 출시할 다른 계획도 많습니다. 그리고 그것조차도 우리가 연구 및 엔지니어링 측면에서 할 수 있다고 생각하는 것의 일부에 불과합니다.
+[01:34:30] 계획을 세울 때 얼마나 멀리 내다보는지
+* 챕터 요약: 그는 자신과 공동 창업자인 로버트가 서로를 완벽하게 보완한다고 말합니다. 로버트는 수십 년을 내다보는 장기적인 그림을 그리는 데 능하고, 자신은 단기적인 실행에 강하다고 설명합니다. 그는 회사의 목표가 '세대적인 회사'를 넘어 '역사적인 회사'가 되는 것이며, 이는 1년을 훨씬 뛰어넘는 거시적인 사고를 필요로 한다고 강조합니다.
+* Full English Answer: This is where me and Robert really compliment each other very well. I'm actually not, um, I'm not very strong at like two to five to 10 plus year out thinking. Uh, I'm very good at like executing in sprints. Um, Robert is a very, very big picture. Uh, in fact decided that he was gonna build his company more or less when he was 17, 18 years ago. Like, he's okay with being wrong for a long time if he knows he's right. Uh, so this intentionality with how we built the company and how we structure our long-term goals and where we need to get to is largely a result of his thinking. Um, and my goal is to be very in the weeds about how we succeed. Um, so yeah, we, we don't just think, uh, one year out, like we're thinking decades out. Um, and our goal is not to be a generational company 'cause those companies are forgotten every generation. It's really to be a historical company. Uh, and that requires a sort of grand picture thinking that goes way beyond a year.
+* 한국어 번역: 이 부분에서 저와 로버트는 서로를 정말 잘 보완합니다. 저는 사실 2년, 5년, 10년 이상을 내다보는 장기적인 사고에는 강하지 않습니다. 저는 단기적인 실행에 매우 능합니다. 반면 로버트는 매우 큰 그림을 봅니다. 사실 그는 17, 18년 전쯤에 이미 자신의 회사를 세우기로 결정했습니다. 그는 자신이 옳다고 확신하면 오랫동안 틀리는 것을 감수할 수 있는 사람입니다. 그래서 우리가 회사를 세운 방식, 장기 목표를 구성하는 방식, 그리고 우리가 도달해야 할 지점에 대한 이 의도성은 대부분 그의 생각의 결과입니다. 그리고 제 목표는 우리가 어떻게 성공할지에 대해 매우 세부적인 부분까지 파고드는 것입니다. 그래서 우리는 단지 1년 앞을 생각하는 것이 아니라, 수십 년을 내다보고 생각합니다. 우리의 목표는 세대적인 회사가 되는 것이 아닙니다. 그런 회사들은 매 세대마다 잊히기 때문입니다. 우리의 목표는 정말로 역사적인 회사가 되는 것입니다. 그리고 그것은 1년을 훨씬 뛰어넘는 거시적인 사고를 필요로 합니다.
+[01:35:30] 공동 창업자와 서로 어떻게 결합되는지
+* 챕터 요약: 겉보기에는 어울리지 않는 조합이지만, 서로 다른 결점과 특별한 기술을 가지고 있어 서로를 매우 잘 보완한다고 말합니다. 로버트는 장기적인 방향성을 책임지고, 자신은 승리를 위한 실행을 담당함으로써 서로의 역할을 효과적으로 수행한다고 설명합니다.
+* Full English Answer: On the surface, it's really, you wouldn't picture like a Miami Pro street ball, dunker and a MIT professor starting a business together. Um, we just, I get that guy very well. He hits me. Um, we're both deeply, uh. Um, flawed in some different ways and very, very spec especially skilled in others. And they overlap in such a way that we cover each other very well. Um, and, um, it's usually, it's usually Robert's duty to make sure that we're on the right long-term trajectory and usually my duty to make sure that we win. Um, and, um, it's not that you can't get in the weeds, actually, this is something that's unique. It's not that Robert doesn't get in the weeds or that anyone who's capable of big picture, big picture thinking can't. Um, it's just that there are very few people in the world who can do this sort of big picture thinking and it, and it's becomes where you wanna spend your time.
+* 한국어 번역: 겉으로 보기에는 마이애미 프로 길거리 농구 선수와 MIT 교수가 함께 사업을 시작하는 것을 상상하기 어렵습니다. 우리는 그냥 서로를 아주 잘 이해합니다. 우리는 둘 다 어떤 면에서는 깊이 결함이 있고, 다른 면에서는 매우 특별한 기술을 가지고 있습니다. 그리고 그것들이 서로를 아주 잘 보완하는 방식으로 겹칩니다. 보통 우리가 올바른 장기적 궤도에 있도록 하는 것은 로버트의 임무이고, 우리가 이기도록 하는 것은 제 임무입니다. 그리고 세부적인 일에 관여할 수 없다는 뜻은 아닙니다. 사실 이건 독특한 점입니다. 로버트가 세부적인 일에 관여하지 않거나, 큰 그림을 그릴 수 있는 사람이 그렇게 할 수 없다는 뜻이 아닙니다. 단지 세상에는 이런 종류의 큰 그림을 그릴 수 있는 사람이 거의 없고, 그것이 당신이 시간을 보내고 싶은 곳이 되기 때문입니다.
+[01:37:00] 파트너십이 '통했다'고 느낀 순간
+* 챕터 요약: 그는 로버트의 능력을 처음에는 제대로 평가하지 못했지만, 함께 일하며 그의 독창적인 아이디어와 지성을 통해 사람들을 설득하는 능력을 보고 감탄했다고 말합니다. 로버트가 몇 시간이고 앉아서 독창적인 아이디어를 생각해내는 모습을 여러 번 목격하면서, 그가 정말 특별한 사람이라는 것을 깨달았고 파트너십에 대한 확신을 갖게 되었다고 회상합니다.
+* Full English Answer: Um, and I knew on the surface what it meant to be like a physics Olympiad and to be like, um, a professor at MIT as the pinnacle of the field. Right. Um, but I couldn't quite evaluate it. Right. Um, but what I was able to evaluate was like how powerfully competent those people are if you put them elsewhere. Um, and how quickly they could learn. Um, but his ability to actually come up with original ideas that were right, um, and then to convince people in the industry through sheer intellect that those ideas were right. And reason, uh, I've never seen before. Um, I've never seen people like you take it for granted, but very few people have original thoughts ever. Uh, I think Robert is full of them. Um, and they're novel and insightful. And that's Robert's superpower for sure. And we did a lot of that together. Um, and it was, it was in these repeated moments of just. Robert can sit down and think for three hours and not leave his chair and stand up with an original idea that solves a problem. Like that's a very special human being. Um, so having seen that more than a handful of times early was, um, I wish I had known that before we started coming together.
+* 한국어 번역: 저는 표면적으로 물리 올림피아드 출신이거나 그 분야의 정점에 있는 MIT 교수라는 것이 무엇을 의미하는지는 알고 있었습니다. 하지만 그것을 제대로 평가할 수는 없었습니다. 하지만 제가 평가할 수 있었던 것은 그들을 다른 곳에 두었을 때 그들이 얼마나 강력하게 유능한지였습니다. 그리고 얼마나 빨리 배울 수 있는지요. 하지만 그가 실제로 옳은 독창적인 아이디어를 내놓고, 순수한 지성으로 업계 사람들에게 그 아이디어들이 옳다고 설득하는 능력은 제가 전에 본 적이 없는 것이었습니다. 사람들은 당연하게 여기지만, 독창적인 생각을 하는 사람은 거의 없습니다. 제 생각에 로버트는 그런 생각으로 가득 차 있습니다. 그리고 그 생각들은 참신하고 통찰력이 있습니다. 그것이 바로 로버트의 초능력입니다. 그리고 우리는 함께 그런 일을 많이 했습니다. 그리고 로버트가 의자에 앉아 세 시간 동안 생각하고는 문제를 해결하는 독창적인 아이디어를 가지고 일어서는 그런 반복되는 순간들이 있었습니다. 그는 정말 특별한 사람입니다. 초기에 그런 모습을 여러 번 본 것은... 우리가 함께 시작하기 전에 알았더라면 좋았을 텐데 하는 생각이 듭니다

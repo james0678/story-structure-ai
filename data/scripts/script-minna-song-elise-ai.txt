@@ -1,0 +1,1249 @@
+﻿full
+Elise@full
+===
+
+
+Speaker: [00:00:00] Yes. My name is Minna Song and I'm the co-founder and the CEO of Elise ai.[00:00:10] [00:00:20] [00:00:30] [00:00:40] 
+
+
+Elise AI 
+
+
+Speaker 2: is a tech company that uses AI to drive real world impact, and we are starting with two of the most critical industries that make up over [00:00:50] 40% of the US GDP, the housing industry, and the healthcare in. Right now, housing and healthcare are some of the most wasteful [00:01:00] industries in terms of outdated processes and administrative burdens that make them very inefficient and run on razor thin margins.[00:01:10] 
+
+
+We are solving this by [00:01:20] rebuilding these industries from the ground up to make them more efficient, more accessible, and more affordable. And we were really early in the conversational AI space, and we always started out [00:01:30] as a conversational AI company. It was definitely really hard to raise funding at the beginning because a lot of people didn't really understand the technology and they thought [00:01:40] immediately that our market was too small to go after.
+
+
+So, um, it took us a lot, a long time to sort of convince people of the impact that AI would have in these, [00:01:50] these massive industries.[00:02:00] [00:02:10] 
+
+
+Speaker: It was, uh, pretty brutal to raise our first round of funding, but it got us where we are today.[00:02:20] [00:02:30] 
+
+
+Speaker 2: Big milestones that we had was going [00:02:40] from a single product to being multi-product where we were selling. Products that solved end-to-end problems for our customers. And this was when I [00:02:50] think investors started realizing the potential for AI to transform the, the whole industry. And, um, it was, uh, very early with vertical AI [00:03:00] companies in general, whereas a lot of people were investing in horizontal AI companies.
+
+
+I think a lot more people this time around with the last couple years of raising, raising hundreds of millions of in [00:03:10] funding was, um, help helped by investors starting to understand that vertical AI is really solving systemic changes, uh, or solving [00:03:20] systemic problems in the industry.[00:03:30] 
+
+
+Speaker: I think that, 
+
+
+Speaker 2: uh, a lot of people thought this market was small because companies that had been built in. Uh, the industry before [00:03:40] never grew to be that large of companies, but I think we've surpassed a lot of the expectations that people had. Um, and we've broken through ceilings and sort of, [00:03:50] um, what i, what is called sort of blue ocean, um, meaning that, uh, we've, we've broken barriers that people expected that we would have.
+
+
+[00:04:00] I met my co-founder in college, so while I went to MIT, he, I actually met him studying abroad at the University of Cambridge in the uk where he was studying full-time. [00:04:10] I did one year foreign exchange program out there. And, um, met him basically the first day after graduating, we decided to start companies together and, [00:04:20] um, we started Elise shortly after graduating.
+
+
+Um, so we, we both come from software engineering backgrounds and felt that we should apply technology [00:04:30] to doing something 
+
+
+Speaker: good in the world.
+
+
+So Elise [00:04:40] was 
+
+
+Speaker 2: sort of our, our first and only job. We never had sort of quote Real Jobs. Um, but when we started Elise, we [00:04:50] actually wanted to start understanding the industry that we were operating in and really knew nothing about the housing industry except that we wanted to do something really, really [00:05:00] big in it.
+
+
+And so when I got started, I started working at a real estate firm here in New York City and that gave me a great opportunity to meet a lot of people. [00:05:10] So I took a front desk job where I greeted everyone who came through the door. I picked up all the, the phone calls and, um, that's how we got the [00:05:20] experience and understanding of the industry that helped us decide what we wanted 
+
+
+Speaker: to build.[00:05:30] 
+
+
+Speaker 2: I think it's pretty obvious tech is the fastest way to bring massive scale impact in the world. So it was pretty clear that we were [00:05:40] gonna start a technology company someday.
+
+
+Speaker: Yeah, 
+
+
+Speaker 2: I, uh, actually don't think it's [00:05:50] extreme at all. I think it's actually quite insane when people don't try to spend time really understanding a problem before they try to solve it, and then they waste years and [00:06:00] years of building technology that, uh, never finds product market fit. So I think this was maybe one of the most obvious, uh, and rational decisions that we've [00:06:10] ever made, which is just, uh, just learn.
+
+
+Learn about the people that you're building for, learn about the problems, uh, especially because we didn't come from a background in [00:06:20] housing at all. So definitely was one of the reasons that brought us to market, um, as quickly as we, we went. Yeah, we definitely still use that [00:06:30] philosophy. It's really important, especially in industries like housing and healthcare where so much happens in person.
+
+
+It doesn't all happen in the digital world, so you can't just look at [00:06:40] metrics, you can't look at users and how they interact with your online products. You have to be there to understand how they're interacting with the real world, [00:06:50] and, um, it would be, it would be pretty impossible to build anything of value if we didn't 
+
+
+Speaker: do that.[00:07:00] [00:07:10] [00:07:20] [00:07:30] 
+
+
+The problem 
+
+
+Speaker 2: was pretty obvious. I would say that it wasn't [00:07:40] something that we had an aha moment. It was just something people were constantly 
+
+
+Speaker: complaining about.[00:07:50] 
+
+
+Speaker 2: And I think that survives today. We're constantly hearing [00:08:00] complaints about new things that we haven't solved yet, and so we just keep tackling those one by 
+
+
+Speaker: one.[00:08:10] [00:08:20] 
+
+
+When I 
+
+
+Speaker 2: was working at the real estate firm, it was not really an aha moment. It was just people constantly complaining, telling me their [00:08:30] frustrations. They couldn't reach a building. They no one's answering their phone calls, no one's answering their emails. And so that's the exact problem that we tried to solve.
+
+
+It was, [00:08:40] um, it wasn't really a question about what the problem was. That was pretty obvious. It was really a question of is the technology the right technology to [00:08:50] solve the problem, or was the technology good enough to solve this problem? And was it the right time? A lot of people didn't know what AI was.[00:09:00] 
+
+
+A lot of people didn't believe that AI could answer their emails or work in a professional setting. A lot of people didn't believe [00:09:10] that AI would do things better than humans in any capacity. And this changed. And this changed. This [00:09:20] obviously has changed a lot over the years 
+
+
+Speaker 3: and so move on. So unsexy is competitive.
+
+
+Mm-hmm. Like in 2017 when Google released the [00:09:30] transform paper mm-hmm. And everyone chase consumer chat bots. Why did you choose the unsexy realistic interest? So Dan, so unsexy is competitive. [00:09:40] Mm-hmm. 2017, 
+
+
+Speaker: like Google relates to transport.[00:09:50] 
+
+
+I think housing 
+
+
+Speaker 2: was always sexy to us because it's a fundamental human need. It's an incredibly [00:10:00] important part of society in our lives. So why wouldn't that be sexy? But I can see that other people over the years have, have not seen real estate, [00:10:10] uh, as a sexy industry. But quite honestly, the least sexy problems to solve are also the least competitive to solve.
+
+
+And therefore, I [00:10:20] think, I think of impact as the delta between what would exist and what would not exist if we weren't here. And, um, if you, if you think [00:10:30] about it, if everyone is tackling the same exact. Problems that are, are really sexy, then you're not really having as big of an impact. Uh, the housing industry is hard, [00:10:40] full stop, and so is healthcare.
+
+
+And I think that being really hard is what makes it unsexy to a lot of people. But that means it just turns away the [00:10:50] people who are opportunistic, who think that they'll start a quick company and make a quick buck and um, be in and out. But that's not where generational [00:11:00] companies are built. Generational companies are built when you're building something that solves a problem that has never been solved before in a massive [00:11:10] way, and all of those things take great sacrifice, solving hard problems.
+
+
+Speaker 3: What made it take 
+
+
+Speaker: to build your first NBP? What did it look like?[00:11:20] [00:11:30] 
+
+
+We 
+
+
+Speaker 2: sold our first customer on a slide deck. We didn't [00:11:40] have any product whatsoever. We told them we had a product, but once they agreed to sign up, we went to our apartment and we stayed there [00:11:50] for three weeks straight. Uh, I think we honestly left the apartment one single time. Um, and we were just there building the entire platform from scratch.
+
+
+It was [00:12:00] very MVP. We, um, we really were just trying to get something that had some infrastructure to deliver the solution, but as a conversational AI solution, [00:12:10] it was, uh, it was a human in the loop or what I like to say is founder in the loop model. Until we started seeing what are. What are the problems?
+
+
+What are [00:12:20] the conversations that our product will need to have? And over time we started automating that. 
+
+
+Speaker 3: Great. So, [00:12:30] 
+
+
+Speaker 2: sure. 
+
+
+Speaker 3: Um, how did you secure your first patent, that first hundred paying customers, and [00:12:40] what can they learn? Purpose, trust your startup. Okay. 
+
+
+Speaker 2: The first 10 customers were really brutal. We were cold [00:12:50] calling, we were knocking on doors all across New York City.
+
+
+We got lucky with a few customers who signed on. And then we started selling to a national, [00:13:00] uh, to national property management companies. And, um, it was pretty crazy that we ended up signing the first and second largest apartment owners at the time, [00:13:10] onto our platform for their entire portfolio. And we were just two people at the time.
+
+
+It was just me and, and Tony, my co-founder. So [00:13:20] we had these large customers buying into a product that two people had built that was meant to run their entire real estate portfolio. [00:13:30] Um, how we convinced these large customers to work with us. We actually went down to DC where [00:13:40] one of them was located. I remember I went to a meeting, it was me and 12 executives, so all of their C-level team essentially sitting in a room with [00:13:50] just me.
+
+
+Um, I was in my young twenties and, um, it was three hours of con of asking me a ton of questions. Can your product do [00:14:00] this? Can your product do X? Can your product do y? And honestly, I think I said for three hours straight, I just said, no, it doesn't do that. And um, I walked outta that [00:14:10] meeting, called my co-founder and said.
+
+
+This was the worst meeting of our lives. Uh, just forget it. That deal is dead. And then the next day they called me back. The COO called [00:14:20] me and said, we're gonna do this together. We're gonna help you build the product. So really what got them to trust us and was that we were honest, and I think [00:14:30] that was more important.
+
+
+They knew we were early. We were not hiding the fact that we were a tiny startup, but they believed in us because they believed they had a big problem and that [00:14:40] they could work with honest founders to actually solve that.[00:14:50] 
+
+
+Speaker: I think for all of 
+
+
+Speaker 2: our early customers and even customers now, housing providers tend to be [00:15:00] really risk averse and, uh, healthcare providers as well. We worked with them and we create these launch plans and the early customers had these [00:15:10] long year, long drawn out launch plans, but once they started seeing it live, they actually rolled out much quicker.
+
+
+Uh, and so I [00:15:20] think we had planned something like two markets. Um, so two regions from Boston all the way down to dc uh, 80 [00:15:30] properties as a pilot. And um, we were gonna do that over the course of four months. Within three weeks of launching, we were building out [00:15:40] a launch plan that was as fast as, as Tony and I could 
+
+
+Speaker: go.[00:15:50] 
+
+
+Speaker 2: We launched our first New York City customer and we launched on about five properties. And then three weeks [00:16:00] later, the customer said, get this on all of my properties as soon as you possibly can. And I think that was the big moment for us where we're like, okay, we're solving a problem and we're solving [00:16:10] a big enough problem.
+
+
+We were getting paid for it and they wanted us to expand. And when I think about product market fit, what I think about is are the current customers that you've signed up [00:16:20] 
+
+
+Speaker: asking for more?[00:16:30] [00:16:40] 
+
+
+I [00:16:50] worked 
+
+
+Speaker 2: with our customers in DC out of their office for about six months, so we moved down there and collaborated with their teams. You know, I think a lot of people talk about building [00:17:00] companies, and they say it's best if you build a product for yourself because you, you understand that product and your problems the most.
+
+
+Unfortunately, if [00:17:10] you're solving a problem for an industry that you know nothing about, then you have to solely rely on your customers to do that, and so it's incredibly important to. To be close to your [00:17:20] customers. And I think there was no better opportunity than working directly in their office beside them for six months.
+
+
+Um, this was, uh, we were really [00:17:30] fortunate that a lot of people, because this was such a massive problem for them, gave us a ton of time and invested in us so that we can build a product 
+
+
+Speaker: for them.[00:17:40] [00:17:50] [00:18:00] 
+
+
+Speaker 2: I think when you're working with your first few customers, you've gotta be, you, you have to build, uh, [00:18:10] a lot of things that they ask for. A lot of people are really afraid of building too much or overfitting for certain customers, but the reality is that fear will paralyze you. You really just [00:18:20] need to build what they ask for.
+
+
+And then as you get customer 2, 3, 4, it'll give you a lot more data points and maybe you've built something that's not [00:18:30] sustainable in the long run. But quite honestly, I believe that your first customers, you will have to service that forever. It is a debt that you pay, [00:18:40] but you paid that in order to get where you are in toward in order to do those initial learnings.
+
+
+That's a really common attribute [00:18:50] of early adopters, is they want a lot of control. That's why they picked to work with an early stage startup in the first place. But they do want a lot of control, and usually [00:19:00] they wanna dictate what your roadmap looks like. So. I'd say be, don't be afraid. I, I think you will make mistakes and you will have to kind of [00:19:10] always resource your early customers differently than you do your mainstream customers or the majority of your customers in the long run.
+
+
+But that's a normal process, I think [00:19:20] in, in building a massive 
+
+
+Speaker: company.[00:19:30] [00:19:40] [00:19:50] [00:20:00] [00:20:10] 
+
+
+With 
+
+
+Speaker 2: the first customers that we launched with, these were some of the most tech adopting forward thinking. Real estate operators in the world, and they had [00:20:20] already optimized a lot of their processes, and we thought, how can we add additional value to people who have been optimizing this for a long time?
+
+
+But when we launched, [00:20:30] we sat with them about a month later, ran all the numbers, showed each other spreadsheets, and they showed us that we had actually doubled their conversion rate. So the main [00:20:40] metric that we were looking at is from the number of people that inquire at a property to how many people actually go and tour that property.
+
+
+What was the [00:20:50] increase? And the increase was taking it from about 14% to 28%. And that was just due to being able to respond [00:21:00] very, very quickly using AI versus humans. So even though our customers were sort of best in class operators with the status quo, [00:21:10] right, they were excellent at training 
+
+
+Speaker: their teams.[00:21:20] 
+
+
+Some metrics 
+
+
+Speaker 2: we look at are how are people converting throughout the sales process? So for our first product, which was our leasing product, [00:21:30] we really looked at the number of people who inquired at a property, and then the number of people who toured the property. So actually that conversion rate, [00:21:40] and we saw with our early customers that we over doubled that that lead to Tor conversion rate.
+
+
+And that's where our customers saw a lot of value. Something like [00:21:50] that.[00:22:00] 
+
+
+Speaker: A lot of the rejections were 
+
+
+Speaker 2: the same. [00:22:10] They're like, we're not interested in this market. We only look at horizontal SaaS, or we only look at enterprise SaaS and things [00:22:20] in the housing industry. Were not really interesting to them. Um, we, yeah, one, um, one rejection was pretty [00:22:30] interesting. We had already gone pretty far down with this investor where, um, they had been doing some due diligence on our product.
+
+
+We were giving them a lot of [00:22:40] data. We were introducing to them, to customers. Ultimately, they ended up rejecting us and then sat down with us and showed me a slideshow of, um, what their portfolio companies [00:22:50] look like. And, um, the demographics of them and, um, showed them, showed me that they, that something like 90% of all of their CEOs were, [00:23:00] uh, in their forties.
+
+
+Um, that was a pretty interesting one because I wasn't really sure what to do with that. I couldn't age myself further. So, um, it was just a really 
+
+
+Speaker: [00:23:10] interesting time.[00:23:20] 
+
+
+In our first round of funding, we had literally over 100 rejections.[00:23:30] 
+
+
+Speaker 2: Yeah, 
+
+
+Speaker: it was 
+
+
+Speaker 2: a pretty small round of funding compared to seed rounds today, but we were able to survive, uh, largely because my [00:23:40] co-founder and I were both software engineers and I think having two technical founders, you save a ton of money because you can just build the system yourselves. Uh, that's where, you know, the software [00:23:50] engineering talent is really where you're starting to spend your first early dollars.
+
+
+Um, every time we hired somebody, it was, uh, it was typically on the sales side and [00:24:00] they were really just a creative to the company in, 
+
+
+Speaker: you know, the top line.[00:24:10] [00:24:20] 
+
+
+Number one 
+
+
+Speaker 2: thing was that people in the early days didn't see vertical AI as a large enough opportunity for them. And [00:24:30] um, we had to do a lot of convincing about how big the housing market is and how big that opportunity is to build a business. And this last round of funding, we [00:24:40] have several top tier VCs that are investing in exactly that.
+
+
+They're investing in this massive housing opportunity. A lot of investors weren't thinking about [00:24:50] vertical ai. A 16 Z put out a vertical AI thesis article on their website in early 2024. And I [00:25:00] think until that point, a lot of investors actually. Just really weren't thinking about vertical AI as an opportunity.
+
+
+But when we read that article for the first time, it was so [00:25:10] obvious to us. We had been building this, we had been living this, and it was really nice that they had brought it to light and that more investors started actually creating their [00:25:20] own thesis around specifically investing in vertical AI companies because they saw that they build a moat, that they have a lot more, uh, they, they can [00:25:30] provide a lot more value in a way that's not a feature like horizontal ai, but can really have systemic control over, uh, over a customer's [00:25:40] business and, and really can lead to the transformation of those 
+
+
+Speaker: customers.[00:25:50] [00:26:00] 
+
+
+When we didn't 
+
+
+Speaker 2: have a lot of funding, [00:26:10] we really just relied on ourselves and our ability to build features that our customers were asking for. I think we were cash constrained, so we didn't have huge [00:26:20] engineering team to build lots of features in parallel. But I think that prioritization helped us build the things that were absolutely the most critical, that had the highest amount of [00:26:30] value, not ancillary features or features that were just providing kind of optics for customers to, um, to think that they were kind of feature full [00:26:40] products.
+
+
+So I think money doesn't actually solve a lot of problems. I think when people raise a lot of funding early on, they, they think that they're successful and they [00:26:50] throw a lot of money at problems and, and think that those problems are solved. But really what happens is those problems end up stewing and [00:27:00] growing and, and, and they're, and they're still there.
+
+
+And, um, when you don't have a lot of money, that's, that's not something that you can kind [00:27:10] of fall back on your problems when you. Raise a lot of money are very obvious, and you know, if you solve them or if you haven't solved them,[00:27:20] [00:27:30] [00:27:40] 
+
+
+Speaker: when you don't have a lot of 
+
+
+Speaker 2: money, you have to do [00:27:50] everything yourself. You have to, and you should talk to all of your customers, handle all of your customer success support tickets. You should do sales yourself, and that [00:28:00] helps you really focus on if you're building a product, you're building exactly what your customers are asking for and what they're willing to pay for.
+
+
+There is really no [00:28:10] excuse for. Um, even if you do end up raising a lot of money for hiring and outsourcing things like talking to your customers or outsourcing your product [00:28:20] development, um, the number one thing that you should be focused on is, is my customer saying that they will roll this feature out that we're building tomorrow?[00:28:30] 
+
+
+[00:28:40] Well, some of the investors that we have now have actually rejected us in not just one, but maybe two or three rounds of funding, but we kept in touch and they saw how the [00:28:50] company grows or, but we kept in touch and they saw how the company has grown and considered and, and decided to fund us. Later on, [00:29:00] we, I should have articulated the vision better, but.
+
+
+Quite honestly, I didn't spend a ton of my time fundraising, especially in the early days, and I [00:29:10] was just, every single day we were trying to make sure the company wasn't dying and didn't have a long time to spend on talking to investors. And so when [00:29:20] we went to raise, we were meeting investors for the first time and we had not built up a long relationship with them.
+
+
+That made it kind of [00:29:30] challenging to raise funding, but eventually as we started building a track record of showing real growth in the company, investors started to see what was possible.[00:29:40] [00:29:50] 
+
+
+Speaker: What would I say 
+
+
+Speaker 2: to them? I'd say I'd tell investors to spend 20% of their time looking [00:30:00] at companies that don't exactly fit the mandate or the industries that they typically look at. I think that was a reason that a lot of investors overlooked us was [00:30:10] because the housing market was not something that they had invested into that they thought tech was kind of a, a, a sexy, um, place to, it was not a [00:30:20] sexy industry to apply technology to.
+
+
+And so I think that there's a lot of opportunity and if sort of like the Google 20% of your time should be spent on, [00:30:30] um, on, on doing other things that are, are interesting and, and would help build the company. I think investors should apply that same framework and spend 20% of their time [00:30:40] thinking about investments that maybe are, are different from what they're used to doing.[00:30:50] 
+
+
+Speaker: Honestly, our series 
+
+
+Speaker 2: B was a really, really tough [00:31:00] round. It took me several months to raise that round. It was at the same time we were rebuilding our entire software infrastructure from [00:31:10] basically from scratch. I had about 35 people reporting directly to me. I had, we were hiring, but we were [00:31:20] hiring in office at a time, which was sort of post COVID when everyone wanted to be remote.
+
+
+So at the same time, it was kind of the largest round of funding by a lot that we had [00:31:30] ever. Needed to raise. And so it was just a lot of chaos at the same time. And, um, there were many moments that I thought maybe we [00:31:40] wouldn't raise and this would be the 
+
+
+Speaker: end.[00:31:50] [00:32:00] 
+
+
+Yeah. 
+
+
+Speaker 2: I don't think when you're a founder that you can always manage your, your stress. You just keep going. And [00:32:10] some of the problems that you're dealing with little by little go away. And maybe there's new problems, but it's a stressful thing to start a company. It's a stressful thing to work [00:32:20] at a, at a startup 
+
+
+Speaker: that's growing.[00:32:30] [00:32:40] 
+
+
+Speaker 2: [00:32:50] When 35 people were directly reporting to me, of course I was trying to find someone who could help manage and these, all of these people. But if I had hired the [00:33:00] wrong manager out of desperation, then it would've just made the problem a lot worse.[00:33:10] [00:33:20] 
+
+
+Speaker: It was 
+
+
+Speaker 2: a really exhausting time, of course, but it doesn't really matter. [00:33:30] You have problems. You have customers that need things. You have to take, you have to take one step in front of the other just to solve problems over time, and you do the [00:33:40] best that you can, but there's hard times and there's slightly less hard times, and it just takes being a cockroach where, um, you can't [00:33:50] let anything kill you ever.
+
+
+It can be really stressful, and it's still probably more stressful than ever right [00:34:00] now, but it's just about every single day, especially in the early days. Doing everything that you can to prevent yourself, prevent your company from dying [00:34:10] and even when you're exhausted. I think that's a pretty motivating, 
+
+
+Speaker: uh, 
+
+
+Speaker 2: that's, that's a pretty 
+
+
+Speaker: motivating 
+
+
+Speaker 2: factor.[00:34:20] [00:34:30] [00:34:40] [00:34:50] 
+
+
+Speaker: I think 
+
+
+Speaker 2: that stress is, stress is a constant, but we had customers, we had momentum, and momentum carries [00:35:00] you really far. There's a difference between having stress 
+
+
+Speaker: when.[00:35:10] 
+
+
+Speaker 2: Yeah, I think stress, pre-product market [00:35:20] fit and stress post-product market fit are very, very different. So when you're not sure what you're doing, that's when it can be quite depressing. [00:35:30] But even when you're stressed, but you have customers and you're winning new deals and they're asking for features, these are all good things and this is what keeps you going day after [00:35:40] day, even on very little sleep.
+
+
+I think we were working consistently over a hundred hour weeks for, um, many years of the company. [00:35:50] Uh, we still take it quite honestly. Um, I mean, I still work. I still work seven days a week. 90 hour, 90 hours, a hundred hours is not really sustainable. That's [00:36:00] when you're actually starting to eat into sleep and, and deteriorating over time.
+
+
+But 90 hours is sustainable, which just means you wake up, you go to work, and you [00:36:10] go home and you go to sleep and you get proper sleep and then you just do it again tomorrow and you do that every single day. And that is how problems get solved. I think that, um, my [00:36:20] suggestion for founders is always, if they're not working seven days a week, they're not growing their company as fast as they should.
+
+
+If they're not working seven days a week, it [00:36:30] means their company is going to be beat, beaten by another company that is working, that their founders are working seven days a week. So that's just extra [00:36:40] time and effort that will accelerate 
+
+
+Speaker: the growth of your company.[00:36:50] [00:37:00] [00:37:10] [00:37:20] 
+
+
+When we launched 
+
+
+Speaker 2: our product with our first [00:37:30] national customer, Avalon Bay, we needed to keep the service running 24 7, and this was. The most important deal of our lives, [00:37:40] it had to go perfectly. So my co-founder and I actually watched every single message that went through the system and it was a 24 hour service.[00:37:50] 
+
+
+So that meant he stayed up until 4:00 AM and I woke up at 4:00 AM and watched it. And by the way, at the same time, we were building new features with this [00:38:00] customer. We were trying to sell new customers, we were trying to support our existing customers in, um, in other, uh, in other portfolios that we had signed [00:38:10] on.
+
+
+So, um, that was probably the most physically draining time was, um, very unnatural. And we ended, I ended up going to the hospital and, and that's kind of when we [00:38:20] start, took a step back and we said, okay, let's, uh, let's figure out how to scale this. Yes, it's important that it goes, it goes correctly. But fortunately that's actually when we raised our [00:38:30] first round of funding and we could actually hire people who can help monitor the system.
+
+
+And I think it was. It was a, it was a stupid thing to do originally, but, um, we shouldn't have [00:38:40] just used brute force. We should have thought, I think smarter about how can we make sure, how can we have our cake and eat it too? Have a great system, but in a way that's more sustainable 
+
+
+Speaker: and more scalable.[00:38:50] [00:39:00] [00:39:10] [00:39:20] [00:39:30] 
+
+
+I think it's really 
+
+
+Speaker 2: important that founders [00:39:40] have strong work ethics. I think they should be working as much as they possibly can. Solving the hardest problems, most important problems. There are [00:39:50] 100 problems for every one person I have in our company, and it means that everyone has to be always thinking about how can we work more efficiently and how can [00:40:00] we honestly just there's, there's nothing that, if you wanna be the best company in the world, I think you have to work the hardest in the world.
+
+
+It's like anything else. If you wanna be the [00:40:10] best athlete, you wanna be the best musician. You're practicing nonstop work in a tech startup is exactly the same thing. You are building more features than other people. [00:40:20] You are thinking about your process. You are thinking about how do you sell, how do you pitch better?
+
+
+This is just how you accelerate your learning [00:40:30] and you accelerate your company faster than anyone else. For me, we have just always worked really hard. Uh, I think [00:40:40] that's absolutely table stakes for founders. We, we worked every single day in our twenties, so seven days a week. I think we took the first day off, [00:40:50] uh, when we were 31 a couple years ago.
+
+
+Um, but every other day since we graduated, it was all about the company all the time. I think these are two of the hardest [00:41:00] industries to serve in terms of they are not usually quick to adopt technology. The problems are incredibly complex. We are building [00:41:10] a lot of different products for our customers, and everything about the industry is just hard.
+
+
+And so we need a lot of people that are gonna work [00:41:20] really hard and make really great sacrifices for industries that serve our 
+
+
+Speaker: fundamental human needs.[00:41:30] [00:41:40] 
+
+
+Hmm. 
+
+
+Speaker 2: Something our investors said about us after watching our company grow and backing us was that [00:41:50] our early team, we were all cockroaches. We never let anything kill us, no matter how hard it was. We just focused on not dying every [00:42:00] single day and eventually not dying. Turned into, uh, turned into growth and turned into a lot of success for the company.[00:42:10] [00:42:20] 
+
+
+Most recently, we raised our series E, which is a $250 million [00:42:30] round that was led by Andreessen 
+
+
+Speaker: Horowitz[00:42:40] [00:42:50] 
+
+
+and 
+
+
+Speaker 2: participated in by Bessemer Venture Partners, as well as our previous investors, Sapphire Ventures and 
+
+
+Speaker: Navitas Capital.[00:43:00] 
+
+
+Speaker 2: Over the last 12 months, we raised [00:43:10] $325 million. And what we look for in all of our investors that we bring on is somebody who has really strong conviction [00:43:20] into building companies that have real world impact, not investors that are here just to make money. That's incredibly important for us, particularly because the industries that we [00:43:30] serve are very, very difficult, and we're building a generational company, and we need somebody who believes with strong conviction what the industries should look [00:43:40] like, not what they look like today, but what they would look like in the ideal 
+
+
+Speaker: state.[00:43:50] [00:44:00] 
+
+
+Um, 
+
+
+Speaker 2: we raised a $250 million Series E Round, um, which was led by [00:44:10] Andreessen Horowitz and participated in by Bessemer Venture Partners as well as previous investors, Sapphire Ventures and Navitas 
+
+
+Speaker: Capital.[00:44:20] [00:44:30] 
+
+
+Speaker 2: With this round of funding, we're gonna invest a ton in healthcare. We went to market a few years ago, or with this round of funding, we're gonna [00:44:40] invest a ton in healthcare. The industry has. A bunch of different problems that AI can solve, and we'd wanna go as quickly as possible because we know that [00:44:50] our customers need our help.
+
+
+We plan to double our headcount. So we're about 300 people today. We know we have to do a lot of hiring to support the growth on both the [00:45:00] housing side of our business as well as the healthcare side of the business. And we have a lot of products that we wanna build. Um, that's, uh, what are three objectives you aim to achieve?
+
+
+[00:45:10] Um, next major milestone reaching nine figure revenue contracts, um, nine figure revenue contracts, big [00:45:20] contracts. Um,[00:45:30] 
+
+
+um, we, um, [00:45:40] we have a lot of products that we wanna build. We're creating this, we're chasing this vision of having a fully automated or [00:45:50] fully autonomous building, and we want to get rid of all the administrative work that happens today in both of the industries that we serve. We've passed [00:46:00] 100 million a RR earlier this year.
+
+
+We passed 100 million annual recurring revenue earlier this year. Um, I dunno. [00:46:10] Go public. I don't really wanna talk about going public. Okay.
+
+
+[00:46:20] Okay. Um, all right. What are we talking about next? 
+
+
+Speaker 3: Okay, so I think we just can move on to the [00:46:30] 3.3. You mentioned maintain triple digit growth rates, watch your sacred to sustain, sustain hybrid progress. Mm-hmm. 
+
+
+Speaker 2: Yeah, I think, [00:46:40] um, maintaining growth for us has really been building new products. So we ship four to six major products a year, and I'd say most people think [00:46:50] about in the industries that we serve, think about us as, um, a really, uh, a really quick moving with a company with really high product velocity.
+
+
+[00:47:00] That's a big reason why we, we grew so quickly. Um, another big reason is that we've just hired really, really well. I think I've spent most of my time focused on getting [00:47:10] the best and most talented people I can possibly get. I interviewed personally interviewed the first 400 hires that we made, um, and it's [00:47:20] been incredibly important to have really strong people because when you're moving so fast and you have so many different products, it turns out that a lot of people have to [00:47:30] make decisions themselves.
+
+
+And you need to have really smart and really hardworking people that are going to move the company forward. Um, because if you're moving quickly, the CEO cannot [00:47:40] make all the decisions for you. The CTO cannot make all of the tech decisions for you. You need every single person to be really.[00:47:50] [00:48:00] [00:48:10] 
+
+
+Speaker: Yeah, a big [00:48:20] part 
+
+
+Speaker 2: of maintaining a culture is, um, has been personally interviewing people myself, that the farther I think you a founder gets from knowing who they're [00:48:30] hiring, the harder it is to maintain the culture. Um, I learned that from Airbnb. I think they interviewed the first several hundred hires that they made as well, and [00:48:40] I, it was just obvious every time I tried to stop interviewing people to save some time.
+
+
+Everyone, all of the hiring managers or [00:48:50] everyone in the, in the company, um, just, just wanted me to interview them, um, just to make sure that they were gonna be a good fit here. Um, [00:49:00] yeah, I think, I think the culture here is, um, the culture here is filled with a lot of people who just really like solving hard problems.
+
+
+And I think once you [00:49:10] get to the size of our company and you're surrounded by so many people that have this type of culture, there's this kind of intense [00:49:20] gravity that when you bring in new people, they feel that energy and um, they really wanna meet that bar. So I think our culture has actually not gotten weaker.
+
+
+I think that's the, that's [00:49:30] the thing that people sort of expect to happen as you grow to a, a company of 300 as we are now. But I think because we have this [00:49:40] kind of critical mass of people that are so. 'cause we have this critical mass of people that are such strong culture [00:49:50] fits. It has actually made our culture a lot stronger as we've grown to 
+
+
+Speaker: be bigger,[00:50:00] [00:50:10] 
+
+
+a lot of 
+
+
+Speaker 2: [00:50:20] our resources are going to building new products. So we have, uh, we have a ton of different products that we wanna build on the housing side. We're getting closer and closer [00:50:30] to the vision of that we have for an autonomous building or a building that can be run, um, with software versus having everything done.
+
+
+Um, all the [00:50:40] administrative work done by humans, which is. Quite tedious and, um, quite inefficient. And so we have a bunch of features and a bunch of products that we need to build [00:50:50] for, for housing. In addition, a large portion of our investment is going to be in, in addition, alar. In addition, a large portion of this round is going to [00:51:00] be invested into building out our healthcare side.
+
+
+So we have had a tremendous amount of traction in the space, but we know that [00:51:10] there are many specialties that need our products. We need to continue to build and customize our products for, um, special, [00:51:20] uh, I mean it's gonna be short. We're, um, we're investing really, really heavily into going into healthcare pretty aggressively.
+
+
+So we've had tremendous amount of [00:51:30] traction in the specialties that we serve, which are women's health, ophthalmology, orthopedics, and dermatology. But there are a lot more specialties that we wanna [00:51:40] serve, which means we have a lot of products that we need 
+
+
+Speaker: to build.[00:51:50] [00:52:00] 
+
+
+Yeah, I think the difference 
+
+
+Speaker 2: between using an Ag Agentic AI tool and using a [00:52:10] regular sort of traditional software tool is, uh, a traditional software tool is used to augment some of the workflows that you're already doing. But with [00:52:20] AI, you can just get rid of huge chunks of work that you don't wanna do.
+
+
+I mean, for our customers, essentially it's, Hey, you never have to answer emails [00:52:30] again. You don't have to answer your phone calls. Um, that's pretty meaningful for their day-to-day work. Um, yeah, I think it's, I think using our [00:52:40] software is. Kind of the same feeling you get as when you hire someone really great, right?
+
+
+It takes so much off your plate and you can delegate so much of your [00:52:50] work versus buying sort of a traditional software tool that might make it faster or a little bit easier to do parts of your job. This is, uh, this is an entire [00:53:00] person or potentially a entire team of people that, that you can now rely on to do it really consistently and with really high quality.[00:53:10] [00:53:20] [00:53:30] [00:53:40] 
+
+
+Speaker: For banks, 
+
+
+Speaker 2: right before you used to have to go and stand in [00:53:50] line at a bank, talk to a bank teller. Every time you wanted to withdraw money or deposit a check, you used to have to stand in line, speak to a bank teller [00:54:00] every single time that you wanted to withdraw money or deposit checks, and that's.
+
+
+Obviously inefficient, obviously really inconvenient. [00:54:10] Um, even if that bank teller was a lovely, wonderful person, um, that's just not how people want to be able to access their money, right? They want the most convenient way [00:54:20] possible, which is why everything happens now on your, on an app or you go to an ATM if you need cash, and there are lots of benefits like 24 7 [00:54:30] availability.
+
+
+So that's kind of a direct analogy to things that we do today. So why, why is it today that every time you need something from your [00:54:40] property manager or from your leasing agent that it takes multiple days or maybe you never hear back from them? Um, it should be self-service. Way more things [00:54:50] in this industry should be self-service, and that's where you create a much better customer experience, but more importantly, that's where you start reducing [00:55:00] the costs associated.
+
+
+This is really important because the inefficiencies in these operations. To manage a property or to manage a healthcare practice, those inefficiencies are [00:55:10] absorbed by somebody, right? And that's us as consumers ultimately, that we're the ones paying for everything that is being done in, um, in a manual way [00:55:20] or, um, is, is done by people when it really should be something that's an automated 
+
+
+Speaker: workflow.[00:55:30] [00:55:40] [00:55:50] [00:56:00] [00:56:10] [00:56:20] [00:56:30] [00:56:40] 
+
+
+Speaker 2: Yeah. Is much more than a chat bot. So you can think a chat bot might be something that you interact with. Maybe you say, Hey, I have a, a maintenance issue with my building. And [00:56:50] the chat bot will say, great, thanks. I'll, I'll submit that work order for you. Our products go much, much deeper than that. So if you had an issue with your maintenance, uh, with [00:57:00] maintenance, then we would help triage that problem.
+
+
+We might send that to, we might escalate that as an emergency. We might decide that it's something that [00:57:10] you can handle yourself. We might, um, order additional parts for you through[00:57:20] 
+
+
+our, our products are a whole suite of products. They're not just AI that's communicating with residents, but it's actually making a bunch of decisions. [00:57:30] It's doing things like, um, keeping, um, uh, keeping all the paperwork up to date. Is it generating. Um, it could [00:57:40] be, um, it could be doing a lot of work that's administrative as well.
+
+
+So maybe it's, uh, managing all of the renewals for everybody that is in a [00:57:50] property. It is keeping all the paperwork updated. It might be sending you a signature for your lease. It could be Elise does a lot [00:58:00] more than just communicate or chat with a resident. It is actually helping the resident get the services from the building as well as [00:58:10] making a lot of decisions for the building to help optimize its own performance.
+
+
+So one thing that's a good example is Elise [00:58:20] actually integrates with, vertically, integrates with the building through things like smart locks or lock boxes. So it can give [00:58:30] access to a resident, whether they're wanna tour an apartment or whether. Um, they got locked out of their apartment, or it might give access to a maintenance person if [00:58:40] a, uh, if there's an issue with an apartment and, um, the AI is actually making a decision on what is the best next step.[00:58:50] [00:59:00] [00:59:10] [00:59:20] [00:59:30] 
+
+
+Speaker: Oise 
+
+
+Speaker 2: AI is used by about 10% of the US market today, and over two thirds of [00:59:40] the property operators in the country.
+
+
+Lease AI is used by over 10% of [00:59:50] the US apartments today, and over two thirds of the largest property management companies use 
+
+
+Speaker: our software.[01:00:00] [01:00:10] 
+
+
+Speaker 2: What's our secret sauce? We worked with some really high [01:00:20] profile customers at the beginning, and I think everyone in the industry was watching What are these customers doing? What type of technology are they rolling out? And that created. That put us on a map. It [01:00:30] really created a lot of momentum and a lot of eyes that were, uh, looking at AI to solve problems that were these sort of perennial problems that had always existed.
+
+
+They always [01:00:40] had labor challenges. They were very high turnover roles. Um, COVID accelerated that, those challenges, uh, especially. So I think [01:00:50] kind of being able to solve labor problems is something that every business deals with and, um, we, we just happen to be kind of early in, in doing that in the property 
+
+
+Speaker: management space.[01:01:00] 
+
+
+I think a lot of our growth 
+
+
+Speaker 2: has come from building a lot of products, no [01:01:10] matter what customer we're pitching to in the housing industry, we have a product because we have so many different products, we have a product that solves the [01:01:20] problem that they are thinking about today. So whether that's something about their leasing process, whether it's something about their maintenance process or um, their payments, [01:01:30] we have a solution for them.
+
+
+And that's really just come from having really high product velocity as a company. If you solve enough problems in the industry, everyone is gonna pay attention to 
+
+
+Speaker: you.[01:01:40] [01:01:50] 
+
+
+I think 
+
+
+Speaker 2: AI is a kind of a no brainer when you reach out to your property manager, you want a [01:02:00] quick response, right? Um, there are just things that AI can. Achieve that no human can achieve. Right? Being available 24 7, [01:02:10] giving immediate responses with no delay and always being professional, never being sick.
+
+
+All of those things that you just get from automation, I think makes it a no brainer. [01:02:20] Of course, the experience is gonna be better. Of course, the outcomes for our customers are, um, going to outperform. Um, it's just a matter of are you [01:02:30] building a high enough quality product that actually creates the experience that a user 
+
+
+Speaker: wants.[01:02:40] [01:02:50] 
+
+
+It was a 
+
+
+Speaker 2: combination of a few things. One is, um, if you're automating, in our case, our AI automated about 90% [01:03:00] of all the work that those team members were doing, and if you're automating that, then you can obviously hire fewer people. The challenge with the housing industry is that [01:03:10] a lot of businesses run kind of a separate business at every single building.
+
+
+So even if they have a lot of 
+
+
+Speaker: properties,[01:03:20] 
+
+
+every 
+
+
+Speaker 2: building has its own staff doing all of these different tasks on site. So it ends up [01:03:30] being quite fragmented and quite inefficient with. MG Properties, for example, they were able to see what are the tasks that every building [01:03:40] is doing and how can I actually take that task, move it to a centralized location, and then scale that to serve multiple different properties.
+
+
+And [01:03:50] in the housing industry, we call this centralization and it's really difficult to centralize unless you're getting a ton of efficiencies because AI is automating most of those [01:04:00] processes. 
+
+
+Speaker: For you,
+
+
+what, 
+
+
+Speaker 2: uh, what [01:04:10] differentiates us from competitors? Um, I really try not to think about competitors very much, to be honest. I think that you steer where you stare. So if you're thinking about your [01:04:20] competitors all the time, you end up. Copying their products and you don't know if those are good products, you don't know if they're successful.
+
+
+Um, many products are not successful. So, um, I [01:04:30] think the most important thing is to, is to look at your customers. Talk to your customers. So maybe that's, um, you know, maybe that's silly, but we are [01:04:40] working on building great products that don't exist today, not looking at competitor products that already exist and seeing how we can do those 
+
+
+Speaker: too.[01:04:50] [01:05:00] [01:05:10] 
+
+
+Speaker 2: We expanded into healthcare in about 2023, and we ma we chose to [01:05:20] expand because we were one of the first application layer AI companies in the world. Uh, we got really lucky on being early in when conversational AI [01:05:30] was really taking off and we looked around and, and saw many different industries, had the same problems that we were solving in the housing industry at scale, and [01:05:40] healthcare was a big one.
+
+
+And of course, healthcare fit. The mission of our company, which is to build technology that helps advance industries that serve fundamental human needs. So, [01:05:50] you know, is it ever the right time to start another company inside of your company? Probably not, but um, but it was a big bet that we [01:06:00] took and, um, I think companies don't take enough bets, quite honestly.
+
+
+I don't think companies are as ambitious as they should be. It's, we weren't [01:06:10] waiting for housing to be finished. Um, we housing will never be finished. We have a hundred more products in mind that need to be built, that [01:06:20] are really done inefficiently today. And healthcare has their set of a hundred different problems that we need to solve.
+
+
+Um, [01:06:30] that's okay.
+
+
+I think there's no good time to start another company. Um. [01:06:40] Um, I would say, um, there's no perfect time. I think for us to have started, uh, a company or startup within a startup [01:06:50] like we did with healthcare. We couldn't have waited till housing was finished, um, because it will never be finished. Um, but we, we were, we just saw [01:07:00] that there was a massive problem and, um, it's all really all about the team that you build.
+
+
+So, um, I think a lot of times people ask us, are [01:07:10] you, you know, when you moved into healthcare, was that a distraction for you? Um, how do you not when you moved into healthcare, how do you not be [01:07:20] distracted by it? Um, but it's all about the team that you have. You know, Elon Musk runs six or more multi-billion dollar companies, [01:07:30] and I am quite sure that it's because he has really strong teams leading 
+
+
+Speaker: each of those.[01:07:40] 
+
+
+[01:07:50] There was really no pushback 
+
+
+Speaker 2: from the people working on our housing products when we expanded into healthcare. I think everyone here, every single person here, [01:08:00] understands what we're trying to achieve and understands that our mission is to make as big of an impact as possible. And, um, it fit that bill.
+
+
+We are working on decreasing [01:08:10] the cost of living, and our two largest costs of living for most people are their housing, um, and their healthcare. A lot of people go into debt because [01:08:20] of healthcare expenses and um, a lot of people, let's say a lot of people have really high healthcare expenses, and [01:08:30] that's driven by a lot of the inefficiencies.
+
+
+There was really no pushback. I think people saw the corollaries pretty clearly. And uh, it's very obvious when you try both of our [01:08:40] products that they're solving the same problem.[01:08:50] 
+
+
+Speaker: We were 
+
+
+Speaker 2: definitely able to go to market very quickly with healthcare because we had already built a large portion of the product for [01:09:00] our housing side. So the technology is built on the same platform we had already invested in it for, for several years. And then it was about how do we learn about the customer, [01:09:10] the new customer base, and how do we build a product that really solves their problems?
+
+
+So, um, actually the bottleneck was not building. It was, uh, it was selling. And [01:09:20] so once we got that right, the motion to just build a great product or ship a great product to market was quite quick.[01:09:30] 
+
+
+Speaker: Both industries we 
+
+
+Speaker 2: operate in are [01:09:40] really heavily regulated. I think it, um, it ends up being a good competitive moat for us. Um, it also makes it hard and makes it less competitive overall because people are [01:09:50] really afraid of regulation. But the reality is regulation is a part of life. And if you're afraid of, uh, if you're afraid of going after highly regulated [01:10:00] industries, there, you're gonna be missing out on a lot of the, the most important problems that we have to solve.
+
+
+Both industries that we work in are heavily regulated [01:10:10] industries, and that, uh, has actually dissuaded a lot of people from entering them, which is why, which is one of the reasons why they've been heavily underserved by technology. [01:10:20] But that gives us a really good opportunity to actually build, uh, build a great company.
+
+
+The number one thing is of course, you have to take on that burden of, [01:10:30] uh, of making sure that you're abiding by all the regulations. Um, um, what, what unexpected challenges arose from operating and are heavily regulated? 
+
+
+Speaker: I 
+
+
+Speaker 2: dunno, they [01:10:40] weren't 
+
+
+Speaker: unexpected.[01:10:50] 
+
+
+When we went 
+
+
+Speaker 2: into healthcare, we were, I think we were really prepared for the heavy regulation. Housing was already a pretty heavy, is [01:11:00] is a pretty heavy regulated industry. And so we had the team, um, we had a lot of the experience that we needed and, um, we were able to solve those [01:11:10] problems early on. We, you don't solve regulation, you just deal with, you just deal with 
+
+
+regulation.[01:11:20] [01:11:30] 
+
+
+Speaker: [01:11:40] I'm 
+
+
+Speaker 2: sure I've received skepticism because of my age, particularly when we were starting a company, when we were, um, straight out of college. Um, but I don't know if a lot of [01:11:50] people have said it to my face. I think they, um, certainly customers have, but from employees, uh, I don't think anyone said it to my face.
+
+
+We have many people in [01:12:00] our company that are, um, that are very young, um, you know, in their early twenties running some of the most important products or projects that we have. Uh, to solve it. [01:12:10] And, um, it's all about merit, I think, whether it's me, whether it's somebody else who's a leader in our company. I think people respect when people solve problems, um, and they [01:12:20] look past all the other optics, like how, how many years of experience they have, what degree they have.
+
+
+I think none of those matters. It's just are you providing value to the [01:12:30] customer? And how quickly can we, um, how quick, quickly are you helping the company grow? And it's all about merit and, um, yeah. Um.[01:12:40] [01:12:50] [01:13:00] 
+
+
+Speaker: One of the most 
+
+
+Speaker 2: painful hiring mistakes I made was probably around 2021 when we were raising our first kind of big round of [01:13:10] funding our series B. And, um, I hired a ton of people who were really good at specialist roles. And the challenge I was trying to solve was that [01:13:20] everyone, everything was so chaotic.
+
+
+Every early stage employee was working on five different things. And um, the constant complaint was, I can't [01:13:30] get anything done well because I keep switching context all the time, which is a very common early stage company problem. Then I decided to solve that [01:13:40] by hiring people who are kind of really good specialists.
+
+
+So if somebody was doing five things now they could pick the one that they really wanted to do, and then you'd hire four other [01:13:50] people that were specialists. The problem is everyone started that I hired, started, um, losing the context so they'd be building really well, but in five different [01:14:00] directions.
+
+
+And the company was not moving forward. We were not building products that our customers cared about. We were not selling products that our customers cared about. And um, [01:14:10] it was just way too early to hire, uh, to hire people because of the context. Um, it was just way too early to make those types of hiring decisions.[01:14:20] 
+
+
+So I went back to hiring and or, so I went back to really valuing generalist hires [01:14:30] and I found that. We could move a lot quicker if a lot of people were able to context switch. Were able to have [01:14:40] success across many different domains, whether that was sales or customer success. They could think technically at the same time as speaking with customers.
+
+
+And those ended up being some [01:14:50] of our most valuable hires for a very long time. Now, as we're a larger company, we have, uh, amazing, incredible specialists, but as an early stage company, it [01:15:00] um, was mo one of the most, um, difficult things culturally for 
+
+
+Speaker: us to deal with.[01:15:10] 
+
+
+Speaker 2: I 
+
+
+Speaker: think 
+
+
+Speaker 2: a tip for being a good generalist is getting a [01:15:20] lot of exposure to a lot of different things. What I say at about, um, what I say at our company is that everyone sells and everyone builds products. So you sell, even if you're an [01:15:30] engineer, even if you're a product person, your job is to make sure the customers understand the value of what we're building.
+
+
+And you have to be able to speak to customers about those, uh, [01:15:40] about what makes our products valuable. And everyone builds products means even if you're a sales person, you are contributing to building our products. So even though [01:15:50] people in IC roles are day-to-day doing that role and building everyone's sort of building the company by having their area of [01:16:00] expertise, they need to be able to reach outside of that, speak to other people in other parts of the company.
+
+
+It's a big reason why we're, why we're in person. And [01:16:10] we've had this sort of hardcore in-office culture for, uh, for, for the entire time. Um, that exposure to other teams or the exposure [01:16:20] to other, uh, projects that people are working on across the organization allows everyone to become a generalist 
+
+
+Speaker: that was.[01:16:30] [01:16:40] 
+
+
+We had a year long 
+
+
+Speaker 2: [01:16:50] moment of being near death. Um, this was 2021. Between 2021 and 
+
+
+Speaker: 2022,[01:17:00] [01:17:10] 
+
+
+we had 
+
+
+Speaker 2: [01:17:20] to rebuild our entire system from the ground up. This was because. As we were trying to build new products, our code base had so much technical [01:17:30] debt that it was. Impossible to add new engineers to work on it. Um, it was impossible to add new features because we'd add a feature and we would break [01:17:40] five other functionalities within the system.
+
+
+And we knew that we could no longer grow if we couldn't build new products and we could no longer build new products unless we kind of, [01:17:50] um, started from scratch. Um, so in 2021 we decided if we wanna have a chance at surviving, we need to sort of in some [01:18:00] way start over. And we took on this massive project of rebuilding our entire system.
+
+
+And uh, it was a really, really difficult time. A lot of [01:18:10] startups try to rebuild and then kind of scratch it and, and give up. Um, it took us, we thought it would take us three months. It took us 12 months 'cause it was such a complex [01:18:20] system. Um, but we came out of it on the other end much better. And I'm pretty sure the company would not be here today if we.
+
+
+Had not made that decision and invested that [01:18:30] year to make sure we could build products. Um, but it is again, uh, it is again, one of the biggest reasons that we have the really high product velocity that we have today. It's because [01:18:40] we knew AI was moving so quickly and if our system didn't match the pace of that, then we would become obsolete very, very 
+
+
+Speaker: quickly.[01:18:50] 
+
+
+We decided 
+
+
+Speaker 2: that we needed to [01:19:00] rebuild the system because it was just this one giant monolith of code. And as we were adding new engineers to our [01:19:10] team that we wanted to build new products or build new features, everyone was working on the same code base. And one person would ship, uh, [01:19:20] something and it would break.
+
+
+Five other things, five other people were working on. And so there was no progress. We were not moving forward. So we decided that we would [01:19:30] stop, we would rebuild the system, redesign it so that it would support our growth in the future, and it would support ai, [01:19:40] which was moving very, very quickly and is moving quickly.
+
+
+Um, because we wanted to make sure that our system would not cause us to become obsolete. And, um, [01:19:50] we rebuilt this, it enabled us one, it was incredibly painful. It was a year long project. We, in the meantime, it was very hard to hire anybody to work on [01:20:00] that because we needed the core team who really understood every part of the system to tear it apart and put it back together.
+
+
+It was really hard to help our [01:20:10] customers because, uh, we couldn't build new features at the same time until that rebuild was done. And it was, um, you know, it, it made it a very difficult [01:20:20] place for. Um, our team to work because it didn't, we didn't feel like we had this sense of progress that we had always had in the past.
+
+
+Um, but we pushed hard and we got through it [01:20:30] and we're, we're definitely better off today. It was also because of the system rebuild. That's when we started thinking for the first time about going into healthcare. We, um, [01:20:40] we, as we were designing it, we realized this system was not meant to just support one kind of conversation.
+
+
+It was, it was, it was, [01:20:50] it could support, it was pretty agnostic to, um, other conversations or other industries. And so that's actually what triggered us to start thinking about what other opportunities did we [01:21:00] have to make impact in this world.
+
+
+Speaker: I should go back to [01:21:10] 2017. 
+
+
+Speaker 3: What are top things you do differently? 
+
+
+Speaker 2: I dunno this answer. Um, 2017. [01:21:20] 2017, um,
+
+
+if I went back to 2017, [01:21:30] probably I would've raised funding a little bit earlier. Quite honestly, when we started we were like, we're gonna bootstrap this company. And, um, it's just not, there are some companies that can be bootstrapped [01:21:40] and I think this is just not one of them. Um, you know, several hundred million dollars of funding later.
+
+
+It, it's pretty obvious that, um, in order to build such a complex product, the [01:21:50] reality is that you need to take on, um, some investment in order to accelerate that growth. So, um, we didn't, we didn't raise funding for the first two and a half years of the company, [01:22:00] and I think I would've raised it a little bit earlier than that.
+
+
+Um.[01:22:10] [01:22:20] [01:22:30] [01:22:40] [01:22:50] [01:23:00] [01:23:10] [01:23:20] [01:23:30] 
+
+
+Speaker: In 
+
+
+Speaker 2: 2019, when [01:23:40] we launched with our first major customer, our first national customer, Tony and I were monitoring the system 24 7 because we knew this was our shot. [01:23:50] We had a large customer on everything had to go right. So we were monitoring our system 24 7. And what that meant was he, uh, watched the [01:24:00] system, every single message that was going through our ai.
+
+
+From, uh, till 4:00 AM in the morning and I would wake up and take the, and take the shift [01:24:10] from 4:00 AM to the rest of the day. At the same time, we were, uh, we were making sure that we were, we kept building new products. Um, at the same time, of course, we were trying [01:24:20] to build new features and new products for these, this customer that wanted us to expand our product set.
+
+
+We were also trying to support and keep. [01:24:30] Um, keep our existing customers happy on our platform. At the same time, we were also selling and trying to get new customers to grow, uh, to grow the company. And it was a really stressful [01:24:40] time, but really the pure sleep deprivation, the 24 hour shifts were, um, were, were really hard and really hard physically what it [01:24:50] ended up ended up happening.
+
+
+What ended up happening was, um, a couple months into doing this, I had, uh, I had a, a massive seizure actually, and, and didn't [01:25:00] ended up in the, in the hospital. So, um, this was a pretty big wake up call. I think for us. Um, what we were doing was not sustainable, obviously. Um, but, [01:25:10] uh, we, we ended up scaling and, um, or this was a pretty big wake up call for us.
+
+
+I, so I had the seizure. [01:25:20] I, it was, it was quite dramatic. I lost my vision. I couldn't remember. Um, who my co-founder was, um, I could barely remember my own name. [01:25:30] Um, and I think from that point on we decided, hey, we have to think differently about how we are solving this problem. Yes, we have to keep the quality up of our [01:25:40] product, but maybe we can solve that in a different way.
+
+
+And, um, I actually think in the long term it was a good thing that we had it. Uh, I actually think [01:25:50] in the long term it was a good thing that I had this seizure. Um, but of course in the moment it was, uh, it was pretty 
+
+
+Speaker: traumatic.[01:26:00] [01:26:10] 
+
+
+I think, 
+
+
+Speaker 2: I actually think that [01:26:20] most of the next unicorns will be products that are built in unsexy industries. Um, the reason is that a lot of the things that are happening in the [01:26:30] world today are these. I think a lot of the most important problems that are left to solve in the world are what are problems that are [01:26:40] typically deemed unsexy.
+
+
+And, um, I think the more people focus on them, the more likely they are actually to become a unicorn company. [01:26:50] The, a lot of the things that are, um, exciting today, um, are exci are very obvious and, um, very powerful companies like [01:27:00] Open AI and Anthropic are gonna find those problems really exciting as well.
+
+
+And so, if you're a startup founder just getting started today, [01:27:10] probably the more, um, uh, the, the industries that are the least sexy are gonna be the ones that are most likely for you to be successful in.[01:27:20] 
+
+
+Why do entrepreneurs only chase unsexy opportunities? I think because that's natural. Um, [01:27:30] I think that people really like shiny objects. Um, if it sounds good, it feels good. It seemed it's exciting to your friends. You get [01:27:40] validation that, that sounds like a good problem to solve. Um, but your friends, your family.
+
+
+They're not your customers and they're not actually the ones to tell you if what you're solving is important. I think [01:27:50] entrepreneurs think problems are sexy, that they're familiar with, and, um, oftentimes entrepreneurs are, are tech people, and so they [01:28:00] are looking, they're all sort of looking at the same problems that they've been exposed to.
+
+
+And that kind of hype creates this hype cycle of what are problems [01:28:10] that are worth solving. But a lot of the great companies are solving problems that no one thought was, you know, might seem sexy today, but we're not that before. Right? [01:28:20] Um, rippling is an amazing company doing extraordinarily well building, uh, HR software.
+
+
+Um, ServiceTitan is a tremendously successful company [01:28:30] serving, uh, a lot of SMB markets that, um, uh, and, and trade, uh, trades. Um, I'm [01:28:40] not sure why entrepreneurs chase only opportunities that. Seem sexy. I think if they seem sexy, that means people are already [01:28:50] very excited about them and they're already trying to solve them.
+
+
+All of the, I think, greatest companies, um, have been problems that were [01:29:00] overlooked. And so, um, they of course became, uh, these, these companies made them sexy because they were already showing how quickly they could grow, how quickly they can solve problems in those [01:29:10] industry. Rippling is an amazing company, um, but is building software in the HR space, which I don't think was, um, was tremendously exciting before people started [01:29:20] seeing how quickly they were able to grow.
+
+
+Um, similarly for, for companies like ServiceTitan, um, they weren't tackling the most, um, the, the [01:29:30] problems that most people in tech were thinking about. Um, but they had an, uh, amazing journey and were able to, uh, to grow because no one was looking [01:29:40] at that problem that they recognized very early. 
+
+
+Speaker: Always nice.
+
+
+It's enough enough.[01:29:50] [01:30:00] [01:30:10] [01:30:20] 
+
+
+My advice to 
+
+
+Speaker 2: founders is to start with people that you care about. A lot of times I think people say you should start with the problem, [01:30:30] but I think you go even further. You, you have to start with a group of people that you care about and then look for what their problems are. And I think that's very important because [01:30:40] if you end up.
+
+
+Finding a problem, but you don't really care how it's impacting the people. At the end of the day. It doesn't get you through the a hundred hour work [01:30:50] weeks. It doesn't get you through the most painful times where your company is dying and, uh, you're almost out of money. And, [01:31:00] but, but what does is at the end of what you're building, there are people that are really important to you that are benefiting from what your vision will be in the [01:31:10] future.
+
+
+Maybe that's people who have similar experiences as you. Maybe that's, um, for us, that was humanity as a whole and how could we actually [01:31:20] impact as many people as possible, and that is why we decided on solving problems at the scale of fundamental human needs. But if you start [01:31:30] with people, I think that's what motivates you to keep going.
+
+
+And then once you understand who. You're solving problems for, get as close to those problems as you possibly [01:31:40] can. Even though it might seem insane to do what I did when we started and took a job, working as an admin at a real estate firm. That [01:31:50] is the best way. If you just dive right in and you get as close to possible, um, as close as possible.
+
+
+When you dive right in and get as [01:32:00] close as possible to the problem that you're solving, that's where you actually can understand the nuance that you need to in order to build something 
+
+
+Speaker: really great.[01:32:10] [01:32:20] [01:32:30] 
+
+
+I had 
+
+
+Speaker 2: this moment a couple years ago where I, it just [01:32:40] dawned on me that what we created will never die. Um, the, we were the first AI company in the housing industry [01:32:50] and since then there's been more competitors that have come up and have tried to replicate or, or build similar products to us. And so, as I think about it was, [01:33:00] and as I thought about it, and in the worst case, what happens if Elise dies?
+
+
+Actually the [01:33:10] innovation that we brought to the industry would survive through our competitors. So competitors sort of created some redundancy in the value that we have [01:33:20] brought to the industry. And when that moment, when that understanding dawned on me, it was actually really exciting because it was the first time I understood [01:33:30] that what we've built will last forever.
+
+
+Um, so if Elise AI disappeared and, uh, so if Elise AI [01:33:40] disappeared tomorrow, I think something I would be really proud about is that AI has completely transformed the housing industry forever. [01:33:50] I know, I realized, I realized. I think it was a couple years ago that, that even if our company were to go away, [01:34:00] because there have been more competitors, um, because there have been more competitors that have tried to replicate or build similar [01:34:10] products to us over the years as they've seen, as they've seen us have success.
+
+
+That's actually a really good thing for us. It's a really good thing because that means there's [01:34:20] redundancy in the industry. So if anything were to, God forbid happened to us, we've sort of left a legacy. We've sort of changed the industry in a way that, um, that has shown people the [01:34:30] value and it means that they can never go back to the ways that they were operating before.
+
+
+And I think there's something satisfying in being a, uh, being a founder of a company 
+
+
+Speaker: that can, can say that.[01:34:40] [01:34:50] 
+
+
+Our 
+
+
+Speaker 2: short-term vision is to allow our customers to run [01:35:00] a, an autonomous building or a building where all the workflows and all the operations can be, um, can be done automatically and can be self-serviced. The long-term [01:35:10] vision for the company is to make the long-term vision for the housing side of our business is to make the [01:35:20] industry really attractive for investors to put more capital into the housing market.
+
+
+And an important way that we do that is to make [01:35:30] housing companies look more like software companies. So if you automate things, it makes them much more scalable. It makes them have. Much better operating margins, [01:35:40] and that makes them much more attractive to investors. I think capital goes where it feels most welcomed and is treated most [01:35:50] favorably.
+
+
+And we want capital to be, and we want capital to be put in the most fundamental and important parts of society that serve [01:36:00] us as humans. And so long term, everything that we try to do in housing and healthcare is to make these industries, um, [01:36:10] much more financially stable and much more attractive so that more people, um, we can have more housing providers and we can have more healthcare providers.
+
+
+And that 
+
+
+Speaker: serves all of us.[01:36:20] [01:36:30] [01:36:40] [01:36:50] [01:37:00] [01:37:10] [01:37:20] 
+
+
+With this round 
+
+
+Speaker 2: of funding, we'll be investing heavily into our healthcare [01:37:30] segment. So building new products like handling care treatment, like handling treatment plans for patients and being able to [01:37:40] help them, um, like handling care plans for patients and be able to help them navigate and manage their treatment with this funding [01:37:50] round.
+
+
+On the housing side, we're investing very heavily right now in, uh, with healthcare, or sorry, with housing. With housing. It's very hard. We're running two [01:38:00] companies, guys. I have to have a cohesive, real world impact. Um, with housing, we're working on building a lot in the maintenance space, [01:38:10] so making sure that we're not just.
+
+
+Hmm. So, uh, so making sure that the buildings that you're living in are really quality [01:38:20] and servicing you as a resident. Maintenance.
+
+
+Maintenance. What else is important[01:38:30] 
+
+
+for our housing? For our housing products? What we're really interested, or for our housing [01:38:40] products, what we're really investing in is in maintenance and making sure that the quality of the housing that our customers provide is just as good as the service they [01:38:50] provide. 
+
+
+Speaker: Is that fine? All.[01:39:00] [01:39:10] [01:39:20] [01:39:30] [01:39:40] [01:39:50] [01:40:00] [01:40:10] [01:40:20] [01:40:30] [01:40:40] 
+
+
+Elise AI is a 
+
+
+Speaker 2: technology company that uses [01:40:50] AI to drive real world impact. We started with two of our most critical industries. That serve over 40% of the US GDP, which are the [01:41:00] housing and healthcare industries. These industries operate with razor thin margins because they are overburdened with administrative burden, or these industries run [01:41:10] on razor thin margins because they're overburdened with administrative inefficiencies, um, outdated processes.
+
+
+And we are using AI to fix all of [01:41:20] this.
+
+
+Okay? What problems we're solving. [01:41:30] Um, we are automating all the administrative functions that happen at a property. So thinking about, um, answering, uh, leasing inquiries, [01:41:40] handling the process, helping people to apply. Until when they move into a property, helping them with maintenance requests or to pay their rent or to handle their lease [01:41:50] renewal.
+
+
+Everything throughout a renter's journey of living in an apartment can be handled by our AI versus being able, um, versus can be [01:42:00] everything that happens while a renter is living in a property can be handled with our ai. And this makes the processes much more efficient and much less [01:42:10] expensive to operate.[01:42:20] [01:42:30] 
+
+
+Our company has been doubling consistently year over year for the last four years. And [01:42:40] we passed 100 million annual recurring revenue early this year. Um, let me look up some customer names, the ones that 
+
+
+Speaker: I have permission to say,[01:42:50] [01:43:00] 
+
+
+and then 
+
+
+Speaker 2: they're gonna be mad when I don't say that we work with, some of 'em are gonna be mad when I don't say their names, [01:43:10] but, okay. 
+
+
+Speaker: Fair enough. 
+
+
+Speaker 2: It's you, you can't make anyone happy. Take your time. Okay. We serve, [01:43:20] um, we serve housing providers of all sizes. Some of the notable customers that we work with are Avalon Bay, equity Residential, [01:43:30] Brookfield, Greystar, range Water, RPM Living and Asset Living.
+
+
+Speaker 3: Yeah, that was enough. Okay, 
+
+
+Speaker 2: great.[01:43:40] [01:43:50] [01:44:00] 
+
+
+Yeah, I think if you listen to your customers, you really need to think about their listening to their pain points, not [01:44:10] necessarily listen to exactly what they're telling you that they want. Those are two entirely separate system. Um, those are two entirely separate things. Often, [01:44:20] particularly customers tend to ask for if you ask your customers.
+
+
+It's a classic [01:44:30] problem that if you ask your customers what they want, they'll tell you they want faster horses. Right. And our job as a technology company is to. Is to build a car. It's to build something [01:44:40] that solves the problems that they've always had, but an entirely new way of thinking about it. So you should definitely talk to customers as much as you possibly can.
+
+
+You should not just talk to one [01:44:50] customer, you should talk to as many customers and then start seeing patterns. That's what's really important is, and I seeing a repeated problem or am I, if you end up [01:45:00] listening to every single customer, you'll end up building sort of a Frankenstein system that doesn't solve a big enough problem for everybody.
+
+
+
+
+1st storyline
+#Intro
+[00:00:00] I think that most of the next unicorns will be products that are built in unsexy industries. I can see that other people over the years have have not seen real estate [00:00:10] as a sexy industry, but quite honestly, the least sexy problems to solve are also the least competitive to solve. If you think about it, if everyone is tackling the [00:00:20] same exact problems that are, are really sexy, then you're not really having as big of an impact.
+
+
+The housing industry is hard. Full stop. So is healthcare. And [00:00:30] I think that being really hard is what makes it unsexy to a lot of people. But that means it just turns away the people who are opportunistic, who think that they'll [00:00:40] start a quick company and make a quick buck and be in and out, but that's not where generational companies are built.
+
+
+Generational companies are built when you're building something [00:00:50] that solves a problem that has never been solved before in a massive way, and all of those things take great sacrifice. Solving hard problems. We were the [00:01:00] first AI company in the housing industry. We've sort of changed the industry in a way that that has shown people the value and it means that they can never go back to the ways that they were [00:01:10] operating before.
+
+
+#
+My name is Mina Song and I'm the co-founder and the CEO of Elise ai. Elise AI is a tech company that uses AI to drive real world [00:01:20] impact, and we are starting with two of the most critical industries that make up over 40% of the US GDP, the housing industry and the healthcare industry. Right now, housing and [00:01:30] healthcare are some of the most wasteful industries in terms of outdated processes and administrative burdens that make them very inefficient and run on [00:01:40] razor thin margins.
+
+
+We are solving this by rebuilding these industries from the ground up to make them more efficient, more accessible, and more afford. Elise AI is used by over [00:01:50] 10% of the US apartments today, and over two thirds of the largest property management companies use our software. We raised a $250 million series E [00:02:00] Round, which was led by Andreessen Horowitz and participated in by Bessemer Venture Partners as well as previous investors.
+
+
+Sapphire Ventures in Navitas Capital. Our company has been doubling [00:02:10] consistently year over year for the last four years, and we passed 100 million annual recurring revenue earlier this year.[00:02:20] 
+
+
+#1. 
+I met my co-founder in college, so while I went to [00:02:30] MIT, he actually met him studying abroad at the University of Cambridge in the uk. So we, we both. Come from software engineering backgrounds and felt that we should apply [00:02:40] technology to doing something good in the world. I think it's pretty obvious. Tech is the fastest way to bring massive scale impact in the world.
+
+
+So it was pretty clear that we were [00:02:50] gonna start a technology company someday. When we started Elise, we actually wanted to start understanding the industry that we were operating in and really knew nothing [00:03:00] about the housing industry except that we wanted to do something really, really big in it. And so when I got started, I started working at a real estate firm here in New York [00:03:10] City and that gave me a great opportunity to meet a lot of people.
+
+
+So I took a front desk job where I greeted everyone who came through the door. I picked up all the. [00:03:20] The phone calls and that's how we got the experience and understanding of the industry that helped us decide what we wanted to build. I, uh, actually don't think it's. Extreme [00:03:30] at all. I think it's actually quite insane when people don't try to spend time really understanding a problem before they try to solve it, and then they waste years and years of building [00:03:40] technology that never finds product market fit.
+
+
+So I think this was maybe one of the most obvious, uh, and rational decisions that we've ever made, which is just, just learn. [00:03:50] Learn about the people that you're building for, learn about the problems. Uh, especially because we didn't come from a background in housing at all. It's really important, especially in industries like [00:04:00] housing and healthcare, where so much happens in person.
+
+
+It doesn't all happen in the digital world. So you can't just look at metrics, you can't look at users and how they [00:04:10] interact with your online products. You have to be there to understand how they're interacting with the real world. The problem was pretty obvious. I would say that it wasn't [00:04:20] something that we had an aha moment.
+
+
+It was just something people were constantly complaining about. We just keep tackling those one by one, their frustrations. They couldn't reach a [00:04:30] building. No one's answering their phone calls, no one's answering their emails, and so that's the exact problem that we tried to solve. It wasn't really a question about what the problem was.
+
+
+It was really a question [00:04:40] of is the technology the right technology? To solve the problem and was it the right time? A lot of people didn't know what AI was. A lot of people didn't [00:04:50] believe that AI could answer their emails or work in a professional setting. A lot of people didn't believe that AI would do things better than humans [00:05:00] in any capacity.
+
+
+The challenge with the housing industry is that a lot of businesses run kind of a separate business at every single building. So even if they have a [00:05:10] lot of properties. Every building has its own staff doing all of these different tasks on site. So it ends up being quite fragmented and quite [00:05:20] inefficient.
+
+
+A lot of people thought this market was small because companies that had been built in the industry before never grew to be that large of companies. But I think [00:05:30] we've surpassed a lot of the expectations that people had. Um, and we've broken through ceilings, we've broken barriers that. People expected that we would have.
+
+
+I think housing [00:05:40] was always sexy to us because it's a fundamental human need. It's an incredibly important part of society in our lives. So why wouldn't that be sexy? But I can see [00:05:50] that other people over the years have have not seen real estate as a sexy industry, but. Quite honestly, the least sexy problems to solve are [00:06:00] also the least competitive to solve.
+
+
+Generational companies are built when you're building something that solves a problem that has never been solved before in a massive [00:06:10] way, and all of those things take great sacrifice.
+
+
+#2.
+We sold our first [00:06:20] customer on a slide deck. We didn't have any product whatsoever. We told them we had a product, but once they agreed to sign up, we went to our apartment and. We stayed [00:06:30] there for three weeks straight. I think we honestly left the apartment one single time, and we were just there building the entire platform from scratch.
+
+
+It was very MVP. [00:06:40] We really were just trying to get something that had some infrastructure to deliver the solution. The first 10 customers were really brutal. We were cold calling. We were. [00:06:50] Knocking on doors all across New York City. We got lucky with a few customers who signed on and then we started selling to, to national property management companies.
+
+
+It was pretty crazy [00:07:00] that we ended up signing the first and second largest apartment owners at the time onto our platform for their entire portfolio. And we were just two people [00:07:10] at the time. It was just me and, and Tony, my co-founder. So we had these large customers. Buying into a product that two people had built that was meant to run [00:07:20] their entire real estate portfolio.
+
+
+How we convinced these large customers to work with us. We actually went down to DC where one of them was [00:07:30] located. I remember I went to a meeting, it was me and 12 Execut. So all of their C-level team essentially sitting in a room with just me, I [00:07:40] was in my young twenties. It was three hours of asking me a ton of questions.
+
+
+Can your product do this? Can your product do X? Can your product do Y? And honestly, I think I said [00:07:50] for three hours straight, I just said, no, it doesn't do that. And um, I walked outta that meeting, called my co-founder and said, this was the worst meeting of our lives. Just forget it. That deal is dead. [00:08:00] And then the next day they called me back.
+
+
+The COO called me and said. If we're gonna do this together, we're gonna help you build the product. What got them to trust us was that we were [00:08:10] honest, and I think that was more important. They knew we were early. We were not hiding the fact that we were a tiny startup, but they believed in us because they believed they had a big problem and [00:08:20] that they could work with honest founders to actually solve that.
+
+
+We launched our first New York City customer and we launched on about five properties. And then three [00:08:30] weeks later, the customer said, get this on all of my properties as soon as you possibly can. And I think that was the big moment for us where we're like, okay, we're solving a problem and we're solving a big enough [00:08:40] problem.
+
+
+We were getting paid for it and they wanted us to expand. And when I think about product market fit, what I think about is are the current customers that you've signed up asking for more? [00:08:50] I think when you're working with your first few customers, you have to build a lot of things that they ask for. A lot of people are really afraid of building too much or overfitting for certain customers, but the reality [00:09:00] is that fear will paralyze you.
+
+
+You really just need to build what they ask for, and then as you get customer 2, 3, 4, it'll give you a lot more data points and maybe you've built [00:09:10] something that's not sustainable in the long run. But quite honestly, I believe that your first customers, you will have to. Service that forever. It is a debt that you pay, [00:09:20] but you paid that in order to get where you are in order to do those initial learnings.
+
+
+That's a really common attribute of early adopters is they want a lot of [00:09:30] control. That's why they picked to work with an early stage startup in the first place. But they do want a lot of control and usually they wanna dictate what your roadmap looks like. I'd say don't be [00:09:40] afraid. I. I think you will make mistakes and you will have to kind of always resource your early customers differently than you do your mainstream customers or the [00:09:50] majority of your customers in the long run.
+
+
+But that's a normal process I think in, in building a massive company. My advice to founders is to start with people that you care about. A lot of [00:10:00] times I think people say you should start with the problem, but I think you go even further. You have to start with a group of people that you care about, and then look for what their problems are, and I think that's [00:10:10] very important because if you end up finding a problem, but you don't really care how it's impacting the people at the end of the day.
+
+
+It doesn't get you through the a hundred [00:10:20] hour work weeks. It doesn't get you through the most painful times where your company is dying and you're almost out of money. And, but, but what does is [00:10:30] at the end of what you're building, there are people that are really important to you that are benefiting from what your vision will be in the future.[00:10:40] 
+
+
+#3.
+In our first round of funding, we had literally over 100 rejections. A lot of the rejections were the same. They're like, we're not interested in this market. We only [00:10:50] look at horizontal SaaS, or we only look at enterprise SaaS. And things in the housing industry were not really interesting to them. When we didn't have a lot of funding, [00:11:00] we really just relied on ourselves and our ability to build features that our customers were asking for.
+
+
+I think we were cash constrained, so we didn't have huge engineering team [00:11:10] to build lots of features in parallel, but I think that prioritization helped us build the things that were absolutely the most critical. That had the highest amount of value, not [00:11:20] ancillary features or features that were just providing kind of optics for customers to, to think that they were kind of feature full products.
+
+
+So I think money doesn't [00:11:30] actually solve a lot of problems. I think when people raise a lot of funding early on, they, they think that they're successful and they throw a lot of money at problems and, and think that those problems are [00:11:40] solved. But really what happens is those problems end up. Stewing and growing and, and they're still there.
+
+
+And, um, when you don't have a lot of money, [00:11:50] that's, that's not something that you can kind of fall back on. Your problems when you don't raise a lot of money are very obvious and you know. [00:12:00] If you solve them or if you haven't solved them, when you don't have a lot of money, you have to do everything yourself, and you should talk to all of your customers, handle all of your customer success [00:12:10] support tickets.
+
+
+You should do sales yourself, and that helps you really focus on if you're building a product, you're building exactly what your customers are asking [00:12:20] for and what they're willing to pay for. Well, some of the investors that we have now have actually rejected us and. Not just one, but maybe two or three rounds of funding.
+
+
+[00:12:30] But we kept in touch and they saw how the company has grown and considered and and decided to fund us. Later on. I should have articulated the vision better, [00:12:40] but quite honestly, I didn't spend a ton of my time fundraising, especially in the early days and every single day. We were trying to make sure the company wasn't dying and didn't have a long time to.[00:12:50] 
+
+
+Spend on talking to investors. And so when we went to raise, we were meeting investors for the first time and we had not built up a [00:13:00] long relationship with them. That made it kind of challenging to raise funding, but eventually. As we started building a track record of showing real growth in the company, [00:13:10] investors started to see what was possible.
+
+
+Yeah, it was a really exhausting time, of course, but it doesn't really matter. You have problems. You have customers that need [00:13:20] things. You have to take one step in front of the other just to solve problems over time. There's hard times and there's slightly less hard times, and it just takes [00:13:30] being a cockroach where, um, you can't let anything kill you ever.
+
+
+
+
+#4.
+What's our secret sauce? I think a lot of our [00:13:40] growth has come from building a lot of products. No matter what customer we're pitching to in the housing industry, we have a product that solves the problem that they are thinking about [00:13:50] today. So whether that's something about their leasing process, whether it's something about their maintenance process, we have a solution for them.
+
+
+And that's really just come from having really high product velocity as a company. Maintaining [00:14:00] growth for us has really been. Building new products. So we ship four to six major products a year. I'd say most people in the industries that we serve think about us as a [00:14:10] company with really high product velocity.
+
+
+That's a big reason why we grew so quickly. Another big reason is that we've just hired really, really well. I've spent most of my time focused [00:14:20] on getting the best. And most talented people I can possibly get, I interviewed personally interviewed the first 400 hires that we made. It's been incredibly important to have really strong [00:14:30] people because when you're moving so fast and you have so many different products, it turns out that a lot of people have to make decisions themselves.
+
+
+You need to have really smart and really [00:14:40] hardworking people that are going to move the company forward. Because if you're moving quickly, the CEO cannot make all the decisions for you. The CTO cannot make all of the tech decisions for you. You need [00:14:50] everyone to have really strong business acumen. One of the most.
+
+
+Painful hiring mistakes I made was probably around 2021 when we were raising our first big [00:15:00] round of funding our series B. And um, I hired a ton of people who were really good at specialist roles. And the challenge I was trying to solve was that everyone. [00:15:10] Everything was so chaotic. Every early stage employee was working on five different things, and the constant complaint was, I can't get anything done well [00:15:20] because I keep switching context all the time, which is a very common early stage company problem.
+
+
+And then I decided to solve that by hiring people who are kind of really good. [00:15:30] Specialists. So if somebody was doing five things now they could pick the one that they really wanted to do and then you'd hire four other people that were specialists. The problem is everyone [00:15:40] started that I hired, started losing the context, so they'd be building really well, but in five different directions and the company was not moving forward.
+
+
+We were not building products that [00:15:50] our customers cared about. We were not selling products that our customers cared about, and it was just way too early to make those types of hiring decisions. So I went back to really [00:16:00] valuing generalist hires and I found that we could move a lot quicker if a lot of people.
+
+
+Were able to context switch, we're able [00:16:10] to have success across many different domains, whether that was sales or customer success. They could think technically at the same time as speaking with customers. [00:16:20] And those ended up being some of our most valuable hires for a very long time. Now, as we're a larger company, we have, uh, amazing, incredible specialists, but as an early stage company, [00:16:30] it um, was one, one of the most difficult things culturally for us to deal with.
+#5
+When we launched our product [00:16:40] with our first national customer, Avalon Bay, we needed to keep the service running 24 7, and this was the most important deal of our lives. It had to [00:16:50] go perfectly. So my co-founder and I actually watched every single message that went through the system. It was a 24 hours service, so that meant he stayed up [00:17:00] until 4:00 AM and I woke up at 4:00 AM and watched it.
+
+
+And by the way, at the same time, we were building new features with this customer. We were trying to sell new [00:17:10] customers. We were trying to support. Our existing customers and other portfolios that we had signed on. So that was probably the most physically draining time was very [00:17:20] unnatural. And we ended, I ended up going to the hospital and, and that's kind of when we start, took a step back and we said, okay, let's, uh, let's figure out how to scale this.
+
+
+I still work seven days a week. 90 hour, a hundred [00:17:30] hours is not really sustainable. That's when you're actually starting to eat into sleep and, and deteriorating over time. But 90 hours is sustainable, which just means you wake up, you go to [00:17:40] work, and you go home and you go to sleep and you get proper sleep, and then you just do it again tomorrow, and you do that every single day, and that is how problems get solved.
+
+
+I think that my [00:17:50] suggestion for founders is always. If they're not working seven days a week, they're not growing their company as fast as they should. Their company is going to be beaten by another company that is working, [00:18:00] that their founders are working seven days a week. So that's just extra time and effort that will accelerate the growth of your company.
+
+
+If you wanna be the best company in the world, I think you have to [00:18:10] work the hardest in the world. It's like anything else. If you wanna be the best athlete, you wanna be the best musician you're practicing Nonstop tech startup is exactly the same thing. The culture here is filled with a [00:18:20] lot of people who just really like solving hard problems, and you're surrounded by so many people that have this type of culture.
+
+
+There's this kind of intense. Gravity [00:18:30] that when you bring in new people, they feel that energy and they really wanna meet that bar. So I think our culture has actually not gotten weaker. I think that's the thing that people sort of [00:18:40] expect to happen as you grow to a, a company of 300 as we are now as. 
+
+
+
+
+
+
+#마무리
+I actually think that most of the next unicorns will be [00:18:50] products that are built in unsexy industries.
+
+
+I think a lot of the most important problems that are left to solve in the world are what are problems that are [00:19:00] typically deemed unsexy. And um, I think the more people focus on them, more likely they, they're actually to become a unicorn company. Very powerful. Companies like Open [00:19:10] AI and Anthropic are gonna find those problems really exciting as well.
+
+
+And so if you're a startup founder, just getting started today, probably the more the [00:19:20] industries that are the least sexy are gonna be the ones that are most likely for you to be successful in. I think entrepreneurs think problems are sexy that they're familiar with, but a lot of the great [00:19:30] companies are solving problems that no one thought was.
+
+
+You know, might seem sexy today, but we're not that before, right? Rippling is an amazing company doing extraordinarily [00:19:40] well building HR software. ServiceTitan is a tremendously successful company serving a lot of SMB markets. If they seem sexy, that means [00:19:50] people are already. Very excited about them and they're already trying to solve them, and so long term, everything that we try to do in housing and [00:20:00] healthcare is to make these industries much more financially stable and much more attractive so that we can have more housing providers.
+
+
+And we can have more healthcare providers, and that serves all of us. An [00:20:10] important way that we do that is to make housing companies look more like software companies. So if you automate things, it makes them much more scalable. It makes them have [00:20:20] much better operating margins, and that makes them much more attractive to investors.
+
+
+I think capital goes where it feels most welcomed and [00:20:30] is treated most favorably. And we want capital to be put in the most fundamental and important parts of society that serve us as [00:20:40] [00:20:50] [00:21:00] humans.
+
+
+
+
+final script
+
+
+Tab 4
+1) MIT → 부동산 접수 데스크(프론트) 취업 파트 (전체)
+[00:04:00] I met my co-founder in college, so while I went to MIT, he, I actually met him studying abroad at the University of Cambridge in the uk where he was studying full-time. [00:04:10] I did one year foreign exchange program out there. And, um, met him basically the first day after graduating, we decided to start companies together and, [00:04:20] um, we started Elise shortly after graduating.
+Um, so we, we both come from software engineering backgrounds and felt that we should apply technology [00:04:30] to doing something
+Speaker: good in the world.
+So Elise [00:04:40] was
+Speaker 2: sort of our, our first and only job. We never had sort of quote Real Jobs. Um, but when we started Elise, we [00:04:50] actually wanted to start understanding the industry that we were operating in and really knew nothing about the housing industry except that we wanted to do something really, really [00:05:00] big in it.
+And so when I got started, I started working at a real estate firm here in New York City and that gave me a great opportunity to meet a lot of people. [00:05:10] So I took a front desk job where I greeted everyone who came through the door. I picked up all the, the phone calls and, um, that’s how we got the [00:05:20] experience and understanding of the industry that helped us decide what we wanted
+Speaker: to build.[00:05:30]
+2) “2017 당시 우리가 AI를 외쳐도 아무도 믿지 않았다”에 해당하는 회의·회의감 파트 (전체)
+[00:08:50] it wasn’t really a question about what the problem was. That was pretty obvious. It was really a question of is the technology the right technology to [00:08:50] solve the problem, or was the technology good enough to solve this problem? And was it the right time? A lot of people didn’t know what AI was.[00:09:00]
+A lot of people didn’t believe that AI could answer their emails or work in a professional setting. A lot of people didn’t believe [00:09:10] that AI would do things better than humans in any capacity. And this changed. And this changed. This [00:09:20] obviously has changed a lot over the years >>여긴 없군

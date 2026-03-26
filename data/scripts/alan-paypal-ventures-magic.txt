@@ -1,0 +1,560 @@
+﻿all_Alan_audio
+===
+
+
+[00:00:00] Sure. Uh, thanks for having me. Uh, my name's Alan Dee. I'm a partner at PayPal Ventures. And, uh, as the name suggests, uh, we're [00:00:10] part of PayPal. Uh, we invest, uh, on behalf of PayPal into startups that are building, uh, interesting solutions. We're platforms within [00:00:20] FinTech. Uh, but beyond that, we also invest in categories such as enterprise SaaS, cybersecurity, ai, infrastructure, as well as, uh, Web3.
+
+
+Thank you. [00:00:30] And, uh, take us back to 2022. So, uh, what was the market sentiment like and what made you willing to explore IMAGINABLE labs [00:00:40] when others were stepping back? I think, you know, markets always move in cycles. Uh, and, uh, when, you know, there's, [00:00:50] there's a saying that when the tide is high, it lifts all boats, right?
+
+
+A rising tide lifts all, all, all boats. Uh, but really I think when the tide [00:01:00] recedes, uh, it takes out all the tourists and what you have left, hopefully are the true believers, uh, the real builders who are committed [00:01:10] to the mission, who are committed to building and bringing this solution to the market. Uh, so what we saw early on in 2022 and, and [00:01:20] having known Sean from, from, you know, uh, much further, uh, uh, uh, uh, back, uh, that he was a series [00:01:30] builder.
+
+
+He had built. Companies in the past and exited them. And, uh, he struck me as someone who's really committed to the mission. Uh, that [00:01:40] was a huge reason why despite the market cyclicality and sort of the changing tide, uh, we still, uh, had strong convictions, uh, in the [00:01:50] company. Thank you. Uh, can you describe your first meeting with Sean mj and was there a specific moment or [00:02:00] demonstration that switched, uh, switch your perspective on their visa, on their, on their visa, on their vision?
+
+
+Yeah, so [00:02:10] I, I spend probably the most amount of time with Sean, uh, having known him for, for a long time, uh, during our, uh, days at Docker. Uh, [00:02:20] and, uh, we, you know, sat down together and he kind of walked me through the broader vision of what he was building. It immediately struck a chord with [00:02:30] me in that. Uh, as consumers begin to embrace, uh, everything that is Web3 and, uh, [00:02:40] and I'm not talking about the sort of the speculative side of Web3, but also real solutions, real financial services tools, uh, that can make [00:02:50] all of our financial lives much easier.
+
+
+Uh, his vision really captured what I think was the ultimate identity problem. Uh, what I [00:03:00] mean by that is when you have millions of users, uh, that are trying to move or utilize tools, [00:03:10] uh, make purchases, uh, do certain things within the Web3 or blockchain category, uh. Uh, [00:03:20] if you are a blockchain native, chances are you probably have these wallets set up on meta mask that allows you to connect to various services.
+
+
+[00:03:30] However, if you take sort of at that time, the rest of the 95 or 98% of the population who weren't as familiar with Web3 [00:03:40] weren't as familiar with how to sign up for, for a wallet on meta mask or somewhere else, um, it becomes such a daunting task. Um, and, and, [00:03:50] and of course, having to memorize the key phrases.
+
+
+Uh, you know, they tell you not to write it down somewhere. They not to, they tell you not to take a picture of it. That's exactly what I did, because I [00:04:00] wouldn't be able to memorize it. Uh, so, so that, I think presented a big adoption problem where you have a [00:04:10] much larger market or a much larger segment of the market who probably would benefit from having access to the services.
+
+
+That Web3 has to [00:04:20] offer, but really don't know how to even begin getting access to that. And, and a lot of that comes down to identity. How do you establish a Web3 [00:04:30] identity based on your web two identity or your real world identity, right? The identity that's been KY ced, or as you know, as that it [00:04:40] stands for know your Customer.
+
+
+Meaning that when you sign up for a bank account, when you sign up for, uh, any sort of services in the real world, uh, you have to present your ID prove [00:04:50] you are who you are and, uh, but you, but three, any person can have any number of wallets, an infinite number of wallets, and [00:05:00] be whoever they want to be, right?
+
+
+Or be completely anonymous. Now, in order for finance or commerce within Web3 [00:05:10] to really scale and reach the rest of the population, you have to connect the two worlds. And I think Magic's vision at the time was to allow people [00:05:20] to complete that journey or that migration without having to ask the users to change new, change their behaviors or adopt new behaviors.
+
+
+They [00:05:30] don't have to go to meta mask, sign up for account, memorize the 20 key phrases, and prob probably promptly forget them two minutes later. [00:05:40] All you have to do is use your original login as you would normally log into your email, log into your, your account on, uh, your Amazon, [00:05:50] right? And what they do is they spin up a crypto wallet for you on the backend that allows you to connect naturally, sort of natively to all the Web3 services.[00:06:00] 
+
+
+Again, we talk about what's the easiest adoption or way of adoption. It's when you don't have to do anything differently. Right. And [00:06:10] that's why I think early on they were able to grow the number of users or a number of ident as they managed to the millions, uh, sort of scale that they were able to [00:06:20] achieve at the time.
+
+
+And that, I think spoke volume volumes about how important that user experience design [00:06:30] is for that mass adoption of Web3.
+
+
+I'd like to ask about the market contest when you first [00:06:40] met the magic team. So, uh, at the time in the in invest investment world, so it's especially in tech, what, what area were investor mainly [00:06:50] focused on and what technology trends were do dominating the scene?
+
+
+This is in 2022. [00:07:00] Um, I think 2022, the world was just beginning to. Come back down to Earth to some [00:07:10] extent, uh, from the FinTech, uh, party. Uh, if you recall something called COVID [00:07:20] happened late 2019 through 2021. The world was a different place back then. Uh, in many [00:07:30] countries, many geos people couldn't go outside.
+
+
+Uh, they have to kind of live their life digitally now. And, uh, as, as I think as a [00:07:40] result of that, uh, e-commerce, everything, uh, sort of Web3 just took off. Um, [00:07:50] there was a lot of, I think, startups that were popping up, uh, sort of as a result of that because [00:08:00] now we have to do a lot of things online. Uh, the volume.
+
+
+And all the problems that come with that. [00:08:10] Increased traffic, uh, such as identity fraud, um, how you scale. Uh, all of that led to I think [00:08:20] a lot of venture capital and a lot of founders pouring the efforts and their money into a category that's really transforming the original identity infrastructure. [00:08:30] Uh, how do you KYC someone, how do you catch new emerging types of fraud?
+
+
+Uh, so that was, I think, a big theme [00:08:40] or, or, or the main themes coming out of, uh, that that era. Uh, and, uh, I think magic [00:08:50] at the time, uh, definitely fit that identity theme. Um, but he focused on something that is very different, which is [00:09:00] how do you kind of bridge the two worlds, right? As opposed to solving. A, a, an existing problem or an emerging problem with an existing [00:09:10] category.
+
+
+But just in that category alone, they were actually trying to merge the two worlds together. So I think that was, uh, the main dominant theme at the time. [00:09:20] Uh, but Magic was doing something I think a little bit different as well. Thank you. And to dig a bit deeper, [00:09:30] so, uh, let, magic was trying to make Crypto Wallet as easy to use as an email login.
+
+
+Mm-hmm. So, which is no small technical challenges. [00:09:40] I, I think so, yeah. What made one made you feel they figured out something others had? Um, I think [00:09:50] technically I won't, and this is, this is where I think, you know, uh, as a user. [00:10:00] It's, it's almost kind of funny to say this is, I don't care how the tech works as long as it does and as long as it's easy to use, right.[00:10:10] 
+
+
+But I think having their private key management, having the really end-to-end, uh, flow, uh, is really, really important. Um, so I think [00:10:20] that was from a technical standpoint, uh, what set them apart. Uh, but overall the user experience, uh, how seamless it [00:10:30] was, I think was very much proven by the fact that they were able to get very large customers, you know, enterprise customers to buy in [00:10:40] early on.
+
+
+Um, you know, the Macy's, the Mattels of the world, the Forbes of the world. I don't know if I can mention these by name, but I think they're probably public anyways. [00:10:50] Uh, you know, these are not the most I would say. Technically aggressive [00:11:00] companies, right? They generally, uh, either because they're public companies or deal with a lot of confidential customer information, they tend to be a lot more conservative on the [00:11:10] tech, the privacy, the security side of things.
+
+
+But when they looked at something like magic and decided that, you know what, this is good enough for us, that I [00:11:20] think was a huge point of validation from a tech perspective. Thank you. We're allowed to talk about this customers. Okay, good. [00:11:30] That, that's what I thought. 'cause I think, I think this was our, yeah, I think it was already public, like we mentioned.
+
+
+Yeah. Okay.[00:11:40] 
+
+
+Okay. Then, um, in incorporate pc, so, uh, reading around re recurrence, being strong conviction, so [00:11:50] what was the process like for your read mass? Sorry, can you repeat the question? So when, when you are leading around from a corporate [00:12:00] VC Uhhuh, you need to have strong conviction. I think. So how did you build that conviction in investing?
+
+
+Well, I think whether you're a corporate [00:12:10] VC or a regular vc, uh, you know, having conviction is important regardless. Um, and, and the conviction [00:12:20] comes from a few places, right? One, do you believe that the market is large enough? Uh, they're attacking a big enough problem? Uh, and of [00:12:30] course, having the numbers that magic had early on definitely gave us confidence that this is tapping into a large enough problem.[00:12:40] 
+
+
+Uh, enough people need access to this. And two. Like you'll alluded to earlier, is there a technical differentiation [00:12:50] or a, a product differentiation from the, from the competitors? Uh, and I think the growth that it demonstrated, uh, the early customer [00:13:00] buy-ins that they were able to get showed us that there is a good amount of technical differentiation, right?
+
+
+Like I mentioned, having your own private key management [00:13:10] and getting into some of the more specific features, which I won't bore you with, uh, is, is important, right? The nitty gritty sometimes do win deals, [00:13:20] win customers, uh, just like your UX design really matters, right? The little things, one extra step in terms of authentication will probably result [00:13:30] in a, you know, incremental but insig and, and a significant amount of drop off in conversion rates.
+
+
+Right. So, so I [00:13:40] think paying attention to all of those little details, whether it's the feature design, ux design, all really matter a whole lot. And, uh, I think [00:13:50] ultimately also comes down to the founder or the founders themselves. Um, one, do you really believe they're serious about [00:14:00] building what they're building?
+
+
+Like I mentioned earlier, uh, you know, when the market turns, tourists tend to leave, right? And the true [00:14:10] believers, the true builders will stay because they, they're committed to doing this. And, uh, that sort of grit, that sort of [00:14:20] personal conviction that they demonstrated, uh, was also a critical part in terms of getting me conviction ultimately.
+
+
+And, uh, I think. [00:14:30] That's probably the three biggest things, right? You look at overall size of the opportunity, whether they have the right to play or the right to win. [00:14:40] Uh, but ultimately are the right people, right? You can bet on the right horse, but is it the right jockey? Uh, so I think those three things, three things kind of really converged [00:14:50] on, on magic that made me, uh, invest in them.
+
+
+Yeah. Thank you.
+
+
+[00:15:00] And how did Magic's approach to wallet infrastructure infrastructure align with the broader region of paper ventures for financial, financial [00:15:10] innovation? I would say I, I wouldn't say PayPal Venture's vision. Uh, I would say my personal [00:15:20] belief is that payment should be, if I were to use the word ambient.
+
+
+[00:15:30] Meaning payment should be in the background. It should be something that you don't think about much. And identity should be something that you don't [00:15:40] have to think about much. Meaning you shouldn't be asked to prove who you are and you shouldn't be asked to [00:15:50] complete a payment. Once you have the intent, once you have the desire to make a purchase, to conduct a transaction, the machine should be smart enough [00:16:00] to know that you are you and you want to make that purchase.
+
+
+So everything else should almost happen automatically. Right, and this is kind of getting into [00:16:10] the genic AI, genic shopping topic where we have technologies powered by large language [00:16:20] models that can perform a lot of tasks. They're pretty smart. They begin to understand you as a user, but. When it comes time to pay for things, it still has to [00:16:30] prompt the user for final approval.
+
+
+So I think the longer visions that all of that should go away, human in the loop should not be a thing. It should [00:16:40] be full autonomy as long as you gave machine permission early on, as long as the machine understands you well enough, right? So I think that's a real [00:16:50] long-term vision. And I, there, there are incremental steps in between, right?
+
+
+Like I said, how do you make this user migration [00:17:00] from web two identity to a Web3 identity seamless, right? And I think that's a critical piece of making that overall identity, [00:17:10] overall payment ambient, right? You have to kind of solve that first.
+
+
+Thank you. That, [00:17:20] can you share a moment? Can you share a moment where PayPal Ventures. Uh, improvement made a tangible difference in magic's, uh, trajectory? [00:17:30] Well, I would say beyond being Sean's best friends forever, B-B-B-F-F, um, you know, being an [00:17:40] emotional support, I think introducing the team to, whether it's the key stakeholders [00:17:50] within PayPal, uh, who are looking to leverage what magic had to offer, uh, but also introducing Magic team to [00:18:00] other similar financial institutions that probably face similar problems or have similar, uh, desires.
+
+
+[00:18:10] Uh, you know, that can, that can really use magic solutions, uh, was probably the single biggest area. Uh, we provided help in, [00:18:20] uh, getting the team in front of the right folks. Right. And uh, and it's particularly tricky when you're dealing with financial institutions. These are some of the [00:18:30] most heavily regulated, most conservative, uh, institutions there are.
+
+
+Because naturally when you are dealing with people's money, um, [00:18:40] you want your bank to be safe, right? And, uh, so they're not always the first in terms of leaning into new tech, new emerging [00:18:50] technologies, right? But getting the team a chance to sit in front of, you know, the VPs, that VPs or even the C-level folks as some of these [00:19:00] largest bank banking institutions, uh, to be able to make a case for magic, make a case for why this technology is good, it's beneficial, but [00:19:10] also safe at the same time, I think was a huge help for the team, uh, because it might be challenging otherwise for them to go directly.
+
+
+Uh, but also I [00:19:20] think, you know, getting them to think about. Other areas such as how do you raise money in subsequent, uh, fundraising [00:19:30] rounds? Uh, and how do you bring on the right sort of partners, right? People who bring something more than just money itself. Uh, bring on the additional help [00:19:40] that I mentioned at, at the beginning, um, to help you expand geographically, um, to help you understand local regulatory [00:19:50] nuances, right?
+
+
+So all of those things is something that I think, not just as PayPal Ventures, but all VCs should, should be doing for their companies. [00:20:00] Yeah. As, as an investor. So how do you, how do you build a good relationship with founders and, and in your view, what makes, what makes for a [00:20:10] healthy and strong founder investor relationship?
+
+
+Uh, outside of whining and dining them, uh, which is probably the [00:20:20] easiest way, uh, at least for me. Uh, now, Jo jokes aside, I think, uh, being an investor is, I would, [00:20:30] I, I forgot who told me this. I that, that, as an investor, your job starts after you write the check, not before you write the check, [00:20:40] right? We tend to think, oh, you have to do a lot of work to get conviction, to understand the market, to structure the round, to price the company, [00:20:50] close it, do all these things.
+
+
+That's the easy part. I think the hard part begins after you write a check, after you have some skin in the game. So [00:21:00] I think that goes beyond just building a good relationship. I think it has to do with being a good steward of capital, uh, because the, the money comes [00:21:10] from the LPs, from other, the inve our investors, uh, in this case.
+
+
+And, uh, making sure you are taking care of the [00:21:20] investment, meaning, uh, being diligent about going to the board meetings, uh, being attentive when the company is presenting their latest product [00:21:30] update, financial update, uh, being thoughtful about your questions, your suggestions, and, uh, be able to point out areas where the company needs [00:21:40] improvement and be willing to really roll your sleeves up and get in there, get your hands dirty and help with things as simple as interviewing [00:21:50] candidates.
+
+
+As simple as supporting them at various events, even if it's halfway across the world. Um, being able to, being willing [00:22:00] to, you know, even step in and perform certain functions such as, you know, if it's an early stage company, building their financial model for them, um, and helping [00:22:10] them do mock pitches, uh, as they gear up for a new round of financing.
+
+
+So there are all these things I think an investor needs to do and must do to [00:22:20] really be a value added investor. I think that's the very foundation of a good investor founder relationship. You just have to be helpful and bring [00:22:30] something other than just a check. Thank you. And as, as an investor, what do you consider most important when meeting on founding teams such [00:22:40] as, for example, do you tend to place more weight on the team itself or the market?
+
+
+And what's your perspective on that? [00:22:50] I would say it's everything. It's everything. Uh, it's hard to say, you know, you are gonna have a very good outcome [00:23:00] when it's a great team, but it's a small market or vice versa. It's a, it's a, you know, subpar team, but a very big market. Uh, [00:23:10] what I tend to look for though are, and as cliche as the sound superpowers, what I mean by that is if you were, if you were to look at a [00:23:20] company, uh, or a founder, uh, and break their core skill sets into say an any number of categories, such as let's call, let's call it five categories.
+
+
+[00:23:30] Um, and I look for founders that have sort of superpowers in certain categories, but maybe a little bit shorter or, or, or lacking in [00:23:40] one or two. Hopefully not too many of those, the other categories, uh, because they're going to excel. Because they're an A plus in [00:23:50] three or four out of the five key categories, right?
+
+
+And you as an investor can help him or her come up in the remaining categories. [00:24:00] Now, there are also teams that I've come across that are just pretty solid all across the categories, but no superpowers, nothing [00:24:10] quite stands out, right? There are B plus or a minus across all categories, and there's really no place that is as an investor to insert myself and be that extra [00:24:20] help that they need.
+
+
+Now, can those companies succeed? Probably it. It's possible, but my personal biases look for those [00:24:30] superpowers because those are the ones where, because I can step in there and help and provide that extra, whether it's insight or additional [00:24:40] introductions or whatever, or other forms of help, I can, I can achieve.
+
+
+Uh, a great outcome that may otherwise get overlooked [00:24:50] because other investors have passed on this business due to, you know, weaknesses in one or two of those categories. Uh, so I, you know, another [00:25:00] way to kind of phrase that is look for the hidden gems. Thank you. Yeah. And what [00:25:10] integration possi possibilities excite, excite you most for the future of payments?
+
+
+Of what? Payments? Payments, digital [00:25:20] payments, um, I think, you know, it would be, will be silly to ignore the impact of artificial [00:25:30] intelligence and, uh, what agents can do. Now. Uh, agents have become really, really smart and they begin to understand the users much better [00:25:40] and they're able to do understand far more complex workflows.
+
+
+And be able to redo tasks that were not previously possible and that includes payment. Right. [00:25:50] And, uh, not too long ago, I think it was at the beginning of this year when OpenAI released Operator and Perplexity came up with something, you know, in partnership with PayPal. [00:26:00] Uh, and, uh, we also had, uh, I think MasterCard, visa, Stripe, all kind of announcing features, [00:26:10] uh, one after another around, uh, genic payment.
+
+
+Uh, so I think that creates a huge opportunity, uh, one [00:26:20] because of the potential size of the opportunity, but also because of the opportunity surround the infrastructure we still need to build [00:26:30] to make that a reality. Uh, so for example, right now, I think the approach around allowing agents to make [00:26:40] payments.
+
+
+Uh, is still very much human in the loop, right? When the agent can go and search your purchase history and make pretty [00:26:50] personalized, uh, or hyper-personalized recommendations based on your preference, based on your shoe size, based on your color preference and things, things like that. Uh, but when it [00:27:00] comes to making payment, it has to prompt the user and say, okay, now go ahead and pay that.
+
+
+That's pretty good. But the long-term vision that I have, or, [00:27:10] or the hope that I have, is none of that needs to get my attention. Just the machine should understand what I want. I tell the machine to go buy me a pair of [00:27:20] Nike shoes or, uh, or gym shorts. You know, it should just show up at my door two days later.
+
+
+Um, and, and so [00:27:30] there's a sort of a new infrastructure almost, uh, that, that you need to build to make that a possibility, to make that a reality, which is okay. [00:27:40] If you were to allow agents to make purchases on your behalf, should you have certain preset constraints or guardrails around [00:27:50] how much they can spend, where it can buy from, and you know, how frequently, and can [00:28:00] you, how do you, how do you sort of establish that trust between you and the agent, but even beyond that, but establish the trust between the agent and the agent?
+
+
+Right. [00:28:10] So there's a big trust gap right now. So there are certain solutions being proposed around using prepaid cards to allow [00:28:20] agents to make payments using the virtual prepaid card that comes with certain limitations around how much money they can spend, what they can [00:28:30] spend it on. Uh, I think that's one solution, most likely a near term or medium term solution.
+
+
+Uh, particularly as you get into smaller. [00:28:40] Uh, payments, smaller amount purchases, smaller ticket purchases. Uh, if you're buying a hundred dollars pair of shoes or, or $500 [00:28:50] TV or whatever that might be, that virtual card may actually work, uh, because you are willing to wait, you are willing to pay a fee. You are willing to, uh, [00:29:00] uh, you know, allow the, sort of, the latency that comes with all of it.
+
+
+Um, but if you are buying small things, right, spending, say a dollar [00:29:10] or two buying, I don't know, a, a something online, right, like a trinket one, [00:29:20] uh, or even or digital good for example, right? One, you're not willing to wait. And two, the fees can become an issue. Uh, so can the agents then [00:29:30] still use the same virtual card?
+
+
+I think that kind of. Fails to scale in this, uh, use case. Uh, the latency, the fees, uh, that come [00:29:40] with all of that virtual card issuance will probably make the small, what I call high frequency or even micropayments, uh, break, right? So you [00:29:50] almost need a new sort of payment rail for it, right? They're folks proposing a stable coin based payment method, uh, which I think is actually a good solution.[00:30:00] 
+
+
+Uh, but in the future, perhaps we'll have a multi rail, uh, solution that auto selects whether you go [00:30:10] through the traditional a CH rail pay, you know, uh, pay by bank rail or the stablecoin rail, um, based on your specific use [00:30:20] case, uh, meaning, for example, speed that you need, uh, the frequency of, of the transactions, the, the fees that you have to [00:30:30] pay, or jurisdic jurisdiction.
+
+
+Right, whether it's cross border, whether it's domestic, uh, and, and the counterparty risks, [00:30:40] right? So if you are having a sort of a, you know, a transaction in a high risk area, you may want to actually introduce some delay. Uh, and, and, [00:30:50] and if you're dealing with low risk, high frequency micropayment, maybe then you want to go with the crypto rails.
+
+
+So I think there, there are these sort of new [00:31:00] infrastructures that'll be, that'll be built or emerge, uh, as a genetic payment moves forward. And, and also on top that, [00:31:10] you know, I mentioned. The trust gap between the human user and the agents. Uh, but there's also a trust gap between the agents and the agents, right?
+
+
+[00:31:20] So the service agent on the or, or actually no, the client agents, right, which is my personal shopping agent. And then there's a service agent, meaning [00:31:30] there's a, uh, agent released by Walmart, and the two agents have to talk to each other. But when my agent knows Walmart, my agent [00:31:40] knows to trust Walmart because it's a well known brand right?
+
+
+Now, what if I ask my agent to go buy the cheapest pair of [00:31:50] Air Jordans that it can find on the internet? And that doesn't have to come from Walmart. It probably comes from some other reseller in a GL that I'm not super [00:32:00] familiar with. So how does my agent then know to trust that other agent? Because they don't know each other.
+
+
+They can't really handshake, [00:32:10] right? There almost needs to be some kind of a agent equivalent of a credit system. Experian, or, or, or Fair, fair [00:32:20] Isaac. Right. We have all of those, uh, those things, uh, that, that establishes a credit history, if you will, for agents so that the agents can [00:32:30] prove to each other, Hey, I don't hallucinate.
+
+
+I'm a trustworthy agent that has performed transactions for the last 10 [00:32:40] years without making mistakes, without fraud, without any sort of issues. You can trust me. So the agents know to trust each other. Right? So I think that's going to be [00:32:50] another huge opportunity for companies to, to go after. How do you build that sort of agent trust layer?
+
+
+Uh, to allow the agent to agent [00:33:00] interaction to happen seamlessly and securely. Thank you. Is the very interesting agent. So agent market. Yeah. Hmm. [00:33:10] Yeah. Next I want to ask you, you, you observe multiple crypto cycles. So cycles, so how does the current, uh, [00:33:20] cover,
+
+
+sorry. Mm. It's a giant fly that's [00:33:30] going around. No, uh, yeah. The water would be great. Oh yeah.
+
+
+Yeah. Ah, my, I [00:33:40] fell asleep.[00:33:50] 
+
+
+It's fine.[00:34:00] 
+
+
+It's a ginormous fly. That's, it's gonna be like, what's that politician that had the fly land on him? [00:34:10] Who was that? Was it Mitch McConnell? No, no. It was, um, or was our vp No, it was previous SVP. No, no, it was, uh, shoot. Who [00:34:20] was that? Was that woman with a Crazy Eyes? Oh dude. You know who I'm talking about? Lot of them.
+
+
+Well, yeah, she was, uh, she was, uh, she [00:34:30] was a senator. She was the one that famously went on TV and said, uh, is, is Obama anti-American or pro-American? Whoever that was [00:34:40] Marjorie Taylor Green? No, no. She was the original, like crazy one. I forget the fuck was her name. Not Marjorie. I think. Oh, wait, no, no, no, no, no, no, no, no, no.
+
+
+I know who you were talking about. [00:34:50] It was a guy I thought. No, no. It's uh. Uh, yes. Pence during the debate, debate Pence? No. No, but but she had the same thing happen to her. Oh, okay. Apparently, yeah. Yeah. It was like this whole, they had like a whole SNL [00:35:00] ski about like the fly. They got like a giant fly on his, on his head, right.
+
+
+Oh, not easy. Yeah. We would never let that happen to you. Yeah.[00:35:10] 
+
+
+Alright. All right.
+
+
+I can switch legs, right? Oh yeah. 'cause my leg fell asleep. [00:35:20] Yeah. Is that okay for consistency to switch legs? He had the other leg before too. Oh yeah. It is fine. 'cause we, [00:35:30] the end, I gonna do like frame switches and stuff. So, so Christian is you, you have observed multiple crypto cycle, [00:35:40] so how does the current conversions of AI and Web3 differ from previous wave of.[00:35:50] 
+
+
+How does that, it's always interesting to hear people say this time is different. Um, I do [00:36:00] think that, that, that applies here. Um, it is different in the sense that the innovations that we've observed [00:36:10] across artificial intelligence has the level of impact, or I would say the breadth, uh, of, of impact, [00:36:20] uh, that almost no previous technology, uh, had, had, had seen.
+
+
+Right. Maybe electricity, uh, maybe the [00:36:30] internet. Uh, but outside of that, I think very few, we, we can point to very few technologies and say it impacts [00:36:40] everyone everywhere. And what I think. Is interesting though, uh, [00:36:50] from an impact perspective for Web3 or crypto, is that, you know, some may argue crypto or stable coins found [00:37:00] a killer use case within ai.
+
+
+What do I mean by that? When we're talking about agents earlier, making [00:37:10] payments, agents needing an identity, uh, a a based on an infrastructure that is different from the [00:37:20] previous human centric identity infrastructure? Uh, I think crypto, uh, has a [00:37:30] lot of advantages to offer. Uh, one is verifiable, it's transparent, and [00:37:40] it can handle transactions at machine speed without needing to wait one or two days for.
+
+
+Bank settlements, it can do things that traditional [00:37:50] banking systems will probably take days, uh, to do, uh, at relatively high cost. Uh, whereas if you handle it over crypto [00:38:00] rails, it's much faster, right? Particularly as we get into, uh, things such as transaction based revenue, uh, streams, [00:38:10] micropayments, uh, traditional rails just, just absolutely fail, right?
+
+
+So you need something that allows, um, [00:38:20] agents to pay for things. For example, pay for inference, pay for model usage, pay for data usage. But when you [00:38:30] do those kind of payments, there's no way you can do that with a credit card. Um, or at least it's, it's extremely difficult. [00:38:40] Um, and when you have to do so also at machine speed.
+
+
+Um, you also cannot afford the amount of [00:38:50] latency that traditional, uh, payment methods, uh, have to deal with. So I think one of the key [00:39:00] enabling infrastructures is gonna have to be crypto based payment or stable stablecoin payment based payment. In this case, [00:39:10] uh, when you zoom out and look at the entire, uh, category that is age agent commerce, or age agent payment, uh, so can we [00:39:20] say this time's different?
+
+
+Um, I don't know, but I would say the impact it has [00:39:30] on AI and ai, vice versa, has on, on the, on the, uh, blockchain world, uh, is very much real. Is very much [00:39:40] real. And this is the first time. I feel like the two worlds are beginning to converge. They're solving each other's problems as [00:39:50] opposed to focusing our own world.
+
+
+Right? Several years ago, we kind of make this differentiation between web two and Web3, which I think is [00:40:00] always a funny little kind of a differentiation. I I've been saying it's a false divide or false dichotomy. 'cause it's really just a different way of processing [00:40:10] data, storing data, verifying data, right?
+
+
+At the end of the day, we're dealing with the same underlying silicon to some extent. Uh, [00:40:20] but the moment when the two worlds finally come together and start solving each other's problems or start working on the same problem together, I think that changes the, [00:40:30] the, the, the dynamic that brings smart people from both worlds together.
+
+
+And that's why I feel like magic to bring, sort of bring it all back, [00:40:40] uh, sits in the very center of that convergence. Mm-hmm. Then, and from your [00:40:50] perspective as an investor, so what do you think received the enterprise sentiment from skepticism to actual, [00:41:00] actual implementing, implementing blockchain solution?
+
+
+Both in the market overall and in magic Magic's case with companies like, [00:41:10] companies like Metal? Yeah. Something like, well, uh, look, it's, it's always difficult to sell to enterprises, [00:41:20] um, which is why you being, you know, you see many of the AI companies now that the, particularly the ones that have scaled to hundreds of [00:41:30] millions of a annualized revenue, uh.
+
+
+Uh, you know, in, in record time, take a almost a consumer or prosumer [00:41:40] first approach because of that very, uh, you know, long sales cycle or adoption cycle for the enterprise [00:41:50] customers. Uh, so I think you, as you bring forward, uh, a, a new technology, you do have to achieve some critical mass in terms of adoption.
+
+
+[00:42:00] Whether you're gonna get that slowly on the enterprise side or get that quickly on the consumer or prosumer side. Uh, in either [00:42:10] case, you have to be forward thinking or forward leaning when it comes to compliance, security, risk management, [00:42:20] all of those things, because the moment you begin to move money and touch money and insert yourself in a transaction, people's [00:42:30] tolerance or enterprise tolerance.
+
+
+For mistakes, for mess ups, uh, is very low. [00:42:40] Um, so in order to change enterprise attitude from skepticism to buy-in to support, [00:42:50] uh, you have first to be very safe. You can prove that you can handle these things, uh, securely, but also do so at scale. [00:43:00] Right? And I think magic, having achieved some, I think I forgot how many millions of users early on being able to [00:43:10] handle the amount of transactions that they handled, uh, and the user onboarding that they handled, uh, and proven that they're capable of doing so securely and protecting their customer's [00:43:20] information, uh, demonstrated to the early enterprise adopters that this is a serious company that has thought about all of these issues ahead of time.[00:43:30] 
+
+
+That as a, as an investor with insight in, into both Asia and Western markets. So [00:43:40] how do you see their approach to Web3 adoption different? And, and I I wonder what three, what [00:43:50] strategic lessons should, should founders take away when working for these diverse environments? I would say [00:44:00] in, in a lot of cases, users or, or countries in Southeast Asia [00:44:10] or, or geos outside of North America have actually embraced Web3, uh, a lot more openly and, [00:44:20] and a lot earlier than North America, um, due to, you know.
+
+
+Whether it's regulatory, [00:44:30] uh, reasons or, or user behaviors, what, whatever that might be. Um, and, and, and, you know, innovation is always uneven, [00:44:40] right? So, and so I think for founders that are looking to [00:44:50] expand geographically, uh, understand, understanding your target market, understanding the regulatory nuances, uh, [00:45:00] and having the right partners, whether it's local partners or partners that have done the, the sort of the, the crossover, uh, will be critical.
+
+
+[00:45:10] Um, and, and, and going in cold Turkey is always, I think, a high risk way of doing so. And it's probably a really tough path, uh, [00:45:20] because of the regulatory, uh, legal nuances that come with all of it. So I think the, that's probably the single biggest advice I, and learning really, [00:45:30] um, having, having worked at Docker in the past and help, help Docker expand in Asia, um, having the right partners in place that can help you navigate the [00:45:40] local, uh, sort of, you know, all the, all the, all the hoops you have to jump through, uh, is gonna be critical.[00:45:50] 
+
+
+And, uh, having, having evaluative companies across both AI and blockchain. So what concern you most about their [00:46:00] intersection and what safeguards should the industry prioritize and how do you see and Magic Newton addressing those concerns? [00:46:10] Well, I think it goes back to, I draw the parallel here with self-driving, for example, right?
+
+
+When [00:46:20] you know, you look at self-driving. People always feel a little nervous giving up full control to ai, to, to drive you [00:46:30] around. Uh, but I think statistically, uh, if you look at the number of accidents, uh, that that AI gets into or self-driving, obviously the [00:46:40] sample size is relatively small. Uh, self-driving hasn't been around that, been around that long.
+
+
+Uh, but I'll, I'll bet statistically, self-driving is now [00:46:50] becoming safer, uh, uh, if not already, uh, than human drivers on average. Now, I know for a fact, uh, [00:47:00] self-driving is safer than the way I drive, so, so maybe sample size one there. Um, but when you think about the tolerance [00:47:10] when it comes to making mistakes between machines, making mistakes and humans doing so, the tolerance for machine making mistakes is much lower.
+
+
+Which [00:47:20] means that you have a much more steep curve to climb in terms of making your system reliable, secure, and scalable. [00:47:30] Right? So that's, I think, the same issues facing, uh, [00:47:40] uh, AI facing this, this sort of convergence, right? Because you're bringing two very innovative, very disruptive technologies [00:47:50] together and trying to fundamentally change the way people shop, conduct transactions, right?
+
+
+So your burden of [00:48:00] needing to prove that you are safe and secure, reliable is much, much higher because again, soon as you start touching money, trust [00:48:10] is non-negotiable. Security is non-negotiable. Uh, so that's probably. I wouldn't say my concern, but I definitely, it's an area that [00:48:20] everybody needs to pay attention to.
+
+
+Now, why magic I think is sitting in an interesting spot is that payment at the end of the day, if you were [00:48:30] to really over oversimplify, it comes down to identity, comes down to can you prove you are set, you are who you say you are, that you can [00:48:40] prove this is a transaction or purchase that you intended to make with a party you tend to intended to transact with.[00:48:50] 
+
+
+Uh, so all of that, I think comes down to having something that it's verifiable something that is, uh, uh, traceable. [00:49:00] Something that is programmable from a restriction or guardrail standpoint. Right? And I think magic provides many of that critical, [00:49:10] uh, many of those critical features, uh, uh, that I mentioned.
+
+
+Hm. Thank you, Dan. Yeah. [00:49:20] You've seen you, I, I think you've seen contrast pitches. So what common this concession do technical founders have about what [00:49:30] investors actually need here? Yeah, I think, look, I wouldn't say misconceptions, but founders, particularly the super technical [00:49:40] ones and the, the, you know, again, I wish it's the problem that I wish I had, meaning I was, I, I'm so smart that I, [00:49:50] people have a hard time understanding what I'm saying.
+
+
+Uh, but, but a lot of times I think founders one need to almost could have dumb it down for, for me, [00:50:00] um, because I did not, I was not smart enough to get into, you know, a PhD program at Stanford, right? And, uh, so, [00:50:10] so a lot of times help me translate the tech. Help me understand the problem without taking me through your PhD thesis.[00:50:20] 
+
+
+Uh, help me put it in plain language so I can explain it to the rest of my team who [00:50:30] probably even know less about particular category that I focus on, right? Because they're focusing on other categories or the experts in other categories. Uh, [00:50:40] so being able to speak a different language is very important, important for founders, but also I think being[00:50:50] 
+
+
+willing to talk less about what your technology can do, [00:51:00] but, but, but focus instead on asking me what my problems are. You know, I've seen many of these pitches, whether it's an sort of an investor [00:51:10] setting or a, or a, a sort of a commercial sales pitch. It's always pretty funny to have a founder who's clearly [00:51:20] brilliant, knows this or her stuff really has something to offer.
+
+
+And then 15 minutes later, the other side, an executive [00:51:30] from the potential buyer would just say, but, but hold on a second. You haven't asked me once what my problems are. You may have the best solution out there, but it doesn't fit my [00:51:40] problem. And I think it's important for founders to actually understand the problem statement, to understand what the customers need, right?
+
+
+And [00:51:50] not get too caught up on selling the technology itself, but make it a solution instead. And I think there is a critical sort of a crossing over that needs to [00:52:00] happen. Uh, particularly for very technical founders, right? The technical, super technical ones, uh, I'm not saying all of them, but a few of them tend to [00:52:10] focus on engineering, the science for the science sake.
+
+
+But how do you translate that into a solution? How do you translate that into [00:52:20] plain English for the rest of us and understand how that makes me do my job better? That's, I think, an important thing, an important skill, important skill that founders need to [00:52:30] learn. So that's why storytelling skill are so important for founders.
+
+
+Yeah. Would, would you say that those good founders, in a way are [00:52:40] so a good story tender? I think being a good storyteller is, I think, I think, you [00:52:50] know, the aspects of a good storyteller are certainly desirable in a founder. Meaning you have to be charismatic. You have to [00:53:00] be persuasive. You have to be able to tell or describe your product, your value prop, uh, [00:53:10] coherently be a good communicator.
+
+
+Uh, so it's not just about storytelling, but [00:53:20] I think it's, it's important to be able to communicate all those amazing ideas in your head to whether it's your [00:53:30] investors or your customers, and be effective at understanding the other side. Uh, be effective at [00:53:40] convincing the other side, uh, and get people excited, right?
+
+
+And I think it's important to help people get to the [00:53:50] point well get where you are. Meaning, you know, I know you're excited about this, but I'm not quite there yet. Help me get there. So I can [00:54:00] invest or I'll buy your solution. Right? Help me understand how critical this is. And, and I think storytelling or, or really just [00:54:10] building a strong narrative, uh, is absolutely important, right?
+
+
+Uh, but, but that has to be built on the foundation of a [00:54:20] strong solution, strong tech, right? 'cause storytelling will only get you so far. And can I ask how, how about Sean and [00:54:30] would you say he was a good storyteller and do you remember how he first explained that solution? Yeah, I think Sean was very skillful at, [00:54:40] uh, breaking it down for me.
+
+
+Uh, you know, dumbing it down for me, uh, and, and made me realize the [00:54:50] scale of the problem that he's looking to solve made me realize how important it is to have that seamless. The experience for users, [00:55:00] uh, when it comes to adopting Web3 services. Um, so I think, I think Sean exemplified a founder who can speak both [00:55:10] languages.
+
+
+Thank you. And based, based on your experience, what, what separate others who Ed [00:55:20] navigate downturns successfully from those who don't? Uh, well, there are many [00:55:30] factors. Uh, I think one on the personality side, you know, have, I would [00:55:40] say this obsession almost about what you're working on. Um, be willing to challenge [00:55:50] the status quo, be willing to, you know.
+
+
+Uh, be the only one [00:56:00] left in the room when everybody else left, uh, and keep at it. Uh, that, that, that persistence, um, [00:56:10] is absolutely important. Um, it's a, it's a, it's a long and very lonely road, uh, for founders. [00:56:20] Um, so having the, you know, I always joke, having just the right amount of crazy helps. Uh, but, [00:56:30] you know, having the right partners, uh, next to you is important.
+
+
+And you know, there, there, there [00:56:40] are investors who are willing to stick by you because they also believe in what you're building. Uh, they're willing to work with you and problem solve, [00:56:50] right? They don't just show up to the, to the party when everybody's celebrating something good has happened, right?
+
+
+They're here when. You know, things hit the fan and they're [00:57:00] willing to help you clean it up and, and work with you, uh, through those things, right? Having the right partners certainly helps, uh, as well. Uh, and being [00:57:10] smart about spending, uh, managing your cash, right? Scaling your business, growing your team, uh, efficiently, and be smart [00:57:20] about it, right?
+
+
+It's, it's, it's always easy when you've just come out of a, a, a very hot, you know, $30 million series A [00:57:30] and, and money's everywhere. Now let's go hire a bunch of people. Well, is that really the best thing for you to do at the moment, right? Or should you be, you know, spending that money on, [00:57:40] uh, building channel partnerships or growing your and d team or doing something else, right?
+
+
+I think be smart about where you put those [00:57:50] resources is gonna be important too.
+
+
+Um. What and what do you believe [00:58:00] will the, will the Evolent breakthrough moment for Webster mainstream adoption from a paper benches perspective? Sorry, can you repeat the question? [00:58:10] Uh, what do you believe will the, will will be the EEE equivalent Eent Uhhuh, yeah. Breakthrough moment for Webstream mainstream [00:58:20] adoption from a paper ventures perspective.
+
+
+Ooh, that's a tough question. Um, [00:58:30] I think we have already began to witness many of these breakout events, um, [00:58:40] because for a technology that is this new and in some way this disruptive to [00:58:50] have gotten where it is today. Um. I think it took a lot of miracles. It took a lot of [00:59:00] breakouts for things to kind of get here.
+
+
+It took a lot of believers and took a lot of crazy. Um, [00:59:10] but I think the moment when legislations have appeared to [00:59:20] really look at this as a serious asset class, if you will, or technology class if you will, whatever that might be, uh, [00:59:30] the regulatory bodies instead of ignoring this because, oh, it's some small fringe technology [00:59:40] people do because they're bored, um, or they're just kids with nothing else to do.
+
+
+Uh, but now to look at this seriously from a government [00:59:50] regulatory standpoint. To look at this from an asset management standpoint, institutional standpoint, and begin to really seriously explore, instead of [01:00:00] dismissing this and calling it scammy, calling it sort of a fad, what have you, to now look at this and say, how can we best [01:00:10] leverage the technology?
+
+
+How can we, uh, take advantage and sort of hedge against the future? Uh, in some [01:00:20] ways, those are all miracles. Those are all breakouts that we've had along the way, right? And in no way were any of those small wins. [01:00:30] Um, so, so I think we will continue to see these breakouts and I think the convergence between what stable, particular stable [01:00:40] coins can do for, uh, payments, uh, within the genic flow.
+
+
+Uh, it's gonna be another one of these breakout moments where we see, oh, wow. [01:00:50] Um, you know, aside from a, you know, launching, uh, you know, memes launching, uh, you know, uh, [01:01:00] you know, crypto trading or ETFs, those type of financial products, now you actually have a real technology solution that powers an [01:01:10] even bigger opportunity set.
+
+
+Uh, that's going to be another major breakout moment for, for this category. Thank you. [01:01:20] When I talk with Sean and Jay, so it's clear, they are founders who obsessed over the user experience. Mm-hmm. I, I, I heard matching reps [01:01:30] has this philosophy that no UI is the best u So from an investor's perspective, how do you, how do you see that kind of philosophy [01:01:40] influencing a product products change of success and.
+
+
+Have you, have you seen similar philosophy or, or what network in other companies you, [01:01:50] you back? Yeah, I think I absolutely agree with that philosophy, right? And as we, you know, mentioned at the beginning, uh, you know, payment, [01:02:00] identity authentication, those things should be ambient, right? They should happen in the background without us having to intervene, right?
+
+
+And, you know, [01:02:10] fully autonomous agents should be able to do things without us having to constantly look over the shoulder, right? So, yes, the best UI is an abstraction of the ui. [01:02:20] Uh, that doesn't need to prompt you for logins, that doesn't need to prompt you for approvals. It should just happen automatically.
+
+
+[01:02:30] Now, uh, in some ways you see. Uh, you know, we we're, we're, we're in San Francisco, right? Where we see [01:02:40] Waymo's running around. We see Tesla roboto, taxis being, being, uh, tested. Um, I don't know if anyone had had experience riding one lately. [01:02:50] Uh, I remember my first Waymo trip a while back, you know, the initial two minutes.
+
+
+I was a little, I was a little nervous. Here I am sitting in this car with an empty [01:03:00] driver's seat, taking me through the busy, busy streets of San Francisco, which, you know, it's pretty challenging for me as a driver right now. There's this thing that's taking [01:03:10] me around. But quickly, I began to really just look out the window, looking at the street and, and just got back on my phone, [01:03:20] um, started listening to music.
+
+
+I completely forgot. I was being driven around by ai and that's sort of the [01:03:30] becoming ambient or abstraction moment. That happened for me when it comes to self-driving. So the best technology, or as Sean would put, [01:03:40] Sean, Jay would put it the best UI is no, UI is an abstraction, is because you've designed the experience, you've designed the tech to be so good, so [01:03:50] secure, so seamless that users forgot that it exists.
+
+
+So I think, yes, absolutely, that philosophy will continue to guide development, [01:04:00] not just within Web3, but also within AI going forward. Thank you. And being on set, being at the center of technology [01:04:10] Technology for
+
+
+Yep. Being at the center of [01:04:20] technological change and witnessing so many sick innova innovations and stories. So do you have any board on, on conventional. Vision of [01:04:30] the future that uniquely you are on? Uh, something others might not dare to imagine?
+
+
+Um,[01:04:40] 
+
+
+that's a good question. Um, I would say it's a, I [01:04:50] strong opinion, but loosely held, uh, opinion, uh, that [01:05:00] we will have
+
+
+the growth, the economic growth [01:05:10] that we have not witnessed in a long, long time in the next 20 to 30 years. The innovation [01:05:20] and the speed with which things are changing, it's accelerating. At a pace that is just absolutely [01:05:30] unprecedented. And if you remember, you know, when the, when the, when the Wright brothers first went airborne to [01:05:40] when we went to space, it was not over a course of a hundred years, it was over the course of 30, 40, 50 years.[01:05:50] 
+
+
+Yet when you look at the speed with which semiconductor industry, you know, computing ai, that curve is even [01:06:00] steeper. So I think we're in a interesting moment where speed of innovation is speeding [01:06:10] up, it's compounding and the economic impact from that [01:06:20] in terms of what it can do from not just making life easier.
+
+
+But also opening up additional venues of [01:06:30] economic activities such as, for example, when, when we always talk about data as the new oil. [01:06:40] Well, yes, but where does that data come from? It's us. It's you and me. Is anybody [01:06:50] paying us? No. How do we monetize that data? Right? So is there going to be sort of a data [01:07:00] economy going forward where we get compensated for the data that we generate, whether it's simple as, whether it's simple transaction data that we, [01:07:10] you know, Amazon and some other firms or companies out there pay you a dollar, uh, per receipt that you scan and enter.
+
+
+That's the really the most crude sort of [01:07:20] simple form. But in the future, if you can natively capture that data flow, that's our data. And that data's going to make AI better to allow [01:07:30] companies to sell to us better, right? Should, shouldn't we get a cut of that? Shouldn't we deserve some kind of economic equity in that?[01:07:40] 
+
+
+And so there are all these other things that I think that previously did not exist. Economic models that previously did not exist, uh, that will be unlocked, [01:07:50] uh, by this continued growth within ai, within payment, within, uh, ways we, we can, we can pay for things and ways we can, we can monetize. [01:08:00] Uh, so I do think in the future, uh, this sort of data economy will emerge as a really [01:08:10] big category, uh, that will drive tremendous economic growth.
+
+
+So, yeah, we have just [01:08:20] two or three question left. And Sorry. We need to change the Oh, yeah, yeah, no worries. One minute. Yeah. And we, [01:08:30] we have,
+
+
+can we just straight in your jacket? Yeah. Uh, wait. Is it not, [01:08:40] is this better? Yeah. Okay.[01:08:50] [01:09:00] [01:09:10] [01:09:20] 
+
+
+All right. Can I start the last question? Last question. Yeah. So, you know, aside from the data economy, [01:09:30] which kind of brings me to, uh, another interesting thought, uh, that, you know, if you look at how [01:09:40] these models are trained today, they're trained very much on textual data. Uh, maybe some image [01:09:50] data, maybe some video data, but the sort of, if you think about the dimensionality of that data is relatively low, right?
+
+
+[01:10:00] And one number to kind of put things in perspective is GPD four was trained on about one and a [01:10:10] half petabyte of data. Which sounds like a lot, but if you look at an organization like a large bank, you know, the likes of JP Morgan, bank of America, these types of banks probably [01:10:20] have 15, 20 times, uh, amount of, amount of data that, uh, sort of that, that, that data volume that they have.[01:10:30] 
+
+
+Uh, so, and, and that data is far more, I would say structured clean, high quality, [01:10:40] and most importantly, relevant, right from a context standpoint. So if you can train something that is as powerful as g PT four [01:10:50] on only 1.5 petabytes of data, but now you feed it 10, 20, 15 times the amount of data into this [01:11:00] model and that it's highly contextually relevant, highly structured, imagine how much more powerful than model can [01:11:10] become.
+
+
+Now the key question is that most of that data sits behind a corporate firewall that has legal compliance. [01:11:20] You know, it, security guarding that, right? So finding a way to bring the data, or in this case, bring the model to that data so [01:11:30] you can make the model, turn that model from a generalist to a specialist that excel at certain tasks, [01:11:40] right?
+
+
+In this case, financial transactions or financial management, things of that sort, or catching fraud. You'll see this massive increase in [01:11:50] performance and utility once you kind of figure out the security, the compliance issue around being a, being able to train the models [01:12:00] on those types of data. Uh, that's another one.
+
+
+Uh, and, and also if you think about the overall. Data that the world [01:12:10] produces, right? And I'm not just talking about text, I'm talking about audio, video, temperature, wind, uh, [01:12:20] you know, geomagnetism, right? And the list goes on. The dimensionality of data that we can potentially capture in the three dimensional world is [01:12:30] almost infinite, right?
+
+
+And imagine if you can have a way to efficiently capture that data to train, [01:12:40] whether it's an LLM or train some other form of generalized ai, the utility of that and the intelligence of the AI [01:12:50] will be infinitely larger than what we have today. So how do you capture that data is another key question. [01:13:00] And thirdly, I think this is also gonna bring and also require.
+
+
+Innovations across energy. Energy generation. [01:13:10] Energy transmission, right? We already have folks talking about investing in micro nuclear plants that are really close to data centers [01:13:20] and also within data centers, people are beginning to innovate on how to transmit that data because we have [01:13:30] to pack these GPUs so close together, right?
+
+
+We have to deal with the heat, we have to deal with the power consumption. Uh, but the thing is, once we increase the [01:13:40] physical distance, the length of the wire that the data has to travel through, we introduce latency, right? So other new ways of transmitting data, fiber [01:13:50] optics is one, right? But it's expensive.
+
+
+Probably not as reliable, right? So there are other things such as millimeter wave. Length, you know, [01:14:00] rf, that we can use that to replace the traditional wires, right? And that's cheap, doesn't generate as much heat that's reliable, [01:14:10] right? So I think there are all of these other areas of innovation, whether it's energy, whether it's at, at a RF level, whether it's at a hardware level, [01:14:20] that we are not even beginning to scratch the surface.
+
+
+So I think the impact this will have [01:14:30] is so deep in every aspect of our economy that we've have probably stepped into [01:14:40] this unprecedented era of growth where everything's gonna speed up. And that's what makes me so, so excited, uh, about [01:14:50] artificial intelligence today.
+
+
+Thank you.
+
+
+Then, [01:15:00] uh, now I'd like to ask a few question for founders. Some, some kind of advice, so, yeah. Mm-hmm. [01:15:10] For, of course, all the founders, you, you are course all the founders. You have work, work you [01:15:20] worked with. So what common qualities give you optimism? Optimism about the future of the future of innovation?[01:15:30] 
+
+
+I think the prevalence [01:15:40] of high speed internet, not even ai, high speed internet through which we're distributing [01:15:50] courses, training materials to the rest of the world. To countries who may or may not have access to high quality [01:16:00] education materials. When it comes to machine learning, when it comes to data science, uh, that has changed completely.
+
+
+We have kids [01:16:10] in emerging country, third world countries now able to just hop on a computer and learn from an open course at MIT. [01:16:20] And I think it created not a completely level playing field, but it's far more level, far flatter, flatter [01:16:30] than before. So the amount of human knowledge that's being distributed and shared is greater than [01:16:40] before.
+
+
+And we have more people participating in innovation. That's one. Two, [01:16:50] the founders that I meet are getting younger and younger. That means if you look at it from, you know, back, back in the days, you have to [01:17:00] finish your PhD postdoc, join some kind of a research lab, and by the time you start a company, you're probably in your thirties or forties, right?[01:17:10] 
+
+
+And, uh, and, and, and then life happens, right? You have kids, you get married, buy a house and deal with this and that. But when you're, I remember when I was [01:17:20] in my twenties, I didn't have a care in the world. I did what I did when I wanted to, how I wanted to, right? But now you take that same sort of [01:17:30] degree of freedom that a 20-year-old has.
+
+
+Apply that toward entrepreneurship, innovation, [01:17:40] and aid it by the tools that are available. Right? And when people talk about vibe coding, people talk about things like cursor lovable, right? Being able to spin up a software [01:17:50] with nearly nothing. At very low cost and be able to scale that very quickly, all with just one or [01:18:00] two employees, right?
+
+
+You have this sort of converging number of [01:18:10] forces, younger entrepreneurs, more availability in terms of bandwidth, compute [01:18:20] tools that help them scale, and all of which is going are, are going to create this flywheel effect that speeds up innovation. [01:18:30] And also, younger founders tend to be more, you know, risk taking, right?
+
+
+They're willing to think big, they're willing [01:18:40] to take on risks and be innovative, be challenging, be controversial. All of that will feed into the innovation cycle. And [01:18:50] the innovation flywheel. So that is what makes me super, super optimistic. Thank you. And [01:19:00] for someone watching these Food Dreams or reading the next magic graphs, so what critical first step would you recommend?[01:19:10] 
+
+
+Sorry, I, I, I Is they're, they're emerging. What for someone watching this? Watching this Food Dreams of Building the Next Magic Labs. [01:19:20] Okay. Yeah. Um, what's the first critical step?
+
+
+Um,[01:19:30] 
+
+
+I would say, look, you're gonna hear this from everywhere, which is to find something that you [01:19:40] truly have an interest in, find something you're truly passionate about. It's really hard to stick to something. Particularly, you know, given the market cyclicality [01:19:50] to stick to something that you just have very little interest in.
+
+
+You know, if you're just doing it for a paycheck, don't do it. Right? And, and, and there, [01:20:00] there are other ways, easier ways to make money, right? Do it because you see a big enough opportunity. Do it because you absolutely want to change the way things [01:20:10] are and, and, and, and, and wanna make an impact and do it.
+
+
+But because you truly believe in it, um, [01:20:20] and find a problem, find a real world problem to solve and figure out the, the, the right team. [01:20:30] Uh, figure out the right sort of initial set of angel investors who can help you, who can mentor you. [01:20:40] Um, find the right sort of circles to hang out in. Trade ideas, right?
+
+
+And have people challenge their ideas. [01:20:50] And
+
+
+I think that, I think that's, that's about it. Look, it's, it's, it's difficult taking that first step to be an entrepreneur. [01:21:00] It's probably the single highest risk, uh, career choice one can, one can make. [01:21:10] Um, so yeah, I first of all always applaud anybody who chooses to go down that, that long lonely path. But if you were to do that, I think pay [01:21:20] attention to all of those things that just, I just went through.
+
+
+I is absolutely critical. We already covered some of these in your, all the answers, [01:21:30] but just to have it's clear for editing. Uh, I want to ask once more, but Sure. Yeah. Um. [01:21:40] Yeah, project, project like promise a future, you know, AI agent handle complex financial transitions in, in a trust [01:21:50] environment. Mm-hmm. So can you paint a picture of what everyday financial life might look like in five or 10 years?[01:22:00] 
+
+
+Wow. Um, well, for example, I don't think it'll take five to 10 years to get [01:22:10] to a fully agent commerce flow. Uh, I think much of the [01:22:20] foundation has been sort of laid. Uh, there are still a few critical pieces that need to be figured out around identity [01:22:30] management, authentication, uh, setting guardrails, um, wallets.
+
+
+But I think the pieces are there or they're getting there. [01:22:40] Uh, so for example, you know, I don't, I don't think it's too far off in the future, we'll be able to tell our agent to say, Hey, you know what? Go buy flowers [01:22:50] for my wife, you know, for our upcoming anniversary. Uh, go book me a dinner. And, and, and, and the reservation [01:23:00] requires a prepayment or deposit.
+
+
+Uh, go shop for party supplies for, for a, a birthday party that I'm throwing, right? And don't just buy it [01:23:10] from Amazon. Go find the cheapest, uh, supplies, right, and have 'em all arrive before this date. So instead of a [01:23:20] person doing all of these things step by step and comparing the prices, the agent will be able to go out and do all these things, right?
+
+
+So you, instead of [01:23:30] giving an instruction sort of, uh, step by step instruction, you give it an intent, give it a goal. Right, and the agents should be able to complete the rest. And that's [01:23:40] from a personal, sort of a consum consumer point of view. Uh, from a enterprise, sort of a B2B point of view, imagine, you know, how many invoices you have to handle as [01:23:50] a large company on a daily basis.
+
+
+Treasury management. Are you getting the best yield on your cash deposits? Uh, paying your vendors, all of that probably now [01:24:00] requires armies of folks who will have to handle all of that. And agents in the future should be able to handle not just specific [01:24:10] tasks within, say, concur reimbursement, travel reimbursement, but should be able to see across every single siloed software and be able to understand the full [01:24:20] context and make full autonomous decisions for enterprises that optimize working capital cycles, that optimize [01:24:30] yield, that optimize vendor payments, taking advantage of the vendor.
+
+
+You know, early payment terms, for example, right? [01:24:40] Pay your employees in different geos in different currencies. Managing foreign exchange risks, right? So there are all of these things [01:24:50] I think agents should be and will be capable of doing. Once we solve a few critical pieces around giving the agent large enough memory [01:25:00] to be able to memorize and learn all of the different types of data by workflow, right?
+
+
+Giving the agent multi-modality capabilities to [01:25:10] learn, learn not just from text-based instructions, but also learn by watching a video, a HR training video under or, or some kind of a training [01:25:20] video from the finance department on how to fill out and send out invoices. Right. So there are some still there, there, there's still some pieces that need to fall into place, but I [01:25:30] think we're getting quite close.
+
+
+So I don't think it'll take five to 10 years, but I think it'll be probably within a two to three year timeframe, we will see [01:25:40] fully autonomous agent employees within enterprises and maybe even sooner than that. And we will have personal shopping [01:25:50] agents that understand your preferences, then go out and complete these transactions and purchases on your behalf without you having to intervene.[01:26:00] 
+
+
+So my questions are done. So lastly, could you please introduce yourself once, once more And if you, it'd be great if you could, or also rep [01:26:10] mention your relationship with Mass. Yeah. Uh, context here. This is like where you're, it's gonna be your introduction at the beginning. Oh yeah. Oh, okay. So like, just, uh, just [01:26:20] bring the energy.
+
+
+I know the end. I am tired. Um, yeah. Um, uh, my name's [01:26:30] Alan Dew. I'm an investment partner at PayPal Ventures. Uh, we have been an investor in magic since 2022. Uh, having witnessed the, the [01:26:40] company grow into what it is today has been a truly amazing, amazing experience. Uh, I've known Sean for actually much, much longer, uh, when we both worked [01:26:50] at a company called Docker.
+
+
+Uh, and uh, I remember meeting him for the first time when I asked him a [01:27:00] quite silly question. I said, what is Docker? And he, I think, joked about, oh, it's not the company that makes pants. [01:27:10] And, uh, and, uh, you know, that was 20. 16, so almost 10 years ago. And, uh, we stayed really good friends [01:27:20] and, uh, I later on learned about this company called Magic that he was starting, uh, again, I I went to him, I asked the same silly question, what is [01:27:30] magic?
+
+
+Um, and, and he had the same patience and the same sort of intuitive way of explaining things to me, uh, as he did, [01:27:40] uh, 10 years ago. And described his vision around magic, uh, which really I think captured my, my curiosity and, and [01:27:50] really aligned with, uh, my personal vision of, of, of a sort of an AI driven, [01:28:00] uh, future.
+
+
+Uh, so that's why we decided that we were going to back, uh, magic. Yeah. [01:28:10] Is that, is that good? That's perfect. Yeah. That was amazing. Yeah. You're a prop. Thank you for [01:28:20] all.

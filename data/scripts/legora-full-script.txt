@@ -1,0 +1,428 @@
+﻿all
+===
+
+
+[00:00:00] Lemme do a slate.
+
+
+So could you introduce yourself? [00:00:20] Hi, I'm Max. I'm the CEO and co-founder of the Gora. And also, could you briefly introduce what RA is and what is the mission of the company? Lara,
+
+
+what happens in New York? Yeah.[00:00:40] 
+
+
+Lara is the platform where legal work happens. We solve legal tasks with the help of AI in the mission of creating 10 x lawyers. Thank you. Then can you walk us through rigorous key milestone up, up to this point? I [00:01:00] founded Lara back in 20. I founded Lara back in the late spring of 2023, and since then we've scaled the company from three people to 30 people and now to over 300 people, and it's been amazing to see the real results that we're accomplishing with the lawyers who are using the product.
+
+
+[00:01:20] My favorite accomplishment so far is frankly just. My favorite accomplishment so far is frankly just reading through our customer Love Slack channel, where we collect feedback and aggregated usage of real, of the real impact that the product is having for the people that we serve. Thank you. [00:01:40] Then, before we dive into your journey, so in, so could you briefly walk us through your background from childhood to where you are today in your career?
+
+
+So I think where my interest for entrepreneurship and tech and, and [00:02:00] doing really hard things, uh, started pretty early on. So I grew up in, in Sweden, in the Swedish Archipelago, just outside of Stockholm. And it was a small community where I didn't get enough, uh, competition, just, uh, doing homework and, and getting good grades.
+
+
+So I got very interested both in sports [00:02:20] and in video games, and I used to compete in, in this video game called Doda two, which is highly competitive, international big, um, prize money if you win in, win the big tournaments. And I think after. Having gone through that very competitive environment, I, I wanted [00:02:40] to take some of that with me to college.
+
+
+So I moved from, from the Archipelago into Stockholm, uh, enrolled in the best technical university at K to H and after having done about a year of computer science. It didn't really feel like a full-time job. So I got a job working as a programmer at [00:03:00] this eSport, uh, data aggregation company, and that was really fun.
+
+
+And I started learning Python. I started learning rust. We did a lot of programming in Go, but after, uh, COVID hit, it got, I think, a little lonely to just sort of coding from home and doing both this computer science degree and this. [00:03:20] And this programming job. So I took a step back and I also enrolled in, in a separate university to do business.
+
+
+And that school didn't care as much about the COVID rules at the time, uh, which I thought was nice because it allowed us to do more things outside of school and. That then allowed me to use some [00:03:40] of the sort of coding background and the technical background I had, I had, and combine that with a business, uh, mindset.
+
+
+So did an internship at McKinsey. I worked at two other Y Combinator startups and um, a quick stint in vc. I think I saw a world where, you know, you could just do things and, um, [00:04:00] when the LLMs came, both with the launch of T in November, 2022, but more importantly, the. API for G pt 3.5 came in the spring. We were just sort of caught sideways, like we were flabbergasted by how awesome this tech was.
+
+
+And so going down.[00:04:20] 
+
+
+Yep. Um.
+
+
+And so we saw a huge opportunity to combine that with, uh, a field like law. And my two co-founders, August and Sigge [00:04:40] spent quite a significant amount of time in that intersection, even before the launch of lms. So we had done some of the preparatory work, but with, um, with the paradigm shift that was happening and, and you know, what the LMS unlocked us to do, the opportunity was sort of there for the taking.
+
+
+Okay, thank you. And I want to [00:05:00] ask a detailed story about your childhood. So, as you mentioned, games like Toyota Two and uh Word Word are known for having very demanding lead system. So a lot of people say that former wow. Later leaders open, go on to become a leader or founder, leader in life. So did, did [00:05:20] that experience play a significant role in shaping your only leadership style or personality?
+
+
+Well, I think to talk a little bit about my childhood, um, my, my dad was an entrepreneur. Um, he was first part of opening the [00:05:40] Stockholm BCG office, and then he had two companies during the.com era, both of which maybe didn't go as, as successful as, as Lara has. And I, I saw that and I. I think I always wanted to, [00:06:00] oh, lemme rephrase this.
+
+
+Okay. Um, well, I think from a very early point in my childhood, I was inspired by my dad. I think he is still my, my greatest idol to, in, in, in many aspects. And he [00:06:20] had two companies during the.com era. Which, uh, rose and then fell pretty quickly. But I think the idea of, uh, going out there, competing in a global environment with a business, um, is very attractive.
+
+
+I, I don't [00:06:40] want to treat, and, and I never really did, even back when I was studying, like, I didn't treat it as, oh, I just have to do this thing and then I'm done. It's like, if we are going to do this thing, let's be the best at it. If we're gonna do mathematics, then let's be really good at mathematics. And I didn't want to bring, [00:07:00] um, sort of complacency into my, into my job.
+
+
+Um, I wanted, I want to do things and I want to be the best at it, and I want to do really hard things. And I think some of my leadership style is probably influenced by, by some of the early gaming. I, but maybe more importantly, I think. [00:07:20] Gaming a lot for me back in those days, uh, taught me that if you want to be great, you have to grind and you, it's not enough to just play more hours than the other people.
+
+
+You gotta play smarter and you gotta learn more. And to go, you have to bring a, [00:07:40] a level of intensity and, and sort of science to the game that is better than anybody else. And. Many of these games were also, um, strategy games where you had to collaborate with other players. So in Doda, you are five players on one team, and that group of five people [00:08:00] have to collaborate seamlessly to reach the right, right goals together.
+
+
+And very often the teams that you play in would be consistent of people from all over the world. So it could be, you know, an American, a, a Danish guy, Sweden, you know me in Sweden, somebody in the UK and somebody in Turkey. And you have to come together and then you have to [00:08:20] work on this big goal together.
+
+
+And I think being a, a, a leader that leads from the front, that puts in the hours that is willing to do the work, but then is also able to coach and to, um, focus on the bigger goal and, and centralize the efforts towards the goal is very important. I think the way that I [00:08:40] lead the Gora, um, you know, you're probably better off asking people to work here, but in, in my words, um.
+
+
+I, I want to set the, the tone for what great looks like. Um, what really caring about our mission is, [00:09:00] which is at the end of the day to help lawyers do great work and to make their, uh, their work more fun, more engaging, and to bring technology to them in a way that's never happened before. And I think that can take many different shapes and forms, but.
+
+
+Yeah, I [00:09:20] think, I think my, my, my, you know, my childhood was very, very safe, very, very nice. And it allowed me to focus on things that, um, that,
+
+
+yeah, I don't know, is this good or bad? I don't know. Yeah. Easy. But it was like, okay, easy enough. Yeah. Then. [00:09:40] Okay, great. I'm curious, do you actually find highly competitive environment enjoyable rather than stressful?
+
+
+So I think for me, without competition, um, there is no excitement. [00:10:00] Um, I don't get stressed by being in a competitive environment. I get energy from it. And I get energy from delivering more value, doing things better, running faster, running [00:10:20] smarter, and attracting, you know, better people and working with individuals who, in, in many aspects, I find much smarter than myself.
+
+
+I think that is a, a core job of, of a CEO to be able to attract people within all different types of fields who bring skill sets that you don't have. And [00:10:40] then you've gotta make the band play together. Um, and competition takes many different shapes and forms. You can think about how we are pushing innovation in product, right?
+
+
+We're a product driven company, and so whatever we put out has to be super high quality and it has to push the envelope forward. We can't be fast [00:11:00] followers, we gotta be the innovators. You can think about marketing. How do we create, um, a real sense of. Of, uh, you know, how do we create a real sense of belonging with our, our clients, our customers, and their use cases, so that they feel like Lara is not [00:11:20] only, you know, a service that they use, but their best friend who, you know, is going to work really hard on their behalf.
+
+
+And you can think about how, how, how we do sales or how we do financing every single part of what makes this entire band play together. I think they're competitive too. And so not only do we wanna, you know, win as a team, but [00:11:40] we also want to win in all of the sort of sub leagues that we're playing in, which, um, I get a lot energy on.
+
+
+Do. Then at one point I feel like you could have built a company in the gaming space as well, but, uh, what, but why do you decide to go into the, go into the legal AI and [00:12:00] actually, given that you didn't have a background in the legal field at all? So one of the things that made the legal industry very attractive to us was that there were so many problems, meaningful problems to go and solve, where they were real pain points.[00:12:20] 
+
+
+So back in 2020, the seed of what then became Lara was sort of, you know, founded or planted and. Throughout book, working with our, with our users, working with, uh, different legal professionals. You sort of uncover more and more and more stuff that you can go and do. And I think [00:12:40] there's also an element of sort of technology and problem fit where the LLMs that can solve so many of the previously unsolved challenges around, uh, NLP and working with text and language that.
+
+
+You know, applying that technology into the legal world [00:13:00] created a lot of opportunities to form a company around. And what we founded La Gura back in spring of 2023, um, I think the product was less clear than what the space was. We were very clear that, you know, we are going [00:13:20] to help lawyers. Solve work with ai, but exactly what that looks like, we don't know yet.
+
+
+And then I think very quickly we landed, landed on a, on a thesis, tested that, and then have doubled down on that ever since. And [00:13:40] there's nothing as rewarding at is for me as when clients or people that we serve let us know that. We have made their day better, or we've helped their business in some way, or they were able to finish a piece of work and get home to their families to see their kids [00:14:00] before they went to bed.
+
+
+And I think as we continue to dive deeper and deeper and deeper into the legal space, we're just uncovering more and more and more value that we can actually build. And so I really feel like despite having grown the company from, you know, zero to, you know, unicorn. We've done zero to one. And now [00:14:20] there's the journey of one to 10, and then 10 to 100 left to do both on a product level, but also on a company level.
+
+
+So then I'm curious about, uh uh, yeah, yeah. How did you first meet your co-founders [00:14:40] and how did the ideas of starting legal come together? S. So, I'm not sure if I've said this before, but the first time that I met August was actually on a volleyball court in Stockholm during COVID. And, um, I, I know his [00:15:00] girlfriend from from high school and we met and I think immediately had a sort of, you know, hit it off with a mutual interest of what technology could bring to the world.
+
+
+And he was doing, um, a degree in, in psychology and machine learning at, at the time, and [00:15:20] Sega was one of August's close friends. And, and he and Sega had spent a lot of time working on this program before I even arrived into the picture. But when, when I did, which was in the, you know, late spring of 2023, I think we all brought a sense of focus into what are we actually [00:15:40] going to do here?
+
+
+Because. You can have a ton of different ideas. You can work on a lot of different problems, but at the end of the day, a startups strength is focus and clarity in terms of what you're doing. So we decided very quickly that we're going to build the, [00:16:00] you know. Uh, back then legal AI assistant, but then that has turned into the entire sort of legal work platform that we have today and or platform for legal work that we have today.
+
+
+And
+
+
+again, the problem always in this [00:16:20] space always attracted our, our, our interests. And so I think we never really considered, should we do anything else? It, this was just, you know, what we were going to do. Hmm. As you mentioned about program, so I want to ask about your YC experience. So, mm-hmm How was your, how was your YC YC period and what is the [00:16:40] biggest in that period?
+
+
+So, one of the reasons we decided to apply the Y Combinator was because we wanted.
+
+
+So after that first summer in 2023, we had a couple of different options. We [00:17:00] could raise money from European visas. We had a couple of term sheets, or we could, uh, accept the offer to join Y Combinator and go to San Francisco. And what attracted us of going to to ASF was, you know, Sweden is a small ecosystem.
+
+
+And so if we wanna play in the big leagues, we need to be in the States and. [00:17:20] I think our experience of, of being in YC was maybe slightly different because we had so much business already growing in Europe. I mean, we went from zero to almost a million a RR in like a month and a half during Y Combinator.
+
+
+And a big reason for that was because I was spending a majority of my time still in [00:17:40] Europe and.
+
+
+I tried to make it work from San Francisco. I bought this, uh, ring light pretty similar to this one that would, uh, shine on my face when I took calls between 1:00 AM and 10:00 AM um, over the night towards, towards, [00:18:00] uh, the other side of the world. But at the end of the day, you're just gotta be where your customers are.
+
+
+And so, um, we got early traction there. Now we're doing. The US is our biggest market, and we're doing an increasing amount of business here. We're sitting in our new, uh, space here in New York City, and we've got several more hubs opening this [00:18:20] year. And so with the, with the growth of the product and with the growth of the, you know, value that we're bringing, it's an increasingly global and complex markets.
+
+
+Hmm. So I think uh hmm. I think then [00:18:40] you, the joining the YC is the man that taking a hit on valuation. I think so. Right. So taking a hit on, so you're, uh, you already make the 1 million a r in Europe, but uh, the YC batch program, uh, offered the 500 K. Right. So I [00:19:00] think that is the, uh, some kind of shrink, the variation shrink.
+
+
+Hm. So still I do. I'd love to dig, dig a bit differ in why expanding in the US was so important to you and why, why this specifically was worth that trade off journey. So, so I think for us it's incredibly [00:19:20] important to be aware our customers are, and the majority of our customer base is in the US and we gotta be where they.
+
+
+Uh, let's phrase it this way.
+
+
+So think for Lake, where it's incredibly important to be where our customers are. And a big, big part of our customer base is here in the States. [00:19:40] And so when we think about both serving them on the ground, but also tuning the product to their needs, it's just a must have. The decision to to partake in, in Y Combinator partly came from the fact that I had been at two other YC companies before.
+
+
+Um. We knew other founders had been in the, in the YC community, [00:20:00] and we wanted a foot in the door towards the, the American market. I mean, since then, or did we have to do yc? I don't know. But, um, the doors that it opened to us, I think we're crucial. So via YC we then got introduced to benchmark. [00:20:20] Benchmark is obviously an amazing fund and.
+
+
+The people that we've brought, brought with us on this journey, um, both from an investor standpoint, from an advising standpoint, I think have been excellent at helping Lara become what it is today. Thank you. Then [00:20:40] I'm curious, when you first entered the US market, so what was the biggest challenge you faced, you and legal faced?
+
+
+Only on. So when we entered the US market, I think it was very clear that we were the best product in our market. There was just no, um, question about it really. [00:21:00] And the main problem and challenge that we had, I think was breaking in as a household name. And we also went through an exercise of rebranding the company from Leia that was our original name to RA that we're called today.
+
+
+So. We really wanted to make sure that you know who we work with [00:21:20] in the US as our first set of clients are excellent lawyers, excellent law firms, but also, uh, carry a lot of weight in the market. And we were very lucky to get in contact with Clear Gottlieb, who's one of the white two firms here in on, on Wall Street and also [00:21:40] Goodwin and Proctor.
+
+
+One of the great venture firms, and I think with both those two firms, there was a lot of alignment in what they want to achieve with AI and how Lara can help them get there. So it's more than them just buying a product. I mean, um, AI is creating such [00:22:00] opportunities and such risks in a sense for, for what the legal world and, and, and law firm model looks like.
+
+
+That. Uh, we had alignment and then it was, you know, time to go. And after that we quickly opened an office here in Manhattan. We were in a much, much, um, [00:22:20] scrappier, uh, place than what we're in today. And, you know, we're also taking that more than and expanding it throughout the states. Thank you. Then I'm curious.
+
+
+Uh, rego Oil has been growing incredibly fast as a second Uber. So operating in a market where there are [00:22:40] already a Wellknown superstar and, uh, large, uh, large, uh, competitors. So did that landscape feel more like treat to you or on opportunity? So, so when I think about our space, I mean, as I said, it really feels like we're still on the starting line and [00:23:00] this, this, uh.
+
+
+This build out and, and the capabilities that generated AI and gen AI brings to the legal space, it's just unfathomable compared to anything that's been able to, to be accomplished before. And so we don't really think about it in a timeline or, you know, we first or we second, you [00:23:20] know, what's, what's the status quo?
+
+
+'cause there's so much left to do. And, and we're playing what I like to call the, the infinite game. And, um, I plan on building Lara for a very, very, very long time. And the,
+
+
+I think the focus on [00:23:40] let's deliver the most value for our users and then other problems sort of around that seems to solve itself. I think there's a lot of great examples of, you know, second and third movers having, uh, much better takes on the [00:24:00] market and making much better strategic decisions. Um, I mean, you can compare Google to Alta Vista, uh, for, for those who remember, you can compare Facebook to MySpace.
+
+
+There's lots of, lots of great examples, but, you know, ramp to Brex. Another one, maybe a little bit closer in time. Where I think the [00:24:20] focus and, and clarity of vision is what separates, uh, different players in the market. Hmm. Then I am curious, you briefly touched on this earlier, but uh, could you walk us through rigorous across, over past two years?
+
+
+So over [00:24:40] the past two years, I mean, we've grown from, again, three engineers in Stockholm and from zero clients to over a hundred in our first year and 30 people, and now over 750 clients, 300 people we're growing faster than ever. We've more than doubled every single [00:25:00] quarter since we went into general availability in October, 2024, and.
+
+
+Yeah, again, we can think about these metrics in terms of, you know, number of lawyers, what are they doing? But most importantly it is how are they using AI to augment their businesses and how are they using AI to [00:25:20] achieve more? And here I think what's very exciting is that, um, AI is bringing a new, um, potential operating model for how legal work gets done.
+
+
+No longer is it the case that for a specific m and a transaction you need to [00:25:40] review all of the commercial agreements by hand to make sure that there's no change of control. Control clause, uh, leg Gore can do that for you. Or if you need to redline a specific contract according to your house, styles can do that for you.
+
+
+And once these legal professionals dive deeper [00:26:00] into the tech, their creativity gets unlocked. And it's like once you've had this aha moment, it's very, very, very hard for 'em to go back. And I think what I'm excited about is how do we continue building out that future for them and how do we also make sure that we leave nobody behind so everybody has to get on the train.
+
+
+And then we [00:26:20] gotta let our super users and the most creative individuals run, you know, several standard deviations ahead of the main using our technology. Hmm. Then, hmm. You just open, uh, you just open. Open the new office in New York. Yeah. [00:26:40] And, and the team seems to be, seems to be growing super fast and we can't even see rolls of, of empty desk behind, behind a set for the new hires.
+
+
+So how big is the team, uh, today and what pace are you growing? Well, so as you can see, we're, we're in our new space here in New York and [00:27:00] there's quite a few, uh, empty desks here. Behind me. There's another floor where, where the most of the team are today. Um, I think we're gonna have failed almost all of this before summer.
+
+
+Um, this year the team is about 300 people today spread across several offices in Denver, New York, London, Stockholm, India, [00:27:20] Sydney. Um, we're growing across all different, you know, departments. Uh, that's weird. Um, we're going super aggressively across, you know, all different teams. Um, you should definitely check out our, our roles page, uh, if you're interested in joining the rocket ship.
+
+
+Um, but most [00:27:40] importantly it's how, how, how do you scale, um, and continue to keep the culture and the, the things that got you here and the things that will get you from, you know, where we are today to where we, to where to where we want to go, and. You know, I have some ideas around that. I, I take a very active part in, in our [00:28:00] recruiting, still interview everyone, everyone who joins the company.
+
+
+And the, I think the focus on,
+
+
+I think the focus on, on ambition, integrity, um, wanting to win together and [00:28:20] recognizing that this is a generational. Moment in, in history where some really great businesses will be built on top of LLMs. Um, everybody who joins the company has those traits and together they just, you know, we just create this environment [00:28:40] where,
+
+
+I mean, it, it doesn't, it doesn't feel like you are, you are. You're doing busy work. It feels like you're trying to just like capture as much momentum, like you're trying to capture all of this momentum that exists and it's, it's just the pace of, of something that I've never [00:29:00] experienced before. And then I think, um, you know, one of the great pleasures of getting to build a team is that you,
+
+
+you hire people of different skill sets and then when they start to work together something new, unlocks and. You know, I don't do a lot of things outside [00:29:20] of, of ra and so I'm, I'm also happy to call many, many people here, you know, some of my best friends, and I think if you ask them, they would probably say the same then, so.
+
+
+Hmm. I'm curious, especially in our teams, so every [00:29:40] single hire really important. So, but when you, when you are hiring, what do you, what do you look for most in the people you bring onto the team? So, one of the things that I like to look for in the, in the people that we hire is the ability to be introspective and, [00:30:00] you know, read situations, talk about heart problems, and understand.
+
+
+Oh, well, I'll rephrase that a little bit. Uh,
+
+
+so one of the things that I look for in, in everyone that we hire, and I think [00:30:20] Zuckerberg was the one who said this on an interview first, was, uh, you know, why slow? How, how much capacity does this person have to grow? And some of the questions that I like to ask is. Tell me about the hardest prob problem that you worked on, and what was that problem?
+
+
+What were the, what were the [00:30:40] circumstances? What did you directly contribute to solving that problem, and, and how would you do it differently if you had to go back to that problem today? Because I think the ability to solve really hard things is a very good predictor of what the job here at the is.
+
+
+Everybody has to solve [00:31:00] really hard things all the time. And so your ability to approach a problem systematically and analytically and learn from the way that you approach a problem the first time to the time that you have to approach a problem the second time is super important. And, and probably, you know, the most important skill that you need to bring [00:31:20] to the table.
+
+
+And then I always look for sense of ambition. Um, we're not looking for people who want to. You know, come here, you know, do their, do their little small thing and then go home. We're looking for people who want to take responsibility of the outcome of the company and who want to run [00:31:40] with this together, and I think that creates a very special spirit and a very special, uh, team, or, uh, thank you.
+
+
+I'm also curious East. Oh, sorry. I just wanted to check if we were, or if you want, do you want to do anything in front? Yeah, no, I think that's, that makes sense. Okay, great. Thank [00:32:00] you. Then, uh, is, is speed the most important value for Lira? Right. Lira or GRA team right now? What is the most value, most important or value or work ethic or the company philosophy?
+
+
+Yeah, so I think the, the [00:32:20] most important value for us is, um, leaning in and taking full responsibility of the outcome that we deliver in the market. Um, and that means. You know, if you're an engineer and you're working on a feature, you don't care about doing a [00:32:40] ticket, you care about what shipping that feature will create for our clients.
+
+
+Or if you're working in the sales team, it's not about how do we land this deal? It's about how do we help this firm succeed with their AI goals [00:33:00] and. You can lean in in many different ways and to varying degrees, but I think since the very beginning, LAUA has been very lucky to attract a type of person who doesn't only care about their thing.
+
+
+It's [00:33:20] not about looking good, it's not about their title. It's about what impact does this have for? You know, towards our mission. And of course it's different when you're 30 people and everybody knows what everybody else is doing versus when you're 300 people and you need to coordinate on a bigger [00:33:40] level.
+
+
+But that, that value has probably been the most important part of, of helping us go from where we were to where we, where we are. Thank you. Then also I'd love to dig, uh, a bit deeper into the customer obsession. So, so both during yc, in YC and [00:34:00] in rigorous holidays. So you were literally in customer's office, so Yeah, working, working side by side with the lawyers, so.
+
+
+Could you share with the audience how important it is to meet customers directly and work with them closely, especially in those high tension and early stage and maybe, uh, [00:34:20] lessons or less experience that really stuck with you. So another thing that's been, I think, incredibly important for since the very beginning has been to grow together with our customers.
+
+
+Um, we do not exist in isolation and without our customers. LaGuardia doesn't exist and. What I mean by that [00:34:40] is lawyers are some of the smartest and most ambitious people on the planet, and they have historically been underserved with great software. So there's so much excitement. There's so much sort of built in let's go, and with the people that we get to work with that it's.[00:35:00] 
+
+
+Very, very important for us to forge bonds with them and get them involved on what we build next because we're literally inventing the future of legal work together with them. Um, since the very early days, we were incubated in the biggest law firm in, in Sweden, man, Hamer Ling. And [00:35:20] they were, you know, generous enough with their early time and, and space actually got a, a.
+
+
+A, um, conference room in their office that we could use in the very early days to help up help us prove out some of these early proof points that, uh, that we [00:35:40] needed. And I think after that,
+
+
+when our users have their first aha moment with the product, they.[00:36:00] 
+
+
+And I think after that, when our lawyers have their first aha moment with liberal, they understand that not only is this tech sort of here to stay, it is the way that work will be done. And so they want to get on the [00:36:20] train, they want to be involved, they want their voices to be heard, and they want to have a say in what the future looks like.
+
+
+And that is awesome. That is not something that we take for granted. And you know, one of the big responsibilities for us is to involve them in that process. And [00:36:40] not only are we building sort of the collaboration layer between different lawyers and different teams. But I think we're building the collaboration layer between human intelligence and machine intelligence and how that works within, within the legal world.
+
+
+And that's very core to our DNA and I think it's something that [00:37:00] really separates us from many of the other players in our industry. Hmm. Then. Uh, for, for our, for audience who are curious about what RA is actually building. So could you please walk us through the product journey and explain what RA's products does today?
+
+
+So for everybody who doesn't know [00:37:20] what RA does and or maybe hasn't seen a demo, it is a platform where,
+
+
+so for everybody who hasn't seen Leg, Agora or maybe hasn't gotten a demo leg, Agora is a couple of. Well, how should I explain this?[00:37:40] 
+
+
+So, for everybody who hasn't SRA or, or doesn't know what, what we do, um, it is a, wow, [00:38:00] wait. I, it's not for lawyers, right? I'm, this is for people who are non lawyers. Mm. Yeah, mostly are, I think mostly are not Don lawyers, but Okay. Yeah. Okay. Someone, a lawyer. Technical. Yeah. Okay. Okay. So for everybody that doesn't know what is or, or what the platform and [00:38:20] product does today, um, it's a couple of different pieces.
+
+
+Um, the first one is the web platform. And on the web platform we basically allow lawyers to work, um, within the specific client. No, no, this is not a good way of explain. Um, yeah. So for everybody who [00:38:40] doesn't know what the gora, uh, is or does today, I think the best way to describe it is that we help lawyers solve concrete tasks.
+
+
+With the help of ai. We have a couple of different components to the entire suite. It's our web platform, our mobile app, and our integration into different parts of the Microsoft ecosystem. [00:39:00] And if we start with the web app, there's a couple of core use cases that we solve for. Mainly we categorize them into three buckets, reviewing stuff, drafting things, or researching.
+
+
+And we make all of these three things really easy from one single place. So first we have an agent [00:39:20] that we call the LA system. And that assistant is able to traverse and work with all the other tools that's available in the ecosystem. So you can give Lago a task like, Hey, I want you to go and review these 100 files.
+
+
+I want you to find any red flags, and then I want to draft, uh, then I want you to draft a report based on that. And then what'll Lago will [00:39:40] do is create a plan and then it would execute that plan. Within that plan, it can use the other tools at its disposal. So a few of those tools are things like tabular review, where you could throw in, you know, hundreds of thousands of agreements and then having Agora actually review them one by one by one extracting different data points that might [00:40:00] be relevant for the, uh, for the task app, we have our drafting tools where Gora can open Word documents.
+
+
+It can create markup research tools where the core can use different research repositories, repositories to find, um. Okay, legal information, case law, legislation or UpToDate [00:40:20] information from the web. And then our agent combines all of this to solve different types of tasks. Recently we also launched what we call the liberal portal.
+
+
+The liberal portal is a way for law firms and their clients to collaborate in the same space. And the reason why we built this is because some of our own pins working with our [00:40:40] lawyers is. Going back and forth on email a hundred times for a single document or when you're working on a deal. So we're bringing everything together in one single place.
+
+
+The other two parts where Leggo integrates with Microsoft, both in Outlook and in Word.[00:41:00] 
+
+
+This was a very long description. And you're going very granular, but, uh, yeah. How, how much like product details do you I think the pre-pro is fine. Okay. It's good. Good. Like easy to follow, [00:41:20] non. And the last two parts is where Agora integrates with, uh, and the last two parts is where Agora integrates with the Microsoft.
+
+
+And the last two part is where the gore integrates with the Microsoft Suite. So if you're dropping something inside a word, you can literally pop the go open and you can ask to review the document [00:41:40] or change any clause, and then it'll just create the markup and the red line straight where you're already working.
+
+
+Thank you. Then. Uh, I, I saw the rigorous customer base seems, seems to have grown incredibly fast. So [00:42:00] from what, from what found found, the number of customers grew by more than 6% between May and October in 2025. So, and I heard, I've heard that you personally handled onboarding for the first 30 customer yourself, so.
+
+
+That make, that makes me [00:42:20] curious about your only GTM approach and what made legalized sales motion so effective. So when founders leave sales in the early days, what lesson learned would you share about what really matter?
+
+
+Sorry, do you want me to, to bake in some of the [00:42:40] late stage stuff, or do you want me to only answer the early stage question? Hmm. The, the only question Yeah, the early question. Yeah.
+
+
+So I think in the early days, um, you know, when, when you don't have a big team, um, and especially for [00:43:00] me, it was coming, you know, entering this industry, it was incredibly important to get close to the customer and to understand, you know, some of the problems that they wanted to solve with Lara and how they would best adopt the product.
+
+
+So. I handled, I think the first 30, 30 law firms and in-house teams coming [00:43:20] onto the platform with all the onboardings and the, the learnings that we took from, from those early days is that you only get one shot. And what I mean by that is lawyers are so busy that you don't get a second chance onboarding them on the product.
+
+
+So it has to work. It [00:43:40] has to be a can break and the use cases need to work and it need to solve, and you need to do a good job of setting the expectations of what the product can do today versus what the product will be able to do a week from now, a quarter from now, a year from now. And so the way that we've scaled our go to market team is a consequence of that, is that we have, you know, of course the, the, [00:44:00] the go to market team, but then we have a huge team of legal engineers.
+
+
+And these legal engineers are ex practicing lawyers from top tier firms in different practice areas that, um, embed really closely with the customer to drive success. And then we pair that with a lot of change management and typical customer success [00:44:20] in our engagement team. So all of that to create a very, um, white glove experience and the sense of partnership in getting them from point A to where they want to.[00:44:40] 
+
+
+I, I got, I got run short at the hour run. Yeah. Are we, are we okay with 10? 10 more minutes? Yeah. 10 more minutes. Yeah. So then. From your perspective as someone running one of the fast growing company in the market today, so what is the [00:45:00] single most valuable piece about advice you, you would give to very early stage founders, even before see the stage based on what you run over the, the best two years.
+
+
+So we've obviously grown a lot in the last two years, but I think if I were to give some [00:45:20] advice to. Myself starting out again, or to founders who are pre pre seed stage event, I think it's that you need to fall in love with the industry and the problem that you're [00:45:40] solving, and you need to be, or at least find a way to be emotionally engaged in.
+
+
+Solving the problems that you're running at, because if it goes well, you're gonna be working so hard and you're gonna be focused on [00:46:00] these problems for, you know, such an intense period that you need to really be excited about what you're doing. Um, I wake up every day and I'm thinking about how do we deliver more value and how do we make it more a more successful business?
+
+
+And I [00:46:20] think had we picked, you know, maybe something we weren't as excited about, that would've been much harder. Um, I also think that the founding people that you, you know, somehow magically convinced to join you on this crazy journey that you're about to embark on, [00:46:40] there's no way. It's very hard to understate the importance of those people.
+
+
+And so I was very lucky that, you know, some of my best friends and smartest people that I know were excited to go and do this with me. But, um, going back to, to [00:47:00] when it was, yeah, you just need to, you just need to, just need to have really great people with you on, on, on the journey. Thank you. Then I get the sense that 2 20 26 could be the decisive year for legal team of [00:47:20] winning in the US market.
+
+
+So yeah. How are you thinking about growing aggressively this year and ex really pushing to win?
+
+
+Yeah, so I think in many ways we,
+
+
+yeah, so I think in many ways, 2026. Is the [00:47:40] year that we break out from the crowd in some ways. Um, we've already started to differentiate quite significantly on the way that we deliver product and the way that we deliver services around that product. And our focus on the US going to this year is definitely very high.[00:48:00] 
+
+
+We have, of course, of the office here, but also several more hubs opening. We're recruiting, um, you know, our C level suite here in New York City and, or I should rephrase that. And we're recruiting part of our C level suite here in New York City. And,[00:48:20] 
+
+
+but I also think it's important that. You don't forget the rest of the world. Um, we now operate on a, you know, fully global scale. And [00:48:40] as, as you know, the way that, uh, so the software industry typically plays out is, is there, there's a clear market leader who ends up taking majority market share. And so we're, I think making all the right moves towards becoming that.
+
+
+I think we're still in the very early [00:49:00] stages and I think that. At the end of the day, whoever delivers the most value to clients, whoever deliver, I think whoever delivers the most value to clients builds the best company and culture, and is able to run at this with the most [00:49:20] intensity and for the longest will win.
+
+
+And I have zero doubts that the Gore has all of those ingredients. Going into this year. Thank you. Then. Uh, so for, uh, for found one more, uh, [00:49:40] question about advice. So for founders looking to expand in the US from outside of country, so what advice would you share based on your own experience? So I think for companies looking to break into the US it is important to note that it is at a very.[00:50:00] 
+
+
+So for companies looking to expand into the US I think it's like expanding into any market. Um, I mean we started in Stockholm, you know, a couple of years back. Um, we had to expand into other countries in Europe and expanding [00:50:20] into the US was, you know, not that unsimilar. I think maybe there's an aspect of culture and.
+
+
+The way that you've gotta show up and talk about what you're doing is slightly different. Um, I think the scale is different. Um, serving a mid-market law firm in Europe, serving, you know, one of the biggest law firms [00:50:40] in the world here in New York, you gotta have a different operating model. Um, I think it's helpful to have some American investors who, you know, can introduce you to the right people and who can help give some of that.
+
+
+Market, um, you know, [00:51:00] explain some of those market differences on a more granular level, but then the day, it's like everything, build a great company, build a great product, and the thing kind of sells itself.
+
+
+Sorry, I have two, two more question. But with lipid growth, open comes a [00:51:20] lot of pain as well, so. Looking back on the two years, past two years, so what has been the hardest part of your personally as a founder, and how, how have you managed it to get three?[00:51:40] 
+
+
+So, I think the hardest part for me, on a personal level, growing the company from, from, you know, three to 300, was that. Your role probably changes the fastest and. You cannot be married to the way that things were done or to what you are [00:52:00] doing. You just gotta wake up every day and think about how do I optimize for the business today and maybe a month, a quarter, a year out?
+
+
+And those are the decisions you have to take. So you need to be your own best. Boss and you have to be very disciplined about not working on the easy things, but [00:52:20] working on the really hard things. And I think it's also important that you stay focused. It's very, very easy to say yes to too many things.
+
+
+And I think it's your responsibility as the founder and as the CEO to keep the company focused and to say that we're gonna do these things [00:52:40] better than nobody else in the world. I mean, in our, in our industry, we talk about building Lara so good that it doesn't matter if our comp competitions, you know, at Lara we're talking about building our products to be so good that it doesn't even matter if our competitions products are free [00:53:00] and C lawyers still picks us.
+
+
+And now that we've gotten to that point, um, you know, I just feel. You know, your job is developing all the time and you've gotta focus on the top challenges, you know, in front of you.[00:53:20] 
+
+
+Then, sorry, I'd like to rewind a bit and reflect on your early career journey to ask for some advice for founders. So. Looking back at your time from McKinsey to nurse and bc there are any experience or personal asset from that period that you [00:53:40] still find especially barrier today? Yes. I think part of my early career before starting Lara, um, some of the things that I take away with me is.
+
+
+You've gotta learn to work in that way. Like you gotta learn what hard work feels like. It's also good to learn business acumen [00:54:00] in some way, shape, or form. Um, I think, you know, having, having, having worked a little bit on the business side, you then know what to expect from a great founder who shows up and pitches their company.
+
+
+Right? Um, and I just think. The, the bigger the breadth of your experiences, the more you're able to bring [00:54:20] on into the company that you, that you have found founding. Um, I think it's also very important to be honest with yourself about what you're good at and what you're not good at. And I think for me, I was in the early days coding.
+
+
+I think there are still some, uh, PRS from, from my nickname in GitHub from the first summer. But very early on we decided [00:54:40] that, you know, that was not where I was gonna spend my time. I think in some way I got, I became CEO 'cause I was the worst programmer out of all of us. And that was probably for the best.
+
+
+Then, uh, when, when, when you're, when you are. When you were on moving customers early on, so was there a [00:55:00] moment when you, uh, when you thought this is really working a clear aha moment that came directly from a customer? Yeah, so I think when. You know, when we started out, there were definitely a lot of early proof points.
+
+
+I would ask the users, or I would ask the audience when I was doing a demo to take, [00:55:20] you know, maybe one of their old memos or, or of a case that they had worked on, upload it into the system, and then ask to do a first draft of it, and when they saw the results. I mean, it was kind of a, you know, you know, leaning back, uh, drop the chin moment.
+
+
+I think because it's also in a [00:55:40] way, the first experience like of, of professional AI that many had when, when, when the gora came, and that those types of experiences breeds momentum and, and gives you a lot of energy to keep moving forward faster. Hmm. [00:56:00] Then. Where do you see Rera? One year. Yeah. 58. Do you have a meeting at one?
+
+
+One more? Yeah. Where do you see re, where do you see Rera one year from now?
+
+
+So I think one year from now, the thing that I'm most excited about is leaning even [00:56:20] harder into the sort of product paring of having Lara operate more autonomously. And basically just give our agent access to all the tools needed to do work and then leading into the, you know, architecture that allows that model to plan and execute and then actually do full end-to-end tasks.[00:56:40] 
+
+
+I'm also really excited to see some of the partners and firms that we're starting to work with augment their business models where they're moving away from the billable hour to actually charging on their work in, in an alternative fee arrangement. I think the. On the company side, you know, I, I can't wait [00:57:00] to have a town hall in Pew one of 2027 and see the, see the size and, and, and, and see what we accomplished by then.
+
+
+Because if you would've told me that we would, you know, be sitting here Q 1 0 20 26, back [00:57:20] in the start of 2025, I would've never believed you. Um, so yeah, I think there's, uh. There's a lot to be excited about. Thank you. Yeah. Awesome. Thank you. Great. Yeah, thanks a lot. Really appreciate it. Thank you. Yeah.
+
+
+Thank you for super. Yeah. Thank you. Thank you. Thank you very much.

@@ -1,0 +1,396 @@
+{
+  "projects": [
+    {
+      "project_id": "script-john-kim-paraform-2026-2nd-filming",
+      "title": "[Script] John Kim, Paraform (2026, 2nd filming)",
+      "drive_file_id": "1wyTgmJZtwdM42b77fX3kV-rz2t0LMTP2t7xa1JU-Dwo",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-john-kim-paraform-2026-2nd-filming.txt",
+      "character_count": 171812
+    },
+    {
+      "project_id": "script-purya-samadi-medme-health",
+      "title": "[Script] Purya Samadi, Medme Health",
+      "drive_file_id": "1BuE0zQXtf-UAhqHJo3xxjloBJ77HUjzn3Yqrj0fJCXs",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-purya-samadi-medme-health.txt",
+      "character_count": 163039
+    },
+    {
+      "project_id": "script-paraform-previous-interview",
+      "title": "[Script] Paraform_previous interview",
+      "drive_file_id": "1fGGZJFiTmWC2bqlbxA67PpwHOWkRgLGY3OaqKkaHuAg",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-paraform-previous-interview.txt",
+      "character_count": 289569
+    },
+    {
+      "project_id": "script-steve-jang-kindred-ventures",
+      "title": "[Script] Steve Jang, Kindred Ventures",
+      "drive_file_id": "14PTHTQeLDoG24TtVouApRlM3Du0T2AWNRDJvNSOmidY",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-steve-jang-kindred-ventures.txt",
+      "character_count": 91236
+    },
+    {
+      "project_id": "script-jacob-bank-ep2",
+      "title": "[Script] Jacob Bank - EP2",
+      "drive_file_id": "10QCdFJ0fcQJuJKYShRxulprROoRvIbP4WTytX5FkdVI",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-jacob-bank-ep2.txt",
+      "character_count": 217049
+    },
+    {
+      "project_id": "script-kalshi-traders",
+      "title": "[Script] Kalshi Traders",
+      "drive_file_id": "1EFqVILHjMLK8KpsJG9EnU8UvOcA46z9M2OZXB-NI_KA",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-kalshi-traders.txt",
+      "character_count": 200347
+    },
+    {
+      "project_id": "script-navin-chaddha-mayfield",
+      "title": "[Script] Navin Chaddha, Mayfield",
+      "drive_file_id": "14b91awyC6kT0fB9mLZBOtzopK67bOY-LrSEP4pHFtRc",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-navin-chaddha-mayfield.txt",
+      "character_count": 78693
+    },
+    {
+      "project_id": "copy-of-script-yanolja-founder-story",
+      "title": "Copy of [script] yanolja Founder Story",
+      "drive_file_id": "1sQxFAnIyijvyuFa7RzR_6zM4R69miV-HNLELxpqkc1M",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/copy-of-script-yanolja-founder-story.txt",
+      "character_count": 139392
+    },
+    {
+      "project_id": "script-sam-liang-otterai",
+      "title": "[script] Sam Liang otter.ai ",
+      "drive_file_id": "1iBkwFHgrzI1F-mYKp82WEjE0XGtk1JqF818gg2ulS3s",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-sam-liang-otterai.txt",
+      "character_count": 56690
+    },
+    {
+      "project_id": "script-layerzero-full-script-after-editing",
+      "title": "[Script] LayerZero full script (After editing)",
+      "drive_file_id": "11uJQtnZUGxA5WQGuWsyd47-JJJSY_HXI4tEKBsH3F04",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-layerzero-full-script-after-editing.txt",
+      "character_count": 30532
+    },
+    {
+      "project_id": "qfex-annanay-kapila-full-script",
+      "title": "QFEX, Annanay Kapila full script",
+      "drive_file_id": "1lDCLJrSFIMZi9zc8LSOIRux_QM-KXLNGycOV8ZZ8ER4",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/qfex-annanay-kapila-full-script.txt",
+      "character_count": 96380
+    },
+    {
+      "project_id": "legora-full-script",
+      "title": "Legora full script",
+      "drive_file_id": "1gWvRc3-a_SikCEoDqvmRKtot3dTNBRlh8yjjOFFGsOY",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/legora-full-script.txt",
+      "character_count": 47890
+    },
+    {
+      "project_id": "paradigm-anna-monaco-full-script",
+      "title": "Paradigm, Anna Monaco full script",
+      "drive_file_id": "1uiZ27YBhOcu6ThhYtYm_mB7LCZhF5MIODjLikrPogTw",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/paradigm-anna-monaco-full-script.txt",
+      "character_count": 83933
+    },
+    {
+      "project_id": "bwa-full-script",
+      "title": "BWA Full Script",
+      "drive_file_id": "1_NOqmlfa4k8Ee4gFrBXPPW0Bz8hVKxdvQFz2cMuV_CY",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/bwa-full-script.txt",
+      "character_count": 127286
+    },
+    {
+      "project_id": "temporary-2026-po-shen-loh-lecture",
+      "title": "[Temporary] 2026 Po Shen Loh Lecture",
+      "drive_file_id": "1AIyPDx4JaEAeJJ-WeMoRE234RLQfxdLDgniOeUrrjqk",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/temporary-2026-po-shen-loh-lecture.txt",
+      "character_count": 145260
+    },
+    {
+      "project_id": "warp-full-script",
+      "title": "Warp full script",
+      "drive_file_id": "1I73C4LO33_dObUz4W4qbv7HhXka4CnGCjyFTrxX9iEo",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/warp-full-script.txt",
+      "character_count": 126609
+    },
+    {
+      "project_id": "youcom-script",
+      "title": "You.com_script",
+      "drive_file_id": "1tRYhfPTF3l2z5CiY3BrD3vyy3FJOy7ckyi-X1Vzg-Qo",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/youcom-script.txt",
+      "character_count": 84759
+    },
+    {
+      "project_id": "granola-christoper-full-script",
+      "title": "Granola, Christoper full script",
+      "drive_file_id": "11K_W6mLlRHazqR7FYbcr5Km5fYa-GCuvD-jrHe32_W8",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/granola-christoper-full-script.txt",
+      "character_count": 57684
+    },
+    {
+      "project_id": "reducto-interview-full-adit",
+      "title": "Reducto_Interview_Full_Adit",
+      "drive_file_id": "1YLJCCnohGIOZF5c-c3Y5MU03T_DvAR1dFoWSU4lBFX8",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/reducto-interview-full-adit.txt",
+      "character_count": 105592
+    },
+    {
+      "project_id": "arlan-rakhmetzhanov-nozomio-interview-full-script",
+      "title": "Arlan Rakhmetzhanov (Nozomio) Interview Full script",
+      "drive_file_id": "1diJ8fJMQzLcV0DGppf9HKqypwo-XW981AMC-Cf1IQ5o",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/arlan-rakhmetzhanov-nozomio-interview-full-script.txt",
+      "character_count": 126341
+    },
+    {
+      "project_id": "script-taletree-matt-hagger",
+      "title": "[Script] Taletree, Matt Hagger",
+      "drive_file_id": "11HBiO_7V0k1hogAz60BH_zQ6OErKPJRo2t3El4UA3Fg",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-taletree-matt-hagger.txt",
+      "character_count": 161320
+    },
+    {
+      "project_id": "supercom-script",
+      "title": "Super.com_script",
+      "drive_file_id": "1H6sX_EhrsnUhkZRnC2UgGIveTnny_b1ICYauVf4OC8k",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/supercom-script.txt",
+      "character_count": 113861
+    },
+    {
+      "project_id": "script-radical-ai",
+      "title": "script_Radical AI",
+      "drive_file_id": "1B85V0s9iE1LesEuG76PgbO3hx4jc1kGJi6L2hpWivxU",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-radical-ai.txt",
+      "character_count": 89579
+    },
+    {
+      "project_id": "script-swell-2025-interview",
+      "title": "Script_Swell 2025 (interview)",
+      "drive_file_id": "1IQ_pnB2YTZvo7HTTLnD0RevIZaXMaoCVImMXc8sYyAQ",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-swell-2025-interview.txt",
+      "character_count": 342965
+    },
+    {
+      "project_id": "script-figmaoct2025",
+      "title": "Script_Figma(Oct.2025)",
+      "drive_file_id": "1KoTszfn3tVl9mZWcIMOZgABmPE8neGYAAVSrUQ9YG9g",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-figmaoct2025.txt",
+      "character_count": 155881
+    },
+    {
+      "project_id": "rocket-full-script",
+      "title": "Rocket_Full Script",
+      "drive_file_id": "1rUH2H_YD6FkKlL7x1vPHz0N9xTXs9meuArv2Wv-_7dk",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/rocket-full-script.txt",
+      "character_count": 78382
+    },
+    {
+      "project_id": "shortcut-nico-christie-full-script",
+      "title": "Shortcut_Nico Christie full script",
+      "drive_file_id": "1cGSP0FlKxMneeykL6IouyC_4hTRvOyNqoDOsvSjkEe4",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/shortcut-nico-christie-full-script.txt",
+      "character_count": 199773
+    },
+    {
+      "project_id": "rundown-ai-rowan-cheung-full-script",
+      "title": "Rundown AI_Rowan Cheung Full Script",
+      "drive_file_id": "1khx6qAJCKsxUyDn4Co8XApHgUUvIXsjhtU5o5Rz_Evc",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/rundown-ai-rowan-cheung-full-script.txt",
+      "character_count": 105536
+    },
+    {
+      "project_id": "counsel-health-jay",
+      "title": "Counsel Health_Jay",
+      "drive_file_id": "1dpbvDPfI79YFATVRRAPugHHVdh22U4SNP6-O_jYC7wM",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/counsel-health-jay.txt",
+      "character_count": 40322
+    },
+    {
+      "project_id": "counsel-health-muthu",
+      "title": "Counsel Health_Muthu",
+      "drive_file_id": "1JX3exyA45dJm0dM3IMb2mmEakyJ28TZbA1hUIocqmGs",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/counsel-health-muthu.txt",
+      "character_count": 103592
+    },
+    {
+      "project_id": "script-minna-song-elise-ai",
+      "title": "Script_Minna Song (Elise AI)",
+      "drive_file_id": "1wP_aHQt0cniEjgTmD_-gTwJH_8UBnc_Bf_kvMo5IPnk",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-minna-song-elise-ai.txt",
+      "character_count": 105552
+    },
+    {
+      "project_id": "script-arunarticul8",
+      "title": "Script_Arun(Articul8)",
+      "drive_file_id": "1y2bWd8IR3jPyOO1sA-plk7oidCYTq-vpRIax3uKz-bE",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-arunarticul8.txt",
+      "character_count": 207981
+    },
+    {
+      "project_id": "script-prepared",
+      "title": "Script_Prepared",
+      "drive_file_id": "151684FLXKM-XbfAAl-N5wLwbBtuWGcsLVfu_wEK08IU",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-prepared.txt",
+      "character_count": 119987
+    },
+    {
+      "project_id": "script-counsel-health",
+      "title": "Script_Counsel Health",
+      "drive_file_id": "1sIlYIGVerscE5e0k-2ZeB_eGkWfLRhYYgVCG6cFHW3A",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-counsel-health.txt",
+      "character_count": 163292
+    },
+    {
+      "project_id": "relace",
+      "title": "Relace",
+      "drive_file_id": "1ChNJDHpyUcD6qjv80EEoMnWeNNpidsWItz4R5riatTo",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/relace.txt",
+      "character_count": 97605
+    },
+    {
+      "project_id": "ukf-new-york-2025",
+      "title": "UKF New York 2025",
+      "drive_file_id": "1bLgw3zKlMfWrxKJM1TRrhI7TJDxCFqL1I6fWzp1EGCo",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/ukf-new-york-2025.txt",
+      "character_count": 49281
+    },
+    {
+      "project_id": "script-github-head-of-designdiana",
+      "title": "Script_GitHub - Head of Design(Diana)",
+      "drive_file_id": "1B52wmHP0Xde2pPP08LLSu4whwqR2ZfpE_uw-1M6ZWUU",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-github-head-of-designdiana.txt",
+      "character_count": 295347
+    },
+    {
+      "project_id": "alan-paypal-ventures-magic",
+      "title": "Alan_paypal ventures_Magic",
+      "drive_file_id": "1xoQY79dDw36DvG-55Lk5GWgzLmc1Q3hCACMmW0d6Svs",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/alan-paypal-ventures-magic.txt",
+      "character_count": 71311
+    },
+    {
+      "project_id": "taletree-matt-hagger",
+      "title": "Taletree - Matt Hagger",
+      "drive_file_id": "1VcNnvKCnTmUFlFV6UN59bRXJsfH5g6_xlVUKyn_pf0I",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/taletree-matt-hagger.txt",
+      "character_count": 1
+    },
+    {
+      "project_id": "아워심볼oursymbol-full-script",
+      "title": "아워심볼(OurSymbol)_full script",
+      "drive_file_id": "1anUS0RqfWbaCataTKiUpZJdbkCrWlWFlkzszJeJbd-Q",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/아워심볼oursymbol-full-script.txt",
+      "character_count": 54453
+    },
+    {
+      "project_id": "script-manusai-tao-zhang",
+      "title": "Script_ManusAI Tao Zhang",
+      "drive_file_id": "1S5XKXgV6tIZxt4LjlnA9Upv-I_pamCNxzNdnGaBp0FQ",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-manusai-tao-zhang.txt",
+      "character_count": 111539
+    },
+    {
+      "project_id": "script-jeremy-utley-ep2",
+      "title": "Script_Jeremy Utley ep2",
+      "drive_file_id": "1L6zHY3q1EI06mamNAu4dBKeOr3cAAUumHlay6TF-OEQ",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-jeremy-utley-ep2.txt",
+      "character_count": 155890
+    },
+    {
+      "project_id": "script-series",
+      "title": "Script_Series",
+      "drive_file_id": "1Yi0oGczcHjyP3NR_-QuqTBVary8LyKptidrtLaJbKMI",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-series.txt",
+      "character_count": 167575
+    },
+    {
+      "project_id": "script-1x",
+      "title": "Script_1x",
+      "drive_file_id": "1WfvC1Qf-0P6PS_jc7X3p5BLmhIn822Z4X9P7LqROmWE",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-1x.txt",
+      "character_count": 224296
+    },
+    {
+      "project_id": "nirav-tolia-founder-nextdoor",
+      "title": "Nirav Tolia Founder @Nextdoor",
+      "drive_file_id": "1N2LNIA-rsF53ZA4UaUAthTzFNl5UWTijVDYYxmopXNQ",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/nirav-tolia-founder-nextdoor.txt",
+      "character_count": 65840
+    },
+    {
+      "project_id": "magic-all-jae",
+      "title": "Magic_all Jae",
+      "drive_file_id": "1JVcMhOF6j7G82KjvQuo3yap4X_BO7J5AuFRfRgY6h0I",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/magic-all-jae.txt",
+      "character_count": 126880
+    },
+    {
+      "project_id": "dylan-fox-assemblyai-script",
+      "title": "Dylan Fox (AssemblyAI) Script",
+      "drive_file_id": "1KeEoJLl2AiWqfHRKo4QOlqGdqj484Mx77TYL8VeN4Dw",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/dylan-fox-assemblyai-script.txt",
+      "character_count": 108264
+    },
+    {
+      "project_id": "script-traversal",
+      "title": "Script_Traversal",
+      "drive_file_id": "1LVf2WX8N98osNUZ_IImzF15HfHA4fRrug3GtXv_ML_Y",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-traversal.txt",
+      "character_count": 94383
+    },
+    {
+      "project_id": "script-fal-ai",
+      "title": "Script_Fal ai",
+      "drive_file_id": "1YVXuxaplstUNxt0q8UDY7mzhnP2Oddc1wyqy-0f8o9w",
+      "export_date": "2026-03-25",
+      "transcript_path": "data/scripts/script-fal-ai.txt",
+      "character_count": 168774
+    }
+  ]
+}

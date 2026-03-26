@@ -1,0 +1,1134 @@
+﻿Script_ManusAI Tao Zhang
+[00:00:00] Hey. Hi, uh, here's Tal. Uh, I'm co-founder of Manness ai and right now I'm acting as our chief product officer here. And, uh, [00:00:10] Manness is kind of like the world first general agent, which means, you know, it's not like a vertical agent just doing some marketing agent or sales agent. Manness is a general agent [00:00:20] that can solve like many different types of work for you.
+
+
+You can just consider MEUs just as an inter in your company. So like any tasks you will [00:00:30] assign to your inter, you can try with MEUs.[00:00:40] 
+
+
+Oh yeah. Um, me is really like different than other chatbot there, you know, chat bot, [00:00:50] just, uh, focusing on delivering answers but matters. Focus on delivering the final result to you. Yeah.[00:01:00] 
+
+
+Yeah.[00:01:10] 
+
+
+Okay. Yeah, so it's like, uh, I think for all past two and a half years, all [00:01:20] these frontier models, like open eyes model models, they're very smart, like even smarter than 99% of humans. But the proven that [00:01:30] we can't just use the, uh, man, use the brain to make real impact, uh, uh, into the world, uh, we humans, we need hand [00:01:40] plus our man, and then we can make real impact.
+
+
+So we think all these frontier models, they're just like the brain of our humans. But the program is, they are [00:01:50] lacking of the hand, uh, to do the real work. So at Manus ai, we are building hands for these smarter man, for these smarter models, then [00:02:00] they can make a real impact into the world. Yeah. So, you know, that's why we choose the word Manus as our name, because Madison is from, uh, old Latin word, [00:02:10] which means ham.
+
+
+Yeah.[00:02:20] 
+
+
+Oh, yeah. Because we, we, we think actually, uh, zip mapper, like frontier models, they are already very smart. [00:02:30] But we don't think chatbot is the best way to release the true potential of lms. Yeah. Because we think because it, it already can handle [00:02:40] different type of tasks, but not just through a question and, and answer.
+
+
+We need the ai, we need the models to do the real work. [00:02:50] So medicine, you know, it just, uh, we are just solving the challenge that not just getting answers from ai, but really get the work done. Yeah.[00:03:00] 
+
+
+Yeah.[00:03:10] [00:03:20] [00:03:30] 
+
+
+Oh yeah, because we, uh, uh, sorry, I have to say again. Yeah, because we think the chat bot needs the [00:03:40] user to put a question first, and then the model will like be triggered by the question and give you the answer. Sometimes, you know, for most [00:03:50] users, they don't know what question to ask, then they can't get the value from AI from LM models.
+
+
+Yeah. So we think the best way that maybe [00:04:00] the model can sync on itself as its own plan and ask, execute the plan step by step, by just by itself, not just triggered by a lot of like [00:04:10] following up questions. So we think that's the best way. It's like the model just trigger itself, not just be triggered by human questions.
+
+
+Yeah.[00:04:20] 
+
+
+Okay. So at ministry, I, I think our mission is to expand the [00:04:30] boundary of humanity's productivity. You know, just like when we, when we human created cars, then we can reach farther boundaries, uh, [00:04:40] to, to the, uh, where humans can, can, can go. So I think, you know, in this general agent, uh, era, I think as a single [00:04:50] human, we can just expand your, uh, productivity boundary.
+
+
+Then just the one land can do much more work than before. So that's kind of the vision. We are, uh, we are [00:05:00] we performing? Yeah.[00:05:10] 
+
+
+Okay. Yeah. Uh, as well as, as far as I can, I can, I [00:05:20] can tell that will just finish our last round fundraising, uh, back in April. And, uh, we raised like, uh, uh, 75 millions dollars and, [00:05:30] uh, valuation at 500 million. Yeah, that's, that's kind of like our last one. And, uh, uh, we, we don't want to like talk about AR publicly [00:05:40] because, you know, uh, right now, I, I think it's not right to talk about ar in the public.
+
+
+It is, everybody is saying it's just a vibe, revenue, things like that. So we don't want to just, uh, [00:05:50] join that vibe revenue trend. But what I can tell you here is that we might be the fastest growing ar ar ai startup year. Yeah.[00:06:00] [00:06:10] 
+
+
+[00:06:20] Yeah, I, I'm using my, I'm using my MacBook. Yeah. Uh,[00:06:30] 
+
+
+no.[00:06:40] 
+
+
+Okay. I'm first, yeah, I already connect.[00:06:50] [00:07:00] [00:07:10] 
+
+
+Yeah.[00:07:20] [00:07:30] 
+
+
+Oh, oh, oh. Yeah. Yeah, yeah. I think as, as far as I can tell, that we are the fastest, uh, ar growing AI startup. Yeah. But yeah, I, [00:07:40] I just can share the exact number.[00:07:50] [00:08:00] 
+
+
+Uh, yeah. So I think, uh, every time, you know, I answer a question's maybe like after you mutual mic is, I [00:08:10] I also like hear the echo if you open your mind. Yeah. I don't know why. Yeah. Uh, so lemme just answer your, answer, your question here. Uh, I think [00:08:20] just like GGBT and deep sake, uh, they are all like, uh, the last generation of that, uh, AI apps, it's like a, uh, a check box, which means like you need to [00:08:30] answer the question and you get, uh, answered.
+
+
+But in Madison, just you assign a task to us, and you don't have to like specify the details because [00:08:40] Madison will just, uh, analyze the task and, uh, uh, come up with a plan of how to solve this, uh, this task. Sometimes maybe need, uh, like [00:08:50] 20 or 50 steps to solve this task. And then you don't have to, you know, push the ai, the AI will have its own plan and then, uh, follow up this plan and [00:09:00] execute the plan, the plan step by step.
+
+
+And Zane delivers the final result. You know, maybe a PDF, maybe an image, maybe a video, or maybe [00:09:10] a PowerPoint to you. Yeah. So it's totally different. We focusing on delivering the final result. Yeah.[00:09:20] [00:09:30] 
+
+
+Yeah. [00:09:40] Uh, I second what I can remember is that at, at the peak moment, I think Korean users just contributes to like 10%, uh, of our whole [00:09:50] traffic. You know, considering the whole population in Korea, uh, contributes 10% actually is a very big number. And, uh, why we think, why we think that happens? I, [00:10:00] I, I think there must be a lot of reasons and, uh, I, I don't think we figure it out, but, uh, what we know from our, uh, previous AI product mo, [00:10:10] which, you know, it speaks revenue, is from Japan and, uh, Korea.
+
+
+So from that experience, what we can learn that actually Korean users are very [00:10:20] interested in trying do AI tools and they are like waiting to pay. Yeah. So it's, it's kind of the one of the best countries we [00:10:30] want to, uh, get in. Yeah.[00:10:40] 
+
+
+Oh yeah. I, yeah. I think [00:10:50] that any task that leads the AI to run a very, like, long time, sometimes like, uh, my, my favorite, my [00:11:00] favorite task when I introduce Manus to, uh, to, to a new, new user is that maybe you can try that. Uh, just tell me, uh, what's, uh, [00:11:10] uh, what's the top 500 companies in the world? Their partners, they go where, where, where did they go for their university?[00:11:20] 
+
+
+Yeah. So, you know, there, there's definitely will be low knowledge on the internet to tell you what's their partners of this top 500 companies, CEOs [00:11:30] was, uh, where did they went, uh, uh, go to, uh, where did they go to the, the, the new university and the college. And you will see Manas will just launch [00:11:40] 500 sub submenus subtask to figure it out, like all these 500 subtasks.
+
+
+So, uh, for this task, actually you can just [00:11:50] try me. Any other AI tools? Uh, either it is like they can solve it or it needs like much longer time. Yeah.[00:12:00] [00:12:10] [00:12:20] 
+
+
+Yeah.[00:12:30] 
+
+
+Oh yeah. I say [00:12:40] mass actually is a, is a global product at its first day. Very first day. Yeah. Because, you know, we, we, we just launched the product, uh, uh, uh, to the, [00:12:50] to the whole world from, from day one. And, uh, actually, you know, uh, right now the biggest, uh, uh, the biggest, uh, user base, uh, is [00:13:00] us Brazil and the Ukraine, Germany, uh, Saudi Arabia and Japan, and, and Korea.
+
+
+Yeah. So it's like, you know, all our pop [00:13:10] user bases, uh, all around the world. So Madison actually is a, uh, is a, is a, is a global, uh, product. And why we think [00:13:20] that's important is because we think AI just remove the barrier of language. So like any teams in the whole world can just build a product [00:13:30] for anyone.
+
+
+Yeah.[00:13:40] 
+
+
+Yeah, [00:13:50] that's a good question because, you know, like every country, they all have like different culture, like different, uh, uh, requirements for, for ai, AI tools. And the [00:14:00] matters actually is a, is is at its very early stage. So right now we just do very, very few customization for each country. [00:14:10] So right now it's just, uh, we take the whole world just as one and we iterate very fast on it.
+
+
+But, you know, I think, uh, for, for, for the [00:14:20] future, uh, not, not very far future, maybe less quarter when we think that some countries are like more important than others and then [00:14:30] we will invest like more resources, uh, for these countries. Yeah.[00:14:40] 
+
+
+Yeah.[00:14:50] 
+
+
+Oh, okay, good. Yeah. [00:15:00] Oh, uh, so Madison is just like another chat bot because in chat bot you only get one answer from one question. Madison just focus on [00:15:10] delivering the final result, uh, with, you know, with the large plan and the execute by itself, step by step for its plan. So that's just, uh, focus on [00:15:20] delivering the final result.
+
+
+And for our mission, I think, man, uh, uh, right here in me, our mission is to expand the [00:15:30] boundary of humanity's productivity, which means just like our human, when we created cards. We can reach, uh, further places, uh, ever before. Yeah. [00:15:40] Just and, uh, after, you know, this generat agent era, I think for one human we can achieve more.
+
+
+We can create much more than ever before because, you [00:15:50] know, this, uh, general agent, uh, can expand just one man's productivity. Yeah.[00:16:00] 
+
+
+Oh yeah, sure. Oh yeah, sure. So just, uh, I, I, I, I [00:16:10] can just tell your true story, you know, which is from our CEO Red. Yeah. Uh, when we moved to Singapore, uh, red is looking for an apartment here. When [00:16:20] his real estate agent knows, he's the CEO of Manus, this agent just use Manus to create a customized slides just for him.[00:16:30] 
+
+
+You know, in that slides it includes the few apartments he, they visited, uh, that afternoon, uh, with the floor plan and with all this [00:16:40] environment, uh, uh, around that, that apartment, there's like a supermarket, uh, metro station, uh, and the playground around that apartment. [00:16:50] All this has been done just, uh, with a very simple prompt.
+
+
+It's like, uh, the agent that just put two images of the floor plan to manna and [00:17:00] ask a manna to generate a customized slides for the CEO of MEUs. Then Manna will use a research first about that app patent and, uh, just, you know, gather all [00:17:10] this information and, uh, return, uh, uh, customized slide build just for our CEO.
+
+
+So, like, you can never imagine that some maybe like real estate agent or [00:17:20] insurance agent, uh, we will have this capability. It is like, because their job is to, uh, work on humans. So customized slide is very important to them. But before they don't [00:17:30] have that, that, that time and the resource to build a customized site for each of their customers.
+
+
+But now Zab. So it's, it, it's totally like a game changer. Yeah. [00:17:40] Yeah.[00:17:50] [00:18:00] 
+
+
+Yeah. Uh, we noticed that like, like last month in July, GB just [00:18:10] released their own agent and, uh, we tested, uh, in the, in the day one. And, uh, what we, what we found out is actually from their, from [00:18:20] their demo, you know, they, they have some like use cases. We try all these prompts and, uh, we made a video on our YouTube channel you can check, which is like in every front we [00:18:30] think our deliveries are outperforming theirs.
+
+
+That's why that, because we think the agent is not just about the model itself, [00:18:40] it's also about, uh, like, uh, where do you run this agent? Because each agent, uh, has a fully functional virtual machine running the cloud, [a][b][c]which means like our [00:18:50] AI just has real computer back there and there are a lot of like tools on the computer our agent can use.
+
+
+And also it's about all these services tools [00:19:00] your agent can access behind the same. So Humanas is like, we have a lot of like, uh, already paid data, uh, uh, private databases and the data APIs. [00:19:10] So, which means like our agent can access much more, uh, data sources. Yeah. So, uh, we, we, we are, we are, we we're really like encouraging like your [00:19:20] audience, uh, to just try the same prompt in the two products and you will see the difference.
+
+
+Yeah.[00:19:30] 
+
+
+Yeah. So, uh, uh, as far as I can [00:19:40] tell that we just finished our last, uh, uh, round of fundraising back in April, which is like, we raised like $75 million at a valuation of [00:19:50] 500 million. Yeah. So it's kind of our fundraising and, uh, because right now, you know, there, I, I don't think it's, it's, it's right to talk about [00:20:00] ar publicly because right now everyone is saying like, AI staff just do the vibe, vibe revenue.
+
+
+So it's not true and we don't want to join that trend. So [00:20:10] we never, uh, release our AR in the public. But what I can tell you here is that, uh, we might be the fastest growing ar ai [00:20:20] startup. Yeah.[00:20:30] [00:20:40] 
+
+
+Yeah. Uh, oh. Yeah, actually, you know, like light years created by the co-founder of, which is, [00:20:50] uh, yeah, like, like he's a great interpreter and, uh, uh, but unfortunately, you know, after like six months, Huon just had some, like, [00:21:00] health issues, so we just sold the company back to, so it, it's not a very long time. So, uh, actually we haven't done like very serious since [00:21:10] in that very short time.
+
+
+But after get acquired by Mayan, we are, we were kind of like a AI lab, you know, in, in the big, the big company. So we [00:21:20] just do like different explorations for ai. And my focus actually is on to explore how humans should interact with [00:21:30] ai. So at, at that time, what, in my, in my thought is like, I, I don't want to build another chatbot.
+
+
+I, uh, because I'm, I'm [00:21:40] already tired of building chatbot, everyone's building chatbot. I don't want to build another chatbot. So at that time I explore like, uh, uh, many, many different [00:21:50] demos and, uh, uh, directions, uh, to explore how humans should interact with ai. The one product I made in the Lightyear, uh, we call Do, do Boo.[00:22:00] 
+
+
+Actually, it's uh, it's an app for kids. Yeah. So it's like a, uh, your, your kid just can download this iPad, iPad app, and you can just [00:22:10] draw on our brand canvas and, uh, each, uh, uh, you, you, you, you can just draw like a very simple thing by, by, by, by, by nine, uh, maybe just, [00:22:20] uh, uh, uh, use the red pen to draw a sun.
+
+
+And, uh, on the right screen you will see AI will turn your drawings into a very [00:22:30] beautiful real images. Yeah. Instead it, it's just like a sketch a. And why I want to, like, explore these opportunities is because we, we, we, [00:22:40] I don't think that, uh, the, the question and answer, question and answer, uh, the only way our human can interact with ai.
+
+
+Yeah. So, you know, at that we [00:22:50] really explore like different ways to interact with ai, joins voice and even that, that like, not talk to ai, but just, uh, [00:23:00] uh, share your files to AI and see what AI can do with your files. Things like that, you know? Yeah. So that's a time of, uh, that's a time of like [00:23:10] doing different explorations.
+
+
+Yeah.[00:23:20] 
+
+
+And.[00:23:30] 
+
+
+Yeah. Oh yeah. That's very interesting because, you know, after we, we [00:23:40] did a lot of like demos and explorations, but I found out that right now, humans, us, we are the limitation of ai. [00:23:50] You know, because we, we, we don't have enough questions, we don't have the right question to answer to ask the ai, then the true potential of AI is just limited by [00:24:00] us.
+
+
+So what I found out in that journey that we must, uh, find out a way that to interact with ai, uh, [00:24:10] not just by questions. Yeah. So my dream, you know, my dream after I, uh, after light year is that I want to build a [00:24:20] product. That can influence 24 hours for a single human. What does that mean? Actually, you know, right now in chatt, bt [00:24:30] uh, I think, uh, uh, average u average use usage, it's like every user will ask Chatt maybe five questions per day.
+
+
+And each question [00:24:40] may consume OpenAI five seconds of GPU time. So five questions, maybe 35. Yeah, maybe like 30 me 30 seconds [00:24:50] at all. So it's like right now, ever check GT user just to consume 30 seconds of GPU time, uh, for open ai. But my dream is to [00:25:00] build a product that a single user will consume 24, 24 of GPU time.
+
+
+And, uh, how to achieve that. [00:25:10] Definitely it will not like be driven or triggered by human because if, if, if it's triggered by human, which means you have to. [00:25:20] Keep asking questions 24 hours. It, it, it, it's, will it, it's will a lot happening. So I'm always like looking for a way that maybe [00:25:30] I can build a product that can influence for people, because, you know, when AI is influencing, which means it's generating [00:25:40] intelligence, right?
+
+
+So it's like a, I want to build a AI system that generate intelligence, provide intelligence 24 hours even without [00:25:50] users ask. Yeah. So that's kind of like my dream. Yeah.
+
+
+Yeah. [00:26:00] Kind of. Yeah.[00:26:10] 
+
+
+Okay. That's a good question. Yeah. [00:26:20] Uh, I think, you know, uh, because, uh, uh, different people have different tasks and, uh, uh, we, we, uh, [00:26:30] in, in the, in the very beginning, we have a serious discussion is about whether we should hide all the details or we just expose thing. Oh. But [00:26:40] the final decision is we just expose all the details, which means, uh, when you are using Manus, we will show you like how Manus is thinking, [00:26:50] what is his plan and, uh, uh, in each step, uh, or what, what, what he, what, what, what is he thinking for each step and, uh, what his [00:27:00] decision for the, uh, like stat, why we choose to do that.
+
+
+Because we think agent is, is so new. People are not familiar with the, uh, AI [00:27:10] agents. So we just want to show the whole process. To build trust with our users and let our users know what is happening [00:27:20] and, uh, uh, uh, combining their knowledge. If something is going wrong, they can just interrupt at any time and tell the agent, okay, you are acting the wrong [00:27:30] way.
+
+
+You should do, uh, if you should do, do, do things in that way, blah, blah. That. And, uh, you know, it's not like a chat bot. Uh, medicine can be interrupted at any kind [00:27:40] and, uh, learn from your input and, uh, go to another direction. Yeah. So we, we think it's a, it's more like a coworking experience. Yeah.[00:27:50] [00:28:00] 
+
+
+Yeah.[00:28:10] 
+
+
+Yeah. Uh, actually I think, you know, why we choose to design the product like this is because we think right now it's still at the [00:28:20] very early stage of AI agents. So the, the, the, the first priority is to, uh, show the transparency and build trust with users. But [00:28:30] I think that after maybe one year when people are already very familiar with agents and, uh, we can head all the, I head these details.
+
+
+And another thing I can recommend our [00:28:40] users when they're using man is like, uh, because, you know, we are in chatbot, you have to focus on the screen. Each question you ask, you will see the, I just [00:28:50] delivering the answer. And you can't stop it. And, uh, you, you can't break it. Math is totally different. Medicine is like working synchronously, uh, uh, for a task.[00:29:00] 
+
+
+So like, like for me, uh, my, my, my, my, uh, my habit right now is like I just, uh, assign a task to, [00:29:10] uh, to, to, to malice. And then after I assign a task, I will just, uh, you know, lock my screen, put the phone back to my pocket, and after maybe five seconds or six seconds, when, when master [00:29:20] has the final delivery, it'll send a notification to me so I don't have to, you know, care about the whole process.
+
+
+Yeah.[00:29:30] 
+
+
+That.[00:29:40] 
+
+
+Yeah, I think maybe [00:29:50] first you can just try, uh, meta slides. Yeah. Because you know, right now a lot of people, uh, building their daily, uh, slides for their work or for their [00:30:00] studies. Yeah. So maybe you can just, uh, drag like a, some word file or excel file or PDF files, uh, to meta and ask minutes to like build a slides [00:30:10] based on these, these files.
+
+
+And you will see how this whole magic happens. Yeah. Because, you know, slides is like, uh, something, uh, we use every day for our work. Yeah.[00:30:20] 
+
+
+[00:30:30] Oh yeah. I think, you know, when you're in chat bot, product engineering is kind of like, uh, technique you must learn. In Manice, I think it's totally different because like I mentioned before, it's like, [00:30:40] uh, uh, me will have its own plan. So which means after you assign your task to manice me will figure out a way how to solve your task.
+
+
+[00:30:50] So actually, uh, in Madison you don't have to learn a lot of like, prompt, uh, engineering techniques and you can just focus on your [00:31:00] outcome. So you just tell me what do you want, what's the, what's the, what's the final result you, you want? Like, uh, uh, maybe I just want to build, uh, [00:31:10] uh, build a portfolio website for myself to, uh, to, to, to, uh, uh, for my future employers, [00:31:20] right?
+
+
+So it's like you just focus on your outcome. It's like, uh, uh, what's the outcome looks like? And, uh, what, what's useful? So you don't have to specific to tell medicine. It's like, uh, [00:31:30] uh, how to do it. First steps, second steps, three step. You, you don't, you don't have to do that. Yeah.[00:31:40] [00:31:50] [00:32:00] 
+
+
+Oh yeah. Uh, that's kind of a challenge. We are, we are solving right now. Yeah. So I think. [00:32:10] Uh, when you say the out output and you don't think it satisfies you the best way actually, is that just to specify the details. It's like [00:32:20] a, uh, maybe I'm not a, uh, I, I want that paragraph to be longer, or I think the whole webpage is, uh, uh, color is [00:32:30] not a color I want, I, i I want it to be like more, uh, more simplified.
+
+
+Yeah. Uh, things like that. So you can just, uh, uh, say your, uh, [00:32:40] uh, like, let's say your, uh, request directly, uh, minus and, uh, but, but I don't think, uh, in a very long running task, [00:32:50] uh, because there are a lot of like context before delivering the final out to you. So right now, I think. It may not working [00:33:00] that good, you know?
+
+
+Yeah. If you, if you are running a very long task, you, you, we want to just change, uh, a very little part of, of, of that, that output. [00:33:10] But we have a new solution we are working on, I think in, uh, in September, we will deliver a better version is like, uh, you know, very big [00:33:20] project, how to just change or edit a very small part of it.
+
+
+Yeah.[00:33:30] 
+
+
+Yeah. Yeah.[00:33:40] [00:33:50] 
+
+
+Yeah, just, uh, you know, one month after we release matters, I, I travel around [00:34:00] the world to host, uh, some user meetups and the one user meetup we hosted in Dubai. Uh, there, there is someone coming and talk to me is, [00:34:10] say, he say is like, uh, because he's a social media expert, so he's doing consulting for other companies, you know, to build a social media strategy [00:34:20] and, uh, content for, for these companies.
+
+
+And what he showed me really shocked, really shocked me because, you know, uh, he's using Manus to build a [00:34:30] three month social media strategy for his client. And, uh, what Manus delivers is a 86 page handbook. [00:34:40] For that company and, uh, with a very detailed play. It's a very detailed playbook, which means it has, the three month strategy is about [00:34:50] in the first month, what you would do second month, what you do.
+
+
+Uh, in the first month there are four weeks, and in four weeks there are, like, each week have 5 billion states. [00:35:00] Madison already prepare the exact content, you know, for that day. So, and, and also for that day, like, this is the content you should post on, [00:35:10] this is the content you should post on Instagram. This is the content you post should post on x with that very little playbook.
+
+
+I think like any junior people in, [00:35:20] in his sense company can just run their social media and, uh, z Casca only cost him maybe seven or $8, but [00:35:30] he told me he can charge his plans. For $10,000. So, you know, it's, it's, it's really amazing thing. And, uh, another thing I think is [00:35:40] from my wife, you know, actually my wife is using Manus more orphan than me.
+
+
+Yeah. Even I'm a creator of Manus, you know, uh, my wife, uh, uh, because [00:35:50] she's the one in my family to, uh, do all the stock trading, you know, and, uh, she's using Manus for doing all of, of, of, of [00:36:00] her researches, uh, for different, uh, stocks. And, uh, one thing I can remember is like, uh, uh, this year, March, after we release Manus, [00:36:10] uh, my wife is considering whether she should buy CloudFlare.
+
+
+And, uh, but, but she, she, she wanted to know like how many pop [00:36:20] ai startups are using CloudFlare. Because, you know, in, in, in her theory, it's like, uh, if the future, uh, AI companies are using CloudFlare, maybe it's a good [00:36:30] single. But you know, she doesn't know any technology thing, so she can't know whether these AI startups are using CloudFlare.
+
+
+So she does the total managed, uh, this task is like, uh, [00:36:40] uh, try to figure out how many top AI startups are using CloudFlare and, uh, minister just figure out a way, which is like, uh, maybe I, I, I don't know. I don't know how, [00:36:50] how managed to figure it out, but message, just find a way that if a website using CloudFlare in their H TT p request a header, there will [00:37:00] be a tag and the message just writing a Python scripts and test all these 30 p ai startups website and returns the [00:37:10] result to my wife.
+
+
+It's, which is like maybe like 17 or 18 top as startups are using CloudFlare. So my wife said, okay, this is the future. So she bought CloudFlare back [00:37:20] in March and uh, and we, we, we sold the CloudFlare back in June and, uh, yeah, we, we, we, we, we, we, we made some money based on this. Yeah.[00:37:30] 
+
+
+Yeah, of course. Yeah. We, uh, yeah, we, [00:37:40] we, we hold the offerer for three months and, uh, I think because, you know, my wife is in charge of all the creating, I believe it's like a [00:37:50] 50% or 60%, uh, revenue. It's, it's a, it's a, yeah.[00:38:00] 
+
+
+Yeah. [00:38:10] I think, you know, perplexity is very good for like financial questions, but you know, right now if you ask the perplexity the, the same question. He can just [00:38:20] analyze this stocking based on the marketing signals or just some analysis, uh, uh, uh, uh, theory or articles. But [00:38:30] what I just mentioned earlier here is that, uh, sometimes, you know, when you are doing stock trading, you just want to run some research and doing [00:38:40] some investigations by yourself.
+
+
+Like my wife, he want to test whether these 30 uh, uh, top AI companies, they are using CloudFlare. So it [00:38:50] will lead the agent to run a simple script program on our virtual machine to test whether they are using, uh, [00:39:00] CloudFare. I think that's something purpose can solve right now. Yeah. Yeah.[00:39:10] [00:39:20] [00:39:30] 
+
+
+Oh yeah. Yeah. One thing I want to, [00:39:40] uh, clarify on this is actually, you know, I was the head of, of global product of Locke, you know, because, you know, by, they have many apps and I think for most people they know is a [00:39:50] TikTok. But, you know, I'm in charge of another product, which is Locke Lock is kind of like, uh, uh, slack, you know, just like select, uh, yeah.
+
+
+Yeah. So, uh, it's, it's a B2B SA [00:40:00] business. Yeah. So when I was the head of product of Lark, there. What I learned because, you know, before that all my experiences are back in China. So the only market I know is [00:40:10] Chinese market, and that's the first time, you know, I'm doing a global software, uh, businesses. And what I learned is that, uh, it's really different when you [00:40:20] looking outside of China, like Japan, Korea, Southeast Asian and the United States, Europe, they're all different.
+
+
+Yeah. It's like, uh, uh, [00:40:30] different, uh, waiting to, uh, to pay for software and, uh, also like, uh, uh, people in us, they, they just love the, [00:40:40] the, the simplicity of software. So when you design a product for us companies, it must be very simple. Just, uh, like them, like them, like them and get it done. But [00:40:50] you know, when you, when you, when you design some software for like, uh, maybe, uh, uh, uh, Japan market.
+
+
+It's kind of like, uh, the people there are [00:41:00] very, uh, similar, like to China. It's like, uh, they will pay much attention and resources into how to configure the software so they're [00:41:10] willing to learn. Yeah. So it's like, uh, it's really different and for me it's also my first journey to doing a global product.
+
+
+So I know a lot [00:41:20] of things, uh, from back from that experience and also like in influence into this journey, into master journey. Yeah. So when I'm, when I just release [00:41:30] Manus, uh, I'm the first one in my team to, uh, fly, flew to United States, Japan, Korea, middle East, Asian, to doing [00:41:40] all these user meetups. I think it's because I, I may be the only one in my team that has, uh, uh, previous global, uh, experience before.
+
+
+Yeah.[00:41:50] 
+
+
+Uh, you mean when I was leading the [00:42:00] lark or, or minus? Oh, LA right? Yeah. So LA right now, uh, back, back three years, uh, back in three years, it's like, uh, uh, we are focusing on [00:42:10] United States, Japan, and, uh, Singapore. So these are the three countries I travel the most. Yeah.[00:42:20] [00:42:30] 
+
+
+Yeah, yeah, yeah, of [00:42:40] course. Yeah. Because, you know, it's like, uh, uh, in different, uh, uh, market, the company size and, uh, their, their requirements for their internal [00:42:50] collaboration is totally different. So back in that time, uh, because that's also a very early stage for luck to, because luck is actually a very big product back in China, but [00:43:00] in the global market, it's still small.
+
+
+So, uh, I think we are also at the exploration, uh, stage. It's like we, we try, we try to figure it out. It's like, uh, uh, [00:43:10] what's the best, uh, uh, country for, for us? Yeah.[00:43:20] [00:43:30] [00:43:40] 
+
+
+Oh yeah, because you know, uh, like [00:43:50] every time we host a Sun user meetup, there's definitely there will be one user, like hands and uh, ask us the same questions about, do you think a J is coming? Yeah. So [00:44:00] I think for us, you know, as founders, we are not like talking about a GI inside our companies because.
+
+
+It's a word that that very [00:44:10] clearly defined. And uh, actually if you just, uh, uh, pull somebody from three years ago to today, you know, that's before [00:44:20] tragedy gt. And, uh, you let into, uh, to see the magic of Manus, to see the magic of like, uh, Google's video three, uh, video generation, [00:44:30] uh, to say, uh, uh, image generation one model.
+
+
+And they will, they will think this is magic. This is, this is a GI, but our humans, [00:44:40] you know, we are very easy to get used to the do magic. It's like, uh, every time we have some magic saying after one month, we think, okay, this is just a very [00:44:50] common thing. So I think a GI actually, we, we, we think we are, we already, uh, reached the a GI, but the proven like, uh, we never satisfy, we, we always set a [00:45:00] new standard to, to, to, to achieve.
+
+
+Yeah. So that, that's my thinking, you know, on the AGI things. Yeah.[00:45:10] [00:45:20] [00:45:30] 
+
+
+Yeah, because, you know, we are from Asia, so definitely we, we will have like more focus on non Asian market too. Yeah. And uh, but you know, just as [00:45:40] I mentioned earlier, it's like, uh, we are global company at day one and right now our user base is, uh, distributed just around the world. So most [00:45:50] of of our features will just, uh, you know, just focusing on the global, global side.
+
+
+For Asian and the for specific countries, just like Korea, [00:46:00] Japan, Singapore, uh, we will have some like localizations for these countries. When I say localization, it's not just about the language because, you know, AI already removed the barrier of [00:46:10] language so we don't have to care about the language since.
+
+
+So when I say localization, it's mostly for the tools our agent can use because in different countries [00:46:20] there will be different tools, uh, these, uh, logic workers are using every day. So when we are facing Japan, Korea, and Singapore's, and, uh, [00:46:30] we will integrate some local existing, uh, working tools into Manus and let the logic worker there will find some like familiar tools there.[00:46:40] 
+
+
+Yeah.[00:46:50] 
+
+
+Yeah.[00:47:00] [00:47:10] 
+
+
+Yeah, [00:47:20] that reminds of sound like good old times for me. Yeah. So actually that's the first time I pivoted my career because, you know, before census [00:47:30] data, most of my career are focusing on consumer side, which is like, you know, I built in different, uh, software for consumers, but, [00:47:40] uh, sales data is kind of like my first experience on B2B.
+
+
+Vertical. And, uh, that's also the first time I pivoted, uh, from doing [00:47:50] product design, product management into customer success. Because when I was at uh, s data, uh, I was the best president of customer success. So I was [00:48:00] leading the, uh, customer success team, uh, pre-sale team, solution team and consulting team.
+
+
+Uh, and, uh, why I was beating this part [00:48:10] is because we, we, when we are doing the B2B business back in China, we think the, the most important thing is not just to build the product [00:48:20] itself. It's also about how to communicate the product to our potential customers. And the census data is kind of like a Google Analytics or Amplitude.
+
+
+It's a [00:48:30] user behavior analytics platform. But you know, many companies, they don't know what's the benefits of just buying a user behavior analytics [00:48:40] platform. So my job is, is, is mostly about how to communicate our value to our customers. [00:48:50] And why I were the best person, you know, to do that job is because before joining census data, I, I've already, uh, have seven or eight [00:49:00] years of experience in product design, product product management.
+
+
+And, uh, back in Za I used data, you know, for most of my product management [00:49:10] work. So I may be the best one to tell our, uh, potential customers that how data can help your businesses. Yeah. So that's [00:49:20] why, you know, uh, they took me at the best president of customer success at, uh, census data. And, uh, I also learned, uh, learn learned so [00:49:30] much about.
+
+
+How to run, uh, B2B SA businesses that also, you know, help help us right now. Because right now, Madison is not just doing [00:49:40] like a, a consumer side. We are also thinking about delivering, uh, enterprise version in the near future. And, uh, uh, my experience back [00:49:50] in such data also help us now to shape the, uh, enterprise businesses.
+
+
+Yeah.[00:50:00] [00:50:10] [00:50:20] 
+
+
+Oh yeah. Uh, yeah, that, that's really like, uh, uh, very exciting years for Chinese SA businesses. I think the first thing I learned is [00:50:30] actually, I think before that time, uh, Chinese internet industry already have like a near 20 years of, of, [00:50:40] of history. And from these 20 years actually, you know, from Chinese internet industry, we've already, uh, prepared a lot of [00:50:50] software engineers and I think.
+
+
+Even more than the industry did. So at that time, we can just [00:51:00] ask for the engineers to other industries, just like B2B SA business. So, you know, it's like, uh, when we were doing the B2B SA business in, in [00:51:10] these years, we, we, we are very easily, you know, to find engineers because there are engineers everywhere.
+
+
+So, uh, I think that's kind of like some, some [00:51:20] benefits. Uh, and also I think, you know, after the SaaS businesses, there's like a, uh, Chinese, and also, like right now, this time it's like, uh, uh, AI [00:51:30] trend. Uh, there are like many good engineers from the previous period, uh, from the internet period. Uh, we have a lot software [00:51:40] engineers, uh, for any new trends.
+
+
+So that's, that's kind of like, uh, like one benefits. Another thing is like, uh, uh, even that's the [00:51:50] fastest growing years for gen, uh, B2B SA businesses. But there's also like some, some limits. Yeah. Because, you know, Chinese market is so big, [00:52:00] but mostly it's for consumers. So it's like when you are building some consumer product, it's very easy to get users and, uh, find some business model.
+
+
+But I don't [00:52:10] think like it's the best time to do, uh, B2B business in China because, uh, as a company's perspective, uh, it's very hard to convince [00:52:20] them to pay for software and, uh, you know, just, uh, as red, our CEO and me, we are all, we were all doing P two B business before Manus, [00:52:30] before, before this company.
+
+
+And, uh, I think that's the, that, that, that, that's one thing we find. We, we, we are, we are very easy to, uh, re resonate together. [00:52:40] So that's why, you know, when we start this company, we, uh, from, from day one, we want to do, uh, global businesses. Yeah. So, uh, that, that, that, that's kind of like [00:52:50] some learnings we, we get from it.
+
+
+Yeah.[00:53:00] 
+
+
+Yeah. Okay. I think that's just, uh, you know, just after catch GBT uh, long, long launch, I just, I [00:53:10] just hit the product and it, it's just like magic. And for me, you know, I've, uh, back in that time, I've already in this industry for more than 14 [00:53:20] years and, uh, I think this may be the biggest opportunity in my career.
+
+
+So I decided to just, uh, you know, just, just quick. [00:53:30] Sorry. I like I got, I got a phone call. Sorry, just wait for me a minute. [00:53:40] Uh, is it good now?[00:53:50] 
+
+
+Okay. Yeah. So[00:54:00] 
+
+
+yeah.[00:54:10] 
+
+
+Uh, you know, it's like when I joined this company, uh, we've already had a very successful product called Ika to, IM, it's kind of like a, an [00:54:20] AI clone browser extension. It's just that you can leverage the power of AI just, uh, in your browser, in your webpage. You don't have to switch between different tab that the cop [00:54:30] doing a lot of backend false copy pasting before T and your working webpage.
+
+
+So Monica just helps you to leverage the AI just in your webpage. But you [00:54:40] know, the problem is that the setting for MO is kind of like low for us because it's a Chrome browser extension. This three words, each of them just lower [00:54:50] the setting for us. But everyone is using Chrome. Not everyone knows their browser can install an extension, so we want to build something like bigger.[00:55:00] 
+
+
+Yeah. So the first thing came to our mind is an AI browser. You know, we started this project from last March, uh, to last October. We [00:55:10] spent seven months of work on the AI browser set. And right now, you know, in this year you'll see a lot of like AI browsers, but I, I can tell you that back [00:55:20] in, back in last September, we've already have these features, but we never released that product.
+
+
+Why is that? Is because, you know, after seven months of of [00:55:30] work, uh, we funded it. The whole experience is kind of weird because, you know, when you click some button and, uh, AI starts to, uh, uh, we [00:55:40] started working and, uh, what you see that the AI is competing with you for your computer. So, which means like when, when the [00:55:50] AI started, uh, its process.
+
+
+You have to keep your hands off the keyboard because any movement to the keyboard will break the AI process. So the whole [00:56:00] experience, you know, is kind of weird. And we don't want to deliver that experience to our users. So that is already last October, and back in that time, [00:56:10] our startup only have like 40 people and we've already put half of them, like 20 people on the AR browser project.
+
+
+It's a big, you know, it's a big bet. But we decided [00:56:20] to sunset this. After that, we was thinking about, okay, now what's the, what's the next step? So the original inspiration [00:56:30] actually, you know, came from Cursor. Yeah. Because last year in July, cursor just went so viral. And, uh, some of our friends and the [00:56:40] families, they are not coders.
+
+
+They're not programmers. They don't know how to count in their whole lifetime. But what we saw is that they are starting to use [00:56:50] cursor. To solve their daily tasks. Like my wife is using Cursor to converting a video file to a audio file. And, uh, we say [00:57:00] some like colleagues in our company are using Cursor to do some data visualization.
+
+
+It's like you just, uh, put some cells in and you use Cursor, uh, [00:57:10] to install some Python dependencies and, uh, use the Python to, uh, generate some data visualizations. So these are the moments we, we think, [00:57:20] which is the most interesting part, is that these people, these long coders, they are studied to leverage the power of AI coding to solve their [00:57:30] daily tasks and way they're using Cursor.
+
+
+They don't care about the left side of cursor, which is the code side because they don't know coding at all. So they can't [00:57:40] evaluate the quality of code. So the only thing they do is to keep pressing the accept button on the right panel. Accept, accept, accept, accept. So that's [00:57:50] actually the moment when we sunset our AI browser project and we think maybe we should build, you know, the red panel of cursor.
+
+
+And combining the [00:58:00] learnings we get from our AI browser project, which is the AI should not compete for your computer. Uh, the AI should has its own computer. [00:58:10] So our arrange of idea of man just comes from the right panel of cursor. But running in the cloud have its own cloud virtual machine. [00:58:20] And we want to build the product for average people lot, just for coders.
+
+
+Yeah. It's for average people. It's for lot more people. For everyone. So that's kind of like, [00:58:30] you know, the original idea of Manus. Yeah.[00:58:40] [00:58:50] [00:59:00] 
+
+
+Yeah. I, I, I think right now the biggest challenge, uh, actually is not just the front song, some practical, uh, [00:59:10] perspective. Yeah. It's, it's mostly coming from, it's like, uh, we define us as the word first general agent. It's like, okay, we can do everything. Yeah, we can do, we can do many [00:59:20] types of tasks for you, but you know, when you are a tool that can do anything, which means when you are facing a new user, it's very hard to tell the user.
+
+
+It's [00:59:30] like, uh. What's your first task? Yeah, it's like, uh, you know, so, uh, actually we, we, we tried some, uh, some, uh, some features just like, uh, [00:59:40] uh, galleries, you know, where we, we just has had some galleries to show you, uh, this is the type of task you can do. And, uh, we, we, we also like try some, [00:59:50] try to do some, uh, uh, past suggestions, like when you upload some file and we tell, we, we will tell you what kind of task you can do [01:00:00] with this file, with this type of file, these of things.
+
+
+So actually that's the biggest change right now because I think for most people, uh, maybe it's their first time [01:00:10] to, uh, to interact with agent. So actually all their know of AI coming from using a chat bot. So actually they don't know what kind [01:00:20] of task they can assign to an agent. So I think that that's still this time for us and also from the whole industry to educate, uh, [01:00:30] the, the, the users.
+
+
+Yeah.[01:00:40] [01:00:50] 
+
+
+Okay. Uh, so talking about how far I can really go, I can just give you some, uh, some examples. Yeah. It's like, uh, [01:01:00] uh, like in managed, you can just do some research and the investigations, uh, on more than maybe 1000 items. Yeah. It's like you can just, uh, you know, just, uh, [01:01:10] uh, if you already have some, uh, some, some ways to do doing research and then you, you, you can just do it by your own if it's just on one [01:01:20] target.
+
+
+But if it's on 1000 packet, actually you don't have enough time or, or, or energy to do that. And also, like other editors, they can't handle that too. [01:01:30] Uh, so for this like a very wide, we, we, we say wide past. Yeah. You, you can run with Manus. And also we have some features like, uh, schedule past, [01:01:40] which is like for some tasks you, you wanted to run on a daily or weekly basis, you can ask a manager like, okay, this task I wanted to run at every [01:01:50] morning.
+
+
+Like am Yeah. Things like that. So I think that's kind of the things man can deal with. It's like a, we run very wide and, uh, very routine. Uh, non [01:02:00] tasks. Yeah. Things like that.[01:02:10] [01:02:20] 
+
+
+Uh, I, I think it's [01:02:30] like, uh, uh, when you are using, uh, t it's more like a co-piloting experience. It's like, uh, maybe you, you, you will ask [01:02:40] the, uh, the first step of your task and I ask you, uh, and the just, uh, t give you an answer. You ask the second question and you just copy, paste [01:02:50] something into your working app and you just, uh, you know, uh, just a co-pilot experience.
+
+
+But the math is more like, uh, uh, [01:03:00] uh, uh, just like working with an intern, it's like you just align a task checking and after maybe some minutes or hours, uh, you get some feedback and you'll see the final [01:03:10] result and you just give another feedback and, uh, he, your intern will just work on, uh, on your feedback and give you the next version of the result.
+
+
+[01:03:20] So that's, that's kind of the, the, the difference here. So it is, uh, the chatbot is more like a co-pilot experience, but the medicine is more like a, uh, [01:03:30] a agent thing. It's like, uh, you don't have to care about the details. Yeah.[01:03:40] 
+
+
+My, my advice is just, uh, focus on [01:03:50] the, uh, the outcome you want. You know, just describe, uh, like what kind of things you want instead of like teaching it step by step. [01:04:00] Yeah.[01:04:10] 
+
+
+Instructions. [01:04:20] Yeah.[01:04:30] 
+
+
+Yeah, I think general agent [01:04:40] is, is, is that you can just consider it as a real human. It's like, uh, you can just talk to, talk to it or just assign a task to it and, uh, then it will [01:04:50] first, uh, have its own plan. Yeah, plan is very important. So firstly will have its own plan and then it'll start to execute the plan.
+
+
+And when, when [01:05:00] the agent is executing its own plan in each step, he will do some rethinking about, okay, uh, considering all the information at hand. [01:05:10] Do I need to change the original plan or I just, you know, follow the plan to the next step. So each step, it'll just collect, send new information [01:05:20] and decide the, whether to change the plan or like execute the next step.
+
+
+So the agent will just have its plan, execute, and the plan. And, [01:05:30] uh, along the way, sometimes maybe he will do some replanning, and after all the setup are executed, you, uh, the agent will have the final [01:05:40] result. Maybe it's a PowerPoint, maybe it's a video, maybe it's just a, a simple document or just a website.
+
+
+It, its built and the returns, the final results to you. Yes.[01:05:50] [01:06:00] [01:06:10] 
+
+
+Yeah.[01:06:20] 
+
+
+So, because it's a, a [01:06:30] autonomous agent, so definitely along the way you don't have to provide like any, uh, feedback along the way, but definitely you care, but [01:06:40] you don't need, yeah. So I think the, uh, the most important part is just at the very beginning, which is like when you assign the task, you should [01:06:50] let the agent know, like, uh, uh, in the last step, like when you deliver the result to me, uh, what's, what's the kind of things you, [01:07:00] you want?
+
+
+Yeah, that's super important just to describe in very details about, uh, what, what do you want? And, but, but definitely along the [01:07:10] way, you know, along when agent is working. We designed the system is like you and the, the agent can work asynchronously, which means the agent is [01:07:20] doing something. Yeah, maybe he is searching some keywords on internet, just visiting some websites.
+
+
+And when you are seeing that maybe the agent is [01:07:30] visiting the wrong website, you can always jump in. You know, you can interact at any point, at any time and tell the agent, okay, you are, you are visiting the wrong website. You [01:07:40] should visiting that website. You should get the information, get data from there, blah, blah, blah, blah, blah.
+
+
+And the agent will instantly, you know, react to your feedback and [01:07:50] change its path based on your feedback to the right path. So I think for me, you know, when I was using Manus, it's, it's always like, I always describe very [01:08:00] detail about what kind of the things I want, and sometimes if I think the task is very complex.
+
+
+I will like Overwatch it for some very [01:08:10] important steps, make sure it's working in the right direction. And if it's not, I can just jump in and, uh, tell, tell the agent that. Okay. [01:08:20] Uh, I think in this step you're doing wrong. You should, you should do in another direction. Yeah. Sit like that.[01:08:30] 
+
+
+Oh, yes. [01:08:40] So actually I, I think that's the. That's a very different experience when you're in chat bot because you, when you're chat bot, it's always like waiting for the AI [01:08:50] to finish its answer. But, but agent is different because the field keeps working, you know, it won't stop until the end. So we think it's very important to [01:09:00] provide feedback along the way.
+
+
+So we designed this mechanism that you can jump in at any time, at any point to, to, to provide feedback. [01:09:10] But you know, unfortunately, we, we, we put a lot of resources and, uh, uh, engineering efforts for this feature. But unfortunately [01:09:20] right now there's only a few people, you know, a few. Portion of users, uh, are waiting to jump in because, you know, we, we have some, uh, [01:09:30] user interviews and we, we, we were asking the public users about, okay, do you know we have this feature?
+
+
+And they say, okay, we, we know you have this feature. We say why you [01:09:40] never use it? And the user will say like, uh, oh, I think AI is too powerful to be interrupted by me. Yeah. You know, a lot of users, they're [01:09:50] not dar to, to, to interrupt the ai. It's very interesting. Yeah. But you know, from our original, uh, uh, thinking, we think [01:10:00] we, we, we, we should, and we can provide feedback to ai, but in the reality is like, you know, many people, uh, they don't think they, they can.
+
+
+[01:10:10] Yeah.
+
+
+Yeah.[01:10:20] [01:10:30] 
+
+
+Of course. Yeah. It, it, it's not that hard actually. It's very simple. Yeah. Because, you know, if you go to man's webpage and, uh, I put a sentence at the bottom of our [01:10:40] web official website, which is like, uh, uh, less structure, more intelligence. It's like, you know, in the core of menace, we, [01:10:50] we design a very simple structure, but very, like, strong, uh, on structure because, you know, sometimes the simply same, maybe the harvesting, [01:11:00] right?
+
+
+Yeah. So let's expand it step by step. When you assign your task to mena, first, MENA will use its aging system to [01:11:10] come up with a plan. Zin, you know, the whole agent framework, the responsibility is to predict the lack action. [01:11:20] When I say lack action, it's a very omic, a omic capability. Just something like browse a webpage, create a [01:11:30] file, edit a file wrong, uh, command in terminal, uh, just, uh, you know, just execute some, uh, uh, some [01:11:40] scripts.
+
+
+You know, it's a very atomic actions. So the agent system will only be responsible for predicting the lack action. Like, see, maybe this [01:11:50] action is browse a webpage. Then this act after this action is predicted, this action will be performed in the virtual machine, because [01:12:00] as I just mentioned earlier, it's like in minus each task will be assigned a fully functional virtual machine in the cloud.
+
+
+So the action will be performed [01:12:10] in the virtual machine, which is. Browse a webpage. The UIL is blah, blah, blah, blah. And then the virtual machine will perform that action. It'll browse [01:12:20] that webpage and read the webpage. And then the, after the action is done, our observation will be recurred back to the agent [01:12:30] system.
+
+
+What I say, observation, it depends on the, uh, on the action. Like, let see, this action is browse or webpage. So the [01:12:40] observation will be a screenshot of the whole webpage and also the text from the webpage. So this is the observation. It'll come back to the agent system. [01:12:50] And then the agent framework will predict the lack action based on all the previous observations.
+
+
+So, you [01:13:00] know, in our agent framework, there will be a very long context if, and in that very, very long context. There are many [01:13:10] pairs of actions, observations, actions, observations, actions of observations. So the whole structure is really simple. It's just like this. We [01:13:20] maintain a very long context that, that that's why, you know, why general agent is very, uh, costly right now.
+
+
+It's [01:13:30] very expensive. It is because, you know, we maintain a very long context and, uh, we, you send this very long context to, uh, uh, AI model APIs. [01:13:40] It, it, it often cost a lot of money. Yeah. But you know, actually, you know, the very long context actually is where the magic happens because [01:13:50] you know, each time when the AI framework is predicting the next action, it will see all the history.
+
+
+So it'll [01:14:00] know like what kind of things I've already tried and what's working, what's not working, what's the next step I should do. So the host structure is [01:14:10] very simple, just to predict the next action and perform the action in a virtual machine, get our observation and predict the next action. Yeah.
+
+
+Until the end. Yeah, it's [01:14:20] very simple. Yeah.[01:14:30] 
+
+
+Okay.[01:14:40] 
+
+
+Yeah, I think it's kind of different because, you know, when you're using chat, the [01:14:50] operator, it only has a headless browser, which means, you know, it's just a browser. But from, from our perspective, we think it's like a, uh, if you hire someone [01:15:00] into your company. You must give him or her a computer and then it can work.
+
+
+Right. So right now it's like in our working scenarios, you can't just use [01:15:10] browser to get, get, get everything done. You need other applications, other tools, other apps. So, you know, as managed, we have a fully functional virtual [01:15:20] machine, which means we can use much, uh, we can use like many more, you know, tools, uh, on the virtual machine, uh, not just, uh, uh, a [01:15:30] browser.
+
+
+Yeah. So that's really like different, yeah.[01:15:40] [01:15:50] 
+
+
+Yeah. Uh, actually I say, you [01:16:00] know, like, either way, either way. Work. Yeah. But, uh, I, I, I, I, I've seen some users, which is like, uh, they are still have [01:16:10] a man set of a chat bot. So when they're using Manus, they're still like, uh, using a chatbot, like, uh, ask a question and want some [01:16:20] answers and, uh, uh, not focusing on the final outcome.
+
+
+Yeah. So I think the best way to use man is just to focus on your final outcome. [01:16:30] It's like, uh, uh, it's like eventually what you want to tell us. Yeah. And, uh, instead of just, uh, ask, uh, some very, she like, uh, uh, [01:16:40] very early questions. Yeah. So I think the best way is always kill man. Is what do you want at the last Yeah.[01:16:50] [01:17:00] 
+
+
+Yeah.[01:17:10] 
+
+
+Oh yeah. Uh, because it's already been like five months is after we released the first version. So right now we are like iterating very fast [01:17:20] to, uh, compete with, with like every players. So for us right now, we think there are like two very important things we should focus on. The first is always [01:17:30] about the cost and the speed.
+
+
+Yeah. Because, you know, like when we release minus. Uh, I, I must admit that the price is really expensive, and that's why, [01:17:40] you know, we put a wait list at the very first because at that time we don't have a pricing plan. And if we, if we just open the whole system, we will get, uh, bankrupt [01:17:50] in two days. Yeah, it, it, it's really, uh, cost, it really cost a lot of money.
+
+
+So for the last five months we are working really hard, you know, to bring the cost [01:18:00] down and also like speed up the agent. What I can see here today is that we've already optimized the whole system. It's like, uh, already [01:18:10] four times faster comparing to much and, uh, eight times cheaper, you know, comparing to, to much.
+
+
+And we are very confident, you know, at the end of [01:18:20] this year. It'll, it gonna be like 10 pounds cheaper comparing to our first version and, uh, maybe, uh, maybe like five or six times faster than the [01:18:30] first version because we think cost and the speed, uh, is the first priority when people are using agent, and we are working really hard on that.
+
+
+And the second thing is about, [01:18:40] uh, connecting more tools because we think agent is best at do best of using different tools. Uh, but [01:18:50] if you only give it limited, uh, uh, limited tool choices, it won't to release the true potential. So in August and September. [01:19:00] We are integrating more and the more tools and the databases and the, and the different APIs, which means in the near future, this, this month and next month, [01:19:10] uh, different industry users like financial, legal, you know, all these users, they will find their daily tools, their daily [01:19:20] databases already managed and Zika, uh, work on it.
+
+
+Yeah. So it's kind of like the two things we're working on. Yeah.[01:19:30] 
+
+
+Oh. Oh yeah. [01:19:40] Uh, uh, that, that, that, that, that, you know, that, that combines a lot of different efforts. Uh, the first one must be coming from the discount. Yeah. [01:19:50] Because, you know, I think before Manus, we are, we're kind of like a low body in the AI industry, but right now it's like, uh, uh, I think we, uh, we, we can negotiate [01:20:00] with the main, uh, a OM providers Yeah.
+
+
+To talk about like, okay, uh, we, we've already consumed, uh, enough, uh, can [01:20:10] we get a better discount? Yeah. That's, that's one thing we can get better discount. And the second thing is about, uh, we are optimize the whole agent architecture, uh, every month. [01:20:20] So after release medicine, we've already done three redesign of the whole architecture.
+
+
+Each time, uh, the redesigns purpose is [01:20:30] about faster and cheaper. Yeah. We, we just save more token costs, uh, along these redesigns. Yeah. This, uh, uh, uh, [01:20:40] uh, uh, uh, few efforts. Yeah. We're working, uh, for the, uh, for the, for the price.[01:20:50] [01:21:00] 
+
+
+Yeah. [01:21:10] Uh, because at the, at the core of manner, so we have a fully functional or like a virtual machine, and, uh, also we can leverage the power of coding. So when [01:21:20] we are integrating with some API and the databases, actually it's very simple because, you know, we, we can just put the API key and the database access key [01:21:30] to minus method will just write, write some programs, write some code that you accept.
+
+
+The, we, we don't have to do the integration by ourselves. I think the most challenging part is about [01:21:40] some other integrations, like, you know, when you want to integrate with some existing SaaS tools. Because it's not just reading some data from day, sometimes you have [01:21:50] to, uh, do the actions, you know, do some operations, uh, to these tools.
+
+
+I think these are the, uh, challenge part. And, uh, uh, right now we are working, [01:22:00] uh, through like two ways. Uh, the first way is like, because, you know, we have a, we have a, we have a virtual machine, right? We have a, we have a computer behind each desk. So actually we can [01:22:10] just use the computer to use the, the tool itself.
+
+
+You know, just use the browser, use the file system on the computer, uh, just like real, real people, you [01:22:20] know, uh, use the tool. And, uh, for, for some apps it's working. And, uh, another way is like, uh, because right now MCP is getting more, [01:22:30] uh, popular. So there are many, like, uh, services, they are already providing their own MCP server.
+
+
+So we are also like collaborating with them, uh, [01:22:40] through the MCP protocol. Yeah. So that's kind of like two ways to connecting more tools. Yeah.[01:22:50] [01:23:00] [01:23:10] 
+
+
+Yeah. Actually, you [01:23:20] know, when Open Air released the chat agent, uh, my CEO, red and I, we were in San Francisco, uh, I think, you know, we too [01:23:30] may be the happiest person on, on the earth that day. Yeah. Because, you know, before that, a lot of like, uh, uh, founders and [01:23:40] investors, they all asked the same questions about.
+
+
+What if Open AI did the same thing? And uh, we explain to them that, [01:23:50] uh, oh, it's really different. It is not like training models. There are many other engineering efforts, uh, in this verticals, but you know, [01:24:00] when they asked the question, they were already had their answer because they think the model company is kind of like a superior company.
+
+
+It's like a, [01:24:10] whatever they do, uh, they'll do it better. Yeah. So it's really hard to convince them to trust us that this is really different. That, you know, after [01:24:20] like Open, I release their tragedy agent and, uh, we try like all the use cases they showed in their launch video and all the influencers because, you [01:24:30] know, there are some influencers has early access to the check agent and they all release some, uh, some, some demo and uh, videos.
+
+
+And we try this prompt too. [01:24:40] What I can see is like in, in most, in most of these use cases, our deliveries are much better, you know, than the agent. So Red and I, [01:24:50] you know, might be the heaviest person on Earth because after that, well another investor ask the same questions about, okay, what if Open, I did the same thing.
+
+
+We will [01:25:00] tell them like, okay, they've already done this, and you can try. It's very different. You can see it with your own lives. Yeah.[01:25:10] 
+
+
+Oh yeah. People are just, uh, you know, but, but you know, we just released on our own, uh, Twitter [01:25:20] account, so maybe like most of them are our supporters. People are just acting like very positively about, okay. Yeah. And, uh, Madison is the goat, blah, [01:25:30] blah, blah. Yeah.[01:25:40] [01:25:50] 
+
+
+I think because it's already like 20, 25 at last December, you know, back in 2024, I told a lot of [01:26:00] my, my friends and some investors, I told them it's like, uh, 2025 gonna be the first year of AI applications. Because I think for the past two [01:26:10] years it's all about like AI models. It's about training models, training models.
+
+
+But we say, I think the model actually, I think it's already smarter than most of the [01:26:20] humans. The problem is not about the model side. It's about, there is, there are not enough good AI apps, you know, just like cursor, just like [01:26:30] granola. These are the tools I, I love, I use it every day. Yeah. So I think the prob is at the product side.
+
+
+So what I predicted in last [01:26:40] December is like, I think 2025 gonna be the year of AI application. And that, that's really happen me just like, like way relief matters in March. And there are all other [01:26:50] fancy ai AI apps launching every month. So I think right now the AI industry is trained is, is more like focusing on, delivers the [01:27:00] final result instead of just focusing on some new models.
+
+
+Yeah.[01:27:10] 
+
+
+Uh, yeah. You know, for us it's like 12, five years is like [01:27:20] too long for a startup. Yeah. Yeah. Because, you know, even we don't survive at that time. Yeah. So we normally, we only have plans in the like six months. Yeah. [01:27:30] But that I like, uh, uh, answer to your question. I think it, it must be like, the first thing is always about the speed.
+
+
+You know, because, you [01:27:40] know, being a small startup and you are competing with some giant companies, it's, it's not just, you know, you can say that, oh, I have some [01:27:50] secrets. You don't know. You, you never, never believe that there will, there is be no secrets in our industry, it's always about like, acting fast, like learn [01:28:00] fast.
+
+
+The second thing is always about like focusing on your users. Yeah. Because, you know, uh, acting faster is a good thing, but if you don't [01:28:10] get good and the right feedback, uh, to, to lead your direction, you are acting faster to a runway. So the second thing is about like always like focusing on your [01:28:20] users.
+
+
+What do you need? How can we provide a solution to them? That's always like how a startup wins. Yeah. So for us, I think it's very simple. It's like, uh, we keep, [01:28:30] uh, shipping fast and uh, we keep focusing on our users. Yeah.[01:28:40] 
+
+
+Uh, yeah. Normally.[01:28:50] 
+
+
+I think right now it's like, uh, [01:29:00] uh, some very basic stuff. Yeah. It's like, uh, more cheaper and the more stable services. Yeah, because, you know, uh, I think, uh, when we, after we [01:29:10] release Manus, there are a lot of like caps in the, in the market and, uh, all day and including us. I think right now it's not cheap enough and it's not [01:29:20] stable enough.
+
+
+So I think if, uh, if a, if a tool that wants to be popular and used by everyone, it must be cheap and stable. Yeah. You [01:29:30] can, has the right expectation when you're using the tool. So that's kind of the basic stuff and, uh, we want to solve it in, in this year. And, uh, [01:29:40] another thing our user are asking is, because right now Manus has a fully functional computer, right?
+
+
+But some users are asking about [01:29:50] like, uh, can I have a phone, like virtual phone? You know, because right now it's like many apps and many information can be only access through mobile apps. [01:30:00] So I think that's, that is also like something we're working on too, that it's about, you know, give Madison a, a phone.[01:30:10] [01:30:20] 
+
+
+Yeah. I, I I think it's like, uh, uh, in the LA in a lot, very far future, maybe, you know, just at the end of this year. [01:30:30] Some people will, will, will find out that in their organization there will not just be some employees, the human employees, it'll be [01:30:40] like maybe 90% of human employees and 10% of aging employees, and it will keep like iterating.
+
+
+So maybe next year, in some [01:30:50] companies it's gonna be maybe like, uh, uh, 60% of humans, 40% of of aging employees. But it's never about replacement. We [01:31:00] think, you know, we, we build AI agent to enhance human, let replace human, you know, just like, uh, some people will always think that, uh, [01:31:10] uh, AI psychology will just take, take, take, take off human jobs.
+
+
+But we don't believe, we don't believe so because, you know, just like the, uh, the case I mentioned [01:31:20] earlier for our CEO Red, when he's looking for an department. His, his real estate agent is using AI technology to provide customized [01:31:30] solutions for hiss customers. But, you know, he's not losing his job. You know, he, he, he served his customers with better quality.[01:31:40] 
+
+
+So that's kinda the thing, you know, we are thinking, ah, it's about, we think, uh, your company will have like, more like, uh, Asian employees, but it didn't mean that it, [01:31:50] it, it is replacing your job. I think it's always about like enhancement. Yeah.
+
+
+S.[01:32:00] [01:32:10] 
+
+
+Yeah, I think it, it, it's always, uh, important to think about, uh, like not, not just the work at [01:32:20] hand. It's always about your goal. It's always about your, uh, your, your, your target. It's like, uh, oh, where, where, where do I want to go? Yeah. Like, like, you know, what, what do I want [01:32:30] to achieve? Because, you know, sometimes we are limited.
+
+
+The previously we're limited by ourselves because we don't have enough resources, we don't have [01:32:40] enough time. But right now with the agent technology, one man can have many resources and many time, uh, because the, uh, the, the aging, the [01:32:50] agent technology is, is scalable. So actually, you are not limited by yourself now.
+
+
+So you can always think about like, [01:33:00] what's your, uh, final goal? Yeah. What do you want to achieve? So that's kind of the way, like we, how we can survive. It's just like, you know, whenever we human [01:33:10] invented some force, we always come up with some new thinking about how to operate them. Just like the, when we invented the steam machine, right.
+
+
+We'll then [01:33:20] we'll have cars. Yeah. When we invented electricity we'll have like new tools. Yeah. So it's always about how to learn, how to control, how to operate this new [01:33:30] technology. Yeah.[01:33:40] [01:33:50] 
+
+
+Oh yeah. Uh. [01:34:00] I can see many things here because, you know, we are gener agent. We can do, we can do many. So we can, we can help you to, uh, make some posters, uh, make, use some ads, [01:34:10] video, and we can help you build a website, general service, like a lot of things. But I, I don't want to explain things all one by one.
+
+
+Uh, the only thing I can tell you, it's very simple. It's just, uh, [01:34:20] imagine in your work if you want to hire an intern and what kind of tasks you will assign to an intern you can [01:34:30] try with Manus. Yeah.[01:34:40] [01:34:50] 
+
+
+Uh, you mean, uh, you mean, you mean if, if it's work is not matching your requirement, right.
+
+
+I [01:35:00] say, of course, the, the first thing is like, you can always teach it. You can always teach it. Yeah. Humanas, we have a large system, which means it can learn from you. [01:35:10] It's like whenever you tell the agent that, that it's like, okay, next 10, uh, if you want to deliver this information to me, it [01:35:20] must be, uh, in a PDF format.
+
+
+And the will remember is in, and like then when he delivers something to you, it'll all be PDF format. [01:35:30] Or like, I don't want to read a very long article. It's like every time you deliver something to me, just uh, keep it into one page, uh, as well. Remember [01:35:40] that too. Yeah. So it, it's really like working with a real human intern, right?
+
+
+It's like, uh, you know, first week you, you will find like many conflicts, but after [01:35:50] you, you, you teach your teaching or her and leg stand, it'll may work better. Yeah.[01:36:00] [01:36:10] 
+
+
+Yeah, I think, you know, it was the, the most expensive lesson. [01:36:20] I think it, it, it, uh, it must, uh, comes from our, uh, so architecture design, because, you know, uh, when, when [01:36:30] we say expensive, it's really expensive. Yeah, yeah. Because it, it, it cost a lot of, like tokens, which means a lot of money, uh, for us. So it's, [01:36:40] it, it, uh, we, we are always redesigning our whole technical architecture, uh, because like, uh, each integration of the whole [01:36:50] architecture.
+
+
+It'll save us a lot of like tokens, which means a lot of, a lot of money. Uh, I think at the, uh, very [01:37:00] beginning, uh, we, uh, we, we insisted that we, uh, we keep all the, uh, context in the history, [01:37:10] uh, which creates two problem. Uh, the first one is like, uh, uh, it really, it, itll easily hit the limit of the whole context and the, uh, the password [01:37:20] fail.
+
+
+And the second thing is about it's really expensive when you're maintaining that very long context. So, uh, in the three iteration of [01:37:30] our, uh, architectural design, uh, we just invented some mechanism to, uh, to, uh, how to compress the full context. Which [01:37:40] means is like, uh, um, when, when, when the task go to the, uh, next 50 steps.
+
+
+So we will, looking back at some first [01:37:50] steps and if there's, uh, some actions like browse, uh, webpage and the observation will contain all these screenshots, text, blah, blah, blah, blah. [01:38:00] And, uh, we will just slip the, uh, slip the, uh, the screenshots because the, while the webpage UIO is still there, [01:38:10] so in the future, if the agent decides to revisit that, that page, we, we, we, we can just use the UIO to, to visit the page again and get a new [01:38:20] screenshot of that.
+
+
+But we don't have to keep the, all the screenshots because it's very, it, it's very big, uh, in our memory. Yeah. Things like that. We, we have a lot of like, [01:38:30] uh, these, these, these tricks and uh, uh, optimizations. Yeah.[01:38:40] 
+
+
+Yeah.[01:38:50] 
+
+
+Yeah. Uh, I think three things, uh, is what was, when we design, redesign the system, [01:39:00] there are like three targets. The first is always about the, the price. Yeah. We want to bring the price down. The second is about the speed. Yeah. We want to move the [01:39:10] faster. And the third thing is about the performance. Uh, when I say performance is about whether the agent can handle the past better, to deliver the final [01:39:20] results better.
+
+
+Yeah. So these are three, uh, results. It's about price, speed, and the performance. Yeah.[01:39:30] 
+
+
+Yeah.[01:39:40] [01:39:50] 
+
+
+Oh yeah. Because, you know, like in the real AI agent world, uh, sometimes it needs like 5,100 or more than [01:40:00] two or 300 steps to get the work done. And along that way, the agent will sometimes will, will make some decisions. Like when he search on Google, there [01:40:10] will be 20 results and the, the AI will decide which visit, which page to visit first.
+
+
+And sometimes the new information agent needs may [01:40:20] lack in being that webpage. So it's, it's very important that you keep all this. Fault all these faults in the [01:40:30] context because it will like, uh, keep reminding the model that you made, the, you made the, the, the wrong actions before, [01:40:40] and then it'll affect its future predictions.
+
+
+And if you just remove these, these failures and the, the model may repeat its [01:40:50] failure again. So I think it, it's really important. Yeah.[01:41:00] [01:41:10] 
+
+
+Oh yeah. So minus this, like we have a to-do markdown [01:41:20] file, which is like the AI first will come with, with its plan, and he will write, write all its plan in the to do markdown file. And why we think that's I [01:41:30] important is because the mechanism of the, uh, the modern a LM is working is it's always about its attention.
+
+
+So right now all these frontier models, they [01:41:40] all say they have a very large context, but large context only means you can put your love information in the context. That means, [01:41:50] uh, the attention mechanism will work. The same when the context gets longer and longer. So when we think Mark, uh, the to do markdown file is very important is [01:42:00] because we enforce the agent system to read the, to do markdown file before each step, [01:42:10] and then write back to the markdown file to do macro file after each set, which helps the model to focus more on the [01:42:20] whole picture.
+
+
+You know, not just the work at hand, because if you don't, uh, implement some mechanism like that, the model sometimes will lose [01:42:30] focus. It will have more focus on the exact step, but forget about the whole picture. But if you like, always put back the, the how to do markdown [01:42:40] file, which helps the model to remember, okay, uh, I'm doing the steps three.
+
+
+But I have like, you know, five or, or eight [01:42:50] steps, uh, uh, uh, uh, later, which helps me, you know, to maintain a clear head and know what's coming next. And it's really a human right. Like [01:43:00] my myself, I, I also like have, uh, to do, to do paper, uh, on my desk. Yeah.[01:43:10] [01:43:20] 
+
+
+Yeah. When we say action native ai, it means like our AI is designed to do actions, [01:43:30] not just to provide answers. So it's like, uh, what I told you is about our agent framework is just like, uh, action pre prediction machine. It always predict what's the [01:43:40] lack, what's the next action I should perform? What's the next action I should perform?
+
+
+So this AI system is always about doing actions, uh, like, uh, uh, broadening [01:43:50] something, writing something or perform or, or execute something. Yeah. Things like that. So it's a action native, uh, AI system. It's not focusing on answers, it is focusing on [01:44:00] actions. And, uh, what we believe is that in our real world, it's just a world full of tools waiting for us to take actions [01:44:10] on this tools.
+
+
+Yeah. So I think in the future maybe there will be some new software and new services, which are designed not for human, but for [01:44:20] agents. You know, it's like, uh, okay, now I have these 10 actions. Uh, what do you want to, uh, pick? What do you want to use? Yeah. Uh, and I think MCP, you know, it, [01:44:30] it's just a leading, uh, the trend.
+
+
+Uh, there are like many software and, uh, services, uh, redesigned to, uh, to meet the MCP concept.[01:44:40] 
+
+
+Yeah.[01:44:50] [01:45:00] 
+
+
+Yeah. Like for me, you know, I'm a podcast [01:45:10] lover. I subscribe to, you know, a lot of of podcasts though. So whenever I was driving or taking a bath, you know, I always listen to podcast. So for [01:45:20] me, it's never, it, it, it, it's always not, there will not be love focus for me to listen because I listen to a lot of cast for podcast.
+
+
+So right now, [01:45:30] you know, I have a scheduled task in man, which is like to. Collect the user feedback from LinkedIn, Twitter, you know, [01:45:40] all these social platform talking about manna. And, uh, at every morning, 6:00 AM Manna will go out, collect all the la [01:45:50] yesterday's user feedback on different social platform and make into a podcast.
+
+
+So every morning, you know, when I was doing the toothbrush thing, I, I will [01:46:00] listen to the yesterday's User feedback podcast. It's really imp uh, interesting. Yeah.[01:46:10] 
+
+
+Oh yeah. It, it, it's different. Uh, and, uh, because it depends on like, how many users are talking, [01:46:20] are talking about math yesterday. Yeah. But then normally, because I, I, I told it to limit it into maybe five minutes to 10 minutes. So normally it's like, uh, six [01:46:30] or seven minutes. Yeah.
+
+
+Yeah.[01:46:40] [01:46:50] 
+
+
+Okay. Yeah. Uh, oh, sorry. Uh, can you hear me now?
+
+
+Uh, [01:47:00] can you hear me now? Oh, okay. Okay, okay. Yeah, yeah. I, I, I lost show video signal for some seconds. Yeah. I think, you know, for [01:47:10] me, I only like in some very big companies like Ance for only two years and most of my career is about doing startups, [01:47:20] so I think. Uh, I think in the first years, like maybe when you are doing your first startup, it's always about working hard, blah, blah, blah, [01:47:30] blah.
+
+
+But for me, which is like, I've already doing startups for, for 15 years, I think the, the most important thing is to do not lose your [01:47:40] curiosity for the work. It's like always like, okay, I want to learn something. I want to figure it out. I want to know, uh, how it's working. And, uh, why is that? [01:47:50] Why is that? Uh, that's what, that's, that's what keeps me, you know, moving forward.
+
+
+It's about the curiosity for the, for the work. Yeah.[01:48:00] 
+
+
+Yeah. Uh, [01:48:10] I think for me it's like, uh, um. Uh, maybe it's more, it, it's kind of like aggressive, uh, for a lot of users [01:48:20] when they first hear this concept. For me, I think it's like, uh, I should need AI to access to all my context as a human. It's like, uh, uh, [01:48:30] what I see, what I hear, uh, what, what, what, what I see, you know?
+
+
+Uh, the AI will know it's all, and then she will know my near term [01:48:40] purposes and the long term purposes. And, uh, the AI will just, uh, you know, keep. Generating ideas and e [01:48:50] iterate based on all the context it has because, you know, I can just share all my context or everything in my Notion database, everything in my Google Drive, you know, [01:49:00] uh, like every, every, every email.
+
+
+And then after the AI knows my near turn and the long term purposes. And, uh, it will just, uh, provide suggestions [01:49:10] or build something, uh, maybe even before I have this idea, they are already built, build, build as a ment or, or, or something before. So that's kind [01:49:20] of the future. I mean, uh, I'm looking for, yeah.
+
+
+Yeah.[01:49:30] 
+
+
+[01:49:40] Okay. I think fund funding own company is always about, you have something to, uh, to build. Yeah. It's like, uh, I believe this [01:49:50] right way. And, uh, maybe like, uh, others, they don't believe that. Like, like for the, for, for, for this journey. It's like, before, man, we are low, you know, a lot, lot in the [01:50:00] global market, even even in China, it's like, we're low, but we believe that, uh, this is the kind of the things we want to, uh, build and, uh, uh, [01:50:10] uh, the, the only one we can find that, that trust us is ourselves.
+
+
+Yeah. That, that, that's, you know, like why you start a startup and, uh, uh, what, [01:50:20] what keeps you, uh, moving on? Yeah.[01:50:30] [01:50:40] [01:50:50] 
+
+
+Yeah. Uh, uh, uh, just, just like, you know, uh, actually, you know, last October when we [01:51:00] decided to sunset the AR browser project. Yeah. Uh, today, uh, I, I, I, I just, I just told you this decision, but back in that time, [01:51:10] it's really not a easy decision because, you know, at that we only have 40 people and we put 20 people on this project that, that's half of this company.
+
+
+For seven months. [01:51:20] So for small startup, it's really, you know, a big investment, a lot of resources, but we decided to sunset. It's a, it's a really [01:51:30] hard program, but why we, why we decided to do that? I think it's for two reasons. Uh, the first reason that [01:51:40] like Red and Eye at peak, you know, our chief scientist, we three people, we are not, we, we are all product person inside our heart.[01:51:50] 
+
+
+Even, even Peak is responsible for the, for the science part. Red is for the CEO of heart. But, you know, deeping our heart, we are product person. We just believe that [01:52:00] we, we don't believe that that is the experience we want to deliver to our users. We, we counterpa our, you know, our own standard. It, it don't [01:52:10] pass our own standard.
+
+
+So we don't want to ruin our, our you. Or, uh, reputation, you know, for that. That's the first reason. And the [01:52:20] second reason that we think if we release that project, we believe there will be, you know, there must well be some users. There must be some, you know, [01:52:30] some will love it, some will not love it, but after you release it, you have to maintain it, which means the whole team can't [01:52:40] focus on funding the leg big.
+
+
+Yeah. So at that time, we, we, we took maybe, I remember it's like two or three [01:52:50] weeks, uh, uh, the debate debates on whether we should continue that project and finally we decided to sunset. It's really a [01:53:00] hard decision back then. Yeah. Um, but we, we, we, we thank ourselves, you know, for that decision or without that decision, I don't [01:53:10] believe that matters will.
+
+
+Will be in the, in the, in the world because the whole team will be, you know, will be, be, be, be attached to the player browser project. Yeah.[01:53:20] 
+
+
+Yeah.[01:53:30] 
+
+
+Mm-hmm. Uh, are ing [01:53:40] already. Oh yeah. Okay. On, on course. Yeah. It's like, uh, you'll always have the kind that, uh, you will question yourself that, am I [01:53:50] on the right path? Yeah. Even like two weeks before we released Mena, we invited some of our friends and the investors to test, uh, [01:54:00] you know, the early version of Manus.
+
+
+Some of them are very excited about, okay, this is something that's gonna change the work. And someone say, okay, yeah, it's slow. [01:54:10] And, uh, sometimes we'll create some errors. I don't see like, uh, what, who, who, who, who is this product for, you know, we will get some [01:54:20] positive feedback from some negative feedback.
+
+
+And we have very like, uh, you know, very hard situations, like, uh, whether we should keep building it until [01:54:30] everyone is satisfied with it, or we just revisit it. Yeah. There are always the, the, these times. Yeah. But sometimes you have to, uh, you have to trust [01:54:40] your, your trust, your gut, you know, trust your instinct.
+
+
+It's like, uh, uh Okay. I think it's good enough. I, I think it, it's good enough to let the world [01:54:50] to, uh, to, to, to test it. Yeah.[01:55:00] 
+
+
+I think it, you know, the, the [01:55:10] most important thing is always about do you have a problem to solve? Yeah. I think, you know, uh, as two products I mentioned earlier, which is Cursor and Gran, [01:55:20] I think they are all great products because they are solving problems. So anyone who had that problem, like me, when I'm using Cursor, when I'm using granola, [01:55:30] I was think, okay, this is definitely the tool I did because this, they, they are solving my aims.
+
+
+So sometimes, you know, when we're talking to founders, I think [01:55:40] the biggest mistake that they don't have a problem to solve, they just want to start a company. So that, that's kind of the, the program. Yeah. We want to build something [01:55:50] new. Uh, it must coming from some pain points, not just, okay. I just want to catch up with the AI train.
+
+
+Yeah.[01:56:00] 
+
+
+Oh yeah, of course. [01:56:10] I, I, and we think maybe, uh, maybe I, I We should mute it. Yeah. Oh yeah, of course. I think, you know, eventually, I think [01:56:20] maybe we will bigger than that because, you know, cursor is built for coders and, uh, as for the whole world, coders are just a very small part of the whole population. [01:56:30] But man is just a tool built for everyone.
+
+
+And, uh, we think we're still at the very, very, very early stage. Yeah. So I think maybe next year [01:56:40] when we, maybe we gotta do a, an interview, interview again, at that time, I'm more confident to say, uh, it's a everyday tool for everyone. Yeah.[01:56:50] [01:57:00] 
+
+
+Hi. Hi. I am Tao, uh, co-founder of Manus ai, and, uh, right now I'm acting as our chief product officer and also, [01:57:10] you know, in charge of all this GoTo market strategy and partnership. C Yeah.
+
+
+Oh.[01:57:20] 
+
+
+Meta AI is a world first general agent. It can, you know, deal with a very long tail of different [01:57:30] type of tasks and, uh, not just like some other AI chatbots, uh, uh, meta, just not give you the answers. But instead of that manage, [01:57:40] just keep focusing on, give you the final results, which means you just signed the past.
+
+
+Tremendous will delivers the, maybe the, the video, the [01:57:50] images, the audio, or uh, a PowerPoint or Excel for you.[01:58:00] [01:58:10] 
+
+
+Yeah, I, I, I think that's all. Yeah. Yeah. It's a two hours interview. It's loud. Yeah.[01:58:20] 
+
+
+Okay. Thank you guys. [01:58:30] Bye.
+
+
+
+
+background
+네 좋습니다 🙆🏻 각 경력 관련 발언들의 타임코드를 원문에서 찾아 정리해드렸습니다.
+________________
+
+
+📌 Tal의 이전 경험/경력 발언 타임코드 정리
+1. 
+Light Year & ByteDance 인수 후 경험
+* 타임코드: [00:20:40] ~ [00:23:10]
+
+* 내용 요약: Light Year 공동창업 → 짧은 운영 후 공동창업자 건강 문제로 매각 → ByteDance(마얀)에 인수 → AI 랩처럼 다양한 AI-인간 상호작용 탐구 → DoDooBoo (어린이용 AI 그림 앱) 제작 경험.
+
+________________
+
+
+2. 
+Lark (ByteDance 글로벌 SaaS 협업툴)
+   * 타임코드: [00:39:40] ~ [00:41:50]
+
+   * 내용 요약: ByteDance의 Lark 글로벌 프로덕트 총괄 → Slack 유사 B2B SaaS 협업툴 → 미국, 일본, 한국, 동남아, 유럽 등 글로벌 시장 경험 → 시장마다 지불 태도·제품 기대치 차이를 학습.
+
+
+Lark 글로벌 SaaS 경험
+      * 타임코드: [00:40:00] ~ [00:41:40]
+
+      * 원문 발췌:
+
+ ”…What I learned is that it’s really different when you looking outside of China, like Japan, Korea, Southeast Asia and the United States, Europe, they’re all different. …People in the US love simplicity… Japanese/Chinese users are willing to configure deeply…”
+
+      * 한글 번역:
+
+ “제가 배운 점은 중국 밖 시장은 정말 다 다르다는 것이었습니다. 미국 사용자는 소프트웨어의 단순함을 좋아하지만, 일본·중국 사용자는 시간을 들여서라도 세밀하게 설정하고 쓰는 걸 선호합니다. 지역마다 전혀 다른 기대와 사용 방식이 있음을 깨달았습니다.”
+________________
+
+
+3. 
+Sensors Data (중국 B2B SaaS, Customer Success VP)
+         * 타임코드: [00:47:20] ~ [00:49:50]
+
+         * 내용 요약: 첫 B2B SaaS 경험 → 이전에는 소비자 제품 중심 → Sensors Data에서 Customer Success 부사장으로 활동 → 고객 성공, 프리세일, 솔루션, 컨설팅 팀을 리드 → 데이터 분석 SaaS의 가치 전달 역할 담당.
+         * 타임코드: [00:48:50] ~ [00:49:40]
+
+         * 원문 발췌:
+
+ ”…what I learned is the most important thing is not just to build the product itself, it’s also about how to communicate the product to our potential customers… because many companies don’t know the benefit of buying a user behavior analytics platform…”
+
+         * 한글 번역:
+
+ “제가 배운 것은 **제품을 만드는 것만큼 중요한 게 ‘가치 전달’**이라는 점이었습니다. 많은 기업들은 사용자 행동 분석 플랫폼을 사서 얻는 이점을 몰랐기 때문에, 고객에게 그 가치를 설명하고 설득하는 과정이 무엇보다 중요했습니다.”
+
+________________
+
+
+4. 
+중국 SaaS 산업 시절의 배움
+            * 타임코드: [00:50:20] ~ [00:52:50]
+
+            * 내용 요약: 중국 인터넷 산업에서 축적된 인재 풀 → SaaS·AI 성장 기반 → 하지만 중국 시장은 소비자 중심이라 B2B SaaS monetization 어려움 → 그래서 Manus 창업 시 Day 1부터 글로벌 시장 지향.
+
+________________
+
+
+1st storyline
+
+
+#Intro 
+[00:00:00] Last month in July, chair g Bt just released their own agent, my CEO. Red and I, we were in San Francisco. We too may be the happiest [00:00:10] person on the earth because, you know, before that a lot of like, uh, founders and investors. They all asked the same question's about what if open AI [00:00:20] did the same thing. And uh, we explain Tuesday that, oh, it's really different.
+
+
+It's not like a training model. But you know, when they asked the [00:00:30] question, they already had their answer because they think the model company is kind of like a superior company. Whatever they do, they will do better. So it's really hard to convince [00:00:40] them to trust us and we test it in a day. 
+
+
+[b-roll] One other agent, builders, investors, and the question was always. What happens if OpenAI just builds this tomorrow? So [00:00:50] we had to wait four months for it to happen. But finally, just yesterday we got the response, what happens if OpenAI just builds this? 
+
+
+We try, like all the use cases they showed in their [00:01:00] launch video, 
+
+
+[b-roll] let's just watch side by side on a few tasks. Let's see the results.
+
+
+And uh, what I can see is like in most of these use cases, our deliveries [00:01:10] are much better, you know, than the agent.
+
+
+ It's totally like a game changer.
+
+
+
+
+#
+Hi. Hi. I am Tao, uh, co-founder of Manus ai, and right now I'm acting as [00:01:20] our chief product officer here. 
+Manus is kind of like the world first general agent, 
+
+
+[b-roll] 
+and today we're launching an early preview of 
+Manus, the first general AI agent.[00:01:30] 
+This isn't just another chat bottle workflow, it's a truly autonomous agent 
+
+
+chat GPT and deepseek. They are all like, uh, the last generation of AI apps. It's like a, a [00:01:40] checkbox, which means like you need to answer the question. You get, uh, answer. But in manus, just you assign a task to us and you don't have to like [00:01:50] specify the details because Manus will just, uh, analyze the task and, uh, uh, come up with a plan of how to solve this, uh, this task.
+
+
+[00:02:00] Sometimes maybe need 20 or 50 steps to solve this task. And then you don't have to push the ai. The AI will have its own plan and zin, uh, follow up [00:02:10] this plan and execute the plan, the plan, step by step and zin. Delivers the final result. Yeah, so it's totally different. You can just consider MENA just as an [00:02:20] inter in your company.
+
+
+So like any tasks you will assign to your inter, you can try with manus. 
+
+
+I think for all past two and a half years, all these [00:02:30] frontier models like open eyes models, JE models, they're very smart, like even smarter than 99% of humans. But the problem [00:02:40] is they are lacking of the hand, uh, to do the real work. So we are building hands for these smarter men, for these smarter models.
+Then they [00:02:50] can make real impact into the work.
+
+
+ We don't think chatbot is the best way to release the true potential of LMS because we think the chat bot [00:03:00] needs the user to put a question first. But sometimes, you know, for most users, they don't know what question to ask. Then they can't get the [00:03:10] value from AI from LM models.
+
+
+Yeah. So we think the best way is that maybe the model can sync on itself, has its own plan, and [00:03:20] execute the plan step by step, by just by itself, not just triggered by a lot of like following up questions. So we think that's the best way. It's like the model just trigger [00:03:30] itself, not just be triggered by human questions.
+
+
+We'll just finish our last round. Fundraising. Back in April, we raised like, uh, 75 millions dollars [00:03:40] and, uh, valuation at 500 million. We are the fastest, uh, ar growing AI startup.[00:03:50] 
+
+
+#Ch1
+
+
+After catch GPT launched, I just had the product and it, it's just like magic. And for me, you know, I were, uh, back in that time, I've already in this industry [00:04:00] for more than 14 years and, uh, I think this may be the biggest opportunity in my career. So I decided to just, uh, you [00:04:10] know, just, just quick everyone's group in chat bot.
+
+
+I don't want to build energy bot. My focus actually is explore how humans should interact with ai. So [00:04:20] I explore like, uh, many, many different demos and, uh, directions to explore how humans should interact with ai. What I found out in that journey that [00:04:30] we must, uh, find out a way that to interact with ai, not just by Questions. 
+
+
+So my dream is that I [00:04:40] want to build a product that can influence 24 hours for a single human. What does that mean? Actually, you know right now in [00:04:50] chat g bt, I think average use usage, so like every user will ask chat GBT maybe five questions per day. And each question may consume [00:05:00] open AI five seconds of GPU time. So five questions, maybe 35, yeah, maybe like 30 seconds at home. So it's like right now every check GBT user [00:05:10] just consume 30 seconds of GPU time for OX. But my dream is to build a product that a single user will consume [00:05:20] 24th of GPU time. How to achieve that? Definitely it will not be driven or triggered by human because if, if, if it's [00:05:30] triggered by human, which means you have to. Keep asking questions 24 hours. It this a lot happening. 
+
+
+I want to build a AI system that generate [00:05:40] intelligence, provide intelligence 24 hours even without users ask. [d]
+
+
+
+
+[Broll] Monica
+When I joined this company, we've already had a very [00:05:50] successful product called On Monica to Im, it's kind of like a AI Chrome browser extension.
+
+
+So Monica just helps you to leverage the AI just in your webpage. But the problem [00:06:00] is that the setting for Monica is kind of like low for us because it's a Chrome browser extension. These three words, each of them just lower the saving for us, [00:06:10] but everyone is using Chrome. Not everyone knows their browser can install an extension, so we want to build something like bigger.
+
+
+So the first thing [00:06:20] came to our mind is an AI browser. We started this project from last March, uh, to last October. We spent seven months of work [00:06:30] on the AI browser set. Right now, you know, in this year you'll see a lot of like AI browsers,[e] 
+
+
+but we never release that product. Why is that? Is because, you know, after seven months of [00:06:40] of work, we found the whole experience is kind of weird.
+
+
+What you see that the AI is competing with you for your computer. [00:06:50] So which means like when, when the AI started the its process. You have to keep your hands off the keyboard because any movement to the keyboard will break the AI [00:07:00] process. So the whole experience, you know, is kind of weird and we don't want to deliver that experience to our users.
+
+
+So that is already last October [00:07:10] and back in that time, our setup only have like 40 people, and we've already put half of them, like 20 people on the AR browser project. It's a big, you know, it's a big [00:07:20] be, but we decided to sunset this. After that we're thinking about. Okay, now what's the, what's the next step?
+
+
+So the [00:07:30] original inspirations actually, you know, came from Cursor because last year in July, cursor just went so viral. Some of our friends and the families, [00:07:40] they are not coders, they're not programs. They don't know how to count in their whole lifetime. But what we saw is that they are starting to use cursor.
+
+
+[00:07:50] To solve their daily tasks. Like my wife is using Cursor to converting a video file to a audio file. And, uh, we say some like colleagues in [00:08:00] our company are using Cursor to do some data visualization. It's like you just, uh, put psych cells in and you use Cursor. So these are the moments we, we [00:08:10] think, which is the most interesting part, is that.
+
+
+These people, these long coders, they are started to leverage the power of AI coding to solve [00:08:20] their daily tasks and the way they're using cursor. They don't care about the left side of cursor, which is the code side because they don't code it at all. So the only thing they [00:08:30] do is to keep pressing the accept button on the right panel.
+
+
+Accept, accept, accept, accept. So that's actually the moment when we sunset our AI browser [00:08:40] project and we think maybe we should build the red panel of cursor. And combining the learnings we get from our AI browser project, which is AI should [00:08:50] not compete for your computer. The AI should have its own computer.
+
+
+So our arrange of idea of manness just comes from the right panel of cursor. [00:09:00] But running in the cloud have its own cloud virtual machine. And uh, we want to build a product for average people, not just for coders. [00:09:10] Yeah. It's for average people. It's for lot more people, for everyone. So that's kind of like the original idea of Manus back in that time.
+
+
+It's really not a easy decision because, you know, at that time [00:09:20] we only have 40 people and we put 20 people on this project. That's, that's half of this company. For a small startup, it's really, you know, a big. Investment, a lot of [00:09:30] resources, but why we, why we decided to do that? I think it's for two reasons.
+
+
+The first reason that like Red and [00:09:40] eye at peak, you know, our chief scientists, we three people, we are all product person inside our heart. Even, even Peak is responsible for the, for the science part. Red is for the CEO of [00:09:50] heart. But you know, keeping our heart, we are product person. We just believe that we, we don't believe that that is the experience we want to deliver to our users.
+
+
+We pass [00:10:00] our. You know, our own standard. It, it work as our own standard. And the second reason that we think if we release that [00:10:10] project, we believe there will be, you know, there must well be some users, but after you release it, you have to maintain it, which means the whole team [00:10:20] focus on funding the leg big seat.
+
+
+So at that time we, we took maybe, I remember it's like two or three weeks in debates. [00:10:30] Whether we should continue that project and finally, we decided to sunset. It's really a hard decision back then without that decision, I don't believe that [00:10:40] matters. Will, will, will be in the, in the, in the world.
+
+
+I'm a podcast lover. I subscribe to, you know, a lot of [00:10:50] of podcasts though. So whenever I was driving or taking a bath, you know, I always listen to a podcast. So right now, you know, I have a scheduled task in Venice, which [00:11:00] is like collect the user feedback from LinkedIn, Twitter, you know, all these social platform talking about manna and, uh, [00:11:10] at every morning, 6:00 AM.
+
+
+Will go out, collect all the yesterday's user feedback on different social platform and make them into a [00:11:20] podcast. So every morning, you know, when I was doing the toothbrush thing, I, I will listen to the yesterday's user feedback. It's really imp uh, interesting. And the one user [00:11:30] meetup we hosted in Dubai, there's someone come and talk to me.
+
+
+He's a social media expert. He is doing consulting for other companies, you know, to build a [00:11:40] social media strategy. And what he showed me really shocked me because, you know, he's using Manus to build a three month social media strategy for his [00:11:50] client. And, uh, what matters delivers is, uh. 86 page handbook.
+
+
+It's a very detailed playbook. This is the content you should post on LinkedIn. [00:12:00] This is the content you should post on Instagram. This is the content you post should post on X with that very detailed playbook. I think like any junior people in, [00:12:10] in his sense company can just run their social media and, uh, Z Tasker only cost him maybe seven or $8.[00:12:20] 
+
+
+Different people have different tasks in the, in the very beginning we have a serious discussion is about whether we should hide all the details. [00:12:30] We just expose thing. Oh, but the final decision is we just expose all the details, which means, uh, when you are using Manus, we will [00:12:40] show you like how Manus is thinking and, uh, what is decision for the, uh, like stat that that's a very different experience when you're using chat because you, when you are chatbot, [00:12:50] it's always like waiting for the AI to finish its answer.
+
+
+Why we choose to do that? Because we think agent is, is so new. People are not familiar with the [00:13:00] AI agents, so we just want to show the whole process to build trust with our users and let our users know. What is happening, [00:13:10] and if something is going wrong, they can just interrupt at any time and tell the agent, okay, you are acting the wrong way.
+
+
+You should do, do things in that way, blah, blah, blah. That it's not [00:13:20] like a chat bot. Matters can be interrupted at any kind and, uh, nerve from your input. And, uh, go to another direction. It's more like a coworking [00:13:30] experience. Unfortunately, we put a lot of resources and, uh, engineering efforts for this feature, but right now there's only a few people, you know, a few portion of [00:13:40] users are waiting to jump in.
+
+
+I think right now the biggest challenge actually is not just a front song, some practical, uh, perspective. We define [00:13:50] us as the word first general agent. It's like, okay, we can do everything. But you know, when you are a tool that can do anything, which means when you are facing a new [00:14:00] user, it's very hard to tell the user.
+
+
+It's like, uh, what's your first task? Actually, we, we, we tried some, some features just like, uh, galleries, you know, where [00:14:10] we, we just has had some galleries to show you, uh, this is the type of task you can do. We also like to try some, try to do some past suggestions. Like, uh, when you [00:14:20] upload some file, we will tell you what kind of task you can do with this file, with this type of file.
+
+
+So actually that's the biggest change right now because for most of people. [00:14:30] Maybe it's their first time to, uh, to interact with agents or their logic of AI coming from using a chat bot. So actually they don't know [00:14:40] what kind of task they can assign to an agent. I think that that's still is time from us and also from the whole industry to educate the, the, the [00:14:50] users.
+
+
+It's really like working with a real human intern, right? First of week [00:15:00] you, you will find like many conflicts. After you teaching or her and Legan, it may work better. My advice is just, uh, focus on [00:15:10] the how outcome you want. You know, just describe what kind of things you want instead of like teaching it step by step.
+
+
+I think general agent is, is, is that you [00:15:20] can just consider it as a real human talk to. Just assign a task, then it'll first, uh, have its own plan. Plan is very important. So first it'll have [00:15:30] its own plan, and then it'll start to execute the plan. And when, when the agent is executing its own plan in each step, he will do some [00:15:40] rethinking about, okay.
+
+
+Considering all the information at hand, do I need to change the original plan or I just, you know, follow the plan to the next step along the [00:15:50] way? Sometimes maybe he will do some replanning, and when you are seeing that maybe the agent is visiting the wrong website, you can always [00:16:00] jump in. You know, you can interact at any point, at any time, and the agent will.
+
+
+Instantly, you know, react to your feedback and change its path [00:16:10] based on your feedback to the right path. And after all the setups are executed, the agent will have the final result. Maybe it's a PowerPoint, maybe it's a [00:16:20] video, maybe it's just a, a simple document or just a website. It, it's built and returns the final results to you.
+
+
+So this AI system is always about doing. [00:16:30] Actions, uh, like, uh, uh, brow something, writing something or perform or, or execute something. So it's a action native, uh, AI system. It's not focusing on [00:16:40] answers, it is focusing on actions. What we believe is that in our real world, it's just a world, world of rules. I think in the future, maybe there will [00:16:50] be some new software and new services, which are designed not for human, but for agents 2025 gonna be.
+
+
+The first year of AI [00:17:00] applications because I think for the past two years it's all about like AI models. It's about training models, training models. I think the model actually, I think it's already smarter than [00:17:10] most of the humans. The problem is not about the model side. There are not lot. Good AI apps, you know, just like cursor, just like granola.
+
+
+These are the [00:17:20] tools I, I love. I use it every day. So I think the prob is at the product side, the most important thing is always about, do you have a problem to solve? Well, I'm using cursor [00:17:30] well, I'm using granola. I was think, okay, this is definitely the tool I did because. This, they, they are solving my aims.
+
+
+So sometimes, you know, when talking to founders, I [00:17:40] think the biggest mistake that they don't have a problem to solve, they just don't want to start a company. You want to build something new. It must coming from some pain points, not [00:17:50] just, okay, I just want to catch up with the AI train, it's always about your goal.
+
+
+It's always about your. Your, your, your target. I think our mission is to expand [00:18:00] the boundary of humanity's productivity. Just like with human created cars, we can reach faster boundaries to where humans can go. So I think [00:18:10] in this general, a agent era, I think as a single human, we can just expand your productivity boundary.
+
+
+Then just the one land can do [00:18:20] much more work than before. So that's kind of the mission. We are, we are, we are solving yet. For me, which is like I've already doing startups for. For 15 years, you'll [00:18:30] always have the time that you will question yourself that, am I on the right path? Yeah. Even like two weeks before we release Manus, we [00:18:40] invited some of our friends and the investors to test the early version of Manus.
+
+
+Some of them are very excited about, okay, this is something that's gonna change the work. And [00:18:50] someone say, okay, yeah, it's slow and uh, I don't see who is this product for, you know, and we are very like, uh. Very hard situation, like, uh, [00:19:00] whether we should keep building it until everyone is satisfied with it, or we just revisit it.
+
+
+There are always these times, but [00:19:10] sometimes you have to, uh, you have to trust your, trust, your gut. Okay. I think it's good enough. I, I think it's good enough to let the world to, to test it. I [00:19:20] believe this by way for, for this journey. It's like, before, man, we are low body, you know? Lot in the global market, even even in China, is like, we nobody, but we believe that this [00:19:30] is the kind of the things we want to, uh, build.
+
+
+The only one we can find that, that trust us is ourselves. The, we think we're still at the very, very, very early [00:19:40] [00:19:50] [00:20:00] [00:20:10] stage.
+
+
+
+
+[a]•        fully functional virtual machine (완전히 작동하는 가상 머신): 일반적인 컴퓨터처럼 작동하는 독립된 환경. 운영체제도 있고, 프로그램도 설치 가능하며, 격리된 공간에서 돌아감.
+[b]•        running in the cloud (클라우드에서 실행 중): 이 가상 머신이 개인 컴퓨터가 아니라 AWS, GCP, Azure 같은 클라우드 서버에서 돌아간다는 의미입니다.
+[c]“각 에이전트가 클라우드 안에서 독립적으로 작동하는 하나의 ‘가상 컴퓨터’를 갖고 있어서, 마치 실제 컴퓨터처럼 자유롭게 작업할 수 있다”는 의미입니다.
+[d]cut?
+[e]cut

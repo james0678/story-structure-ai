@@ -1,0 +1,1305 @@
+﻿Burkay Gur_full script
+fal Burkay Gur_ full audio
+===
+
+
+[00:00:00] [00:00:10] [00:00:20] [00:00:30] [00:00:40] [00:00:50] [00:01:00] [00:01:10] Yeah.
+
+
+So let's begin. Let's do it. Good. [00:01:20] First question is, could you, could you, could you introduce yourself to our viewers? Sure. Um, so my name is Burka Ger and I'm co-founder and CEO at fall. [00:01:30] And could you also introduce the, what is the far and what problem are you solving? Yeah, yeah. So fall is a. Uh, [00:01:40] brand new concept.
+
+
+Um, so Fall is a generative media platform, and generative media is a pretty new topic. So we [00:01:50] basically host, um, models that can generate images, videos, 3D audio, and people can build applications that have, uh, that use these [00:02:00] models. And, uh, I I want to, uh, ask more detail about that. So for example, uh, intuitive, such [00:02:10] as, such as low process, slow processing speed or high cost mm-hmm.
+
+
+For developers in AI and generative media. Yeah. Can you, can you Yeah. Repeat that? Sure, sure, sure. [00:02:20] So Fall is a generative media platform for developers. We host, uh, I'll Do it again. Fall is a generative media platform for [00:02:30] developers and we host models that can generate images, videos, 3D audio, and we can host these models at greater speed than anyone else.
+
+
+Cool. So then, [00:02:40] uh, what key Mark or achievement has spark far, far AI reached so far? Uh, can you repeat that? Sorry. Uh, what key Mar milestone or achievement, [00:02:50] uh, has far ai? Okay, cool. So at fall we, we have more than a million developers on the platform building AI applications that are powered by [00:03:00] AI generated media.
+
+
+Um, and we have recently crossed, uh, $95 million in revenue. Um, sorry. Should I [00:03:10] just say a hundred? Say, don't say. Okay. Okay. Okay. Uh, I'll repeat that. Uh, so, um, [00:03:20] at fall we recently crossed a million, uh, more than a million developers at fall. We recently crossed more than a million developers, and we are at a [00:03:30] 90 million annualized run rate revenue.
+
+
+I think since this interview will be published around the time of your funding announcement, so it would be great if you could [00:03:40] introduce the company using the, the, the figure you, you just shared. Yeah, sure. So funding around our new evaluation and Sure. Something like that. Yeah. So Fala has been [00:03:50] around for four years, uh, but um, so fall has been around for four years and, uh, we've so far done, uh, four rounds of [00:04:00] fundraising.
+
+
+Uh, and the last three rounds was actually in the last 18 months. So we, we did our A, B, and C within a, within, uh, uh, 18 [00:04:10] months. And we've, to date raised $197 million. And could you, could you explain [00:04:20] bar's core product? Like the, like the bar invent. Inference engine or you computing in a way, or, sure. We Christian could [00:04:30] understand.
+
+
+Sure. Sounds good. Um, so fall is a generative media cloud. So what we, what we offer is we offer APIs, uh, that are [00:04:40] basically simple ways to access these models, uh, such as stable diffusion, flux, uh, one, uh, video models. And, uh, you can [00:04:50] access these models, uh, with, with, in a very easy way. Uh, typically these models are very hard to host, so you would, you would typically need, uh, to stand up your [00:05:00] own infrastructure, uh, that are, uh, that are, uh, powered by GPUs.
+
+
+And this is a fairly complex, uh. This, this is a very com fairly complex [00:05:10] problem, and it's typically very difficult to maintain this big fleet of GPUs. So the problem we solve is like, uh, hosting these models in very easy way, [00:05:20] uh, hosting these models as APIs, which makes it very easy to consume for developers.
+
+
+We also have a inference engine that we built in-house that is [00:05:30] specifically optimized to run diffusion models, which are typically what a lot of these media models are based off of at, at, at Great speeds. And we, [00:05:40] we've optimized these models to run two, three times better, uh, than, than what you would get, uh, in a, if you were to try to do it yourself.
+
+
+Thank you. [00:05:50] Then before we dive into your founder journey, so I'd love to start by asking about your chart food. So what were, what were you, what were you like as a [00:06:00] chart and can you describe the environment you grow in Turkey and how you are interested in technology and ai? Sure. Um, yeah, so I, I grew up in Turkey [00:06:10] and I was a very curious child.
+
+
+Uh, I always wanted to like, pick up my toys and, and pull 'em apart and, [00:06:20] and try to like fix them. Uh, I thought I was fixing them, mostly breaking them. Um, and, and yeah, so I, I grew up very curious and [00:06:30] after, um, spending my time in Turkey, like I went to, um, like my primary school, high school [00:06:40] there. And then, uh, I moved to the States for college, uh, where I went to MIT for my undergrad.
+
+
+Okay. Then you studied computer [00:06:50] engineering and specialized in ai. And at MIT and computer science are the future intelligence labs. So yeah. What kind of student were you and what dream [00:07:00] did you have about your future career during your college? Um, so I was a pretty hardworking student, uh, up until [00:07:10] going to MITI would say at, at MITI was, um, I was just very curious about, uh, all of the, uh, different topics that they, [00:07:20] that they offered.
+
+
+Specifically. I was very interested in like the intersection of technology and art. Um, so I took a lot of classes there that are [00:07:30] maybe not the mainline classes, um, but, but like, um, very interesting classes and different applications of machine learning to, to photography [00:07:40] and, and music. Uh, and that was actually, uh, the stuff that I enjoyed the most.
+
+
+Um, and yeah, so like there was one class, uh, by [00:07:50] Peter Winko, uh, at, at MIT, uh, media Lab, and I took that, which is electronic music, not the like. Uh, dancey kind, but actually like the technical [00:08:00] topics that go into like, uh, how to build, uh, you know, synthesizers, how to build audio effects, et cetera. And, uh, I took another class that was really cool, [00:08:10] computational photography, which is basically like all the algorithms, um, to do, you know, effects on photos, uh, blending, et cetera, like those type of types [00:08:20] of things.
+
+
+But, but back in the days, those were all like heuristics based. Uh, a lot of that now is like actually sold by deep learning. So, and we're not [00:08:30] even talking about that long ago. Like my college was like 2007 to 2012, and the, the tech was still very much like, uh, you know, you had to have, have a lot of domain [00:08:40] expertise, understand like, you know, understand music, understand photography, understand lighting to actually like, be able to do these algorithms.
+
+
+But now domain [00:08:50] specificity is like less important. And like you can actually. Build models with that can do these things, um, without, without actually [00:09:00] knowing about the domain. I'm curious, uh, when you, when you first moved from Turkey to us, uh, how did you feel? Yeah, uh, I mean, it [00:09:10] was, it was a pretty big transition.
+
+
+I think. Like, um, you know, there was definitely like culture shock and, and like, I think, I think like even a decade makes [00:09:20] a big difference here, right? Like, I moved to the States 2007, you know, this is like, I think Facebook had just come out. Uh, so, so like, it, it definitely felt [00:09:30] like, um, I wasn't as tapped in to like the culture, right?
+
+
+So there's like a big gap between, you know, how I, how I grew up in Turkey and like what people like to do there versus like [00:09:40] how they're in the us. So there's definitely like an initial period where it was just like, it took a lot of getting used to. Um, but after like a year or so, [00:09:50] I, I got pretty used to it and I really enjoyed my time.
+
+
+I want to ask more details through your co colleagues during your college. Uh, [00:10:00] how did your, how did your experience at MIP and shape that, how that shaped your entrepreneur entrepreneurial mindset today and any memory or project [00:10:10] or memories? Mm-hmm. Yeah. So MIT has this culture of like, hustling and like, just like really grinding.
+
+
+Uh, like it was very typical to [00:10:20] do all-nighters, to like, finish just simple homeworks and homeworks weren't simple. So like, uh, that there, there's like this big grinding [00:10:30] culture and I think that that was like very core. Like I, I've always been a hard worker. And, um, so after MIT, when I was at my at, at my first few [00:10:40] jobs, I also just like brought that mindset, um.
+
+
+I think, I think that's one. Another culture is like the hacker culture. It's pretty com. Like you, you'll hear a [00:10:50] lot about it. Uh, so that, that has to do with, again, like I think approaching problems with a lot of curiosity and trying to find like very pragmatic solutions. [00:11:00] Like you, you basically, you know, hack, hack the thing, right?
+
+
+So that's, that's, that was like the culture that I grew up in. And then later on I think I applied that a [00:11:10] lot into my work life. Hmm. Then now I want to ask your early career. So what made you start your career at Oracle [00:11:20] as an engineer? And what kind of work did you do there? And how did you, how did you, how did it help you build a foundation in software development?
+
+
+Yeah, so. [00:11:30] Oracle. I actually did an internship at Oracle, like during college. So, and I think they did that like pretty well, like this, uh, I think like large companies, they do a pretty [00:11:40] good job in like university recruiting, so I, I definitely had a very good sense of like what it's like to be there. And I, I really enjoyed my time, so I decided to take a full-time [00:11:50] job.
+
+
+Um, I was working on some like fairly boring things in the beginning, to be honest, like in, in the application layer. And, um, [00:12:00] and I had started my green card process. So this is like a very typical thing for immigrants in the us. Like you cannot, you can kind of like be stuck in [00:12:10] jobs, uh, if you start your green card process.
+
+
+So I wasn't, I I, I had started it and I wanted to like. You know, go through it. Um, so I, I [00:12:20] really felt like I had to find a place for myself within Oracle, uh, that I really enjoy. So I ended up actually finding a team that I really, really liked. And this [00:12:30] is like back in 2013 and this team was working on chatbots.
+
+
+So it's, it's kind of like the previous, you know, previous generation of chat, let's [00:12:40] say. So I actually started working on that team, which was a team that was trying to basically bring chatbots into like the CRM [00:12:50] software. And I really enjoyed it. I did that for like two and a half to three years. Uh, and you know, back then you had to do a lot of like, manual stuff, um, [00:13:00] design the conversations and like have a bunch of like, uh, you know.
+
+
+Decision processes that you have to make to handle the chats and, [00:13:10] and, you know, handle the intent of the users. And I'm glad, like we don't have to worry about any of that now, but it was, it was definitely like, uh, another big moment. You know, [00:13:20] like Siri was very big at the time, uh, and people were talking about AI a lot, but like, obviously nothing like what's happening now.
+
+
+Uh, so yeah, I managed to carve out a pretty [00:13:30] good team for myself there that I really like, enjoy, like, like working with, uh, and, and yeah, we built some really cool stuff there. Cool. Dan, [00:13:40] looking back, looking back on your first job at Oracle Coal, so is there a lesson or mindset you'll pick up back then that still stay with you today and something you think [00:13:50] our audience could really hear from?
+
+
+Sure. Um, yeah, I think the biggest thing there was like. Like in, in these large [00:14:00] organizations, like you don't have to feel so stuck, uh, where, where you are, you can actually go and like meet people, uh, that are working on cool stuff and, [00:14:10] and, and these organizations are like pretty, pretty accepting of like people moving around.
+
+
+So I think, you know, that that was one thing that, that I, I [00:14:20] used as an advice to like other people that, that were in a similar situation, uh, to, to find something that like you're really passionate about and, and work on. So I think, I [00:14:30] think that was very helpful. Dan, why did you, why did you move from to Coinbase?
+
+
+Right? So, um. So I [00:14:40] joined Coinbase 2016 and like around 2015 was a very interesting time. Like, um, deep learning was just like kind of starting to become [00:14:50] popular. Uh, I started getting really into it. Uh, and I was mainly, I mean, like we did learn about deep learning a little bit at MIT but it wasn't, you know, [00:15:00] it was sort sort of like the, you know, the throwaway subject.
+
+
+It was kind of like at the end of the, you know, machine learning class. Uh, and because like it wasn't very successful. [00:15:10] Um, you know, people didn't pay as much attention to it, but there was this big resurgence of deep learning 2015. So I had a lot of friends who were very into it, so I, I [00:15:20] got very into it with them and just kind of like self-taught a lot of deep learning topics and, and I thought that that was gonna be a very, very big deal.
+
+
+And [00:15:30] around that time, uh, I had a few other friends at Coinbase. Uh, and Coinbase was a very small company back then. It's like maybe 40, 50 people. And [00:15:40] one of my friends told me like, Hey, we're building a machine learning team, uh, and I need to introduce you to the, like, to the, to the guy who's hiring. Um, and I was like, [00:15:50] okay, this sounds very interesting.
+
+
+Like, I can go, like, do some deep learning, uh, and, and like, you know, in, in this new company and there's a lot of things, things I can learn there. So that, that's like kind of [00:16:00] what, what's really like, got my attention. Um, and yeah, I, I interviewed and I got the job and you know, we start the job and I'm like [00:16:10] ready to do like deep learning and then I couldn't because like, turns out a lot of the problems Coinbase was trying to tackle, deep learning is not a great solution.
+
+
+So we used a lot [00:16:20] of like older traditional machine learning techniques to solve those problems. I think you, you just strictly, uh, you just mentioned [00:16:30] about the, but for editing purpose, I want to ask one. More. Yeah, one more time. So as Coinbase is first machine learning hire and engineering major being the [00:16:40] machine learning infrastructure platform, so Sure.
+
+
+What were your main responsibility and what was the biggest about scaling a I C's campaign? How [00:16:50] environment like curriculum? Yes. So, um, when I first came to Coinbase, like they had, they were using a few systems. Uh, they [00:17:00] were using like an external vendor and they had some in-house build model, uh, to, to prevent fraud, which was like a very big, big problem for Coinbase.
+
+
+And the, the biggest [00:17:10] challenge was like scaling this infrastructure and being able to try different models very fast because like the. The fraud problem is that, you know, [00:17:20] fraudsters learn very quickly like what, what the system is. And so they, they basically like try to break it. So you have to have up to date models that are always like, [00:17:30] finding new signals and trying to stop the fraud problem.
+
+
+So my task was basically like building, I joined as an engineer, so my task was to build the system [00:17:40] such that we can like, swap out models and test multiple models and then, you know, basically like automate this whole system and, and that, that was my, uh, or [00:17:50] like my initial task. And, um, yeah, I mean at that time Coinbase was like, you know, again, like I think around a hundred people and like the revenue was, [00:18:00] you know, at, at a certain amount.
+
+
+It, it was growing very fast and fraud was a very, very big problem. Like the, the, the environment was like, like [00:18:10] extremely risky because you can just like. Put a debit card in, you know, buy some Bitcoin and like send it off the platform. So it's, it's like super, it's this very big [00:18:20] attack vector. Um, so in order to solve that, you had to like, make systems work amazingly well, and you also don't wanna, like, hurt the good, uh, [00:18:30] good customers.
+
+
+Uh, you know, you also don't want to hurt the good customers by blocking them. So you have to like, make sure the model works really, really [00:18:40] well, because it can also like, stop your growth, right? So back in those days, like machine learning problems, like this was one big, big thing that [00:18:50] people did with machine learning.
+
+
+You know, another big thing was like recommendation systems, et cetera, but like, uh, the scale of uh, machine learning systems was like, [00:19:00] was, was around this, you know, like you would basically have these kinds of recommendation systems, fraud systems, and that was like the widest, you know, deployed machine learning systems back in [00:19:10] those days.
+
+
+Then moving, moving from a big company like, like Oracle to a fast face-to-face [00:19:20] startups. What was the biggest shift for you and Yeah, uh, what did, what, what did you have to run quickly and what pushed you outside your comfort zone? [00:19:30] Right. Yeah. I mean, it was a massive change. I think, like, it just like opened my eyes.
+
+
+I think about like technology, about the, the, the, the different [00:19:40] kinds of technology that like startups were using. You know, I was kind of behind on that and I didn't realize like. Oh, you could just use anything like to get the job done. So it's like a very different [00:19:50] mindset versus like, you know, you're doing releases, uh, you know, that, you know, you have to have like these scheduled releases that are scheduled to happen every three months, you know, [00:20:00] so everything had to be very organized with Coinbase.
+
+
+You could actually, like, use different tooling, use different, different techniques and like different, different, uh, [00:20:10] technologies just to get the job done. So that was like very freeing. Um, another thing is, of course, like the scope, right? Like you, you know, you're, you know, tens [00:20:20] of thousands people versus like a hundred people.
+
+
+So, so you actually had to deal with a lot of things. You didn't have as much kind of a support system, uh, to, to, you know, [00:20:30] solve problems. So that was also like a very nice, uh, thing, you know, for, for, for, for my experience. Then I'd love [00:20:40] to ask being more about your experience at Coinbase. Mm. At Coinbase, you identify weak signal, like on user screen resolution shared by [00:20:50] a fuel account uncovering last last of fraud rings.
+
+
+Mm-hmm. So, operating infrastructure for over 1 million barrel personnel. [00:21:00] What unusual screen, uh, revolution type signal do you see today? Mm-hmm. Yeah, I mean at Coinbase, like the, the way we [00:21:10] built the systems were like, we were trying to get as much data as possible to the model and then let the model figure out like, what are the things that, that really matter, right?
+
+
+Like, [00:21:20] what are the signals that were, that would be picked up that are actually leading to fraud? So, yeah. One of the weird things that happened there was, uh, was yeah, like [00:21:30] the model somehow learned that like screen resolutions were a big signal and, and they were off by like one pixel. And that's due to apparently like some kind of [00:21:40] virtualization or like.
+
+
+Uh, some, some like remote screens. So that was something that the model picked up on. Um, I think the, the current paradigm, [00:21:50] like is, is very different. Uh, I think, I think, you know, the, the domain we are in right now is, is so much less about, um, so much less about [00:22:00] like, finding, uh, you know, needle in a haystack.
+
+
+It's so much more about getting the model to actually create some, um, you know, some novel things. So that's, [00:22:10] that's one, one thing that's like completely changed in the industry that like we realize that like these models can actually generate things, uh, which is pretty, pretty unique and like a [00:22:20] new capability understand good between, between 2016 and 2020.
+
+
+So the critical and AI [00:22:30] market expanded. So how did the competitive landscape and demand during the, during the time influence your. Decision to focus our on [00:22:40] generative media infrastructure at far ai. Um, yeah. So during, during this time, I mean, crypto was definitely like growing very, very [00:22:50] fast. Uh, so the, the infrastructure needs that we had to scale, our machine learning systems was also growing and it was becoming more and more complex.
+
+
+So [00:23:00] like instead of, you know, tens of millions of users, we were now going at hundreds, millions of users. So you had a lot of scaling challenges, and that was, that was one of the key things [00:23:10] that, that, that I picked up on, that like, you know, these systems to, to be, to, to run them at scale, you really need to have like, uh, you know, good [00:23:20] tooling and, and reliable infrastructure.
+
+
+And that, that was one of the, and, and it was really missing from the, from the market. So that was one of the like first insights I [00:23:30] had, like leading up into like, starting fall. Thank you. Then, uh. I think during, [00:23:40] during, during your time at Coinbase, Coinbase went through a lot of growth while you were there, so I imagine you looked very different by the time you left [00:23:50] them when you first joined.
+
+
+So mm-hmm. How much did the company grow during your growth, during your time, and what was the most meaningful lesson you learned from that journey? [00:24:00] Yeah, so the company grew a lot. I think like the revenue was in the tens of millions, hundreds of millions. And by the time I left in, you know, four [00:24:10] years later, the revenue was, uh, I think they had crossed couple billion.
+
+
+So it, it saw tremendous growth and, um, you know, team [00:24:20] wise, like I joined when the company was around a hundred people. When I left, it was like 4,000 people. So it, it has 40 x obviously, like, [00:24:30] uh, you know, the, the, the core team played a huge role in actually like helping with this growth. Right. Obviously, like.
+
+
+From building, building the systems, making sure they're [00:24:40] reliable and, and, and they're scaling, but also like hiring the new talent, you know, like, because you also have to, within this short amount of timeframe, you have to [00:24:50] make sure, you know, you're preserved the culture. Uh, and so you have to also like hire, um, a lot of great people.
+
+
+I remember weeks where I had, you know, [00:25:00] like, I think 15, 20 interviews because it was just, just so important to, to kind of grow the team. Then, [00:25:10] then what heard or lessons from your experience at Big tech company, like local and Coinbase, did you, did you have to dis discard or, or just when launching [00:25:20] Far AI as a link startup?
+
+
+Um, yeah, I think, I think like when I first started fall, like the focus was [00:25:30] very much tied to, um. My experience at Coinbase, it was basically like trying to solve some of the problems we saw at Coinbase. And [00:25:40] like, you know, few months in, almost a year in, we, we actually talked to a lot of people like that are in similar, you know, like similar company stages, [00:25:50] like, you know, FinTech companies, Robinhood, uh, we talked to like Square.
+
+
+We talked to like some other companies like Airbnb, Dropbox, like all the, all the big tech [00:26:00] companies. And they all had this problem. Uh, and, and it was, they were doing a lot to solve, you know, these scalability problems. Um, but [00:26:10] ultimately, like, you know. I realized like there's actually a bigger opportunity because like during this whole journey, like a lot has changed in the, in the [00:26:20] machine learning AI space and, you know, it's almost like a, you know, very big turning point.
+
+
+I think every, everyone talks about how, you know, chat PT was a very big turning [00:26:30] point, and that was also for us as well. So that kind of changed everything. So I had to ultimately forget everything that I, that I like, you [00:26:40] know, knew about and then just like, really look at this like, brand new market at this point from, from scratch and, [00:26:50] and, uh, when reading the, reviewing the Coinbase and start, start far AI during the post ICO crypto winter.
+
+
+So [00:27:00] did people around you try to, uh, this way, this way? You, or what were your thought at the time? Um, sorry, I missed the, [00:27:10] this way. Mm-hmm. When reading the security of Coinbase in 2021 Sure. To start, to start by AI during [00:27:20] the post ICO crypto leader. Sure. Did people around around you try to dissuade you or Yeah.
+
+
+What were your thoughts at the time? Yeah. Um, [00:27:30] I think, I mean, ultimately like around that time, um, Coinbase was actually doing extremely well. Uh, so, you know, I left [00:27:40] beginning of 2021 and Co Coinbase was going through like, you know, very fast growth. Um, and also like they had just filed to go public, [00:27:50] so they were actually like doing extremely well.
+
+
+Uh, but I was, I was mainly excited about like, studying my own thing. I had actually talked to a lot of my founder friends, [00:28:00] uh, seeing their experience. So, uh, I had a lot of encouragement from, from friends to actually go and start my own. And [00:28:10] take us back to the moment you confounded par, par ai. Mm-hmm. So how did your, how did you first meet your co-founder and what inspired you?
+
+
+What inspired [00:28:20] you both to start the company together? Uh, yeah, so my co-founder and I have been long-term friends. Um, we, we've actually we're both [00:28:30] from Turkey, but we did not meet in Turkey. We actually met in San Francisco. Um, and we've known each other, I think 10 plus years at this point. And, um, [00:28:40] it was sort of one year into COVID lockdown.
+
+
+And, um, he had the great idea of like having a COVID bubble and [00:28:50] then, uh, spending some time in Palm Springs. So we actually like rented a Airbnb at Palm Springs and we were a group of like 10, 12 people. We moved down [00:29:00] there. So, um, at that time, you know, I had. Not much. I had, I hadn't spent much time talking to my co-founder about work.
+
+
+You know, it was [00:29:10] mostly like, we were just really close friends, but during, during Palm Springs, we actually spent a lot of time just like talking about technical topics. He would tell me about Amazon, [00:29:20] I would tell him about like, the challenges at Coinbase, and, and we just developed like a very good understanding of our, like, you know, how we think about work, how we think about business.
+
+
+Uh, [00:29:30] and, and that was like a very bonding moment and, and we thought that we would be really good partners in, in building something. Okay. Dan, I [00:29:40] know you touched on this earlier, but I'd love to revisit it to better understand your early basis of others. So in 2021, so diffusion model for [00:29:50] image and audio for explosively.
+
+
+So, but infrastructure issue, like slow inference and GPU cost words are so, mm-hmm. Yeah. [00:30:00] What specific problem were you addressing and what did you start during the ai ai boom and hardware? Yeah, so, uh, [00:30:10] yeah, it was, it was a pretty crazy time, I think, you know, um, the, the GPU, like af right after chat p came out, uh, I think a lot of people [00:30:20] were trying to experiment with things, um, and there was a massive GPU crunch and, um, you know, we were, we were trying to get our hands on [00:30:30] anything, anything we can find, and it, it was pretty much impossible.
+
+
+Uh, like we were working with a cloud vendor at the time and like, uh, our, our limit was [00:30:40] actually like eight GPUs max. That was like, how, you know, how short, how short the supply was. And, you know, initially a lot of the focus [00:30:50] we had was actually taking these models and, and optimizing them, uh, because they were extremely slow, like we were.
+
+
+We were just fascinated by how slow, how [00:31:00] slow they were. Like how, you know, image generation, like, uh, you know, you, you were, we were using stable diffusion 1.5 and it took like close to 20 seconds [00:31:10] to like generate one image. And, you know, we thought that was unacceptable and, you know, it was initially like a very technical curiosity, like, how can we actually make this thing run faster?[00:31:20] 
+
+
+So we took the model, like we profiled it, we found some shortcuts and tricks to optimize it. And, and we built like the, uh, inference engine at the time. Like that [00:31:30] was just very good at running stable division one five really, really fast. Hmm. Tim, I'm curious about that. In 2021, [00:31:40] evidence were getting all the attention while image and video was, uh, step what size com [00:31:50] convinced you to get your company on generic and video instead of chasing the LRM cord rush.
+
+
+Right. So, so yeah, I mean, language models at [00:32:00] the time was like all the hype, but we saw like that there was also this like niche group of people that was also very excited about, uh, [00:32:10] image models in particular. So we started running image, image workloads, and we saw tremendous growth in the companies that are working with [00:32:20] us, and that, that felt, that, that made us really excited about the space.
+
+
+And we also sat down and thought like, okay, like where could this be going? Right? Like, I [00:32:30] think at the time, even at, even, even even 2, 2, 2 and a half years ago, people saw LLMs and, and Chacha pt and, and they sort of like drew [00:32:40] out, like, where could this technology go? And, you know, they immediately said, okay, you know, we're going to a GI, you know, this is like the next stage, stage in humanity.
+
+
+So [00:32:50] there is this very big. You know, very like, crazy optimism about language models. But we saw that, like, we felt similarly about image models. We [00:33:00] thought, like, we thought like, okay, where could this go? Like this is, this is also gonna lead us into some, some insane point where like, you know, all the content be gen, be, be, consume, [00:33:10] is actually gonna be driven by ai.
+
+
+And like, you know, everyone can use this technology to like generate whatever they want, you know, um, and, and consume that content. And you [00:33:20] can have personalized content and you can have really amazing, you know, movies and games and, and music. So we felt the same excitement about the image models [00:33:30] and, you know, when, when they were just this niche technology, we just, we just thought like, hey, we should just really focus here because it has a lot of [00:33:40] potential.
+
+
+Then I know the prior AI initial idea was to use sub to GPU comparing to long AI model. Models [00:33:50] faster. And so yes. What was the initial response from all the users? Users or developers? Yeah, so we basically took the optimized [00:34:00] model that we had and we just like talked about it. We just, we just, uh, you know, demonstrated it.
+
+
+We, and then people picked up on it and we were in, you know, we [00:34:10] were listed in benchmarks as like the fastest model provider. So like that's, that was kind of like what we were known for initially is, is the speed at, at how [00:34:20] fast we can run these models. And there was a time I think like, uh, where, where we put out a demo where like it was so fast we could [00:34:30] actually do, like, transform like an image in real time.
+
+
+And that was, that was kind of like a big moment for us where like everyone just learned about the company and, and learned about the technology we [00:34:40] were building. Was there, was there a memorable lesson or experience from lending your first major customer or Yeah. Anything that really stood out [00:34:50] to you during that process?
+
+
+Right. So we, we had started, um, you know, hosting Stable Diffusion one five. We had a few customers. [00:35:00] We had then, um, started hosting Stable Diffusion xl, SD xl, and that, that also like started growing the market. And leading up in the summer of [00:35:10] 2023, there was actually a moment where like the open source image ecosystem kind of slowed down.
+
+
+Uh, there were some, um, you know, questions [00:35:20] around. Where the future of these open source models are gonna, are gonna go. Um, and that, that was that time, you know, people were expecting like, stable with [00:35:30] Fusion three release, and, and it came out and it was kind of disappointing so people didn't really like it, so there was a bit of a slowdown.
+
+
+Um, but then, um, we, we [00:35:40] continued growing, uh, slowly, but it wasn't until the Flux Model, which is the original creators of stable diffusion when they dropped the model. Um, [00:35:50] we had, uh, we, we, we had knowledge of like this model coming and we had already been working with, with, with those folks, like from before in our [00:36:00] previous experiments.
+
+
+And so we actually were their launch partner where, you know, when they first announced the Flux model. We were the first platform, uh, to, to take the model [00:36:10] and optimize it, and make it run really, really fast. And that was like a very big moment for, for us. And you know, we, in just in that month, we saw like a [00:36:20] Forex growth.
+
+
+Uh, so that, that kind of kicked us into like this, this hyper growth mode. And, and the whole space, I think kind of followed with, with different models, different image [00:36:30] models and, and video models. And from then on, you know, and this is only a year ago, um, maybe a little bit longer than a year ago, is, is basically when, when, when this really [00:36:40] started, uh, booming and is there, uh, is there a biggest challenge in convincing all the partners or clients like, [00:36:50] or Canva?
+
+
+Mm-hmm. And how did you persuade them? Right. So, um, from the start, like what we thought was like. [00:37:00] Yes, this is a niche, niche place. There is a lot of people who are very enthusiastic about this, these models. Um, but we thought that as the [00:37:10] models get better, you know, there's gonna be more capabilities and the quality is gonna increase and the resolutions are gonna increase and the controllability is gonna increase.
+
+
+[00:37:20] And, and so what we thought was actually as these models get better and better, we're gonna have huge adoption from, you know, household names, right? Like, like, you [00:37:30] know, we're gonna get adoption from movies, we're gonna get adoption from like, you know, people who create ads and music. So that was kind of the directional bet that we made.
+
+
+And, you [00:37:40] know, pretty soon after, I think within the last year we've seen like very big companies that, that we all know, like actually exploring this technology and [00:37:50] actually putting things in production. Okay. I, I want to ask more detail about the, your Holy story, but into, in 2021. Uh, how [00:38:00] did the market and investor, uh, perceive AI infrastructure startups and and how did you mitigate that environment when everyone was motor centric?[00:38:10] 
+
+
+Yeah, so I think it's, is it 2021 or 2022? 2 21, okay. The questions are all 2021, but they should be 2022. I agree. Right. Okay. Okay. [00:38:20] So yeah. Yeah, I think the dates are wrong. Yeah. Yeah. Okay. Okay, cool. So 2022. Um, so, so yeah, I mean, back in [00:38:30] 2022, I think there were a lot of themes. Um, I mean, in general, I think, you know, starting with 2022, starting with the post chat g PT [00:38:40] era, I think investors just like, it was brand new to everybody.
+
+
+Like it was such a new environment that like nobody knew where, [00:38:50] where things are going. Right. And like investors try to, you know. Try to predict like where things are going. And also like, I think, you know, the 10 year, [00:39:00] 20 year time before that, there's been like really good patterns, right? And, and, and everyone tried to use these patterns to figure out like, okay, where things are going.[00:39:10] 
+
+
+But then soon realize like those patterns may not hold. So because we're dealing with something so brand new, um, you know, the [00:39:20] narrative would change all the time. So like, you know, initially people were very excited about like, people building models and, and research labs. And then, um, you [00:39:30] know, they thought, well, like, you know, we're gonna have so many models.
+
+
+And then they realize, you know, you go like just a few months later they realize that and, and they say, okay, [00:39:40] well no, that's a very bad idea. Turns out like you need a lot more capital than like we initially thought, you know, and then like they move to application, uh, stack. And so, you [00:39:50] know, it was just a time where.
+
+
+It was just a lot of unknowns and people tried to make the best bets that they can, but, you know, in, in hindsight, you know, [00:40:00] the, the space was moving so fast, there was no way that anybody could know. And so, so, you know, I, it's still developing, right? Like it's still, we're still in it [00:40:10] and it's just gonna take a lot of time to really understand like where the, you know, where the big opportunities are.
+
+
+Okay. Dan, I'd love to hear more about what [00:40:20] the scaling process was like for you and as far as far AI go from small team to handling billion of. [00:40:30] Daily. So what were the biggest obstacle at the one to 10 and hundred client stage, and how did you overcome that? Right. Um, [00:40:40] yes. So scaling the company has been, uh, one of the like, most exciting things, uh, about, about this job, to be honest.
+
+
+Um, you know, we, we were like [00:40:50] very small team, like six people for the first, you know, two years almost. And, you know, I think, I think small teams is, is very [00:41:00] important when, you know, before PMF, essentially before product market fit, you actually do wanna have like the smallest team that you can, right? And, and, and [00:41:10] experiment and like, have a small group making decisions and move really, really fast.
+
+
+And once we started scaling, uh, our customers and our traffic, we [00:41:20] started hitting different, uh, you know, different. Challenges, right? And, and the first challenges we hit were like, technical challenges, right? Like, how do we, um, you know, [00:41:30] how do we scale the traffic from, you know, X to 10 X, right? Uh, and, and those, those types of things, you know, you just have to spend a lot of time and like put a lot of [00:41:40] work in to, to get to a level where, you know, your system's stable.
+
+
+It's scaling and, and this is brand new infrastructure, right? Like we're talking about, you know, distributed [00:41:50] GPU clusters across the world. You know, like there wasn't like a big deployment, uh, of GPUs in like inference setting before, like this [00:42:00] is like a new, new challenge. So, so a lot of learnings there.
+
+
+And then. You know, once we like scaled like the engineer, like our, our quality [00:42:10] of, of product, we then, you know, started hiring more. Right? And, and going from, you know, 10 people to, to even, we are, we're 40 people right [00:42:20] now. That, that's a big challenge. Like the, the speed at which you can hire is, is pretty difficult and like finding the the right talent is pretty difficult.
+
+
+So, so there's, [00:42:30] there's a lot of challenges there. But another thing is that from pretty early on days, we actually thought that like, uh, the, the business, the business [00:42:40] side is very, very important. You know, like this, this field, this niche field, you know, we, we, we need to make sure this can grow into something like enterprises can use.[00:42:50] 
+
+
+And, and so we actually invested pretty early in a, in a go to market team, you know, hired, hired. Folks on the, on the sales team. And, and that's been working very [00:43:00] effectively. I think a lot of times, like technical founders really like don't see the value of, you know, having, having like a go to market team.
+
+
+And that was something like [00:43:10] we had to just like really learn and understand and, and we, we were, you know, we thought that, um, you know, if people are saying this is a good idea, you [00:43:20] know, there may be some truth to that. And so like we, we explored it and we, we figured it out that like having a enterprise sales team was, is very, very effective way to actually scale the business.
+
+
+So we [00:43:30] invested a lot there as well. Hmm. I love to hear about your approach hiring, so Yeah. In today's competitive talent [00:43:40] market. So what do you find most challenging when it comes to bring in the right people? Right. So, um, I mean hiring is, is one of the [00:43:50] hardest things right now, I think for, for startups, right?
+
+
+Because you're, you're, you're probably hearing like all the news around, you know, meta's a hundred million offer, right? Like, that's, that's kind of what [00:44:00] you're up against. Um, whether it's true or not. Like that's, that's, that's the kind of environment you're in. And like, you know, a lot of the, uh, great talent [00:44:10] is, is, you know, lured by, by, uh, you know, the, the frontier labs.
+
+
+So, um, that, that's who we're up against. But that's, that's a great, you know, those are great [00:44:20] companies to be up against. I think, you know, uh, we could be up against not so great companies, so that, that's really our competition and. You know, I think it's a matter of [00:44:30] obviously, like the people need to be great.
+
+
+Uh, they have to be excellent at what they're doing, um, but also like they have to be excited about this space, right? And, and [00:44:40] that's, that's like who we kind of gravitate towards, right? Because we believe that like, if you're excited about, you know, this space, generative media, this creative AI [00:44:50] space, you know, you're gonna just have a great time here.
+
+
+And we don't really see any other companies out there that are as focused as us in this space. So we're able to [00:45:00] like, carve out a really interesting set of talent that is just like very driven by, by this, this technology and where, where this is going. And that's, that's how we're able [00:45:10] to hire then on what you just say.
+
+
+So do you have any advice for early stage founders trying to hire strong talent? [00:45:20] Um, yeah, I mean, I think, I think this like, alignment with the company's mission is very important. This is something people talk about. This is another thing, like [00:45:30] I really learned from Coinbase. Like Coinbase early days, like everyone was a crypto head.
+
+
+Like you would not find anybody that is not, you [00:45:40] know, just insanely excited about crypto. That, and, and that created the foundation for the company that, that is just so, you know, it's just so [00:45:50] specific. And so, like, you know, just by default people are just excited about what they're working on. So I think like, hiring this way is the best way.
+
+
+So, like, you know, your [00:46:00] company should stand for something that, you know, some, some big, uh, big ambitious goal. And if you can hire the people that are really, really excited about this mission [00:46:10] and really aligned you, you're gonna have much easier time, uh, hiring people. Thank you. Hmm. And return to the prior ai, uh, [00:46:20] the, the, the, the technical stories.
+
+
+The what? Different, what, what's, what's the different Prior AI was from other AI platform cloud, GPU, [00:46:30] or mobile hosting competitors. So particularly in the generative video era post 2025. Right. So what fall [00:46:40] is like synonymous with is speed and we're, we're fast at everything we do. So this, this kind of goes through, like across the board for everything we do.
+
+
+So like, fall [00:46:50] is different because we, we are the first people to put models out there. So, you know, when, when there's a new model that can, um, [00:47:00] when, when there's a new model, uh, we are the first ones to publish it, right? And, and this is something our, our users love, uh, because they wanna be in the know they wanna like.[00:47:10] 
+
+
+Get their hands on the, the, the next like, you know, best model. And, and the space is moving so fast, we have to be very, very good at it. We have to be like, very ahead of [00:47:20] getting these models in front of people, making it easy to, uh, use. So that, that's one thing that we're very good at. And other thing is, you know, it, it also has to do with speed.
+
+
+These [00:47:30] models need to run fast. So we spent a lot of time, um, after, after we put them out. We spend a lot of time optimizing these models. And, you know, there is a, there's two [00:47:40] components to that. One is like, models need to be fast because when they're fast, you have a more, uh, you know, you have a better product experience, right?
+
+
+Like [00:47:50] no one wants to like. Sit and wait around five minutes for a video to generate, you know, you, you want it in the future, you know, this is gonna be, you know, seconds. It's gonna be real time. [00:48:00] And, and we're, we're preparing ourselves from infrastructure standpoint for that future. Um, and then the, the other component is the, is the [00:48:10] cost component.
+
+
+So like, when you can run models fast, that means most of the time, that means like you're actually running them more efficiently. So then you can, we can pass [00:48:20] these savings to our users so they can actually, you know, use these models for, for cheaper ultimately. Right? Like right now the cost of, you know, creating a video five second [00:48:30] video goes anywhere from like 15 cents all the way to like $5.
+
+
+So it's like a, it is pretty expensive and it's a wide range of, um, options of [00:48:40] course for, for users. But, you know, across time we, we think these, these. You know, the costs are gonna be much better because the, the infrastructure's gonna [00:48:50] get better. So, so these are the, these are the two things that, that we focus on that is like very different, uh, than, than any other competitor out there.[00:49:00] 
+
+
+And what recent picture are you particularly proud of? Um, I really like our workflows [00:49:10] feature. Uh, it's, it's a way to basically take multiple models and you can use them in a workflow. And in, in, in many cases what we're [00:49:20] seeing is that, you know, because like. There's so many models that are very good at different things.
+
+
+People can actually, like, use these models to create [00:49:30] workflows and build, build the thing that they're ultimately trying to build. You know, you can use one model that is very good at, um, editing, right? So you can first like, [00:49:40] create, you know, 10 different variations of an image and then make some small edits.
+
+
+And then you can then take those models, uh, take those images and then turn them into video. And, [00:49:50] and you can have multiple variations of these videos and, and select the ones that you best fit. And then you can take the video and put a background music or, or, or sound effects or [00:50:00] speech on top. So what we, what we see is people are building these, these massive workflows that's very unique to them to, to create the types of, uh, outputs that they, that [00:50:10] they, that they want to create and lot.
+
+
+I'm curious what coming project or viral demo [00:50:20] accelerate part AI scores more and what did you, what did you run from, uh, what did you run from those moments? Um, yeah, so like [00:50:30] we, we actually get, we actually get a lot of our virality from the demos that we put out. We are a, we are a company where like a lot of the work we do, [00:50:40] we just love to share it publicly.
+
+
+And so there's been many big moments where we shared like the real time, uh, you know, the real time like image transformation demo. [00:50:50] Um, and then, um. You know, we, we, we, we put out like a real time drawing demo and these were extremely popular. Most recently. Uh, [00:51:00] we built a infinite canvas, uh, where you can like, take images and then like animate them and, and we actually made this into a community effort.
+
+
+Uh, [00:51:10] that, that is very, very powerful because now people are just taking this like open source project and then adding like their, their futures features on top of it. And it's, it's, it's really a good way to [00:51:20] like, get the company's name out there, but also have people contribute and, and build something really, really awesome.
+
+
+[00:51:30] I want to ask your new funding round, so on the new funding round and thank you. Could you share more about what you decide to rate in general funding now and [00:51:40] how, how this fresh capital will accelerate part AI's next stage of, for. Right. So the way our growth has been, it's been in like [00:51:50] these very big jumps and it's, it's kind of a reflection of how the space is moving.
+
+
+The space is moving so fast that, you know, we're having these very big [00:52:00] leaps in technology and we, we raise this funding to make sure, you know, when this happens. We we're very prepared, you know, we're prepared to scale and, and, and our [00:52:10] scale is already like, growing. You know, we have to add like, so much to our GPU fleet.
+
+
+We have to like, grow our team and with like these new models coming, [00:52:20] you know, basically we just have to make sure, you know, uh, as the space is scaling, as the models are getting better, we need to make sure our team is growing our, our [00:52:30] infrastructure is growing. And that's, that's all very like capital intensive.
+
+
+Do you want to talk about the last round? Like we mention we raised a hundred twenty five one point. [00:52:40] Yeah. Yeah. So, um. So I guess like this is gonna be after that. So I will just say that's that's what we did. [00:52:50] So, um, yeah, so, so it is, it is, it is very capital intensive to make sure that we can, we can grow this, uh, this team, but also like grow our [00:53:00] infrastructure to support all this, uh, all this insane, uh, adoption that's happening in the space.
+
+
+So we just raised, uh, our series C round, um, [00:53:10] 125 million, uh, which values us at a 1.5 billion valuation. Thank you. Then I want to ask more details about what key era we [00:53:20] are far AI prior prioritize with the new investment. So such as product innovation, deliver expansion, or talent acquisition. Yes. So are there specific [00:53:30] new opportunity your excited.
+
+
+Excited to person, right? So we believe the generative media space is massive. Like so far what we've been very good at [00:53:40] is, is APIs. That's what people know us for. But what drives these APIs is our infrastructure. So we have this amazing infrastructure and an inference engine that we wanna make available [00:53:50] for many companies that are building these models.
+
+
+So in fact, like we've already been working with a few companies and we take these pro their proprietary models, models and [00:54:00] deploy them in our infrastructure, and we make them, we accelerate them with our inference engine. So this is something we wanna like open up to, to let a lot more [00:54:10] companies access.
+
+
+So this is one of the key initiatives and, and we think this is very critical for this space to, to, to, to grow. Um, and the other initiative that we have is [00:54:20] actually on the enterprise front. We're seeing huge adoption from like household brands that are. That are trying to like, um, basically adapt their, their whole [00:54:30] creative workflows to, to use more ai, right?
+
+
+So that they can produce more content, more relevant, like better content, higher quality, more relevant, uh, to, to [00:54:40] their customers. So in order to do that, we need to basically build more product. We need to also build, build a very strong, uh, go-to market team. Um, that, so [00:54:50] that we can go like educate these enterprises and make sure they, they have great solutions for the, for the problems that they have.
+
+
+Then what does this last [00:55:00] funding round signal about investor confidence in the future of AI infrastructure and general media? And were there a particular particular point or [00:55:10] metrics that investor formed most compiling this time around? Right. So, uh, a lot of our investors are just really excited about this space, [00:55:20] right?
+
+
+And like that, that was one of our main criteria, right? Like, because we're doing this very unique thing, generative media, like we have to make sure, you know, our investors are [00:55:30] also believing in the future of this technology. So all of our, all of our investors are big believers in this tech, and they believe in, in us to, to make sure, you know, [00:55:40] we can deliver the infrastructure to, to get us to this, to this fu future.
+
+
+So I think that's kind of the common thread and most, even most recent round, you [00:55:50] know, our, our new investors, where were the most excited about the, the speed at which this space is growing. You know, it's, it's not a matter of like, how big [00:56:00] is can this get, because we can never know. So it, but it is the pace at which this space is growing.
+
+
+That was like the, the key thing that they were, they were looking at. Thank you. [00:56:10] Hmm. I, I am Then when, when you, when you were building Par Par, so what was the moment [00:56:20] you most seriously Christian? Is this, is this really the light path or, yeah. Mm-hmm. Was it during the holistic user circuit or [00:56:30] to then how did you overcome these crisis?
+
+
+Um, yeah, I think initially, um, [00:56:40] I think, I think initially, like when we, when we first started, um, I didn't necessarily understand like what it feels to have [00:56:50] product market fit. Right? And I think this is, this is, it's, it's kind of like a, a ill-defined concept, right? Like, people talk about it a lot, like investors talk about it.
+
+
+[00:57:00] Startup founders talk about it. It's not very, it's not very well defined. And, and, you know, uh, but, but one way to really identify it is, is how [00:57:10] much. Like how, how much demand you have basically for, for your product and like how fast it's growing. That's, that's basically like the key thing. [00:57:20] Um, so initially we did, we did, we did some projects.
+
+
+We, we made some open source, like we built an open source, uh, uh, product that had [00:57:30] decent traction. But, you know, it was nothing like what we had with, with the, the generative media, um, you know, APIs that, that we had. And so in [00:57:40] comparison you can kind of see like, um, how, how fast, how much faster you're growing, how much more demand there is.
+
+
+And that's a very good kind of, um, [00:57:50] that's a very good, uh, understanding way to, way to judge like, okay, you know, this is the right thing, right thing to do. So I think, you know. [00:58:00] In the last year, we've seen tremendous growth and like we believe there is product market fit for, for the thing that we're doing.
+
+
+But, you know, future, like we don't know what the future looks [00:58:10] like, right? Like we believe that we can easily, you know, three, four XR revenue in the next like year and a half to two. But, you know, we need to make sure that we are getting the [00:58:20] demand. We are, we are seeing the growth and, and making sure like we're listening to the, to the customers and, and making sure following where the market is going.
+
+
+And that is, that is extremely [00:58:30] important because as a startup, that's, that's what you need to do. You need to make sure, you know, you have, you're building something that, that people really [00:58:40] want. You know, you see a lot of demand, but also you're seeing a lot of growth. And that's, that's, you know, that's something we need to basically make sure that is, that is always there.[00:58:50] 
+
+
+And I think every state or bringing a company come with its own set of challenges. So, uh, when. When got tough, how did you stay [00:59:00] motivated and have your team stay focused as well? Um, yeah, I think, I think like to stay motivated is, [00:59:10] is, um, so I think, I think the way we stay mo stay motivated in, in difficult times is we just relied on each other.
+
+
+I [00:59:20] think like, you know, the, the small core team that we had, um, it was a, a small group of people that really trusted each other and trusted that, you [00:59:30] know, we will, we will find the, the, the right thing to build, right, eventually. And, and I think that is extremely important and, and you need to have. A very [00:59:40] good balance between people, right?
+
+
+You need to make sure, like, you know, if if someone's feeling down, the others can bring them back up. So, you know, ultimately you just want this company [00:59:50] to work out and you, you wanna be very successful. So you need to have really good teammates to, to, to make sure that this is actually happening. So, you know, you have to basically like support [01:00:00] each other, uh, mentally, you know, to, to, to go through this, right?
+
+
+Like, this is a very difficult thing to build. Um, you know, startups are very difficult, difficult to [01:00:10] build. So it is, it is this kind of support system that you need to have that, you know, people believe in each other and people believe that, you know, people believe that [01:00:20] we will go together and build, build something really great.
+
+
+So I think, I think that's the key thing that we have in the team. I, I think we had that when we were five, six people. We now have it [01:00:30] and we're 40 people. We still have it. So I think, I think that's the most important thing. I'm curious, a lot of founders. We've spoken to say [01:00:40] that order and surviving the customer, so Yeah.
+
+
+And that always Case Bond should spend over har harp their time talking [01:00:50] to them. So, and I, I'm curious, do you agree and, and what have you learned about how to have the right kind of conversation with [01:01:00] customers? Right. Um, yeah, absolutely. I think, I think that's one of the like startup wisdoms that are, that is like very correct.
+
+
+Um, you know, not all [01:01:10] startup wisdom is correct, but, but talk to your customers is a very big, big one that I, I truly believe in. So we've done a lot of that. We still do it a lot. Like I have a [01:01:20] personal relationship with every single customer we have. Um, and you know, I think, I think it is important though.
+
+
+That once you actually get to a level where [01:01:30] you are, you know, you know the product is working, you know the reasons why they choose you over others, you have a really good relationship with them. It is important to make sure, like you can scale [01:01:40] yourself right and try not to do everything yourself. And this is like extremely important.
+
+
+You have to be able to delegate, you have to have a, you know, because you, you're trying to [01:01:50] turn this thing into a big machine, right? That can operate without, without you, right? So, um, so what, what I've done is like, you know, after [01:02:00] we got, we got to a place where I'm comfortable, you know, I'm still very involved, but then like, there's many other amazing people on the team that are also involved, right?
+
+
+And they can, they can go [01:02:10] like, follow the same principles and, and scale this, right? Because, you know, right now we're at like a hundred plus enterprise contracts, you know, in two years we're gonna be a thousand. [01:02:20] So, you know, the, the, the whole team needs to be able to support that. And that's, that's like extremely critical.
+
+
+Thank you, Ben. [01:02:30] Yeah. A lot of founders say, uh, you should, or you start a company if it, uh, if it's a problem you can see [01:02:40] yourself working on or tenure. Yeah. So, but honestly, that kind of advice can be overwhelming. So yeah. It's hard to know what 10 years really looks like. Yeah, [01:02:50] I think so. Yeah. When, when you were first starting out, so did you, did you have that kind of mindset and where you're thinking, I'm ready to commit the next tenure to Yeah.
+
+
+[01:03:00] Um, yeah. It's, it's definitely like a big commitment, you know, 10 years, sometimes more, sometimes like multiple decades, you know, to commit your life into something. [01:03:10] Um, when, when I first started, I always wanted to make sure, like, you know, whatever I end up working on, because you know, when you first start.
+
+
+[01:03:20] It's not, it changes, you know, and it changes a lot. And you have to, you have to let that happen. Um, and, you know, but one of my criteria was that like, I [01:03:30] had to love, I had to love it. You know, that was like super important to me. And you know, I thought that like, um, I thought that like in, in this like [01:03:40] creative space, um, like the intersection of creativity and ai, I mean, there's.
+
+
+Like unlimited fun there, at least for me. [01:03:50] Um, and, and so, you know, I wake up every day. I'm very excited about like, the next models that I released, what this tech, where this technology is going. Like, what amazing things are people building. [01:04:00] Uh, it, it is, it is literally like the most fun thing I could be, I could be doing.
+
+
+So like, if I wasn't doing this, I would probably go play with these models myself. So like, [01:04:10] you know, in a way the, the nature of the work is just so important, you know, because you have to sit there, you know, 10 years or more to, to kind of tackle [01:04:20] it. So for me it's, it's amazing because I just love, I just love the space.
+
+
+I, I love this technology and, and that's the thing that's like that, that, you know, gives [01:04:30] me a lot of drive and these, uh, but things, but I think things are changing so quickly these days. So, and [01:04:40] with new model and shift happening all the time, so. How do you, do you ever feel like it's hard to keep up and how do you personally stay open and adapt to [01:04:50] those rapid chains?
+
+
+Right. So, um, yes, space is moving really fast and I think that it is so important to be, [01:05:00] be up to date like this is, this is most of the job because, because this is what the space is, this is what the market is, it's just changing literally every day. So I [01:05:10] think, you know, this goes back to my previous point.
+
+
+You have to surround yourself. You have to have the team to be extremely excited about this because, you know, we don't want anything [01:05:20] slipping through. We don't want any of these great models to go without us, you know, adding, adding them to our platform. So. Because we have people who are so passionate [01:05:30] about the space, it will never happen.
+
+
+You know, we have 40 people that love the space in the, in the company. So, you know, automatically we get that, we get that for [01:05:40] free, right? Because everyone's, everyone's just tracking the space. Everyone's on top of it and everyone's excited about it. Okay, then. [01:05:50]
+
+
+
+
+ Hmm. I'm curious then, uh, what was the biggest mistake you made at Par AI so far, such as product decision or [01:06:00] hiring, hiring, choice, et cetera, and, and what lesson did you run from?
+
+
+Yeah, I think the biggest mistake we did is we didn't, you know, we were playing [01:06:10] with these generative media models back in like November, uh, 2022. Uh, we didn't launch the product until like May, [01:06:20] June, 2023. So because we weren't sure, like, okay, like we have this technology, uh, but like, you know, we were doing some other things, you know, focused on like, [01:06:30] you know, data pipelines and compute, and, and it wasn't really, it didn't feel right, you know, because we had already something that was working.
+
+
+You know, we were, you know, it was a [01:06:40] very, it was product that people really loved. So it was, it was kind of uncomfortable kind of taking the step. And, and I guess, you know, [01:06:50] we, what we could have done differently is do it sooner. You know, if you feel the, if you feel the excitement, if you feel the market pull, you, you just do it.
+
+
+You know? And I think, I think that was [01:07:00] one thing we could have done, uh, in retrospect, you know. But, but you know, now the, the, the truth is like, you know, where, where we are right [01:07:10] now is that like we've, we've actually, I think, um, accounted for that, you know, delay in, in the way that we, we executed and, and, and how big, how big we got and, and [01:07:20] how important we are for, for the ecosystem right now.
+
+
+And follow, following up the question, I'm curious as you, as you read the current, current team, so [01:07:30] yeah, what, what's the most important core value that defines FARs culture and way of working? Right. So our team is pretty, [01:07:40] pretty intense. Our, our team works very hard and, and just naturally very, very talented.
+
+
+And I think, you know, that's, that's the thing we look for. Like, we want, we want everyone to [01:07:50] be naturally talented and, and, and very excited about this space. Um, and, and I think that's, that's one of our key. Key [01:08:00] things that, that we look into when we're hiring. Um, I think our culture is, um, it's fairly, you know, very, extremely hardworking, um, [01:08:10] very high, high sense of accountability.
+
+
+And, and we also like really believe in the people we, we just, um, you know, trust them. [01:08:20] Uh, and you know, once, once we trust them and bring them in, we let them, we let them just do their thing, you know? 'cause they're, they're amazing people [01:08:30] and they have, they have so much to give to, to this company, to this world.
+
+
+And, and we just let them, we just, we just give them all the tools they need to be able to be successful. [01:08:40] I think trust, trust is, uh, such an important part of anything. So, yeah. Is, is, in your experience, what help create an [01:08:50] environment to where people can truly trust one others? Yeah. I think trust comes from transparency.
+
+
+Um, and you know, I think [01:09:00] that's, that's like something I try to make sure we have at the company. Um, there is basically, you know, if, [01:09:10] if, if there is something, uh, you know, yeah. So I, I think, I think it really has to do with transparency. You know, we try to keep a transparent [01:09:20] environment. We try to be as, as open with the company as possible in terms of like where the business is at, uh, what are the challenges, where are we like focusing next [01:09:30] on?
+
+
+And you know, we, we, you know, we, we just catch up. We, we catch up with, with one another, right? Like, hey, like how, like, you know, [01:09:40] how, how do you feel about things, you know, how do you feel about the company direction? Like, are we doing the right thing, you know? And, and it's always an open conversation and everyone's like encouraged to [01:09:50] share and, and speak up.
+
+
+And so I think this is the, this is the way you establish trust. Thank you. Mm. Then let's fast forward [01:10:00] to 2030. So if generative video fails, so what would, what would have caused its downfall and comber convert [01:10:10] them if it succeed and transforms our, our lives. Uh, how will the world look different? Mm-hmm.
+
+
+Yeah. So I mean, [01:10:20] I think in the future there's absolutely no way for generative media to not not be a very important thing in our lives. It's [01:10:30] just the, the, the cat out of the bag. Like it is impossible for this, for this technology, not be. A very key component in our lives. [01:10:40] So I think it's gonna happen. The way it happens is, is interesting.
+
+
+Um, what we're seeing is we're, we're seeing people, we're seeing thousands of companies build with this [01:10:50] technology and, and they're all doing different things. Like it turns out there's just so many areas this technology can be applied to, and that's, that's what we're seeing, which is very [01:11:00] encouraging.
+
+
+There is one world where like, you know, a lot of this tech is just like owned by a single entity and most interaction is happening there. I think. Like that's not to say [01:11:10] the space has failed, it just like means that, you know, that's what market deemed appropriate. And, and, but I, I think, I imagine a future where like [01:11:20] this technology is, is, is everywhere and in many products that we use and it's, it's delivering like very specific experiences for, for people like, [01:11:30] for creative people.
+
+
+Uh, you know, for consumers, for enterprises, that's, that's the world that I, that I wanna, I wanna see. And just to follow up [01:11:40] with something a bit more casual, so, uh, is there a board or uncon unconventional vision you have for the future that something that feels a little [01:11:50] wired, but that maybe only use the lead in right now?
+
+
+Um, yeah, so I, I think we're gonna have like, fully AI generated, [01:12:00] like games, like interactive, uh, games that, that you can actually play with. It may not look like games that, like we think of today. It may just [01:12:10] look like something completely different. And I just think like the future is gonna be a lot of just.
+
+
+Uh, just more fun stuff. So [01:12:20] that's like games and the music and, and just entertainment I think is gonna be wild. And, and I think that's like, what's so, what's so awesome about this technology? And it's gonna be accessible to everybody. You [01:12:30] know, you have an idea, you can put it out there and it can look like aa movie or it can look like, you know, however you want it to make it look like.
+
+
+So I think, I think this, this idea is [01:12:40] very, very powerful and I think it's gonna enable a lot of people that are creative, uh, to, to go put, put their ideas out there. I [01:12:50] I, I think you mentioned this, uh, bit earlier, but just so, uh, you have a clear, clear version for the edit. So what, what [01:13:00] key, what key challenges must far AI address to facilitate, uh, 10 x or a hundred x growth in generating media use usage, [01:13:10] especially making video AI as seamless as each generation.
+
+
+Mm-hmm. Yeah, so I think that like in the last six months or so, [01:13:20] uh, the open source ecosystem has been for, for video generation, has been fairly slow and there's a lot of closed source models out there. Um, and obviously I'm [01:13:30] biased because like, you know, we, we do as far, we do benefit from open source models a lot.
+
+
+Um, but in general, I think when there's open source models, um, [01:13:40] it just gets the community to con to, to contribute to these models and that's what makes the models kind of take the next, next leap. And, and I think that's [01:13:50] very important. So I, I, I wish there's more open source models out there, uh, so that like the community can mobilize and, and take these models and like hack them [01:14:00] and, and make them do things that like, you know, the, the, the original creators never, never imagined.
+
+
+And so that, that I think is something that we need, um, more [01:14:10] in this space. Thank you. Then I'm, I wonder past generative image and video experience is Chad gt [01:14:20] moment yet, or if not, what might the moment look like and right. What evidence suggest that 2025 is tipping point [01:14:30] for Ai p and watch mainstream use use case?
+
+
+Do you envision becoming dominant within two years? Right. So my, my [01:14:40] belief for, um, the, the, the chat to PT moment for video is that, I don't think we've hit it yet. I think there's a lot of signs, like we're getting very close to it. Like [01:14:50] if you've seen VO three, I think that's like, you know, uh, it's close to the chacha piti moment.
+
+
+Like it's a very capable model. Um, [01:15:00] but, but I think, I think we're still not there yet. But, um, but interestingly, like, you know, now if you go to your, you know, Instagram TikTok feed, like. [01:15:10] You know, a third, a half the, the videos are AI generated, right? So like, it is already happening in a way, it's just happening in like a little bit of a slow motion.
+
+
+There may be a [01:15:20] point this year, uh, I mean I hope it's this year, uh, is that we see like, uh, even better models, right? That can actually like be edited, uh, real [01:15:30] time and you can interact with the characters that are in the video and, and, and, you know, generate like very, very interesting content. I think we may hit that point [01:15:40] where, you know, it's also affordable.
+
+
+Like right now creating these videos is like $6 or something. It's, it's pretty, uh, prohibitive. So I think, I think that also [01:15:50] needs to happen. So yeah, in, in general, like I think if you have models with bigger capability, uh, if the prices are a bit lower, uh, I think, I think this [01:16:00] adoption is gonna just skyrocket.
+
+
+And, and we will ultimately have a chat PT moment for AI video. Thank you that, um, you have expressed. [01:16:10] Expressed interesting generative art using five and, uh, ancient film like Mad Max, the, and the social [01:16:20] network as cinematic inspiration. So, uh, is, is there a movie metaphor that capture what it feels like by AI daily and [01:16:30] generally, what movies do you love and what's your favorite ex exciting application of gen AI in your field?
+
+
+Let me think about that for a bit. [01:16:40] Um,
+
+
+yeah, [01:16:50] so I, I'm actually a very big fan of like. Fully AI generated content. There's like these really cool artists now that are just like building really cool, [01:17:00] um, you know, new worlds and, and some like crazy experiments. Like, uh, there's this one Instagram account called Neural Wi Neural wizz. Um, [01:17:10] and like he has like a full series of like alien encounters and, and like, these conversations and like the way it's shot is like, very interesting.
+
+
+I think he combines [01:17:20] like, you know, lots of AI stuff, but also applies like, you know, color, like color matching, like, uh. You know, coloring and like more traditional techniques as well. And so, [01:17:30] uh, and, and yeah, you should definitely check it out. Uh, another, uh, producer I really like is PJ Ace. He, he focuses on like fully AI generated video.
+
+
+[01:17:40] Um, and, and yeah, I really like to watch his content 'cause it's like very, very engaging. Uh, in general. Like, I think the, the AI video creators, like, they kind of come [01:17:50] from, uh, all sorts of backgrounds. Some are just like, you know, come from like traditional, you know, movie film background. They tend to like put out some amazing stuff.[01:18:00] 
+
+
+And then there's some like, you know, new people that like maybe don't have movie, movie or film experience. And, and it's also like very fun to watch for me. Like what, what those [01:18:10] people also produce. Thank you. I check the account that you mentioned. Yeah. That, what is the ultimate goal of FAR Ai and [01:18:20] what, what would the word look like?
+
+
+One, inspire AI Achieve is vision. Is it? Feature will all material generative, ai generative and [01:18:30] accessible to everyone? Uh, yeah. So our ultimate vision is basically being an infrastructure. Uh, so I'll [01:18:40] start again. So our ultimate vision is to be a, be a infrastructure company that is powering all of this new, uh, [01:18:50] um, okay.
+
+
+I'll do one more. So our, our vision is that we want to be the infrastructure layer for this new technology. We think, you know, [01:19:00] half the GPUs, maybe more in the, in the future is going to be running, um, you know, AI. Like, um, models that are, that are generating [01:19:10] content. So this is a pretty big undertaking. And, and you know, right now we, we have ma deployed, you know, language models at massive scale, but we're gonna have to do that [01:19:20] for ai, video, AI image, ai, audio, even AI games.
+
+
+So this is like a extremely big undertaking and we wanna be the place where like, you know, all of [01:19:30] this infrastructure is being hosted and all the builders, uh, that are building with this technology, we want them to do that through fall.[01:19:40] 
+
+
+Okay, Dan, if you could go back to the beginning of Ouris in 2021. 2022. So, [01:19:50] uh, and give yourself one piece of advice, what would be.[01:20:00] [01:20:10] 
+
+
+Yeah, I, I would say like, be bold, uh, in, in the way that like you make decisions. I think, you know, early startups [01:20:20] are a, you know, very experimental and, and that they're meant to be that way. So I would say that like, you know, make decisions that you can always, [01:20:30] um, you know, revert back and, and, and be, be very, very fast into getting, uh, into getting to a place, um, by, by experimenting, uh, and [01:20:40] until, until you hit that point, you know, make, make very bold decisions.
+
+
+You know, you don't have to delay, you don't have to delay the decisions that you think are the right decisions. Uh, that, that would [01:20:50] be my advice to myself. Thank you. Similarly, I'd love to ask one or two more questions around advice. Sure. So based on your journey [01:21:00] from MIT through Oracle and Coinbase to Par ai, so what one particular case of advice you'd give to engineers considering [01:21:10] become becoming founders?
+
+
+Mm-hmm.
+
+
+Yeah, so I think founders come in like many. [01:21:20] Shapes and sizes. Uh, I think, I don't think there is like one, um, founder archetype that is, that just like works for everybody. I think there's so many different ways you can, [01:21:30] you can do this. Um, so if you are, if you have an engineering background, I think it is very important to understand like business.
+
+
+I think it's, [01:21:40] you know, I think engineering, you know, technical founders, infa, infamously, like, they just like to, you know, assume that their way is the right way because they're [01:21:50] technical and smart and, you know, sometimes, like that's not how the world works, you know? Uh, sometimes, you know, you need to understand like, why are people [01:22:00] making the decisions they're making, right?
+
+
+And like, you need to understand like how, how people operate, how people that are not technical operate. So I think that's very important. Uh, [01:22:10] for, for technical founders to understand like how business works, how, how people work, uh, and how, how, like, you know, normies work. Uh, you [01:22:20] know, that that's, that's something that's very, very important.
+
+
+And I think it's also important to be coachable. Like, there's a lot of people, of course you shouldn't listen to [01:22:30] everybody, but there's a lot of people, um, that, you know, that have done this before. They have a lot of insights, I believe that like, you know, I have something to learn from, from [01:22:40] everybody. Uh, but yeah, surround yourself with people that like you really respect and like, and, and, and listen and, and try to understand like why [01:22:50] they are saying the things, you know, giving you the advice that they're giving and, and be, be, be coachable and, and trying to be open to, open to what they're saying.
+
+
+I think that's, that's very important [01:23:00] for, for technical people. Then just follow up with one more question on that advice. So, uh, what, what do you think is. What do you think is the [01:23:10] most underrated factor in startup success?
+
+
+Um,[01:23:20] 
+
+
+I think the most underrated, um, trade in a startup is actually moving fast. I think [01:23:30] that is like usually portrayed as like the thing that, you know, startups have, right? It's, it's, it's portrayed as the only thing that startups have, right? It's, [01:23:40] it's like how fast you can move. But I think people, people don't really understand what that means.
+
+
+I think there's a lot of startups out there, you know, they'll be stuck on an idea for like [01:23:50] months and years, right? With no traction. So I would say that like, you have to really take that to the extreme. You know, like, I don't think people. [01:24:00] People stress that enough. And I think like moving fast has really helped us.
+
+
+And I think it would, it would help a lot of people out there. Uh, but, you know, think of moving fast, [01:24:10] what you think of, and like, take, take that like multiply with like a hundred and move that fast. That's how fast you need to know, uh, move and explore ideas. And that's, [01:24:20] that's like, you know, you will eventually land on something that, that is really sticking and, and, and, you know, growing fast.
+
+
+And that's, that's when you know, you know, you've, you've made it. [01:24:30] Oops. Sorry I touched my mic. I hope it's fine. It's fine. Okay, cool. Actually, my next question was going [01:24:40] to be, if, if you had to, if you had to choose just one factor that's the most important to par, AI's rapid growth and forward moment, [01:24:50] what would it be?
+
+
+Would, would you say that the speed is, is the key factor or is there something else that stand out more to you? Yes. Um, [01:25:00] I think the key factor in fall success is the team. Uh, I mean, we have like the absolute best team in the industry, and these are the [01:25:10] people that I would work on anything with. Um, you know, I think, I think that is extremely important for startups to, you know, find like an [01:25:20] amazing, you know, amazing people.
+
+
+Bring them on board, make sure you know, they're, they're aligned with the mission and there's, there's mutual trust and that is, that is how you build a [01:25:30] amazing company. I think, you know, this is something I'd love to keep until we're, you know, a thousand people until 10,000 people is, is the quality of the people [01:25:40] at the company.
+
+
+And, and, you know, hopefully I'll be able to achieve that. I think so far we've been very successful, but, but that is the one, one important, the most key thing [01:25:50] in, in startups is the team. Thank you. Good. Because we are gonna fill the interview of your co-founder. Yes. Like. Uh, [01:26:00] so you, you mentioned that while hatching together inside project, during the pandemic, you Yes.
+
+
+Know something. So could you describe that moment a little bit in detail? Like what, like what [01:26:10] kind of project was it and what was that like, spark moment like? Right. Um, yeah, I mean the, the moment for me, [01:26:20] like where I thought like I could work really well with was that when we were just discussing some like, technical subjects and difficult topics, like, and [01:26:30] what I realized is that like we listen to each other and I think that's like so important, right?
+
+
+Like basically being able to listen to each other, take [01:26:40] each other's feedback and, and, um, and, and also like. Um, you know, be, be empathetic. I think these are very, very important things, [01:26:50] obviously, like he's a, he's an extremely smart guy and, you know, there's a lot of smart people out there, but like, not all of them listen.
+
+
+And I think like this conversation, [01:27:00] being able to like, talk to each other and like, solve problems together, respect each other is extremely important. And, and you know, like many startups don't work out because of [01:27:10] co-founders not getting along, you know, or like, you know, key team members not getting along.
+
+
+For us, this is like the key thing. It's the foundation to, to our, our [01:27:20] relationship is that like, you know, we listen and we respect each other and, and we go, you know, we go, we go execute things together. Just, [01:27:30] uh, if you could describe your co-founder in like one keyword or one sentence, what, what would it be?
+
+
+Like? Like, like he is [01:27:40] like, blah, blah. Yeah. Um, yeah, he is. My co-founder, Gerke, is, uh, he's a brilliant guy. Extremely smart, smart, and he's an [01:27:50] optimist. He's just, you can never see him talk negatively about anything. He's like a true optimist about what we're doing and, and where we're [01:28:00] going. And, you know, I think that's why, why we're gonna win at the end and build an amazing company.[01:28:10] 
+
+
+Yes. So, um, you emphasized, um, your fall infrastructure. Yeah. So how has [01:28:20] this fall infrastructure, could you, um, yeah. I mean it, so how far, how fast this fall? Like it, it really depends on the [01:28:30] model. Some models, you know, people who put them out there, they already do some optimizations as pretty good. Some models, you know, they're extremely slow and, and [01:28:40] you know, so, so I can give you a range, you know, we can make things faster, like anywhere from like two x faster, so we can make things fast, like anywhere [01:28:50] from two x faster to like 10 x faster.
+
+
+So it really depends on the problem and how much of a, uh, room there is for optimization, because like, there is, there is always some limits to like how [01:29:00] fast you can get things, but we, we try to like, take these models and like really go deep into it and, and figure out ways to run 'em as, as fast [01:29:10] as possible.
+
+
+So, so it, it really depends on the model. I read that, that Paul mission says latency kills creativity. So I, I'm [01:29:20] curious about why did you. Yeah. So, um, latency kills creativity because any like creative work that you're doing, um, I mean, [01:29:30] you guys would know too, like, I think iteration speed is everything. So like, the way, the way you iterate at, at any kinda work, I think it's so important because like [01:29:40] as humans, like we, we really, we really like look at the output of work and then, and then we make micro adjustments.
+
+
+That's like how the creative, uh, process [01:29:50] works. And this is how it is when you're writing, this is how it is when you're coding. Especially if you look at like developers, like they spend so much time optimizing their like, [01:30:00] iterative loop, right? Like making sure that like once they do something, they can see the result, they can see the tests and, and, and go iterate.
+
+
+So I think, I think it, it. [01:30:10] Yeah, like I think latency kills creativity, latency kills productivity in general. Uh, so, so yeah, I think, I think this loop is extremely important to like really [01:30:20] refine and optimize. So we, we spend a lot of time making sure the, the latency is low. So, um, so, and you said about [01:30:30] like in the fast AI era, the up to date is really important for Yes.
+
+
+So could you, um, uh, um, what's [01:30:40] one thing people should stop doing or what's one thing they must start doing to keep up in this fast moving world? Yeah. Uh, I mean, the best [01:30:50] way to keep up is just like you just, uh, follow false X account. I think that's like the most up-to-date place If you wanna like. Be in the [01:31:00] know for generative media, of course, like, you know, go, go sign up to our website.
+
+
+We will like list featured models, latest models. So, so we are always [01:31:10] up to date. And like also follow the people who work here at Fall. Like I think, I think we have some really amazing people who are very active on like social media and they put out [01:31:20] like really cool workflows and, and really, really awesome use cases, examples of what you can build with these models.
+
+
+So I, I believe truly like that's the best way to [01:31:30] stay in the know is follow file and, and follow the people who work at Fall. And I have one patient that you told it every [01:31:40] morning, you watched like. New model that comes out. Yes. So I'm curious what kind of criteria guide or [01:31:50] for AI decisions on which model to integrate and which you to your platform?
+
+
+Yeah. And how does this process reflect to [01:32:00] your nce larger vision in international media? Sure, sure. Yeah. So how do we, how do we, um. Pick the models that we put on file. Uh, we are very [01:32:10] particular about what models we want to put because there's a lot of models out there. There's a lot of projects out there, research projects, even things that like, you know, big funded [01:32:20] companies that put out there that are cherry picked.
+
+
+So I'll, I'll explain what cherry picking is. It's basically like you take the results and you look at the good ones and you just [01:32:30] use those for your demo or like for your launch. So that's called cherry picking. So there's a lot of cherry picking happening in, in models. And so, um, when you, when we look at the [01:32:40] model, first thing we do is we take the model, we run the model, and we run, you know, bunch of queries to understand like, is it actually doing the thing that is, that is.
+
+
+Advertised. [01:32:50] Right. And that's, that's very, very important. So like, we have a, you know, half our engineering team is, is apply them out, engineers, and they spent a lot of time taking these models, [01:33:00] looking at them, and really assessing the quality. Uh, and, and then, you know, if they find the model as advertised, you know, we go ahead and, and put it, we first put it [01:33:10] out and then we, we will go and optimize it and make sure like, uh, it can run faster and faster.
+
+
+Especially if there's a lot of demand. We spend even more time optimizing the models. [01:33:20] Okay. Yeah. But sometimes that cherry picking can be wrong. Like if you make the wrong decision on what kind of things do you do? Or like, [01:33:30] what, what, what is your criteria that is wrong or this is correct. This is right.
+
+
+Yeah. Yeah. So answer it like. So, so sometimes, you [01:33:40] know, our own judgment can also be wrong. And, and ultimately what matters is like what the users actually think, right? So there's times like where we are like, okay, this model's bad, we don't put it. And [01:33:50] then, you know, people like Revolt and say like, why is, why is Fall not made this model available yet?
+
+
+And, and they'll get really upset. So then we're like, okay, we were wrong and [01:34:00] we'll go put the model. Uh, sometimes we believe the model's great, we put it and people don't like it, you know, they, they just like don't use it. And ultimately, like the adoption and [01:34:10] like how much people are using is, is what, what really decides like whether that that model's worth, worth being on the platform.
+
+
+So we try to keep the, you know, keep the platform as [01:34:20] like, you know, as, as, as, you know, as less noisy as possible. So we would, we would, uh, you know, periodically like get rid of models that are not getting any usage. [01:34:30] And as I, you told, but I want to again. You told that your platform is different from [01:34:40] your competitor for two aspect.
+
+
+Mm-hmm. Could you explain it again, like for more not, uh, not knowing this service [01:34:50] or Sure. Not develop non developers. Sure, sure, sure, sure. Um, yeah, I think, I think we're different for two aspects. One was how fast we put the models [01:35:00] out, and then two, how fast the models themselves are. So we put the models extremely fast.
+
+
+Usually we have day zero releases, uh, and we have great [01:35:10] relationships with all the model creators, so we'll collaborate with them to make sure, you know, file has the model from day, day zero. Uh, and then the, the other one is that the [01:35:20] optimizations that we do, which is, you know, in many platforms that's not, that's not really available.
+
+
+Um, and, and you know, we, we, we put a lot of effort into [01:35:30] taking the models and, and making sure they can run anywhere from like two to 10 times faster. Thank you. We could do the introduction part [01:35:40] again and wrap up. Sure. Like introduce yourself and, or again, and yeah. When like introduce far, [01:35:50] like it would be better if you could include the fundraising amount and Sure.
+
+
+Major client. Sure. Uh, let me think of which clients I can [01:36:00] disclose.
+
+
+Um,[01:36:10] 
+
+
+Adobe, Canva, perplexity, Adobe Canva, perplexity, Shopify. Okay. Um, so,[01:36:20] 
+
+
+um, so yeah, my. So my name is Burka Ger and I'm co-founder and CEO at Foul. And [01:36:30] Foul is a generative media platform. We host, uh, text to image, text to video, text to three, text to audio models. And we scale, scale these models to be served [01:36:40] at, at millions of, uh, requests a day. Um, we work with customers like Adobe, Canva, Shopify Perplexity, and we have [01:36:50] recently raised, uh, series C $125 million at a $1.5 billion valuation.
+
+
+Thank you. We are done. Woohoo.[01:37:00] 
+
+
+Thank you. Thanks guys.
+
+
+Was [01:37:10] [01:37:20] Yeah.
+
+
+
+
+Görkem Yurtseven_full script
+all_Gorkem_audio
+===
+
+
+[00:00:00] Okay. So like you can sh Should I be looking at both cameras? [00:00:10] Yeah. This one is the main camera. Main camera. So mostly, yeah. Like this way or for me? Like to you? Yes. Okay. This. Perfect. And so first of [00:00:20] all, like, could you introduce yourself briefly and your role as CTO of fob? Yeah. Uh, my name is Girvan. Uh, I'm originally, [00:00:30] okay.
+
+
+Start again? No, uh, this should, this should be good. Uh, my name is Girvan. I'm originally Turkish, been living in the US for the [00:00:40] past 15 years. Uh, before joining, uh, burka and start fall, I was, I spent many years at, uh, Amazon as a software [00:00:50] engineer. And before that I was in college in, in, in the United States.
+
+
+Uh, and as, as my role in at fall, I'm the CTO. [00:01:00] But we've been growing so fast that my, my daily, daily job has changed a lot over the, over the months. Each month there is a new [00:01:10] priority that I need to jump onto. Uh, in, in the past I've spent a lot of time doing sales, obviously spending time with customers, a lot of time [00:01:20] hiring, uh, also spending time with the product as well.
+
+
+Um, yeah, that's, that's pretty much it. Okay. Then like if you have, like, could you [00:01:30] explain the file in one sentence? Like who is not familiar with your, uh, product? Yeah, so file is a generative media platform. Generative [00:01:40] media is a, is a term that we coined. Uh, we are really proud of it actually. Now, the, the term is catching on and even Google is now using it.
+
+
+[00:01:50] So that's one of the rare moments where we can actually name the market that we participate in. Um, we, we provide easy to use APIs for [00:02:00] image, video and audio models. That's how we define generative media. Um, image models, video models, and audio models. Okay. [00:02:10] So like, could you please share any impressive performance metrics like has fall or chip, like how do those numbers translate into Yeah, your word [00:02:20] speed.
+
+
+Um, so in, in this wave of AI, because everything is happening, uh, in production, performance matters a [00:02:30] lot, uh, both reliability and speed of the inference. Uh, our team is performance obsessed. There are lots of, uh, websites that, [00:02:40] that ranks and benchmarks performance. And we are watching these, uh, rankings really closely and our engineers are looking at these [00:02:50] rankings all the time.
+
+
+And we are always rank. Uh, very highly and most of the time, number one in these rankings. Um, yeah. Okay. And previous interview, I [00:03:00] heard that, uh, like inference mm-hmm. Engine like, but it is a little bit difficult for us. Like could you explain more like easy way for that [00:03:10] technology? Yeah, of course. So, uh, the, the way I would define the influence, um, process is, [00:03:20] so the model is trained, uh, by, by researchers and, uh, at the end of the training process, they create, uh, what we call model weights [00:03:30] and to, to get results from this model weights.
+
+
+When, when the model is deployed in production and when you get each incremental result. When you put an input, [00:03:40] the output that process is, is called inference to get the, get the output. Um, and you can also think of it as. The, the part of the [00:03:50] program that runs inside the GPU. Um, so this is a big piece of what we do at file, making sure the inference, the, the time it [00:04:00] takes the program to run in the GPU is as fast as possible.
+
+
+There are other infrastructure level optimizations as well, but the inference speed is, is very [00:04:10] measurable. And we try to do as good of a job as we can with, with inference speed. And the way we optimize it is, is usually, [00:04:20] uh, when, when you're running AI models, you can paralyze the program, uh, as much as possible.
+
+
+So we, we try to find, um, pieces in [00:04:30] the, in the, in the model inference code that can be optimized. We, we customize our kernels. We have our own inference inference engine that we can usually apply to the [00:04:40] model, and it, it, it usually creates good performance right away. So these are some of the techniques we use to optimize the models.
+
+
+Hmm. And why does [00:04:50] that technology like better for developers? Um, so it's, it's better for developers. It's, it's actually better for everyone. That [00:05:00] technology is better for everyone, but it's better when you are building products on top of these models. Usually the users expect [00:05:10] a certain level of performance from the model.
+
+
+If, if the user on the other side of the computer waiting for a couple minutes for a video [00:05:20] to be generated, it's usually not great for the workflow of the artist or the developer on the other side. So, frequent results, fast [00:05:30] inference usually means better products built with these AI models. A fast system is usually a good system.
+
+
+Yeah, I also heard that [00:05:40] like, uh, he also. Like emphasize the speed and the latency is Yeah. Is very, he doesn't like the latency. Mm-hmm. What do you [00:05:50] think about that, his like, thoughts and why is it so important for that? Yeah. LA latency is really important in AI systems because people are [00:06:00] building real products with it.
+
+
+And, uh, usually latency with, with software was either database latency, like [00:06:10] latency occurred by database queries or webpage load, uh, latency. These were the things that people over the years ran experiments and [00:06:20] it's directly associated with more revenue or more engagement. Uh, and AI models is, is no different.
+
+
+Uh, the quicker you can get a response from the [00:06:30] model, the more engaged the user of the product will be. Um, and this is what we see with many of our customers as well. They, they can measure this [00:06:40] really easily, actually. When we speed up the models, they get better metrics on the product side. And how can you, uh, like build [00:06:50] the technology for speeding up?
+
+
+Like could you use any metaphor to explain how does technology work? Um, sure I can. Um, so [00:07:00] one of the really interesting things about building an inference system is because the market is moving very fast, it's always a moving target. Today you [00:07:10] can build, build something that runs today's models really fast.
+
+
+There will be some common things with tomorrow's model as well, [00:07:20] but each, each different model adds something new to the picture. So it, because it's a moving target, the engineers always need to be on top of it and improve the existing [00:07:30] libraries. So this is pretty unique. Usually the development software development cycles is longer.
+
+
+With, with these type of, uh, these, these type of projects. [00:07:40] But for inference systems, people who are building it need to be updating this all the time because for each new model, uh, it may not [00:07:50] exactly work like the previous model, so it needs to be updated. I guess that is very tricky and hard work. Like do you have, don't you have any [00:08:00] challenge for building that technology?
+
+
+Um, yes. It is, it is really hard to stay on top of it and it's, it's really hard to also [00:08:10] support like all the new models as well. But we see this as part of our marketing strategy. Usually whenever a new model comes out, putting this [00:08:20] out there, using our inference engine as fast as possible, as production ready as possible, gives us a lot of new eyeballs.
+
+
+A lot of new people wanna [00:08:30] try out the model, and if we are the first ones to get this ready. Uh, it's the most likely that it's gonna make it into someone's product, and that person is gonna convert [00:08:40] into a long-term user. Um, so this is very, very on purpose. We are trying to be the first one and the fastest one.
+
+
+And [00:08:50] is speed is related, the false vision or vision, like, could you, like share your vision or mission? Exactly. So in, in the [00:09:00] early, early, let's say innings of this AI cycle, we, we try to differentiate with our technical capabilities. And benchmarking [00:09:10] done by independent benchmarks is, is the best way to show that.
+
+
+And we try to make sure we are the fastest, best inference [00:09:20] platform, uh, for image and video models. Um, right now we, we try to create other types of advantages in the platform. Speed is still really, really important, [00:09:30] but especially in the early days. This is something that was ingrained into the DNA of the company.
+
+
+Okay. So like I, I [00:09:40] found that you are, you told that you were working in, worked in Amazon? Mm-hmm. So, like before that when you first came to America from Turkey. Yeah. Like, wasn't [00:09:50] overwhelming. Like, could you explain very details moment, like that moment, what you felt at that time, and how you built everything from scratch to [00:10:00] get where you're today?
+
+
+Yeah, it was very overwhelming. I thought I knew what I was getting into it, but compared to an American student going to college, [00:10:10] they spend all their lives preparing for it because all their friends are doing the same thing. Um, so they're much more ready. And I thought I was ready, [00:10:20] but maybe I was like 1% there.
+
+
+So it was a, it was a big shock. But, uh, some of my friends moved after college. I think my [00:10:30] adaptation to us was much faster because I came here at a younger age compared to them, so I was able to make a lot of friends in college and [00:10:40] adapt quicker compared to people who came, uh, after, after me. Then what, what did you feel like when you, during [00:10:50] that period, like yes, like, yeah, is there any hard thing?
+
+
+Yeah. Um, I would say like schoolwork felt a little [00:11:00] bit easier than, than I thought because we have a pretty good education system in high school in Turkey, especially with maths and sciences. [00:11:10] So that, that part was, was easy to adapt. Uh, but yeah, getting used to the lifestyle and the, [00:11:20] the, the biggest challenge actually was like the understanding the job market, how people do internships, like, because immediately people.
+
+
+Start [00:11:30] school and prepare for their summer internship and then the next summer. And like they have a whole plan on how, how their career is gonna is gonna happen. [00:11:40] I didn't know I should, I should be doing that. So for a couple, couple years I wasn't really planning my internships towards my [00:11:50] career. So that was a big, big shock.
+
+
+But looking back to it, it didn't matter that much, but people were a lot more deliberate about it. Yeah. And how over, how [00:12:00] did you overcome that moment and why do you think that is not that matter, like these days? Um, yeah, I think in those [00:12:10] days, um, so I went to, uh, Penn, which is a very finance oriented school.
+
+
+Even my friends who were studying computer science wanted to get [00:12:20] jobs in, in finance. So finance is really, really structured. Finance and consulting. The internships you make matter a lot. But as I was going through [00:12:30] school, um, the, the, the tech boom of early 2000 tens happened and everyone all of a sudden wanted to get jobs at Google, [00:12:40] Facebook, Dropbox, in these big companies where your internships didn't matter.
+
+
+Uh, all, all, all it mattered is the technical interview that you can [00:12:50] pass or not. Um, so all my friends ended up working at big tech companies and not in finance. I was in school during that shift where the good [00:13:00] jobs shifted from finance to technology. And then at that time, do you have any like idea or some sentence or like [00:13:10] thoughts that you, you keep for like in, in, for saying this period?
+
+
+Like Yeah. It's, it's [00:13:20] crazy. I remember, uh, my friends and I, we were debating. Or what's gonna be the future of, of, of technology. And I remember, uh, [00:13:30] Instagram had just been bought by Facebook for a billion dollars. Everyone was calling it a massive bubble and everything was gonna, uh, crumble. [00:13:40] But it, it turned out it was just like the beginnings of a massive supercycle and it, it keeps growing e even faster than what it was in [00:13:50] those days.
+
+
+So everyone was wrong. Who, who called this, uh, a bubble in those years. Okay. So like before, like in [00:14:00] Amazon you worked, how long have you worked there? And I worked there for eight years. Yeah. So like what did you do there? Like, like can you share what you [00:14:10] focused on there and how that experience shaped the way you built the false inference engine?
+
+
+Yeah. Yeah. Amazon, uh, when I joined was a big [00:14:20] company and it was a much, much bigger company When I left. Uh, over eight years I was able to work, uh, at many, many different teams. And that's, [00:14:30] I I would say one of the only good advantages of working at a big tech company where you get to experience many different technologies and work with many different [00:14:40] teams, uh, across, across the company.
+
+
+Um, so I was able to work a lot on, uh, dev tools and internal infrastructure, uh, in [00:14:50] various different teams. I wouldn't say it had anything to do with, uh, the AI wave that we are experiencing right now, but, uh, I [00:15:00] always enjoyed building software for other developers and that's what we are doing at five. So there are similarities like that.
+
+
+And Ade told us that [00:15:10] he also moved, moved from to Coinbase. Mm-hmm. So he kind of has also experienced like big company to small. Yeah. And he told us [00:15:20] like. He has more things to can do and there's more wide scope. Mm-hmm. They can, he can use many technology. Like do you have [00:15:30] any, like, do you have any kind of these thoughts about moving from big company to small To to small, yeah, exactly.
+
+
+I moved from one of the biggest tech companies in the world [00:15:40] to, first it was a four person team at fall and we stayed as a four person team for a while. Uh, and we were doing everything [00:15:50] ourselves, which was very liberating. You could decide everything on your own. You could pick the technologies you wanna work on, on your own, even you can decide to drop [00:16:00] projects and start new ones on your own as well.
+
+
+Which we had a year, maybe a year and a half period of exploration with burka and some of our early [00:16:10] funding engineers. Uh, we, we worked on like three, four different projects. And this was before the AI revolution, the current AI [00:16:20] revolution. So none of the projects we thought was good enough for us to spend maybe like the rest of our, uh, 10 years, the next 10 years [00:16:30] of our careers.
+
+
+So we decided to, to drop them until a really big one, uh, came along. And that happened after, uh, stable [00:16:40] Diffusion was released, and we decided to build an inference platform for image and then video models. Uh, like is it, is that happen, does that [00:16:50] happen when you are on COVID? Like we heard that you have kind of COVID bubble, correct?
+
+
+Correct. Correct. Um, so when in the beginning [00:17:00] of COVID Burke and I, uh, we were in the same friend group and we decided to, uh, rent a house in Palm Springs for a while. Um, I would say that's [00:17:10] when the seeds of the company was first planted. Um, but you didn't. Start the company, then we, I think it took almost a year for us [00:17:20] to quit our jobs and actually officially start the company.
+
+
+And that's when we started exploring all these different ideas. But we first [00:17:30] started talking about it while we were in the same COVID bubble in, in Palm Springs. And could you explain more? What conversations did you have in that [00:17:40] period in Palm Springs? Um, yeah. So we, we never, we never worked, we never worked [00:17:50] professionally with burka before that point.
+
+
+We were friends socially, but never had worked together. That was a good opportunity for us to work on a couple [00:18:00] small projects, uh, that has nothing to do with what we do at fall right now, but it was a good, uh, way to build some synergy. Um, and then it [00:18:10] was the early innings of. The big, big AI models of today.
+
+
+Uh, book Kai had some friends working at OpenAI, so we [00:18:20] would, uh, watch, watch videos. Uh, OpenAI had focused on a lot of robotics and, and gaming, so we would watch those videos and talk about future [00:18:30] of AI little, we knew that things were gonna change a lot in the next two years with the introduction of chat g, pt and some of the other bigger models.[00:18:40] 
+
+
+So what kind of specific moment that you have to kit and start the company with Berkeley? Uh, I think at that [00:18:50] point we were bought pretty, pretty checked out and uninterested in our current jobs in, in both big companies we were working at. [00:19:00] Um, so we, we were talking about potentially starting a company, but we didn't have a particular angle or idea to go after, [00:19:10] so we knew that.
+
+
+If you wanna do this, we would have to go through a period of exploration where we, we find something that we are both passionate about. [00:19:20] And timing matters a lot because we were both ready to do that. Uh, I think we were able to just decide to together and start the [00:19:30] company. Um, for, for a lot of people, uh, they don't get to do this because the timing doesn't match.
+
+
+When someone's ready and excited, the other [00:19:40] person has something else going on and it never happens at the same time. But for us, it was roughly around the same time, so that, that was hopefully like [00:19:50] good for us. Yeah. So you kicked your job even though you didn't have any idea for foundation? Correct. Bu burka did it before me.
+
+
+So [00:20:00] I think burka quit maybe four months before me, and then I joined them after that. Oh. What did you feel at that moment? Wasn't it? So maybe it [00:20:10] could be like frustrating or something. Yeah, no, it is li it is, it is liberating. Uh, because all my life I also had to deal with immigration [00:20:20] first, uh, work with, uh, and then green card.
+
+
+Uh, and that's one of the reasons actually I stayed at working at a big company. I wouldn't say that's the only [00:20:30] reason, but that's definitely a factor. And at that time, all my immigration process had ended as well. So that, that was also [00:20:40] liberating in the sense that I didn't have to work for a big tech company to stay in the country.
+
+
+Uh, I could do whatever I want. Uh, and I took the opportunity then. [00:20:50] And what do you want to do with that feeling? Like liberating? Like what do you want to do at first? Uh, um, [00:21:00] it was, it was still COVID, uh, so it was, it was still. Uh, weird times, let's call it, people [00:21:10] were working from home and we were spending a lot of time on, on huddle, on Zoom, uh, trying to do some customer discovery, trying to raise [00:21:20] some money.
+
+
+So I would say it was still interesting times, but things got a lot more interesting when the AI revolution happened. Mm-hmm. [00:21:30] And is, uh, is the, I heard that like from November, 2022, from the time to May [00:21:40] 20, 23, 22, 3. Mm-hmm. Like May, June, you didn't launch any product. Yeah. Like [00:21:50] what did you do at that time?
+
+
+And I saw that you focused on the data pipeline Uhhuh and the compute compute infrastructure. Yeah. Like could you [00:22:00] timeline those? Like, like what kind of products. Like product? Yeah. I mean, I, I can briefly talk about it. Yeah. It, it's not really related [00:22:10] to what we do at fall. Like the first couple of things we, we did, we worked on some traditional machine learning dev tooling.
+
+
+Uh, we worked on a future store, [00:22:20] um, and then we worked on, uh, a cloud pi, python runtime that still has, you know, we, we, [00:22:30] we still get inspired from those early products when we build the cloud runtime for fall. But I would say at this point, the whole thing was, was [00:22:40] rewritten. Um, and the, the main use case for the Python cloud runtime was, uh, data pipelines and traditional machine learning, because [00:22:50] that's, that was the, the use case of, of, of these tools back then.
+
+
+Uh, people had to train their own smaller models using their [00:23:00] own data. And the most of the. Time spent was the data preparation to train these models. So we focused on that. But once, uh, [00:23:10] the big LLMs and, uh, let's, let's call them diffusion models, were released, um, in, in 2022, [00:23:20] there was no, no reason to for these people to train models anymore so they can use models off the shelf.
+
+
+And that, that created a whole different [00:23:30] paradigm where you can, without any data, as a very young company, you can start using a model usefully that someone else trained for you. Um, so [00:23:40] that changed everything and we tried to focus on that type of workflow, which we now call inference. Um, so that was the journey to, to get there.[00:23:50] 
+
+
+And like, could you explain like. More detail about what specifically made you realize the growing demand for [00:24:00] like, infrastructure to run Generat AI sales? Yeah. Um, this was one of the first key insights we had as, as [00:24:10] founders. Um, before people only trained AI models in massive big companies in meta, in Facebook, maybe you had [00:24:20] recommendation engines in, in companies like Airbnb and Spotify, uh, similar type of AI models, but you, you required a lot of [00:24:30] internal data to, to actually train these models actually worked at fraud detection models at Coinbase.
+
+
+But again, you need a lot of, uh, [00:24:40] data to, to train these models internally. But what changed after these big models were released is that you didn't have to train it anymore. You can't just pick it off the [00:24:50] shelf and start building something useful. And that meant the number of users, maybe, maybe 10 XA hundred x and turns out maybe [00:25:00] it's, it's maybe over a million x because everyone in the world may be a user or this model without actually training anything.
+
+
+And we, [00:25:10] we, we saw this, this change early on, and we decided, okay, this change is everything. Now that these models are gonna be used by millions of people, [00:25:20] um, we, we have to build systems that are ready for this change. And that's why we decided to build an inference platform. Well, I'm cur uh, I'm [00:25:30] curious though, why is fall building infrastructure rather than its own generative AI model?
+
+
+O own model? Yeah. Yeah. Like, could you explain like [00:25:40] what the reason of that? Um, yeah, that's a good question. I think, uh, in, in a, in an ecosystem like, like we are, [00:25:50] there's. Different roles for different kind of companies. There is definitely a huge role for people who are training models, but there's also a [00:26:00] massive need for, uh, infrastructure to, to run those models.
+
+
+This was especially through when we first started two years ago, uh, there was none of the big [00:26:10] cloud providers were ready to actually run these models in production. Everyone was doing this on their own and that's why we, we, we decided to build [00:26:20] fall. Uh, it's still more or less true still the big cloud providers are not adapting this, this new, new paradigm as fast as they could.
+
+
+Um, [00:26:30] so the model researchers have a very hard time running, running these models at scale and companies like Fall are helping them to, [00:26:40] to bring the researchers and the, the users of these models together as efficiently as possible. Then if, like, imagine like. Like [00:26:50] there could be a future when, where one dominant generative model mm-hmm.
+
+
+Becomes the standard and builds its own workflow platform mm-hmm. Fall. [00:27:00] Can you, did you imagine this future before and if in that case, wouldn't falls in frog be at risk? Like, can, like what's your view on this poss Yeah. [00:27:10] Um, one big model winning and let's say if this model is trained by a, a big company, this, this is a risk profile, but we are [00:27:20] seeing exactly the opposite of this.
+
+
+Uh, it is actually really hard to keep model advantages. It is really easy to distill these models. [00:27:30] Once you have a really good model, it takes very little time to others to create similar models that can compete with this. So going forward, we [00:27:40] believe there's gonna be a, a huge fragmentation of models. Uh, because of that, there's gonna be space for inference providers [00:27:50] and platforms like file all the time.
+
+
+Uh, and open source is obviously a big portion of this. There's always gonna be open source models that follows the, the [00:28:00] best, uh, closed source models. And file is really good at, uh, running inference for open source models for the open source. [00:28:10] Like there was a period in summer 2023. Mm-hmm. Like when did open source ecosystem slow down?
+
+
+Mm-hmm. Like, could you explain that [00:28:20] period that was at like risk in fall or like, did your company face any crisis during that time? So how, how did you navigate? Yeah. Uh, at, at the [00:28:30] time, uh, the, the open source image models were led by this company called Stability. And um, they had [00:28:40] previously released coupled really good image models.
+
+
+Uh, and the open source community were mainly built around these [00:28:50] models and there was a whole ecosystem around it. Um, and then all of a sudden they stopped releasing new models for a couple of months. And [00:29:00] even though there were really good papers coming out of new research techniques that are proven to work better, no one was actually, um, releasing models that [00:29:10] were trained and scaled up with these techniques.
+
+
+Um, it was, it was a hard time for the company because fall is valuable when [00:29:20] there is many different models, new models, fragmented model ecosystem. So at that period we didn't have that, and there was a slow down in the [00:29:30] ecosystem. Mm-hmm. Then was that period, was, is, was that period your biggest challenge in during the fall or.
+
+
+Do you have [00:29:40] another? Yeah, I would say that that period was, we were still pretty small. I would say we were like around 10 people during that time. Um, so it [00:29:50] is easy to control hard times when the company is still small. It's much harder when the company grows larger. But I would say that was one of the, one of the [00:30:00] harder times.
+
+
+Uh, we did a couple things. We were also, like, there was not many new model releases, but also at the same time we were [00:30:10] getting good at optimizing inference for the existing models. Um, so we kept optimizing inference, which meant it took less time to, to run [00:30:20] these models. And then at the time we were charging people by the time they spent running the model.
+
+
+So the usage was increasing, [00:30:30] but the time we spent on the GPU was going down. So our revenue was constant for a couple of months. And then we did a pricing change where, [00:30:40] uh, we started charging output based rather than time-based. And, and then the incentives were aligned because people wanted shorter, uh, [00:30:50] generation times, but they also didn't wanna pay a lot.
+
+
+We also wanted to keep optimizing, but also get awarded by it. So when we switched to [00:31:00] output best pricing, that also was a, was a good change. Do, that happened during that time. Kind of took things back to back to on course [00:31:10] for us. And did you talk when you decide those kind of strategy with the co-founder, like it working?
+
+
+Yeah. Um, we, [00:31:20] we, we were working really closely, almost like we were sitting next to each other. Uh, you know, we work desk at the time and we were working really, really closely [00:31:30] every day. Uh. Like we were discussing, what's the future of, of open source models? Is there gonna be enough of an ecosystem for an inference platform [00:31:40] like us to independently be successful?
+
+
+Uh, how can we contribute to the open source ecosystem ourselves? Uh, these were discussions we were having all the time. [00:31:50] Mm-hmm. And did you have any disagreements, like of course you have disagreement mm-hmm. Or something like, could you like, uh, have anything you want to share? [00:32:00] So one, uh, early on, another decision we had to make, um, was when, when the revenue was constant for a couple of [00:32:10] months.
+
+
+Uh, one tempting thing we we could have done is run influence for LLM models as well. And at the time a lot of other influence [00:32:20] platforms were running influence for LM models almost exclusively. They thought LLMs was a much bigger market. Image models were [00:32:30] small and maybe not ready for enterprise. Um, but we, we decided to stick with, uh, image models.
+
+
+We, we foresaw [00:32:40] the future that the video models are gonna come. These models are gonna get much bigger. And we identified that the market is actually very, very different [00:32:50] if you're selling to, uh, LLM users. That's one type of company. But if you're selling image models to, to another type of company, and there's no [00:33:00] reason for the same inference provider to serve both of these markets.
+
+
+So we identified these two markets to be separate and both very large. And we stuck [00:33:10] with, uh, image models only. Uh, I would say this was a very big decision at the time. Uh, I'm happy we did that. And I would say this is one of the [00:33:20] reasons we were able to differentiate from a lot of generic inference providers in the market.
+
+
+Mm. And like how much percentage are you sure [00:33:30] about your decision at the time? I would say we, I would [00:33:40] say he, here's what we thought about it. Like we said, focusing on image and media is gonna be an important differentiator. [00:33:50] We already have a technical advantage because we've been working on, on this type of models for a while.
+
+
+Um, and then if, if we are wrong, we can [00:34:00] always revisit our decision, but it's gonna be harder for us to go from general to specific. So we tried to stay specific and then if needed, [00:34:10] go to an adjacent market or, or go go more general. So we were a little bit calculated about the decision, but also we thought there, there are other things we can do in [00:34:20] the future if this was actually the wrong decision.
+
+
+And could you explain why you want to focus on specific market? Um, I, I think [00:34:30] if you focus on a specific market, you get to work with your users in a, in a closer manner. You understand their problems better. And then, [00:34:40] uh, your several first users, let's say first five of your users of the platform will have very similar problems so you can [00:34:50] understand their problems better.
+
+
+Um, and then you can actually build a technical differentiation around those problems because you only care about a specific type of [00:35:00] user trying to do something very specific. And for us, this was image models and fine tuning image models in the beginning. And all of our customers were [00:35:10] doing very, very similar things.
+
+
+So we were able to focus on it, get really good at it, and differentiate ourselves from others. Hmm. So you are customers will be [00:35:20] the developers. Yes. Uh, at the time it was developers, uh, mobile app builders who are, who were using the [00:35:30] stable fusion model ecosystem to, to build products. Then, like is there any dif like difference strategy to focus on developers [00:35:40] like product for developers?
+
+
+Yeah. Like what kind of things do you consider the most? We, we always wanted to build a developer platform. I think this is something Burke and [00:35:50] I agreed, uh, early on, we, we both believe if you build for developers, it's actually a great force multiplier of your own work [00:36:00] because then these very smart people, other developers go build products on top of the thing that you built.
+
+
+And so we always thought building for developers is the [00:36:10] greatest force multiplier that we can apply to our own work. And we, we thought building for developers is, is gonna have the most impact. So that. That's [00:36:20] what we, we wanted to do. I think like fall is very focusing on the niche market. Mm-hmm. And Berkeley is also, also said that you are on [00:36:30] the niche market.
+
+
+Mm-hmm. Like, do you think, is it good for, to the niche market and like what should like start off founders do when you are getting into the [00:36:40] niche market? Yeah. I think finding a niche market that is fast growing is the key to startup success. There are a lot of niche markets [00:36:50] that stay niche and never grow, but we were lucky that, uh, the, the market we operated in was very niche and [00:37:00] small, but also was growing incredibly fast.
+
+
+And the, the ecosystem itself was, was growing even if we were there or not. Uh, so [00:37:10] there were a lot of players that was contributing to the, to the growth of the ecosystem. We were one of them, but we weren't the only one. Um, so the, the, the, [00:37:20] the market we call niche grew very rapidly. So we were able to focus on an existing set of users who also grew with the platform, and now [00:37:30] they're, um, much bigger users of the platform and the technology that we are building.
+
+
+Hmm. So you, do you believe the video models become [00:37:40] mainstream? Or if yes, like what signals or trends are you seeing that support that prediction? I think video models are still not, not mainstream at all. Uh, I would say [00:37:50] a very few percentage of my friends outside of San Francisco has ever even tried a video model.
+
+
+Uh, I don't think we still hit an inflection [00:38:00] point in this technology where it goes truly mainstream. I think it's still a little bit more expensive than it should be for it to go mainstream. [00:38:10] I think the price. Uh, it needs to go down a little bit and you know, that, that means the models need to maybe get a little smaller or the inference performance needs to [00:38:20] increase a little bit for the price to go down.
+
+
+Uh, and I think it needs to get a little bit better in quality and maybe even little more capabilities [00:38:30] when all those things come together. I believe video models are gonna go mainstream. I would say maybe we have another year for a truly [00:38:40] inflection point happening on, on video models. And what do you think, when does it happen?
+
+
+Like within, like, I would say within a year? Yeah. Yeah. [00:38:50] Then in that, within a year, what, like, tech concur capabilities in general media infrastructure seem impossible today, but you believe it will be the standard. [00:39:00] Like what can you do at that time? Yeah, I think a lot of people, a lot of people want more consistent results, so the way.
+
+
+Uh, people interact with video models [00:39:10] today is if they don't like it, they just rerun it again. Uh, if they're able to specify which parts they don't like and ask the video model to [00:39:20] actually change those parts, I think it would be, it would be a lot more efficient workflow for the user, either an artist or a social media user.
+
+
+[00:39:30] Anyone who's interacting with these models. Currently, the way to do it is just you press rerun and hope that the randomness of the model creates something that, that you [00:39:40] like. Uh, getting more giving users more control is definitely one of the key, key capabilities that's gonna unlock more adaption. [00:39:50] Then if, like, if the, those kind, that kind of things happen, like what kind of future or space do you in mind?
+
+
+Like what can we, what [00:40:00] can, not developers, but also Yeah, like us can Yeah. A lot of the. A lot of the, okay, let me, this is a good point. [00:40:10] Uh, so in, in this version of the ai, uh, ai, okay, in this version of the AI cycle, a lot of [00:40:20] people are excited because LLM can automate some of the existing work people are doing.
+
+
+So it's, it's a, a lot about efficiency, [00:40:30] a lot about automation. But in, in generative media, we are actually more excited about net new behavior. We are not excited about automating [00:40:40] existing workflows, but, uh, something that's completely net new, like imagine you are describing video games to someone in 1950s, like it's gonna [00:40:50] be really hard to describe exactly what it is.
+
+
+You'll be sitting in front of a computer and it's gonna be a lot of fun, and you'll spend hours doing that. We believe generative media has [00:41:00] potential to create something even even bigger than that. And one of the. Changes in UU user behavior is consumption versus [00:41:10] creation. The way you consume content right now is, uh, maybe there's a difference between one to thousand.
+
+
+Like there is one [00:41:20] creator to thousand consumers, maybe it's 10,000 consumers. You are scrolling through Instagram, you're looking at photos that other people created. You go [00:41:30] watch Netflix, you're watching movies that other people created. And very rarely you are creating content yourself. But with generative media, we see a pattern [00:41:40] where this, this changes where people are just generating and consuming the content themselves.
+
+
+Um, even, even if they don't show the [00:41:50] content they created to anyone else, they just consume it for, for their on their own. Um, and I, I believe this is a very, very interesting [00:42:00] emerging behavior that's gonna. Change how we look at social media. That's gonna change how we spend time on our phones and TVs. Um, it's still [00:42:10] unclear how it's gonna shape up, but this is, this is very exciting for the, for the future of this technology.
+
+
+And will that be a day for [00:42:20] like, when creating videos with AI become as normal as we photos with our phones? Exactly. Yeah. So, and [00:42:30] like Burke also mentioned that is not yet, so like what kind, what kind of technical problems need solving to get there? [00:42:40] Um, yeah, I, I think people really want controllability of the [00:42:50] results.
+
+
+There is still a lot of randomness going on in the, in the generation process. And this is more true for video. Uh, people wanna be [00:43:00] able to edit. An existing video or edit a video created by AI more specifically. Once we can do that more [00:43:10] reliably, I think we are gonna hit a bigger user adoption. And like Berkeley also emphasized like, [00:43:20] move really fast.
+
+
+Mm-hmm. Like about, like could you, uh, has there been a moment in fall journey that truly embodied this philosophy? And also do you agree with that? [00:43:30] I mean, the industry moves incredibly fast. Almost like over a year ago we barely had any video models and [00:43:40] now we have a new one that's better than the other, every other two weeks.
+
+
+Like it's, it's crazy how fast the technology is improving and how all [00:43:50] these labs are competing with each other to, to generate even better and bigger video models. And as an inference platform, we have to be. On top [00:44:00] of all these technologies and make sure we su we support these new models as fast as possible and make sure that we adapt to, to the new [00:44:10] architectures that, uh, researchers come up with.
+
+
+Uh, then if you could rebuild the files, like technical architecture from scratch [00:44:20] today, like do you have anything to do differently? Good question.
+
+
+Um,[00:44:30] 
+
+
+I,
+
+
+let me,[00:44:40] 
+
+
+yeah. When, when we first, uh, built file, we, we spent [00:44:50] a lot of time building, uh, a deployment system where we can rapidly deploy many different models. And I would say at the time, [00:45:00] that was the wrong thing to do because there weren't actually that many models to be deployed. Uh, instead we should have just deployed a couple of them [00:45:10] manually and just like focus on the inference process, optimizing inference earlier than what we did.
+
+
+I think that's one of the things we did later. [00:45:20] We spent a lot of time on the flexible deployment system to deploy hundreds of models, but at the time there were only maybe, uh, 10 different [00:45:30] models that people really wanted to use. Uh, right now we are seeing the benefits of that deployment system, but it took maybe a year or a year and a [00:45:40] half for us to actually get to that point where we have hundreds of models on the platform.
+
+
+Uh, and you are the, like for the [00:45:50] flux model, like.
+
+
+'cause it is a, a little bit hard, like, hard, uh, [00:46:00] field for me. 'cause I'm used to that. Of course, of course I research, but sometimes No, you're asking great questions. Uh, [00:46:10] uh, yeah, I mean, like it, uh, you need [00:46:20] to rapidly adopt like mm-hmm. As AI research, while we ensure, while ensuring the stability and the reality.
+
+
+Yeah. Reliability. The enterprise clients like came by [00:46:30] and complexity, demand, like how do you balance this and like, do you have any specific framework or decision making criteria you could share? [00:46:40] Yeah, it's, it's very interesting. Once we support the model, we kind of have to support it for a very long time because, uh, let's say a, a bigger company adapts.[00:46:50] 
+
+
+Using that model. And they have a lot of users now, their users expect that type of output from the model. Um, so for [00:47:00] example, there are some six months, six month old video models that are still incredibly popular in the platform because there were some of the first video models that [00:47:10] were implemented, uh, by some of our bigger customers.
+
+
+And their users expect that type of output, and they keep, they, they keep using those models, [00:47:20] so we have to keep supporting them. Um, so that is, uh, an a very interesting side effect. You would think everyone's moving to the newest and best model. A lot of [00:47:30] that is happening, but, uh, somehow our more reliable customers, they are slow to move to the newest ones and they still use the old ones because their [00:47:40] users are, uh, expecting a certain type of output.
+
+
+So I have a few questions. Yeah, of course. I think you are a best storyteller, [00:47:50] and I, I feel this interview has been incredibly, incredibly insightful, but, uh, to make the, to make the video even more engaging. Yeah. Yeah. I love to ask [00:48:00] you a few follow up questions. So I, I think it seems incredibly difficult to succeed as an immigrant without any background.
+
+
+Mm-hmm. So [00:48:10] yet many, many founders in San Francisco are immigrants. So, uh, where do you, uh, where do you think that drive for success comes from and what advice would [00:48:20] you give the founders jumping into innovation without a background? I, I think that's a great question. Uh, maybe I didn't have enough courage when I graduated from [00:48:30] university to just move to San Francisco and start a company, but things did get easier with the O one Visa and a couple other [00:48:40] visas during that.
+
+
+10, 12 years since I graduated from college. So it is a lot easier for founders to just move to San Francisco and [00:48:50] figure things out for me, I had to follow the H one B process and then green card process that tied me to a single big company. And [00:49:00] that slowed down my entrepreneurial journey because I had to be tied down to the same big company.
+
+
+Uh, and there's a lot more resources these [00:49:10] days. There's a lot more help, uh, to, for, for immigrants to find jobs and, uh, visa opportunities at startups or as founders. [00:49:20] I would say it's slightly easier right now. And there's, as you said, so many people doing it in San Francisco that you can see a lot of similar [00:49:30] people around you and get inspired by them.
+
+
+Uh, when, when I had graduated this, this wasn't as common, so I would've been one of the few people. While doing it, [00:49:40] everyone was getting, uh, trying to get a job at a big company and get an H one B visa like that. Thank you. Then I'm curious, [00:49:50] you lived as a stable immigrant to working at Amazon for mm-hmm.
+
+
+Seven years, but, uh, then choose, then, then choose to become an unstable founder. Did your FA [00:50:00] family understand this decision? Um, my, my family, like, there's a saying in, in, in Turkey, I'm sure there's a version of this in [00:50:10] every culture. Uh, nowadays, if, if you are mom understands what you are doing at work, you are doing the wrong thing.
+
+
+So, [00:50:20] like, they, they don't really, uh, understand what I was getting into, but they, they trusted me and they, they said, okay. This is a one once in a lifetime [00:50:30] opportunity. You should, you should do it before you have kids and get married. Uh, and now is time. Now is the time to do it and go for it. Uh, my parents [00:50:40] are small business owners themselves.
+
+
+They worked for themselves most of their lives, so they do have the entrepreneurial spirit as well. Even though [00:50:50] they didn't fully understand what I was getting into, they, they supported my decision. Thank you. This question comes from my [00:51:00] curiosity around how the, how the definition and value of, of an MVP might be sectoring in the ai ai.
+
+
+Mm-hmm. So how, how [00:51:10] minimal should an MVP lil be and what will, what was Pars first version like? Yeah. Uh, I, I think AI markets are, [00:51:20] are incredible markets and the, the generative media is, is one of those things where that it can be. Monetized right away. In the previous [00:51:30] versions of, of internet businesses, people waited years and years to monetize their, their business.
+
+
+They first built a user base and [00:51:40] then maybe tried to monetize with subscription or ads. But with ai, people are willing to pay for it right away. So the, the [00:51:50] MVP you are building should, should be good enough for people to start paying and it is really easy to get signs if, if the revenue [00:52:00] numbers are increasing or not.
+
+
+Uh, I don't think this was true in the earlier internet products where a number of users and different engagement metrics mattered a [00:52:10] lot and monetization came later. But now monetization should be something a priority from day zero, and it's actually easier for the [00:52:20] founder to see if this is, uh. A, a good idea or if this is a good product by the revenue they're making from, from the first day.[00:52:30] 
+
+
+Thank you. Yeah. Uh, my next question is, from what I remember, the, there, there was a period in summer 2020 3, 23 [00:52:40] when the open source image ecosystem slowed down. Mm-hmm. Yeah. So could you explain that period? And she, she has like, something very, very similar. Yeah. Okay. [00:52:50] Well, cool. Yeah, we did. And I think he covered, yeah.
+
+
+Yeah, yeah. Yeah. And how, how did you navigate through it as a CTO Briefly, was was, [00:53:00] yeah. During, during that time. Yes. Yeah. Um, yeah. One, one thing we did during that time is we changed our pricing model from, uh, [00:53:10] output based, uh, from, okay. One thing we did during that time is we changed our pricing model from, uh, compute second based to output based.[00:53:20] 
+
+
+And that aligned incentives better with our users, where we were able to optimize inference and then still get awarded for it [00:53:30] while, while before as we optimized inference things were getting, uh, cheaper and our revenue was, was stable. And that coincided with, with that [00:53:40] period. So that pricing change was, was a good idea during that time.
+
+
+And then we discussed with my founder, if you should do LLM inference, and [00:53:50] we decided not to, we, we decided to stick to a smaller niche market and be a leader of, of this market, and then expand in the future [00:54:00] if necessary. Okay. Uh, this is my personal question, but Okay. I sometimes feel really embarrassed when decision I made [00:54:10] confidently in front of my team turn, turn out to be wrong.
+
+
+Mm-hmm. So have you, have you had a moment where you technical judgment as CTO. Was [00:54:20] completely off. And how did you acknowledge it to your team? Yeah, good question.[00:54:30] 
+
+
+Yeah, it's this, this is [00:54:40] actually something both, I wouldn't say this is a technical decision, but when we first launched in the first month, we saw, uh, [00:54:50] incredible growth and just bunch of strangers signing up from Stripe. And, uh, both Buca and I were really skeptical, oh, is this gonna [00:55:00] be fraud? How much of these users are gonna stick?
+
+
+Uh, we were really pessimistic about like the revenue, uh, stickiness in the first couple of months. [00:55:10] But, but turns out we were wrong. And, uh, these people actually stuck around and start using the product. That's one thing we were like really wrong about. Uh, [00:55:20] let me think. Others, I think this is a, this is a really good question.
+
+
+Um,[00:55:30] 
+
+
+yeah, I, so one, one other thing. When, when Google first announced their VO two [00:55:40] model, uh, we thought it was so much better than anything else that they would have the lead for maybe months. But again, we keep making the same [00:55:50] mistake when a new model comes out. We think it's gonna be the leader for many, many months, but the, the cycles are so short, the windows of opportunity are [00:56:00] tiny.
+
+
+Uh, within couple of weeks, uh, there were other models released that was better than VO two. And at the time that was a huge jump, but turns [00:56:10] out other researchers were working on even better models at the time. So the, the lead of of that model was, was tiny. And I thought that was like the most incredible thing [00:56:20] I've ever seen since then.
+
+
+Um, so I stopped making this mistake, though I don't, I don't, if there's a new model, I don't think they're gonna be the [00:56:30] leader forever from now on. Now I prepare myself that there's gonna be others who can do similar, uh, capabilities, similar quality of [00:56:40] model. So I prepare myself and the company for, for that feature.
+
+
+Thank you. Thank you for sharing that. Yeah. Yeah. And what was the most difficult change? Going from [00:56:50] six to 40 people? Yeah. Uh, okay.
+
+
+Yeah. [00:57:00] I, I would say the most difficult changes, um, I. With 40 people. I still try to do this, but it's getting much harder. I try to understand [00:57:10] what every person is working at. I, I, I'm, I'm trying to understand what every person is working on at any given [00:57:20] moment. I try to keep track of that in my head. It was very easier to do that when there were six people and it's now much, much harder, uh, when [00:57:30] it's, it's 40.
+
+
+We still try not to have, uh, middle management. We don't have any engineering managers or people who are [00:57:40] managing the go-to market team or anything. Uh, we have leaders in the team, but they're not, not managers. Um, so we, we will, we'll try to [00:57:50] keep that as long as we can do. 'cause one thing I didn't like working at a big company, there were many different layers of engineering managers who.[00:58:00] 
+
+
+They, they didn't know the product as well as the engineers, and they created extra bureaucracy to justify, uh, their salaries. Uh, that's the [00:58:10] culture that we don't wanna create at fall. So we are trying not to hire any engineering managers in time soon. One thing I wanna mention from [00:58:20] previously about niche markets, um, I think it's really valuable in, in the startup world to, to be a leader of, of something.
+
+
+[00:58:30] Uh, because once you establish yourself as a leader, you, you create brand value that is actually very hard to, very hard [00:58:40] to disrupt. So the being, being a leader, even in a small market, gives you that ad advantage of brand value that is really hard to [00:58:50] create. Otherwise, if you're the sixth, seventh, uh. Best player in a, in a much bigger market, you never get to build that brand awareness.
+
+
+But [00:59:00] if you're a leader, immediately, that brand awareness happens by itself. Uh, I would say that's one of the reasons why founders should first work on smaller niche [00:59:10] markets and because there are a lot of advantages like brand awareness that comes with it. Thank you. Uh, honestly, yeah. As [00:59:20] we are our startups, yeah.
+
+
+I'm working on growing our media team from one to a hundred in the US. Mm-hmm. But, but some, some, so [00:59:30] as someone who, who are still reading and reading a teaming not startup, I can't, I can't, I can't imagine how severe and meaningful it must feel [00:59:40] to see something new be to reach, uh, 1.5 billion. Mm-hmm. Yeah.
+
+
+Variation. So I, it might be a silly question, but how, how does it feel and [00:59:50] what thought and person do you, do you have. Yeah, I don't think the reality has, uh, you know, I don't think I fully understand the reality yet. [01:00:00] Uh, I still wake up as if we are, uh, a four person team every day with that excitement, with that willpower.
+
+
+And, you know, I, I show up [01:00:10] at work and I work just as hard as I did in those days. There's a lot more happening around me. There's a lot more customers. Uh, but [01:00:20] still it feels like a, a small startup. There are big, big numbers happening, but like, I try not to pay attention on, on the [01:00:30] number of zeroes and, you know, still do the same, same job that I did when the company was really small.
+
+
+Uh, just a, uh, [01:00:40] as a follow up question, so that your salary was probably the, your salary and green card was probably the goal, but mm-hmm. Now the company is [01:00:50] valued at unicorn. Uh, how has your perspective on money changed? I don't think it has changed. I didn't have much [01:01:00] time to think about it yet alone, um, actually do anything different, uh, in my life.
+
+
+With, with the, uh, new, new [01:01:10] valuation, it is now easier to build a more generational company with all these resources. I'm grateful for that. Uh, [01:01:20] now I can, we can go out there and hire, um, more talented engineers, researchers. We can build a bigger go to market team. [01:01:30] I think the valuation and the money raised has advantages that we created more leverage for ourselves, and now we can go out there and take [01:01:40] bigger bets, take more than one bet at the same time.
+
+
+And the market is growing really fast and it's good to have. [01:01:50] These resources behind us to, to take advantage of the grow growing market. And I'm also curious that, uh, lic, I, I think [01:02:00] Silicon Valley already talk about, talks about diversity, but was there, was there a moment when you felt you missed opportunity because of your different background or Yeah.
+
+
+How did you, [01:02:10] how did you break through and how did you meet your first investor? Yeah. Um, I, I don't think [01:02:20] I ever, like, by the time we started fall, we were in Silicon Valley for long enough that we had, uh, a friend group and [01:02:30] a network that were investors, other startup funders. I didn't feel like I was at a disadvantage.
+
+
+Um, yeah, there are some [01:02:40] other situations where founders go out of Stanford and maybe raise money easily, easily, things like that. But I would say we were pretty plugged in at the time. Um, [01:02:50] it wasn't that challenging for us to raise the first initial couple of rounds because we've spent so much time, uh, in Silicon Valley prior, both [01:03:00] Burke and I.
+
+
+Uh, but I understand how this, this might be a disadvantage if you move to Silicon Valley from another country if you didn't go to school here [01:03:10] and have not built the network necessary to, to meet the right people to, to, to raise money. Because when you're trying to raise money, references matter a [01:03:20] lot.
+
+
+The investor wants to be able to call five 60 different people that they know, that they also know you, and they wanna build that, that trust. [01:03:30] Uh, and if you, if you don't know anyone, if you don't have the network, it's, it's really hard to create that situation. So it really helps to spend long years [01:03:40] in Silicon Valley and build a network when it, when it comes to fundraising.
+
+
+Thank you. Yes. Uh, I think now, now that you [01:03:50] are, uh, you are, you are a CTO of a unicorn company. Mm-hmm. So do you feel responsibility as a role model for young engineer in Turkey or for other countries? [01:04:00] And is there something specific you'd like to tell them? Yeah, so, uh, I, I'm really proud that we, we have a lot of engineers [01:04:10] who were originally from Turkey.
+
+
+Some of them moved to San Francisco already. Some of them are in the, in the process of moving, and some of them [01:04:20] are back home. It is a proud moment to be one of the more, um, one of the fastest growing companies coming out of Turkey. [01:04:30] And we are, we are building a deeply technical product. Uh, so some of the smartest engineers in the country has been reaching out to me to, to work at fall.
+
+
+So it [01:04:40] is, it is really fulfilling and, and making me proud and I. I try to pay attention to the requests and make [01:04:50] sure I support all the young talented engineers back home. Thank you. And, uh, I, I'm, I want to ask about some of [01:05:00] advice. So these days achieving big milestone with smart teams seem, seem to be a trend more possible.
+
+
+Yeah. That means you need to [01:05:10] be more careful about hiring, so, mm-hmm. Yeah. What kind of people do you hire and what did you value most when hiring, hiring, hiring your first engineer? [01:05:20] Yeah. There is so much demand in the market for AI products or AI solutions that you can, with a small team, [01:05:30] create products that can sell really fast to even the biggest enterprises.
+
+
+So you can increase your revenue numbers a lot by, by a small team. [01:05:40] Uh, but that means you need to choose that small team very wisely, and you need to hire like-minded, hardworking people who are willing to, to build [01:05:50] products that are reliable and scale very fast to, to the needs of the biggest, biggest of the companies.
+
+
+This is, this is, [01:06:00] uh, this is my personal curiosity, but how are AI ever startup able to achieve recurring, uh, recurring revenue milestone and grow so quickly [01:06:10] both far and, uh, lovable? Yeah. Mm-hmm. Yeah. Experience? Yeah. Uh, I think there is a, a couple different AI products that are [01:06:20] growing really fast. Uh, and the, the common thing that they're all doing this is because they're building something the market really wants and people are willing to pay for [01:06:30] it.
+
+
+Uh, and. It, it breaks the business models of existing massive startup com startup companies. This, this is happening [01:06:40] with search, this is happening with, with coding where, um, now the users of these, these products can create things that was not [01:06:50] possible before, and they can do it very, very fast. So the adaptation is, is very fast and overnight people are willing to pay hundreds of dollars a month to [01:07:00] subscribe to these products and their, their revenue numbers increase like that.
+
+
+Yeah. Uh, thank you then. Yeah. Hmm. [01:07:10] Then what are the three most common mistake, technique or founder make you think? Yeah, I would say mistake number one, not [01:07:20] being involved in the sales process. Um, we took this very seriously in the beginning. A lot of our investors, advisors told us. Inference [01:07:30] products may not be sticky, APIs might have low switching costs.
+
+
+Um, so we, we took the, the sales organization and our [01:07:40] sales process really seriously to build relationship with relationships with big companies and get them on yearly spend commitments [01:07:50] so that the, the journey we have with them is, is longer. And, uh, as A-C-T-O-I was a big part of the sales process. And in, in the end, [01:08:00] looking back to it, I really had to be there.
+
+
+Uh, and I recommend the same for all CTOs to be part of the sales process. Uh, otherwise, [01:08:10] um, it doesn't work. It's one of the most important things your company can do, and you, you, you have to make sure to be there. Yeah. I think [01:08:20] this question is, this is a follow up to what you just shared. Mm-hmm. But, uh, um, yeah, yeah, kind of.
+
+
+A funny question, but [01:08:30] how, how do you find the signal that people are actually related to pay? So I think only stage founders who are commenting our [01:08:40] videos mm-hmm. Would definitely be curious about this. Yeah. Yeah. Um, I, I think there are two things happening with ai. Um, people are willing to [01:08:50] pay, but there are questions about the quality of that revenue or how durable that revenue is going to be.
+
+
+Uh, and in the early, [01:09:00] like in the early years of, of this, this revolution, people thought the quality of the revenue, people assume the quality of the revenue is gonna be low. And this [01:09:10] is just experimentation budgets. People are gonna move on, but turns out people are sticking around and people are actually getting value in [01:09:20] return.
+
+
+This is true for, uh, LLM products. This is true for generated media products. People are actually. Getting the return for [01:09:30] the money that they're paying and they're sticking around. And the churn in these products are actually not that high, and the revenues keep increasing in all layers [01:09:40] of the stack. GPU providers are making money, inference providers are making money, and products are making money.
+
+
+And the model researchers, [01:09:50] research companies are making money. So the all different layers of the stack is, is actually getting value at the same time. Thank you. Yeah. And I [01:10:00] think the question is, might be similar to the Christian she asked earlier. Mm-hmm. If you were to start over, what would you do, uh, differently [01:10:10] in the first three months?
+
+
+Okay. Let me think again, uh, to say something a little different.[01:10:20] [01:10:30] 
+
+
+Um, I, when, when we, when we started, we, we did it [01:10:40] quietly in the sense that we worked with just a couple customers, um, on the side and made sure they were successful before we [01:10:50] announced the, the, the product and the project to the rest of the world. Um, I don't know. These days people seem to be. [01:11:00] Doing big announcements and then getting as many users as possible and then iterating on it.
+
+
+It seems to be working. So that's maybe one of the [01:11:10] things we could have, we could have done differently. We could have done a big announcement in the beginning, even if the product is not actually the Exactly. There, [01:11:20] get, get the users, get the attention, and then build the promise product. We did the opposite.
+
+
+We built the product more quietly and then try to [01:11:30] make sure everyone else knows about it. Uh, but people seem to be doing the opposite, and maybe nowadays it works better, but that's something we didn't do. [01:11:40] Yeah. Then I'm wondering that, um, technically product or versus first past first launch, uh, [01:11:50] which did, which did you choose and what was the region?
+
+
+Can you repeat the question? Uh, technical, technically perfect product. Yeah. [01:12:00] A fast launch. Yeah, yeah, yeah. We, we cared about technical perfection more than getting users. We, we [01:12:10] decided, like benchmarks, making sure, like we are always ranked very high on it. If we are not ranked high, let's make sure we don't actually [01:12:20] launch this before we, we can get the, the speed as fast as possible.
+
+
+We also made sure we didn't announce any adjacent products [01:12:30] before. Everything was super polished. We thought every piece of software we released gives an idea to the user about our company, and we want [01:12:40] to, to make sure everything was fast and reliable from, from day zero. So we were perfectionists in the beginning.
+
+
+Um, I think it worked, it worked well, [01:12:50] but I, I, I can see the other side too, doing a big splash in the beginning and just figuring things along the way. Thank you. And my last [01:13:00] question is, what was the most difficult question during your fundraiser? Difficult question. During fundraising, I, I, I think that the, the most [01:13:10] difficult question is always, um, about the quality of the revenue.
+
+
+In the beginning, uh, it was really hard to [01:13:20] convince people that generative media at the time, image models were gonna be a big industry on its own, that enterprise use cases [01:13:30] are gonna emerge. And some, some big retailers, some big e-commerce companies, uh, are gonna eventually add this to their products.
+
+
+That was the [01:13:40] biggest question because it's, it's hard to imagine for investors how these models are gonna improve over years and how fast that's gonna be. And that required [01:13:50] a lot of convincing at the time. And, and one other thing I would add to that, uh, there were a lot of. Inference players that were raising money at the [01:14:00] same time.
+
+
+Uh, and there was a lot of noise in the market. This word inference was, uh, used a lot, but we all did something slightly different. [01:14:10] A lot of them, uh, focused on their lamb market, but that difference wasn't very clear to investors. Investors thought, okay, inference market is one [01:14:20] big market. And we tried to convince them look like people who are buying lambs are very different than who people who are gonna be buying image and video models.
+
+
+And [01:14:30] that, that difference took a lot of convincing because we didn't have a lot of metrics that we can point to. It was very early stages of the market[01:14:40] 
+
+
+question. Do you have any question? I have one. Yeah. [01:14:50] Good. So the, uh, you started by focusing on a niche. Mm-hmm. But it grows bigger now. Mm-hmm. So what made you believe [01:15:00] early on that this niche market would grow so rapidly? And was, was there a particular moment? What, um, when you thought this is bigger than just a niche?
+
+
+[01:15:10] Yeah, of course. Um, what convinced us is the rate of improvement for the models. And with each incremental, [01:15:20] uh, model release, things were getting a lot better. And this was happening in a very short period of time. Uh, and we knew [01:15:30] people were gonna be spending more money, researchers were gonna come up with better techniques, and we weren't hitting a point where the quality of the [01:15:40] models were plateauing.
+
+
+Um, so we decided as, as long as we see things slowing down, we are just gonna assume that it's gonna keep [01:15:50] improving, and eventually this is gonna be so useful. That all these big industries are gonna find use cases for it. And we just trusted that the models are [01:16:00] gonna, we're gonna keep getting better. And, um, burka mentioned you experienced, uh, you, uh, fall experienced incredibly [01:16:10] fast growth last year mm-hmm.
+
+
+After, uh, finding PMF. Yes. So could you share specifically how that growth happened and what triggered [01:16:20] such rapid scaling? Yeah. Uh, I would say, um, okay. Um, we, we, the, the first month that we [01:16:30] grew a lot was last year in August. And that coincides with the release of, uh, the Flexx open source flux model. [01:16:40] Um, and one of the reasons was the, the model was a lot better than the, the previous versions of, of open models.
+
+
+And also it was a [01:16:50] lot bigger. So it required a lot more compute to run. But so therefore it was more expensive than the previous versions, but it was a lot more useful for companies [01:17:00] building on the technology that it actually ended up being used a lot more than the cheaper models. Uh, and then, uh, that went [01:17:10] on for a couple months, and that's like by the end of October maybe, is when video models really started, uh, to, to appear.
+
+
+And we [01:17:20] started getting some video model revenue and really, like it started overtaking image model revenue around February, March of this [01:17:30] year. Uh, even though it's the number of videos generated is, is a lot less than number of images generated, it's a lot more expensive to generate a single [01:17:40] video that it's now majority of our revenue.
+
+
+And that was all net new. We didn't have any video revenue before. Now it took over, uh, the existing biggest product, which [01:17:50] was, uh, image inference. So were there any challenges along the way? Um, yeah. I mean there, there are challenges. [01:18:00] Video models are a lot more expensive to run and a lot harder to run as well.
+
+
+It requires more GPUs. It requires [01:18:10] multiple GPUs at the same time. Uh, we, we had to adapt to newer version of chips B two hundreds earlier than anyone else in the industry because [01:18:20] we were running video models and, uh, B two hundreds were efficient to run them economically. So, uh, that was, uh, a big period of r [01:18:30] and d that we experienced when we moved, uh, some video model inference traffic to the new version of, uh, Nvidia chips that were B two [01:18:40] hundreds.
+
+
+Thank you. Yeah. Oh, yes. I got one question. Of course. Uh, I [01:18:50] apologize, your. It was really astonishing that from Turkey to United States Best College mm-hmm. To top tech company [01:19:00] and even to the startup, you are the one who, who has experienced all the zero to 1.5 billion processes. Yeah. [01:19:10] And I guess that from zero to one, to one to 10 to 10 to a hundred, uh, for the ag stages, I guess the [01:19:20] role and the growth of yourself must be different mm-hmm.
+
+
+For the IT stages as company grows. Yeah. And have you ever [01:19:30] felt that your growth has kind of got stagnated? And if you have that experience, uh, how did you overcome that and do you have any ex [01:19:40] uh, advice for the young entrepreneurs who are considering. Like, why not? Why am I not going? Yeah. In the, in the [01:19:50] AI market, my advice is if you think something's not happening for a couple weeks, just wait another couple weeks and something big is gonna happen.
+
+
+[01:20:00] That's been the pattern so far. Um, there is, because of these new model releases, there are new windows of [01:20:10] opportunity with every, every model, each model creates some new capability that unlocks a new use case or makes something possible that wasn't [01:20:20] possible before. Just for that time. We therefore creates a small new window for a small team, a small startup, to come in and [01:20:30] create value.
+
+
+And I would say there is six, seven of these windows appearing every, every year for the past two and a half years. Uh, so startups [01:20:40] can observe and. See what new capabilities are emerging with e each model release and really take advantage of those short [01:20:50] windows. Uh, this, this was not true before because things weren't changing as fast.
+
+
+There weren't new model releases. So now this is [01:21:00] a really good environment for startups to emerge because each year there's these windows that they can actually take advantage. [01:21:10] Yeah. And so we have like two more questions. Okay. Like, I forgot to ask about the dev first demo of, of files. [01:21:20] Yeah. 'cause I heard that the demo received a great response.
+
+
+Mm-hmm. So what key lessons, like, could you explain what the demo is and what lessons did you Yeah. So, uh, when, [01:21:30] when we first launched fall, we really wanted to showcase. The speed and the technical capabilities of the, of the product. Um, [01:21:40] so we built these demos that were not necessarily useful for industry, but it was good at showing how fast we can run inference.
+
+
+Uh, and it went [01:21:50] viral a couple times on x, on Hacker News on Reddit. Uh, but it was a really good way to, to show the technical capabilities because we [01:22:00] built something and gave it to, to people to play with it, and they were able to experience it themselves rather than a video or just like technical [01:22:10] report.
+
+
+We built a toy product for people to play with. So it was really impressive to them. Hmm. And one last question is the, like [01:22:20] ADE has emphasized the importance of team. Mm-hmm. So like throughout your journey, like do you have any specific moments when you truly feel like, oh, I need [01:22:30] really team, and this team is so.
+
+
+Precious for me. So like, could you share any success? Yeah, I feel like that every day. Uh, I'm still really, really proud [01:22:40] of, uh, our early founding engineers. All of them are still working with us. Um, I'm lucky to be working with them every day and [01:22:50] they, they truly own a piece of the product. Uh, and they grew with the company as well.
+
+
+They added new skills, they [01:23:00] added new, new capabilities to their own work. And, uh, I can, I can see that they're really excited about the space as well. Um, so yeah, I [01:23:10] feel very lucky every day to be working with them. Okay. So this is the end of questions. Like, do you have any questions for, to, no. Okay. [01:23:20] Do you have any, some comments or anything that I want, I wanna do?
+
+
+Um, let me think. No, I think the, [01:23:30] I. I, I had like couple talking points that I was able to put it in. Uh, so I'm happy. Yeah. Okay. So we are also happy. How, how, how do you think it was good? Yeah. It, yes. Yeah. It [01:23:40] cobo everything. All right. Awesome. Awesome. Yes. Thank you. Thank you.

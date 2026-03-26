@@ -1,0 +1,1026 @@
+﻿Prepared_full
+Prepared_full
+===
+
+
+[00:00:00] [00:00:10] [00:00:20] Yeah, just testing. Testing.[00:00:30] 
+
+
+All right, well you need, you need the thing. Cool. [00:00:40] Hi. Hello. Uh, first of all, could you introduce yourself and tell us walk prepared? Yes. So I'm Michael Chime. I'm one of the [00:00:50] co-founders and the CEO. Um, and you can think of prepared as a. AI assistant on top of 9 1 1 calls, that helps them process the calls better, faster, with higher quality.
+
+
+[00:01:00] Um, yeah, that's what we do. So what is Preferred's core mission? Yeah, so I, I think if you zoom all the way out, we, um, our, our [00:01:10] long-term goal would be that every time somebody calls 9 1 1, that, you know, kind of the, the city's response to that call is perfect. And that, um, you know, I, I'll [00:01:20] commonly say internally that I would love the mission to be that there's never an emergency ever, right?
+
+
+That, that you never have bad situations. Um, I think that is unlikely to [00:01:30] be true. Right now. You're probably still gonna have cardiac arrest and accidents will happen. So then the question is, what are we to do? Um, I think we can hold the line and say, okay, when somebody has [00:01:40] that situation, how do we hold a really high bar and make sure that we use whatever technology possible to try to, uh, make that the best possible response.
+
+
+So. [00:01:50] Then what specific problem are, uh, are you solving for? Yeah, that's changed a lot over time, I think right now. So maybe the counter [00:02:00] question is what keeps us from a perfect response? Um, and we like to think of ourselves as technologists that sit next to our customers, identify [00:02:10] problems, and then just rapidly solve those things.
+
+
+So when I first started working on the company, um, this was pre ai. This is about six years ago. Uh, [00:02:20] our product actually first started as an app for schools. And I can tell the full story of my background, but you know, I had grown up in a town right outside of where there was an active shooter event in 2012.
+
+
+Um, [00:02:30] and so I saw firsthand how emergencies can impact communities. And one of the big challenges was you, it was very hard to communicate an emergency, um, because you would use things like a [00:02:40] walkie-talkie or a PA system that wasn't set up for fast communication. So we built this app that would utilize your phone, which is very good at communication.
+
+
+And anyway, so in doing that work, we'd [00:02:50] wanna share data to 9 1 1 centers. Things like if you saw somebody on site that you didn't recognize, you'd take a picture. But what I realized is that that simple idea, sharing a [00:03:00] picture to somebody in emergency, that the current 9 1 1 systems weren't set up to do that.
+
+
+So, you know, I started knocking on the door of 9 1 1 centers and I said, Hey, I have all this data. I think it's lifesaving. I'd love to share it [00:03:10] with you. How do I do that? And they'd kind of sit me down and be like, Hey kid, I think you are pulling lifesaving data, but no way I can take that in. I'm like, what do you mean?
+
+
+And they'd show me their systems. Um, I don't think many people know [00:03:20] this, but still today, most of the 9 1 1 centers are using technology built on the assumption those calls are lins, uh, that all of their calls are coming from just a landline device. [00:03:30] And so we have so much data and information that's not getting through.
+
+
+There's 250 million 9 1 1 calls a year. 90% of them are from mobile devices. That means, you know, um, [00:03:40] hundreds of millions of calls every year are leaving lifesaving data on the table. So the first problem we attempted to solve was that how do we make sure that when we call, uh, the systems are intelligent enough to [00:03:50] take that information in Things like pictures, videos, text, et cetera.
+
+
+Um, so that was our first problem. Now it's evolved to basically saying, how do we use technology to look at all the [00:04:00] gaps in the emergency process and fill them, um, and move them faster? And I could talk more about this, but yeah, that's kind of how we, yeah. So before we heard, uh, the, the sending [00:04:10] picture doesn't exist.
+
+
+Yeah. So, so, so I, there there's been, and this kind of a tangent, long conversation, but there, there's been talk of this, um, and um, [00:04:20] discussion at a federal level. You know, this, this idea of next gen 9 1 1. Which is essentially creating the infrastructure and the technology with 9 1 1 centers so that they could receive this [00:04:30] information.
+
+
+But for decades it's been talked about, but there's been no, um, uh, real push. It hasn't, it hasn't gone through. And so yes, that's true is that most of the technology today in centers [00:04:40] is really antiquated. Um, and as decades old. And, um, so pre us and still today, a lot of centers that don't have prepared or, or new tools are [00:04:50] unable to take any of that information in.
+
+
+Um, yeah. So then, uh, can you share some key metrics that show, um, [00:05:00] current scale and such as like how many states you're active in or how many people you're working, or how much do you waste? So far, yes. We're, uh, just under [00:05:10] 120 people. Uh, we've raised just under 150 million in funding. Uh, and we are in all but one state, I think.
+
+
+So 49 [00:05:20] states, we cover about a hundred million in population. That, that's huge. Yeah. It's been awesome. So what, um, uh, you mentioned and um, can you walk [00:05:30] us through how prepared works in Yeah. An E Life step by step? Yeah, yeah, yeah. So, um, and tell me too, if it would be helpful to just give the context on the story.
+
+
+We'll [00:05:40] get to that later. Okay. So, and I think it'll start to hit on how the product works and how that's evolved over time. Um, but like I said, I started working on it like six years ago. Uh, it was an undergrad at Yale of all [00:05:50] things. So people are like, why are you building in public safety? That's a unique life choice.
+
+
+Uh, and so I start there, um, I tell the story, I was always passionate about the space. I grew up in a town where there was nap street event right [00:06:00] outside of it. Um, and realized through that work that they were unable to share pictures and videos. And so the first thing that we did was allow centers through our software to take [00:06:10] that information in.
+
+
+So if you're using prepared, you're typically a call taker. So call comes in, you're handling the call. The first thing we do is allow you to get [00:06:20] information from the caller that otherwise they wouldn't be able to share. But on the backend, what we're doing is we're sitting next to that call taker and acting really as a co-pilot.
+
+
+So, um, [00:06:30] helping them process information faster and better, or filling in gaps. So an example of that would be, as you are speaking on the phone, as the caller, we're transcribing the entire call. Um, [00:06:40] if you don't speak English, we'll translate that call. Um, this is something that's not widely known, but if you don't speak English and call 9 1 1, you get a dramatically different service [00:06:50] than if you do speak English.
+
+
+Often, you're dependent on a human interpreter and you have to wait until that person joins. And sometimes that's on a nine one one call could be three, four, [00:07:00] eight minutes that you're waiting on the line. Um, with prepared that time is zero. We instantly translate it, we transcribe, translate it, and we have an AI translator that can speak back [00:07:10] to the caller in their native language.
+
+
+So we bring that down to zero. We also summarize the entire call. And so instead of, um, that operator having to both focus on the [00:07:20] caller and take notes, which Ms. Key details, RA, I will summarize that in its entirety, and that's the notes that will go out to the responders. So the responders have a really comprehensive [00:07:30] set of information, you know, they know what they're getting into, um, some other things that we do.
+
+
+So the product does a lot. So, um, you know, another thing that we noticed, so we launched our [00:07:40] transcription tool, uh, in large cities roughly 18 months ago. So places like Nashville, Baltimore, Vegas, or Pro, you know, every single call is being processed through our system. What [00:07:50] we saw was, you know, um, a good deal of that traffic actually turned out to be non-emergent.
+
+
+So things like noise complaints, parking tickets, um, it was [00:08:00] roughly 40 to 60% of the traffic. And, you know, today, 9 1 1 centers are facing a real staffing crisis. It's very hard for them to hire new call takers. And those [00:08:10] non-emergency calls really hold up the lines, right? So you will have, like in LA today, um, they've on average 40 plus minute, uh, hold time on non-emergency calls.
+
+
+So they're just unable to get to them [00:08:20] 'cause they're so focused on the 9 1 1 calls. What we're now doing is we have AI voice, uh, agent that's going in and handling those calls end to end. So now we're answering them. Um, we'll process them [00:08:30] entirely, we'll put them into their systems, we'll handle it for the citizen.
+
+
+And now you don't have to have people focus on it. They can focus on, uh, the emergency calls. So we use AI to take work off their plate [00:08:40] or fill in gaps like language translation to help them process it better or faster. So, um, like. And why, why did you choose to [00:08:50] build, uh, that on top of existing infrastructure instead of like replacing it?
+
+
+Yeah, it's a good question. I think that, um, so, you know, uh, [00:09:00] when I first walked into a 9 1 1 center, uh, I thought, so. I, I remember, yeah, like, so I remember we were, we were trying to share the data from the schools, right? And I remember, you know, kind [00:09:10] of talking to a 9 1 1 center for the first time and they were about to walk me through the center.
+
+
+And I naively thought I was about to see the best technology in the world, that it was gonna be like mission critical, military [00:09:20] stuff. Um, and you know, when I tell folks that, uh, a lot of folks will nod their head and say, yeah, that makes sense. Of course it's gonna be the best technology in the world.
+
+
+Wouldn't that, you know, the places where it [00:09:30] matters most is, of course it's gonna have the best technology, but yet it's not true. You have decades old tools. And so why do I bring that up? Um. I think that, uh, you know, kind of everyone is aligned [00:09:40] on, we should have the best technology in, in emergency settings, right?
+
+
+That it makes sense, save lives, but yet it hasn't happened. The, the, so there's all these constraints, but it's not people, it's not sentiment. People [00:09:50] want to see better. Um, those constraints are often you have these legacy tools and they're very hard and risky and arduous to pull out, right? And so for a long time, [00:10:00] decades, people have tried to pull out those systems without real success.
+
+
+Um, so for us it was like, okay, hey, if we haven't seen success ripping out legacy [00:10:10] infrastructure, we still have calls today that are coming in and, you know, uh, non-English, right? And we should solve it today. We shouldn't wait 10 years to go and solve that problem. Um, [00:10:20] so we thought the best, you know, kind of most, um, speedy way to start making progress was integrating with the systems as opposed to ripping them out.
+
+
+And, um, [00:10:30] let's start, uh, the where it all begins. Yeah. Um, what were you, uh, like as a child and what did you wanna be when you grow up? [00:10:40] Oof. Um, yeah, what was I like as a kid? Um, so I grew up in small town outside of Cleveland. Um, you know, uh, [00:10:50] both my parents super supportive. I played sports as a kid, so I played football all the way through college.
+
+
+And so I would say I was always very competitive and had [00:11:00] fun doing stuff like that. Um, I, uh, you know, um, can you ask the question again? Sorry. Oh, yeah. I was curious about where, where, where [00:11:10] did you grew up and Yeah. So wanna do, yeah. What I want to do, um, I think I wanted to play sports after college, right?
+
+
+That, um, I was always naturally drawn towards [00:11:20] things that were challenging to do and felt important. Uh, and so sports was the best way for me to, to do that. Um, and I thought that all through, through college, um, I kind of [00:11:30] landed into technology and startups just by, you know, again. Seeing that emergency happen in my community as a kid.
+
+
+And then I met two co-founders that had a very [00:11:40] similar experience, and we didn't think we would build a company. We just thought we would build this simple tool schools would use in college, and then we would go off and do whatever our jobs, et cetera, after. So, um, [00:11:50] yeah, I, I, it's, it's funny, I hadn't thought about this that much.
+
+
+Like I've just only done the company. That's my first job and only job. And so, um, I probably would've played sports or just taken a fang job after school. [00:12:00] That's probably what I would've done. And, um, I like to ask more about the tragedy that started, yeah, that started all, and what do you remember most [00:12:10] vividly about the, the shooting experie and how it affected you personally?
+
+
+So, thankfully I wasn't in the school. Um, my town [00:12:20] borders the town where the emergency happened. Um, but both towns are very small and so, like I knew of some of the kids I had like, run around in circles where they were close. And so just, um. [00:12:30] You know, uh, seeing that happen in a place where you actually knew the people, um, it, I think it really hit home.
+
+
+Uh, and so I, I, I also say, you know, as I was growing [00:12:40] up, active shooter events, school shootings were something you just thought about. And that, and that was different from my parents' generation, right? When you were, you're doing active shooter drills every couple of months, et cetera. It was like, [00:12:50] I, I was acutely aware that, uh, I might not be safe simply going to school.
+
+
+And so I thought about the idea of safety all throughout, um, my childhood. Um, [00:13:00] and you know, Dylan and Neil, my two co-founders grew up in a very similar environment. They, and the town over from them was Sandy Hook. And so they both grew up in Connecticut. And so I think just generally [00:13:10] speaking, we, um, thought about it more as kids and then had two scenarios where they were close to us.
+
+
+So when that, um, tragedy happens, [00:13:20] what, what emotions did you feel like Yeah. Moment? Was there, um, yes. Was there something, a moment from that? [00:13:30] Yeah, a hundred percent. I think when something happens like that close to you, it becomes more real. You know, I think, um, when you see stuff on the news and it's happening so often, you [00:13:40] can almost become desensitized to it.
+
+
+You're like, okay, that's just the norm. I think when you see, you know, pictures of people that you actually have met and they were impacted by it, [00:13:50] um, it's just like, oh wow. This is a real thing. It impacts real families. And so, um, and, and as a young kid, right, I was 12 when this happened, and so like, [00:14:00] um, you just recognize like, hey, safety is something that's not a given, right?
+
+
+That, um, emergencies could happen and they could impact people you actually know or you, right? And, [00:14:10] um, I think this kind of, that was, you know, in the back of my head, it was a thought that I had all throughout my childhood. And then when I went to college, um, and was actually able to [00:14:20] start building things, it was the first thing I thought to start working on was, um, how do we improve this?
+
+
+How do we make things safer? Yeah. So is this your first [00:14:30] product then? Yeah, so our first product was an app for schools. So, um, uh, got to college, met Dylan and Neil. Um, and [00:14:40] again, all of us kind. There was this ground swell of like, let's do something. This is also like, you know, when we were in high school, March for Our Lives was at its peak.
+
+
+So right after high school going into college, I started building first product was [00:14:50] simply schools could communicate emergencies better. So the problem there was, you know, you look at emergencies like say Parkland, right? Um, for, for most of that [00:15:00] emergency communication was a real issue. Um, the fire alarms go off.
+
+
+People didn't know that, um, there was someone on site. So they actually went in the hallways. They hadn't locked down yet. So it's a six minute emergency, [00:15:10] of which half of the time people didn't know that there was someone on site. Um, so simple communication problem, and the challenge was, is that they were using their day-to-day communication [00:15:20] tools to try to get the word out.
+
+
+So you'd have to go to a PA system or, you know, grab a walkie-talkie and only a few people had. And so our first product was just, Hey, why don't we use our phone to better [00:15:30] communicate? We use it every day. It's quite good at communication. Um, and so that was the first product and we had a couple hundred schools across the country launch that solution.
+
+
+Um, and that's how we got [00:15:40] into 9 1 1 was schools would, you know, say they were running a drill, right? They would take a picture of something on site and then they'd wanna share it to 9 1 1, right? Because 9 1 1 would respond to that [00:15:50] situation and they would find out we can't share this. Uh, and so that's how we got our start.
+
+
+And, um, I, I'm just curious, was, was when, when Charlie [00:16:00] shooting or shooting? Yeah. Uh, was there someone close to you who was directly affected or other than people? No, I just knew, like, I had like, not knew them [00:16:10] intimately, but I had like, uh, met some of them. And, um, it was more the idea like, so like my school locked down right in that emerge.
+
+
+'cause they didn't know if he was gonna, you know, go off site and they hadn't [00:16:20] caught him for a while. And so it was more the idea like, oh, this is real and could happen to. Um, people that I knew, or even me in that scenario. So, but I didn't know anyone directly. Yeah. [00:16:30] And um, and can you explain, uh, more about like what that shooting must be, because people who watched our, [00:16:40] uh, video maybe don't know what that, uh, tragedy was.
+
+
+Tragedy. And so could you explain that? Yeah. Um, not in [00:16:50] tremendous detail just 'cause it was so long ago, but, but it was an active shooter event in I think 2013 when I was 12. So, um, I was in third grade I think, [00:17:00] and I, someone came on site and brought a weapon, um, shot students, uh, and I think there were four, uh, people that passed away.
+
+
+And [00:17:10] my school, so Chardon was the local town, or it was the adjacent town to me. I was in Concord and, um, my school locked down because it was so close. Uh, [00:17:20] we didn't know what was happening. We didn't know what was going on. Uh, we just knew there was. Emergency. And so we locked down and you know, like as a kid, you're like, oh my goodness, this is not a drill.
+
+
+And the the teachers are actually [00:17:30] nervous, um, becomes real quickly that, uh, you know, you're not always safe. So, um, yeah. So, um, [00:17:40] and, and, and you and your co-founders, um, can you, uh, tell us how their, how you guys' personal [00:17:50] experiences evolved into a shared mission? Yeah, so I think I first started to think about my own personal safety at that event, right?[00:18:00] 
+
+
+Um, I think as a kid you grow, and I, and I grew up in an awesome family where, um, my, both my parents were super supportive. The town was safe. Uh, I don't think pre [00:18:10] that event I ever really thought about safety or the idea that I wouldn't be safe. I was just like, oh, I'll go play with my friends and it'll be great.
+
+
+And so, um. At that moment, I was like, oh no, [00:18:20] like this is something real. Like I'd seen it on TV and had heard of emergencies that were happening, and obviously they're happening more frequently. But, um, ever since that point, I thought about it more. [00:18:30] The next time that we did a lockdown drill, I questioned, wait, is this one real right?
+
+
+Um, so it was always in the back of my head. Then when I went to high school and was thinking about these things [00:18:40] more, I mentioned Mark March for Our Lives is at, its at its peak. And so our generation was really starting to take a stand and say, Hey, this is not so great. We, we, we should, we should change things [00:18:50] here.
+
+
+Uh, and that was compelling and exciting to me. Um, I think I started to connect the kind of like experience to the idea that I might be able to impact it and [00:19:00] change it because I saw people that were my age actually going in and doing that. Um, and I brought that to college with me and, and I had always, like I mentioned, wanted to do something important, wanted to work on things that were [00:19:10] valuable.
+
+
+I wasn't so excited about just the normal doctor lawyer fang track that every kid was going. So I was in college looking for stuff that I felt was important. I met, uh, [00:19:20] two classmates that turned out to be co-founders later, Dylan and Neil, and they shared that experience. So I mentioned Dylan and Neil grew up in Connecticut.
+
+
+Uh, and they speak often about [00:19:30] the, a similar, um, the Sandy Hook had a similar impact on them where they were like, oh my goodness. Like this is my, this is a community very close to me in my same state. Um, what does that [00:19:40] mean for me? Am I safe? And then March for Our Lives had a very similar impact on them.
+
+
+And so we got to college, we were, there was just like groundswell of let's do something. Uh, and that's why we built that simple app [00:19:50] for schools. It was not entirely ambitious. It was just, uh, Hey, let's build this thing and schools are gonna communicate better and that sounds great for the world. And we [00:20:00] built it and launched it and we saw hundreds of schools adopt it.
+
+
+Right. And then, um, our current work has kind of, you know, come as a product of that initial schools app. Right. You know, [00:20:10] that as schools were using it and interacting with it, um. They just couldn't share the information to emergency services. And that felt like such a gap. You know, I started to think about, well, [00:20:20] if I'm in emergency, uh, and I need help, wait, that's crazy that I couldn't share the information that would actually help me get the help, um, to the people that are gonna help me.
+
+
+So, [00:20:30] uh, I think that's kind of how it all came together. So, so why, why do you think it had to be you? Oh, I don't know if I ever thought it had to be me. I guess I still [00:20:40] think it doesn't necessarily have to be me. I, I, I think that, uh, you know, um, I talk to her team a lot about this. I think that that, [00:20:50] you know, one of the most compelling reasons to work on the company is we legitimately believe if we didn't do the work, it wouldn't get done.
+
+
+Um, and I would say most days it feels [00:21:00] quite uncomfortable. It's, uh, I, I, I did not come out of a dorm room ready to build a company, and so most of the day is doing things that you, you [00:21:10] haven't done before, but you have to. Quickly, you have to learn really, really fast. And so a lot of days I think, oh my goodness, why me?
+
+
+As opposed to, it has to be me. Um, [00:21:20] but, um, it does seem true that if we just stop tomorrow, uh, the world would be less safe. Um, that the technology would likely kind of fall back into the status quo of [00:21:30] being okay with decay, being okay with the anti that the technology would stagnate. And the result of that would mean everyday lost lives.
+
+
+And I don't feel okay with that. I [00:21:40] want us to get to better technology. And, you know, I also say that our work seems to be, I'm the bias founder, but like our, our, our work seems to be raising the temperature of the [00:21:50] space. And so, you know, as we go out and launch new things that the space hasn't seen before, so too are the big companies, which is also great.
+
+
+Right? I tell the team a lot too, that, you know, like, look, if [00:22:00] we build things and then they get mass distributed by somebody else and it saves millions of lives, that's freaking great too, right? And, and in our work will be, you know, super successful. Even if somebody else does it on [00:22:10] our backs, that that's amazing for the world.
+
+
+Uh, and so, um, yeah, it just feels like we have to do it less, that it has to be me. Yeah. [00:22:20] And, um, and I wanna hear more about your, like, dropping out Uhhuh. Yeah. You didn't plan to drop out. I didn't. No. So what made you, [00:22:30] why did you take it? Yeah. Um, I, I, I often say that if COVID didn't happen, I may not have started the company.
+
+
+So, uh, this [00:22:40] was my, so we had launched the schools that my freshman year, or like, we were building it my freshman year, my junior year. Um, we had a couple hundred schools that were on the platform. Uh, [00:22:50] but I likely would've just taken the job after college if it weren't for COVID. So COVID happened, uh, first K through 12 goes outta session, so can't work with schools.
+
+
+Uh, in my [00:23:00] entire, what was gonna be senior class at Yale was like taking the year off school. So I'm like, okay, I guess I'll do that too. And I took the year off. That's when I applied and did the teal fellowship. So I was going to take the year off anyway, the pitch [00:23:10] to my parents who did not like the idea of me doing the fellowship at all, my mom actually hated it.
+
+
+Um, my pitch to mom was like, Hey, like I'm going to take the year off anyway. Uh, I might as well get [00:23:20] funded and actually work on something instead of just coming home and hanging out with you guys. Uh, and this work probably is important and matters. I'll take the year off. And she's like, okay, fine. Take the year off.
+
+
+And so I did the [00:23:30] fellowship and it was in that year where a lot of the interesting problems that we're solving today bubbled up. So this is when we would go back to schools and basically say, Hey, what more can we do for you? Uh, 'cause you're [00:23:40] out, right? And they would come and they'd say, well, if we did have an emergency, there's all this data we'd love to share with 9 1 1.
+
+
+And they're obviously still up, they're still taking calls. Why don't you go and talk to them? Uh, and [00:23:50] so this is when I just started knocking on the door of 9 1 1 centers and I would say, Hey, you know, I work with the school. They have all this information that they wanna share. I have all this data. I think it's lifesaving pictures, videos, texts.[00:24:00] 
+
+
+Um, I just wanna give it to you. What's the next step? Uh, and this is when they'd kind of sit me down. The schools or the, the 9 1 1 centers would be like, um, yeah kid, we, we believe that data's [00:24:10] lifesaving, but no way we can take it in. And that was, it's such an inflection point for me. It was like, first of all, I was like, what do you mean isn't your job to save lives here?
+
+
+Like, why wouldn't you take in lifesaving data? [00:24:20] Uh, and then they, you know, walked me through the center and, you know, I remember that moment. Oh, sorry. Um, I remember that moment walking through a 9 1 1 [00:24:30] center for the first time really vividly. It was like, you know, I, again, I'd come in with this assumption that I was about to walk in and see the coolest technology I've ever seen.
+
+
+I was about to see the best technology in the [00:24:40] world, that it was gonna be all this futuristic, uh, mission critical classified stuff. Um, and I saw the complete inverse. I remember the first time I sat next to a call taker, uh, [00:24:50] and they were doing their best work. But the guy, you know, like. He, he's taking a call.
+
+
+Someone was very urgent. He kind of had like the headset on his ear. He's typing as fast as he can. Every single detail that this person's trying to [00:25:00] describe, like clearly missing stuff. And anybody would, I would miss stuff if I was in that same seat, but the dash stream of consciousness of notes is what someone was gonna run into a burning building with.
+
+
+And my mind was blown. I'm like, [00:25:10] wait, first off, this must just be the center. This can't be how we do it nationwide. But it turns out that's the status quo when you call, uh, 9 1 1 is that centers across the country, they're doing the best they [00:25:20] can with the technology they have, but they're just typing things in.
+
+
+Um, and we miss critical details all the time. And so it was just, this became this passion project for me of building towards that [00:25:30] future vision where those places do have the best technology in the world and, you know, it's something that all of us are proud of. So you saw that side Yeah. Person that, that's, then how [00:25:40] did you convince them?
+
+
+Like, um, yeah, that's a good question. I, I, I, I think, you know, my, uh, interactions with centers, [00:25:50] you know, um. I think the people in centers want better. Uh, so I don't think the challenge is people I, um, call [00:26:00] takers first responders generally. Um, they get into that job to help people. So, you know, and they desperately want to do that.
+
+
+They don't like when [00:26:10] somebody calls and they don't speak English and they just listen to them waiting on the line, right? Like that, uh, is not ideal for them either. The real constraints have been one, the [00:26:20] technology. So the vendors, there hasn't been a good technology provider that's really focused on updating the systems.
+
+
+Um, that's one. The second is, is, and you mentioned it [00:26:30] before, is that it's very daunting to rip out their current technology, right? You can think if you were the leader of a 9 1 1 center, and you know, like if you rip out the [00:26:40] center and you miss one single call. That's like a really big deal. So there's always been this apprehension around switching systems.
+
+
+And so what we had to do was architect, [00:26:50] okay, how do we fit within the systems? How do we take off that fear that you're not gonna miss any calls, you're not gonna have to rip out systems. Over time, I think you'll see them start to switch the [00:27:00] infrastructure. Um, but you had to meet them where they were, right?
+
+
+You couldn't just say, Hey, rip everything out. We'll replace it all. It'll be much better. Uh, but yeah. So why do you think such an [00:27:10] efficient system lasted for so long, even though technology is affected so quickly? Yeah. You know, if you put yourself in the shoes of a, um, 9 1 1 [00:27:20] leader, I can totally appreciate why it hasn't happened, right?
+
+
+I think one, you know, technology all around us is, um, you know, moving really rapidly. Yeah, [00:27:30] but it's not in public safety. So I, if you look at the vendors that serve public safety today, and again, I'm biased, so I think we're the best point, but like, yeah, if you look at those vendors today, you wouldn't say, [00:27:40] oh my goodness, those are forward-leaning technology companies.
+
+
+Not many of those companies are serving government today. I think that's backwards. I think that's wrong. We, we should have more of those companies [00:27:50] serving government, serving public safety, serving mission, critical work. So one, the vendor community needs to get better, needs to move faster, needs to innovate.
+
+
+That's one. So it's on us, right? And we're trying to push that ourselves. [00:28:00] Um, the second is, is that, um, there's a real in these places where the technology really matters. There's a real fear around switching, right? And we just talked, so it's [00:28:10] like, and I can totally appreciate it, right? If I were leading a center and I knew that, you know, in an hour a very important call could come in and I'm in the middle of a shift and I miss that, [00:28:20] um, that's a big deal.
+
+
+I could lose my job, right? And so you have this real apprehension to switching. And so, um, the way we've gone about approaching. That [00:28:30] problem is, is two things. One is we push ourselves every day to build the best technology. If, if we don't think there's that vendor out there, we're gonna be it, right? We're gonna, we're gonna be the tech [00:28:40] forward technology company that's focused on public safety.
+
+
+That's one. Um, so what we don't see in the world, we're gonna try to be, uh, the second thing is we, we meet the centers where they are. We, [00:28:50] we don't come in and look down on them and say, oh my goodness, how could the technology be this way? How has this happened? We sit there and we say, Hey, like, I can appreciate why the technology is that way.
+
+
+It's very [00:29:00] hard. It's difficult to switch systems. Um, and we have a lot of folks on our team that literally were in that seat, that were nine one one directors, former call takers, dispatchers. Um, and we say, Hey, here, [00:29:10] we've, we've put together, we've put a lot of thought into how do we inch towards better?
+
+
+How do we actually build our solutions around your, your concerns, which are valid, right? And, [00:29:20] um, I don't think any vendors done that, or any technology company has done that before. They've just, you know, said, well, why is that so bad? Let's just rip it out. And I think that you need something more. Um, [00:29:30] thoughtful than that to, to see real change.
+
+
+And, um, so far people are, uh, excited about it. And, um, let's go back to your dropout. Yes. Great. What did your parents [00:29:40] say when you first like, drop? What changed their mind? Yeah. Um, look, I think generally speaking, they've always been very [00:29:50] supportive of me and have, let me do, I I've had like wacky and crazy ideas since I was a little kid and they've kind of let me do those things.
+
+
+Um, so at [00:30:00] first glance they were very supportive. Let me do it. But they're certainly nervous, you know, and so both parents are like, Michael, you're one way a year from, you're one year away from graduating. Why [00:30:10] not just finish up? Like, why not just, uh, you know, go all the way through and, you know, the, the first Yeah.
+
+
+Thing that softened the blow was I was gonna take the year off anyway because of, [00:30:20] uh, COVID. And so they're like, yeah, take, take a year off. And then it just, one thing led to another and I stayed off. But ultimately the pitch was like, you know. Mom and dad, and this was, it [00:30:30] was non obvious that we were gonna have any success.
+
+
+It was like, you know, we were going to, our first office was an apartment and the master was the office, and it was just folding tables with monitors. And so I was like, mom and dad, I'm gonna [00:30:40] go and live here and I'm gonna work on this thing. So it was a hard pitch, but like, yeah, it was very serious with them, or they could tell I was very serious about the work that we were doing.
+
+
+Um, I said to them, what I said [00:30:50] here, which I really believe is just like, you know, mom Yeah. Like the problem that we're talking about here, um, somebody calling 9 1 1 and getting a really bad, uh, having a really [00:31:00] bad experience that's happening everywhere. Right. And I actually don't know if I'll be successful, but I think I'll regret not having tried.
+
+
+Right. And, um, [00:31:10] you know, they let me do it. Yeah. So, and um, you went to Fair Fellowship? I did. [00:31:20] Yeah. And what, uh, what did the. For your sense of legitimacy and what, what, what did you learn from it? What did I learn from it? [00:31:30] Um, it was really cool. So the fellowship was different my year because it was COVID, so you didn't have as many in-person events.
+
+
+Um, but I think the community of [00:31:40] people was very valuable for me. Um, you know, I, uh, certainly had talked to some people growing up who had gone on and started companies, but where [00:31:50] I came from, it wasn't very many tech founders. You know, like maybe someone had a local business or something. And so I learned from them.
+
+
+Um, and so, you know, I'd always had this urge to [00:32:00] do something on my own, build something that I thought was important, but there weren't many, for lack of better term role models. There weren't people that were also doing it, that I could learn from. Um, but I [00:32:10] found that with the TE fellowship, you know, you're just in a community of people that are doing the exact same thing, right?
+
+
+That are against really tough odds trying to make real [00:32:20] meaningful progress in the world. And are spending their life doing that. And so it was, it was quite cool to one, just, it's motivating to see that, okay, I'm not the only one trying to do stuff like this. [00:32:30] Um, and then second, you learn really quickly.
+
+
+So you have a community of people that, uh, are probably making the same mistakes you're making and maybe, uh, if they've already made them, you don't [00:32:40] have to make them. You can learn from their mistakes. So that was really cool. And then certainly it got me into conversations that were very valuable. Um, and so, [00:32:50] um, you know, Teal's done a great job and so, uh, people know him and respect him and, uh, think highly of him.
+
+
+And so to be able to be in the fellowship and have that stamp of [00:33:00] approval was really great as we went about raising funding or early customers and, um, our space is all about credibility, right? Like they have to trust that, you know, when somebody calls, your [00:33:10] technology's gonna work, right? So, um, having those stamps of approval early was very helpful.
+
+
+So we started specific conversation or. You get from the field, [00:33:20] from the fellowship? Um,
+
+
+it's a good question. Um, specific [00:33:30] advice.
+
+
+You know, I think, I think, um, this is something that, you know, I teal's known for. Um, [00:33:40] but I think, you know, us starting with a very small narrow market has been very important. Like, you know, when, I remember when we [00:33:50] were first starting and we were pitching investors, uh, they would tell me, don't work in government.
+
+
+Uh, don't work in 9 1 1. Um, one, it's very hard to do, [00:34:00] uh, very hard to see change, which is certainly true. Um, but also there's not much money in 9 1 1. It's not a big enough market. Um, and I remember that advice of like, you know, [00:34:10] starting small and focusing on something niche was actually a good thing. Um, and so I stuck to that and it worked out.
+
+
+But yeah, that's probably the only advice I could go. And after you [00:34:20] built your product, uh, was there, uh, any moment you feel you first realized this work could actually save lives? And I'm wondering how did that [00:34:30] feel? Yeah, that was true from the earliest of days. So, um, I remember when we first turned on our product for 9 1 1 centers and it was a [00:34:40] center, you know, our call taker could get a live stream of from a citizen.
+
+
+Um, within our first week, people used it to save a life. Uh, I think it was a CPR call. So someone calls [00:34:50] in, um, they're with their friend and, um, they, you know, passed somebody on the street that was, um, passed out. And, um, they were like, okay, we're gonna initiate, we're gonna [00:35:00] do CPR. Uh, but they had no idea how to do CPR.
+
+
+They had never done it before. And the call taker was trying to walk them through it over the phone, but couldn't understand where their hands were placed, if they [00:35:10] were breathing at the right time. And they remembered, oh, I have prepared, and they turned on livestream. And so the friends started streaming.
+
+
+CPR with the phone on speaker and the call taker saw it and was able to coach [00:35:20] them through live. And the guy comes back to, to life. And so, um, that was in our first week of deploying the technology and you're like, okay, that's pretty cool. Uh, so I think early on that was a real [00:35:30] driver and motivator. Um, and now, I mean, we are on track this year to process well over 30 million calls.
+
+
+So every day you just get stories [00:35:40] of how people are using it to save lives. So, um, that, that's really cool. Yeah. And, um, and did you [00:35:50] also, uh, also experience that, uh, landline based system ever led to tragic or tragic outcome? [00:36:00] Um, not, yeah, so like I think, um, you know, we've certainly been in centers where you start to see some of the problems that they're facing today.
+
+
+Um, you know, [00:36:10] I mentioned a few, like one. You know, call comes in and it's really on the call taker to make sure they enter all the necessary information. But like, you, [00:36:20] like me, we're humans, right? And you're tasked with a really difficult thing of giving somebody, you know, an empathetic voice when they're in emergency and you're also trying to type, [00:36:30] um, it's, it's, you know, natural and will happen where stuff gets missed.
+
+
+Uh, and we've seen that time and time again where you just don't miss, you don't have a detail, the [00:36:40] responder doesn't have it, and they don't know it going into the emergency that that happens every single day. Now, maybe the most, uh, kind of, um, you know, impactful example that I can think [00:36:50] of is language translation.
+
+
+Where, you know, we had a situation where, um, someone had just deployed the technology and so they have prepared up and they're still getting used to it, going through [00:37:00] training. So muscle memory, they didn't use it initially. So call comes in and, and the caller speaks Mandarin, and they're like, okay, I'm gonna hit the interpreter button and I'm gonna wait on the line for [00:37:10] the Mandarin interpreter.
+
+
+But the guy's very urgent. They look up and realize that they have prepared and we've been transcribing it and translating it the whole time. And they see that he was saying, my daughter was shot, my [00:37:20] daughter was shot. And they're like, oh my goodness. Okay, I can dispatch that. So they get the details, put it into cad, and they send law enforcement EMS.
+
+
+By the time those resources got on scene, the [00:37:30] interpreter had just gotten on. Right. So, you know, and that's happening every single day. That gap between, um, you know, kind of call and interpreter getting on is seconds, minutes. And [00:37:40] in an emergency situation, those are lives. And so, um, yeah, cities are facing that every day.
+
+
+And, uh, when, when you first launched [00:37:50] prepared, uh, how did you decide which market segment or geography? Yeah, you, you, yeah. I don't know if we were like crazy thoughtful about this. Initially it was, we had [00:38:00] the Yale bubble, which is all of Connecticut. It was just because it was the people that I could drive to and go and knock on their door.
+
+
+Um, so the first roughly 20, 30 agencies we're all in the northeast. [00:38:10] Um, and I would call them and I would visit them and they would sign up and then word of mouth started and people started to, you know, interact with us or call us about the technology. But initially it [00:38:20] was just that region 'cause we were close to it.
+
+
+Yeah. And I, I heard that many energy, uh, past like [00:38:30] startups struggle with like long fail cycles. Yeah. So how did you design your go-to market motion, uh, to shorten that cycle? Yeah, [00:38:40] we were thoughtful of this from the beginning. Um, you know, I, I had talked about the technology constraints before that had blocked innovation.
+
+
+Um, there was also go-to [00:38:50] market constraints that were blocking innovation. And so, um, kind of a tangent, but you know, kind of how, how we thought about go-to market early, I think was a, a very kind of, um, important, [00:39:00] uh, uh, part of the strategy and, and was a big part of our ultimate success was, um, so, uh. One of the things that had blocked innovation was this [00:39:10] long, arduous process to even get in working with the center.
+
+
+And so, um, you know, there, there were startups that in other markets that had faced similar and [00:39:20] got around it. So like, you know, if you were selling, you know, if two decades ago selling to the Fortune 500 companies for a startup was very difficult, right? [00:39:30] Normally that was just like Oracle or Salesforce or any other big company was able to actually punch at that weight.
+
+
+And, and the reason was you had these large systems, IT units in public [00:39:40] companies, they would block everything. They would say like, no, you can't work with a startup. We're gonna work with the big guy. And then naturally the big companies didn't face any pressure. So the technology got really decayed. And so you [00:39:50] had Fortune 500 companies with really antiquated tools.
+
+
+Um, so startups started to change their model. So companies like a Slack or a Yammer, um, started to give their product to [00:40:00] end employees. And at the time that was very controversial. They're like, wait, you can't just give your technology to the end employees. You gotta go through it first. You gotta do all these things.
+
+
+And they did it and it [00:40:10] worked. And Bottoms up was born. This idea of starting with the end employees, then going back to the kind of, um, processes of the big company. But at least now you have the users at your back. You've already [00:40:20] shown them they have something better. And the reason that was really innovative was now you're not defend the, the large companies could no longer just defend on process.
+
+
+They had to actually defend on [00:40:30] technology because you were getting in, right? Um, our idea was that government was the same thing, or that procurement was the systems it equivalent in, in government. And [00:40:40] that if we could get our technology in the hands of end users, uh, and make the discussion about technology and not procurement, that, uh, we would win.
+
+
+And so, um, that was a big [00:40:50] part of our initial strategy. So our first product was no cost for centers. And the only goal was to get our technology in, build the best solutions, show them that there was a better way. [00:41:00] And then we thought that if we did do that, we'd be able to expand from there. And so our first roughly thousand cities, and we have over a thousand cities now across the country that use us, paid us nothing.
+
+
+[00:41:10] Right? We would go in, we, they would, we would allow them to an unlimited basis, get information from citizens, but they saw like, oh my goodness, there is a better way. Um, there is technology that actually [00:41:20] works and use it for me. Um, and that was a big part of our, uh, initial strategy was actually not starting with a paid solution and going through that procurement process, but actually giving them a version [00:41:30] of it and believing that we could build more valuable tools on top of it over time.
+
+
+So, um, so based on that, uh, experience, do you have any advice [00:41:40] to you wanna give Yeah. To founders who are doing like a g Startups? Yeah, I think, I think, I think like there's like a macro point and then maybe like a more, um, [00:41:50] tactical point. I think I, I think that, um, you know, startups should really think first principally about what is the reason the thing that they think should happen has not happened.[00:42:00] 
+
+
+Right. And so every good company starts with a vision of a better future, right? And, um, to you it's clear that that future should come to pass, right? But it hasn't, right? [00:42:10] So the really, you know, sitting on the question why it hasn't come to pass, um, I think when you're technical you just think, oh, nobody's built it.
+
+
+And often that's not true, right? So [00:42:20] in our space, there was a lot of companies that had actually built better technology, uh, but nobody used it, right? And so if we just said, okay, if I build the best technology, then they'll come. Um, [00:42:30] we wouldn't have been successful, right? The real constraint for us was nobody had hacked distribution or solved distribution.
+
+
+Nobody had like sit next to customers and actually [00:42:40] articulated why we understand their strategy and we're gonna build the technology around that strategy. And so those were the constraints for us. And so I think, um, again, especially [00:42:50] when you're technical, you can just think, okay, I'm gonna build a better product and then things gonna go great.
+
+
+I think you need to think long and hard about why the world has not. Come to pass that you, you think will come to [00:43:00] pass and then solve for that. Um, and so we were very thoughtful of that in the beginning and we focused a lot more on business model, uh, innovation than we did tech innovation in the early days.
+
+
+[00:43:10] Right. Which is counterintuitive. You, you know, so, um, that, that, that's one thing that, uh, and then specific for B two G, I think that that, that, that [00:43:20] kind of macro advice plays out into like your strategy. I, I think that the most times the hard problem with government is actually getting in, um, actually, because you have everybody [00:43:30] acknowledges you have these old, antiquated tools.
+
+
+Um, a startup's advantage is their technology oftentimes. And so, you know, I, I think any good startup changes the rules such that [00:43:40] it's, uh, advantageous to them. And if your advantage is technology, then you have to solve for how do I get the technology side by side, right? Uh, and so again, [00:43:50] controversial idea, but we just, you know, if, if my goal is to get the technology side by side, what should.
+
+
+Give it for free, remove all the barriers and all the friction needed to get your [00:44:00] technology next to theirs. Um, and so again, like counterintuitive idea because the business should make money, but, uh, we thought that if we did get our technology side by side [00:44:10] and we bet on our ability to build new products, that that would bear out over time.
+
+
+And then that turned out to be true. And so, like, to summarize that, I would say like, you know, really look at [00:44:20] your, your, um, market and understand why has the innovation that you're, you're saying should happen, not happened yet. And sometimes it's not obvious. It's not just build a better system, [00:44:30] right?
+
+
+There may be people that have already built a better system but are not taking, there's, there's something else there to, to investigate. Yeah. That's really good advice. Yeah. And, um, [00:44:40] um, how did the Apple Emergency Insurance Partnership went? Yeah. Come about and, and what did it unlock for you? Yeah. How did it come about?
+
+
+[00:44:50] Uh, so I think my co-founder worked on this more, so Neil would be more thoughtful, but like, yeah, I think we met Apple for the first time at a conference, uh, and they, they, they had been invested [00:45:00] in safety for a really long time, as you know. Right. Um, and so they were very excited about finding new ways to improve safety for people [00:45:10] to use iPhones.
+
+
+And, um, this was when I think we had just crossed a couple hundred agencies on the path to a thousand agencies. And, um, [00:45:20] yeah, we had got together as teams and I think we're very similar in culture and, um, you know, uh, thought about what are some solutions to make things better. And, [00:45:30] uh, thought the SOS live video was the best thing to do.
+
+
+And so maybe to zoom out, like what we were doing before that integration was if you called 9 1 1 and our software was [00:45:40] installed, the call taker would have to send a link to the call. Um, while they're on the phone and they get it over SMS, they click on that link, it, open up their browser, and then they could live stream through that.
+
+
+[00:45:50] Um, obviously that was not the perfect way to do it, but it was the best thing that we could do at the time and people were really using it. Um, and like in that CPR use case, using it to save lives. [00:46:00] Um, so clearly with Apple, the best solution would be to do that natively and pop up right while you're on a call.
+
+
+Um, so it just made so much sense from a technical perspective to do it, and we had already shown [00:46:10] that centers would really use that information if we found a good way to get it in. So, and this is my personal question, did you also receive like, like thank you [00:46:20] messages from your customers? Like we saw that, um, yeah, like a letter or, yeah, we do get a lot of those.
+
+
+So, so, so we, um, yeah, we try to get like one, one of the big [00:46:30] motivators for the company is that, you know, like, and differentiators between other companies is we think we're, you know, we're doing life saving work and so we ask our customers a lot to send in stories how [00:46:40] they're using it. Um. And we try to celebrate those things, uh, and make it about them, right?
+
+
+Like we're doing a very small percentage of their work, they're doing the, the hard work. And so where we [00:46:50] can, and we get those letters about how we're helping, we try to put 'em up. Yeah. Is there an that, that really you Yeah. There's so many [00:47:00] stories that have had a real impact. I'll say that. Um, you know, uh, like I said before, building a company from nothing is really hard.
+
+
+So I think you're gonna be very passionate [00:47:10] about whatever it is you're working on. Um, and so we lean on the stories a lot to, you know, as a driving force, as motivation. So, um, there's [00:47:20] a bunch that, that language translation story is one of the ones that I go back to a lot. 'cause I think about like, well, what if the responders didn't get there?
+
+
+What if they were there three or four minutes later? What, you know, probably [00:47:30] the wouldn't have saved the girl. Um, or, you know, like, uh, yeah. So I can just give some stories if that's useful. But yeah. Okay. Yeah. So, um, [00:47:40] can you, this is for the editing purpose. Can you explain in numbers, like how important is grid through the gap?
+
+
+Like, like about like 50% of non-English nine one [00:47:50] colors coming up due to confusion or something like that? We can share some stats. I don't have them off top, but like, you know, uh, it is not uncommon to have multiple [00:48:00] minute wait times on non-English calls. The more bespoke the language is, the longer the wait time.
+
+
+But even on, uh, you know, a language like Spanish, you could have one minute, two minute [00:48:10] wait. Um, we've heard language like Vietnamese, you could have nine minute waits. Um, and so again, like, think about it, you're calling in an emergency and you're waiting on hold for nine minutes. Uh, they don't even know [00:48:20] what's going on yet.
+
+
+They haven't sent help at all. Uh, that has a huge impact. Uh, what, uh, what,[00:48:30] 
+
+
+yeah, that's a good question. Um, one we had to, 'cause schools were out of [00:48:40] session 'cause COVID, um, I, I think ultimately we just thought it was, um, uh, we were, we were just really excited about the idea of helping on every emergency. [00:48:50] Uh, and so, uh, and, and when we went into a center, it was just clear the technology needed to get much better and we were very passionate about that.
+
+
+So, [00:49:00] um, we started working with 9 1 1 centers, started solving some problems. They really liked it and then just it expanded from there. So, um, you [00:49:10] first started your product like not paying to Yeah. And what was your playbook for getting your first 10 paying public safety agent? [00:49:20] Yeah, so, so I think this is one of the reasons that my advice to, to, um, you know, any new founder would be like, really understand what the constraint is and then build off of that.
+
+
+And so, like, [00:49:30] you know, the, the, the, it was not a very hard problem for us to get to 10 50 paying customers. Because they're already using us and trusted us and, and, um, had, had experience with the [00:49:40] tool and not only did they, um, uh, have that experience with us, we had all this data that we could learn off of.
+
+
+And so every new product that you've seen us launch has [00:49:50] been sitting next to a center who's actually using it. And we just watch them have a problem and then we go and, and solve it. And so our first product was, so I'll give you an example. So we, [00:50:00] we, um, in our first month where we launched the very first version of our product, which was again, you could send a link to a citizen and they could live stream and share pictures and videos, et cetera.
+
+
+Um, our [00:50:10] first month we had like 350 incidents go through the platform, which was great. I had this little Slack channel that I would just refresh and I could see, uh, what was going on. Uh, shortly thereafter, three months later, [00:50:20] we had 60,000 monthly messages going through the platform. So you saw this huge uptick in emergencies.
+
+
+And so you had this, uh, large amount of data that you can go in and talk to customers, Hey, why are you using it [00:50:30] this way? One of the things that became clear was if you had bad information. Go into 9 1 1. That was actually worse than no information at all. Um, language [00:50:40] translation is an example. Initially we would see people text back that link in Spanish, and we literally have centers go into our platform, get that text in [00:50:50] Spanish, copy and paste it into Google Translate, translate it, and then go back to us like they were toggling between these two screens.
+
+
+And we're like, oh my goodness. Like, we'll just bring that in. And so our first paid product was [00:51:00] this just language translation over text and centers used it and we're like, oh my goodness, that's like magic. I can do it all in one scenario. And so then the next evolution of our product [00:51:10] was, oh wait, why even text 'em at all if they don't speak English?
+
+
+Why can't we just, you know, translate it right on the call? And so our next product was, could we plug in, pull out the [00:51:20] audio and start translating on the audio as opposed to moving them to text. Right? And then, you know, we launched that product and centers across the country started using that transcription and [00:51:30] translation.
+
+
+And then now this last year, we started launching new versions of our, of, or new modules on top of our product because we saw new problems. So I mentioned one non-emergency. We started [00:51:40] processing millions of calls a month, right? And you just look at those calls and you see, oh my goodness. One, we have hold times on non-emergency calls.
+
+
+And two, when emergency calls come [00:51:50] in, I'm rushing between, you know, call to call. Why do we have the critical resource? A human agent focused on noise complaints or parking tickets, right? AI [00:52:00] could do that job. And so we launched a voice agent that could handle non-emergency calls. And now some of the biggest cities in the country are fully offloading those calls to us.
+
+
+And the [00:52:10] citizens actually like it better because they don't wait on hold, right? And so they get what they need instantly and the operators don't have to focus on it. But we've just kind of consistently looked at the usage in our [00:52:20] system and then gone and solved problems. To give you another one, one of our largest cities, um.
+
+
+You know, they, I, I remember visiting them and their, their director, um, was putting keywords on top of [00:52:30] the transcripts from, from, from our call. So basically, you know, a call comes in and if there was a certain word that was said, he would get a notification on that call. And he was watching CPR calls [00:52:40] and I went to him and I was like, Hey, why are you watching CPR calls?
+
+
+I saw that in, that's really interesting. And he goes, oh, I'm trying to do quality assurance. And I'd never heard of that before. I was like, well, what do you mean what's quality assurance? And [00:52:50] um, and he walked me through and there was, we took it to his back room and they, um, so a lot of these centers have protocols on how they should handle a call.
+
+
+Basically, it just tells you what to say based [00:53:00] on the emergency, but they actually have no idea if people stick to them or say them. Their process is, and this was a big city, like an NFL City, their process is [00:53:10] they go after the call is over. They have a team of people that listens to the call and they have a piece of paper and a pen, and they go and check the boxes and say, did they, did they verify the location?
+
+
+Did they, you know, [00:53:20] get the phone number right? Was their tone good? They literally are going through. And they got to 3% of calls a year on this, the pen and paper form. And so what they're trying to do is say, Hey, roughly are [00:53:30] people following protocol, and if they're not, how do we train them better to better use the protocol?
+
+
+But they couldn't get many insights from the 3%. And I remember saying to them, I was like, please just like give us that form. And [00:53:40] so now we take that form in our system and it's not a hard technical problem. It's what, what is being said in the transcript and what ought to be said. And then we just match those who up.
+
+
+Now in that city, [00:53:50] every call is quality assured, a hundred percent of calls, right? They've gone from 3% pen and paper with people to now RAI is checking on a hundred percent of calls. And now they only focus on the problem area [00:54:00] calls. And that was a new module within our product. And we've seen a lot of big cities do that now.
+
+
+And so we've just really gotten focus on how are they using the system and then what [00:54:10] new problems are coming up that they're trying to use the system to solve. And then how do we just actually solve those? Um, so that's become our. Product focus and it's an [00:54:20] engineering and product led team. We, we go and solve those problems and then we go and tell everyone, uh, how we've been thinking about it.
+
+
+So yeah, it's surprising [00:54:30] how, how manual Yeah, it was. Yeah. Again, and so, so it's, it's, it's, um, for a long time, uh, there's not been many [00:54:40] technology companies focusing on the space. And so it's very difficult to get in. You have to be trusted. You have to like actually build systems at work. Um, this is not a space to move fast and break [00:54:50] things.
+
+
+Um, because you could, you could build trust over five years, which we've done, and lose it in a day. Like the second that the system would go down, people would like, oh my goodness, I can't trust them. And they'd go back to the old [00:55:00] antiquated solution that always works, right? And so, um, you have to take that really, um, you know, kind of, uh, you gotta be very serious about that.
+
+
+But if you [00:55:10] are able to do that and you know, kind of build new things for them, there's a ton of opportunity. And, and I think the word of mouth from dispatchers or [00:55:20] first responders, uh, help. Yeah. Um, it's very important. So, so again, to zoom out the, the, the space really, um, [00:55:30] kind of, uh, values credibility or values trust.
+
+
+Uh, and so, um, certainly I'll get on calls and try to convince them, but that's [00:55:40] never as good is another agency telling them that it works really well. And so from the earliest of days, we had centers telling other centers about it, and that's been a big part of our [00:55:50] growth. And we understand that in our strategy.
+
+
+So like, we aren't launching something new every week. We're, we're being very thoughtful, very deliberate about what we launch and when we launch [00:56:00] it. And if it's actually solving a problem. And, uh, you know, we take that super seriously. It's very important that people trust this solution. So, um, can you tell us.[00:56:10] 
+
+
+The feature, uh, the feature that turned out differently from what you expected while building or, yeah, [00:56:20] so I've talked about how like our approach has been, you know, launch something that's valuable and then build the solution from there. So like, see how they're [00:56:30] using it and, uh, just build the thing that they're, uh, or the problem that they're trying to solve.
+
+
+Build that thing. Uh, that's our approach. It did not start that way when we first [00:56:40] started. Uh, namely me. I would have ideas on, oh no, here's how it's gonna go, uh, without talking to customers and they would turn out wrong a lot. And so, [00:56:50] like, initially our first, so when we were, we, we had launched our free product, we were thinking about like, what's the best new premium feature, right?
+
+
+Like, how, how would we go about that? And my idea was [00:57:00] we would take all the information that we had, pictures, videos, texts, and we would share that in a new. UX to responders. So yeah, police, fire, EMS would get a video [00:57:10] or a picture as they went to scene. Um, and it turned out to be like half right? People use that product today and it works.
+
+
+But what worked better was actually sitting next to centers and [00:57:20] seeing their problems. And so I remember initially we had a lot of centers that would say, Hey, Mike, can you build this translation thing? Like, I'm going back and forth between Google Translate. And I would go [00:57:30] back to them and I'd be like, no, we're focused on responders.
+
+
+Uh, and then it took me a while to kind of wise up and be like, okay, we'll build that thing. And I asked them like, is this something that you guys would pay for? And I was fully [00:57:40] expecting a no. And they're like, yes. And I was like, oh my goodness, why did it take me so long to, to uh, to, to build that? And uh, and it just became like, sounds obvious, but like, I [00:57:50] think founders can get this very kind of, uh, hardhead vision about how the things ought to be and like, okay, I, I know where it should go, et cetera.
+
+
+Um. And I was that way to [00:58:00] begin with. What I've learned is that like often the centers are telling you exactly what you should build and the problems that they have, and if you just stay really tight to them and build those things quickly, you'll probably have a lot of [00:58:10] success. And so that was good and humbling for me that I didn't know where things are gonna go and I didn't know what the, the problems really were.
+
+
+Um, so we've tried to do that better and to the point where like, [00:58:20] now I spend a lot of time in centers just sitting next to them. I think, you know, even as we've gotten big, I've tried to spend a week or two weeks a month in centers sitting next to them, [00:58:30] and it's just been like, um, such an advantage for us is that like, okay, how are they actually using it?
+
+
+And you'd be surprised. Again, that sounds intuitive, but you'd be surprised how many founders or companies don't do [00:58:40] that. Just don't sit next to the centers and say, how are they actually using it? That a lot of the decisions get made in rooms like this totally away from anybody that's actually using the technology.
+
+
+Um, [00:58:50] and so it's something that we've tried to stick to as we've, we've gotten bigger, really, really. Yeah, it's, again, it's, it's, it's, um, everybody says it. Whe whether they do [00:59:00] it or not is a separate thing. And so, um, uh, you know, and your culture is just like a set of actions. And so like, one of our actions is like, I'm going to, you know, and it is hard [00:59:10] sometimes because we're slower on decisions and stuff like that, but, you know, uh, week a month I'm gonna spend time with centers.
+
+
+I'm gonna be in on site understanding how they're using it, and it's just, um, you know, we never [00:59:20] gonna lose that. And I think that's a big part of our DNA. So I'm curious that you, you were prepared now handle like 49 states, something like that. Yeah, something like that. [00:59:30] So, yeah. How, how did you, um, how did you have to start doing differently once you came 10 to 1949 states?[00:59:40] 
+
+
+Yeah. Um, it's a good question. I, I, um, I think the problem, so, so for us, uh, the problems that it's not even [00:59:50] state by state, it's like really region by region. Like the, the, the problems that those folks face are different. I, I wouldn't say there was a big unlock from like 10 people to a hundred, right? It [01:00:00] wasn't like 10 to a hundred.
+
+
+It was more different. Geographies had very different problems, uh, that we had to go solve. Like we have one, um, center that uses us, that's in like a [01:00:10] ski community. And all the time they were getting, um, crash detection notifications because people go so fast, people wipe out, and they didn't know if that was like, uh, a real [01:00:20] accident or if that was a person on ski lift.
+
+
+And so our location would help them figure out, okay, are they at a ski resort or are they on the highway? Um, and that's kind of a very unique bespoke problem that I don't [01:00:30] know, New York City probably doesn't face. Um, it was really, you know, geography, over geography, understanding the problems. Like one of our centers is right on the border, um, [01:00:40] uh, uh, of Mexico and, and, and, and 50% of their calls are in Spanish, right?
+
+
+So for them, language translation is everything. And so one of the hard things has been. Okay, how [01:00:50] do we prioritize the different features to build a solution such that everybody can use it, but also is solving the biggest pain points for them. [01:01:00] Right. And so, uh, that's been a difficult thing as we've gone to different geographies and different states.
+
+
+Again, like the city of New York, it's gonna have very different emergencies than like Los [01:01:10] Angeles. And so, um, yeah. And, um, so you're, uh, you're like a young CEO, right? Yeah. [01:01:20] So what's, what's your most difficult moment as a young CEO, personally, or Uhhuh? I don't know if there's a single moment I, maybe I'll like [01:01:30] describe some of the challenges and then we can go through, uh, maybe I'll think of a moment.
+
+
+I, I think the hardest thing is, especially at the rate that we've grown, so like, we were [01:01:40] in that apartment office only three and a half, four years ago, and now here we're plus a hundred people. My double in the next year. [01:01:50] Um, and uh, so you know, we're 20 people last year, so we've grown really quickly. Um, I think the hardest thing is the job is changing every month or every day.
+
+
+So [01:02:00] like when we first started, like we said, the first customers I was selling, I was going out and having the conversations with them very quickly. We needed to scale that and grow that. And I was [01:02:10] no longer selling. And now it was about managing people that are going and having those conversations now, selling it actually and managing people who are selling it.
+
+
+Very different jobs doing it versus [01:02:20] managing it. And the hard things for me were letting go of the past job and getting good at the new job because it's not so fun. Like you, you, you like feel like, oh I'm just starting to get good at this [01:02:30] selling thing and now I gotta go and do something I've never done before.
+
+
+And that's uncomfortable and you're not so good at it initially. Like I remember when we were first managing, I would just end up doing the job right? I'd be like, oh, that person [01:02:40] didn't say it exactly right. And then I would just take the call, right? And I learned like, okay, you really gotta like teach to fish, not actually fish.
+
+
+And like how can I get good at [01:02:50] communicating why I would do it this way? Working through whether their way is actually right, agreeing on some solution and then them taking it and, and going and actually delegating. I hated [01:03:00] delegating in the beginning. I just wanted to do all the things 'cause um, you know, it's like your baby and you want to do it.
+
+
+And so that was hard. Now as we have like very professional managers on the team, [01:03:10] it's really about building a culture. And I remember when we first started, we were in accelerator and it was three of us and they had this session on values and culture. And I [01:03:20] was kind of like hand wavy about it. I'm like, what am I gonna do?
+
+
+I'm just gonna tell Neil to be honest, you know, he is right there. Like, what is this thing? Culture? Uh, and then now I really get it where it's like, okay, like [01:03:30] we're a remote team, not everybody's in New York City. It's like, what are the principles and like set of, of, of, of, of values or like kind of operating system decisions.
+
+
+Like what, how do we make decisions that are [01:03:40] uniform, right? And also, um, uh, like have, you know, diverse thought. That's actually a very hard thing. You want people to think differently, yet you want some kind of [01:03:50] common framework of shared things that everybody makes decisions around. Like we don't really compromise on are we customer obsessed, right?
+
+
+I think it's incredibly important that even as we get to a thousand [01:04:00] people, that we're still sitting next to customers, right? So that's not, we're not gonna budge on that, but there's certain things that we absolutely need to budge on and change because the company's changing so much. So like how do you do that at [01:04:10] scale?
+
+
+Uh, across a lot of people is very different than management, which was the last job. And so I think the hardest thing has been. Like letting go of the last job, even though you start your start to feel [01:04:20] good at it, being like, okay, this is the new job. And being okay with learning against it. And the uncomfort that comes with, with, with learning, and I think that's where a lot of founders get sharped up, is they just keep [01:04:30] doing their last job, even though the company needs them to do their new job.
+
+
+And, and sometimes it's really hard because the people want you to keep doing your old job. Right now I have way less one-on-ones [01:04:40] with a lot of our team members that started early. And that's hard for me, just like it is for them. Um, and so, you know, you'd want to keep doing your last job, but if I spent my whole day with one-on-ones with [01:04:50] every team member, I probably wouldn't talk to customers very much.
+
+
+I probably wouldn't make very many decisions that are important. And so, um, you know, it's difficult to let go of the last, the last [01:05:00] job. Um, and I'm still not great at it. Uh, I still want to jump in and like, you know, uh, sell the deal or, you know, like, like build the product itself. It's like [01:05:10] that stuff you just, I don't think ever fully lose, but um, you gotta be aware of it, self-aware of it, and, and take on the.
+
+
+The next job. Yeah. And, [01:05:20] um, and I, I'm just wondering how do you deal with the emotional weight of Yeah. Building technology that [01:05:30] actually like people's lives? Yeah, that's a good question. Um, you know, I I, I starting broad [01:05:40] first and then like, we can zoom in. I, I, I think it's actually easier to build a hard company than an easy one, if that makes sense.
+
+
+So, um, you know, if you have a mission that's hard [01:05:50] and important and it's not getting done, that's, that's difficult to go and do that. What, what you're basically saying is that like, okay, there's this thing in the world that nobody's done [01:06:00] yet, and us a group kind of like ragtag people you put together, we're gonna change it.
+
+
+That's like inherently confident, maybe arrogant thing, thing to say, um, if you think back [01:06:10] on it. And so like if know you're saying you're gonna change the world, um, uh, so, um. Uh, yet though you, it's very easy to [01:06:20] get people rallied around that, right? Like, so when you say something like, Hey, um, our mission is to ensure that every time somebody calls an emergency, they get the perfect response, [01:06:30] they get the best possible.
+
+
+Help people get excited about that. Very, very hard. Very, very difficult. We can't take that lightly, but people get excited. So you attract better talent, you [01:06:40] attract people that are willing to look, work longer, work harder towards that thing. You attract more conversations like this 'cause people are excited about hearing the story.[01:06:50] 
+
+
+And so, um, that's a very hard, ambitious, kind of confident thing to say you're gonna go do. Um, but people get very excited about that thing. I think it's much easier to get the right talent [01:07:00] necessary for a startup if you do the ambitious thing, right? If you just did something that's like kind of a one X improvement on something before, it's not actually making the world that [01:07:10] much better.
+
+
+You're gonna have a tough time recruiting top talent, you're gonna have a tough time asking people to work on that thing for the long haul. So I think it's, it's easy, it's easier counterintuitively, but easier to [01:07:20] build a hard company than it is to build an easy company for those reasons. Now how do we apply that to 9 1 1?
+
+
+I mean, first off, like we take that burden very seriously, [01:07:30] right? And, um, you know, uh, one way to make sure that we internalize the weight of what we're doing is spend time with the centers. You go into a [01:07:40] center and you see somebody take a call and just kind of like feel the weight and the pain of not being able to handle that call 'cause they're sitting on language line or they miss a key detail or, you [01:07:50] know, we haven't talked about our radio transcription product, but there's times where a responder will say, Hey, I need backup.
+
+
+And somebody won't be there to listen to it because they don't have enough resources. And so, like the impacts of those things [01:08:00] are life changing, right? I I, you know, I tell this story internally a lot. When we first turned on the technology and we were, you know, sharing videos out to respond. I had a, um, a [01:08:10] firefighter come into the training and start crying.
+
+
+Uh, he's like, uh, so, and I was like, wait, are you okay? Like, is everything good? Did we do something? And he is like, no, you don't understand. This isn't just video. [01:08:20] This improves the odds that I go home to my wife and kids. This is, you know, that, that that's what this means to me. And so, like, you know, I think just seeing that and having those interactions often make you feel like, okay, I [01:08:30] really have big weight on my shoulder.
+
+
+So one, I think it's just taking it super seriously and not losing sight of that as you go in and build. Um, but then also, again, to the main point, [01:08:40] being motivated by that challenge. Right? I think that, um, life is worth living if you're doing things that are very important and, um, yeah. [01:08:50] And what is the ultimate mission behind prepared life?
+
+
+Like, beyond just izing life? Yeah. I, I, my hope is, is that, you know, we live in a [01:09:00] future where you call and you need help, and that, that help is delivered as. Quickly as possible with the highest quality as possible, and it's as close to [01:09:10] perfect as it could possibly be. Um, there's a lot of work to do there, you know, um, to kind of steal from other companies that I'm inspired by.
+
+
+There's a company in our space, like an [01:09:20] Axon, and their mission is that the bullet is obsolete, right? That there's no longer, you know, that people don't use, um, you know, weapons, they use something like a taser, et cetera. Why do I mention that? Well, they're a [01:09:30] public company, huge. They've had a ton of success, yet is the bullet obsolete now?
+
+
+They've literally not achieved the mission despite being a public, very, very successful company. And so you want [01:09:40] something that's so audacious that it may not even be in reach. Um, but my hope is, is that that future happens, that, that, um, one day we wake up [01:09:50] and we just know that if I call and I do have an emergency, that you know, the best technology's there.
+
+
+Um, the absolute best resources are there, that it's going to be [01:10:00] everything about. It's gonna be as close to perfect as possible. And so. That's what I hope we do now. We got a lot of work to do. We are very far away from that happening. Um, we're only existing [01:10:10] in the US and I hope that that globally is the world.
+
+
+Um, but that's my hope. And what if a nine year [01:10:20] that they wanna drop out and start something? A 9-year-old, a 19-year-old? Oh, a 19-year-old. Okay. Uh, either one. I guess. Same answer, but, uh, a [01:10:30] 19-year-old, you know, I look, I, I I would encourage them to do it. Um, I, here's what I would say. I would say that, um, you know, uh, it's going to be much harder than you think [01:10:40] doing that.
+
+
+Um, you shouldn't do it for the wrong reasons. You shouldn't do it because, you know, like, you'll think you'll be on a magazine. You shouldn't do [01:10:50] it because like your friends might think it's cool. You shouldn't do it. For kind of all these like, superficial reasons that I think a lot of people are starting companies today.
+
+
+You just won't last like may. Maybe you'll get [01:11:00] like, you know, one story and it'll be great and you can show all your friends, but unless you're ready to work on the thing for 20 years, right? And, uh, and, and really care about that problem that much, [01:11:10] um, don't do it. But if you are right, if you, if you have a really confident that, um, this problem's worth spending your life on, right?
+
+
+And that's what I feel like with us is that like, you know, I [01:11:20] wake up every day and I think deeply about like, okay, is this work actually meaningful? Does it actually matter? And I only wanna work on problems where that's true. If that's you and you're ready to [01:11:30] put that type of commitment into it, I would be, let's do it.
+
+
+Uh, I, I I would push them to go and do that. I think we need more people in the world that are ready to do that. Um, candidly, this is a more [01:11:40] meta point, but I think most people don't think deeply about their work. Right? And, and, um, and they kind of go down the path that kind of folks have prescribed that is kind of set for them and others have [01:11:50] said is right, which is like, get into the best school, get the best job.
+
+
+You know, kind of get promoted in that job and they don't think about, think deeply about the why. It just becomes this game of like, you know, [01:12:00] next thing, next thing, next thing. Um, so if somebody's ready to break from that and work on things that really matter, I'd be very excited about that and support them.
+
+
+But they have to be ready to understand what it takes because, uh, [01:12:10] it's, it's difficult, but, um, it's very rewarding. And this is my last question. Do you ever feel, feel, sense of doubt because of like, like the [01:12:20] incidents and exodus still don't experience Yeah. Doubt around the mission or in our ability to do it or just all of the above all?
+
+
+[01:12:30] Yeah. I, I, I think like, um, you know, um, certainly we are far away from the mission being [01:12:40] true and, um, climbing it feels a little bit like Everest and you're sitting at the bottom. Even though I think we've made a lot of progress in a short amount of time. Uh, it still feels [01:12:50] like we're far from the summit.
+
+
+Um, and so, you know, I think, you know, to use that example or that analogy, I think it's a good one. As you're going through that and it feels hard and treacherous or it's cold, you're [01:13:00] climbing out, you're gonna have doubt. You're gonna say, oh my God, well, a bunch of doubts, you're gonna say like, one, am I ever gonna get to the summit?
+
+
+You're gonna say, oh, it's pretty cold here. Why did I ever do this? Maybe I should just go [01:13:10] down. We're all humans and feel that, uh, too, but in the same way you'd like, want to climb to the summit because of the feeling you'll get at the top. Um, we're excited about that [01:13:20] world happening, right? And we think that even if we don't get all the way there, we're gonna make so much progress.
+
+
+Like right? If like, we're 20% better at responding to emergencies, that's gonna [01:13:30] save millions of lives. And, um, so, so I think the progress and the journey to it is very, very impactful. Um, but you certainly have doubts. Are we gonna be perfect one day, but we're gonna work towards it. [01:13:40] And I think over the long term, I don't have doubts, right?
+
+
+I'm committed to working on it for. As long as I possibly can, as long as they'll let me. So, you know, I'll keep, you know, so I think over the long term, I think we'll get [01:13:50] there. And then secondly, self-doubt always happens, right? Like, and this is why I think it's worth doing, but like, you know, the job is forgetting [01:14:00] what you just got good at and doing the next job that is so uncomfortable, right?
+
+
+I, I don't think many people like the feeling of not feeling good at something. [01:14:10] And, uh, that's what building a company fast is, is you get good at a job, you gotta go onto the next one, forget that one, and be okay being not so great at this one. And, [01:14:20] uh, you know, um, uh, but I think you get good at learning quickly and, um, you know, that's kind of life is you're gonna be in a lot of situations that are [01:14:30] uncomfortable and can you give yourself the reps of dealing with that, managing through it, seeing the other side of it.
+
+
+And so I think training yourself to do that more is a good thing. [01:14:40] Yeah, I have one question. Of course, I told Lisa to ask like, since this building started from a personal [01:14:50] experience. Yeah. So it might sometimes make you
+
+
+time like that. So yeah. [01:15:00] Was it okay for you, or like would you say that starting this has helped you in some way to cope with that or like, like hear from that? [01:15:10] Yeah. Um, I, it's an interesting question. I think that, uh, the way I would answer that is it's certainly been a [01:15:20] driving force for me to wanna work on it.
+
+
+Oh yes. Gotcha. Uh, you know, the way I would answer that is I think it's certainly been a driving force for me to wanna work on it in the first place. [01:15:30] And, um, like I had said before, I think that, um, different for me, my parents. Uh, our generations before them. I thought about safety. [01:15:40] You know, I, I would go to school and I would say like, am I gonna be safe today?
+
+
+Which is an interesting thing to think about as a kid. And I don't think that experience for me [01:15:50] was that different from a lot of kids growing up in my generation. You know, you solve March for Our Lives. People were really like, okay, this is not so great. We need to do something about it. And I think like, um, [01:16:00] that's always stuck with me is, you know, this idea of like, Hey, there are people today that are gonna go through situations where like, at a fundamental, you know, [01:16:10] um, basis, like they don't feel safe.
+
+
+Um, and, uh, that shouldn't be the case. I would love to live in a world where everybody felt safe all the time, and that when those [01:16:20] situations happened, that things went awesome. Um, so it's definitely been something that's stuck with me and, uh, there's a big reason why I do the work. [01:16:30] And, um, I curious, do you have other plans to expand into other countries?
+
+
+Yeah. Yeah, well certainly over time. Um, so we get a [01:16:40] lot of interest from other countries and we'll service it, but, uh, we're a small team right now, so there's a lot to do and a lot of things to build. And, [01:16:50] um, you know, like we talked about before, I think we care a lot about trust of our current customers and, um, we take that super seriously.
+
+
+We understand their work and how important it is. Uh, and [01:17:00] so we're only gonna bite off what we can chew right now. And so, uh, we'll certainly get there, but, but, uh, we're focused on our current so far. [01:17:10] I think we covered all epic. Okay. Sorry. I feel like for safety, like there is also important to [01:17:20] like prevent kind of incidents.
+
+
+Yeah. Because people can do work after incident, like, [01:17:30] so any thought. For like, yeah. That's a long car. Yes. [01:17:40] I totally, yeah. So, so, um, you know, look like I, I would love the mission statement to be there's never an emergency. Okay. Yeah. Sorry. Okay. Okay. Uh, I would love the mission statement to be that there's never an [01:17:50] emergency.
+
+
+Uh, and like part of me wants to say that is the, the mission, right? Like that, that one day maybe we could get so good at understanding what's [01:18:00] happening, uh, and prevent it in the very first place. I think there are ways we can start to inch into that. I, like any founder right now, I'm very excited about [01:18:10] ai.
+
+
+I think that it, um, unlocks new potential that just like, obviously wasn't possible, you know, decades ago. And so, like, you know, one of the things we're really bullish on is the fact that, [01:18:20] you know, we have as a community now a ton of information on what is happening in, uh. Communities across the country and, and what kind of [01:18:30] urgencies are they facing?
+
+
+At what times did they face it? Um, how long did they take? What actually is a response time? Like all this data. Um, we're hopeful that one day [01:18:40] you can utilize that data plus intelligence and start to understand why did they happen in the very first place. Um, and there will certainly be things that [01:18:50] might be preventable.
+
+
+Uh, now you're still gonna have health issues. Like that's why I say like, I, I think, you know, cardiac arrest will still happen. That might be hard to prevent unless, you know, like we're gonna start to work on [01:19:00] healthcare stuff. And that's, um, but uh, yeah. Um, I think there will be some things that are preventable and you'll be able to use data intelligence to, to predict those things.[01:19:10] 
+
+
+And one more follow-up question, because I'm non tech professional Sure. So it doesn't seem like extremely difficult technology for me. So, [01:19:20] and, and what are, so I'm curious about what are the technology. Technical challenges you face right now? Yeah. My co-founder, Dylan, would be like, ah, [01:19:30] dude, that is, they're so hard.
+
+
+But, uh, they're, they're, um, you know, what are some of the technical challenges we face? I, I think that that, that, um, you know, working around the [01:19:40] current infrastructure is a non-obvious, hard technical challenge. Um, so, you know, because, and we think this is the right trade off because we're not going to a center and saying, [01:19:50] look, rip out everything you have and put us in.
+
+
+Right? We think that's daunting. We think that's hard. We think that delays progress because we're not saying that We have to understand what are their tools. Not [01:20:00] all the tools are the same. One agency could have one vendor, the other agency could have another provider, totally different providers. But we still have to integrate with all of them, right?
+
+
+We have to go in, pull out the information and still make sure it [01:20:10] gets to the right place. So we're doing integrations with hundreds of systems ultimately, um, and you have to interject and work around those systems in a way [01:20:20] where, again, mission critical. You never see any downtime. So, you know, example, like language translation.
+
+
+We to, to, like, so we go in, we grab the call audio, [01:20:30] right? We're processing it on the side. If we want the call taker to be able to speak back to the caller, they have to interject into the call flow our AI agent and allow them to speak back [01:20:40] in time without interrupting the call, right? We can't have the call dropped.
+
+
+So we gotta interact with that large antiquated telephony system, get in there and, and have the [01:20:50] interaction back and forth. Um, doing that well in a reliable way that always works non-trivial. So, and that's just one and example of how we have to work around these tools. [01:21:00] Um, and then we do a lot of really interesting things with the data, right?
+
+
+And so simple stuff like we talked about quality assurance, we've now seen 97% improvement in [01:21:10] that large city on calls process. So that's our AI going in and you know, saying, Hey, did they say the right thing? We're going through and processing that. We also give them rationale why the AI [01:21:20] did what it did and we're presenting that.
+
+
+Uh, maybe I'll show you a demo later into all the cool stuff that we're doing. Sweet. And could you introduce yourself one more [01:21:30] and Yep. Yep. I'm Michael Chime. I'm the CEO of Prepared. And what is Prepared? Okay. Prepared is an AI assistant for 9 1 1 calls. [01:21:40] Good. Good. Sweet. Thank you. We did it. Yep. Alright guys.
+
+
+
+
+인트로
+#그 사건 이후로 모든게 바뀌었다 → 제일 실감나는 멘트 한두개만
+
+
+스페인어1-2분 베트남어면 9-10분 기다려야 함
+
+
+그게 내 미션이 됐음
+
+
++technology all around us is um you know moving really rapidly but it's not in public safety
+
+
+
+
+#틸 펠로우십 사람들이 “don’t work in government” “don’t work in 911”이라고 했다
+
+
+지금은 
++어떤 프로그램이고 많은 사람을 살리고 있다 (수치)
+this year to process well over 30 million calls
+So every day you just get stories of how people are using it to save lives
+
+
+
+
+#나여야만 하는건 아니었다
+a lot of days I think "Oh my goodness why me?" As opposed to "It has to be me."
+
+
+#막판에 차라리 어려운 문제 풀어라. 여기 톤이 좋음 쓸만한 문장 있으면 가져오기
+“We’re gonna change it, 
+"Hey um our mission is to ensure that every time somebody calls in emergency they get the perfect response
+They get the best possible help." People get excited about
+Very very hard  —- people get excitied (>1x 파운더가 했던 말이랑 비슷하군..)
+
+
+
+
+
+
+
+
+>>> 뭔가 진짜 미션 뿜뿜한 느낌 주기
+
+
+
+
+
+
+
+
+Ver2. 
+Advice부분도 좋음 => 본편에서 살리기 
+1. 일어나야 할 것 같은데 왜 아직 안 일어났을까를 생각해봐라 - 모두 비전 가지고 시작하지만 왜? - 
+이거 시도한 사람 많았지만 사람들이 사용하지 않았다 왜일까? Real constraints ? destribution. 
+Customer옆에 있지 않았기 때문이다
+
+
+그냥 better system 을 만드는 것 이상이다
+
+
+
+
+
+
+
+
+구성
+#1. 코네티컷의 총기 난사부터 예일 자퇴까지 + 틸 펠로우십
+#2. Sitting next to your customer 해라 / 말그대로 진짜 가까이 있어라
+#3. 너가 있는 분야의 온도를 높여라. 그게 꼭 나일 필요는 없었다.
+#4. B2G 스타트업으로 살아남기 - better system을 만드는 게 전부가 아니다. 그것보다 중요한 것
+#5.  It’s easier to build a hard company : 너가 어렵고 중요한 문제를 푼다면 오히려 그건 더 쉬운 길일 수도 있다.  
+
+
+
+
+
+
+
+
+* 후보1. 회사가 성장하면서 너의 일이 계속 바뀔 것이다 . letting go of the past job (>내용은 좋은데 중간에 녹이면 더 좋을 것 같긴 함. 근데 또 어느 챕터에 들어갈지 좀 애매함)
+* 후보2. ** It’s easier to build a hard company : 너가 어렵고 중요한 문제를 푼다면 오히려 그건 더 쉬운 길일 수도 있다.  
+1st storyline
+Speaker: [00:00:00] So I'm Michael Chime. I'm one of the co-founders and the CEO Prepared is an AI assistant for 9 1 1 calls. That helps them process the calls better, faster, with higher quality. We are in all but [00:00:10] one state, I think so 49 states. We cover about a hundred million in population technology. All around us is, you know, moving really rapidly.
+
+
+But it's not in [00:00:20] public safety. Somebody calling 9 1 1 and having a really bad experience that's happening everywhere. Uh, it was an undergrad at Yale of all things. So people are like, why are you building in public safety? That's a unique life [00:00:30] choice. I actually don't know if I'll be successful, but I think I'll regret not having tried.
+
+
+You shouldn't do it for the wrong reasons. You shouldn't do it because like you'll think you'll be on a [00:00:40] magazine. You shouldn't do it because like your friends might think it's cool, you shouldn't do it For kind of all these. Like superficial reasons you just won't last. Don't do it. But if you are right, if you, if you have a really confident [00:00:50] that this problem's worth spending your life on.
+
+
+Right. And that's what I feel like with us. You know, I wake up every day and I think deeply about like, okay, is this work actually meaningful? Does it actually matter? And I only wanna work on [00:01:00] problems where that's true. If that's you and you're ready to put that type of commitment into it, I will be, let's do it.[00:01:10] 
+
+
+So I grew up in a small town outside of Cleveland. I think I wanted to play [00:01:20] sports after college. I was always naturally drawn towards things that were challenging to do and felt important, and so sports was the best way for me to, to do that. Uh, I probably would've played sports or just [00:01:30] taken a fang job after school.
+
+
+That's probably what I would've done. I kind of landed into technology and startups just by seeing that emergency happen in my community as a kid. [00:01:40] 
+
+
+Speaker 2: A second student has died from Monday school shooting in Chardon, Ohio. All schools in Chardon are closed today, the seven. 
+
+
+Speaker: It was an active shooter event when I was 12.
+
+
+I was in third grade, [00:01:50] I think, and yeah, someone came on site and brought a weapon shot students, uh, and I think there were four people that passed away. My town borders [00:02:00] the town where the emergency happened. My school locked down because it was so close. We didn't know what was happening. We didn't know what was going on.
+
+
+We just knew there was an emergency, and so we locked down. It [00:02:10] becomes real quickly that, uh, you know, you're not always safe. I knew of some of the kids I had, like run around in circles where they were close. And so just, um, seeing that happen in a place where you [00:02:20] actually knew the people, it, I think it really hit home.
+
+
+It's just like, oh wow, this is a real thing. It impacts real families and, and as a young kid, right, I was 12 when this happened, and so like. You just [00:02:30] recognize like, hey, safety is something that's not a given. Uh, emergencies could happen and they could impact people you actually know or you, that was a, you know, in the back of my head, it was a thought that I had all [00:02:40] throughout my childhood and then, then when I went to high school and was thinking about these things more March for Our Lives is at, its at its peak.
+
+
+And so our generation was really starting to take a stand and say, Hey, this [00:02:50] is not so great. We should change things here. And that was compelling and exciting to me. When I went to college, I met two classmates that turned out to be co-founders later. Dylan and Neil grew [00:03:00] up in a very similar environment.
+
+
+They, and the town over from them was Sandy Hook. And so I think just generally speaking, we thought about it more as kids and we didn't think we would build a company. We just thought we would build this simple [00:03:10] tool schools would use in college, and then we would go off and do. Whatever our jobs, et cetera, after.
+
+
+Yeah, so our first product was an app for [00:03:20] schools, and we had a couple hundred schools across the country launch that solution, and that's how we got into 9 1 1 was schools would say they were running a drill, right? They would take a picture of something [00:03:30] on site and then they'd wanna share it to 9 1 1.
+
+
+Right, because 9 1 1 would respond to that situation. In doing that work, we'd wanna share data to 9 1 1 centers. Things like if you saw somebody on [00:03:40] site that you didn't recognize, you'd take a picture. But what I realized is that that simple idea, sharing a picture to somebody in emergency, that the current 9 1 1 systems weren't set up to do that.
+
+
+So, [00:03:50] you know, I started knocking on the door of 9 1 1 centers and I said, Hey, I have all this data. I think it's lifesaving. I'd love to share it with you. How do I do that? And they'd kind of sit me down and be like, Hey kid, I think you are pulling lifesaving data, [00:04:00] but no way I can take that in. I'm like, what do you mean?
+
+
+And they'd show me their systems. I don't think many people know this, but still today, most of the 9 1 1 centers are using technology built on the [00:04:10] assumption those calls are landlords, that all of their calls are coming from just a landline device. And so we have so much data and information that's not getting through.
+
+
+There's 250 million 9 1 1 calls a [00:04:20] year. 90% of them are from mobile devices. Hundreds of millions of calls every year are leaving lifesaving data. On the table. So the first problem we attempted to solve was that how do we make sure that when [00:04:30] we call the systems are intelligent enough to take that information in?
+
+
+I think we can hold the line and say, okay, when somebody has that situation, how do we hold a really high bar and make sure that we use whatever [00:04:40] technology possible to try to make that the best possible response.
+
+
+And I took the year off. That's when I applied and [00:04:50] did the teal fellowship. So I was going to take the year off. Anyway, the pitch to my parents who did not like the idea of me doing the fellowship at all, my mom actually hated it. So both parents are like, Michael, you're one year away from [00:05:00] graduating. Why not just finish up?
+
+
+Like, why not just go all the way through? And this was, it was non obvious that we're gonna have any success. It was like our first office was an apartment and the master was [00:05:10] the office, and it was just folding tables with monitors. And so I was like, mom and dad, I'm gonna go and live here and I'm gonna work on this thing.
+
+
+So it was a hard pitch. I said to them, what I said here, which I really believe is just like, you know, mom? [00:05:20] Yeah. Like the problem that we're talking about here, somebody calling 9 1 1 and having a really bad experience. That's happening everywhere. I actually don't know if I'll be successful, but I think I'll regret [00:05:30] not having tried.
+
+
+Right. And they let me do it. And it was in that year where a lot of the interesting problems that we're solving today bubbled up. And so this is when I just started [00:05:40] knocking on the door of 9 1 1 centers and I would say, Hey, you know, I work with the school. They have all this information that they wanna share.
+
+
+I have all this data. I think it's lifesaving pictures, video texts. I just wanna give it to you. What's the [00:05:50] next step? And this is when they'd kind of sit me down. This, the 9 1 1 centers would be like, yeah, kid, we, we believe that data's life saving, but no way we can take it in. It's such an [00:06:00] inflection point for me.
+
+
+It was like, first of all, I was like, what do you mean isn't your job to save lives here? Like, why wouldn't you take in life-saving data? And then they, you know, walked me through the center. [00:06:10] I remember that moment walking through a 9 1 1 center for the first time really vividly. It was like, you know, I, again, I'd come in with this assumption that I was about to walk in [00:06:20] and see the coolest technology I've ever seen.
+
+
+I was about to see the best technology in the world, that it was gonna be all this futuristic emission, critical classified stuff. And I saw the complete inverse. I remember the first time I sat [00:06:30] next to a call taker and they were doing their best work. But the guy, you know, like he, he's taking a call.
+
+
+Someone was very urgent. He kind of had like the headset on his ear. He's typing as fast as he can. Every single [00:06:40] detail that this person's trying to describe, like clearly missing stuff. And anybody would, I would miss stuff if I was in that same seat. But the dash stream of consciousness of notes is what someone was gonna run into a burning building with.
+
+
+And my mind was [00:06:50] blown. I'm like, wait, first off, this must just be the center. This can't be how we do it nationwide. But it turns out that's the status quo when you call 9 1 1 is that centers across the country, they're doing the [00:07:00] best they can with the technology they have, but they're just typing things in and we miss critical details all the time.
+
+
+I think the people in centers want better call takers. They get into that job to help people, you [00:07:10] know, and they desperately want to do that. They don't like when somebody calls and they don't speak English and they just listen to them waiting on the line. It's not ideal for them either. The real constraints have [00:07:20] been, there hasn't been a good technology provider that's really focused on updating the systems and that's one.
+
+
+The second is, is, and you mentioned it before, is that it's very daunting [00:07:30] to rip out their current technology. If you rip out center and you miss one single call, that's like really big. Deal. And so what we had to do was architect, okay, how do [00:07:40] we fit within the systems? How do we take off that fear that you're not gonna miss any calls, you're not gonna have to rip out systems.
+
+
+Over time, I think you'll see them start to switch the infrastructure, but you had [00:07:50] to meet them where they were, right? You couldn't just say, Hey, rip everything out. We'll replace it all. It'll be much better. The way we've gone about approaching that problem is, is two things. One is. [00:08:00] We push ourselves every day to build the best technology.
+
+
+If, if we don't think there's that vendor out there, we're gonna be it. What we don't see in the world, we're gonna try to be. The second thing is we, we meet the centers where they are. We sit there and we say, [00:08:10] Hey, like, I can appreciate why the technology is that way. It's very hard. It's difficult to switch systems.
+
+
+How do we actually build our solutions around? Your concerns, which are valid, [00:08:20] right? And I don't think any vendors done that, or any technology company has done that before. They've just, you know, said, well, why is that so bad? Let's just rip it out. And I think that you need something more thoughtful than [00:08:30] that to to see real change.
+
+
+We should solve it today. We shouldn't wait 10 years to go and solve that problem. So we thought the best. Kind of most speedy way to start making progress was [00:08:40] integrating with the systems as opposed to ripping them out. The 
+
+
+Speaker 2: next generation of 9 1 1, the Orlando Fire Department is upgrading its dispatch center with new software that allows callers to live stream [00:08:50] videos and pictures, the accuracy and response of 9 1 1 calls.
+
+
+Speaker: I remember when we first turned on our product for 9 1 1 centers within our first week, people use it to save a life. I think it was a CPR call. So [00:09:00] someone calls in, they're with their friend and they, you know, pass somebody on the street that was passed out and they were like, okay, we're gonna initiate, we're gonna do CPR.
+
+
+But they had [00:09:10] no idea how to do CPR. They had never done it before and the call taker was trying to walk them through it over the phone, but couldn't. Understand where their hands were placed, if they were breathing at the right time. And they [00:09:20] remembered, oh, I have prepared. And they turned on livestream.
+
+
+And so the friends started streaming CPR with the phone on speaker and the call taker saw it and was able to coach them through live. And the guy comes back to to [00:09:30] life. And so that was in our first week of deploying the technology. And you're like, okay, that's pretty cool. So I think early on that was a real driver and motivator.
+
+
+And now, I mean, we are on track this [00:09:40] year to process well over 30 million calls every day. You just get. Stories of how people are using it to save lives.[00:09:50] 
+
+
+One way to make sure that we internalize the weight of what we're doing is spend time with the centers. You go into a center and you see somebody take a call [00:10:00] and just kind of like feel the weight and the pain of not being able to handle that call 'cause they're sitting on language line or they miss a key detail.
+
+
+And so like the impacts of those things. Are life [00:10:10] changing. Every new product that you've seen us launch has been sitting next to a center who's actually using it, and we just watch them have a problem and then we go in and solve it. In our first month where we [00:10:20] launched the very first version of our product, which was again, you could send a link to a citizen and they could live stream and share picture, the videos, et cetera.
+
+
+Our first month we had like 350 incidents go through the [00:10:30] platform. Shortly thereafter, three months later, we had 60,000 monthly messages going through the platform. So you saw this huge uptick in emergencies. And so you had this large amount of data that you can go in and talk to [00:10:40] customers. Hey, why are you using it this way?
+
+
+One of the things that became clear was if you had bad information, go into 9 1 1. That was actually worse than no information at all. Language [00:10:50] translation is an example. Initially, we would see people text back that link in Spanish, and we literally have centers go into our platform, get that text in Spanish, copy [00:11:00] and paste it into Google Translate.
+
+
+Translate it and then go back to us like they were toggling between these two screens and we're like, oh my goodness. Like, we'll just bring that in. And so our first paid product was this just language translation [00:11:10] over text and centers used it, you know, the next evolution of our product was, oh wait, why even text 'em at all?
+
+
+If they don't speak English, why can't we just, you know, [00:11:20] translate it right on the call? And so our next product was, could we plug in, pull out the audio and start translating on the audio as opposed to moving them? To text. And then, you know, we launched that [00:11:30] product and centers across the country started using that transcription and translation.
+
+
+And then now this last year, we started launching new versions of our, or new modules on top of our product because we saw new [00:11:40] problems. We started processing millions of calls a month. And you just look at those calls and you see, oh my goodness. One, we have hold times on non-emergency calls, and two, when emergency calls come in, I'm [00:11:50] rushing between, you know, call to call.
+
+
+Why do we have the critical resource a human agent focused on? Noise complaints or parking tickets, AI could do that job. And so [00:12:00] we launched a voice agent that could handle non-emergency calls, and now some of the biggest cities in the country are fully offloading those calls to us. But we've just kind of consistently looked at the [00:12:10] usage in our system and then gone and solved problems now.
+
+
+And so we've just really gotten focused on how are they using the system and then what new problems are coming up that they're trying to use the system [00:12:20] to solve. And then how do we just actually. Solve those with. What I've learned is that like often the centers are telling you exactly what you should build and the problems that they have, and if you just stay really tight to [00:12:30] them and build those things quickly, you'll probably have a lot of success.
+
+
+Now, I spend a lot of time in centers just sitting next to them. I think, you know, even, even if we've gotten big, I've tried to spend a [00:12:40] week or two weeks a month in centers sitting next to them, and it's just been like such an advantage for us. Is that like, okay, how are they actually using it? And you'd be surprised how many founders or [00:12:50] companies don't do that.
+
+
+Just don't sit next to the centers and say, how are they actually using it? That a lot of the decisions get made in rooms like this totally away from anybody that's actually using the technology. [00:13:00] And so it's something that we've tried to stick to as we've, we've gotten bigger.
+
+
+I remember when we were first starting and we were [00:13:10] pitching investors, they would tell me, don't work in government, don't work in 9 1 1 1. It's very hard to do, very hard to see change, which is certainly true, but also there's not much money [00:13:20] in 9 1 1. It's not a big enough market, and I remember that advice of like, you know, starting small and focusing on something niche was actually a good thing.
+
+
+And so I stuck to that and it worked out. One of the things that had blocked [00:13:30] innovation was this long, arduous process to even get in. Working with the center, there were startups that in other markets that had faced similar two decades ago. Selling to the [00:13:40] Fortune 500 companies for a startup was very difficult.
+
+
+Normally, that was just like Oracle or Salesforce or any other big company was able to actually punch at that way. And the reason was you had these [00:13:50] large systems, it. Units in public companies, they would block everything. They would say like, no, you can't work with a startup. We're gonna work with the big guy.
+
+
+And then naturally, the big companies didn't face [00:14:00] any pressure, so the technology got really decayed. And so you had Fortune 500 companies with really antiquated tools. So startups started to change their model. So companies like a Slack or a Yammer started to [00:14:10] give their product to end employees. And at the time, that was very controversial.
+
+
+They're like, wait, you can't just give your technology to the end employees. You gotta go through it first. You gotta do these things. And they [00:14:20] did it and it worked. And Bottoms up was born. This idea of starting with the end employees, then going back to the kind of processes of the big company. But at least now you have the users at your back.
+
+
+You've [00:14:30] already shown them they have something better. And the reason that was really innovative was now you're not defend the, the large companies could no longer just defend on process. They had to actually defend on technology. [00:14:40] Because you were getting in, right. Our idea was that government was the same thing, or that procurement was the systems it equivalent in, in government.
+
+
+And that if we could get our [00:14:50] technology in the hands of end users and make the discussion about technology and not procurement, that, uh, we would win. And so that was a big part of our initial strategy. So our first [00:15:00] product was no cost for centers. The only goal was to get our technology in, build the best solutions, show them that there was a better way.
+
+
+And then we thought that if we did [00:15:10] do that, we'd be able to expand from there. And so our first roughly thousand cities, and we have over a thousand cities now across the country that use us, paid us nothing. But they saw like, oh my goodness, there is a better way. [00:15:20] And that was a big part of our initial strategy.
+
+
+Startups should really think first principally about what is the reason the thing that they think should happen has not happened. Every [00:15:30] good company starts with a vision of a better future. And to you, it's clear that that future should come to pass, but it hasn't. Right. So really, you know, sitting on the [00:15:40] question why it hasn't come to pass.
+
+
+So in our space there was a lot of companies that had actually built better technology, but nobody used it. Right. The real constraint for us was nobody had [00:15:50] hacked distribution. I think the most times the hard problem with government is actually getting in. And so again, like counterintuitive idea because the business should make money, but if my goal [00:16:00] is to get the technology side by side, what should you do?
+
+
+Give it for free. Remove all the barriers and all the friction needed to get your technology next to theirs. Sometimes it's not obvious, it's not just build a [00:16:10] better system.
+
+
+I, I think it's actually easier to build a hard company than an easy one, if that makes sense. There's this thing in [00:16:20] the world that nobody's done yet. And us a group of kind of like ragtag people you put together, we're gonna change it. That's like an inherently confident, maybe arrogant thing thing to [00:16:30] say yet though, it's very easy to get people rallied around that, right?
+
+
+Like so when you say something like, our mission is to ensure that every time somebody calls an emergency, they get the [00:16:40] perfect response, they get the best possible. Help people get excited about that. Very, very hard. Very, very difficult. We can't take that lightly, but people get excited. So you attract better talent.[00:16:50] 
+
+
+You attract people that are willing to work harder towards that thing. It's much easier to get the right talent necessary for a startup. If you do the ambitious thing, so people are like, why are you [00:17:00] building in public safety? That's a unique life choice. I don't know if I ever thought it had to be me. I guess I still think it doesn't necessarily have to be me.
+
+
+I, I, I think that one of the most compelling reasons to work on the [00:17:10] company is we legitimately believe if we didn't do the work it wouldn't get done. And I would say most days it feels quite uncomfortable. I, I did not come out of a dorm room ready to build a [00:17:20] company, and so most of the day is. Doing things that you, you haven't done before, but you have to do quickly.
+
+
+You have to learn really, really fast. [00:17:30] And so a lot of days I think, oh my goodness, why me? But it does seem true that if we just stop tomorrow, the world would be less safe. Um, that the technology would [00:17:40] likely kind of fall back into the status quo of being okay with decay, being okay with the anti equation.
+
+
+And the result of that would mean everyday lost lives. And I don't feel okay with that. [00:17:50] Our work seems to be raising the temperature of the space. And so, you know, as we go out and launch new things that the space hasn't seen before, so too are the big companies, which is also great. Right. I tell the team [00:18:00] a lot too, that, you know, like, look, if we build things and then they get mass distributed by somebody else and it saves millions of lives, that's freaking great too.
+
+
+Right? And, and, and our work will be, you know, [00:18:10] super successful. Even if somebody else does it on our backs, that that's amazing for the world. Yeah. It just feels like we have to do it less than, uh, it has to be [00:18:20] [00:18:30] [00:18:40] me.

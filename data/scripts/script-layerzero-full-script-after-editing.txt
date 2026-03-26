@@ -1,0 +1,314 @@
+﻿[EN]Clean_LayerZero
+===
+
+
+[00:00:00] Speaker: In order to truly change things. In order to build something great, you must have conviction. A college dropout poker player. I didn't go to Harvard or MIT, I didn't go to, you know, amazing school. I didn't have any connections. 
+
+
+[00:00:14] Speaker 2: Um, we were noddies and so I always wanted to prove that we could do impossible things.
+
+
+[00:00:20] Speaker 2: You can't do this. Nobody can. When I hear that, uh, that's all I wanna work on. 
+
+
+[00:00:24] Speaker: Reset everything, think completely from first principles. How can I break it? How can I break it? 
+
+
+[00:00:29] Speaker 2: And that the why matters more than anything. Why are we here? Why? Why do we get up in the morning 
+
+
+[00:00:34] Speaker: in the shower, when you're going to bed at night, when you wake up in the middle of the night and you have an idea?
+
+
+[00:00:38] Speaker: It was just like, it's just a pure obsession. 
+
+
+[00:00:40] Speaker 2: Can we have high performance and maximum decentralization? It's the holy grail of the impossible thing, an impossible problem. My favorite. 
+
+
+[00:00:49] Speaker: What started as an idea now is a reality. We were the first company ever in history to have both Andreessen Horowitz and Sequoia, both co-lead around 
+
+
+[00:00:57] Speaker 2: Italic said the trial was broken.
+
+
+[00:00:58] Speaker 2: He means theoretically it's broken, but we actually broke it. There were no more bottlenecks. 
+
+
+[00:01:04] Speaker: I'm Brian Pellegrino, co-founder and CEO of Zero Labs. 
+
+
+[00:01:08] Speaker 2: I'm Raz, co-founder and CTO of layer zero. Zero is the last blockchain that I'll ever be built.
+
+
+[00:01:23] Speaker: And I woke up one morning, April 15th, and I sat down on my computer and there's a big seal of the Department of Justice, the DOJ on the website. And what had happened was overnight they had banned all online poker within the United States. All of the websites are down. You can no longer play online poker in the United States.
+
+
+[00:01:43] Speaker: All of the payment processors are down, so you can no longer move money between or do anything. And it was just like overnight, like that the industry was just gone. And I think those were the first times where you said, okay, you saw the reach of, of sort of. Policy and government sort of impacting you in your real life.
+
+
+[00:01:59] Speaker: When you're a kid, you don't think about it too much. When you're a young adult, you don't think about it. But this is the first time of I need to literally move where I live to my entire life. And its sort of career just got taken away from me. Uh, and so I think that really grounded me early on and kind of like the libertarian ethos of crypto and having something that, uh, was bigger than a single jurisdiction was bigger than a certain, like, given regulatory regime, uh, had the ability to become something more.
+
+
+[00:02:26] Speaker: For the first 24 hours, I just spent feeling sorry for myself, which I think is like a kind of natural reaction. You're just like, oh man, my, my career is over. All my money's gone. Like, you know, you don't really know what to do. But then immediately after that, like the next day. I woke up and I was just very, I saw that the world was changing very quickly, and so one thing that I noticed was that all of the main poker sites were now gone, but there's a bunch of smaller kind of shady poker sites that still existed and that everybody was gonna go and sign up on those because they needed to continue to make a living.
+
+
+[00:03:00] Speaker: And I knew all of the highest. Stakes poker players in the world. So I created an affiliate and I signed up all of my friends to all of these sites and I found them the best deals. And I negotiated these things and it went from me making, you know, no money to me making like 20, $30,000 a month within a couple of weeks, right?
+
+
+[00:03:18] Speaker: And so, very quickly I saw that a changing reshuffle of a landscape created an opportunity, and then that really drew me to entrepreneurship in general. I think that was the first real catalyst. I grew up in a town of 900 people, right? Like very, very small village. Not a lot of opportunity, not a lot of anything.
+
+
+[00:03:40] Speaker: And so I really valued, for most of my life, a meritocratic environment. I didn't go to Harvard or MIT, I didn't go to, you know, amazing school. I didn't have any connections. I was a poker player who dropped out of college, right? And so what I really valued was the ability to, to just do something where. I could earn my own way or like prove my own value over time.
+
+
+[00:04:01] Speaker: So poker was a perfect example of this. Poker is purely meritocratic. It doesn't matter anything about you, it's just you are smarter or better at the game or you're not like, that's it. It was very, very linear. Like those are just the systems and environments that I valued. And so that was one of the things that I was very drawn to in crypto.
+
+
+[00:04:16] Speaker: I didn't need to know the banking executives. I didn't need to have an uncle who worked at Goldman Sachs. All I needed to do. Was to be able to build something that was more useful to the world that actually had a higher degree of utility. It was just build the best possible system that you can build and permissionless open access to anybody.
+
+
+[00:04:35] Speaker: Just build the best thing. 
+
+
+[00:04:38] Speaker 2: I've been building with Brian since we're in school together and nobody would give us money 'cause we were noddies and we didn't come from a great pedigree and we didn't have a great school. And so I always wanted to prove that we could do impossible things, great things. And so I'm always chasing is when someone says something's not possible, right?
+
+
+[00:04:55] Speaker 2: This is not technically possible. This, uh, you, you can't do this. Nobody can. When I hear that, uh, that's all I wanna work on. Brian was like, uh, our hero, like my hero at our, like the oil and grades, heroes. He's a genius to everybody. And so I always looked at the Brian and I wanted to be like him. I didn't know we were gonna do that, uh, to be, be working together basically our whole lives, the rest of our lives.
+
+
+[00:05:17] Speaker: So two things happened through the crypto side. All of poker, all the shady sites that remained the only way to deposit because PayPal, money bookers, net tellers, rill, they were all shut down. Bitcoin was the way that you would deposit to these sites. So everybody in poker who was in the United States in 2011 era found Bitcoin every, everybody used it as a way to deposit between, so it was a first real product market fit.
+
+
+[00:05:40] Speaker: And then on the entrepreneurship side, I'd got really interested by this affiliate idea and that created a, a doorway for a new industry, which was called Daily Fantasy Sports. Sort of a faster version of that. I went to them and said, can I just. Work for free. Like, just let me do some affiliate stuff. I wanna learn, uh, let me just, you know, see how it is.
+
+
+[00:05:58] Speaker: And they said, sure, great. And then the sort of board of the company said, Hey, we actually want you to become CEOA couple months and run the company. I actually took my two co-founders here that I started layer zero with and I brought them in and we grew to being third overall in revenue. So we were just turning profitable, we were just doing this.
+
+
+[00:06:13] Speaker: And then we got an acquisition offer and we sold it. 
+
+
+[00:06:16] Speaker 2: It was a hard time like in our lives. I like that was a hard, the first time we felt like real hardship, year and a half, maybe two years of zero income. And me working 80 hour weeks, uh, every day I was on because it was just us maintaining a site that had, you know, tens of thousands of users with real money playing on our site and us taking every dollar we made and we were making money and reinvesting into the business, reinvesting in the servers, reinvesting.
+
+
+[00:06:38] Speaker 2: My biggest learning, uh, the biggest takeaway was like, I worked very hard with Brian on it. Brian doesn't really give up, and I don't, and my, my, my whole life, my father pushed me like never give up on things. And it was the first time where I, I, I felt like, uh, you know, it wasn't going anywhere. We were outta money.
+
+
+[00:06:55] Speaker 2: I was paying money outta pocket at this point from my wife's salary to like keep things alive with Brian. So was Brian. And we had an offer. It wasn't a great offer, and Brian said, we shouldn't, I don't think we should take it. And I said, I have to take it. We have to take it. I just need to tap out at this point.
+
+
+[00:07:11] Speaker 2: Like, I, I can't do it. That was the first time I've ever tapped out. 
+
+
+[00:07:14] Speaker: Ryan actually came back to me later and said like, I really, really believe that we can build something incredible, and I promise you the next time that we do something, I will run my life into the ground. You know, I'll, I'll, I'll go all the way to maximum suffering and everything, uh, and we won't kind of give up early.
+
+
+[00:07:32] Speaker: And we said, okay. Like, we'll do that. And then Ethereum sort of was launching at the same time. Ethereum was this great layer. That you could trust and you could build value upon, but it was slow and you could never build complex applications. It was really the spark of, well, now you can build something really interesting.
+
+
+[00:07:49] Speaker: And we saw that need very early on of, of course, you have to be able to move back and forth. You write the code. And you'd host it on a server, and maybe the server was in my house, or maybe it was in a data center, but it was just like one computer. And if the computer went down, like the website, your application was offline, you know?
+
+
+[00:08:05] Speaker: And so you had to make sure that computer was online and everything. But now when you build an application. You have a million microservices, you have databases, things that are optimized for throughput, for speed, for every different component. And we saw blockchains will really start to leverage that.
+
+
+[00:08:22] Speaker: You'll have layers that are really optimized for storage layers that are really optimized for throughput and for high amounts of transactions layer that are extremely security focused. And there was a way to connect those all together to create something that was sort of more valuable than the sum of the parts.
+
+
+[00:08:36] Speaker: And so I, I called Ryan and I said like. I know you said the next time we did something we would like really do it. I, I was like, I think now is the time. And I called him two days after Christmas and within 10 days he had sold his house. Packed up his life, taken his four month old daughter and flown across the world to come in Vancouver and be in Vancouver with me.
+
+
+[00:08:58] Speaker 2: I wanna, I wanna get the band back together and just start building again. I don't think we can do this remote. And I said I'll be there in two weeks. And I never moved back. My daughter didn't sleep well and she would be up all the time. Uh, it was actually like the worst. To, to go and take a shot and do these things.
+
+
+[00:09:13] Speaker 2: That's where I learned GPU every morning at, I would strap my daughter in, uh, to these straps and I'd walk around Brian's downstairs living room. I would read the docs and everything about that Nvidia had on how to GPU program, read textbooks without doing the work. 'cause I couldn't, I didn't have a computer.
+
+
+[00:09:31] Speaker 2: So I was just do it in my head from two in the morning to seven in the morning every single day for six months. And then I sat down and just started coding GBU. It was the worst time to go, which is the best time for me. Finances, stress, um, time. And, uh, that's, that's when like I have to hit my shop. 
+
+
+[00:09:50] Speaker: The first thing that happened that had been really interesting since smart contracts was you started to hear Bin Smart Chain more volume than Ethereum, more users than Ethereum.
+
+
+[00:10:00] Speaker: It was very strange. Uh, there was a bunch of other things that had launched, but nobody really used them. What could you build with that? Can you build something that leverages the speed here and then brings it back to the security over here? We started to build this. We built some toy examples, and then only then did we realize that everything we were building.
+
+
+[00:10:17] Speaker: You couldn't send a message between the two networks. You couldn't go between Binance, smart Chain, and Ethereum. And so we started to build kind of a better form of a bridge, and then we very quickly realized. Hey, this is, this is really the problem is connecting these things. And that became, it became layer zero.
+
+
+[00:10:31] Speaker: That was us solving our own problem. It was us building examples, but all of this stuff that we had done prior brought us to that. You know what started as an idea now is a reality, and now we're sort of on the precipice of like really meaningfully changing a large part of the financial system. November, we did $38 billion.
+
+
+[00:10:51] Speaker: $38 billion is. Five and a half times what Western Union does in a month, and that is just like crazy to think about is you can really change how some of this works. 
+
+
+[00:10:59] Speaker 2: That's what drives me is solving hard problems and I wanna solve a hard problem that helps people, and it's not about how much money you make, but like how much better you can make their lives overall enriching others' lives.
+
+
+[00:11:11] Speaker: It's very easy to forget growing up in a country that was stable and wealthy. There's a lot of places that. Don't have any access to any sort of financial infrastructure and even the banks and the financial institutions that aren't trustworthy, right? They'll scam you. They'll charge egregious rates.
+
+
+[00:11:27] Speaker: They'll go under, there's fraud early on. What resonated about Bitcoin was that. Nobody could come and just seize your money. Nobody could come and do these things. You had ownership and control. I think Tether is the best possible example of this where most companies really try to focus on a certain geography.
+
+
+[00:11:46] Speaker: So you're gonna be Stripe and you're gonna be in the United States and you're gonna service institutions and developers there. And then you're gonna expand and you're gonna expand. And Tether went and they said, we are gonna offer access to the US dollar. To all the places that don't have easy access.
+
+
+[00:12:00] Speaker: So Egypt and Nigeria and Argentina, and places where their currency is inflating at hundreds of percent a year. And the institutions aren't trusted and the central banks aren't trusted, and they really made arguably one of the best businesses in the entire world out of that, right? Hundreds of billions of dollars of assets.
+
+
+[00:12:17] Speaker: 15th largest holder of sovereign debt in the world. And all of that was just by giving. The average person just access to the dollar. And I think that is, uh, as powerful a change as the world is gonna see in a really long time.
+
+
+[00:12:33] Speaker: A long time ago, the internet wasn't the internet, it was just groups of computers, and you would've a group at Stanford and a group at darpa, and they each ran in their own cluster. But I couldn't talk to each other. And so if I had some data or something, I would have to take my disc of data, fly to Stanford.
+
+
+[00:12:51] Speaker: Plug it in, run it on their program, and then I would fly back with the results. And then we invented the internet, and the internet gave us connectivity between all of these things. Global connectivity. If you go back to the beginning of blockchains and what existed, it was exactly like that. You have Ethereum, you have Solana, you have different environment.
+
+
+[00:13:09] Speaker: None of them could talk to each other. There was no way to take your money from here to there. There's no way to communicate between an application. So all that Lazer did. Was exactly like the internet. It just connected these environment, strange and foreign concepts. Early on, this was, you know, felt like fantasy land craziness.
+
+
+[00:13:27] Speaker: But now, 15 years later, every major institution in the world is figuring out. How do we actually leverage this and there's more and more conviction. And Larry Fink just stood up at the World Economic Forum in Davos and said, institutions are not trusted anymore by the average person. And so like, what does a world look like where there is not trust in the existing institutions?
+
+
+[00:13:45] Speaker: What it looks like is a world where you don't have to trust and again, is open to anybody. And so that's incredibly important for us. And again, I think the only true thing of value within the space. 
+
+
+[00:13:56] Speaker 2: It is essentially a series of trade-offs in a trial. You can choose two of the trade-offs, but you lose one of them.
+
+
+[00:14:01] Speaker 2: You live somewhere in this triangle. Every blockchain has to do the same thing. They're all in a network and they're all communicating with each other. And what is a block? It's a series of transactions like, so I'm gonna transfer money to from, from myself to my friend Bill and Bill's friend, transferring money to somebody else or performing this transaction.
+
+
+[00:14:17] Speaker 2: And there are a series of transactions. Every single validator or participant in the network has downloaded. Executed. So they ran it and agreed on the outcome and then come to consensus with each other. And now they need to say, we all agree on this. This is the new block. We all agreed to this thing. Now since everybody's taking turns doing this, they all need to have the same hardware.
+
+
+[00:14:36] Speaker 2: You know, the bigger the block, more pipe they need, the more network communication. And so Thema really boils down to higher TPS the faster I want my blockchain to be. Bigger the device, and the bigger the device means, the less people who could run it. 'cause it's more expensive, it's less accessible. So if you want somebody in a third world country participating in helping decentralize the network, um, they can't, if it's a, you know, $40,000 a month server that you have to pay through AWS, uh, that's why Ethereum is chosen.
+
+
+[00:15:04] Speaker 2: Hey, we want maximum decentralization. And so they're giving up on performance. Solana wants higher performance, so they're giving up on maximum decentralization. And that's the, the requirements to participate is you need to stake a lot. You need to have a big, beefy machine. It eliminates that, that, uh, ability to have that maximum centralization.
+
+
+[00:15:19] Speaker 2: And then, and the more performant you go, the less decentralized it becomes. But nobody could get the best of both worlds. How do you have something that's really fast and high performant? And you could build like the actual internet and like the applications on the internet on, and like all financial rails, like, uh, New York Stock Exchange, 2 million TPS, you're never gonna get that even on the Solana.
+
+
+[00:15:38] Speaker 2: How do you achieve that and still be decentralized? Uh, it's the holy grail of the impossible thing, an impossible problem. My favorite, 
+
+
+[00:15:46] Speaker 3: what we needed was a spark. Our Wild West is full of stories of freedom, of ghosts, of riches, of possibility. Consider for a moment that maybe at last those stories might be true.
+
+
+[00:16:02] Speaker 3: What if the inevitable was finally here, the building done, the rails laid? What would you do if you saw it with your own eyes? 
+
+
+[00:16:10] Speaker 2: Ethereum couldn't scale fast enough, and they said, these layer twos, they inherit our security. Go build there. That's how we scale When they said that, I call that a noble lie. A noble lie, saying that, you know, you know, we care about these principles.
+
+
+[00:16:25] Speaker 2: We can't scale yet, so we need to lie to you. So you stay. And then we'll hopefully find a way to scale in the future that lie. Struck a nerve with me. It made me feel like no one is left to do this thing. It'll all for nothing. This experiment will die. We'll just have a more redundant financial system, but not a freer one.
+
+
+[00:16:43] Speaker 2: But it felt like the last Samurai putting their sword down and saying, this cause is over. I felt like I had to pick it up. I had felt like I had to do it. Because I thought no one else would. 
+
+
+[00:16:51] Speaker: Well, I don't care to build a technology that makes a bunch of money early on, but then never gets used. Like we wanna build a technology that is used everywhere that is abi ubiquitous, that is adopted universally.
+
+
+[00:17:02] Speaker: So there's really a question of can we win? My favorite example of this is like Demis from DeepMind is like my all time just personal hero of like even from like, he has never changed his story in like 20 years. And the industry like blew up in 2014 and then it died and then it came back and he's like, the whole time been like pretty intellectually honest of like.
+
+
+[00:17:22] Speaker: Here is what is useful here is what is not like we are really focused on like protein folding and like solving real problems. And he is just never wavered and he stayed at the very top of the field throughout the entire time. And I just think that kind of person is just like inspirational, like. 10 outta 10, you wanna bet on them every single time.
+
+
+[00:17:39] Speaker 2: There has been so many times, even internally, where it's so easy to say, let's, let's compromise our principles. So we win this corner a little bit, just this one time. We get tested all the time on how we build or decisions we make. Canada certainly showed that to us here in this country that I live in when if you donated to the trucker, cause you should be outraged at the fact that donating to a cause that they didn't like, they seized your bank accounts and turned off money you worked for, you earned.
+
+
+[00:18:08] Speaker 2: I don't need more money. I don't, I want impact. I want to, I want a certain outcome for the world. 
+
+
+[00:18:14] Speaker: Forget anything in the short term. What does the world look like five years from now, 10 years from now? How is the world changing? And how do we build the systems such that they are still useful? Then it's great that I can, you know, send money from unis SWP here to something, you know, across the two blockchains.
+
+
+[00:18:33] Speaker: Now, what does it look like when the entire, when every bank in the world has a ledger, when all of the world's assets move on chain, when stable coins are like the dominant way that these things happen when global markets emerge, right? Uh, what does that actually look like? How does everyone else do it?
+
+
+[00:18:48] Speaker: Great. We can make it a little bit better. It's. Reset everything. Think completely from first principles. How can I break it? How can I break it? 
+
+
+[00:18:57] Speaker 2: That architecture unlocks a new internet. It would add more freedom everywhere. And so Web3 for the first time, to me is real.
+
+
+[00:19:09] Speaker: It is so hard to build a company. There was like six different times we could have just like walked away. We could have killed the company. There were so many times that, you know, we, we. Almost didn't make it. You only really do that and you only really keep doing it if you really, really believe in the thing that you're doing.
+
+
+[00:19:27] Speaker: Without conviction, you will just, in any industry, you will just never get there. And so I think you're way better off finding something you really deeply believe in and going for that, even if other industries are more exciting at the time or whatever, uh, I think that's the only way you get like true success in anything.
+
+
+[00:19:44] Speaker: People are really drawn to passion. And so one of the things I love about conviction, having conviction is naturally you're, you're more passionate about the thing that you're doing. 'cause you know, you're not questioning, you need, need approval from anybody else. You know that you believe that a thing is right, should exist in the world, like is the right way to solve the problem.
+
+
+[00:19:59] Speaker: And I think people are drawn to that. I think it's good to have something that's interesting and you're bad. I think Toby from Shopify talks about them hiring for spikes. You don't really want a perfectly well-rounded generalist. What you really want is somebody with with crazy spikes. We were the first company ever in history to have both Andreessen Horowitz and Sequoia both co-lead around and like that is very.
+
+
+[00:20:19] Speaker: Rare, and we are about as atypical as you could possibly get from like a 16 z and Sequoia backed founders, right? They're normally Stanford grads who did a PhD, worked in a lab, worked at this big company, and we're like, went to the University of Ha, New Hampshire, like dropped out of school. Uh, but it really was that like spikiness, I think we were completely convinced of the thing that we were doing.
+
+
+[00:20:40] Speaker: We didn't, we didn't care. Like we didn't need. Them to write a check. They wanted to be involved 'cause they saw that we were like driven in a direction. And so we were, we were definitely gonna build the thing.
+
+
+[00:20:57] Speaker: I think what I would say to people is like the whole point of this space, like the whole premise of everything crypto, is that you shouldn't have to right trust but verify, right? You shouldn't have to trust me in what I say. You shouldn't have to trust us. You're gonna be able to trust the code. You're going to be able to observe it for itself.
+
+
+[00:21:11] Speaker: On February 10th, we're gonna stand on stage. We're gonna prove Ethereum's history. Real time verifying a million transactions per second at 110 bits of security, right? Nobody has ever done even remotely close to that. And then every step of the way from now until September, we will show and like you will be able to touch and feel it.
+
+
+[00:21:29] Speaker: I want people to go and do that. 'cause that's how you get somebody to have conviction. Me telling you something. You're not gonna have conviction. 
+
+
+[00:21:34] Speaker 2: Is it technically possible? Uh, or so you might also get people saying, well, I had some of these ideas. They're not that smart. But I think so what? You haven't done anything yet, right?
+
+
+[00:21:44] Speaker 2: Talk is cheap. So we're gonna go out there and do it. 
+
+
+[00:21:47] Speaker: Building a company is unbelievably hard. It's a thankless, miserable job most of the time. I could have never, ever done it without Raz, like, no, with no question. There is zero doubt in my mind, specifically, I mean, specifically him. There is just no way I ever could have done it alone.
+
+
+[00:22:05] Speaker: I would never, people talk about how hard co-founders are and they talk about how they could never have a co-founder. I could have never, ever, ever done it alone. No question. 
+
+
+[00:22:13] Speaker 2: Likewise, it's destiny is what it feels like. Like I almost like everything that's happened. It feels like it was meant to happen, like it was preordained.
+
+
+[00:22:22] Speaker 2: I know that sounds crazy and like probably cringey, but it does like the right people show up at the right time for us, and it's probably just a matter of us putting ourselves in those positions where that happens. Uh, I think about the first time I met you fairly regularly, like it is a part, like it is like a.
+
+
+[00:22:39] Speaker 2: That was meant, Brian was meant to pop over the fence and say, Hey, I'm Brian. Right? And like, I couldn't, could not do this with anybody else. 
+
+
+[00:22:46] Speaker: Never heard some of this stuff before. It's like emotion, emotional, you know? It's, uh, 
+
+
+[00:22:52] Speaker 2: this is the best time of your life. You are healthy, you get to work with your best friends, and you get to work on something cool.
+
+
+[00:22:59] Speaker 2: Whether or not we had succeeded with layer zero, like before, layer zero, we were not succeeding financially. But I was happy. I didn't quite get that. Until like, um, a couple years ago when my wife kept asking me like, when does this end? What is your goal? And I, and I, and then, then I was, I kept asking, what is my goal?
+
+
+[00:23:16] Speaker 2: It's doing the thing. So people are like, are, are you stressed about February launch? And I'm like, no. It's just part of, I'm just enjoying it. This is part of the moment. Every day is the moment. Enjoy it. 
+
+
+[00:23:27] Speaker: There's only one thing I can have people remember in order to truly. Change things in order to build something great, you must have conviction like it is that the undying conviction and passion.
+
+
+[00:23:40] Speaker: Now as I drive into work, I'm, I listen to a lot of biographies. I'm listening to Elon's biography and one thing that resonated a lot with that is, uh, he says like. It's very easy to think that technology just progresses automatically, right? Uh, Egyptians had the pyramids and then technology was lost.
+
+
+[00:23:55] Speaker: Romans had the aqueducts and all this stuff lost in the dark ages. Like technology is not guaranteed to move forward. The world is not, even though it's been moving forward in a wonderful state over the last a hundred years, not guaranteed to move forward or even move in a positive direction, like technology advances and the world changes because.
+
+
+[00:24:13] Speaker: A group of people are like really, really passionate and work really, really hard to make that thing happen. That conviction, that passion, that hard work should not be taken for granted. It's not expected. And like, it's cool and it deserves the utmost respect for anybody who's like trying to do those things.
+
+
+[00:24:30] Speaker: But it is a prerequisite to do, and I think people should realize that that is what it takes and, and decide that they want to do that thing. In caring about something is like again, it is, uh. It's the best, so yeah.

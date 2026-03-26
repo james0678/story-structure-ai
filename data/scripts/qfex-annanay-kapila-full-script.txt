@@ -1,0 +1,801 @@
+﻿Full script after cutback
+00:00 | Yeah
+00:00 | So my name is Anane
+00:01 | I'm founder and CEO of QF- QFX
+00:04 | QFX is a 24/7 global perpetual futures exchange for traditional assets so equities equity indices commodities FX
+00:13 | And our aim really is to make the most efficient and user-friendly financial market that's ever been built using tools that have only really become available recently like stable coins and integrated clearing solutions that have been popularized in the crypto market
+00:28 | So yeah you know I've been working on this for around a year with my team
+00:32 | we're 10 people based in New York and London and my background before then was in high-frequency trading
+00:37 | So I used to work to trade and produce trading strategies and and trade on some of the biggest financial markets in the world: crypto traditional markets stock markets futures markets doing over $10 billion a day in volume
+00:51 | Yeah
+00:52 | So my career started really I guess
+00:54 | You know I started thinking about what I wanted to do with my life towards the end of my time at Cambridge
+00:58 | So you know I studied maths at university
+01:00 | it's not really something you do if you-- may may maybe now because quant has has become like a very well-known job it's something you do if you know you want to be a quant or whatever you think "Okay maybe I study maths." Back in those days you know it was just something you did like as a passion
+01:13 | I was really interested in solving maths problems and I you know did pretty well in Maths Olympiads when I was in high school
+01:17 | And towards the end of that you know I started thinking "Let's you know let's-- W- what what do I want out of life?" And you know the 3 things I knew about me is I knew I was very competitive right
+01:27 | so you know I played a lot of sports and you know generally I knew like I like to win things
+01:31 | And I enjoyed doing maths every day and I didn't mind working hard and working a lot of hours and it meant I could learn very fast
+01:37 | And the job that kind of brought all those 3 things in together was job in quantitative finance quant trading
+01:43 | So after I left Cambridge 2020 I worked at a Dutch high-frequency trading firm called Flow Traders for a year and then I got headhunted to an American firm called Tower Research Capital where I worked for almost 3 years
+01:54 | and I basically used to code and develop and research and deploy trading strategies across a bunch of markets
+02:01 | We used to do very high volumes very high market shares wherever we traded
+02:06 | And kind of towards the end of my time at Tower a bunch of things happened in life that kind of aligned that made me think that maybe I should leave this and and build a startup
+02:16 | So kind of going through them one by one you know I have uh-- one of my best friends Josh who's now my co-founder he left his job at Citadel which is one of the top hedge funds in the world and he's a very entrepreneurial guy right
+02:28 | So he owns like
+02:29 | You know he already owns businesses selling like vapes and you know nicotine patches and stuff all over the UK
+02:34 | So I I knew he's like a very good guy to go into business with potentially
+02:38 | And he was very up for it as well
+02:40 | So that was one thing
+02:42 | Another thing is you know generally you know job was going pretty well and I had a lot of money saved up and so I thought "Okay let's you know maybe take more of a risk." And the idea I had you know for QFX I thought was a clear gap in the market and I thought not many other people in the world could kind of recognize this gap in the market and we had a clear first-mover advantage
+03:00 | So kind of towards the end of 2024 early 2025 I kind of pitched this idea to my co-founder and then we I left my job in February 2025 and since then I've been founder and CEO of company now called QFX
+03:12 | It used to be called something else back in the day
+03:14 | And yeah have been kind of working through all the different parts of running a startup
+03:19 | You know early days we were just kind of coding all the time and making the the first version of the exchange then fundraising and now you know I spend a lot of time recruiting doing marketing speaking to our users trying to build the best possible experience for them
+03:32 | So it's been I guess for somebody who graduated Cambridge maths like a very standard journey as I graduated but now it's become something quite different
+03:39 | And yeah loving loving every second of it
+03:41 | Working much harder than I used to work before for sure
+03:43 | But yeah it's been really enjoyable so far and not without its low points I would say but that's kind of where we're at right now
+03:50 | Takes us to the current point
+03:52 | And you know we applied for funding from Y Combinator
+03:54 | So you know probably mo- most viewers here will be familiar with YC
+03:57 | they-- very unusual they replied to us and they said "You know we really like the team but this is the wrong idea for you guys." And it's unusual
+04:05 | Usually they either just say no or they say yes
+04:07 | So for us they said "Please change your idea." And I was on a holiday with Josh and a bunch of my other friends who work in high-frequency trading
+04:15 | We're actually in Cambodia and we were in a minibus driving to the temple Angkor Wat when we got this email
+04:22 | And we were like: "Oh man we have to change the idea," and we had like 2 days to come with a new idea right
+04:26 | So you know we we thought about a bunch of like crazy things
+04:30 | We thought you know "Oh you know there's a war in Ukraine
+04:32 | Let's like make drones to help the Ukrainians." You know so like random stuff like we had no idea about any of this
+04:37 | And interestingly I'd already had the idea to do this exchange what is now QFX like about 6 months before and I'd
+04:44 | I messaged some people on LinkedIn saying like you know some people who I thought like knew about exchanges
+04:47 | Just cold messages like: "Hey you know I have this like crazy idea
+04:50 | Do you think it can work?" And everyone said like: "Yes it can probably work but it's a lot of work
+04:54 | Like you probably need a lot of money and you need a big team." So I put the idea to bed and then when YC asked us "Hey do you have any other ideas apart from recruiting?" I kind of pitched it to him
+05:04 | And truth be told Josh-- so Josh worked at Citadel but on the engineering side
+05:08 | He didn't know anything about the exchange side of things right
+05:10 | But luckily we were in this bus right
+05:13 | And every- there there were maybe 8 8 of us on this bus and every other person worked in high-frequency trading and they all told Josh they like: "Yeah it's a very good idea actually." So Josh just took a leap of faith
+05:24 | He was like: "Yeah like let's let's do it." We applied I think
+05:27 | I also got- I used to take a lot of vacations as you can probably tell
+05:30 | I also got the call for an interview while I was on vacation with my girlfriend
+05:34 | and then you know Josh calls me and I'm like in Austria watching some opera show and he's like: "Oh we got an interview
+05:39 | got an interview
+05:39 | You have to come." I flew the same day back to London
+05:42 | We did the interview and then the next day we got the offer and then we were like: "Okay I think this idea is you know pretty good and now that we have funding we can probably build it." And you know I I think it was like a big leap of faith for Josh but you know we've known each other for a very long time I guess like since we were 18 pretty much
+05:57 | So we kind of trust each other's instincts
+05:59 | And yeah luckily you know like there were a lot of other people when I pitched the idea to him who also said it was a good idea so it wasn't too much of a leap of faith from him either
+06:06 | And YC are really looking for the exact same thing and they've distilled it into like a 10-minute interview
+06:10 | And you know PG also explained this to us that you know they used to have like longer interviews more people in the interview and they tried a lot of different things and they really boiled down what they're looking for which is these two points
+06:19 | Like is this a huge idea and are these guys the right people to do it
+06:23 | And they ask I think very good questions and we use a lot of learnings from you know the way YC partners speak to their you know their their funded companies their portfolio companies and the way they conduct the interview about how we do recruiting as well
+06:38 | Which is you know they they ask questions that really test whether you've got into the details of understanding where the problem lies and what the why now moment is
+06:48 | Like why is now the right time to build this idea
+06:51 | Not you know what's the probability- Th- they don't think about things like: What's the probability of this idea succeeding
+06:56 | Or they just wanna know the probability is bigger than 0
+06:59 | Even if it's one percent but it's a huge idea and you're a good team they'll fund you
+07:02 | and the the types of questions they ask I mean you asked me specifically about the the YC interview
+07:06 | I'd say you know the types of questions they ask is you know like like I said "Why now?" It's a very very common question
+07:11 | they'll go into like
+07:12 | They they they're very good at like asking questions that you could only answer if you've thought about your idea in a lot of detail
+07:17 | they'll ask you you know: What do you have your competitors don't have
+07:20 | why can't your competitors do this overnight
+07:22 | You know and it's more than just "Oh we can build tech faster than them." There has to be some structural reason why they can't go ahead and do do the thing overnight
+07:28 | they'll ask you a lot of questions about who you think your potential users are gonna be to see if you really understand the users
+07:33 | That's something YC really talks about a lot is like you know they want you to go out and find those people that are gonna use your product and like be friends with them right
+07:42 | Like you need to like know them personally
+07:44 | You need to you know ideally know their home address right
+07:47 | You need to know where they live like that level of detail
+07:49 | And they'll ask you questions to determine you know have you gone out there and have you tried to speak to these guys
+07:53 | what they're not interested in is yeah you know your probability of success
+07:56 | I think as long as they think it's above 0-
+07:58 | it's it's fine
+07:59 | It just needs to be huge idea
+08:01 | they're not interested in how much money you've made already
+08:03 | you know if you've made a lot of money very quickly that can be interesting but most YC startups are pre-revenue
+08:08 | I think a big misconception is like you know you already have to have a lot of traction before you get into YC
+08:12 | The whole point of YC is you know you take promising people and you basically accelerate you know YC calls itself an accelerator
+08:19 | Those first few months which are so crucial for the company to make sure you don't make common mistakes that they see from smart people building companies for the first time
+08:26 | So it's like you know we see this mistake this mistake this mistake
+08:29 | They'll guide you away from that and then hopefully by the end of the batch you know you're ready
+08:34 | You're kind of doing your own thing
+08:35 | Those common failure modes that occur early on you've kind of avoided them and then you know you're kinda good to go and they give a lot of ongoing support as well
+08:41 | So you know we can reach out to our group partner anytime and they they're always very happy to talk to us
+08:45 | Yeah sure
+08:46 | So Tower you know first thing I would do when I get in you know not even when I get in when I wake up I have my work laptop I check how much money we've made right
+08:54 | So when you work as a trader as a quant a very unique kind of job in that you're given-- you're you're basically given a lot of direct revenue responsibility very early on
+09:03 | very typical in a lot of trading firms after 4 6 months certainly a year people are responsible for revenue generation and I think that's super interesting 'cause there's not a lot of other jobs where you kind of have that freedom and also if you come up with new ideas to execute those ideas very early on without a lot of oversight
+09:19 | So first thing I do is I I I check how much money we made
+09:21 | Is there anything urgent that needs to be fixed
+09:23 | And you know there's basically 2 main parts of the job
+09:27 | One is kind of longer-term research and improvement on the trading strategies that we have
+09:31 | We usually have a long list which is developed from
+09:36 | yeah let let let let's say known problems with the strategies that we run known times when they they they did errors known things that we can improve to updates to the market and you know we we create a list of tasks that we we think you know are longer-term improvement projects that can't just be fixed easily
+09:51 | And the other thing is making very quick decisions about you know let's deploy this today let's turn this strategy off today
+09:57 | Market will be volatile on this so we're gonna turn this strategy off
+10:00 | you know Trump is speaking at this time so maybe the model won't be very good at that time
+10:04 | So you know I would say historically in a lot of trading firms it's maybe 70% of that decision-making 30% long-term improvement projects
+10:12 | Nowadays trading is moving towards more of a systematic quantitative approach with the improvements in model technology and compute power resources that we have
+10:20 | And most firms you know are at the 70% kind of long-term projects 30% kind of shorter-term decision-making or even a little bit beyond that 100% long-term projects kind of roles
+10:32 | So that's basically it
+10:35 | Yeah sure
+10:36 | So I think you asked about scale previously as well and I I didn't quite mention it
+10:39 | We w- when I was at Tower we were doing
+10:41 | You know I I can't give exact precise numbers because it's in confidential information but I can say roughly you know 10 to $100 billion a day just you know the strategies that I was responsible for in volume
+10:51 | So you know to to give you an idea of like scale and like common terms right
+10:55 | Like I think $10 billion a day is roughly the GDP of France right
+11:01 | So we would transact that in volume by trading on these financial markets
+11:05 | That gives you an idea of like know how much size and how much volume really moves on these markets and why they need to be so robust and why they need to be so well-designed
+11:13 | and even small changes in design can improve the nature of the the markets and and basically create efficiencies for everyone
+11:19 | when when you work at those kind of scales and I guess you know you're talking about kind of stock trading and you know the scales we're working at I think the the really interesting thing about working in quantitative finance is you see all the different kinds of participants that that trade in the markets
+11:32 | You know strategies we're running at Tower would do anywhere between 10 and 40% of all the volume in some stock markets or some some futures markets that we were present in crypto markets whatever
+11:43 | And you really see that you know there are some yeah like retail stock traders right
+11:48 | But then there's also big pension funds there's hedge funds there's banks there's actual companies that use these markets to hedge their own risk
+11:56 | And you know in quant you you kind of-- because everything is data-driven and you're not doing trading by talking to people you're just looking at data and you're trading from data you really see the differences in scale and differences in trading style between all these people and your job is basically to match these people and help them find each other and transact in the opposite direction so they want to transact in and really facilitate that matching
+12:18 | and that's what high-frequency trading and quantitative trading is all about is kind of being a middleman
+12:23 | And you know people ask me for like a real-world analogy
+12:27 | I often say it's like running a car dealership right
+12:29 | So somebody who runs a car dealership you know you can sell your car to them you can buy a car from them and their job is basically to kind of have an inventory of cars ready to sell and they buy a car at a little slightly lower price and sell cars at a slightly higher price
+12:43 | And the reason quant finance is able to make so much money is because so much volume trades in the market you know
+12:48 | Like we're here in the US we're in New York right now-
+12:50 | the S&P 500 future on CME that's one future one product trades $500 billion a day right
+12:56 | Which is nuts
+12:57 | That's like more than the GDP of any country if you analyze it
+13:00 | if you just sell at a slightly lower price and buy at a slightly higher price this future as fast as possible you make like 0.0001 cents maybe per trade but you multiply that by billions and billions of dollars and you can you can start to make a lot of money
+13:13 | I think that's what people- it's like a common misconception about quantitative trading is you know people think that you know
+13:19 | it
+13:19 | Yeah Robinhood is a good a really good example
+13:21 | So they were the the fir- o- one of the first no-fee brokerages here in the US and they did a really good job with go-to-market and I think I think they became very popular
+13:29 | Timing was good as well
+13:30 | You know was popular during the COVID meme stocks like trading bubble
+13:35 | what happens-- The way Robinhood were able to offer 0 fees I think which is you know what people are interested in is when a a retail person places an order okay that order is very marketable in the sense that it's kind of easier for a quant firm to trade against a retail order than it is to trade against an institutional order like a hedge fund or a pension fund or or anything like that
+13:59 | And therefore just the very nature of this order itself has value right
+14:05 | So if I go to Citadel and I say "I wanna buy a share of Tesla," and I do on Robinhood right
+14:10 | "And I wanna buy $10,000 of Tesla," Citadel can probably make $1 on that trade by just taking your buy order and matching it to another sell order at slightly different prices
+14:19 | And what Robinhood realized is that instead of charging fees to their users they would rather go to Citadel and say "Hey you're gonna make $1 on this order
+14:27 | I want you to pay me back 50 cents and you take 50 cents and we won't charge our users anything and we'll make money." Right
+14:34 | So it's very similar to any kind of consumer marketing where you know it's it's basically performance marketing right
+14:40 | So like you know any- anywhere that offers a referral system let's say you know I refer you to go to the gym right
+14:47 | the gym might kick me back some of the money that they make from your fees
+14:49 | So it's it's very very similar to that and the reason it comes under some criticism is that it's not very transparent
+14:55 | What happens is your order to buy Robinhood goes to a f- you know a a a a single hedge fund or a trading firm which makes a lot of money right
+15:04 | And they know they're gonna make money from you and that's why they're able to give you the order for free
+15:09 | Your order doesn't go to the exchange and the exchange is like the most fair place possible because there's no break-- y- y- it
+15:16 | No if y- no matter you're a big hedge fund or a small retail you have equal priority on the exchange right
+15:21 | There's no special orders that you only get as a retail or only the hedge funds get
+15:24 | and it's very hard to police
+15:26 | So you know if you go to Citadel they'll they'll say "Hey you know like um w- we think on average um people should trade with us because even though the price is not transparent it's not on exchange we actually give better pricing than exchanges." And they published some papers to show that you know on average people who trade through Robinhood with Citadel are better off than trading directly on an exchange to a different broker let's say
+15:49 | the issue is it's very hard to measure and we're relying on their information and their information is not public basically
+15:54 | So that's where there's some issues then regulators have to get involved obviously and you know regulators have to do their own analysis
+16:01 | it's all very like opaque
+16:02 | Yeah I I'd say you know until very recently most kind of new financial products were very very very constrained by what regulators basically said and what regulators allow people to do
+16:15 | So very early on kind of in our product journey YC actually connected us to Tareq Mansour CEO of Kaushi which is you know doing very well here in the US
+16:23 | And this is around a year ago now and you know he gave us some really good advice and he said you know "The issue with a lot of fintech is like you know the technical talent of people who work here is really constrained by the financial-- existing financial system
+16:35 | that they're operating in and the rules and laws and regulations that surround it." Now that's starting to change very recently and I think you know in the last 2 years we've probably seen more financial innovation happen particularly here in the US than we've probably seen the last 50 years before that right
+16:47 | Like it's it's like whole new market types are being tested and deployed
+16:50 | but you know historically exchanges were not electronic right
+16:54 | Like exchange was just like a pit of you know mostly guys
+16:57 | It's like like mostly men just shouting at each other
+16:59 | You know orders would happen kind of verbally
+17:01 | you know the the actual financial movement of money would happen at separate firms or linked separately
+17:06 | That's why you know brokerages and exchanges are 2 separate things and-
+17:10 | what's really interesting is you know we use a lot of crypto technologies to build our exchange is you know crypto when it first started out was not regulated by mainstream financial regulators and as a result they could just build systems based on the tech that was available using the best possible tech to solve the problems right
+17:25 | So you had like a bunch of very smart people using new improved technologies to rebuild financial systems from scratch
+17:31 | Some of them didn't work some of them worked very well and now you know we're trying to bring that into the mainstream kind of traditional market sphere
+17:39 | but the the the current systems are antiquated and they have a-- yeah they they they have like a lot of kind of moat and inertia to to change
+17:47 | they've made very specific design choices that are very hard to overhaul with with any kind of speed
+17:52 | And I think you know my prediction for the next few years is we're gonna see a lot of acceptance from all parties you know lawmakers from you know hedge funds retail pension funds banks that you know some of these new technologies are worth bringing into traditional markets and it's time to have an overhaul of the system
+18:10 | Yeah yeah
+18:11 | FTX was crazy times
+18:12 | So it was November 2022 roughly
+18:15 | we-- I was in London at the time so I'd just come back from New York
+18:18 | I was back in London for a little bit
+18:19 | They had a conference called DAS which is a crypto conference in London
+18:23 | And I remember like you know I left work a little bit early because they were like: "Yeah go to DAS and go make some friends." And my phone started blowing up like: "Hey FTX is going under
+18:31 | What the hell is happening?" It's all anyone would talk about the conference
+18:34 | And and yeah it was very sudden
+18:37 | I think like a lot of people who you know weren't super involved in trading crypto at the time or markets whatever didn't realize like how quickly it happened
+18:44 | I think you know it was just a few days before that some news started to come out somebody leaked a balance sheet and then you know FTX was like: "No no no this is fake
+18:53 | This is fake." And then you know they put out some words saying you know like: "People are trying to attack us reputationally
+18:58 | We're not gonna be attacked." And then it it pretty much happened over a day
+19:02 | I think the beginning of the day there was like some real concern and then a few hours later they were like: "Yeah we we've declared bankruptcy." And you know for us it was very frantic because we we had money on FTX
+19:11 | I can't say how much obviously but we had we had decent money on FTX
+19:15 | And for us the the main priority was moving money out because FTX blocked withdrawals because they didn't have money to pay people out right
+19:22 | So that was that was like a huge concern
+19:25 | And you know we we looked at lots of ways
+19:27 | I have friends who had money on the exchange
+19:29 | what they did was like they just tried to buy one of every coin simple like one dollar in every coin and then a Dogecoin for some reason
+19:37 | It was like very popular back in the day
+19:39 | They didn't block withdrawals for Dogecoin for some reason so they just-- they had like few million on the exchange
+19:45 | They full bought Dogecoin and just withdrew it to Binance
+19:47 | That somehow worked for some people
+19:49 | there were some like Tesla tokens which were supposedly backed by real Tesla
+19:52 | Some people bought those and then tried to exchange them for Tesla but that didn't work out
+19:55 | we actually did a very interesting trade where
+19:58 | So FTX had a token FTT which was like stock in FTX right
+20:01 | So if FTX went bankrupt probably FTT would go to 0 the token
+20:05 | So what we did was basically you could trade FTT on Binance as well as FTX right
+20:14 | So we thought okay if FTX goes bankrupt right then the money we have on FTX we're gonna lose it
+20:21 | So what we can do is we can short the FTT price on Binance and we can go long on FTX
+20:27 | And what will happen is this should be delta neutral right
+20:31 | So you're you're kind of-- you you buy like a million dollars on FTX you sell a million dollars on Binance
+20:36 | If the FTT price moves in theory you should not make any money because you're long here and short here
+20:41 | So basically if FTX doesn't go bankrupt we won't lose any money
+20:45 | If FTX does go bankrupt then FTT price will go to zero so we'll make a load of money on Binance and the losses we make on FTX don't really matter because FTX has gone bankrupt anyway
+20:55 | Like we don't have to pay those losses
+20:56 | So that was that was a trade we did and we managed to recover some money from there
+21:01 | But you know every- everyone got paid back eventually because of you know the bankruptcy process and how good they were with recovering money as well as you know some good investments
+21:08 | You know it's famous that SBF invested in Anthropic very early
+21:10 | It was you know darling startup for the effective altruism movement and that made a lot of money so he was able to use that to to to to pay back some of the people
+21:19 | In many other ways they were a very successful company right
+21:21 | FTX was a very profitable business
+21:23 | They were backed by Sequoia very high valuation
+21:25 | They were raising money like crazy
+21:26 | you know they had Super Bowl ads they had stadiums named after them
+21:30 | And behind the core of that was like a very strong team right
+21:33 | Like a l- you know guys from MIT guys and girls from MIT
+21:36 | You know Caroline Ellison was at Jane Street as was SBF as were a bunch of the the founding team
+21:41 | And a lot of the products that they made was actually really good right
+21:46 | So you know witness to Equity Pubs
+21:47 | Actually FTX listed Equity Pubs shortly before they collapsed
+21:50 | they didn't have much traction at the time but you know they were the first guys to do it
+21:54 | And I think another really interesting thing is that FTX did try to go down the path of US licensing and US regulation
+22:03 | FTX purchased an exchange in the US and were in the process with the US regulators the CFTC asking them about the new kind of crypto exchange model that we're trying to develop and hone and improve for traditional markets
+22:15 | They were actually the first people to go to the the the CFTC with it
+22:18 | So in in many ways you know the path of QFEX has been similar in terms of you know where the background of the team is and you know a lot of the product decisions we're we're making similar to the lines that FTX were thinking along
+22:30 | And to me that's encouraging because you know they had some very very smart people on the team and they were obviously very ambitious
+22:37 | And the fact that we've independently come to make a lot of similar decisions to them shows me that you know we are trying to be as ambitious as they were and we were trying to basically bring the structural change that SBF really wanted to bring to the markets you know
+22:50 | I don't wanna defend SBF and say you know what he did a good thing or the end justifies the means
+22:53 | I think what he did was clearly wrong
+22:55 | you know users sh- shouldn't have had their money loaned to Alameda
+22:58 | he does deserve to be in prison I think
+23:00 | But I think on on the innovation side we are finding that a lot of things they did made a lot of sense and particularly that decision to engage with US regulators to kind of push back against the incumbency of US markets and global markets and in particular how markets work in general
+23:18 | we're on on a similar track to them
+23:21 | I think know we're in a more interesting time now that you know crypto is a little bit more mainstream stable coins more deposit
+23:25 | I just bought soup yesterday for lunch using stable coins
+23:28 | That was the first purchase I made with stable coins
+23:30 | We played poker in the Paradigm office 2 weeks ago
+23:32 | you know my payout was in in stables
+23:34 | I think stables will continue to get more adoption
+23:36 | And you know I think if FTX didn't do all those the the those things that they did I think they would- they would be a very successful company probably right now
+23:43 | so you know we admire a lot of things about them and you know we want to learn our lessons from a lot of decisions they made improve on them and most most importantly do it without any crime right
+23:55 | So we- we're not gonna take any shortcuts on that side
+23:58 | and yeah like we we we adhere to like modern standards on you know safety customer deposits
+24:04 | You know all of our customer funds are secured with a licensed regulated broker here in the US
+24:09 | it's under US licensing
+24:11 | Yeah
+24:11 | I would say FTX really tried to be like a a financial super app and take all the market share they could get from like any place right
+24:19 | So you know FTX had crypto they had meme coins they had
+24:24 | They even started doing traditional assets
+24:26 | they they they basically wanted to be like y- y- you know I I think at some point they even wanted to do like mortgages and stuff right
+24:31 | Like there's this very long article you can read that Sequoia published on Sam Bankman-Fried and there's like a little note at the bottom saying "Hey we didn't know he was a criminal when we did this article." and it basically describes you know his vision his ambition and yeah SBF as a founder was like a VC's dream in that year
+24:48 | He slept in the office
+24:49 | he wa- well he only slept 4 hours a a day and when he did he was in the office
+24:52 | He was fully committed to the cause
+24:54 | And I I would say for us we are much more opinionated philosophically on the kinds of things we want to service service and the kinds of behavior we want to encourage at at QFEX right
+25:03 | So SBF had an interview with the Financial Times I remember where somebody flew to the Bahamas and they were like: "Hey you know like most these crypto coins you're listing like most these are scams," right
+25:13 | Like in 2021 there were a lot of scams out there
+25:15 | He was like "Yeah I know but like..." Yeah and you know at QFEX we don't even list crypto right
+25:21 | Because you know we feel a lot of crypto projects out there you know we've analyzed them as companies purely from a product perspective and we we don't think they have a future right
+25:29 | And we don't wanna list products that our users then trade
+25:32 | And you know a lot of retail users typically just buy they don't really short
+25:35 | We don't wanna list products that our users will buy and then they go out and lose money and then you know the blame isn't with us
+25:40 | We're just listing them and providing a place to trade but we feel more responsibility for our users for that
+25:44 | So we just list traditional assets
+25:46 | we just list you know companies that we've kind of you know on the equity side companies that you know we kind of verify and think have good business models
+25:53 | our aim really is to provide
+25:55 | I I I think FTX tried to do everything at once very very quickly and and grow too quickly and just kind of provide services for things indiscriminately
+26:03 | We're much more focused and much calmer you know about the way we go around providing liquidity making sure there's no problems in the exchange
+26:10 | The F- FTX really you know for the tech audience out there they really took to heart that you know move fast and break things ethos
+26:18 | You know the whole matching engine was coded in Python which is like the worst possible language that you can use to code a financial exchange right
+26:23 | Which needs to be like very robust and solid
+26:25 | We've made design choices
+26:28 | You know all of our code is written in-house
+26:29 | It's all written with Rust
+26:30 | It's super stable super safe and you know-
+26:34 | I I I think our vision instead of being you know a big financial super app and you know becoming a mortgage broker and a bank and everything all these different product lines is you know we wanna make the best financial exchange possible and we wanna compete with the likes of CME and ICE on the same you know kinds of things that they offer but done in a more efficient and improved way
+26:54 | And I think that was not really FTX's vision
+26:56 | They were much more opportunistic and just kind of trying to grab money where they can listing crypto you know getting involved in kind of dubious projects doing investments in dubious projects
+27:05 | we are much more constrained I think
+27:09 | so like managing your parents is like one extra job that it's best that if you don't have to do it right
+27:13 | 'Cause you already have 4 other jobs that you're doing at the same time
+27:15 | So yeah they were they were very supportive and you know I think they they understand that I have good domain expertise in in the the the the area that we're working in
+27:25 | And you know it was the right call for me
+27:27 | I'm very fortunate in that you know as you said I've I've had some success in my career and you know as a result been able to build up kind of healthy bank balance runway that
+27:35 | You know I was really getting to the point where was thinking "Hey you know c- can anything really go wrong if I spend you know 2 3 4 5 years of my life let's say and and things don't don't really work out?" You know I was still ahead of where I wanted to be and that made the decision a little bit earlier
+27:49 | I think you know we we we don't try and live by that ethos at at the company
+27:53 | We always try and be hungry and scrappy and you know we always try and pretend like we have way less money than we actually raised in the bank to make us kind of work in a lean and efficient way
+28:03 | I think that's that's always the best mode for a startup no matter kind of how much safety net and how much money you've raised and you know how much VC backing you have
+28:10 | but with my parents you know they've been fantastic
+28:13 | It's been very very smooth and you know it helps that we've had a decent amount of early success early on
+28:19 | I think you know a lot of things have gone right
+28:22 | We've had some hiccups as well but o- overall we're we're pretty happy with how the first year of the company's gone and that always makes things easier as well of course
+28:30 | Yeah I think there's you know
+28:32 | W- we we knew it would take a long time basically to get the product out there
+28:36 | you know building in fintech is always tough because you can't launch something and if it breaks just say sorry to your customers right
+28:41 | That's like a real breach of trust and that's not something we wanted to do with our customers
+28:45 | So we have been in like a closed beta for about a couple of months and we've given it to like very high trustworthy individuals who are very understanding anytime we we kinda make a mistake and you know they're happy to be tested on
+28:56 | and a lot of them have have worked previously a lot of exchanges and they're just kind of ex-founders kind of giving back to the community
+29:00 | So we've we've had about 200 people on the on the beta and you know me me and my co-founder both decided that you know we're we're not gonna launch until we felt that we could give 100% service to to the users
+29:12 | So that is a little tough on you know burn rate obviously is just up and up and up and you know we have to use more and more and more tech
+29:19 | there are a few things that kind of let's say make that a little bit easier
+29:23 | One is you know fundraising round went very well and we we have like a lot of runway and you know the company has like lot of years left
+29:28 | Certainly we can even pivot a few times before we we really find that product market fit
+29:33 | the other thing is you know like our employees you know the early ones we hired and I think it's a very good signal is you know whenever we make an offer to our employees we say: "You know we can give you more cash and less equity or less cash and more equity." And I think all of them have picked less cash more equity right
+29:48 | So we're actually not burning too much money because our employees own so much of the company
+29:54 | and I think that's really exciting when you know you know you're doing your job well when you know you've you've gone out there and you've kind of pitched your idea to a bunch of people whether that's investors whether that's users whether that's even your employees and they're they're so bullish on the idea that you know they they wanna take a bigger ownership stake and they're happy that in the early days pre-revenue we we don't have as much to distribute necessarily as as as salaries
+30:14 | makes things a lot easier as well
+30:16 | so you know for us it was like you know we we need to get money to get going
+30:20 | and yeah you know in London the VC scene isn't as developed as it is you know certainly in San Francisco you know nowhere near but even the rest of the US I feel it's like not super difficult to to raise VC funding
+30:31 | in London it's it's it's a lot more muted
+30:33 | I think you know the the networks are much smaller and much more closed
+30:36 | So yeah I mean there were there were a few that we applied to accelerators and you know YC is probably the most well-known accelerator and we felt that
+30:44 | You know in in the early days we would kind of go up to people and say you know "Hey we're building an exchange," and they'd be like "Okay cool who are your backers
+30:50 | How much money do you have?" we'd say "Oh it's just us," and then phone down right
+30:53 | Because building an exchange is such a difficult thing you you can't just email people and expect them to take you seriously
+30:58 | So you know we felt YC's kind of brand recognition would really help as well and you know basically I had I had a couple of colleagues who had friends who'd who'd been through YC
+31:07 | They gave some good advice and then yeah we decided to apply fairly early on
+31:10 | And the great thing is you know YC do 4 batches a year now so you're never very far away from the next batch
+31:16 | so there's always like an application season that's open
+31:19 | You can always put your application in and and see what they come up with
+31:22 | I know YC have a really good system for filtering through the applications
+31:26 | I've helped actually do some of the filtering for them and yeah the the the interview is like very efficient and very succinct
+31:33 | I actually had a friend who just got in today he was accepted
+31:35 | I re-re-recommended him
+31:37 | so yeah they've they've been very helpful
+31:40 | Yeah we are a 24/7 global stock exchange right
+31:44 | so yeah that's that's one sentence
+31:46 | And the kind of more detailed descriptor is you know we use exchange technologies that have been developed in the crypto world and tweak them and bring them into traditional markets so stocks commodities indices and effects
+31:57 | And the cool thing about QFX is we have exactly the same terms for anyone who connects right
+32:02 | So whether you're hedge fund bank you know we have some professional trading firms there as well
+32:06 | all these guys have exactly the same access to you know trading with algorithm or non-algorithmically whatever same orders everything
+32:14 | it's it's all kind of controlled by us
+32:15 | There's no hidden
+32:16 | you know we we talked about Robinhood earlier
+32:18 | There's no kind of hidden taking the orders and giving them to someone else without it going on the exchange
+32:22 | So basically your order would go into the exchange or go into the order book
+32:26 | if there's somebody who's willing to trade with you at that price it will trade immediately
+32:29 | Otherwise it'll wait for somebody to trade with you if somebody finds a price that you're willing to trade at
+32:33 | And yeah if you-- you can cancel the order before it trades or if it trades we tell you "By the way you bought or you sold this stock gold silver Nasdaq one hundred euro dollar," whatever
+32:45 | and we track your profit and loss right
+32:48 | So when you then decide to close the position you know you bought a stock you then decide to sell it you get some some cash in your account and then you can withdraw that or use it to trade again whatever
+32:57 | So you know what we wanted to do is make sure everyone trades on the same equal playing field level terms with traditional market structure
+33:04 | There's lots of different
+33:05 | You know you trade via one broker somebody trades via another broker they have slightly better fees
+33:09 | you know a big hedge fund can come and know basically connect directly to the exchange
+33:13 | They have better access than anyone else
+33:14 | Yeah
+33:15 | So there's 2 kinds of costs basically when you when you trade the market
+33:19 | So there's like the transparent cost which is the fees that the the the exchange charges and then the hidden cost is you know if I to explain very easily say there's a stock which trades for hundred dollars right
+33:30 | There's another stock which trades for hundred and one dollar- sorry the stock trades for hundred dollars
+33:35 | Same stock right
+33:37 | What actually happens if you go into the market and you look very carefully there's actually 2 prices
+33:42 | So if you s- if if if the single number you see is $100 if you look carefully I think you can see it on Robinhood as well
+33:48 | There's a price at ninety-nine point nine nine and there's another price at hundred point zero one
+33:53 | Or maybe you know it could be ninety-nine hundred and one or it could be ninety-nine point nine nine nine nine nine and hundred point zero zero zero one
+33:59 | The point is there's always a little difference and what that difference basically you know in easy to understand terms incorporates is like if there's a stock where those two prices are ninety-nine and hundred and one we call that a bid and an offer right
+34:13 | And in this market if you decide to buy and the stock doesn't really move and then you decide to sell again you lose $2 right
+34:23 | And even if the exchange doesn't charge you any fees your expectation is to lose $2
+34:28 | Because generally if you buy a stock right in the long term they go up but like in the short term medium term you don't really know whether it's gonna go up or down right
+34:35 | So all things being equal on average- in this trade if you do one buy and buy one sell at a hundred and one ninety-nine you lose two dollars
+34:44 | Now the question you've got to ask yourself is: Is this not basically the same as paying fees right
+34:49 | So instead of doing ninety-nine hundred and one the exchange could just say "The price is a hundred and we'll charge you one dollar fee every time you trade." One dollar to buy and one dollar to sell that's the same as the bid price being ninety-nine the offer price being a hundred and one and those are what we call hidden costs
+35:04 | And the reason they're hidden is because basically you as a user may not understand that you know there's a different buy price and a different sell price
+35:10 | The exchange doesn't display it to you very carefully
+35:13 | you place your order you kind of see it says you know here's you know your side this is the stock you bought or sold this is the price and there's the fees
+35:21 | The fees column says 0
+35:23 | You're like "Oh 0 fees great!" But actually the price is a little bit away from what you actually thought the price was and it's very hard for an individual user to see
+35:31 | So you know on QFX our pricing is completely transparent right
+35:34 | So we don't make money from this like profit share agreement we just make money from fees
+35:39 | Our fees are as low as possible because and we actually give a lot of our fees back to users
+35:44 | If you kind of refer your friends or whatever we we give those- their fees back to you
+35:47 | our aim is just to encourage users and grow and not really to maximize revenue for now
+35:52 | and yeah that's
+35:53 | W- we we feel that's the best possible model
+35:56 | Yeah
+35:56 | So the the the thing with 24/7 trading is so people people usually say you know "Oh US markets only open 9 to 4," and that- that's not actually true right
+36:04 | So market is US market is pretty much open 24 5
+36:08 | the reason is the world is getting more globalized and there's demand
+36:11 | You know news doesn't really necessarily happen just during business hours anymore
+36:14 | You know it happens on the weekend happens late at night
+36:17 | News that might happen in Asia India China Korea whatever may you-- not may always does affect the US markets and vice versa
+36:25 | And there's a need for markets to absorb this flow this news flow and reflect that in pricing right
+36:31 | If you think about markets as like this information aggregation mechanism where it's like you know we take the consensus view of everyone in the world on the price of a certain stock or commodity
+36:41 | Now that news flow still comes when outside of business hours right
+36:45 | And over time markets have slowly adjusted in a way that enables them to be open 24 5
+36:51 | Now that's the current state of the US equity markets
+36:53 | most futures are open 23 5 and the way it's basically happening is through a set of piecewise patches that you know first markets you know US equity markets were open 9 to 4 30 or 9 30 to 4
+37:04 | now then they were open 4 AM to 8 PM Eastern Time
+37:07 | Now you know there's there's another exchange that does 8 PM to 4 AM and the problem is it's not very unified
+37:13 | It still leads to fragmentation of different venues different places with different you know tech stacks different protocols to do the trading in
+37:19 | And you know there there's obviously a need for it right
+37:23 | Because what what can happen is you know if currently you know if if the the you know
+37:27 | there's a quiet week and the market you know was fairly flat during the week and then some big news event happens over the weekend right
+37:34 | Then when the market opens on Monday you would expect to see a huge move in the underlying change of those stocks
+37:40 | And that's not good because if the market closes here and then opens here all of these people in the middle could have lost a lot of money and actually they would want the market to be open so that the market moves slowly from here to here and they have a chance to close their position and cut their losses
+37:54 | And at the moment the only way we see that is Bitcoin
+37:56 | So Bitcoin trades 24/7
+37:58 | Anytime there's a major geopolitical event you know Trump makes you know Trump tariffs for example or Trump had a falling out with Elon it's usually Bitcoin that falls 4 5 6% over the weekend
+38:07 | Doesn't make any sense
+38:08 | Those are macroeconomic events that have happened
+38:11 | They should affect the price of US stocks and they do but just the US stocks are not open and you don't see that price in life
+38:16 | So what we're saying is the way Bitcoin is being used currently you know as a barometer for like global macroeconomic sentiment over the weekend we would wanna see that in stocks as well and there's clearly a demand for it because we've had a lot of weekend trading from
+38:29 | But even our closed beta typically whenever there's a news event that happens the weekend people log on to QFX and they trade
+38:35 | now volume won't be as high as during market hours initially but we expect that to smooth out over time
+38:40 | There's there's nothing really special other than the way the piecewise nature of the way the markets are structured right now that makes those US hours special
+38:46 | In a globalized economy news that comes from China comes from India comes from Korea Japan all those are as important for global stock prices as news that comes from the US
+38:57 | The whole world is kind of moving into this globalized news cycle and it makes sense that market hours should just reflect it
+39:03 | As a trader you're always taught to think you know what's like the best life outcome decision
+39:08 | You know what's what's the best decision kind of in the long run right
+39:10 | And I think a lot of people don't sit down and think you know-
+39:12 | There's certainly a lot of people in the US I feel a lot of them can be kind of pursuing an entrepreneurial path because their future is so set
+39:18 | and for me it was really obvious to see given my background you know obviously I was born in India and then my parents came to the UK
+39:23 | You know I see the life choices they made even kind of late into their thirties and you know they left behind a lot in India to kind of start over in the UK because they felt that you know in the long run it would be a better decision and it was
+39:33 | I'm- I I kind of thought it would make sense to do a start-up but the reason I did one was really I have like a burning desire to improve the markets because I've worked on the other side of the markets as a quant in high-frequency trading and high-frequency trading is all about exploiting market inefficiencies right
+39:52 | So you know high-frequency traders go around and they say "You know I work in quant trading
+39:56 | I make the markets more efficient." What they're really doing-- no no one no one in quant trading wakes up in the morning and they think: Oh how do I make the markets more efficient today
+40:04 | How do I lower cost of consumers today right
+40:06 | That's more of a start-up way of thinking is How do I provide value
+40:09 | People in trading just wanna make money so they can earn big bonuses right
+40:13 | And the nature of the market is such that usually the type of trading they do ends up in some roundabout way making structures more efficient
+40:20 | And you know I saw how much money we were making due to simple structural design flaws in existing markets like futures that expire for example
+40:28 | You know futures contracts in the US I mentioned the S&P 500 future trades five hundred billion dollars every single day right
+40:34 | That's a huge amount of volume
+40:36 | That's like you know more more than GDP of any country by by a mile
+40:39 | it still trades on a technology that was made for farmers to hedge their wheat crop right
+40:44 | Like S&P futures expire every 3 months because that coincides with the time of the harvest right
+40:49 | For certain crops in the Midwest there's no need for them to expire
+40:52 | If they expire right what happens is people have to sell the future and buy the next one
+40:57 | They pay transaction costs every time they trade and they lose money and high-frequency traders make the other side of the money
+41:02 | And I thought if the aim really is to make markets more efficient why don't you just improve the nature of the market and improve the nature the design so that high-frequency trading firms don't make all this money which they're just extracting from investors and the market just becomes fairer that way
+41:17 | So that was really our reason to make a more efficient and well-designed market
+41:22 | Part of that is a more open and a fairer and more transparent market
+41:24 | I think markets in the last 10 years have kind of slid towards being more opaque less transparent mostly driven by lobbying from firms who are benefiting from this
+41:32 | And you know I I think it's really nice that
+41:34 | You know I've spoken to a lot of kind of very senior regulators recently and you know it it's it's really nice to be able to have that conversation with them and say we're trying to do everything for the best and we're trying to do it not just for retail but also for institutions for companies." You know gold futures exist so that gold mining companies can hedge their exposure to the price of gold
+41:53 | That's why gold futures were invented
+41:54 | Same with agricultural futures all this kind of stuff
+41:56 | And we're really trying to build something that helps those people the gold miners the farmers you know the oil- the the the big corporates of the world that you know really drive business and you know create energy and and and do all that stuff protect their losses from these predatory industry of quantitative trading
+42:11 | And I think not many people understand that nature of what quant trading is
+42:16 | I think quant trading is a very secretive industry and they don't really like to talk about what it is they do and that was basically the driving motivation
+42:24 | and you know otherwise I I thought
+42:26 | It it was it was at the stage where I was like you know this is so so obviously like a better market design that there's no way it doesn't exist in 5 or 10 years' time right
+42:34 | And either the incumbents get their act together and they you know they're like "Actually you know we're gonna throw away everything we've built and build the exchanges properly," or we do it
+42:43 | And typically in the start-up world it's like a new company right that ends up having to do it because the incumbents don't really wanna change that
+42:48 | They're too big and they're too too slow-moving
+42:51 | Yeah it it was it was interesting
+42:53 | I think the job is like really interesting
+42:55 | Like I I studied maths right
+42:56 | So you know I I have very interested in solving these like mathematical problems and you know there there's no job really in the world where you can just like-- I- it's like you know being being back at college right university and like you sit down you solve all these like cool mathematical problems and like there's no financial reward and now you're doing the same thing but you're getting paid money for it right
+43:14 | So that that's that's pretty cool
+43:16 | I would say the guilty feeling was like
+43:18 | It it wasn't really that we were profiting 'cause that was just poor market design
+43:22 | The the guilty feeling was more like I feel quant finance has sequestered a lot of very talented people in an industry that basically adds no value to the world right
+43:32 | And I think there's a lot of cognitive dissonance amongst quants and traders that you know they've kind of convinced themselves because they're earning big fat paychecks and I was earning big fat paychecks as well that "Hey you know we're we're making a lot of money
+43:43 | Let's you know we must be doing something good for the world," right
+43:46 | And if you take you know-- We're we're in New York City here right
+43:49 | Like all of the mo- most storied trading firms in the world are here
+43:52 | You know we have Hudson River Trading here
+43:53 | Citadel has an office here
+43:55 | you know lo- lo- lo- loads of firms are kind of headquartered here
+43:58 | Tower my old employer is headquartered here as well
+44:00 | If you went into their office and fired everyone and gave everyone a job in AI I think AI would be ten years further along than it is now right
+44:07 | Like I-- Maybe not 10
+44:08 | I think we would've had GPT probably like 3 years earlier than we had it right
+44:12 | Because all the technical talent really right now what's the best college job you can get in the US
+44:17 | Go work at HRT go work at Jump Trading go work at any of these kind of firms Headlands Trading what- whatever Citadel Securities
+44:22 | and that was really the source of the guilt
+44:24 | it wasn't that we were making money
+44:26 | It was like I felt that I was wasting my life doing something that you know I tell my kids and my grandkids-
+44:33 | this is what I spent my life doing I'd be like well it would it would all seem so trivial and silly in in in the the kind of rearview mirror
+44:39 | And you know YC you know we had a partner Tom Blomfield who just asked me point-blank he said "Why did you choose to work in this industry?" And I was like "Oh you know I didn't have like-- I we weren't very wealthy growing up and it just paid a lot of money right
+44:51 | And you know I had an option to do a PhD as well something more impactful but like the the money was too good to pass up." And you know once that side of the equation was solved for and I had some decent money in the bank then I thought "Okay it's it's it's time to do something that you know I wanna make my life's work." and I think the best founders always have that you know that the company they're working on is their life's work right
+45:09 | Like they want it to be their legacy
+45:12 | It's more than just money for them and I'd I was ready to reach that stage where I I was no longer just thinking about the money
+45:18 | you know there's an element of me that's you know doing the current company for the money but it-- there's also an element of you know we wanna go out there and be the change in the world that we wanna see and here's a very obvious change that I see now that I think not a lot of other people can work on
+45:31 | Yeah loads
+45:32 | a lot a lot of people have asked for a job as well actually
+45:34 | So you know I I think the demand is there right
+45:37 | Like m-- I I think Tower has really really high quality of talent in particular
+45:41 | So you know a lot of my colleagues were you know International Math Olympiad medal winners
+45:46 | you know a lot of them
+45:47 | There there's this entrance exam in India for like the top technical universities called IIT
+45:50 | A lot of them are ranked in kind of the top 50 in India when they they they did this test
+45:54 | And I think a lot of them have you know certainly the the level of technical talent and also the level of entrepreneurship that it takes to to go out and build a company
+46:01 | But you know they're stuck in the same golden handcuffs of you know they're they're getting paid too much basically and they don't wanna leave
+46:07 | I think for me a lot of stars aligned and
+46:10 | You know honestly you know if you ask my co-founder maybe I did drag my feet in the first few weeks thinking like "Oh is this is this the right move for me?" But you know he he was very very motivated to do a startup certainly and I kind of went along with it and we had so much success early on that I felt that it was it was definitely the right move to do
+46:25 | like I said amom- amongst quants there is definitely this cognitive dissonance of like "I'm making money therefore what I do must be important." I think they're all smart people and if you take smart people they all kind of know that what they're doing on doesn't really matter that much and they could be working on something more interesting more impactful you know more meaningful for them and for the world in the long run
+46:48 | And you know I I've had colleagues leave and I think you know a bunch of my colleagues very recently in the last year have left even more highly paid jobs than me like much more highly paid jobs than me to go and do startups themselves
+46:58 | and it's it's something we'll probably see more of going forward
+47:01 | So you know whenever I talk to VCs they're always asking to introdu- asking me to introduce them to some of my ex-colleagues who are interested in doing startups
+47:06 | I think VCs have also realized there's a lot of talent kind of locked up in quant
+47:11 | Yeah it's a really interesting question
+47:13 | I mean the the thing with an exchange is like you know the the the the what like the function of exchange is really is a marketplace right
+47:22 | It's like if you're interested in startups you know and but you don't know anything about finance you can very crudely compare us to something like DoorDash or Amazon right
+47:31 | Our job is not to go out and trade against people or trade for people
+47:35 | It's to take 2 people who wanna do the opposite sides of the trade but they don't know where they are
+47:39 | They're in different sides of the world
+47:41 | They wanna trade at different times and help them find each other right
+47:44 | That- that's our aim as an exchange
+47:45 | And in terms of how do you build up to that you know the ultimate aim as an exchange is to have everyone in the world who wants to transact your thing on your platform at the same time right
+47:54 | That's like your number one go-to as an exchange
+47:57 | now how how how do you how do you how do you make that happen right
+48:00 | Like the the most important thing that you need to do is get the early users on get some volume and then go to a slightly bigger user
+48:09 | You know the guys who are trading ten billion dollars a day won't come to exchange on day one but the guys who are trading one thousand dollars a day might
+48:15 | And as we kind of move through those kind of phases who our competitor is will kind of change as well
+48:22 | So you know I think Coinbase is like a really good example very well known kind of in the US of an exchange
+48:27 | Most of their flow now is kind of institutional and corporate but they started out just with retail
+48:31 | most of our traders and users at the moment are consumers individual consumers and some professional trading firms
+48:38 | And our competitors right now are-- you know no one's really doing what we're doing and kind of on the more institutional let's say hybrid approach
+48:46 | There's a lot of DeFi decentralized protocols doing starting to do what we're doing
+48:50 | I would guess you know we view them more as partners rather than competitors because they have a very different user base that they're targeting and we have a very different user base that we're targeting and we're both trying to raise the profile of the product that we're trying to do
+49:00 | And you know as we kind of get bigger and bigger eventual competitors are gonna be CME ICE big exchanges like this that have you know Goldman Sachs connected to them and Goldman Sachs trades a hundred billion dollars a day probably right
+49:11 | Like and they-
+49:13 | you know convincing Goldman to trade on our exchange rather than the other exchange we'll have to build up to that and you know kind of show a lot of evidence and proof that we we do a good job on that side
+49:21 | So you know in the back of our minds you know we're building the next CME so our competitor is this big US futures exchanges and big US stock exchanges
+49:28 | but for now it's more like other smaller exchanges crypto exchanges places like that
+49:32 | Yeah I think the the the the most controversial thing I could probably say is a lot of people in quant finance will lose their jobs
+49:39 | like I said a lot of quant finance is exploiting market inefficiencies
+49:42 | If you j- you just change the market if you just change the exchange that is less inefficient a lot of those strategies will like stop working right
+49:48 | So I think you know that that that'll be like a big thing
+49:52 | I think large
+49:54 | You know the the large-scale movers of money that really affect people on the ground like pension funds and so on you know hedge funds sovereign wealth funds and individual users themselves right will have a much kind of more seamless and cost-effective method of trading whether it's for speculating hedging investing and so on than they have currently
+50:15 | I think you know if you look at user experience you know if you if you wanna go trade copper for example right
+50:20 | in the US there's like pretty much only one way of doing it
+50:22 | You have to get this broker called Interactive Brokers and then you go into Interactive Brokers and you have to type HGH6
+50:29 | If you type copper it won't work
+50:30 | And then you go and you trade on that instrument and then it expires and you have to sell it before it expires
+50:34 | So it's very complex
+50:36 | with us you just go on our platform you type copper and there you go
+50:38 | You can trade copper right
+50:39 | And not only will that have you know effect obviously for retail users but even all the way up to kind of institutions you know people who trade copper because they're exposed to the price of copper moving right
+50:48 | Like companies who manufacture wires things like that
+50:50 | They will have a much more cost-effective way and you know they'll be able to tr- you know basically operate at much better net margins because they're wasting less money financially hedging their risks
+51:01 | And all that kind of feeds down to the rest of economy right
+51:03 | Like price efficiency becomes better there's like less wastage in the market
+51:07 | and yeah you know it's pretty cool building for fintech infrastructure because you're really kind of like cleaning up the pipes through which money flows rather than just directly offering like a a new service right
+51:18 | Like what you're doing is you're kind of touching any industry where money flows through where you know basically every business in the world and you're making those pipes little bit smoother
+51:28 | And you know it's it's similar to Stripe if you want like a direct comparison
+51:31 | Stripe really reduced the frictions when it comes to doing payments
+51:34 | We're reducing the frictions when it comes to trading
+51:36 | And so much money trades through financial markets nowadays in ways that people don't even understand that even if you make small improvements they have massive downstream impact
+51:44 | Yeah
+51:45 | So it's it's pretty interesting
+51:46 | I think like YC really helped us like with the fundraise
+51:49 | They're super connected obviously to to VCs and a lot of peop- a lot of VCs really like watch the YC launch stuff pretty systematically
+51:56 | And you know if you if you kind of What- what- You know YC will post about your company on their social media and has a very wide reach and then they just reach out saying like: "Hey can can we can we invest?" you know for us 2 guys coming from London no background in venture I think I think it's almost an advantage to us right
+52:10 | Like I think a lot of people here in the US they they know too many VCs and then instead of playing the let's make a good product game they play the you know let's be friend with VCs and convince them to give us money game right
+52:21 | Which doesn't usually end up well for either person
+52:23 | So we don't know anything about venture
+52:25 | YC basically they they have this like internal directory called Bookface which is you know you can
+52:29 | You know there's there's some lore about it on the Internet but basically it's like a how-to guide of common things that you have to do with a startup and one of them is how to raise a seed round
+52:37 | And there's like a step-by-step of like you know this is kind of the information you want to put out there
+52:40 | These are the materials you need prepared
+52:42 | When you're ready send us an email
+52:43 | We'll put about you on LinkedIn
+52:45 | You'll get a bunch of emails
+52:45 | This is how you should book them
+52:47 | And you know we just followed their advice exactly and it was it was very efficiently done for us
+52:51 | So I think
+52:52 | You know I remember I we've been working flat out 7 days a week 14 hours a day for about 2 months
+52:59 | And then I came back from a like a three-day trip I did around some national parks in California and I sat down and I looked at all the emails all the ca- all the meetings that had been booked and day one we had a bunch of angels basically
+53:15 | So the angels basically I think I think there were 11 meetings
+53:17 | I think twelve of them eleven meetings and ten of them said yes we got some money
+53:20 | And then we stopped taking angel money and then yeah then it was about the bigger funds
+53:24 | So you know we had 2 major funds kind of put in larger checks
+53:28 | one was General Catalyst one was Nexus Venture Partners
+53:30 | Round closed at 95 million valuation and then back to work really
+53:34 | So it just took three days and day one was the only one where we took a lot of checks and then after that it was just about finishing those two rounds
+53:40 | I think people don't know you know there's some misconceptions maybe about how fundraising happens in Silicon Valley
+53:45 | It's very quick
+53:46 | If if the check size is less than 5 hundred K typically it's a 30-minute meeting and you you you you get the decision like on the call or just after
+53:54 | if it's kind of a bigger check then you know we had a first meeting and then a second meeting in person which was you know both were 30 minutes let's say roughly
+54:01 | V- VCs are very accommodating
+54:02 | They usually come to you
+54:03 | So they they kinda came to a coffee shop next to our place and I had a chat with them and
+54:08 | Yeah I I think rounds finishing quickly is usually like a good sign
+54:11 | It means there's a lot of demand and if you have demand you can use it to snowball more demand 'cause it- if you go to a VC and you say: "Hey I don't have enough space in the round for you because I'm only looking to raise this much money and I already have this much money committed,"- then they probably think "Oh if other VCs like your company it's probably a good company so I wanna put my money in as well," right
+54:29 | And if you play the the fundraising game well you can basically just tell everyone like: "Hey you know this big investor invested
+54:35 | I think the round's probably gonna close tomorrow." And they'll like "Oh I'll come to your house." Like "I'll buy you dinner." They'll do anything right to get into a round and you can really use that to to to secure like good terms and good valuation
+54:46 | So and then you know there's a downstream effect of you only took 3 days to fundraise so you don't have to spend a month fundraising which is like a huge waste of time
+54:52 | a month is like a very long time in an early-stage startup
+54:54 | You can accomplish a lot in that time
+54:56 | And yeah like to summarize you know just follow YC's advice
+55:00 | they they know what they're doing they've seen it all before and if everyone follows the advice everyone gets good outcomes
+55:05 | so yeah we weren't making any revenues
+55:06 | We were pre-revenue raising a 95 million valuation
+55:09 | I think I said way at the beginning when you're raising a seed round or especially when you're applying to YC revenue is not the most important thing
+55:17 | in fact if you have revenue but it's kind of been slow growth that can even be seen as a negative
+55:21 | what VCs are really interested in is you know that hundred mil ARR $10 billion valuation exit outcome right
+55:29 | If you look at a venture portfolio you know I'm I'm I'm I'm a quant trader right
+55:32 | So I even look from their perspective like you know they're trying to make money right on these investments
+55:37 | you know in in quant trading we try and make like zero point zero one cents on every trade we do
+55:41 | They do the absolute opposite
+55:43 | So they make like a hundred checks and they're probably gonna lose money on ninety-five they break even on three and they make money on two right
+55:49 | So it's completely the opposite end of the spectrum
+55:51 | and the only way they really make money is if they they have like a huge outcome
+55:54 | They need to hit some home runs right
+55:55 | So they need to have that you know first check-in to Robinhood first check-in to Airbnb moment
+56:00 | You know Sequoia one of the most successful venture firms of all time they were first check-in to any big
+56:05 | You know first check-in to Google like all this kind of stuff right
+56:07 | Like crazy
+56:08 | and as a result if you understand the way they're thinking they're really just driven by FOMO
+56:12 | They're like "Oh man if this company actually hit a hundred mil 200 mil know ARR 10 B valuation and I said no at the first check like that's it
+56:23 | I might not get this opportunity again." So if there's like doubt in their mind they just say yes right
+56:28 | And I I think a lot of VCs go around saying like: "Oh you know we're used to saying
+56:31 | We say ninety-nine nos for every yes that we say." The current venture investing scene they have more money than they know to do with
+56:37 | as long as you can show that you know there's a chance you can be really big
+56:41 | And I think it's important to understand like if you wanna make a business the only point in raising venture money is if you can be massive right
+56:48 | Like truly massive
+56:49 | I mean you have to be at like huge scale then a VC will find it very hard to say no
+56:53 | and you- I've had VCs come to me and they say you know like: "Oh yeah we we had companies that are stuck at 5 mil ARR." I mean 5 mil ARR doesn't sound bad right
+57:00 | It sounds like a good business but they don't make money unless you really hit it big and that's what they're looking for
+57:06 | Yeah so le- leverage is it it's it's kind of you know it it's it's like a buzzword that lot of retail focused exchanges use
+57:12 | you know when we talk about it kind of you know in in like a more mature setting where people know about trading a little bit more we first use the term capital efficiency
+57:21 | And basically all leverage is saying is like you know if you you decide how much risk you wanna take if you wanna buy one dollar of the stock ten dollars of the stock hundred thousand ten thousand a million dollars of the stock that's up to you
+57:34 | The amount of money you need to deposit as insurance with us which is really the margin usage and that's what leverage links to is like: What's the ratio of how much risk you wanna take versus how much money you have to deposit with us
+57:44 | We can make that lower because our systems and our pipes are more efficient and more you know more more secure and more risk-optimized than existing exchanges and we firmly believe that right
+57:57 | And that's a structural thing
+57:59 | It's a structural problem with existing exchanges
+58:01 | That means they can't be as efficient and liquidate people as easily and basically manage risk for people as easily as we can
+58:09 | So leverage is risky of course
+58:11 | you can't lose more than your share
+58:13 | I think that's like a a common misconception
+58:15 | So you know on on QFX you know if you deposit a hundred dollars and you trade at fifty X leverage you know one day we'll probably offer even more leverage than that and the trade doesn't go your way and you know your- we we we close out your positions automatically for you
+58:27 | You actually can't lose more money than the money you deposited in
+58:29 | That's like very important to clear up
+58:31 | what it allows people to do is you know we allow you to set the leverage level you wanna use
+58:34 | If you are not a sophisticated trader and you just wanna trade without any leverage right if it's like stock trading you can do that
+58:42 | But if you're a high-frequency trading firm or you're you know a professional stock investor or something and you want more leverage and you don't wanna put on too much capital for that you can do that as well
+58:49 | And it's up to you which which which which play you decide to go down
+58:53 | we give the option and we've structured the system in a way that it's safer for you if you use lower leverage but the option to use more leverage is there and we can provide it because we have a more efficient structure to manage risk and manage leverage than the existing exchanges have because we use these new crypto technologies that existing exchanges don't have
+59:12 | So yes leverage is risky
+59:13 | Obviously you know if you use a lot of leverage the market even if it moves a very small amount your position can be closed out
+59:19 | there is an optimal amount of leverage to use that's mathematically linked to basically how risky your- the strategy you're running are
+59:24 | If you're just kind of picking individual stocks you should probably use lower leverage
+59:27 | If you're doing some algorithmic trading you can probably use higher leverages
+59:30 | and-
+59:31 | and there's a lot of inefficiency that exists out there in the market just due to kind of capital constraints right that we're aiming to fix
+59:37 | So you know some users might know this but you could basically make you know 30% a year 40% a year almost risk-free arbitraging ah Bitcoin and Bitcoin futures on on Binance back in the day like a few years ago
+59:51 | And it was a company called Athena that basically went ahead and tried to ah profit off this and then distribute that profit as like a hedge fund structure to its investors
+01:00:00 | And the only reason this trade existed and the only reason a lot of market inefficiencies exist is because there's not enough capital there's not enough money going behind the trade that makes them efficient again right
+01:00:11 | So it's like if somebody wants to buy a billion dollars of Tesla stock somebody has to sell it to them right
+01:00:15 | And somebody needs the money they need a billion dollars to sell it to them right on the stock market
+01:00:20 | On the QFEX market they're trading at a hundred X leverage
+01:00:23 | Let's say one day we offer hundred X leverage they only need ten million dollars and therefore that amount of demand in the market might be able to be absorbed by people on the other side because it's more capital efficient and we can offer more capital efficiency because we're more efficient with how we manage risk
+01:00:36 | And we really wanna you know like I said QFEX is all about making markets more efficient bringing better market structure to kind of traditional markets
+01:00:42 | Ah one way we can do that is just help people keep the market more efficient by trading with more clout than they have capital that that they to to to to trade with
+01:00:53 | Yeah
+01:00:53 | So li- like I said the the twenty-four/seven aspect is you know just just one aspect of one one piece of many things that we deliver
+01:01:01 | I think it's it's almost a by-product of this more vertically integrated structure that we have to our our exchange
+01:01:07 | What that means is if you want to go trade stocks in in the US let's say right
+01:01:11 | There's Robinhood
+01:01:12 | Cool Robinhood exists
+01:01:13 | Now when you place your order through Robinhood it usually goes to a trading firm
+01:01:17 | Even if it doesn't go to a trading firm Citadel Securities usually and it goes to the exchange
+01:01:21 | The exchange you know you you trade-- if you want to buy Tesla Tesla trades on Nasdaq Exchange but the interface is through Robinhood and there's another intermediary which is called a clearinghouse which basically does the risk management and settlement right
+01:01:32 | So it's that intermediation three separate companies involved in doing one trade that should really just be done by one company that's as most efficient as possible
+01:01:41 | That's really what we're offering
+01:01:42 | And the thing that you know even if NYSE and Nasdaq and you know all these exchanges do go 24/7 it would actually help us a lot because what happens is you know Nasdaq would basically trade the actual stocks the physical stocks that you know grant you dividends and share ownership and things like that but they still wouldn't be able to give leverage right
+01:02:01 | Like if you go on Nasdaq and you have $100 you can only buy $100 worth of Tesla
+01:02:05 | If you go on QFEX you know you can buy much more Tesla right
+01:02:09 | You can buy you you
+01:02:10 | If you if you decide to use 10 X only you can use you can buy $1,000 of Tesla
+01:02:13 | And what we're trying to build is like a futures exchange
+01:02:16 | And futures exchanges and stock exchanges have always existed side by side and they're for different types of people right
+01:02:22 | So you know in the US we have you know the S&P 500 stocks they trade on New York Stock Exchange they trade on Nasdaq they trade on a bunch of other exchanges
+01:02:30 | And then you have the S&P 500 futures which trade on CME
+01:02:34 | The S&P 500 futures have much more volume
+01:02:37 | They're traded by people who are much more sophisticated big institutions and the stocks are traded more by retail investors who'd want to buy and hold for a long period of time
+01:02:44 | So we're targeting ourselves at that kind of ah more sophisticated professional eventually institutional level of player
+01:02:52 | And you know we we welcome Nasdaq being 24/7 because then
+01:02:56 | You know at the moment we have a problem that over the weekend it's it's slightly difficult for us and we spend a lot of time thinking about this managing the risk of when an exchange moves up and down right
+01:03:04 | Like so basically an exchange the the stock prices kind of move up and down and our future price should track it while the market is open
+01:03:11 | And if our future price ever deviated too much we can place like risk limits to stop it from doing that
+01:03:16 | Over the weekend currently there is no underlying future price right
+01:03:19 | So it's very hard for us to you know if if there's a huge move on our exchange it's kind of hard for us to say "Well did the stock move or did somebody just trade a lot on our exchange?" You know will the stock actually open up
+01:03:30 | if Nasdaq went 24/7 it would actually help us a lot because then we could set risk limits more carefully on the weekend as well
+01:03:36 | Yeah the the hardest day I
+01:03:41 | Yeah I I I-- it was it was during YC actually
+01:03:44 | it was ah we'd actually launched ah the exchange ah internally just to YC
+01:03:50 | we wouldn't take anyone's money but ah you know we we were saying "You know we're gonna do it for for real money and like if you make or lose money you're gonna have to pay people up basically." and it was it was very hacky and ah we were kind of forced by our partners to launch early because they were like: "You need to do this otherwise you'll never get user feedback
+01:04:05 | Like just just do it right right now." And ah I like you know I'm very jet lagged so I work with 3 AM
+01:04:12 | My co-founder's there and he's like-
+01:04:13 | Oh man the exchange has blown up
+01:04:15 | Like we looked at everyone's result like somebody was plus one million dollars somebody was minus one million dollars and you're like "Oh man we only gave them like hundred dollars to play with like how has this happened?" So we had to basically spend all day reconstructing what had happened figuring out you know how much money everyone owed and how much they didn't owe reimbursing some people
+01:04:33 | You know that was the first time we took a loss as a company where we had to say "Oh we're sorry it says that you're minus hundred dollars but we don't think this is right
+01:04:39 | We'll just give you $100." luckily it was still small scale but I think that was- you know it it wasn't like a big loss for us
+01:04:46 | The the the issue was it really hit home how difficult it is to build a 24/7 perfect fully available system that keeps track of something in any kind of like
+01:04:57 | If you run something 24/7 like anything can go wrong anytime right
+01:05:00 | Lightning bolt can happen fire in the data center whatever
+01:05:03 | And I think the reason the partners made us do it is to make- basically make us grow up and realize the gravity of the situation we were in right
+01:05:10 | Like you know we didn't sleep properly for days after that because we were like: We don't want this to happen in life right
+01:05:16 | 'Cause if we do it's game over for us in exchange
+01:05:18 | and that was that was a really tough time
+01:05:20 | Yeah I I would say you know think think carefully why you're doing it right
+01:05:25 | So for me you know I I liked my last job right
+01:05:29 | Like I I I would go back and do it again probably right
+01:05:32 | Like if if whatever I I get bored one day and and I decide to do it
+01:05:36 | I I thought it was mathematically very interesting
+01:05:38 | I also liked the fact that it was competitive
+01:05:41 | I think I was a very good fit for it and for me it was kind of difficult to
+01:05:45 | in the early days to move away from it 'cause I I really thought it was like the perfect job for me and it paid very well
+01:05:50 | I would advise people to write down before they start their first job what they're really aiming to get out of their career and then circle back to it in 2 years and saying: Are these things still being fulfilled
+01:05:59 | Right so I knew very early on that you know one day I would probably want to go and do a start-up
+01:06:05 | And for me you know the monetary aspect of the job was kind of secondary to just having like enough of a healthy bank balance so I could support myself
+01:06:12 | and you know I I don't have like a very extravagant lifestyle let's say
+01:06:15 | So I could you know support myself and I wouldn't be under any financial pressure
+01:06:18 | And once I reached that then I realized that okay there's no reason to actually continue this
+01:06:21 | I think I can be doing better things
+01:06:22 | I can be pushing myself more
+01:06:24 | think a lot of people forget that on the way
+01:06:26 | you know time starts moving quickly and then you're 2 years in and you know you see some of your your your seniors and your older colleagues and you think that they're doing very well
+01:06:33 | You know if I just stay like another year 2 years 5 years 10 years who knows right
+01:06:37 | Like I can also be doing very well and then I'll go and do something else
+01:06:40 | I think people need to be honest with themselves and say you know look "If I'm doing this job you know do I enjoy it
+01:06:44 | Like am I learning the skills that I wanted from it
+01:06:46 | Will they stand me in good stead for the future?" You know would it be- like nowadays it's not even like a financial motive
+01:06:53 | The AI labs are paying so well you know is quant really even like the best job you can get now right
+01:06:57 | Like I have friends who've left Hudson River Trading making like huge incomes and they go- you know they get an offer from OpenAI even at the current valuation the offer is in the 7 figures and you know OpenAI stock is just going up and up and up
+01:07:08 | You know is that really like the most- you know is that where the most ambitious people are going
+01:07:11 | Yeah so you really have to ask yourself is is quant really where the most ambitious people are going
+01:07:16 | And yeah try and remember what your feelings were before you start the job and then you know you end up a year or 2 into it think you know "Am I ready to take the next step or do I want to continue in this uh forever?" And the interesting thing you know I can share with you and and I went into quant well before it became like a very well-known industry
+01:07:32 | I guess like since post-COVID like a lot of people are kind of aware of you know Jane Street and Citadel what these guys do
+01:07:37 | You know when I when I went into it like it was very little known
+01:07:40 | It was just kind of a few people on university campus
+01:07:43 | They would target you know very specifically people who studied math
+01:07:46 | and almost nobody I spoke to said they would still be in the job in 5 years' time
+01:07:52 | A lot of them were like 2 3 years and I'll go do something else
+01:07:54 | And like you know they're still there so you know are they still there because they want to be there or are they still there because they failed to reevaluate
+01:08:01 | and you know the world is moving very quickly now
+01:08:03 | You know tech is changing very quickly
+01:08:06 | I think same thing is happening in our space you know Fintech we're seeing new innovations and technology driving innovations and what we can see in market structure and what's possible out there
+01:08:14 | And it's more important than ever to have like a forward-looking bias and think carefully about where you wanna be
+01:08:20 | You know I don't believe in overplanning but you know think honestly about where the world is gonna be in a few years' time and whether you're situated for it right
+01:08:26 | So-
+01:08:27 | one thing one very concrete example I can share for you is like you know when I joined my first job I thought everyone's talking about machine learning
+01:08:32 | AI was not really a buzzword that anyone used
+01:08:34 | Everyone said machine learning right
+01:08:35 | So I was like "Okay I wanna learn about machine learning and I think my job will help me learn about machine learning." And my first role I was like very vocal that I wanted to be put on a team that used a lot of machine learning so I could learn about it
+01:08:45 | And I did and then you know I went to Tower and we did a lot of machine learning there and then AI and LLMs came around and I was like
+01:08:52 | You know I started using LLMs to help me with my job and I was like: Oh man I think in 5 years' time like this job could be obsolete and then where will I be right
+01:08:59 | Like in quant you don't actually get that many transferable skills
+01:09:01 | you just learn how to kind of optimize models to turn on market very well
+01:09:05 | But you know in terms of other business you know my other friends from Cambridge who went into different career paths they have many more transferable skills that they can use to general use- put to general use in business
+01:09:15 | so think carefully about whether you think your job is fu- future-proof
+01:09:19 | A couple of years yeah jobs are paying very high for sure like I think I think it's a good bet and you'll surround yourself with smart people which is always a very very good idea
+01:09:27 | But you know think about you know honestly is is is this what you wanna be doing in five seven years' time
+01:09:33 | Is this what you wanna tell your kids that you spent your life doing
+01:09:35 | Do you think this job will still be around in 5 7 years' time
+01:09:38 | when that learning curve plateaus you know you gotta think yeah if you're still a young person you should be optimizing for learning and optimizing for growth not optimizing for you know how much money you're making right now
+01:09:50 | and as long as you're honest with yourself I I think it can- it's still like a good bet as a job
+01:09:55 | You know like if you get an offer from HFT like don't turn it down unless get an offer from OpenAI as well
+01:10:00 | but it's not as attractive as it it was you know in 2018 when I got my first job offer for sure
+01:10:05 | Yeah you know I I have like a very
+01:10:09 | I I don't spend a lot of money because I have no time to spend money
+01:10:11 | I'm just like working all the time
+01:10:13 | So I I would say like a year ago I was like very concerned with my bank balance now I like don't even look at it
+01:10:18 | and you know I'm aware that the company we're doing right now right it's very like it's either gonna make me like $50 million or 0
+01:10:26 | 'Cause like exchange is like so-- it's like so high up
+01:10:29 | It it's not like a 10 mil ARR business
+01:10:31 | Like it'd never be a 10 mil ARR business
+01:10:32 | It's either 0 or huge
+01:10:34 | so it just all- it seems like all the money I made while being a quant is like you know it could just be like a like a minuscule fraction of you know my my total bank balance later
+01:10:44 | I think yeah you guys are based in San Francisco
+01:10:46 | what's very interesting with me kind of being in London for a while now we're in New York
+01:10:50 | I think London New York people are very concerned with how much money someone has how much money they make how much money they have in their bank account how much money they're gonna make in the future
+01:10:59 | Everything's about money
+01:11:00 | San Francisco people really I think don't talk about that as much or don't think about as much
+01:11:04 | They're much more concerned with you know impact that kind of thing
+01:11:08 | And it was really useful to live in San Francisco for like 4 months and basically feel that way of working
+01:11:12 | It really frees you up to think about you know let's not optimize for the the short term but the long term
+01:11:17 | You know people are not ashamed of thinking about you know let's build a bus- You know some of the big- biggest businesses in the US right like Elon Musk businesses SpaceX Tesla all these things they were on
+01:11:27 | Like not even- forget unprofitable not even revenue generating for like many many years right
+01:11:30 | And there's like a trade-off between you know HFT is all about making money right now
+01:11:34 | Like HFT strategies don't lose money right
+01:11:37 | Like you can't even lose money doing HFT
+01:11:39 | Quant trading like if you lose money on a particular day you get like an email from your boss like "What the what the hell happened?" whereas like Silicon Valley approach is like: You know let's try and make something that's gonna make like a billion dollars in five years' time but don't even think about the money right
+01:11:51 | It's like not even on the scale which is like a new way of thinking
+01:11:54 | That was a nice part of being in San Francisco I think
+01:11:58 | Yeah

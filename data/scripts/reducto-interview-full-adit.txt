@@ -1,0 +1,1013 @@
+﻿Reducto_full
+===
+
+
+[00:00:00] Speaker: Um, could you move over a little farther? Oh, 
+
+
+[00:00:04] Speaker 2: come here. [00:00:05] Yeah. Good. Could you say something to check the, yeah. Testing 1, 2, 3. [00:00:10] Great. 
+
+
+[00:00:12] Speaker: Okay. To start, could you introduce [00:00:15] yourself and tell us what your job is? 
+
+
+[00:00:18] Speaker 2: Yeah. Hey, I'm Aee [00:00:20] Abraham. I'm co-founder and CEO of Reductive. Reductive is a platform meant to help you parse, [00:00:25] extract, and edit the most complex unstructured data for any sort of LLM use case.[00:00:30] 
+
+
+[00:00:31] Speaker: Okay. And could you share any metrics that show Reductives [00:00:35] current scale? 
+
+
+[00:00:36] Speaker 2: Yeah. At this point we work with, uh, actually let me restart that. Yeah, [00:00:40] sure. Today, reductive powers ingestion for some of the best companies in the world. [00:00:45] Um, that includes really large Fortune 10 enterprises, but also newer leading AI companies like [00:00:50] Harvey Rogo and Mer Core.
+
+
+[00:00:52] Um, two dates. We've processed more than a billion pages for [00:00:55] them and are continuing to grow every single week. 
+
+
+[00:00:57] Speaker: Okay. Could you add some fundraising. How [00:01:00] much money you raise in a RO or like, I really like the Everest. 
+
+
+[00:01:04] Speaker 2: Yeah. [00:01:05] Um, we raised 108 million in funding from great investors like Andreessen [00:01:10] Horowitz Benchmark and first round.
+
+
+[00:01:11] Uh, and today if you stacked up all the pages that [00:01:15] reductive is processed, it'd be something like 10 times the height of Mount Everest. 
+
+
+[00:01:18] Speaker: Thanks. [00:01:20] And let's go back to your background and our, to your childhood. [00:01:25] Your notes mentioned like you've been interested in computers from a young age. Can you tell us [00:01:30] about your childhood?
+
+
+[00:01:31] What were some of those first pro projects like Honda? [00:01:35] Those were math homework. 
+
+
+[00:01:37] Speaker 2: Yeah. Um, so growing up I always [00:01:40] had a mix of interest. Uh, and honestly my interest in computers wasn't a [00:01:45] practical interest in computer science. It was actually just that I really enjoyed games. Um, I enjoyed [00:01:50] games enough to want to learn how to build computers and eventually mod games.
+
+
+[00:01:54] Um, and that spiraled [00:01:55] eventually into me learning how to make apps, um, and programming. Um, the other side of that [00:02:00] was that ever since I was young, um, I always used to have side hobbies. In the beginning that would be [00:02:05] little things, um, almost like side hustles, where I remember in elementary school we had a [00:02:10] reward program where every time you did something good, you'd receive a panda book at the elementary [00:02:15] school.
+
+
+[00:02:15] Um, and it was just a way to celebrate the things you were doing as a student. Um, I quickly [00:02:20] found that there was a math game that I could just continue playing and even play for some of my [00:02:25] friends that would earn me a good amount of hand bucks. Back then, it felt like a lot of money because [00:02:30] these would translate to $10 gift cards.
+
+
+[00:02:32] I think I made something like $200, which [00:02:35] retroactively feels like, you know, the equivalent of a million in a r today. [00:02:40] Um, but that eventually led to me going to MIT where I did my undergrad. Did my [00:02:45] undergrad in computer science. 
+
+
+[00:02:46] Speaker: Thanks. And I didn't add to the [00:02:50] question, but were, were you a fan of Harry?[00:02:55] 
+
+
+[00:02:55] Could you describe your childhood? Like how were you into Harry Potter? 
+
+
+[00:02:59] Speaker 2: So [00:03:00] this might be hard to believe because we've had two Harry Potter related names in the company's [00:03:05] history. Uh, we originally released from Meall, which was a long-term memory, API for language [00:03:10] models. Uh, and then we made the company named Reductive.
+
+
+[00:03:13] Even though both Ron and I [00:03:15] like the franchise, it actually wasn't a, you know, fascination with the franchise [00:03:20] that led to the name. We really liked this idea of building magical tools for developers. [00:03:25] Uh, and even before we knew exactly what Reductive would do, we had this idea that we would make sure [00:03:30] that every single last mile detail would be taken care of.
+
+
+[00:03:32] And so it'd be almost like a spell, like a [00:03:35] magical craft. Um, and so the way that we landed on the name Reductive was we had a ton [00:03:40] of different names of magic themed company names. Um, we had all the domains [00:03:45] available for those, and we had our friends vote on what made the most sense. Um, reductor ended up [00:03:50] winning that, and today it kind of makes sense with what we do, but that wasn't intentional.
+
+
+[00:03:54] Speaker: And could you tell [00:03:55] more about how much were you into when your childhood were in your young [00:04:00] age, how much you're a big fan of Harry Potter? 
+
+
+[00:04:03] Speaker 2: I see. Um, yeah, [00:04:05] I mean, I think I generally really enjoyed fantasy novels a lot growing up. That [00:04:10] also ties into me enjoying playing games. Um, and Harry Potter just was one of [00:04:15] those franchises that, especially as a kid, um, captured that sense of magic.
+
+
+[00:04:19] [00:04:20] Um, and so I think for both me and Ron, um, it just kind of made sense as a spell and also [00:04:25] it's a catchy name. 
+
+
+[00:04:26] Speaker: Thanks. And could you, could you briefly explain about what is m like in Harry Potter [00:04:30] and what is Reduc in Harry Potter? Because they might be people who are not using hair, whatever. 
+
+
+[00:04:34] Speaker 2: [00:04:35] Yeah. Um, so remember all I think was a device, uh, to help [00:04:40] you capture older memories, which ultimately was what we were trying to do.
+
+
+[00:04:43] Um, so language [00:04:45] models, especially earlier, used to have much smaller context windows, and so they'd forget things that you'd even said [00:04:50] earlier in the conversation. Um, so remember all as a product was at that time, the first [00:04:55] long-term memory, AI, API, for language models to remember things that you'd mentioned in the past.
+
+
+[00:04:59] We [00:05:00] would store context that was important and retrieve it when it was relevant. Um, that ended [00:05:05] up, you know, being something that was useful for folks. We open, sourced it and eventually shifted [00:05:10] our focus towards what we do at Reductive Today. Reductive, I believe, is a spell that reduces objects. [00:05:15] Um, it like breaks things down, um, which effectively is what we do.
+
+
+[00:05:18] Um, we take complex documents, we break them [00:05:20] down into the sub components that you need and leave you with the data that you're actually looking for. Okay, 
+
+
+[00:05:24] Speaker: [00:05:25] and next one is about Flay Bird in [00:05:30] your high school. Yeah. What, what did you feel when you see that the big success of Flappy Bird? [00:05:35] Would you tell us about it?
+
+
+[00:05:37] Speaker 2: Yeah. Flappy Bird was a weird case where [00:05:40] obviously it went super viral, but also the game looked very simple. Um, like it was [00:05:45] addictive because it was frustrating, not because it was, you know, a really [00:05:50] challenging game to build. And I remember in high school I saw an article that said [00:05:55] something like The Creator Floppy Birds making $50,000 a day on ad revenue.
+
+
+[00:05:59] And that just didn't [00:06:00] make sense. Like it was an ungodly amount of money and it felt like something very tractable. Um, and so me [00:06:05] and my best friend in high school just immediately had this gut reaction of, you know, forget school, forget all of that. [00:06:10] Um, we're just gonna make apps and that's gonna be our future.
+
+
+[00:06:12] Um, at some point we even discussed not going to college. [00:06:15] Um, things didn't work out that way. Uh, we tried a few things but um, did end up going to college and, you [00:06:20] know, pursuing a longer career from there. But I think it was a really nice inspiration that [00:06:25] kind of showed how going off the beaten path can lead to outlier outcomes for folks.
+
+
+[00:06:29] [00:06:30] Um, even though we don't work on game development today, I do think there's something very valuable about seeing [00:06:35] individual efforts that's, you know, sometimes just start at side projects spiral into something [00:06:40] much, much bigger. Okay. 
+
+
+[00:06:41] Speaker: And could you tell us about the goal setting app you built [00:06:45] in high school?
+
+
+[00:06:45] What was it? Uh, what did you learn from. Experience. 
+
+
+[00:06:48] Speaker 2: Yeah. So [00:06:50] me and a really good friend in high school, um, started working on an app to help [00:06:55] people break down goals into smaller steps. Um, the idea was you'd kind of make a [00:07:00] track of what you need to follow and eventually people could learn from your track as well.
+
+
+[00:07:04] [00:07:05] Um, honestly, the truth is we didn't go that far in terms [00:07:10] of the product itself. We kind of, it ended up being this weird side quest where we became [00:07:15] really good at marketing. Um, we started running these Instagram pages where we would do like summaries [00:07:20] of self-help books because we realized that the people that are interested in goal setting app are also interested in, [00:07:25] you know, contents from good podcasts, good interviews from good books.
+
+
+[00:07:29] [00:07:30] Um, and those ended up going super viral. And that started the side thread where I actually started [00:07:35] managing Instagram pages for other companies. Um, like when hoverboards were really viral, [00:07:40] uh, I would manage the Instagram pages for the hoverboard companies and they would send me free stuff, like I had a [00:07:45] free hoverboard from it.
+
+
+[00:07:46] Um, sometimes we'd get paid for it. Um, but it was a really [00:07:50] good, I guess, ramp up into what it looks like to put your product out there, to start building a community and [00:07:55] all of that. 
+
+
+[00:07:55] Speaker: Okay. Could you tell more about that Instagram story? Did you [00:08:00] feel, oh, I'm really good at it, or how did you feel it? When does it work?
+
+
+[00:08:04] It was in [00:08:05] high school yet. 
+
+
+[00:08:06] Speaker 2: Yeah. Um, I don't think it was like a, we didn't have [00:08:10] like a single viral moments on Instagram. Like, it wasn't that we made one post that went super viral, it was that we were [00:08:15] really consistent about posting every single day. And over time had I think something like [00:08:20] 80,000 followers.
+
+
+[00:08:21] Um, I, even looking back on it, um, [00:08:25] feel that that applies to a lot of the work that we do today. Um, and that a [00:08:30] lot of entrepreneurial work, especially if you're not building a consumer application, isn't like a quick [00:08:35] one shot. You have your moments and everything goes well from there. It's you showing up day after day.
+
+
+[00:08:39] Um, so [00:08:40] with that Instagram experience, I didn't look at it as, you know, I'm like a genius marketer or anything [00:08:45] like that. Um, I saw it more as. This is tractable. Like if you just work hard, if you're really [00:08:50] consistent about posting, some of your posts do well and you like accumulate followers from there, same thing applies to something [00:08:55] like sales or, you know, improving your product.
+
+
+[00:08:57] Um, it's more a question of how you show up day after day [00:09:00] than it is about like a big eureka moment. 
+
+
+[00:09:03] Speaker: Could you Perfect. Tell us about [00:09:05] how, how many posts were, how long have you gone that consistently? 
+
+
+[00:09:09] Speaker 2: Ooh. [00:09:10] Um, we had hundreds of posts for sure. [00:09:15] Um, we got kind of creative with it where we started making multiple accounts and we would, you [00:09:20] know, programmatically grow some of these secondary accounts.
+
+
+[00:09:23] Um, like we would just script it, [00:09:25] um, and those accounts would boost the parent accounts. So it was this like weird syndicate of accounts that we were [00:09:30] running. Um, but in total, in terms of handmade posts, like we would just make these on [00:09:35] an iPod touch or like a, one of our older phones. Um, and they were [00:09:40] really janky posts, but, um, we just spent a lot of time on putting individual things together.[00:09:45] 
+
+
+[00:09:45] How old were you? You back then? I was probably 14 or 15. Okay. [00:09:50] 
+
+
+[00:09:50] Speaker: And next question is you ended up at MIT, which is where you met [00:09:55] your co-founder Ram. Yeah. What was your first impression of it? [00:10:00] And I, I heard a story about you were shaped by his background. 
+
+
+[00:10:02] Speaker 2: Yeah. About it. Yeah. Um, [00:10:05] I didn't know all of this back then, but Veronica is honestly one of the most exceptional people I've ever met.
+
+
+[00:10:09] Um, [00:10:10] he has been doing vision research quite literally since he was 12 years old. So like, he was [00:10:15] first author on his paper, um, and autonomous vehicle research before he even graduated from high school. [00:10:20] My first interaction with him, um, was, I remember I was taking my first grad [00:10:25] level ML course. Um, so it was a course on meta learning, like teaching models to learn.
+
+
+[00:10:29] [00:10:30] And I had a ton of imposter syndrome there. Um, 'cause I was a junior in my [00:10:35] undergrad. Most of the people in the class were, you know, PhDs or at least grad students. [00:10:40] And on the first day of the course, the professor introduces Ron, who at this point is a [00:10:45] freshman. Like it's his first week on campus probably.
+
+
+[00:10:48] And he frames it as, Hey, [00:10:50] everyone meet Ron. He's gonna walk you through how to do the first psets. Um, so Ron was a learning assistant, [00:10:55] um, for this course that was primarily PhDs. And that was crazy to me. Like it was this person that's, even though [00:11:00] he had just come onto campus, um, a campus with really smart and exceptional people, he was [00:11:05] already at sort of the top.
+
+
+[00:11:06] Um, and so we became really close from there. Um, ended up being in the same living group. We [00:11:10] were like a big little parent in school. Um, and throughout all of that, I really admired not [00:11:15] just him as an individual, but the dedication that he had to all of the work that he was doing. [00:11:20] Um, and so when we were thinking about starting a company together, honestly it wasn't [00:11:25] even a question.
+
+
+[00:11:25] Like the first time Ron suggested that we could work on something together. That was an immediate [00:11:30] yes for me. Like I didn't think twice about leaving my job or anything like that. He was just somebody that I admired an [00:11:35] effort to just be a no brainer. You to do a conference together? [00:11:40] No. So it was actually following the hackathon.
+
+
+[00:11:42] Um, so we, [00:11:45] we, at this point, we'd been friends for about four years and we competed in [00:11:50] Anthropics Hackathon. This was when Anthropic first revealed Claude two. Um, and [00:11:55] part of the lure was that you would get early access to Claude two. Um, so we competed in that together. We actually [00:12:00] won the hackathon. Um, and I think the big thing that really [00:12:05] resonated was we enjoyed the process of working together.
+
+
+[00:12:07] Like it wasn't a matter of us winning the hackathon, it was more so [00:12:10] just like he was somebody that I very naturally could work with. Um, and I hope he feels [00:12:15] the same way on his side as well. But a few months after that, [00:12:20] um, he'd reached out and he mentions like, Hey, you know, like I'm [00:12:25] considering after graduating, maybe starting a company, um, would you be interested?
+
+
+[00:12:29] Um, [00:12:30] and that to me was an immediate yes. Like I. Was already planning to [00:12:35] leave Google. Um, and having an exceptional co-founder was like the one thing that was very [00:12:40] easily going to put me over the edge. 
+
+
+[00:12:42] Speaker: Thanks. And could you tell us about [00:12:45] Sidewalk? What was it and what lesson you learned from them? 
+
+
+[00:12:49] Speaker 2: [00:12:50] Yeah. Um, so actually both Veronica and I are, I, [00:12:55] I call, I wouldn't wanna say second time founders, like I would say this is Company 1.5.
+
+
+[00:12:59] Um, in that [00:13:00] we started something before but didn't go nearly as far as we have with Reductive. Um, in [00:13:05] my case, I worked on a company, um, for e-commerce source to do cross [00:13:10] store recommendations. So the same way on Amazon, you shop and you see a people also bot. [00:13:15] Um, we wanted to bring that to independent stores, like on Shopify.
+
+
+[00:13:18] Um, so somebody was purchasing shoes [00:13:20] from one website. We were curious if we could help them purchase socks from another, um, [00:13:25] and increase products and a OD for everybody on both ends. [00:13:30] Um. I think that was a really interesting experience in that we, [00:13:35] we decided to approach the problem even though eventually the goal was to sell it [00:13:40] to, you know, individual stores.
+
+
+[00:13:42] There is a big issue of how do you have a [00:13:45] sufficiently large customer base, um, for there to even be things to cross sell and [00:13:50] the sort of hacky way to get around. That was, at that point there were a lot of [00:13:55] aggregators, um, companies that would buy a lot of Shopify stores. They would have a portfolio of dozens if not hundreds of [00:14:00] companies, and we decided to sell to them directly.
+
+
+[00:14:02] Um, that worked well for some time. [00:14:05] Um, but the issue was a lot of the aggregator business model was dependent on interest rates [00:14:10] being low. Um, and so very quickly, once interest rates started rising, the companies that [00:14:15] we were targeting, um, started going out of business. Um, a lot of them have shut down since, um, in the middle of the [00:14:20] company.
+
+
+[00:14:20] Um, they started having layoffs. Um, so I learned a ton through that process. A [00:14:25] lot of that really was the way that we approach. Making decisions and focusing on what [00:14:30] really matters. Um, I think part of the issue as a first time founder for [00:14:35] anyone, um, especially me, is that there are a million things that you can do as a founder that are [00:14:40] productive in some capacity.
+
+
+[00:14:41] Um, there's so many things you can do that are valuable, but a lot [00:14:45] of your early stage success boils down to a very small set of things done very well. Um, [00:14:50] and for us, you know, we put a ton of time into these secondary factors that I [00:14:55] don't think was worth our time. Um, and so when Veronica and I came into Reductive, [00:15:00] um, one of the most important conversations I think we had as a co-founder pair was we [00:15:05] started discussing all the things that we didn't want to do the second time around.
+
+
+[00:15:08] Um, like the mistakes that we [00:15:10] didn't want to repeat. Um, and we were very clear that from the beginning we didn't want to, you [00:15:15] know, drag out this process of having ideas that we didn't verify of, you know, [00:15:20] shopping around on product updates that's weren't actually directly for customer. [00:15:25] And from day one we said we are going to focus on something that immediately is tractable for [00:15:30] people.
+
+
+[00:15:30] Um, and that was kind of a guiding focus for every decision that we made since. Thanks. 
+
+
+[00:15:34] Speaker: Awesome. [00:15:35] And was the sidewalk part of MIT acceler program? 
+
+
+[00:15:39] Speaker 2: Yeah, so [00:15:40] we were part of, uh, MIT, Delta V. 
+
+
+[00:15:42] Speaker: Okay. And why did you decide to [00:15:45] be in that program and what did you learn from that? 
+
+
+[00:15:47] Speaker 2: Yeah. Um, so I [00:15:50] joined Delta V, uh, because it was, uh, one of the on-campus programs that [00:15:55] felt most successful.
+
+
+[00:15:56] Um, I think honestly it's a very different experience from [00:16:00] a traditional Silicon Valley accelerator, um, both in terms of incentives in that [00:16:05] even the Delta V gives you money that money isn't for equity. Um, and so there's something nice about incentives being [00:16:10] very much focused on your learning. Um, the flip side of that is I think a [00:16:15] Silicon Valley accelerator, like we did Y Combinator for reductive.
+
+
+[00:16:18] Um, is much more [00:16:20] focused on how do you actually make the business move forward. Um, it's not an educational program, it's a practical [00:16:25] program of you building a business. Um, and so I think Delta V was a very good chance for me to dip my [00:16:30] feet in. Um, but obviously longer term, it also ended up being important for me to focus a [00:16:35] lot more on how do we actually get the product in the hands of customers and sell and go from there.
+
+
+[00:16:39] Speaker: And next [00:16:40] question is about Google. After Bridget, you joined Google. Why did you decide to work [00:16:45] at YouTube and why was not fitting to you? [00:16:50] 
+
+
+[00:16:50] Speaker 2: Yeah. Um, so I had interned at Google before Sidewalk. [00:16:55] Um, and because I was working on Sidewalk, I actually didn't apply to any full-time [00:17:00] jobs at all. Um, the one thread that I had when we decided to shut down Sidewalk is [00:17:05] I'd received a return offer for the internship that I deferred by a year because it was COVID.
+
+
+[00:17:09] [00:17:10] And so when we decided that we were no longer going to pursue the company, um, Google was a [00:17:15] natural place to land and. I think I got really lucky actually to start in [00:17:20] that the folks that I got to work with at YouTube ads, um, for a company as large as it [00:17:25] is, were really scrappy. They were very thoughtful about, you know, being very directed about what you were gonna do.[00:17:30] 
+
+
+[00:17:30] And the second way in which I got lucky is one of the features that I got to [00:17:35] work on from, you know, beginning to end, um, actually been ended up being one of the most profitable [00:17:40] launches in the history of YouTube search. And that kind of spiraled [00:17:45] into both me getting a lot of scope, um, like my manager having a lot of trust for me to do follow ups on that [00:17:50] launch, but also for me to be able to learn faster.
+
+
+[00:17:53] Um, I've always had the [00:17:55] sense of urgency around feeling like I'm growing. And so YouTube was a great [00:18:00] place in that because I had that small hint of early success. I got to grow [00:18:05] month over month really, really quickly. The points where it stopped being a good fit is I [00:18:10] did a second rotation on another team.
+
+
+[00:18:11] Um, and it was a really large. And [00:18:15] candidly it was kind of the other end of the spectrum. Um, whereas ads is, you know, [00:18:20] almost like a, a revenue maximization game. Um, you're trying to make progress quarter over [00:18:25] quarter. The product team that I joined the second time around was almost more of like a facilitation rule.
+
+
+[00:18:29] [00:18:30] Um, and for me that was really frustrating. It wasn't that I had direct ownership over the work that I was doing. It [00:18:35] was that I was sharing ownership with four or five different teams. And a lot of my work was [00:18:40] getting people to alignment as opposed to just pushing the process forward. Um, [00:18:45] for any founder.
+
+
+[00:18:45] I think working on work that doesn't feel like a, you know, [00:18:50] tractable thing to do day over day is probably one of the most annoying things you [00:18:55] can do. Like, it was frustrating for me to walk into the office and feel like I wasn't doing something that [00:19:00] mattered. Um, and that's kind of what inspired me starting to join hackathons and things like that because I wasn't [00:19:05] scratching that itch at work.
+
+
+[00:19:06] Um, and so I wanted to find it somewhere else. 
+
+
+[00:19:09] Speaker: Thanks. [00:19:10] And could you describe the moment when you had. Conversation around now. Yeah. [00:19:15] When you decided to, oh, I gotta quit Google. 
+
+
+[00:19:16] Speaker 2: Yeah. Um, so [00:19:20] I, I think my turnaround time for deciding to leave Google was [00:19:25] probably like 30 minutes. Um, yeah, like it was live on [00:19:30] the call.
+
+
+[00:19:30] We were kind of talking through the things that if we built a company, like we would want to work on [00:19:35] all that. And we were really well aligned and it was very easy to trust him also [00:19:40] because we'd been friends for so long, so I didn't leave Google right away. Uh, Ron [00:19:45] was still a student at MIT at this point, and so there were still two months before he was going to graduate.[00:19:50] 
+
+
+[00:19:50] Um, but I had made the decision to leave Google near [00:19:55] instantly. Um, and so in parallel we started looking at things like applying to accelerators. We [00:20:00] ended up applying to YC and got admitted and as soon as we did, I put in my notice at [00:20:05] Google, um, and went full-time on reductive. Could 
+
+
+[00:20:08] Speaker: you tell us more about [00:20:10] the third conversation?
+
+
+[00:20:11] What did you tell 
+
+
+[00:20:12] Speaker 2: the what conversation? Yeah, sorry, 
+
+
+[00:20:14] Speaker: the [00:20:15] 30 minute conversation. 
+
+
+[00:20:16] Speaker 2: Oh, yeah. Um, honestly, a lot of it was [00:20:20] kind of like a brainstorming call. Um, it was us talking through like [00:20:25] what we were excited about. Um, Veronica had a few threads and we really, [00:20:30] it wasn't like a, it wasn't like a logistics conversation.
+
+
+[00:20:34] [00:20:35] Um, it, it wasn't us, you know, like hashing out company architecture or anything like [00:20:40] that. In fact, if you look at our old messages, the conversation where we actually talked about incorporation was [00:20:45] really casual. It was just us saying like, should we form an entity? Um, and it was like, sure. And then we just threw it together.[00:20:50] 
+
+
+[00:20:50] Um, the thing that we were really interested in is kind of like what made [00:20:55] sense on both sides. We started talking through like, in this current phase of life, like how much were we ready to work right [00:21:00] away, um, you know, while he was still a student and so on. When we could go full-time, like what it would mean for us to go [00:21:05] full-time, what we were willing to commit to, uh, those sorts of details.
+
+
+[00:21:08] Um. And in every [00:21:10] single one of those, I don't think we had a single thing where it was contentious. Like there was [00:21:15] no individual points where Veronica and I were misaligned. Um, which is why it ended up being [00:21:20] such a straightforward conversation because for everything that one party mentioned as like a point of concern of, Hey, [00:21:25] are we both willing to commit full-time for the next few years?
+
+
+[00:21:27] Um, it was an immediate yes, like we [00:21:30] wanted to do something. Um, Ron is also somebody that has that sense of urgency and like [00:21:35] really wanted to work hard on whatever he was doing next. Um, and so all those sorts of things compounded [00:21:40] into us just basically laying out a framework of what our relationship would look like.
+
+
+[00:21:44] Um, more [00:21:45] so than company logistics. 
+
+
+[00:21:47] Speaker: Thanks. And you guys accepted into [00:21:50] yc? Mm-hmm. What was it and why did you decide to apply to yc? [00:21:55] 
+
+
+[00:21:55] Speaker 2: Yeah. Um, so we were, we got accepted into YC, I [00:22:00] believe September, 2023. Um, and this was for the winter [00:22:05] 2024 batch. Um. So we had applied with, uh, [00:22:10] mbr all knowing that we were going to pivot away from MBR all.
+
+
+[00:22:13] In fact, one of our first conversations with our [00:22:15] YC partner was that we wanted to look at doing something new. The thing that I really liked about [00:22:20] YC one was that I knew a lot of exceptional people that had done YC in the past [00:22:25] and pretty consistently you'll find that when you ask people about their YC experience, um, especially [00:22:30] the companies that have done well, um, they always are extremely grateful for their time in [00:22:35] yc.
+
+
+[00:22:35] Um, I think there are a bunch of different reasons why that could be true, depending on the individual. For [00:22:40] me, it was most heavily this idea of being around other people that really, really wanted to get their company off the [00:22:45] grounds, um, more than the money or anything like that. In fact, we had preempt offers for a pre-seed.[00:22:50] 
+
+
+[00:22:50] Um, that would've been, you know, slightly better terms than yc, but that wasn't what we were [00:22:55] optimizing for when we got in. I think the second thing that became really clear and in [00:23:00] retrospect that we were really grateful for with YC is. I think more so than many other [00:23:05] accelerators, YC is very big on investing in the founders, not the idea or the [00:23:10] company.
+
+
+[00:23:10] Um, and in the early days, I think that is all that matters. Like Veronica and I have considered [00:23:15] so many different things about what we could do. Um, and it never felt like YC was going to [00:23:20] restrict us from doing those things. Um, it just felt like they were ready to support us as founders to do [00:23:25] any of those things that we wanted to pursue.
+
+
+[00:23:26] Speaker: And could you tell us about [00:23:30] the, when you applied to yc, how much were you sure [00:23:35] about that and what is the vision for that product? [00:23:40] 
+
+
+[00:23:40] Speaker 2: Yeah. Um, honestly, by the time that we applied to yc, we already were kind [00:23:45] of iffy. So the context with BR all is, it was really early. This was like GPT-3 [00:23:50] 0.5 era and pretty quickly as a product, it went kind of viral, [00:23:55] um, because it was obviously one of those things that needed to exist.
+
+
+[00:23:58] I think there are great teams working on [00:24:00] long-term memory today, but. The issue was we were solving a problem [00:24:05] that didn't need to exist in that state, in that in the GT [00:24:10] 3.5 era, people were just starting to build AI applications and they had all sorts of issues. Um, you know, [00:24:15] they had issues with model hallucination.
+
+
+[00:24:17] They had issues in terms of just building context around the [00:24:20] model, um, issues just in terms of getting traction with their apps. Um, because that wasn't a given [00:24:25] in that phase of AI applications. And so if you go to a company like that, we got a ton of [00:24:30] calls booked. I think for weeks we had a full calendar, um, with people interested in learning [00:24:35] more.
+
+
+[00:24:35] But you would ask them like, what is the actual problem you're trying to solve? Like, are [00:24:40] customers churning from your product because you don't have memory? And in that day, like that wasn't [00:24:45] true. Um, they were curious. They knew that it was valuable, but it wasn't the number one problem that they were facing.[00:24:50] 
+
+
+[00:24:50] Um, and that to us was a red flag. And so when we were considering whether or not [00:24:55] we should, you know, have high conviction in the space or not, that was the biggest thing that concerned us. [00:25:00] Um, we knew that in a year or two years, three years in some span of time, um, [00:25:05] long-term memory would need to exist.
+
+
+[00:25:06] But what we wanted was to solve the problems that people needed solved [00:25:10] immediately to solve the things that they were actively looking for solution for. And we decided that BR all [00:25:15] was not that. 
+
+
+[00:25:17] Speaker: Okay, awesome. And, [00:25:20] but still you developed that idea for not a quick, [00:25:25] for a long time, but it'll be hard to think.
+
+
+[00:25:29] [00:25:30] I mean, it, it gets interest. Interest from people. Yeah. How did you [00:25:35] differentiate? What's there moment you realize, oh, this is good to have, but not most to have? 
+
+
+[00:25:39] Speaker 2: [00:25:40] Yeah. Yeah. I think, um, so in the course of the company before the YC [00:25:45] batch, we actually gave up on revenue multiple times. As in we tested [00:25:50] different ideas, um, got to a point where people were willing to pay for it, but [00:25:55] decided that the urgency with which they were willing to pay for it or like the need.
+
+
+[00:25:59] [00:26:00] Um, to which they wanted the product wasn't high enough for us to want it. Um, and so just to give you a sense [00:26:05] of what this looked like tangibly, when we were selling MBR all, um, we would constantly [00:26:10] find, you know, at best people were willing to pay $50 a month or maybe a hundred dollars a [00:26:15] month. Um, and as you would talk about things like implementation times, it was never the [00:26:20] number one thing that they needed to focus on.
+
+
+[00:26:21] Um, they had a dozen different problems. Um, and this [00:26:25] was kind of one of those things that was nice to have in comparison. One of the things that we built for MBR all [00:26:30] is people would say, Hey, you're managing the user's chat history. Can you also manage the files that they upload? [00:26:35] Um, almost like a managed rag service.
+
+
+[00:26:37] And we saw that as, you know, a simple [00:26:40] feature that we would add with off the shelf tools, but surprisingly, that ended up being really [00:26:45] difficult. And also the most interesting part of the platform, like when we would demo, remember [00:26:50] all, we would find that people would get really excited about the fact that we were managing the files that they uploaded [00:26:55] and.
+
+
+[00:26:55] That was an interesting insight. We didn't immediately dig into that. Um, [00:27:00] but part of what happened from there is we had put so much time into making that file [00:27:05] management better. Um, we'd started training our own models that when we made a [00:27:10] marketing post about just that, um, we did a technical blog and why C'S forum, talking through how we segment [00:27:15] documents that wasn't packaged as, you know, a clean demo or anything like that.
+
+
+[00:27:19] It was a [00:27:20] really simple streamlet app. It was, you would upload a documents and we would draw boxes on that document. And [00:27:25] surprisingly, whereas with Remember all, we were trying to convince people, Hey, this is worth [00:27:30] your time. Like you should check it out. It's like, you should pay for it, you should implement it here.
+
+
+[00:27:34] It was [00:27:35] almost like they were pulling us, um, like they immediately started replying with, Hey, [00:27:40] these are better results than what I'm seeing from my existing vendor. Um, is this a hosted API, do you have [00:27:45] a Stripe link? Like, can I purchase this? Can I start using this? Um, it's almost like a slap in the face in [00:27:50] terms of how much the market wants the product.
+
+
+[00:27:52] And that to us was the clear sign of okay. [00:27:55] Even though maybe there's some interest in re br all, um, it's just not even close [00:28:00] to what we can solve, um, in terms of da data ingestion. [00:28:05] 
+
+
+[00:28:05] Speaker: Okay. So the key difference was people's reaction, but do you think [00:28:10] how to difference good to have and love to have is the willingness to pay?
+
+
+[00:28:14] Speaker 2: [00:28:15] No, I don't think it's just a willingness to pay. I think there are, there are quite [00:28:20] a few different ways that somebody can demonstrate how much your product means to them. Um, like [00:28:25] something that I, I really appreciate, um, is one we had a [00:28:30] relatively high price tag or what felt like a high price tag when we first launched Reductive.
+
+
+[00:28:34] [00:28:35] Um, we had a, you know, platform fee and everything like that, which we've still since gotten rid of. [00:28:40] But it just meant that the people that were signing up really wanted to use the product. [00:28:45] But putting aside willingness to pay for a second, you can also see that people [00:28:50] end up implementing reductive next to immediately, like the differences that they see.
+
+
+[00:28:54] Mean that it's [00:28:55] something that they want to put into production as soon as possible. We have people that sign up and by the end of the [00:29:00] day have already integrated reductive into their product. That sense of urgency means a lot like they are [00:29:05] changing their priorities to incorporate it in their product.
+
+
+[00:29:08] We also have people that are [00:29:10] very upfront with us for feedback. Um, and that's something we're always going to be grateful for [00:29:15] when we make an updates and, you know, it improves somebody's performance in some way. We immediately [00:29:20] start seeing customers messaging us and saying, you know, thank you for fixing this.
+
+
+[00:29:23] Like, this improved some [00:29:25] aspect of our products. This helped us build some new feature. And the flip side is true too. Like if [00:29:30] we make a mistake on the order of minutes, we start to see people flagging that mistake. Um, [00:29:35] and that is really meaningful and that they care to make sure that your product is great, like you're on the [00:29:40] same team.
+
+
+[00:29:41] You want to make the product better together because the work that we do directly [00:29:45] helps them too. Um, and so we're incentive aligned on making sure that reductive is great and that [00:29:50] matters a lot. It's not just the money, it's the time that they're willing to put into making the product great [00:29:55] together.
+
+
+[00:29:55] Speaker: Awesome. Was there any most impressive, memorable [00:30:00] feedback from user specifically? 
+
+
+[00:30:02] Speaker 2: Ooh, tons. Um, [00:30:05] so we've put a ton of time into, you know, aggregating data. Um, [00:30:10] it's a big part of what we do and it's a big part of why we've been able to train state-of-the-art models. [00:30:15] But production data is different. Um, you know, we work with really intensive [00:30:20] financial healthcare insurance use cases that you're never going to find on the internet.
+
+
+[00:30:24] Um, [00:30:25] and so really quickly we started having customers that, you know, had tried public documents and [00:30:30] saw exceptional performance, but they would come to us with the most esoteric examples [00:30:35] imaginable. Like we've seen really hard cases where a doctor annotated things [00:30:40] and you know, they just put things at the bottom of the page and you were supposed to understand that it related to the thing.
+
+
+[00:30:44] At the top, [00:30:45] we see really intensive financial tables with thousands of rows of data. [00:30:50] Everything along those lines. Um, and the nice thing is [00:30:55] our customers want us to solve those. And so we've always had this almost design partner like [00:31:00] relationship where they will come to us with that sort of feedback and we will iterate, [00:31:05] iterate day after day after day to make the models better to make it work with their use cases.[00:31:10] 
+
+
+[00:31:10] I'm gonna grab some water real quick if that's okay. 
+
+
+[00:31:12] Speaker: The next question is about the way [00:31:15] you build red. You build red in public [00:31:20] forum. Get a very, to put it further. Yeah. Perfect. Sorry, [00:31:25] you got awesome feedback from the user. Yeah. But there are [00:31:30] still founders who prefer building instead. What's your honest thought about [00:31:35] that?
+
+
+[00:31:35] Those people? 
+
+
+[00:31:37] Speaker 2: Yeah. Um, I'm sure that there are [00:31:40] cases where being quiet about what you're working on maybe makes sense. Um, for [00:31:45] us, the way that we've thought about the business is PDF processing is not. A new [00:31:50] thing. Um, it has existed for many decades. It's existed longer than I've been alive. And [00:31:55] so there's a world where we just relied on marketing, um, to say, [00:32:00] you know, Hey, it's the best product.
+
+
+[00:32:01] Hey, it's state of the art, all those things. But there are many [00:32:05] companies that can say that. And on the flip side, the other thing that we could do is actually put the [00:32:10] product in front of people. Um, even if it wasn't a perfect platform to let them see on their [00:32:15] hardest documents, that it works to prove what you're saying is true.
+
+
+[00:32:19] And from day [00:32:20] one, even before we had self-serve onboarding or anything like that, we decided that it made more sense to be in [00:32:25] the second camp, um, to actually show people, not tell them, um, that Hey, this [00:32:30] is going to solve the problems that you're seeing. Um, that hey, like this is actually a net new [00:32:35] product that is better in ways that you were hoping to find.
+
+
+[00:32:38] And that translated to the [00:32:40] company growing really quickly, at least in our case, being public in that way, um, just [00:32:45] meant that. Companies that otherwise probably would've ignored Reductive, became really [00:32:50] interested. Um, like when we were a two person company, a trillion dollar [00:32:55] enterprise, multi-trillion dollar enterprise decided to book a demo.
+
+
+[00:32:58] And the reason why they booked a demo [00:33:00] is because we had that public playground where they uploaded hard documents that they'd seen fail on every other [00:33:05] vendor. And once they saw that work, that justified reaching out. And if we hadn't [00:33:10] done that, if we were this two person company of, you know, 20 something year olds, um, I [00:33:15] find it hard to imagine that they would even be interested in engaging with us.
+
+
+[00:33:18] Um, if we'd been shy about what we were [00:33:20] building, we probably would've never gotten on the phone with them. And I think a lot of what building a [00:33:25] company, especially in the early days, it's really maximizing your opportunity for [00:33:30] lucky moments. Um, like we didn't force them to book a call with us. We got really lucky that they [00:33:35] found us and tried to document, but if we hadn't given them an opportunity to [00:33:40] test it.
+
+
+[00:33:40] We never would've gone the next step. Um, and I think a lot of things boil down to those sorts of things where you [00:33:45] set yourself up to have those lucky moments. 
+
+
+[00:33:48] Speaker: Awesome. So [00:33:50] after you decided, oh, this is it, could you walk us through [00:33:55] that after Pivotal moment to the first customer? 
+
+
+[00:33:59] Speaker 2: [00:34:00] Yeah. So our first customer, um, was this insurance [00:34:05] tech startup called Peak.
+
+
+[00:34:06] Um, we hopped on a call with them. We [00:34:10] demoed the product. It was a pain point that they were very actively looking to solve. They were struggling with table parsing in their [00:34:15] documents, and fortunately, like Reductive worked really well for them. Um, we [00:34:20] showed them examples of their outputs and neither Ron or I have a background in sales, so we [00:34:25] kind of didn't really know what we were doing here.
+
+
+[00:34:27] Um, we were lucky that they were really gracious [00:34:30] with us, um, and that they were willing to work with us as we were figuring things out. We hadn't thought through [00:34:35] even how we would charge for the product, what it should cost, anything like that. And. [00:34:40] So on the call, once they were impressed by the products, they asked us how much it costs [00:34:45] and we just kind of threw out a number.
+
+
+[00:34:46] We said it cost 200 a month. Um, thinking that that was a high [00:34:50] number to charge and they just immediately said yes, which we were shocked by. Um, [00:34:55] and that's what it was. Um, like there was some follow ups. We followed up for weeks, um, to actually [00:35:00] move into production, but they were a very kind early [00:35:05] customer.
+
+
+[00:35:05] Um, and that they took a bet on us before it really was a fully fledged product. And I think [00:35:10] that's true for a lot of our early customers, um, because we were able to solve some [00:35:15] set of things that they cared about a ton, they were willing to make sacrifices on other aspects of [00:35:20] the product. Um, and we kind of got to grow alongside them and build reductive for them.[00:35:25] 
+
+
+[00:35:25] Speaker: Thanks. So could you tell us about [00:35:30] why did you choose startup for the first company? First customer? Yeah. [00:35:35] Big company. Always big price. Yeah. 
+
+
+[00:35:39] Speaker 2: The most [00:35:40] important thing as an early stage company is how quickly you are learning and [00:35:45] iterating from your learning. Um, if you are in a position where [00:35:50] you have months of delay before you learn, the next thing to iterate from you just never [00:35:55] get to make progress quickly.
+
+
+[00:35:56] The nice thing with startups as a customer, um, is when they tell [00:36:00] you they're interested in your product, they test that product that day. Um, once [00:36:05] they test it, they give you feedback by the next morning, and when you fix that feedback, [00:36:10] um, they end up telling you whether or not that worked or it didn't, and you iterate by the end of that first [00:36:15] week, you've already made a ton of progress with them.
+
+
+[00:36:18] On the flip side, enterprise sales [00:36:20] is of course, very important. A ton of our customers are massive enterprises, you know, large financial [00:36:25] institutions and healthcare orgs and insurance companies, but that is a multi-month [00:36:30] process before you even get to have it in the hands of the people that want to use it.
+
+
+[00:36:34] Um, there are [00:36:35] things there that aren't the most important thing for you to validate. You know, like you need to go through security reviews, you need to go through [00:36:40] procurements and all that matters. Like you need to learn how to do it. But in the beginning, the number one thing that [00:36:45] we cared about is, is the product that we are selling the best thing available?
+
+
+[00:36:49] Um, and if not, [00:36:50] what do we need to fix for that to be true? And startups were a great base in that they have a very high [00:36:55] bar for what is acceptable. They're not willing to make compromises. They want what's the best on the market, and they're [00:37:00] very direct about getting you there and you can work with them to get to that point.
+
+
+[00:37:04] Speaker: Okay. Did [00:37:05] you fail to fail to a big company and get that insight or [00:37:10] is it your experience from Google? 
+
+
+[00:37:13] Speaker 2: Um, no, [00:37:15] actually we had a lot of enterprise success very early in the company. [00:37:20] So earlier I was mentioning the multi-trillion dollar enterprise we [00:37:25] sold to them back when we were still a two person company.
+
+
+[00:37:28] Um, and that's true for multiple other [00:37:30] enterprises too. Um, like we. Hadn't really established ourselves. Um, you know, [00:37:35] product was super early, but because they liked the product enough, they were willing to take a bet on us. [00:37:40] Um, fortunately we had a lot of great mentors through the process. So even in the [00:37:45] beginning, we had raised from first round, um, who helped us with all sorts of things, including, you know, there's one side of [00:37:50] it, which is communicating the product.
+
+
+[00:37:51] And that was something that because we were in the weeds, we were able to do, but [00:37:55] there's another side of sales, which is, you know, how do you navigate a large organization? How do you convince execs [00:38:00] to be interested? And that is something that was completely new for us. We were learning it as we went. [00:38:05] And because our investors were very supportive, I would call them almost daily, like every time we got an [00:38:10] email, I'd be on the phone saying, Hey, they phrased it this way.
+
+
+[00:38:12] Like, is it okay if I phrase my reply this way? [00:38:15] Um, I'm sure it was really annoying on their side because I would ask all sorts of little things, but they kind [00:38:20] of guided us through that process and that set up a really good course track for us to know what it takes [00:38:25] for us to land these deals again and again and again in the future.
+
+
+[00:38:29] Speaker: Thanks. And [00:38:30] was there any kind of like very challenging or tough customers in the very early [00:38:35] stage? 
+
+
+[00:38:36] Speaker 2: Oh, tons. Yeah. Um, I mean, we deal with very sensitive [00:38:40] data. Uh, this is often some of the most critical data that companies have, [00:38:45] and that means that it's not just a question of accuracy, like we need to be incredibly secure.
+
+
+[00:38:49] We [00:38:50] need to be able to deploy on-prem in their environments, fully air gap with no access to the internet. That's hard. [00:38:55] Um, that's really intensive and sometimes it's something that companies don't do until really, really [00:39:00] late, um, in their company's journey. But we decided that we didn't [00:39:05] want there to be a trade off with using reductive.
+
+
+[00:39:07] The way we framed ourselves is we almost want to be an ingestion [00:39:10] team for our customers. And if they think that there is a, you know, security trade off with [00:39:15] using reductive, it doesn't matter how accurate we are, they probably are not going to work with us. So we had to [00:39:20] do the painful work of getting to that point.
+
+
+[00:39:22] It's not just on accuracy, but on stability and reliability and [00:39:25] security from day one. That's not easy to do. And in many cases that actually [00:39:30] meant that a lot of our customers today were not ready to [00:39:35] use us right away. Um, we've had companies that I've tried to sell to two, three times, [00:39:40] and for one reason or another, they weren't sure if they could, you know, trust this early stage seed stage [00:39:45] company with what they were doing even though they liked the product.
+
+
+[00:39:47] And what's interesting is pretty much [00:39:50] all of those companies have since come back to us. Um, like they have come [00:39:55] inbound saying, Hey, we've been really impressed by the work that you've been doing. We see the progress that Reductive keeps [00:40:00] making month over month, um, and they're ready to buy. Um, and so as the company's [00:40:05] grown, the companies that we struggle to sell to in year one, um, we're fortunate to call [00:40:10] customers today in year two.
+
+
+[00:40:12] Speaker: Thanks. Could you tell us about the Benchmark [00:40:15] project you proved your product of accuracy? 
+
+
+[00:40:18] Speaker 2: Yeah, so [00:40:20] this goes back to what we were saying earlier of. There have been a lot of companies in this space, [00:40:25] um, a lot of attempts at solving this problem. And we just wanted to be direct about, [00:40:30] Hey, test it for yourself and decide what works for you.
+
+
+[00:40:33] And for some [00:40:35] people they have internal benchmark sets and it's very easy for them to do a side by side. We consistently [00:40:40] found that when people compare reductive to another vendor, they end up choosing reductive because the [00:40:45] product is great. Um, and that's nice. Um, like we kept the playground open so that they could see that.[00:40:50] 
+
+
+[00:40:50] But not every company has that sort of bandwidth. And in a market where every single [00:40:55] week somebody claims state of the art, we realized that it became very noisy and it was really hard [00:41:00] to discern what is or isn't worth your time. So what we wanted to [00:41:05] do with Rd Table Bench wasn't necessarily to create a singular benchmark.
+
+
+[00:41:09] It was also [00:41:10] to create a framework that people could build on top of to modify however they wanted. Um, so we worked with a third [00:41:15] party company. We paid for everything. Um, we had PhD level, labelers [00:41:20] label, a thousand really hard tables. Um, things that any model would struggle with, [00:41:25] including our own. We had multiple rounds of QA and we released everything.
+
+
+[00:41:29] We released the [00:41:30] data points, we released the scoring frameworks, you know, the ground source truth, everything, [00:41:35] so that people could modify it as they needed to. Um, if you decided that you cared about a different set [00:41:40] data points, you could just swap that in and use the same scoring frameworks. If you didn't like our scoring frameworks, you could [00:41:45] modify that and use the same data points.
+
+
+[00:41:46] All of that was open because we didn't want it to be [00:41:50] just a matter of trusting us. We want it to be something that people can build on top of to see for [00:41:55] themselves what works best. Um, and we released that with reductives outputs along with a bunch of other [00:42:00] models because we want it to just be directive.
+
+
+[00:42:02] Hey, when we say that we are the most accurate [00:42:05] product in the market, we really mean it. Um, here's some examples, but if you want to see further, like you can [00:42:10] test that for yourself. 
+
+
+[00:42:11] Speaker: Thanks. And I saw you mention about these [00:42:15] vessel advice about getting so. To your own customers. Yeah. You [00:42:20] could invite them to your wedding.
+
+
+[00:42:21] Yeah. Could you tell us about how do you apply that philosophy [00:42:25] to your business? 
+
+
+[00:42:26] Speaker 2: Yeah, so I think one of the most special things [00:42:30] about an early stage company is that in the early days, the company isn't [00:42:35] really an entity. Like it doesn't have a life of its own. It really is the people, it's the founders, it's the early [00:42:40] employees, it's individuals that you can point to, right?
+
+
+[00:42:44] And so when [00:42:45] you partner with an early stage company, part of what you're buying isn't like a pre-packaged [00:42:50] product. Part of what you're buying is this commitment to work alongside each other. It's like the founders telling [00:42:55] you, Hey, I will build with you. Like, Hey, I will solve the problems for you. And that to [00:43:00] me is your greatest strength.
+
+
+[00:43:01] Um, there are companies that are going to be more established than you. There are companies that are going [00:43:05] to, you know, have more features than you, but at a larger scale, they can't [00:43:10] afford to be in the weeds on a per customer basis. Like it's not the founders doing support. Um, it's not [00:43:15] the founders working on features, all of that.
+
+
+[00:43:17] We wanted to really go deep on that. And so [00:43:20] from the early days even to now, we would set up individual Slack channels with all of our [00:43:25] customers. I have their phone numbers, like we would call directly, and if they ran into issues, they would just [00:43:30] call us. Um, like they would tell us, Hey, like this isn't working.
+
+
+[00:43:33] We need this for a big customer. And [00:43:35] we would work late into the nights to make sure that it was working for them. Um, because [00:43:40] we don't take it lightly that people decided to trust us from an early stage. They have many reasons to [00:43:45] not. Um, they have all the reasons in the world to choose an established company that, you know, has been around for a [00:43:50] decade.
+
+
+[00:43:51] And part of the way to pay back the trust that they've [00:43:55] given us is to be there for them on an individual level. So even today, [00:44:00] um, you know, if a company has an issue, they can just page Ron or me directly. Um, there's no sense [00:44:05] of, you know, separating the outs to a dedicated support team and that's all they can access.
+
+
+[00:44:09] Um, [00:44:10] part of what they're getting with Reductive is us as their ingestion . team
+
+
+[00:44:13] Speaker: Thanks. And [00:44:15] is there any. Kind of one story with customers like gonna the wedding or something like that. [00:44:20] 
+
+
+[00:44:20] Speaker 2: So, I mean, neither Veronica and I are married yet. Um, so there's no, [00:44:25] we haven't had a chance to test whether or not we'll invite a customer to a wedding.
+
+
+[00:44:27] I think realistically we could. [00:44:30] Um, but we have gotten really close to our customers. Like we, you know, get food with them [00:44:35] all the time. Some of our closest friends now are people that have partnered with us for a while. [00:44:40] Um, every few weeks we'll actually invite customers over to the office, um, so that they can meet not just [00:44:45] me and Ron, but the rest of the team.
+
+
+[00:44:47] Um, so that we build that sort of relationship. And it's not [00:44:50] just about work. It's not us trying to upsell them on products. It's us getting to know them as individuals [00:44:55] to like build that relationship. Um, and I hope that that continues to be true [00:45:00] for the lifetime of the company. 
+
+
+[00:45:02] Speaker: Thanks. And you mentioned about [00:45:05] the importance about getting close and build with customers.
+
+
+[00:45:09] Yeah. [00:45:10] But I think there will be a lot of, all these founders who are debating. [00:45:15] Like which one is more important? Product first or kind of like building and [00:45:20] build? Building and making relationship with the customer. Yeah. How much is important in terms of [00:45:25] that and how do you balance all for like, for all stage farmers?[00:45:30] 
+
+
+[00:45:30] Speaker 2: Yeah. So I actually don't think that there's a trade off [00:45:35] there if you're thinking of it the right way. Um, to me a lot of companies [00:45:40] start with, you know, some amounts of insights, um, that founders think they can solve some sort of [00:45:45] problem. But a lot of what companies become over time is an aggregate [00:45:50] sets of them talking to customers and figuring out like, what is the next version of this?
+
+
+[00:45:54] Um, [00:45:55] like how can this be even better? And in reality, if you just put [00:46:00] a product in the hands of customers and you never talk to them, you're going to mess up in some set of [00:46:05] ways and you don't have a rights to know the way that you've messed up. Like if they find that the [00:46:10] product doesn't work, it is completely reasonable for a customer to just turn to another vendor that does work.
+
+
+[00:46:14] Okay. [00:46:15] But when you're close with a customer, when they feel like they can trust you, and when they feel like you're actually going to act on their [00:46:20] feedback, that's when they reach out and tell you like, Hey, I like everything else about this product, but [00:46:25] this one thing needs to be better. And that gives you this privilege of actually improving the [00:46:30] product for them, um, and getting to a point where it is actually solving a hundred percent of their need.
+
+
+[00:46:34] So [00:46:35] for us, like so many of the decisions that we've made, were in the context of what would make the product better [00:46:40] for them, not in the context of us just, you know, sitting in a room and whiteboarding out things that we can [00:46:45] do. And that only happens when you've built a relationship with your customers.[00:46:50] 
+
+
+[00:46:50] Speaker: Awesome. I think it better, we still have, let's go to the challenge moment. Yeah. What was the single [00:46:55] hardest moment period of time when you build, and [00:47:00] how did you overcome it? 
+
+
+[00:47:01] Speaker 2: Yeah. Um, honestly, there are a few, I, [00:47:05] I think with every moment that is really exciting in a company. Um. [00:47:10] The thing that isn't discussed in interviews is what it took to get to that moment.
+
+
+[00:47:14] [00:47:15] Um, like when we were landing our first really big enterprise contract, it was an on-prem deployment and we'd [00:47:20] never done an on-prem deployment before. You know, we didn't have infrastructure engineers on the team. [00:47:25] We weren't this large org that could divvy up responsibilities. [00:47:30] And we knew that this mattered a ton.
+
+
+[00:47:32] Like we couldn't lose this [00:47:35] opportunity. And that just meant that for two weeks leading up to it, we [00:47:40] basically did nothing other than making sure we were ready for that. Um, we would [00:47:45] wake up, we would immediately go to the office and we would be in the office until we were too exhausted to continue [00:47:50] working.
+
+
+[00:47:50] We would sleep for at most a few hours, and then we would go back and we would try again and again [00:47:55] and again. And this isn't just like, uh, you know, you're writing code. We were labeling data [00:48:00] by hands. We were looking at individual loss cases. We were doing everything end to end. [00:48:05] Um, and there was no part of the flow that we felt was above us.
+
+
+[00:48:09] [00:48:10] Any individual thing that we were messing up, we were actually going through and finding new data [00:48:15] points we were going through and annotating those, like everything was done by hand and that was important. [00:48:20] I think there have been similar things along those lines that are just hair on fire [00:48:25] problems at some points.
+
+
+[00:48:25] For example, we had an incidence where because of a billing glitch, [00:48:30] our cloud provider deactivated our cloud accounts, um, which just took out all of our [00:48:35] production info, um, in real time. And even though it was an administrative mistake on [00:48:40] their side, we immediately had to reset up all of reductive on a [00:48:45] second cloud account.
+
+
+[00:48:46] Um, this was on Ron's birthday, um, and he was just [00:48:50] frantically trying to get things set up. I was in parallel apologizing to all of our customers. [00:48:55] I think we only had about 40 minutes of downtime, one of our worst outages, but still like 40 minutes [00:49:00] of reset up all of our infrastructure in a net new cloud account that didn't even exist an hour ago.[00:49:05] 
+
+
+[00:49:06] Those sorts of moments I think, feel, do or die in the moments. [00:49:10] In retrospect, it's kind of funny to look back on. Um, but in those moments it kind [00:49:15] of feels like the company is on the line and it's hard to not feel [00:49:20] low and just like directed in that point. 
+
+
+[00:49:23] Speaker: I see. And you [00:49:25] hit 800,000 a RL with just two people.
+
+
+[00:49:28] Yeah. Yeah. [00:49:30] So was it, did, did you intend to build in a [00:49:35] small team and when did you finally decide to make your first hire and what is your [00:49:40] philosophy on hiring and team building? 
+
+
+[00:49:42] Speaker 2: Yeah, so I think one of the [00:49:45] interesting things about Reductive is that every phase of the company we have been by [00:49:50] most standards understaffed relative to what you would expect.
+
+
+[00:49:52] Um, so today we've raised [00:49:55] 108 million, but the team is only 22 people. Um, when we were a series A [00:50:00] company, we'd raised around 33 million and the team was only four people. Um, and the [00:50:05] only way that that works. It's for every individual to be a really high agency, [00:50:10] high ownership person. Um, you can't be a four person team as a series a [00:50:15] startup if people think that their responsibilities are in a tightly balanced scope.[00:50:20] 
+
+
+[00:50:20] So Erica was our first hire. She was somebody that Veronica had known for a while, and one of the most [00:50:25] important things for us was not, you know, resume bullet points. It was her eagerness to just dive into [00:50:30] anything that the company needed. Um, YFI, one of our first research hires did his entire [00:50:35] PhD on vision models for document processing.
+
+
+[00:50:38] Um, he's probably one of the world's [00:50:40] best experts on what we do, and that wasn't an easy hire to make. [00:50:45] Like it wasn't just a, you know, he applied online and we gave him a job offer. We had to reach [00:50:50] out for months to convince him that this was a place that you know, he should be interested in working at.
+
+
+[00:50:54] [00:50:55] Um, when he finally took a call with us, we booked, uh, flights to Indiana like that [00:51:00] weekend. Um, we flew overnight, brushed our teeth in like a CVS, um. [00:51:05] And just spent eight hours with him, um, telling him about everything that we were working on. Um, you know, [00:51:10] showing him all the work that we'd done, but also where we were headed.
+
+
+[00:51:13] And in [00:51:15] retrospect, like those are some of the defining moments of the company. Um, like the early people that join a [00:51:20] company, set the course for what the company becomes. Um, they set the culture, they set the cadence of [00:51:25] work, and each individual that we've hired, we've been lucky in that [00:51:30] if you look back at their careers before reductive, there's a really interesting pattern in [00:51:35] that all these people had things that they were passionate about that go beyond [00:51:40] just responsibilities.
+
+
+[00:51:41] Like EFE was doing his PhD, but on the side from his [00:51:45] PhD, he was open sourcing models that's, you know, were some of the best. Um, they were number one on hugging [00:51:50] face for what we do. One of the, our first Devereux hires, um, [00:51:55] left her software engineering job at Meta. Um, to design and [00:52:00] sell a children's coloring book.
+
+
+[00:52:01] Like she did all of that end to end. Um, and it was purely [00:52:05] something that she wanted to do as a passion. Um, it wasn't like a thing that she was asked to do [00:52:10] or anything like that, like it was something she wanted to do and she left what otherwise is a very lucrative [00:52:15] career to do the things that actually inspired her.
+
+
+[00:52:17] Um, our first growth engineer is a similar story where [00:52:20] he was a senior software engineer at a great growth stage company that's growing quickly and he put that [00:52:25] aside to start a custom bike shop company. Um, all of these people do the [00:52:30] things that they do because they want to, not because they need to.
+
+
+[00:52:33] And that's transpired into, you [00:52:35] know, on the team today. We have a very nice culture of people diving in [00:52:40] and doing anything at the company. Um, there's no sort of notion of, hey, [00:52:45] if you're an engineer, you don't need to do customer support. There's no notion of like, Hey, you [00:52:50] know, if you're an ops person, you don't need to label data for the ML team.
+
+
+[00:52:53] Um, in the early days, the first time [00:52:55] employees all hand labeled data. Um, and it was almost like part of our onboarding process, [00:53:00] um, because everybody just wants to see the company succeed. Um, and the company [00:53:05] succeeds when all of these things work. When the product works, when customers are happy, um, when, you know, we're [00:53:10] onboarding new folks and people don't think of their job in terms of whatever their role title is, they [00:53:15] think of it in the capacity that they can help the company move forward.
+
+
+[00:53:19] Speaker: So [00:53:20] could you describe more about the culture, working culture in here? Like Yeah, I think [00:53:25] you can just describe that gym or some like office or something like 
+
+
+[00:53:28] Speaker 2: that. Yeah. [00:53:30] Um, so the office is very freeform. Um, a lot of what you see is just like [00:53:35] ragtag things that's were brought in. Um, some of it fortunately came with the space, but when you walk in, the [00:53:40] first thing that you'll see is like a squat rack, um, and weights and people just wanted that, so we got it.[00:53:45] 
+
+
+[00:53:45] Um, the really nice thing about culture today is we are very much not [00:53:50] a process heavy company. Um. A lot of the work that people do [00:53:55] is not in meetings. It is, you literally walk over, every full-time employee is in person, [00:54:00] um, and people just walk over. They will brainstorm behind me. There's a series of whiteboards and you'll [00:54:05] constantly find people just talking through ideas together for a while.
+
+
+[00:54:09] The only [00:54:10] process that we had as a company was every single Friday, every person at the company [00:54:15] would meet, um, for an hour and we would talk through customer complaints, things that they were happy [00:54:20] about, what every individual is working on and priorities for the coming week. And [00:54:25] even today we've maintained that in that we don't do like a separated engineering team [00:54:30] meeting versus sales team meeting.
+
+
+[00:54:32] That all hands really is everybody talking [00:54:35] together. It's sales. Talking about of the biggest prospects we're selling to, like what are they looking for? Like [00:54:40] what matters. Um, it's engineering sharing to sales like, Hey, this is what we're working on, this is what we're [00:54:45] trying. And it creates a really nice diffusion of ideas where.
+
+
+[00:54:49] Every [00:54:50] engineer has intuition about why the features that they're building matter. Um, like they know [00:54:55] not in the context of I'm trying to tick off this ticket in linear. They're thinking in terms of, [00:55:00] oh, customer A needs this to build the feature that they want. That just makes it a lot [00:55:05] easier for us to be able to do what we do without, you know, a team of product managers.
+
+
+[00:55:08] There are no product managers at the [00:55:10] company. Every individual just knows what needs to happen. 
+
+
+[00:55:13] Speaker: Was there any specific feature come [00:55:15] from that meeting? Like altogether? 
+
+
+[00:55:17] Speaker 2: Oh, tons. Yeah. So 
+
+
+[00:55:19] Speaker: gimme an [00:55:20] example of it. Just 
+
+
+[00:55:20] Speaker 2: one. Yeah. So I mean, a lot of the interesting [00:55:25] work that we've done started from just initial discussions.
+
+
+[00:55:28] Um, we were [00:55:30] one of the first companies, if not the first company in the space [00:55:35] to release, um, what we have today with our agent to OCR. Um, really [00:55:40] what that is, is we have this framework for applying corrections through our outputs, almost like a [00:55:45] human in the loop review and. That came from a real time discussion of two [00:55:50] different things that people were working on and deciding, Hey, maybe we can apply these together and [00:55:55] have it be a single pass.
+
+
+[00:55:56] Um, because we were doing work on finding mistakes and reductive outputs, [00:56:00] um, but we were also doing work on how do we use VMs to push for next step accuracy. [00:56:05] Similarly, um, reductive was the first company to release a unstructured document [00:56:10] editing endpoints, like without any sort of templating, we can actually input [00:56:15] information based on any sort of natural language inputs to your documents.
+
+
+[00:56:18] And that [00:56:20] came from us having a discussion about one of our customers, um, a leading company in [00:56:25] compliance, mentioning a pain point that they had in their context. And it just spiraled [00:56:30] in real time into discussion of like, oh, we've put so much time into interpreting document structure to [00:56:35] know what to pull out.
+
+
+[00:56:36] What if we did the reverse? Like, what if we used everything that we know about the [00:56:40] document structure to know where we can put things in? Um, we know where check boxes are. Can we now [00:56:45] fill in the check boxes for the customer? Um, those sorts of features aren't, you [00:56:50] know, like they didn't come up with somebody sitting alone writing in a Google Doc.
+
+
+[00:56:54] They [00:56:55] came from people bouncing ideas off of each other and built into great products that [00:57:00] people use in production today. 
+
+
+[00:57:01] Speaker: Thanks. And how did you know you were ready to [00:57:05] raise your first round of funding? 
+
+
+[00:57:07] Speaker 2: Yeah. Um, so honestly, [00:57:10] we were going to raise very little, uh, after we finished yc, we felt really [00:57:15] confident about our ability to go really far with not that much money.
+
+
+[00:57:18] So funnily enough, [00:57:20] we announced in the 8.4 million seed round. Um, when we went out to raise, we [00:57:25] originally were only going to raise 1.5 million. Um, and I don't think that that was an empty claim like in the [00:57:30] lifetime of the company today, even having raised 108 million, we've only spent about that [00:57:35] amount.
+
+
+[00:57:35] So we've earned very little because the company's grown really quickly. [00:57:40] And the main thing that changed our mind on the amount that we raised was that. Fundraising ended up being [00:57:45] not just about the money, it ended up being about the folks that we would get to partner with. Um, [00:57:50] so I have a ton of great things to say about First Round as a firm.
+
+
+[00:57:53] Um, obviously [00:57:55] larger investors have their own set of constraints in terms of, you know, ownership targets [00:58:00] and everything. And it became a question of do we want to raise a small [00:58:05] round, like a party round, um, with a bunch of small checks from people that's maybe are [00:58:10] less concentrated, you know, they make hundreds of investments and this is just one of many.
+
+
+[00:58:14] Or do [00:58:15] we want to be one of a handful of companies that's this investor is truly focused on helping growth to the [00:58:20] next stage. And even today we've never regretted that decision because [00:58:25] the ways in which our investors have shown up for us first round Benchmark and [00:58:30] Andreessen are so much more than the cash in the bank.
+
+
+[00:58:32] Um, it's so heavily a matter [00:58:35] of how they've been there for us, for important decisions. Um, the ways in which they have helped us think [00:58:40] about hiring, you know, growing the company of sales. All of that, um, [00:58:45] has really, really mattered. And having them on board, I think has changed the [00:58:50] trajectory of the company.
+
+
+[00:58:51] Speaker: Thanks. And if you give an [00:58:55] advice for all the founders who are debating what investors [00:59:00] to choose or Yeah. Like people who haven't fund got fundraising so far, [00:59:05] what would it be? 
+
+
+[00:59:06] Speaker 2: Yeah. Um, I actually just wrote up a post on this, uh, NYC's [00:59:10] forum of everything that I wish I knew before we raised money. The number one thing [00:59:15] is I think a lot of early stage founders think in terms of firm brand, um, [00:59:20] like they only think of tier one VCs as the actual firm, which, you know, many of [00:59:25] these firms have been around for decades and, you know, have their own reputation from that.
+
+
+[00:59:29] But at [00:59:30] the end of the day, the thing that matters most is ideally, whoever you're raising money from, like [00:59:35] that individual partner. As somebody that you're going to be partnering with for the next 10 years. [00:59:40] Um, they're going to be there in all of your great successes, like your future fundraising rounds when you close the [00:59:45] great contracts.
+
+
+[00:59:46] But they'll also be there for the bad moments of the company. They'll be there when you have to, [00:59:50] you know, let an employee go. Um, they'll be there when you lose a contract. They'll be there when you have [00:59:55] a big, I don't know, media incident, whatever could happen in the lifetime of a company [01:00:00] and you can't break that relationship.
+
+
+[01:00:03] Like once somebody is on your board, [01:00:05] they're probably on your board up until the company has some sort of exit event. [01:00:10] So it's one of the most important decisions you'll make ever. The thing that we really like to do is we put a [01:00:15] lot of time into talking to people that have actually worked with this person, and I don't just mean they're successful [01:00:20] investments because, you know, everybody is nice to, whoever did well in their portfolio, like [01:00:25] they made them a lot of money.
+
+
+[01:00:26] But it's really important to see how their [01:00:30] interactions changed when things weren't going well, like for investments that didn't work out. Was [01:00:35] the investors still there fighting for the company? Were they still ready to do whatever it takes to turn things around? It's [01:00:40] like how did things wind down when a company shut down for whatever reason?
+
+
+[01:00:44] [01:00:45] And the really great investors, the ones that we've been fortunate to partner with, [01:00:50] I think you'll find really consistently that their behavior doesn't change too much. Um, [01:00:55] whether or not a company does well or doesn't do well, um, whether or not they're in the [01:01:00] peaks of their moments or, you know, some of the lows, these partners are committed to helping the [01:01:05] company succeed.
+
+
+[01:01:05] Um, and that is really important. So if you're an early stage founder, thinking about who to [01:01:10] raise from, take the time to actually understand what that is going to look like, um, because it's [01:01:15] one of the most important decisions you'll have to make. 
+
+
+[01:01:18] Speaker: Thanks. And was there any [01:01:20] experience you thought, oh, this ambassador really thinks about us and fighting [01:01:25] to solve this problem together?
+
+
+[01:01:26] Was there an example? 
+
+
+[01:01:28] Speaker 2: Oh yeah. [01:01:30] Um, many actually. Um, I remember. There was a moment [01:01:35] where Liz, our seed investor, actually basically never takes time off. Um, [01:01:40] like if I text her at 10:00 PM she's replying at 10 0 5, [01:01:45] um, she's getting on the phone, like doing whatever. And one of the only [01:01:50] moments where she was taking time for herself, I think she was at a Broadway show with her husband, [01:01:55] um, tragically like I, I wish we hadn't done this.
+
+
+[01:01:58] Um, but [01:02:00] we had a opening eye outage at the same time. Um, and so Veronica was like [01:02:05] frantically, you know, messaging her like, Hey, like what do we do? Our keys aren't working. [01:02:10] Customers are upset. And even though it was one of the only times that she had to [01:02:15] herself, um, she's immediately stepped out, she started calling people in her [01:02:20] network, um, and very quickly actually had the chief product officer at the company, [01:02:25] um, on the phone trying to help us with our issue.
+
+
+[01:02:27] And we were not an important enough customer for them [01:02:30] to be doing. That sort of thing where, you know, people are willing to go above and beyond where they are [01:02:35] as scared about the dangerous moments as you are. Um, where like they want you to win as bad as you [01:02:40] want to win. Um, I think mean a lot, um, because obviously like we don't [01:02:45] want to be bothering Liz or Jennifer or Chattin, um, when they're taking time off, but just knowing that [01:02:50] they're there for us, um, I think it's comforting 
+
+
+[01:02:53] Speaker: during the, before the [01:02:55] musical is wild.
+
+
+[01:02:55] Yeah. And what was the hardest moment in your fundraising journey? [01:03:00] What did you feel at that moment? 
+
+
+[01:03:02] Speaker 2: Yeah. Um, I think we were very [01:03:05] privileged in that in every single round, um, we have gotten to work with the [01:03:10] investor we were most excited about. Um, and especially we [01:03:15] have been able to build relationships with investors and then partner once we know for sure [01:03:20] that we are excited to work with them.
+
+
+[01:03:21] Um, so for example, we were incredibly lucky to partner with [01:03:25] Jennifer at Andreessen Horowitz. Um. And part of the reason why that decision [01:03:30] made sense wasn't even about Andreessen as a firm. Like obviously it has a great [01:03:35] history, but I'd known Jennifer since our seed round. Um, we had met over [01:03:40] months, like she had made introductions to customers even though we weren't part of her portfolio.[01:03:45] 
+
+
+[01:03:45] Um, so all of that is to say like, I think the, this is gonna [01:03:50] sound kind of brash. Like I think the hard decisions that we've had to make weren't hard in the truest [01:03:55] sense of the words. Like they were really about making sure that we were ready to go through a certain [01:04:00] decision. Like with every round, we've made sure that we are on the same page with our investors about what the [01:04:05] priorities are for the next year, that like if we are raising money, when we raised our Series A, we [01:04:10] actually had an explicit conversation saying that revenue was not our number one priority for the coming year.
+
+
+[01:04:14] Um, [01:04:15] the only thing that mattered to us was that the product was the best possible product on the market. Um, and those [01:04:20] sorts of hard conversations really mattered. Um, but besides that, I think. It's more so fun [01:04:25] stories and hard stories. Like we had a really intense negotiation in real time at dinner. [01:04:30] Um, that was like three hours of us negotiating the series a term sheets.
+
+
+[01:04:34] Um, [01:04:35] that was intense, but it worked out. Um, and I, I'm grateful that it did. 
+
+
+[01:04:39] Speaker: [01:04:40] Thanks. And before we dive into the inside and vision part, yeah. I wanna add one more [01:04:45] question about your relationship between you and customers. Mm-hmm. Like, was there any [01:04:50] moment, like the ambassador during the BroadB musical, were you [01:04:55] at that moment?
+
+
+[01:04:56] Like example, like you were in the middle of blah, blah, [01:05:00] blah, blah, the customer content? 
+
+
+[01:05:02] Speaker 2: Oh, yeah. Um, [01:05:05] all the time. Um, so a lot of our larger customers have the ability to page [01:05:10] us at any time of the day. Um, so I will actually wake up at two 3:00 AM [01:05:15] because, you know, a team in India, um, for a multinational company needed help with [01:05:20] reductive.
+
+
+[01:05:20] Um, same thing with Ron. Same thing with many of the folks on the team. Um. I've been at a [01:05:25] wedding, um, and stepped outta the wedding, um, because something came up. Um, [01:05:30] I think I mentioned the story of like the AWS adage on Ron's birthday. Like I'm sure he [01:05:35] would've rather been celebrating that birthday, but because it was this thing that like people were relying on us for, he just [01:05:40] immediately jumped out, um, to focus on that.
+
+
+[01:05:43] Um, I think that that's important. [01:05:45] Like you, there's something to be said about, you know, there never being, [01:05:50] uh, a moments of true peace. Like there's always something that you can be doing. Um, [01:05:55] but I also think it's a privilege to be in that situation where you are doing something important enough for people to need [01:06:00] to reach you right away.
+
+
+[01:06:01] Speaker: Thanks. And I saw your great knowledge you made on [01:06:05] article comparing all these stage palmers, the people who just starting at the gym. Yeah. [01:06:10] Could you share that knowledge again here and explain the business behind it? 
+
+
+[01:06:14] Speaker 2: [01:06:15] Yeah. So this actually applies to more than just, you know, gym goers. It applies to [01:06:20] anything, um, where.
+
+
+[01:06:22] Every time you talk to somebody that is good at what [01:06:25] they do, most of the time when you ask them, you know, how do I get started? How do I make [01:06:30] progress here? It boils down to really simple, fundamental things. Um, in the [01:06:35] case of the gym, it's not about having some, you know, perfectly optimal training [01:06:40] plan.
+
+
+[01:06:40] Usually the thing that you're missing is that you know, you're not eating nutritious food. [01:06:45] Um, like you need more protein, you need to be consistent about going to the gym, you need to sleep. And those are the three things [01:06:50] that matter. Um, but when you look at somebody that's getting into fitness, the way that they approach it [01:06:55] usually is, you know, watching tons of YouTube videos.
+
+
+[01:06:57] They like try to find the perfect program they're trying to [01:07:00] optimize, you know, the number of reps that they're doing. Um, and they just go into the deep rabbit hole. [01:07:05] Same thing applies with anything else, right? Like I used to wrestle in high school. Um, and if you look at some of the [01:07:10] best Olympic wrestlers, they're actually not using super advanced techniques.[01:07:15] 
+
+
+[01:07:15] They're really good at fundamental techniques that you learn on day one. They've just done it so [01:07:20] many times that they can execute incredibly well. And I think that applies to founders [01:07:25] especially. Um, I've seen this happen in many cases where YC [01:07:30] used to do a lot of speaker sessions with very successful founders, like founders of Airbnb and [01:07:35] Pinterest and folks like that.
+
+
+[01:07:36] And when the founders give their advice, [01:07:40] it almost sounds redundant. Um, like the founders will be on stage and they'll [01:07:45] talk about how the most important thing that they did was, you know, spend a lot of time with their customers. [01:07:50] Um, I remember Ben at Pinterest gave a talk and he was talking about how like he would literally [01:07:55] go to cafes and show people Pinterest on his phone.
+
+
+[01:07:57] Um, not like a glamorous, fancy [01:08:00] marketing stunts. He was literally just going out there and getting reps again and again and again. And that compounded into [01:08:05] Pinterest being, you know, a great company today. But the early stage [01:08:10] founders in the audience, myself included. We're kind of looking for like a cheat code, like a secret weapon, [01:08:15] like a way to immediately go to a million users.
+
+
+[01:08:19] Like we're looking for [01:08:20] something that's like a sudden switch flip that will change the game. And I don't [01:08:25] think that great companies are built on that. Um, like time and time again, the Airbnbs of the [01:08:30] world come down to them, like literally opening up their own home for somebody to sleep there. [01:08:35] Um, they come down to like people doing everything outside of just the core product to make [01:08:40] sure people are happy.
+
+
+[01:08:41] Um, like those are the things that matter, like focusing on your product, focusing on your [01:08:45] customers. That is what things boil down to. Not making the perfect websites and landing page [01:08:50] knots, crafting the perfect social media posts. Those things will eventually matter and be details that you focus [01:08:55] on, but they're not the heart of the company in the early days.
+
+
+[01:08:58] Speaker: Thanks. I like [01:09:00] it. And yeah, I think many founders and people who heard tons of [01:09:05] those advice as well, but you know, in reality it's hard to get point. [01:09:10] Yeah. For you. What was the one thing to keep doing that hard [01:09:15] tedious job? How did you keep going there? 
+
+
+[01:09:18] Speaker 2: Yeah, [01:09:20] so for me, a lot of how I think about my work and the [01:09:25] company's work is not in terms of the inputs it is in terms of what it [01:09:30] means for the end outcomes.
+
+
+[01:09:31] Um, and what I mean by that is we did [01:09:35] a ton of manual unsexy work in the early days. Um, [01:09:40] like we tried hiring an initial data labeling team and they weren't accurate enough. So I would spend a lot of my time just [01:09:45] labeling boxes on documents, um, like hand labeling them. Um, [01:09:50] we had millions in revenue back when we were still like fully un [01:09:55] automated for Stripe billing and setup.
+
+
+[01:09:56] Like I would manually set up every single subscription for our [01:10:00] first like a hundred ish customers. And those things, even though they were repetitive, [01:10:05] even though they were maybe boring in terms of the work that you're doing, were [01:10:10] okay because. The thing that I cared about is not like, am I doing the most glamorous work?[01:10:15] 
+
+
+[01:10:15] It was more so like, is the company moving forward and the company moves forward? Every single time [01:10:20] you're manually setting up a Stripe subscription, you're lucky to be able to do that because that means you're signing up a [01:10:25] new customer. Like it is a privilege that you get to do that. Um, every single time, like a [01:10:30] customer brings up a support case and they're like, Hey, this doesn't work.
+
+
+[01:10:34] You are [01:10:35] lucky to be able to fix it for them because they're giving you a chance to improve and to fix what they're seeing. [01:10:40] Um, so that's really what it is. Like I, I think seeing the end outcomes of your work, seeing that [01:10:45] people are happy with the product, seeing that, you know, more and more people are using it, that is what kept us [01:10:50] going.
+
+
+[01:10:50] Um, we've had this, uh, tracker at the office where we, every 30 minutes [01:10:55] refresh the number of pages we've processed for that week. Um, and in the beginning it would be, you know, a million [01:11:00] pages for the week. Um, today we process more pages in a day than we used to process [01:11:05] in a month. Um. And so seeing that grow over time is really satisfying, and it just makes [01:11:10] it easy to do the work that it takes to get there.
+
+
+[01:11:12] Speaker: Thanks. And [01:11:15] to back, to go back to a little back, 
+
+
+[01:11:17] Speaker 2: yeah. About 
+
+
+[01:11:18] Speaker: Gmail knowledge. Do you 
+
+
+[01:11:19] Speaker 2: like g? [01:11:20] Um, I probably should not be the one using this analogy because I'm [01:11:25] really fickle about, uh, fitness and health. Um, I [01:11:30] like it as an analogy because one, the same way that I made the same mistakes that early [01:11:35] stage founders do, I think I'm very much in that same camp of, you know, when I wanted to get better about [01:11:40] fitness, I just immediately started looking for the perfect optimal plan.
+
+
+[01:11:43] That's part of why the analogy came in. [01:11:45] Um, but also I think the, honestly, the human body is [01:11:50] a very interesting representative example. Um, like, I [01:11:55] think the, the way in which this works behind the scenes boils down [01:12:00] to a lot of different things as well. Um. And that the specific things that [01:12:05] I'm saying are, you know, being consistent about going to the gym, eating protein, and sleep.
+
+
+[01:12:09] Um, but [01:12:10] those fundamentals to me are the same as, you know, put time into making [01:12:15] the product great, listen to what customers are saying and get it in the hands of more people. Um, like to me, [01:12:20] the only three things that matter as a company is are you building something great? Are you [01:12:25] getting that in the hands of people and are you hiring more great people to continue making that even better?[01:12:30] 
+
+
+[01:12:30] Um, it's like product sales and recruiting. Um, and that [01:12:35] corollary applies to pretty much anything in life. 
+
+
+[01:12:38] Speaker: Awesome. And could you tell us about [01:12:40] Redact Ultimate Vision? What do you want to build 
+
+
+[01:12:42] Speaker 2: in the future? Yeah, so [01:12:45] it's very clear to us that we are not far from the points where language models are going to [01:12:50] reason on pretty much any points of human data.
+
+
+[01:12:52] Like when you walk in and talk to [01:12:55] your doctor, there's probably going to be some summary of your past medical records, um, when you apply for your [01:13:00] first mortgage. There's going to be some loop that looks at your financial statements and supplementary docs [01:13:05] and makes the judgements of your credit worthiness.
+
+
+[01:13:07] Like these are real human decisions with [01:13:10] real human impact. And if you're going to try to automate them, you need human level [01:13:15] precision for every point of interaction with this unstructured data. Because most of the world's important data [01:13:20] isn't something like A PDF or spreadsheets, like, that's just how humans work today.
+
+
+[01:13:23] And so what I see [01:13:25] reductive as it's not really just parsing, it's what does it mean to have this layer [01:13:30] that connects human data to this new level of intelligence that [01:13:35] applies across all of that data. Um, that means parsing, that means structured extraction, but it also means [01:13:40] things like the document editing.
+
+
+[01:13:41] Um, we're seeing products built with reductive today that [01:13:45] don't just read the documents. They actually create net new documents for their end customers, like they do end-to-end [01:13:50] work with a agentic, um, workflows. And so we once to almost see it [01:13:55] as in the future, most AI products will be some components of intelligence.[01:14:00] 
+
+
+[01:14:00] Um, that is what the foundation model companies provide, but it'll be some components of context as well. [01:14:05] And we want reductives to be the best way that you interact with that context. Like a building block that you [01:14:10] aggregate together and apply it to a specific use case. 
+
+
+[01:14:13] Speaker: Thanks. And what is the most [01:14:15] important piece of advice you would give to all these state found with just starting or [01:14:20] you past you?
+
+
+[01:14:23] Speaker 2: Yeah. Um, [01:14:25] so it's hard for me to give generic advice just 'cause you know, every founder is different but's. The number [01:14:30] one thing for me, um, is one, I think the most important decision. I talked a lot [01:14:35] about investors being an important decision. Um, but the most important decision you'll make is who you co-found [01:14:40] your company with.
+
+
+[01:14:40] Um, and I've been incredibly lucky to have Veronica as a co-founder, not just in terms of [01:14:45] him being incredibly intelligent. Um, like I, I think even if I could [01:14:50] have his brain and like merge it with mine such that I have the exact same skillsets, I still don't think [01:14:55] I could build reductive without him. Um, and part of that is like.
+
+
+[01:14:58] He's a thought partner that I [01:15:00] can bounce ideas off of that's I can trust, um, to cover things like all of [01:15:05] that really, really matters because building a company is hard and the person that you build it with [01:15:10] is going to be the person that helps you stick it through the low points. Um, the person that helps you grow to the high [01:15:15] points.
+
+
+[01:15:15] Um, and you wanna make sure that that's the right person for you. The [01:15:20] second thing, kind of following off of that, um, is as an early stage [01:15:25] founder, there are a million things that you can do, but I think almost every founder [01:15:30] knows that there are things that they need to fix. Um, and I find that often [01:15:35] those are the daunting things.
+
+
+[01:15:36] Like the worst problems are the ones that you almost want to ignore [01:15:40] because they're the hard problems. They're the painful problems. Like maybe you have customers that are [01:15:45] unhappy and talking to an unhappy customer is always going to feel worse than talking to a customer that's telling you that [01:15:50] your product is great, but your company becomes better from helping the unhappy customers, not just [01:15:55] from talking to the happy ones.
+
+
+[01:15:56] And so. If I were going back, um, or if I were [01:16:00] advising a founder like me, the biggest thing that I would say is like, be really thoughtful. As you [01:16:05] think about of the 60, 70, 80 hours, whatever you work in a week, are you really working on the [01:16:10] things that are going to help the company push past the issues today?
+
+
+[01:16:14] [01:16:15] Or are you doing kind of like busy work or things that make you feel productive [01:16:20] for the sake of it, but aren't the underlying issues why the company might fail? [01:16:25] 
+
+
+[01:16:25] Speaker: Nice. And before editing, could you introduce yourself and Reduc again? 
+
+
+[01:16:29] Speaker 2: Yeah. [01:16:30] Hi, my name is Adi Abraham. I'm the co-founder and CEO of Reductive.
+
+
+[01:16:34] Uh, reductive is a [01:16:35] platform that helps AI teams parse, extract, and edit any sort of complex unstructured [01:16:40] data for all sorts of language model use cases. 
+
+
+[01:16:42] Speaker: Could you repeat again the metrics? [01:16:45] 
+
+
+[01:16:45] Speaker 2: Yeah. So Reductive has grown incredibly quickly and just the last two [01:16:50] years we've actually processed over a billion pages for our customers.
+
+
+[01:16:53] And to put that into context. [01:16:55] If you stacked all the pages that Reductives processed, it would actually be something like 10 [01:17:00] times the heights of Mount Zest. Uh, and that's continued to grow really, really quickly. And just [01:17:05] the last few months, we've seven Xed the monthly processing volume that we do. And we do this for a [01:17:10] lot of the best companies in the world.
+
+
+[01:17:11] Um, the largest hedge funds, the largest financial institutions, [01:17:15] trillion dollar tech companies, and also the newer AI companies leading the wave companies like [01:17:20] Harvey and Leggo and Rogo and Meco. And as a function of that, because we've had a [01:17:25] chance to work with these great companies and partner with them on building their products, we've also had a chance to work with some of the [01:17:30] best investors in this space.
+
+
+[01:17:31] So we've recently announced our series B. We raised 108 million in total [01:17:35] funding from incredible investors like Andreessen Horowitz, benchmark and First Round. Thanks. [01:17:40] And do you have any other questions? Um, I have one 
+
+
+[01:17:43] Speaker 4: question. How did you manage [01:17:45] your series B so soon after, like 
+
+
+[01:17:48] Speaker 3: your series A? 
+
+
+[01:17:49] Speaker 2: Yeah, [01:17:50] so.
+
+
+[01:17:51] Our series B was a very short but very intense [01:17:55] process. Um, I had known quite a few investors from just the [01:18:00] course of building the company and as we were thinking about whether or not we even wanted to raise a series B, [01:18:05] we made a short list of investors that we would want to talk to. And I had meetings later in the month, [01:18:10] but it was clear that there was a lot of excitements with two firms in particular.
+
+
+[01:18:14] And [01:18:15] the way that it actually played out is on Sunday morning, I called both of them and I [01:18:20] said, Hey, we've made a decision like we're going to move forward. And it seems like there's interest. Um, [01:18:25] so if you're still interested, no pressure, but I think this is going to happen. And it was [01:18:30] probably mean of me to do this on a Sunday.
+
+
+[01:18:31] It just kind of happened in the moments because people were moving their meetings up, [01:18:35] but both of the investors acted immediately. Um, they gave us a clear [01:18:40] list of what they would once in a data room because this wasn't a process that we were planning to formally run. [01:18:45] We frantically put together a data room, like we started exporting our stripe data, just like dumping every piece of [01:18:50] information, all of our financial metrics, everything.
+
+
+[01:18:52] Um, sent them a zip folder and [01:18:55] over the course of the next 48 hours, we just had this intense back and forth where [01:19:00] they were actively doing due diligence. They'd already done a ton of work. They'd met our customers all at that, like they knew that the [01:19:05] product was good, but they were looking at everything in our Stripe data.
+
+
+[01:19:08] You know, they were modeling out the [01:19:10] company. Um, and I would call them like every 45 minutes or an hour, like we would [01:19:15] text back and forth repeatedly. I would call our existing investors, you know, every few hours to [01:19:20] tell them what was going on. And on Monday we did two partner meetings. Um, so in [01:19:25] one case, in the Andreessen case, we actually presented to about 40 different partners.
+
+
+[01:19:29] Um, [01:19:30] and in the other firm's case we presented to their entire partner team. Um, [01:19:35] and we went through and just, um, had a really intense day of, you know, follow [01:19:40] ups from there. Um, we're fortunate to receive two term sheets, negotiated those, and by [01:19:45] Tuesday had wrapped up the entire fundraising process. 
+
+
+[01:19:47] Speaker: Yeah.
+
+
+[01:19:49] For the last one, [01:19:50] could you introduce yourself with your name and age? 
+
+
+[01:19:53] Speaker 2: Oh, sure. Um, do you still [01:19:55] want me to say like title and stuff? Yeah. Okay. Hi, I'm Aade Abraham. I'm the [01:20:00] co-founder and CEO of Reduc, and I'm 26 years old. 
+
+
+[01:20:04] Speaker 4: This is [01:20:05] my, actually my personal question. Yeah. I think like today, founders are very obsessed [01:20:10] with marketing, you know, like fundraising we made and also like, they're very [01:20:15] focused on marketing.
+
+
+[01:20:15] And how do you think like founders should focus on like building [01:20:20] products and marketing thing and how do, how can founders balance between [01:20:25] those two things? 
+
+
+[01:20:27] Speaker 2: Yeah, so I actually think [01:20:30] that marketing is something that's, obviously you can do a [01:20:35] really, really fancy launch video and you can spend hundreds of thousands doing like a fancy skits and all [01:20:40] that.
+
+
+[01:20:40] But the real goal that you're trying to get to, like, at the end of the day, the only thing that matters [01:20:45] is does the product resonate with the people that you're trying to showcase that to? [01:20:50] Um, like you're trying to solve a problem for somebody and you want to capture [01:20:55] how you're going to help them do that.
+
+
+[01:20:57] And so like the video that we were fortunate to [01:21:00] shoot with you all, um, was really just us sitting and talking about what the product was like. It wasn't a clever [01:21:05] skit and maybe, you know, the Twitter algorithm would've appreciated, uh, a [01:21:10] clever sketch. But, um, I think less in terms of attention on that front and more in [01:21:15] terms of what are people going to actually wants to understand.
+
+
+[01:21:18] Uh, and a lot of our best [01:21:20] posts haven't been carefully crafted marketing agency posts. They've just [01:21:25] been like loom recordings. Like we sit in front of a laptop, we show the product and talk over what it [01:21:30] does. Um, they've been really simple examples of us showing a really hard documents, like when the JFK [01:21:35] articles were released.
+
+
+[01:21:36] Um, we went through and showed how reductive pars them because they're really, really [01:21:40] hard documents. Um, so real things that show what the product does and communicate why it [01:21:45] matters, at least to me, um, are the most important. And those sorts of [01:21:50] marketing efforts actually go really well hand in hand with building the product too, because what we are [01:21:55] building is what we are showing, um, and there's nothing to show if we don't build something.
+
+
+[01:21:59] Great. Cool. [01:22:00] Yeah, I think Awesome. Very set. Thanks for taking the time. [01:22:05] Thank you so much. How do you think that went? Oh, oh, [01:22:10] lemme know. Cool. Any feedback from me? 
+
+
+[01:22:14] Speaker 4: Um, [01:22:15] I, I think there are so many like ful things for the like, uh, early stage [01:22:20] founders. Cool. Yeah. 
+
+
+[01:22:22] Speaker: I appreciate it. You speak so well. Thank [01:22:25] you. Can, can you take a cell real quick?
+
+
+[01:22:27] Yeah, of course. By all means. Um, how do you wanna do this [01:22:30] Just fine. Under, yeah. Light[01:22:35] [01:22:40] 
+
+
+[01:22:40] Speaker 3: so much. Yeah. Thank you both. Yeah, I like your 
+
+
+[01:22:43] Speaker: story. I [01:22:45] appreciate it too. You, 
+
+
+[01:22:47] Speaker 2: thank you. Um, are you guys based in the city? 
+
+
+[01:22:49] Speaker 4: [01:22:50] Yeah. You are based in you P 39, so actually really close to this place. [01:22:55] Oh.

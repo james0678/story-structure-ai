@@ -1,0 +1,1277 @@
+﻿00:00 | yeah so I watch a lot of like podcasts and just like videos about founders since I was like fourteen
+00:05 | Uh and I stumbled upon EO when I was like sixteen
+00:08 | And you ha-- you guys like have really really good videos and you bring a like a lot of good speakers
+00:14 | Uh so yeah really enjoyed it
+00:21 | Oh you're pretty big guys
+00:23 | Yeah you're always on my YouTube uh for you page so
+00:54 | So this tweet is not about me because he's meeting the current batch but he actually tweeted about me two times before
+01:00 | Yeah
+01:13 | Yeah yeah yeah
+01:14 | Uh so his tweet was uh was back in July uh 'cause during my YC batch I copied uh Patrick Collison uh because during the earliest days of Stripe uh during actual YC they would go to like their customers and sit in the office by their side and installing Stripe on their laptops
+01:30 | So that's what I did during the batch
+01:32 | and PG just like after he invested he tweeted about me saying like "There is a founder in the summer batch who uh onboarded like ten percent of like the entire summer batch and just like going to other houses." So it was like ten percent in July but right now it's like twenty-five or thirty at this point
+01:53 | Oh in summer batch
+02:04 | Yeah yeah
+02:26 | Yeah
+02:26 | Yeah so okay when I was ten um that's like the first time when he told me about YC
+02:30 | Uh we were just like walking uh along some random river back home in Kazakhstan
+02:36 | and he yeah he mentioned YC
+02:38 | I didn't I didn't understand a thing because like-
+02:41 | I'm ten years old come on
+02:42 | But he said there's like a university for startups
+02:44 | So I remembered that and couple years went by
+02:48 | So around fifteen years old uh I really really wanted to get into YC because I really like got into startups just like by building different side projects
+02:56 | and when I was like around fifteen my dad applied for the first time with his own startup uh but he didn't get in
+03:02 | So when he s-- when he told me that like he actually got rejected a couple months ago that kind of like motivated me even more uh to get in YC like before university
+03:12 | But I actually thought I will go to university and like will only do YC once I finish everything
+03:17 | but during my eleventh grade so junior year I still had like one point five years before graduation
+03:23 | I was so frustrated with school exams that I just like started applying to every single accelerator in the world
+03:29 | And I felt like getting into YC might be easier uh than like passing an exam because I really hated school exams
+03:35 | So yeah and like I finally got in uh in May this year
+03:51 | Yeah so he had us-- Yeah when he was back in uh first time in America he studied at MIT like for a couple years and then he decided to do a startup but it ultimately failed because of the like wrong revenue model I think or just like the market for the time in general
+04:07 | and yeah he had like companies before because he comes from a very traditional uh business background like construction engineering specifically
+04:15 | So he wanted to try like something new completely
+04:17 | So yeah it failed
+04:18 | Uh he didn't get into YC but recently he launched another startup which is actually construction engineering
+04:24 | Uh they're basically trying to automate design processes for construction engineers
+04:28 | And this time he raised like around a million dollars and actually got into another accelerator not YC uh but it's better for them because it's like primarily optimized for B2B founders and they had like way better deal compared to YC
+04:42 | So like one million with way way way higher valuation
+04:46 | I I would say like above twenty
+04:47 | So yeah and they're also coming to
+04:50 | I-- So when I was a kid I just thought I'm gonna manage a business like a very traditional mi- business like just hire a bunch of coders and they will do stuff for me
+04:57 | Uh that's like how I was taught
+04:59 | But then my dad told me there's like a university for founders in Silicon Valley where like you go alone or with your co-founder to like build your dream or whatever
+05:07 | Um and after that like when when I was around fourteen fifteen I watched Social Network uh which is a really really great great movie
+05:16 | And I I read a lot of biographies
+05:18 | not just like technological figures like Elon Musk Steve Jobs but also a lot of scientists like Thomas Edison or Albert Einstein or like even even uh historical figures like Julius Caesar
+05:28 | And they all really inspired me
+05:30 | And I ki-- and I I kind of like found a lot of correlations with like building a startup and a company
+05:35 | So I wanted to become the same
+05:37 | and when I actually turned fifteen uh I took my first coding class in my high school back in Kazakhstan
+05:44 | I finished it in couple months while it was for like one year so I compressed it like really really hard
+05:49 | So I had like a lot of time to build uh side projects
+05:52 | And that's like the time when I launched my first uh mini startup which was like an AI ed tech uh scholarship database for high school students to apply to US summer programs
+06:03 | So I did those
+06:03 | I got like bunch of traction like made ten thousand dollars or something twenty thousand users
+06:09 | Uh went to US couple times to like participate in high school programs for high school students so I can like level up my resume for university
+06:16 | Because like still I didn't think I would do the startup for my entire life and it would just look good on the university application
+06:23 | So that's like the reason I I I built it first
+06:26 | And kind of like time passed by and December of 2024 I really thought like I actually wanna become a CEO but I I don't know I don't know when
+06:35 | So maybe in like a couple years once I finish Stanford or whatever if like if I even get in uh because the exams were coming up and I I was pretty sure I'm gonna fail
+06:43 | So I just like decided to code all day uh dur-- like from December to February
+06:49 | I got kicked out from like my classes math classes uh took a lot of sales calls in my principal's office and was iterating a lot on my first idea like actual idea which was uh an AI agent that understands any code base in natural language
+07:03 | So I did that
+07:04 | Yeah I actually I actually don't hate my school
+07:06 | My principal's great
+07:07 | She allowed me to just like take calls randomly at her office uh anytime
+07:10 | And that's also when I raised my first uh-- I I got my first check uh from like a very very good VC
+07:16 | They're like the best in entire Europe
+07:18 | and like once-- when I asked the partner like "Why did you invest in a seventeen-year-old?" Um she just said like "You're in principal's office
+07:25 | Like come on bro
+07:26 | Uh we already knew that you're special." So uh that was really funny
+07:30 | Uh yeah
+07:40 | So most most of the te-- mo- most of the teachers were really positive because I had a really good reputation at school and they knew I'm gonna combine both
+07:48 | 'Cause like I-- for my entire life I had four GPA perfect student uh whatever
+07:52 | Uh except my my math teacherUh he was kind of strict and like told me "You better focus on your geometry classes instead of like coding coding entire day." And like I just told him like "Bro just like fucking relax
+08:04 | I'm still getting A's in your class so like why are you so mad?" Um and yeah I guess I just like wanted to prove him wrong a little bit
+08:25 | Yeah yeah that's the EdTech thingy
+08:26 | Yeah
+08:39 | Yeah so the main reason is because I did everything until like the point of December just for my university application
+08:45 | Like writing a small book about venture capital launching like a startup which I still call a startup because I thought that back then that's like an actual company but it wasn't I guess 'cause I was working on it alone uh just like coding all day and just like messaging people on Discord Reddit to try out my product
+09:02 | So it was mostly to like impress university admission officers with my traction
+09:07 | And I felt like okay I got twenty thousand users I made some money
+09:11 | Uh that's pretty good for Stanford I guess so I'm gonna just like put it in my resume
+09:15 | Um and yeah that's like why I stopped because I didn't see myself like going ten years down the line
+09:25 | Yeah yeah
+09:26 | And like a lot of people a lot of students that's why not a lot of students can actually handle doing an actual startup and building a company because it all ties down that like I'm still at school I need to go into university so this thing might help my application or resume or whatever
+09:40 | So like once you stop thinking that way and you go full in you're gonna sacrifice your grade and school but it might work out in the end
+09:47 | So
+10:02 | Oh my god
+10:13 | Yeah so it was summer uh when I was sixteen
+10:15 | I-- That's like when ChatGPT was really really taking off and I decided to just like automate entire email writing
+10:22 | So I wrote like nine hundred thousand emails uh personalized emails sent it out to like all professors I could find in like Stanford database Harvard database who were like working in applied AI like computer science wha- like whatever field
+10:37 | I just needed something again for my like application and also to get a really good experience because I always wondered like how does it feel to work with someone from such a prestigious prestigious institution
+10:47 | Because just like a kid from Kazakhstan can only dream about it
+10:50 | So I got I got a lo- a lot of rejections
+10:54 | and the two yeses I got were from the Stanford professor Ilya who actually allowed me to work for him for free
+10:59 | So I did a lot of like data data processing manual data collection for him
+11:04 | and the second guy that I didn't talk about is a professor from either Georgia Tech or Caltech
+11:10 | He didn't give me a research opportunity but he said I can peer review his book that he's about to publish
+11:16 | And this book was about finding ma- malicious patterns in source code like code bases
+11:21 | So I thought that's pretty cool
+11:23 | I was reviewing his book for like thirty minutes every single day also using a bunch of LLMs to like find grammar errors mistakes and just like structure like other errors and spent some time on that
+11:35 | So it wasn't really like something I would really be proud of
+11:39 | I just like wanted to help a guy
+11:40 | Uh and yeah he ended up publishing it so it's really
+12:06 | Honestly my emails were horrible because uh looking looking right like looking retrospect those emails that I wrote using ChatGPT they're cringe because like now we can easily identify what is like written using AI because of like em dashes or like the word structure that AI uses
+12:22 | But like back in twenty twenty-three uh no one really knew and like adopted AI properly so I could like easily write long emails and uh people would read them
+12:31 | So there were no a lot of differences but I just like Ilya because uh he is uh Russia-born so he knew how to speak Russian
+12:40 | I actually like-- and also had some experience in his field because he's the head of venture capital at Stanford and I had like a mini book uh published about venture capital just like a side project
+12:51 | So he said that like he really liked my resume as a sixteen-year-old so that's like why he took
+13:14 | Oh yeah definitely
+13:15 | Yeah yeah yeahYeah I-- yeah yeah
+13:42 | So for Ilya the email was actually horrible I I still think
+13:46 | But there were a couple other examples like yeah with customers I guess or like very big tech CEOs
+13:52 | Uh when I was raising my seed round I really wanted to bring Mercor CEO on the board and I cold emailed him
+13:58 | He replied but he wasn't investing back at the time because they just raised them like their round so he was focused on business
+14:04 | But like the email worked he read it so that could work 'cause I actually really like the email I wrote
+14:10 | And another one I would say was to Paul Graham
+14:12 | Yeah I can also show that I think
+14:14 | Yeah I have all of them saved and a lot of pe-- uh like I reached out to a lot of people on LinkedIn
+14:18 | Like it's actually crazy how many people I DM'd like when Yeah actually no a really good example
+14:24 | That's my first angel check uh back in February when I was still in high school
+14:28 | I was cold DMing like 50 100 YC founders uh to just like give me feedback about my product
+14:33 | So a lot of people replied and one guy he was like he became my technically my first angel and introduced me to uh three different funds in Europe that actually ended up leading my pre-seed round
+14:44 | So it-- I think it was a really good message
+14:47 | Like he really wanted to have a call with me and later on he told me that uh when I messaged him on LinkedIn he said "I kind of like see you in myself as a child so I really like you as a founder and if you don't mind I would love to put a check." Um so yeah I can show
+15:16 | I would say you have to approach both the same way as you would like message a friend
+15:21 | That's like what makes the best cold email
+15:23 | 'Cause whenever-- if-- I get even even like myself I'm like still 18 I just like finished YC so I'm really really young but I still get a lot of cold emails
+15:31 | And uh whenever I see like inquiry or opportunity or exclusive that like already throws me off
+15:38 | So you really gotta be like emailing your friend sort of
+15:41 | Like put a one-word subject and like straight to the point "Hey uh hey Arlen," blah like one sentence background context and then like your ask or something
+15:50 | So that's like what great uh what what makes a great message or email
+16:25 | Yeah yeah sure
+16:26 | Yeah I even found the conversation on LinkedIn was my first angel
+16:30 | Like I just said "Hey James my name is Arlen high school student building an agentic AI space
+16:36 | Can I can I have you for a couple questions?" so yeah like he checked my LinkedIn he saw my bio that I'm 17 high school kid
+16:44 | Then I asked him a couple questions
+16:45 | I literally gave him like cr-- my credentials so he can try out the product from like my account
+16:50 | He tried it and then he asked for a call
+16:52 | So that's like yeah that that's pretty much it
+17:20 | So yeah on the customer side I still have a lot a lot to learn but meeting customers in person it like creates a really good brand awareness so I can speak on that side
+17:28 | Uh my first that was really really uh that I really remember it was in London for like my previous idea of like agent for code bases before like the actual Neo what I'm doing right now
+17:39 | Uh he just like emailed me or messaged me on LinkedIn because I went pretty viral before that so I really ha-- I already had like 6K or 7K followers
+17:49 | So he said like "Hey you wanna meet up
+17:50 | I wanna try your tool." And I said "You wanna meet in person
+17:53 | Let's drink some matcha." Um so we went to a like a Japanese café uh both laptops like pulled out
+17:59 | We were drinking coffee and matcha and I was like I was telling him about the product and he got the subscription on the spot so it was like really motivating me 'cause I made like $15 which was still huge for me
+18:09 | so yeah that was like my first experience that I that I'm probably never gonna forget
+18:13 | Yeah
+18:38 | Actually I did zero outbound
+18:42 | all of it came through people messaging me either on Twitter or LinkedIn
+18:46 | Yeah I actually sent like zero cold emails to actual customers
+18:50 | Uh I either like just people DM me on Twitter 'cause I have a like pretty good audience on Twitter uh or in uh investor introductions
+18:58 | I can just like ask my investor "Hey can you like make a warm intro to this guy or like this person?" uh I honestly enjoy writing so much and just like getting myself out there
+19:19 | Uh my like my first investors who is also from Kazakhstan he like calls me that like marketing is my greatest side and I should like really double down on that
+19:27 | But yeah I get-- Like since I was child I wrote blogs
+19:31 | I had my own Instagram page where I had like my own media blog
+19:34 | I was always trying to engage in like some social activity
+19:37 | And I just like whenever I'm stressed I always write
+19:40 | Like recently um I have a personal website where I just like started writing my random essays uh actually inspired by Alexander Wang uh founder of Scale AI
+19:50 | Like e-every year he writes like what I learned in twenty twenty-four what I learned in twenty twenty-five
+19:55 | So I do those uh and you can like easily read them
+19:58 | They have a lot of also context and background about
+20:21 | didn't realize that I was do-- I was doing Collison installations before YC
+20:26 | Like I would have a lot of online meetings but I I would only do like occasionally yeah
+20:30 | But when I came to YC I w-- like I became obsessed with Patrick Collison so I watched every single interview you can find online
+20:36 | And like on-- during the one of the interviews him or his colleague mentioned Collison installation and I was like "Damn that's that's really cool
+20:43 | I wanna try it." Uh so and I started out with my batch and just like yeah went to other offices
+20:50 | So yeah like Patrick was the primary inspiration
+20:56 | Uh no I didn't
+20:57 | Yeah yeah
+20:57 | I just like watched a lot of interviews
+20:58 | I I wish I could meet meet him in person yeah
+21:01 | He's the hero of mine yeah
+21:02 | Trial and error and I'm also kind of like I was really slow with learning how to do it properly so I'm still learning
+21:07 | But the general framework you just like come to a founder's or like customer's house
+21:13 | You just like sit with them side by side have a normal conversation and you just like start asking questions about their current workflows uh like regarding a specific problem you're trying to solve
+21:23 | And then if they have this problem your demo can like start to elaborate "Hey like I was building this thing that can help you with X Y Z." Um and if they resonate they like ask "Okay can you install it on my laptop?" So just take their laptop and uh code bunch of stuff install my server on their laptop with my API and uh just like watch them how they use it and iterate through that feedback
+21:46 | 'Cause like I can literally ask any question right on the
+22:07 | specific one
+22:08 | Yeah yeah yeah
+22:09 | That was like my one of my first installations where I made like one fifty dollars
+22:14 | I was still like really low pricing so I almost didn't charge people
+22:17 | But it was a YC startup from my batch uh called Reacher
+22:21 | I love those guys
+22:21 | They're amazing
+22:22 | and they hosted me at their office and they were like they were so fucking impressed that I came to their office that like we became really really good friends
+22:29 | And they just said "Just like because you came to the office and like spent so much time and your product is also great like yeah let's give it a go." Oh yeah definitely a lot
+22:46 | There there are a lot of like Uh on that side I'm actually like a little bit not nervous but like still not experienced to actually like charge more and just like be more aggressive in that regard
+22:56 | So sometimes I would just like install people and waiting for them to just like tell me "I would love to buy this." So I never like offered "Hey like maybe you should consider buying this." Um and I would like just leave the house or an office uh with nothing
+23:11 | But still like I still enjoyed it but I could definitely do better
+23:26 | Yeah
+23:28 | Uh I just have to do better
+23:29 | Yeah that's that's the only take I have
+23:31 | I have to like be more aggressive and do better and just like yeah build a better
+23:36 | yeah so uh PG usually selects founders that he likes but with me I guess it was kind of different
+23:43 | So he comes to talk for every single batch at YC in Mountain View
+23:47 | So like four hundred people take Uber and just like go to the old YC office
+23:52 | So during his talk he has like mini office hours with every single founder who just like comes up and stands in a circle
+23:58 | and when I had my mini office hour with him he roasted my company and me like in a good way of course but it was uh yeah it was really demoralizing for me but really motivating at the same time
+24:09 | So like he said he doesn't understand the shit what I'm doing or like what I'm building
+24:13 | I should like improve my pitch or I'm cooked during my fundraising week and I'm not gonna raise uh a penny
+24:19 | SoUh I said to myself like "Okay I got roasted in front of hundred people
+24:24 | I I really gotta work on myself." Uh so I was really sad for the rest of the evening
+24:29 | But then at like around ten PM I stayed until the end until PG actually goes to his car and leaves
+24:36 | So once he was leaving uh all of the people from the batch I just like ran to his car and started yelling like "PG please just like give me a second
+24:44 | Can you can you like have an office hour with me again like for just five three minutes
+24:49 | I'm gonna improve I'm gonna improve my pitch and you're gonna be shocked." So he said "Oh like just like fuck off bro
+24:57 | Just email me." Uh he didn't say fuck off but like he said he was very annoyed
+25:00 | So he just said "Email me at uh pgycombinator.com." So the same second I emailed this guy while he was in the car and uh around like couple hours later he said "Okay like if you want to have office hour come to my place." Uh so the next day I scheduled an office hour and I came there on Tuesday August something
+25:20 | So I drove to Palo Alto by myself uh spent couple hours with him and yeah it was really great
+25:27 | Like he actu-- he is actually trying to understand like what each business does and if he sees a billion-dollar opportunity in the business or and also in the founder he's gonna invest
+25:37 | So I guess I showed that to him and also mentioned in Collison Installation because like Patrick Collison and John Collison are one of his like most favorite founders ever 'cause like he was the first investor in Stripe
+25:49 | So uh I guess like he also liked that 'cause I saw his eyes went like when I told him about Collison Installation
+25:55 | and like yeah couple hours after I left his house uh he emails me saying uh "Hey like enjoyed meeting you
+26:02 | Gonna introduce you to another founder and also I would love to invest if if you're okay with that." Uh so that's like the the whole
+26:15 | Uh I'm still eighteen
+26:34 | Yeah Like don't try to build a startup or a company just to chase clout on Twitter or any social media
+26:41 | 'cause like fundamentally thinking from first principles when you're building a startup you're not trying-- you-- like that's a good reason to make a lot of money or become popular but you're trying to solve some sort of problem that you experience every single day
+26:53 | And like there are a lot of young founders like me who are just building stuff to become like really popular on Twitter and basically play fake startup game
+27:02 | so yeah I just I just like want people to remember that like don't don't drop out from high school or do a startup just like to become a very-- and like go very viral on Twitter
+27:10 | Like underneath that you actually need a fundamental motivation of like why you're doing this thing
+27:15 | So that's like what I want people to
+27:31 | Yeah yeah yeah
+27:32 | I I actually I actually printed his tweet on the flag and the flag hangs in my office
+27:39 | Yeah
+27:42 | Yeah yeah yeah yeah
+27:43 | It's like somewhere
+27:44 | Yeah
+27:45 | Yeah but uh yeah yeah I'll find it yeah
+27:51 | I'm on the laptop yeah
+28:21 | mattress
+28:21 | Yeah it is still there
+28:22 | Yeah I'm not changing it
+28:23 | I'm gonna show it
+28:31 | Uh sure yeah yeah yeah
+28:32 | I found the I found the tweet
+28:34 | So yeah half a million views August eleventh
+28:37 | I met a founder in the current YC batch who discovered Collison Installation for himself by studying the Collison story instead of reading a-about it in my essays
+28:46 | He has already signed up about ten percent of the batch
+28:48 | So that's the the tweet
+28:49 | I'm gonna show it yeah
+28:57 | no questions yeah
+28:58 | I'm really excited for the interview 'cause I I I like I'm the biggest hater of like wasting my time on interview and podcasts 'cause like I get a lot of requests but yeah I'm really excited for this
+29:10 | Hey everyone
+29:10 | My name is Arlan
+29:11 | I'm the founder of Nozomio and we're a product lab building context super intelligence uh with our flagship product called Nia which tries to reduce code hallucinations in coding agents
+29:21 | Uh I'm based I'm based in San Francisco and yeah right now just like heads down
+29:39 | Yeah so uh basically all of the coding agents right now on the market they're already really really sophisticated in terms of like actually writing code
+29:47 | Uh but what really lacks right now is not code generation but actually understanding external context whether it's technical documentation code examples from other code bases uh because all of that is not in the training data
+29:59 | For example when some documentation changes on the web Cursor or any other agent will know-- will not know uh because of their training data uh because it's stuck in the past like twenty twenty-four or even earlier
+30:11 | So uh the first product called Nia basically allows you to reduce those code hallucinations by continuously indexing uh new repositories and new documentations so you can feed that data to your coding agent
+30:38 | Yeah so I was actually implementing like one of the most requested features since the start of my YC batch back in June
+30:45 | A lot of people asked me to basically build a global database of all of the documentations and repositories that users have indexed
+30:52 | So put all of those sources together so other people can just like click on them and automatically have them like for their own workspace
+31:00 | Because before that you would have to index all of the stuff for yourself
+31:03 | So it just like makes it really really easy
+31:06 | Uh and I actually released it today so I was just fixing up some
+31:19 | Yeah so uh how do I get customer feedback
+31:21 | It's primarily three ways
+31:23 | either like my batchmates from YC Slack me on Slack sometimes it happens
+31:27 | Uh two other ways are Discord
+31:29 | Uh I'm really really heavy on Discord
+31:31 | I try to like put all of my users all all of my customers to join the server because it like it's such a great community and it's also very very easy to interact uh catch bugs and just like report stuff to me
+31:43 | And the third way is Twitter
+31:45 | I'm really heavy on Twitter and my DMs are always open so whenever someone's reports a bug I instantly check the DM
+31:51 | Uh so yeah
+31:57 | Yeah uh so this is very very important for me and that's like one of my uh main frame-frameworks of like how I approach building is that you have to be customer obsessed and like in every single possible way
+32:22 | So one of the most important things is to actually like respond fast
+32:26 | And even if it's like a midnight or like three four AM I will always try to respond and fix the bug immediately uh because that will leave a very very good impression on the user or like o-on the customer
+32:36 | And like a lot of people actually call me an AI agent whenever I respond because like my median response response time is like one to two minutes
+32:44 | Uh whenever someone sends me an email or I actually have like a lot of internal tools built into the product that whenever someone's like faces an issue it like starts calling my phone so I can like wake up midnight and just like go fix the bug
+32:57 | So uh that's how I approach uh customer feedback
+33:00 | Yeah Yeah so right now I'm in like both selling and building mode
+33:17 | So today I was mostly in building mode
+33:19 | I woke up just like started coding right away
+33:22 | Had couple meeting
+33:23 | One of one of them was my investor
+33:25 | We just like uh had a catch up uh outside to just like talk about GTM and other strategies for me
+33:31 | And the second meeting was like other couple meetings for potential customers users asking to onboard them
+33:37 | Uh 'cause on the website you can just like click on the link and it will schedule a call with me or I can like come to their house and help them onboard my product
+33:44 | So had couple of those uh and then I came back and yeah pretty much was uh coding all
+33:49 | yeah uh like my parents my mom uh and my dad had like a really really big impact on me since childhood uh 'cause they're they're both primarily uh come from not the tech but like business background so they were always entrepreneurs
+34:03 | My dad had like twenty years of experience in construction tech
+34:06 | My mom is also CEO in like a beauty skincare area
+34:09 | So uh I always had the spirit and like DNA I guess
+34:12 | I don't know
+34:13 | But the first time I heard about YC was from my dad when I was around ten years old
+34:17 | Uh we were working-- we were walking a lo-around like a local river uh back in my hometown Almaty
+34:23 | Uh he just like told me "Hey son uh like you know you want to become a businessman and there's like a school uh but for entrepreneurs
+34:31 | So once you grow up maybe you'll go there and it's gonna be very very cool
+34:35 | It is based in Silicon Valley." And like I had no fucking clue what Silicon Valley means or like what is he talking about
+34:40 | So I just forgot about it for a couple years
+34:43 | Uh but then uh around when I turned fourteen fifteen I started reading a lot of biographies from both historical figures like Einstein Thomas Edison uh uh Churchill and like other people as well as Elon Musk Mark Zuckerberg Steve Jobs
+34:59 | So I really got obsessed
+35:01 | And what really they had in common is that they were based in Silicon Valley
+35:04 | So that's how I figured out that like the best engineers and best CEOs are there so I should probably go there one day and just like try it out
+35:12 | Uh so from there I like kind of developed a passion for coding 'cause like I realized that if you wanna be a good CEO and work in tech you probably need to be a good engineer
+35:22 | Like take a look at Elon Musk
+35:24 | He's still like a chief uh engineer at SpaceX and he like sleeps at the factory every single day
+35:29 | So I kind of like embodied that principle in me since fifteen when I started coding taking like random classes uh online and building very-- like a lot of side projects
+35:39 | And during that time uh my dad he applied to YC and later he told me that he unfortunately got rejected with his idea
+35:46 | and I-- it it really like motivated me to uh pursue that like trajectory like specifically getting into like some accelerator because I realized that it's gonna help me kickstart my career like exponentially compared if I would go to like university and spend four years there
+36:03 | So uh that's how I essentially like figured out that YC is a really big thing in the Valley uh and
+36:09 | so yeah I was a horrible I was a horrible kid uh espe-like especially in my elementary and middle school
+36:15 | like for my entire life I got four GPAs so like almost maxed out grades like one of the best students at school
+36:21 | Uh but uh like on-- my behavior was uh really tough but then I kind of changed and became a really really nerdy type of like a person
+36:30 | like especially when high school came around I would just like code all day talk about startups
+36:35 | Uh my friends thought I'm weird but like yeah um it's kind of a very very weird transition because I think like back in ninth grade or tenth grade my mom mentioned that there's like this university called Harvard and Stanford and I was like "Damn okay maybe maybe I should like try studying at least a little bit and just like put more focus on my applications." So that's like when I uh started like getting into school a lot because like before even though I got perfect grades I still didn't really care
+37:05 | But then like yeah I kind of transitioned
+37:07 | Uh and yeah if you if you would ask my elementary teacher uh he or she would say that I was like hor-horrible student
+37:15 | Uh but high school yeah I had pretty good reputation
+37:43 | Yeah so it happened like both at the same time my passion for startups and also university applications uh because getting into Stanford became like my number one goal ever
+37:52 | I really wanted to get in maybe start a company after I graduate
+37:55 | Uh so I needed to like I needed to have a very very strong university application which also includes like really good extracurriculars
+38:04 | So I kind of like tried to combine both startups and like that process together
+38:08 | So the first thing I launched uh when I was fifteen right after I learned how to code uh is ExtraPurify which was an AI uh scholarship for high school students to basically help them apply to summer programs in US and had like AI counselor
+38:23 | It was very very early ChatGPT days so it was really impressive back then but looking back now it like I could just build it in like couple hours
+38:31 | Uh but yeah like in the end it was kind of useful
+38:34 | I got twenty thousand active users
+38:36 | I made a couple thousand dollars on the side and did couple programs uh myself
+38:40 | So using my tool I applied to like couple summer programs in San Francisco
+38:45 | Uh it it was called LaunchX uh and it's really really good
+38:48 | I made a lot of good friends there
+38:50 | So uh all of that helped me to get like more to immerse myself more in like building something launching talking to users and just getting some revenue in
+39:00 | So that was uh that was a really good experience yeah
+39:11 | Uh like always in the back of my head thought like "Okay this can be classified as like a really good extracurricular," or like "This can be written about in my university essay." So I always had this bias towards towards like uh comparing everything to university which is really really bad if you wanna be serious about it
+39:28 | So that's like one of the patterns I see among all of the high school students right now is that they're they're like saying "Oh I'm gonna build this thing
+39:36 | I'm gonna launch
+39:36 | I'm gonna make a lot of money." But at the same time they're still obsessed either getting a good university
+39:41 | So I'm pretty sure it's like uh they use the same framework just like applying everything to filling out the resume
+39:47 | So at the same time it's like really useful if you're just focused on college but also if you wanna go full in like yeah that's that's gonna that's gonna like low-low-lower the bar for you in terms of like expectations and goals you set for yourself
+40:19 | Yeah so uh I launched it in like uh June or July
+40:23 | I got twenty thousand users
+40:24 | as I said like made a couple thousand dollars on the side
+40:26 | So like small traction but it was uh really impressive for me uh back then 'cause I just started out I just started out like after hacking on a lot of projects like building five iOS apps in like couple months
+40:38 | I even remember like uh I had a sleepover at my friend's best friend's place and like all of them went for a walk and I just like came back 'cause I was bored and started coding
+40:48 | And that's like uh the first time I uh made my first iOS app and like released it in App Store
+40:54 | So yeah but the traction yeah it was it was pretty pretty good for my age I think
+41:48 | Uh so like essentially you're asking if uh why would I like lower the bar for like my university application or just like uh yeah can you elaborate on the last
+42:10 | Oh okay
+42:11 | Yeah yeah
+42:11 | but yeah I think like the the single uh the most useful thing you get out of university is that you just like get thrown into the community of like like-minded people who are equally smart and equally worked their asses off during high school
+42:23 | So that's like the single most useful thing is just like networking and connections
+42:27 | No one gives a shit about the academic part because like every single university teaches the same thing
+42:32 | Uh the only difference might be like some popular professors but like that doesn't fucking matter
+42:37 | Like the education is still the same
+42:39 | So uh your life is not guaranteed like definitely
+42:42 | There are lot of cases where people go work normal jobs
+42:45 | I'm not saying that normal jobs are bad but like uh in my like how how I think like life sh-should be interesting but uh there's still a lot of people who choose like a very boring job just like work for someone uh even in like big tech
+42:59 | I'm also not saying that big tech is horrible but for me it's boring
+43:02 | So yeah uh your li- your life can like definitely be ruined even after going to a prestigious university
+43:07 | You can just like end up on the streets uh 'cause like a lot of stuff might happen
+43:11 | Uh uh who knows
+43:30 | Yeah so okay my first take is that paying paying someone or something to learn how to code is bullshit
+43:36 | Like don't do that
+43:37 | You can just use AI right now
+43:38 | It's really really easy
+43:39 | And the way I learned is just uh I took couple free classes
+43:43 | One of them is CS CS50 from Harvard
+43:46 | Uh very good professor David Malan
+43:48 | Uh it's free online and it's really really like dives into fundamentals of like how computers are built so it was really cool
+43:54 | and after that I just like started building side projects and like following YouTube tutorials
+44:00 | And that's like also when uh the earliest version of Cursor came out as well as like the boom of AI started
+44:06 | So it was really easy to just like learn on the go
+44:08 | For example I build a project and I need to implement Stripe payments
+44:12 | Oh shit I don't know how to do that
+44:13 | Like no one taught me this at school
+44:15 | So uh you go to Stripe documentation like try to like cram something together and that's like how I learned
+44:21 | Uh I think it's called project-based learning or something
+44:24 | So yeah this was like one of the best strategies for me
+44:39 | I didn't tell anyone actually
+44:40 | Yeah
+44:41 | Uh like I thought no one really cared so I just kept it to myself
+44:45 | Uh maybe I posted about it like online 'cause I I also like did some marketing on the side 'cause it was edtech and like the perfect place to advertise was like Discord servers where people study Reddit TikTok
+44:57 | So we just like put "Hey I got this app with like X amount of users
+45:01 | It's really cool try it out." But I got banned a lot of times from Discord servers so it didn't work all the time
+45:07 | Uh but yeah I didn't really share the the traction
+45:24 | Bro that was like Yeah that's that's the masterpiece
+45:26 | That's one of the best movies ever made
+45:28 | I watched it when I was also like fifteen or sixteen and after I watched it I was like I know every single person gets really inspired after like just watching Zuckerberg in his early age but I got like like extremely obsessed with the entire movie
+45:42 | I went on like read the book like entire biography of Mark Zuckerberg his wife like his early age tried to like dig all of the old photos
+45:49 | And it's like j-just like insane of the culture of like that Silicon Valley creates when he especially moved to Palo Alto
+45:56 | And the film uh the movie it doesn't portray everything
+45:59 | It like light uh in some parts but the the picture itself is really really good
+46:04 | Uh and it like teaches you how uh just a normal schoolboy kid can code a generational product at his dorm
+46:11 | You just need to be like in the right time get lucky but like have some engineering skills
+46:16 | So you don't need to be like a top-notch CEO to start with
+46:20 | You just have to s-- you just have to like build something get it out there to users 'cause like it just spread like wildfire when he was at Harvard
+46:26 | Like he didn't even need to advertise it that much
+46:29 | So yeah that was really inspirational
+46:45 | Yeah I watched Yeah yeah
+46:47 | I watched The Social Network when I was around like uh sixteen fifteen
+46:51 | Yeah
+47:06 | Yeah so uh back in like during summer I needed to film a fundraise video announcement 'cause I I just thought it's pretty cool um and I just wanted to have some fun
+47:17 | So I I hired I hired people uh actors and like the first thought that came to mind like I have to create something from Social Network
+47:25 | So uh the first thing I did is that I said-- I told them like "Okay go order thousands of like business cards," 'cause they're like they're fucking cool and I also want to use them for myself
+47:35 | So And they're like exact replica from uh Social Network but tailored for my startup
+47:40 | So yeah I I still have them somewhere
+47:43 | I ju-- yeah I just have them for fun but they were used for the video
+48:23 | Uh the movie wasn't like the sole inspiration
+48:25 | It just like gave a bunch of like confidence
+48:28 | And also I love reading biographies so it was a really good thing
+48:32 | Uh but yeah uh honestly I thought about it like "Okay I'm s-- I'm at school
+48:36 | I don't really have a lot of responsibilities
+48:38 | I'm not like a grown-ass adult so I can just like build stuff for free and just for ha-- just like for fun." So that was like the initial thing
+48:46 | And then I thought "Okay I really want to become a CEO and run a company." Like that was my dream since childhood so I always tried to like tailor all of my expectations and like future goals to that fu-- like to that like future kind of
+48:59 | So uh that was like the eventual goal
+49:02 | But yeah it started out just like "Okay for-- like I'm gonna do it for fun."
+49:22 | Oh uh it was Yeah I d-- like um I didn't feel it's gonna be a generational product 'cause like again uh I was still like obsessed with getting into Stanford so I felt like "Okay I don't need it to-- I don't don't need to make it like a very crazy global thing and I'm not sure if it's like gonna become the same scale as Facebook
+49:39 | So uh yeah I'll just like leave it like as there." But definitely the movie like gave me motivation especially during like nighttime you know like just like putting the music album from the movie uh imagining myself as Zuckerberg just like coding all night
+49:53 | It was it was pretty cool
+49:54 | Yeah I'm pretty sure everyone did that at some point
+49:57 | So yeah
+50:07 | Uh I mean that's like uh I have to do to like act-- like ship the product and improve and iterate on the product
+50:14 | So like And first of all I enjoy it so yeah yeah I can like stay up all night easilyUh yeah like again it was still like very correlated with getting like uh into good universities so I didn't really think of it it's gonna go that big
+50:50 | also I didn't really ha-- like didn't really have a lot of a lot of time to focus on that because that was like the year where I tried to like put a lot of like bunch of extracurriculars together like research at Stanford writing a book uh having like a lot of internships
+51:04 | So that also like uh distracted me from building
+51:08 | And third is just yeah I di-- I I didn't really feel that it's like might become something big because of like lack of experience
+51:15 | Uh I was still in Kazakhstan
+51:17 | I couldn't go further
+51:18 | I pitched to a bunch of VCs in Kazakhstan
+51:20 | Every single one of them rejected me
+51:22 | I applied to local accelerators every single one rejected me
+51:26 | Uh so yeah just like didn't di-didn't like put a lot of hopes for that
+51:42 | Yeah so uh back during winter December twenty twenty-four so like yeah half-- like basically half a year ago
+51:48 | okay not half a year ago almost al-almost a year ago
+51:51 | Uh I was like thinking uh okay I'm like a very heavy user of GitHub Copilot and Cursor
+51:57 | Uh I really want to work in that space like the code-- like code gen developer tools because I didn't really have like domain expertise outside of that
+52:05 | Because like uh I'm still in high school I only know how to code so I'm I'm just like probably gonna do a dev tool
+52:11 | So it first started out as like an AI agent that can understand any code bases at like massive scale
+52:18 | So uh I did that in like January
+52:20 | I got some traction for that launched on Product Hunt got product of the day reached out a lot of YC founders
+52:27 | One of them gave me an angel check
+52:28 | We can also talk about it later
+52:30 | Uh and I'm gonna skip a little bit um to like May when I actually pivoted to the product what I'm building right now
+52:37 | So what I actually saw is that uh what really lacks is context
+52:41 | And like just working on the code base agent doesn't make sense because Cursor already knows your code base and like they they will just like win the space
+52:49 | Uh but what really every single coding agent lacks and just like agent in general is having up-to-date knowledge base what is happening around them
+52:57 | And I decided to start in a niche uh in the coding space again
+53:00 | So providing quality technical documentation and code examples and all of that reliable context to coding agents
+53:07 | So when you use Cursor for example you say like "Hey I want to build this application using uh Vercel AI SDK or like this package." Uh Cursor will build that for you and it will access the web but it will it will still hallucinate uh because it doesn't have like this up-to-date training data of the latest documentation that Vercel has
+53:27 | So uh Nia started out as like a mini server or like a mini plugin that can be used with Cursor and it like kind of grew and got more adoption within the like my YC batch that just like made me pivot entirely and go full in uh on that domain
+53:42 | So yeah essentially want to start with coding space right now but there's definitely a global and massive need to just like in-- for context in general for every single agent uh in the world
+53:53 | So
+54:11 | Yeah 'cause like with every single coding agent they all rely on foundational models behind the scenes
+54:15 | And foundational models uh they usually have a cut-off date which which is like twenty twenty-three twenty twenty-four
+54:22 | And even though like when they release a new model it still has a cut-off date uh it doesn't have this continuing learning that they they can just like ingest new and like feed them the new data every single second
+54:32 | And that's the thing I actually asked uh co-founder of OpenAI uh Andrej Karpathy like couple months ago
+54:40 | I basically like came up to him on the event
+54:42 | We talked for like forty minutes and I said like "Hey uh why didn't you build this at OpenAI during your-- the early days?" And he said that continuing learning is is actually a thing and I was in charge of the division at OpenAI that was like handling all of that stuff
+54:57 | But it it's it's just like so hard to make sure that models just continually-- continuously learn any new data uh because they're so fundamentally big
+55:05 | That's like a problem for another day or like for the future
+55:09 | So that gave me even more hope that there's like a very big gap in not just like coding space but like fundamental problem in context
+55:26 | Oh uh it was after I moved to SF
+55:28 | Yeah like back in school I was still working on an agent for code bases until I moved to London uh in March April and then to SF
+55:35 | Yeah
+55:44 | Yeah
+55:45 | Yeah
+56:03 | so it was my math class
+56:04 | I had an investor call with the best fund in Europe
+56:07 | I didn't know about them
+56:08 | Like I just got an intro from the YC founder who put an angel check with me
+56:12 | He just like said talk to them
+56:13 | so yeah I wanted to take the call
+56:15 | My math teacher didn't really like it so I got sent to principal
+56:19 | And my principal is really really chill
+56:21 | Like I like her
+56:22 | She just like let me take calls every single time I need it at her office
+56:26 | So I thought like yeah I thought "Okay let's just like do it at school
+56:29 | I'm not gonna reschedule it." So I took it from the principal's office
+56:33 | The first call uh was one of the partners from LocalGlobe that's the name of the venture firm
+56:39 | and yeah uh it went really really good
+56:41 | I was I was really confident that- I can speak for the product I know the technical part of the product and I have some sort of vision for the product uh going beyond
+56:50 | So uh yeah I I took it I took it there and it ended up uh being my pre-seed round which they also led
+56:58 | Uh it was around one million back in March when I just dropped out from high school and moved to London
+57:03 | So it was like yeah one of the pivotal moments that a high school call in my principal's office led to an investment
+57:11 | So
+57:26 | Yeah so uh I remember back in February this year I was cold DMing a lot of VC founders for product feedback yeah for the for the code-based understanding agent 'cause I just launched on Product Hunt and I wanted more people to try it
+57:40 | Uh all like a lot of a lot of them are were ghosting me except this guy uh his name is James He
+57:46 | Uh he's the founder of Artificial Societies and he was in Winter '25 batch
+57:50 | So I cold DM'd him on LinkedIn saying like "Hey uh do you mind if I ask a couple questions about the product
+57:55 | 'Cause you're really really experienced." And he said "Sure." So I sent him the link gave him credentials from my own account so he tried it
+58:03 | He said he was really really impressed and blown away by the quality
+58:07 | So he said like "Uh le-let's hop on a call," like the same day
+58:10 | So it was like nighttime in Kazakhstan and I hopped on a call
+58:14 | I was on my treadmill talking to them 'cause I really love like walking and working at the same time
+58:18 | So uh when he said that "I wanna put an angel check," I fell from my treadmill
+58:23 | So it was really really fun
+58:24 | and yeah he said like "Yeah you want five K I wanna support you
+58:28 | I will make couple intros to other investors uh from London." And that like yeah kick-started a lot of things uh moving forward
+58:40 | Yeah 'cause he made the introductions to LocalGlobe and other firms
+58:43 | And then I posted a LinkedIn uh LinkedIn post that went extremely viral that I dropped out from high school a couple weeks ago and even more VCs started reaching out
+58:54 | So that was like crazy time
+59:16 | Yeah so uh my school is my school was like really supportive
+59:20 | I even remember they gave me five hundred dollars for for Extra Curriculi
+59:24 | Yeah yeah yeah
+59:25 | They had like the mini startup grant so I won it
+59:27 | It was really it it was really cool yeah
+59:29 | Uh but yeah principals was very supportive
+59:31 | All of the teachers I knew I was like kind of cracked smart will handle all of the grades
+59:36 | So uh they thought I'm like little bit weir-weird that I just like spend all of my time coding and not studying
+59:43 | Uh but math teacher he yeah he he didn't really like it
+59:46 | He s-- he like came up to me and said "Um you should spend some time on geometry instead of doing this doing this thing you're doing
+59:53 | just like focus on your studies." So yeah uh it made me angry um but
+01:00:06 | Uh I I I didn't really care about this guy yeah
+01:00:09 | He was just a school teacher
+01:00:10 | Uh I I passed all of his exams and yeah I I I didn't care about this guy
+01:00:14 | I was I was still coding like but I changed my seat to the last desk so yeah he he he stopped noticing me just like
+01:00:59 | Yeah uh this part is important
+01:01:01 | I want like other viewers to hear this especially high school kids
+01:01:05 | Uh a lot of people ask me if I should drop out and I I I I think I'm like pretty famous in Kazakhstan and like a lot of people wanted to drop out 'cause of me
+01:01:14 | So yeah I wrote an essay about it uh that like uh answers the question if you should drop out
+01:01:18 | So uh the reason why I did this is not to be cool or just like follow Steve Jobs' footsteps but because I had no choice
+01:01:27 | I got accepted into the best accelerator in accelerator in Europe called Entrepreneurs First in London
+01:01:33 | So and I also had a lot of interest for uh raising money
+01:01:38 | So like I literally had no choice but to move to London and quit school
+01:01:41 | Um I first thought it's gonna be temporary that I'm gonna come back from this program and continue my studies
+01:01:46 | But like in in the back of my head I realized like this is the time
+01:01:51 | I cannot wait four more years until I go to university and finish my studies there if I can just like literally go to the accelerator that a lot of people have dreamt of like since their like university years and I can just like do it right now while still in high school
+01:02:05 | Um so yeah that's like my the key uh thinking that was in my head back then
+01:02:10 | And like yeah I ended up just going there to London and I think I'm still the youngest ever that attended that accel-accelerator
+01:02:17 | so yeah
+01:02:27 | Yeah so um the day I got a call from the accelerator telling me I got in it was in the high school library
+01:02:33 | I started screaming and just like ran to my friend said like "Bro I fucking got it
+01:02:37 | I'm I'm I'm dropping this I'm dropping school
+01:02:39 | Like bye-bye." Yeah
+01:02:40 | Uh then I came then I came home
+01:02:42 | I told my mom and dad like uh sorry like I I gotta go
+01:02:46 | There's there's uh there's like more important stuff there and this is like the best opportunity I can ever get so just like let me in
+01:02:52 | Uh let me go
+01:02:53 | Um they were pretty chill
+01:02:55 | Yeah
+01:02:55 | My mom she like started crying out of happiness which was really unexpected
+01:02:59 | And my dad was also really supportive
+01:03:01 | And that's like why I'm also really grateful to my mom uh 'cause like they're both entrepreneurs so they kind of like understood that uh I I can do it even like temporary 'cause like my mom still thought I'm gonna come back to school
+01:03:13 | So I thought I I told her like "Mom don't worry um I'm gonna become a doctor as you want later yeah uh and I will come back to school." But that didn't end up happening
+01:03:23 | But yeah back then they were really supportive so
+01:03:40 | Yeah
+01:03:40 | I would say I thought Like let me think
+01:03:44 | The hardest obstacle
+01:03:45 | Like when I dro- when when I just dropped out uh it was a little bit scary like being a seventeen-year-old and going to another country quitting school and like all of the dreams of chasing Stanford completely
+01:03:58 | So that like still was back in my head but I knew like I'm so tired of school and I had exams coming up and I wasn't ready for those exams 'cause like again I was coding entire day
+01:04:08 | So uh both happiness and like some cautiousness at the same time and that was like the only thing I think
+01:04:15 | Yeah I I took it very lightly
+01:04:16 | Like I didn't care about school
+01:04:34 | I was alone
+01:04:35 | I was so fucking excited
+01:04:36 | Like new city like actual normal city with like good infrastructure like some founders
+01:04:41 | Not not Silicon Valley not Silicon Valley level but like at least something for a high school kid
+01:04:45 | So I was really happy
+01:04:47 | I made a lot of good friends there also from Kazakhstan
+01:04:50 | I met a a lot of cool founders
+01:04:51 | like I had my investors there so I just like went to their office every single day
+01:04:54 | They showed me around the town and even took me to their home to just like see their kids
+01:04:58 | That was really unexpected 'cause like I guess they treated me like a kid back then
+01:05:02 | So that that was pretty funny
+01:05:04 | So the entire ex-- like London experience was really really cool
+01:05:07 | I enjoyed it
+01:05:08 | Ma-made a lot of friends from like YC who like did YC in the past or just like cool founders in general
+01:05:13 | So yeah I enjoyed it
+01:05:19 | That was the easiest part
+01:05:25 | Yeah yeah
+01:05:25 | I I never worried about that
+01:05:26 | I I like taught myself how to cook and clean like when I was six and yeah it was it was really easy
+01:05:32 | Yeah so this is like this is always gonna be my take
+01:05:34 | Like there's no fucking point in starting local
+01:05:37 | Like I don't I I don't know why people do that
+01:05:39 | They're just like scared of like thinking bigger I think
+01:05:41 | that's like my opinion and uh I'm pretty sure it's like a fact
+01:05:44 | Uh a lot of people think the same way I do that like you should just go global
+01:05:48 | but um if you're going global like the usual framework is that you start in a niche market but like you're already global but you go into like some vertical and then you expand from that vertical to just like a more broader like product
+01:06:01 | That's why I am like choosing only coding agents right now but there's like a demand for context layer across any agent stack uh like generally
+01:06:10 | So yeah I think uh you always have to think big and go global and not like being uh limited by your local market whether like you're trapped in Kazakhstan
+01:06:21 | Like e-even if I was in Kazakhstan that doesn't fucking stop me to just like pitching people in US
+01:06:25 | Like I can just like stay un-- like until three AM and wait until there's like I don't know uh twe-twelve PM one PM in America and just like ta-take sales calls
+01:06:34 | Like that it it all like just shows how how much you can hustle and like how much you care about like changing humanity in a good way
+01:06:41 | And to change humani-humanity and like affect all of the people get your product out there you have to go big
+01:06:47 | So yeah
+01:07:20 | Yeah
+01:07:23 | Okay so we are in the internet and AI age
+01:07:28 | It's never been easier to communicate with people all around the world
+01:07:32 | Uh s-- and there are lot of platforms like to actually go global just like launch on global websites like Product Hunt
+01:07:39 | Like people from all of the all over the world like India US Kazakhstan Russia they all check that website every single day for new products that come out
+01:07:47 | So just like get it out there
+01:07:49 | Just like build something in a couple days and put it receive feedback iterate on the product make new friends from like different countries
+01:07:55 | That's what really really helped me
+01:07:56 | 'Cause like remember I was cold DMing cold emailing bunch of professors bunch of- other YC founders from like America Silicon Valley specifically
+01:08:04 | And that like really helped to just like think think bigger
+01:08:07 | So I would say uh make more friends from America like other countries
+01:08:11 | Uh launch on global websites like Product Hunt
+01:08:14 | Hacker News is a really good one
+01:08:15 | Hacker News is the official website from YC itself
+01:08:18 | It's like mostly for uh like true programmers that like just wanna hack on stuff release their projects and show what they've been building
+01:08:26 | But it's also a global community so everyone can see that uh that
+01:08:30 | And yeah just take it from
+01:08:50 | Yeah I definitely have a lot of like mentors and like uh had and still have but I always thought that I I have to think big
+01:08:56 | Like there's no way I will stay in Kazakhstan
+01:08:58 | Like yeah I I always knew there's no way I'm gonna like think locally
+01:09:02 | I just have to Especially I'm a dev tool
+01:09:04 | Like it's not like I'm building some uh vertical B2B application for hospitals in Uzbekistan or Afghanistan
+01:09:13 | It's yeah it's a it's a developer tool that can be used with any agent that you can imagine
+01:09:18 | So why would you just like why would you distribute locally if you can just like share it with people online
+01:09:24 | It doesn't take a lot of time to set it up for yourself
+01:09:27 | So it just i-i-it's just like logical and common uh common sense
+01:09:31 | Yeah
+01:09:41 | Yeah from day one I always wanted to go global uh because I knew that like the space I'm in I'm not building in a specific vertical for some country but a global developer tool uh that I want to become a very global product in the end
+01:09:54 | So it's not that hard to just like spread it globally because everyone can try it for themselves
+01:09:59 | Uh so yeah
+01:10:19 | Yeah
+01:10:19 | So this is one of the ways of like how you you would build the product
+01:10:23 | Uh like especially YC there are a lot of companies that take AI and try to automate a very very niche thing in a specific industry like insurance or legal paperwork uh accounting
+01:10:36 | And that's like called v-vertical
+01:10:37 | When you go into a specific domain of a broader industry and you try to do something there
+01:10:42 | And then like from there you can either expand horizontally and scale or just like stay in that vertical and just like be the best product in the market
+01:10:49 | So like OpenAI Google will never kill
+01:11:02 | I mean yeah I said like coding agents that's like what I wanna start with because I'm a coder myself and I see this problem every day 'cause I I code a lot and I use my product to build my own product so that helps
+01:11:13 | Uh but definitely yeah like there are a lot of use cases that can be used in context layer
+01:11:17 | So if if I'll be able to like prove my hypothesis like whether it's like sales or like getting more users getting more customers 'cause I'm just like still starting out uh then I'm gonna think about like of how I should bring it to the next thing and go beyond just coding market
+01:11:32 | Yeah so uh that's like one of the reasons why I don't have a co-founder is that in my high school no one was really interested in startups
+01:11:40 | Um I had a couple people who were like really into programming but I didn't think they would be um they had the like the same ambition or like the short-term goals as I did
+01:11:51 | So uh because like they mostly wanted to focus on studies and didn't care about accelerators that much
+01:11:57 | So that's why I decided to just like become a solo founder and uh went went from there
+01:12:01 | So But like from the academic standpoint there were a lot of like high-achieving students who wanted to get into good universities because I studied in American school and that's like why I have like a slight American accent and I can speak English freely
+01:12:14 | So yeah
+01:12:25 | I remember I actually told them uh during hot pot or Korean barbecue that's like our tradition and yeah we just went there
+01:12:32 | I said like "Guys um yeah I I need to tell you something that like I have to I have to drop out." Uh and they were like "W-wait what the fuck
+01:12:39 | What?" Uh so their reactions were kind of insane
+01:12:42 | Yeah I didn't expect that
+01:12:44 | Uh but I explained everything and they just like supported me and said "Yeah uh it's it's crazy
+01:12:49 | Like you're really smart
+01:12:50 | Go ahead." Yeah yeah
+01:13:15 | Yeah so generally like raising in America is like way way way way easier because the core difference between uh the market in Kazakhstan or like elsewhere for example in Europe even though it's like slightly better in London or any other city in Europe but in Kazakhstan uh VCs are like so obsessed with traction it's crazy
+01:13:33 | Like they're gonna judge you by like how much money you make uh what's your ARR uh which is really important
+01:13:38 | I'm not saying that it like you should neglect that
+01:13:40 | But during pre-seed and seed stages all you do is you you put a bet on the founder uh on his personality and all of his like execution ability whether he can just like succeed in the long term
+01:13:52 | Uh so you don't like Yeah so it was like uh harder to just like raise
+01:13:57 | And also that was my first experience pitching to investors
+01:14:00 | And yeah I got rejected because like they probably thought "Oh like just a random young kid doing his his project for school." Because like people in Kazakhstan also they-- also don't take uh high sch-- like school kids and just like young teenagers who are trying to build something really seriously compared to America where it's like respected and when like when you tell someone "I'm I dropped out from high school," in America they're like "Wow that's it's crazy." Um so that's like the main difference
+01:14:24 | Uh so yeah
+01:14:51 | Yeah so I had like this one goal that I wanna spend some time just like going more into research and also having an experience from like top universities 'cause I really wanted to get into Stanford
+01:15:00 | So I would just like spend my entire summer two hours per day just like cold emailing bunch of professors
+01:15:06 | I think it was around like nine hundred thousand professors from like top twenty universities Georgia Tech Caltech Harvard Stanford
+01:15:13 | And I got a lot of rejections like ninety-nine point nine percent were all rejections 'cause I'm a high school student they didn't have any opportunities for me even though I said I would love to work for free
+01:15:23 | But uh one professor that like actually allowed me to work for him for free uh is Ilya Strebulaev from Stanford and he's like the head of venture capital initiative there
+01:15:33 | So uh I spent some time there by uh I was a research assistant like a lot of manual data processing and the research goal was basically compiling a very very big data set of uh investors over the past two deca-- uh decades and like their team size their team members their investment decisions and just like making the trends in the end
+01:15:54 | But on my side it was just like that data gathering and like processing the data using a lot of Python
+01:15:59 | Uh so yeah
+01:16:08 | Yeah
+01:16:09 | So I would spend two hours every day during summer
+01:16:11 | I was sixteen and yeah it took me like quite quite quite a lot of emails I think more than five hundred for sure to get like some sort of response
+01:16:19 | 'Cause again like I didn't know how to draft a proper email back then and all of them were like really really AI-generated
+01:16:25 | Uh even though like people didn't recognize AI that much like compared to what is happening right now but still they were like I'm looking at one right now and it's like really long really vague and yeah it just looks
+01:16:45 | Yeah yes
+01:16:46 | I I like I watched a lot of tutorials I watched a lot of mentors who are like helping with getting into university and like all of them were telling like "Hey research is one of the best opportunities if you wanna get there
+01:16:57 | So try to like go into that pursue that and if you get it that would be like that would be amazing." But also like not just because of university but I was genuinely interested to like work at such a prestigious place
+01:17:09 | So
+01:17:23 | Oh as I said uh yeah Stanford professor
+01:17:25 | Like the experience yeah it it uh it was kind of like hard in the beginning 'cause uh I was really bad at coding back then so I had to like learn a lot of scripts and like yeah just like compiling data
+01:17:36 | Uh but it was uh a lot of manual work so it it couldn't be automated using AI back then
+01:17:41 | I'm pretty sure you can do it right now really easily with agents
+01:17:44 | So yeah I would spend like two three hours every day as like part of my morning routine to just like get the data sort the data send it to a professor work and just like get some feedback if I'm doing things correctly
+01:17:56 | So it wasn't like really interesting and mind-blowing
+01:17:59 | I wasn't like inventing anything
+01:18:01 | Yeah so this is one of the emails and I'm gonna explain why it's so bad
+01:18:05 | can you see the screen
+01:18:09 | Yeah so first like first I would just go to the database of the university scrape all of the data about the professor and put it in ChatGPT and like tell it "Hey according to this template that I found online make like hundreds of emails." And it would like always hallucinate like produce a bunch of stuff so I didn't really even double-check
+01:18:27 | And like even though I was seeking for computer science research I put like a neuroimaging and machine learning which like didn't make sense
+01:18:34 | and just like if you look at the email it's really really long
+01:18:36 | No professor or like human in general like would read that much 'cause they're all busy people and it's just crazy how many like characters are in that email
+01:18:45 | And like "Hey I hope this message finds you well
+01:18:48 | My name is Arlen
+01:18:49 | I found your work really inspiring
+01:18:51 | I would be thrilled to explore this possibility." So like yeah a lot of cringe language that I would like hate personally reading
+01:18:56 | So uh yeah it just like comes with practice uh writing the
+01:19:00 | So yeah uh here February eleventh I was in my high school back then just like spamming a lot of YC founders
+01:19:08 | and yeah like the the message is like really really straightforward now
+01:19:11 | So "Hey James my name is Arlen high school student building an AI agent tech space
+01:19:15 | Would really love to like to ask a couple questions if you don't mind."Uh been following your work with Artificial Societies
+01:19:21 | That's like his company
+01:19:22 | Uh so yeah like he responded really fast
+01:19:25 | Uh I pitched him my idea
+01:19:28 | Uh he said like "This is super cool." He asked me if I'm raising uh after I told him like I wanna move to SF really really bad
+01:19:35 | Um so yeah like "Are you raising at the moment?" "Yes." Um and then like he tried the tool
+01:19:42 | He said "It's incredible
+01:19:43 | Let's hop on a call." And during the call he uh asked me a couple questions because like he he actually saw uh himself in me because like we both started young so that he like kind of empathized with the entire thing
+01:19:55 | Because like if you look at his bio he left home at age of fourteen to study in New Zealand
+01:20:01 | Uh started his first ed-tech startup in like when he was sixteen
+01:20:04 | So it it really resonated resonated and he just offered to angel invest
+01:20:09 | So there are like couple reasons for that not just like a very cool email but also I got really lucky because I found this person who actually shared a lot of like common interests with me
+01:20:18 | And like the start of our journey was similar that he felt like okay I I kind of like see the parallel between me and him
+01:20:25 | Uh and like I I I also just finished finished YC so I have some spare money to invest
+01:20:30 | So yeah let's just give this kid a go
+01:20:33 | So that's how it happened
+01:20:48 | Yeah I I just I just like put voice-- Y Combinator like late-latest batch in the search bar on LinkedIn and just like texted everyone
+01:20:55 | Yeah
+01:21:02 | Yeah yeah I was yeah eleventh grade high school February yeah
+01:21:23 | Yeah so the date is uh October fifth twenty twenty-four
+01:21:27 | So even like after summer ended I was like continuing just like sending those emails
+01:21:32 | Uh and even like from the subject you can see it's yeah it's like really bad
+01:21:36 | and the email itself was really really long
+01:21:38 | Uh if I was reading that email I would instantly put it in the trash and like archive the person who sent it to me
+01:21:44 | so yeah it just like takes a lot of practice to make a good email because like here there are a lot of like cliché language a lot of cringe words
+01:21:50 | Like "I would be thrilled to explore the possibility of contributing to your research." So yeah it just like doesn't make sense and just like sounds like a typical spammy kid just like emailing random professors
+01:22:02 | So
+01:22:13 | Yeah so James was February eleventh twenty twenty-five
+01:22:16 | So yeah not a long time ago
+01:22:18 | And this one was twenty twenty-four
+01:22:20 | Um so like yeah one and a half years ago and then James like six months six months after
+01:22:47 | Yeah yeah like you just can you you just can like see and follow people on social media and like some of them will like post tips on like how to send cold emails
+01:22:54 | There are like actually a lot of material online
+01:22:56 | Or just like asking other founders "Hey like how should I approach sending this email?" Or like "How should I uh structure this X Y Z?" So they're like all eager to help
+01:23:04 | So just like the matter of like asking and uh being curious
+01:23:20 | Yeah so Yeah yeah definitely
+01:23:24 | Uh okay yeah
+01:23:26 | February like during during the time I was DM-- like DMing with James I was like sending a lot of DMs in parallel on LinkedIn because my LinkedIn was pretty good back then
+01:23:35 | Uh it was like really really active
+01:23:37 | I got premium so I can like send a lot of connection requests
+01:23:40 | Ninety percent of the time I was ignored and like yeah couple percent like like James and other people couple other founders responded but like only gave me some generic advice
+01:23:50 | But James was like really really actually helpful
+01:23:52 | And there was another founder his name is Andy Lee uh from Keywords AI
+01:23:56 | It's YC Winter twenty-four batch
+01:23:58 | He also helped me out a lot
+01:24:00 | Uh he sent me like he sent my product to his entire team
+01:24:04 | They tried it out
+01:24:05 | They supported my launch launch on Product Hunt
+01:24:08 | And yeah he also was really really cool guy and we we still we still stay in touch
+01:24:13 | We actually uh met in person during my YC batch
+01:24:16 | He came to uh see the demo of my product
+01:24:37 | I mean yeah it it definitely helped because like you wouldn't see seventeen-year-old kid reaching out to you like on a random Tuesday and asking for his product feedback
+01:24:46 | That's like uh yeah it it doesn't happen really often
+01:24:49 | and also like when I was sending those LinkedIn messages I got like slightly better in like sending those
+01:24:54 | So was like sincerely and genuinely curious about those people
+01:24:58 | So uh it's it's all like definitely combination of luck that like they responded at the right time uh on the right day
+01:25:04 | Uh luck is always present and you just have like to find the best ways of how to maximize your lu-- maximize your chances of being lucky
+01:25:11 | so yeah.I mean uh luck is just one of the things you have to approach them like while being interesting person uh who would be like who who would be okay if I would spend like five minutes with that guy
+01:25:37 | Uh 'cause I-- founders are really really busy
+01:25:40 | Um and it's really rare that like someone reaches out on you on LinkedIn and you would respond like from some unknown connection
+01:25:46 | So luck is just part of the process
+01:25:48 | You just have to create your own luck by being in the right place s-- uh having like some background 'cause before that they could probably see my LinkedIn experience 'cause I I put some extracurriculars
+01:26:00 | I have my own startup
+01:26:01 | Uh and yeah it's just like combination of everything
+01:26:03 | You cannot just like find it randomly and it's not a determining factor of like whether you're gonna succeed but it definitely plays the part in the journey but you can control that
+01:26:32 | Yeah
+01:26:33 | J-- I I just like had a lot of motivation to just like go and build and go to the world move to Silicon Valley and I would do everything
+01:26:40 | Like I would-- If they didn't respond I would just like continue sending emails every single day like fly to America myself and like meet those people in person
+01:26:47 | Like I I would have to die to just Yeah
+01:26:50 | I I don't care like uh of being tired or like losing motivation 'cause I genuinely care about the entire thing of like helping humanity in the end
+01:26:59 | But like to get there I need to complete those small steps
+01:27:02 | So uh yeah this is like the matter of just how determined you are and like what's your end
+01:27:16 | mean I knew it's gonna be hard like no one is gonna respond me from the fir-- Like actually I kind of like expected more responses
+01:27:23 | Uh maybe I was a little bit sad but I just kept going 'cause I had free time before school just like sending those emails while co-coding in parallel
+01:27:30 | Like it didn't take a lot of time not like an entire day
+01:27:33 | So
+01:27:42 | Yeah so I would wake up at around five thirty AM make a breakfast uh maybe finish homework from like the uh from yesterday
+01:27:49 | Then I would go to school at like six thirty come to school at like seven seven thirty and start coding immediately because I had like around twenty to forty minutes of free time uh before my first uh lesson starts
+01:28:02 | Uh and it was usually English so the tea-teacher was really chill
+01:28:06 | and during breaks if I had no homework I would continue coding or like talking to my friends in the library but also working at the same time
+01:28:13 | Uh I also skipped lunch
+01:28:14 | Like it's actually horrible
+01:28:16 | I had I had some health problems 'cause of that
+01:28:18 | Uh I skipped every single lunch and I didn't have lunch at all
+01:28:21 | I would only eat two times per day uh because I had forty minutes during school hours to just like code and work uh in the library because everyone else was like having like uh having food
+01:28:32 | So yeah I would just like do that and disappear in the library uh work there
+01:28:37 | Also like after school uh I like obviously I had some free time like I scrolled through my phone TikTok Instagram all of that all of that stuff like as a as a normal teenager
+01:28:46 | But uh I could stay up like all night and just like code or work even like come after school uh do work during like uh on my on my way to school on my way home and yeah
+01:28:57 | I I just like really liked it and it was the part of my day
+01:29:00 | I didn't really separate work and my personal like enjoyment uh 'cause I just like love working
+01:29:06 | So
+01:29:35 | Yeah it would be Keep it really short
+01:29:37 | So try to keep it under like five four sentences and jump straight to the point
+01:29:42 | Like what do you actually want to get from that person
+01:29:44 | Uh give an introduction about yourself like one to two to three sentences like "Hey I'm Arlen
+01:29:50 | I'm a student at XYZ school
+01:29:52 | I'm really interested in this and I have background in this." You say that you get straight to the point
+01:29:57 | And if it's like a normal person uh I would highly suggest talking to that person as you would to a friend
+01:30:03 | Don't make email really really official uh 'cause like if I was if I was reading this crap I would be like not not interested 'cause like a lot of cringe language really really official and formal
+01:30:14 | and people wouldn't really also like expect someone just like reaching out to you as a friend
+01:30:18 | So they would likely-- there's a higher percentage and chance that they would respond back
+01:30:22 | So those are like my key tips and insights that I got from sending a lot of
+01:30:40 | okay now this one
+01:30:49 | Okay yeah
+01:30:49 | Uh yeah this is like one of the craziest emails
+01:30:51 | Uh okay I can start uh what happened here
+01:30:54 | You you can already see the subject "The kid who stopped you in the end." This is really surprising 'cause what the hell is that subject
+01:31:01 | And the history behind it is that PG came to talk at YC uh he had office hours with every single YC founder and I also had one
+01:31:09 | But he roasted me and my startup
+01:31:11 | He said like "I don't understand the thing that..." Okay he didn't roast me
+01:31:15 | It was a constructive feedback
+01:31:16 | But he said like "I don't understand what you're building
+01:31:18 | Uh you should really improve your pitch otherwise you're cooked in front of investors and no one is gonna invest in you." Uh so it really touched me
+01:31:25 | I was really really kind of like sad for the rest of the day because PG was a hero of mine
+01:31:30 | Uh I read every single essay
+01:31:32 | Uh but yeah during his talk I just like thought "Okay I cannot lose this opportunity because PG..." Yeah it's it's a once in a lifetime opportunity
+01:31:40 | So it was ten p.m he started leaving the event and I just chased his car and started screaming like "PG please stop and just like listen to me
+01:31:49 | Uh give me the last chance and opportunity to pitch you
+01:31:52 | Like I beg you." So he was like "Uh kid you're so annoying but fine
+01:31:57 | Yeah here's my email
+01:31:58 | Just like email me whatever you want." Um so I came home immediately and the first thing I did is like I pulled up my laptop uh emailed PG
+01:32:06 | Uh his email is not is not private so yeah anyone can anyone can use it
+01:32:09 | Uh but yeah I put a subject like "The kid who stopped you in the end," so he has like some memory from that
+01:32:15 | Uh and yeah straight to the point "Hey Paul this is Arlen
+01:32:18 | Thank you so much for the talk
+01:32:20 | Uh you inspired me to do colos installation every day
+01:32:22 | I believe I can sell to anyone who uses Cursor or any agentic IDE." Uh and like here I put new description
+01:32:29 | So 'cause like he asked me "You should really improve your pitch." So I said like "I'm building a tool that gives coding agents the most precise context possible
+01:32:35 | Right now ten percent and soon fifty percent of the batch is using it to code with fresher more accurate knowledge of documentation and code bases." So straight to straight to the point
+01:32:44 | and yeah like couple hours later or couple days later he responded like "If you want to come talk about your startup uh Kate will like his assistant will find us an office hour." So yeah then I came his to his house we talked for a couple hours and I'm not gonna show that part but like in the end he said "Hey I would invest in you if you'd like." So that's like that's the entire story
+01:33:08 | Yeah
+01:33:25 | Okay yeah
+01:33:25 | there's a story behind of like how I got Ilya
+01:33:27 | I forgot to tell more details to it
+01:33:29 | So uh here's the email
+01:33:31 | Again like I wasn't that good but it was shorter this time
+01:33:34 | Uh "Hello Pr-Professor Strelcov
+01:33:37 | My name is Arlen
+01:33:39 | Uh I would really really like love to explore virtual unpaid internship
+01:33:42 | Here's my resume." and yeah later he emailed me back
+01:33:46 | I was really surprised
+01:33:47 | Uh it wasn't an instant acceptance but he said "Hey great from you on accomplishing so much
+01:33:53 | I may look for volunteer research assistants soon uh mostly to help me with manual processing of data." So it wasn't a rejection but also not an acceptance
+01:34:02 | And I didn't give up after that
+01:34:03 | Like I kept sending follow-up emails for like two months
+01:34:06 | Yeah yeah
+01:34:07 | For like two months I sent three more emails
+01:34:09 | He didn't respond
+01:34:10 | And then uh there was this email yeah like follow-up on volunteer opportunities
+01:34:15 | That's like where it all started the like the entire thread
+01:34:18 | So I said like uh "Hey hope you're doing great
+01:34:21 | I wanted to follow up on our previous conversation uh regarding potential volunteer research opportunities in case you didn't get my email
+01:34:29 | just wanted to let you know that I'm still really really interested and would love to work." So And that's like when I got an acceptance
+01:34:37 | Uh "We're working-- we're looking for volunteer volunteer uh arrays uh to help us with assembling an important historic data-database of VCs." So yeah he sent me a technical technical experience like document and then a task that I had to complete
+01:34:51 | Uh and yeah I completed everything and then he accepted me to the crew and I started working with them
+01:34:57 | So yeah it kind of kind of like went from one cold email to uh no acceptance neither uh rejection just like being persistent and following up for like two months straight and finally getting it
+01:35:11 | So that's like entire situation here
+01:35:13 | Yeah
+01:35:24 | Yeah I would say uh it depends on the situation but generally like two weeks from the first email
+01:35:31 | Yeah yeah like two weeks
+01:35:36 | Or like one two weeks
+01:35:42 | Yeah yeah
+01:35:43 | Very simple like you would email to a friend
+01:35:44 | Yeah Yeah
+01:36:17 | Definitely first subject
+01:36:18 | Subject is really important
+01:36:19 | I'm not op-opening an e-an email unless I get a very interesting subject in the headline
+01:36:24 | So the worst thing you can do is put inquiry exclusive um seeking for
+01:36:32 | So those types of message uh those types of words that are really cliché and just like make you sound like a bot uh those are horrible
+01:36:39 | Like I wouldn't even open that email
+01:36:41 | So just like try to avoid those um and be very direct even the-- on the subject
+01:36:45 | Like to PG I just like told him "The kid who stopped you in the end," or uh "Follow up on voluntary opportunities." So like really really concise
+01:36:54 | Uh just cut the bullshit
+01:36:55 | So that would be the That that would be the most valuable advice from me
+01:36:59 | Yeah
+01:37:19 | Yeah
+01:37:19 | So uh the way I got to VCs I didn't get to them they all came to me is uh two two two things
+01:37:26 | First James' introductions
+01:37:28 | He did a couple intros
+01:37:29 | I spoke with the best fund Like he made an introduction to the best fund in entire Europe
+01:37:33 | Uh so they were really interested
+01:37:36 | Another thing I got into accelerator in London which is considered the best in Europe also
+01:37:41 | Uh so it also helped because after both things I made a LinkedIn post which went really really viral uh saying like "I dropped out from high school two weeks ago and now I'm going to London to build my dreams." It re-- it went viral
+01:37:54 | A lot of investors started reaching out so I just like started taking those calls and decided like "Yeah fuck it
+01:38:00 | Let's raise a round
+01:38:01 | Uh let's raise a round." and that's also when LocalGlobe the best VC fund in Europe decided to also lead my pre-seed round
+01:38:09 | Uh they made a couple introductions to like really good angels and the combination of like LinkedIn inbound from other people having those conversations and the existing introductions helped me close entire pre-seed round in a couple weeks as the first-time
+01:38:45 | Uh it was was crappy
+01:38:47 | Like I always knew you don't need to spend hours and hours and days and months on polishing your product because no one gives a fuck
+01:38:53 | You have to put out the most exciting feature that your product has to offer and just like give it to other people
+01:38:59 | Like no-nothing is gonna happen if your product sucks
+01:39:02 | People will just like might call out that like "Hey there's a bug there's an issue
+01:39:06 | You should really fix that." So go fix it
+01:39:08 | That's like the that's like the the whole point of building a product so you can just like keep iterating
+01:39:14 | So just like build the minimum viable product like minimum viable viable version that people can try and use
+01:39:20 | Uh put the most exciting feature and let the world try it
+01:39:23 | So that's that's it
+01:39:25 | Yeah my product wasn't finished back then
+01:39:31 | Yeah
+01:39:31 | It it it was like a web app with the QA agent
+01:39:36 | You ask a question about the code base it just returns an answer about the code base with some referen-references from the code base
+01:39:42 | That's it
+01:39:43 | Just like a chatbot
+01:39:44 | Yeah
+01:39:56 | I wasn't scared
+01:39:57 | I needed that negative feedback
+01:39:58 | Even right now whenever I get a new customer user I just like tell them like "Please can you roast my product in my face
+01:40:04 | Like try like try to make me cry
+01:40:06 | Like just r-roast my product." I need that feedback because it's like the most valuable thing you can get from the user or a customer uh constructive feedback
+01:40:14 | That's also like the PG uh PG thing
+01:40:16 | Like he helped me out a lot
+01:40:18 | Uh people might think he roasted me but that was a really good feedback that made me improve my pitch by 10X because I literally spent hours and hours after that conversation refining my pitch and like how should I really approach telling people about the product
+01:40:30 | So
+01:40:54 | Oh I I made a lot of peo-- like friends in London
+01:40:57 | My investor introduced me to a lot of people
+01:40:59 | I talked a lot of YC founders because I also was applying to YC back then
+01:41:03 | So my investor investors made a lot of introductions to other YC founders
+01:41:08 | So I talked a lot of people and my regular day would be wake up have breakfast meet cool people founders
+01:41:14 | So 'cause I wasn't trying to like optimize just like to build the install back then
+01:41:18 | I was still very very new so I had to meet a lot of people
+01:41:21 | I would go to events sometimes like g-good events not just like some bullshit public events that people put on Luma or like other platform
+01:41:28 | If I get invited I would go uh have dinners with other founders uh come back work code iterate on the product and just like talk to users
+01:41:37 | That was like yeah pretty much everything that I did in London
+01:41:44 | Yep
+01:41:49 | Uh first time one was when I was 16 it was summer
+01:41:52 | Uh I applied with like three people
+01:41:54 | It was just like a fun thing
+01:41:56 | We thought like "Hey just let's just give it a shot
+01:41:58 | Like no one-- nothing is gonna happen." That was like my initiative
+01:42:00 | I told them like uh they were They didn't really wanna apply but I told them like "What possibly might happen if you apply
+01:42:07 | Uh like no one is gonna kill you." So first time 16 years old second time when I was seventeen as a solo so winter
+01:42:14 | Like when I already knew James when I knew some founders
+01:42:17 | They even wrote like a recommendation letter for me but I still still didn't still didn't get in
+01:42:23 | And the third time I applied for summer batch uh started filling out application in April and I was like really really obsessed at that point
+01:42:31 | I got all of the tips I could get in the world
+01:42:35 | I even talked to a YC partner over like on the phone call and there's also story behind that uh which I'm gonna come back in a couple minutes
+01:42:42 | So yeah I filled out the application had a lot of mock interviews with other founders which helped me out a lot and applied in like early May
+01:42:50 | Uh so yeah back to the story with talking to a YC partner
+01:42:54 | it was Tom Blomfield the co-founder of Monzo
+01:42:56 | Monzo is one of the biggest banks that was ever established in uh United Kingdom
+01:43:00 | He's now a general partner at Y Combinator
+01:43:03 | my investor introduced me to Tom and we had a call
+01:43:06 | And uh it wasn't uh an ordinary call
+01:43:09 | it was it was lunchtime and I really confused time zones so I had to take a call in the bathroom
+01:43:14 | Uh so I hopped like I I I was standing on the toilet so he like he didn't see the background and I was taking the call
+01:43:20 | And I was so so so nervous because it happened so I didn't expect that 'cause like I mixed entire time zone
+01:43:27 | So yeah I was really scared
+01:43:29 | It was really awkward
+01:43:31 | Uh I told him like "Hey Tom I'm building this thing
+01:43:34 | YC is like one of my childhood dreams." Uh and he said "Uh you know what
+01:43:40 | There's probably not enough space for you to come like tomorrow," 'cause like the spring batch would literally start like in a couple days after our initial call
+01:43:48 | So he said like "Just apply for the summer batch and yeah we're gonna see what happens." So that was the entire call but it gave me so much hope after he said that like "Just try to apply to summer batch and see what happens." So uh yeah the entire conversation with the partner also helped a lot just like gave me more motivation to like keep pushing and keep applying no matter what
+01:44:16 | Uh three times total
+01:44:17 | Two rejections and third time in May I got in
+01:44:25 | Yeah I was in London
+01:44:25 | It was twenty-seventh of May
+01:44:27 | It was nighttime and I had an interview
+01:44:31 | My-- Like I I genuinely thought I'm gonna die 'cause I was so so so nervous
+01:44:35 | Like I was so nervous
+01:44:38 | and the interview like my partner my future YC partner was really chill chill
+01:44:41 | So it was Ankit who is now a general partner and Harsh who is like the legendary guy from YC
+01:44:46 | and they were just like smiling
+01:44:47 | But YC is known for just like ro-- not roasting you but interrupting you asking really direct questions
+01:44:53 | But they were kind of kind that day so uh I guess I got lucky
+01:44:58 | And couple hours later I get like an email from Ankit my current partner saying "Hey are you free for a WhatsApp call?" And when I got this email I already knew like I got in uh because YC partners when they when they're accepting you they have to give you a WhatsApp call
+01:45:15 | That's like their tradition
+01:45:16 | So when I got the call like the first thing I hear "Hey Arlan how are you doing
+01:45:20 | yeah you're in YC
+01:45:21 | Congrats." So I just like started screaming on the call
+01:45:24 | Like yeah I screamed so hard that he started la-laughing
+01:45:27 | Uh it was like one AM in London
+01:45:30 | So I hang up
+01:45:31 | I called my dad
+01:45:32 | Uh he started crying also out of happiness
+01:45:35 | I called a couple of my investors
+01:45:37 | They I think one of them also started crying 'cause like he's also from Kazakhstan and we're like really really close
+01:45:42 | So yeah it was a really great
+01:45:50 | Yeah so okay he was sleeping but I tried to like call him three times
+01:45:54 | But the next day he woke up he gave me a call
+01:45:57 | He said like like "Son I'm so so fucking proud of you
+01:46:00 | Like you accomplished so much in like couple years that I couldn't do in like five or ten years
+01:46:07 | And the like the amount of work you do while being seventeen year old is genuinely crazy and I'm so so so proud of you and I'm gonna support you." So yeah that was really insane
+01:46:16 | And then I called my mom
+01:46:17 | My mom doesn't know what YC is so I had to explain
+01:46:20 | Uh but she also started crying after I told her that like they also gave me half a million dollars
+01:46:24 | So yeah after like I mentioned money she she understood that's like it's very serious uh and I'm going to America now
+01:46:31 | So
+01:46:48 | It was it was intense
+01:46:49 | So like yeah after London uh before the batch
+01:46:51 | So batch w-was supposed to start June thirtieth and I was back home for like couple weeks to see family in like the beginning of June
+01:46:58 | And it was nighttime I decided to finally announce that I'm in YC
+01:47:02 | Uh I wrote a post on Twitter a long one
+01:47:05 | I didn't expect it to go viral 'cause I tried posting on Twitter but it got like fifty views max
+01:47:10 | I I really had no hope for entire Twitter thing
+01:47:13 | Uh but this post it got it got like around half a million views uh because Paul Graham reposted it and Garrett Tan the CEO of YC reposted it
+01:47:23 | And just like I got a lot of views from that a lot of virality from that
+01:47:26 | and that's like yeah
+01:47:28 | Also made made couple friends from that post and it really helped me with like my Twitter uh Twitter account which is also genuinely insane 'cause like Twitter can do a lot of stuff for you
+01:47:49 | it was August
+01:47:50 | Okay here
+01:47:51 | Yeah
+01:47:57 | Uh so uh wait
+01:47:59 | Share screen
+01:48:04 | So yeah it was after PG already invested in me because whenever he invests he always tweets about the founder
+01:48:11 | So yeah I met a founder in the current YC batch who discovered Collison installation by himself by studying Collison brothers
+01:48:19 | Uh he has already signed up about 10% of the batch
+01:48:22 | So yeah like almost half a half a million views
+01:48:25 | It was it was really cool that the legend himself tweeted about you
+01:48:30 | I genuinely felt yeah like I was really really happy just like from a single tweet
+01:48:35 | So I immediately printed the entire tweet and put it on the wall
+01:48:39 | So yeah I'm gonna show it to you
+01:48:47 | Uh I don't know
+01:48:48 | I just thought it's it it like it will be funny that like the legend tweeted about you and now it's like in the memories
+01:48:54 | Uh so yeah
+01:48:55 | it doesn't happen to you to you every day that like PG tweets about you
+01:48:58 | So yeah a spec-special
+01:49:21 | Uh yeah yeah
+01:49:23 | I started Collison installing people in the beginning of the batch just by going to their houses offices and installing my software on their laptops of like how Stripe brothers would do during Stripe days
+01:49:34 | Uh and the Karpathy story it's yeah it's nothing like that special
+01:49:38 | I met him on an event a private event
+01:49:40 | I cannot share that much here but yeah I got invited by one of the friends
+01:49:44 | and we talked for 40 minutes
+01:49:45 | I was asking him about what I'm building and like why didn't OpenAI solve this problem yet
+01:49:50 | And that's like when he told me that he was actually in charge of the division of continuing learning to make sure that like agents just like continue to learn on the new data so they don't hallucinate
+01:50:00 | But it's so fundamentally hard because models are already so so big that it would be like it would take a lot of compute power and we're not here yet to just like enable and give that opportunity for models to just like ingest new data on the go
+01:50:13 | So first Collison installations then I met Karpathy and yeah had like even more motivation from that conver-conversation
+01:50:27 | Yeah so Collison installation uh Patrick Collison John Collison uh founders of Stripe it literally means that those brothers during the early days of Stripe because it's a developer tool that required onboarding they would come to people's offices and sit by their side by taking out their laptops and installing Stripe on other people laptops to see how they use the product if there are any issues
+01:50:50 | and yeah just like a very unusual experience 'cause yeah it's really rare that the founder himself would come to your place and install a software on your laptop
+01:50:58 | Uh 'cause it creates this like tight like feedback loop 'cause you can ask anything right on the spot and you can like see the person in real life
+01:51:06 | So it's it's just like a special moment of yeah collaborating together and getting the
+01:51:22 | Yeah start at start of the batch
+01:51:23 | Before that I was just like watching a bunch of Collison brother interviews
+01:51:27 | I I really like the founder Patrick like he's great
+01:51:29 | And in one of those he mentioned that like he would do that during early days of Stripe
+01:51:34 | it was like a lecture he gave in two-2000 something I think
+01:51:37 | But yeah that's how I uh discovered it for myself uh instead of reading it in PG's essays because he also wrote about it
+01:51:45 | Uh so yeah
+01:51:51 | Yeah beginning of the YC batch
+01:51:53 | Yeah like July like beginning beginning of July
+01:51:56 | Yeah
+01:52:02 | One of the first was Reacher from my batch really cool guys
+01:52:05 | We we still stay in touch
+01:52:07 | Uh they're really really supportive and they were one of my first customers
+01:52:11 | Um I came to their office and they were so impressed that like they immediately tweet-- like uh shook my hand shook my hand uh tweeted about me saying like "What the fuck
+01:52:19 | Like cool kid came to our office to onboard us." So yeah I spent like one hour with them at their office just like trying to explain what what I'm doing uh how it can help their engineering team and ended up getting them as a customer
+01:52:32 | Um so yeah
+01:52:40 | Uh it really depends
+01:52:41 | It might take like up to one hour can take 30 minutes
+01:52:44 | It's like it's like uh if the person you're trying onboard just like has free time like to listen provide feedback and also like of how uh determined you are to like get that feedback
+01:52:56 | So yeah
+01:53:06 | Yeah yeah
+01:53:08 | I'm still I'm I'm still trying to figure out the cor-correct pricing
+01:53:10 | Like I'm so bad in like actual enterprise sales it's crazy
+01:53:13 | So I still have a lot to learn and like uh get a lot of mentorship
+01:53:17 | And like one of my YC partner was telling me like "What are you doing kid
+01:53:21 | Like you sh-you should charge more
+01:53:22 | Just like put a crazy price and see what people like how they react." Uh 'cause you you would get more information from that rather than like just like putting $15 $50 price
+01:53:32 | So yeah I experimented with people during the batch like $500 $2.5K $150 20
+01:53:40 | Uh but yeah them I charged like 150
+01:53:43 | So yeah during the batch it's just like a lot of experiments and testing hypotheses.Yeah during the batch yeah it w-- it it's not the craziest number
+01:53:59 | It was like around twelve K by demo day twelve K MRR
+01:54:02 | Uh so yeah
+01:54:22 | so are you saying like why being next to the customer like is better basically
+01:54:30 | Uh yeah
+01:54:32 | Yeah like yeah it's definitely you would only do that in the early days because that-- things that don't scale
+01:54:37 | yeah it's just uh helps with iterating over the product 'cause you literally see that person in front of you
+01:54:43 | You can ask any question right on the spot and get real-time feedback
+01:54:46 | So that's like the only reason
+01:54:48 | And also you can make like more friends
+01:54:51 | Yeah it it was fun
+01:54:52 | I made-- I took a lot of pictures
+01:54:54 | Uh it went viral on Twitter
+01:54:55 | I would post every single colors and install I would do and also give merch to those people
+01:55:00 | So yeah just like a wholesome moment and also uh getting the product out there
+01:55:04 | So
+01:55:19 | Uh but that like I mostly did it to batchmates and like previous YC founders so it's already a community
+01:55:24 | I saw them like yeah uh YC founder they're like early adopters
+01:55:29 | They will better understand the technology compared to like anyone else
+01:55:32 | So yeah I just thought of them like as a potential customer and also a friend I might make on the side
+01:55:37 | Uh yeah
+01:55:52 | Yeah uh got rejected zero times 'cause I didn't ask anyone to come to their house
+01:55:56 | They all like uh I only got inbound from Twitter
+01:55:58 | Like people would like DM me on Slack or Twitter "Hey can you come to our place
+01:56:02 | I saw you were doing this thing on Twitter
+01:56:04 | Uh we also wanna get one." So yeah that's pretty much it
+01:56:15 | Yeah yeah
+01:56:27 | I mean like 'cause 'cause like 'cause I started out with my own YC batch like we were talking about our products on like events and stuff so people would just be interested and say like "I wanna try it." Like "You wanna come to our place
+01:56:38 | We're like free on this day." So that's how it happened
+01:56:41 | And then people like more people started reaching out
+01:57:00 | I I definitely Yeah I'm I'm more like focused on discovering like how to do like more sales or like pursue more startup motion
+01:57:07 | So I'm still like in the exploration phase
+01:57:09 | And I started doing less of those because I was mostly focused on the product
+01:57:12 | And also I wasn't in the SF for like four weeks during October
+01:57:16 | But once I'm finally back I can continue doing those
+01:57:19 | But those are like definitely less uh compared to YC batch 'cause there are like a lot of other stuff that I have to manage
+01:57:37 | Uh these days yeah like for the past three weeks I was really trying to improve the prod-product uh 'cause it wasn't unpolished
+01:57:43 | Like the onboarding was really really bad
+01:57:45 | and yeah I was just like working on that wake up code
+01:57:48 | Definitely like spend more time with like sales just like discovering talking to people asking for introductions to my invest-- like from my investors
+01:57:55 | And like this month I'm probably gonna spend more time on sales
+01:57:58 | so yeah
+01:58:00 | Uh try to like do it equally or yeah sometimes like whenever I have time try to uh optimize for one thing
+01:58:27 | Uh yeah I try I try to work even harder and like spend more time on sales
+01:58:31 | So yeah it's definitely gonna grow in the future
+01:58:34 | So yeah
+01:58:40 | I mean yeah it's like I came uh I came back to SF recently so I wanted to spend more time on the product like until start of December
+01:58:46 | But yeah right now yeah it's uh a a lot of things to manage
+01:58:50 | also like started hiring a couple people um potentially and yeah yeah combining combining
+01:59:09 | I mean right now like the best time of like when one-person team can outperform entire organizations with agents
+01:59:14 | Like even like I know another solo founder who PG invested in he recently closed ten point five million round and he's still solo
+01:59:22 | He trained his own model that bet uh that beat GPT-4 like couple years ago um like as a solo founder like no employees whatsoever uh because we both automate a lo- a lot of work with agents
+01:59:33 | And so it definitely helps with like balancing out work
+01:59:36 | For example putting like an agent coding agent to like execute some task or like finish a feature while you're like more on the sales side
+01:59:43 | So yeah those def-- those help a lot
+01:59:53 | Yeah Yeah
+02:00:22 | I mean sales is the best validator of like whether your product actually brings value to the world
+02:00:27 | So try to spend a lot of time on sales and like actually getting the product out there
+02:00:31 | Uh 'cause like if people are willing to pay money that's like the best uh validation factor that like the product is is actually useful
+02:00:38 | So definitely spend more time on that until you master it
+02:00:41 | So don't like try to outsource sales until you fully know how to do it yourself and have some some sort of structure
+02:00:48 | So yeah definitely prioritize sales a
+02:00:58 | I mean as you go further down the line of like the company scaling uh maybe like the priorities just change
+02:01:04 | Founder like goes into more exec CEO role so like mostly focused on yeah the corporate structure business
+02:01:11 | But in the early days you have to do everything at once and prioritize everything also like at once
+02:01:16 | It's just like how it works when you're going from zero to one
+02:01:55 | Uh I would say the limit comes down to like if you got crazy amount of customers to manage like that's really really hard to do uh as a solo founder
+02:02:03 | So that's like when you probably start hiring some more people like engineers for example
+02:02:08 | But as we do-- as we like AI improves exponentially every single year I like I'm really really bullish on one person billion billion-dollar companies in the next ten years
+02:02:17 | Like I'm pretty sure there'll be one
+02:02:18 | Uh who knows maybe I will be one if I'm gonna stay solo
+02:02:21 | Uh but it's just like crazy how much work can can be done with agents
+02:02:25 | So I think like every single year the team size will decrease
+02:02:30 | So yeah AI's progress go like this team size will go like this
+02:02:57 | Uh it it was just like a mini validation like talking to the pro-- like one of the best minds in AI like ever ever ex-- like whoever existed
+02:03:05 | yeah it didn't like fully put me in one direction
+02:03:07 | It was just a good validation factor that like made me work even harder
+02:03:11 | Uh so yeah it wasn't like life-changing meeting that I that I took with Karpathy
+02:03:15 | So yeah
+02:03:38 | Uh I would say generally for solo founder keeping yourself uh consistent and accountable and just like not going crazy is really important
+02:03:48 | Like personally for me it's very easy
+02:03:50 | Like I'm uh yeah even if I'm solo like I'm not gonna go crazy
+02:03:53 | Like but I know a lot of people they start stressing out a lot they cannot handle everything
+02:03:58 | They just like go yeah go go out of their way to just like find someone
+02:04:02 | So that's like one of the problems
+02:04:03 | Uh another thing is that like when you just have a lot of a lot on your plate like even filming a launch video like making job applications like if you wanna start hiring uh product sales
+02:04:15 | So like combining all of that and like finding the balance is really hard also
+02:04:19 | But again with agents it becomes way way easier
+02:04:22 | So uh yeah I would say those two things
+02:04:24 | metrics
+02:04:27 | Uh I I don't I don't really like yeah re-- like just sharing them publicly
+02:04:31 | But yeah one day one day I'm gonna I'm I'm gonna show them
+02:04:34 | Yeah
+02:04:51 | Oh yeah
+02:04:51 | Uh another thing that went kind of like viral on Twitter is that uh I like when I came to SF I slept on an air mattress
+02:04:58 | Uh a lot of founders do that when they just come to SF
+02:05:00 | But I said like "I'm gonna buy a blanket and a pillow once I raise my seed round." So when I raised my seed round after YC I bought a blanket and a and a pillow
+02:05:10 | And after that happened I posted I made another post saying "Okay for my series A I'm like I'm gonna buy an actual bed frame and make a bed." So yeah it's it's just like really funny because I don't really care about like how my bed looks
+02:05:22 | I just need somewhere to sleep
+02:05:24 | I can I can sleep on the floor easily
+02:05:26 | Uh so yeah just like a funny thing
+02:05:41 | Uh at this point it's just like funny
+02:05:42 | Yeah I I don't need a bed frame
+02:05:43 | Like I have a mattress uh at this point
+02:05:45 | Yeah I I yeah it's just like it's just funny if like I raise series A or I don't know uh hit like some crazy revenue milestone and post on Twitter like "Hey finally bought got a bed frame after like couple years of building." Um so yeah it's just it's just funny I I have the finest time right now
+02:06:22 | Like I'm so so genuinely excited about what I'm what I'm doing right now and why like that I pursued this path
+02:06:27 | I couldn't be more grateful and like I don't see myself anywhere else
+02:06:31 | Uh people ask me like "What would you do if you didn't become a founder?" I never respond to that 'cause I just like don't see another possibility of that like not happening
+02:06:39 | So yeah I'm really excited
+02:06:42 | Uh and I know like I'm gonna get punched into the face a lot
+02:06:44 | I'm gonna I'm gonna cry a lot I'm gonna sweat a lot and I'm gonna like l-lose a lot of blood
+02:06:49 | But it's like genuinely exciting because you can im-impact like all of humanity
+02:06:54 | Even what I'm building right now might like sound silly to someone else that is like some developer tool but I have like a much like much better vision for the product and just like what I wanna do in the future
+02:07:05 | Because there are definitely like a lot of areas like spa-space or energy that are like also really really really really cool
+02:07:11 | And life life doesn't stop on just building one product
+02:07:15 | So yeah
+02:07:23 | Yeah so first 'cause of the like the AI specifically tailored to that I think context is like one of the most important problems to reach uh AGI and I really wanna solve that
+02:07:59 | There are lot of layers that come to the context layer and I chose to start with coding space because it's so crowded right now and there's like a lot of opportunity
+02:08:07 | And definitely going after every single domain in the future is definitely a possibility uh because every single agent on the market needs a proper context otherwise they cannot pr-- like function properly
+02:08:17 | 'Cause you need company data you need all of the knowledge that your team has
+02:08:21 | And all of the solutions right now they're really good
+02:08:24 | There there are some like really good ones but I I just like still think there should be more like context engineering done um on that layer
+02:08:32 | So definitely explore more in that and yeah just really really contribute to achieving AGI in the future
+02:08:39 | And 'cause it's just like yeah AI is uh another thing that happened to people in like '90s and early 2000s when internet came out
+02:08:48 | So it's genuinely exciting and wanna contribute and be on the
+02:09:15 | first of all I'm not hireable
+02:09:17 | I'm never gonna work for someone else
+02:09:18 | Even if someone offers me one billion dollars I'm not gonna work for someone
+02:09:22 | Yeah I would rather make twice the-- like I would rather make couple thousand dollars every day uh by working for my-- like by being a founder rather than like work-- being employed and getting millions of dollars
+02:09:33 | I just don't I just don't wanna live that lifestyle
+02:09:36 | And also like smaller organizations and startups they generally right now because of AI and all of the possibilities they can outperform entire organizations
+02:09:44 | And Meta is not uh Meta is not an exception
+02:09:48 | Like their lab is great they have a lot of talent but um I haven't seen them delivering that much
+02:09:54 | like most of the companies that are frontier they're small labs
+02:09:59 | Uh okay not that small OpenAI for example but they still kind of like operate as a startup
+02:10:04 | So yeah I still think like uh we're winning on that
+02:10:18 | Yeah
+02:10:18 | If if Nozomi succeeds uh every single AI system will have will have a contin-continuous learning memory that they can continuously ingest ingest ingest data in themselves not just like from general pre-training data that like LLMs are trained on right now from the web but really really personalized context from their documentation from their code bases from their knowledge bases from their company data and just like continually improve themselves
+02:10:42 | Right now it's really h-- really hard to combine all of those systems together but if we're gonna achieve that uh it's gonna be a very personalized and like perfect system that will know your company know everything about yourself and also help during your workflows
+02:10:56 | So that's that's what I wanna do
+02:11:18 | I would say when you build something and you see people using it and talking about it that's like one of the best feeling feelings in the world
+02:11:25 | Where I just get an email at three AM from someone leaving a feedback saying "Your product is fantastic
+02:11:30 | It saved me X amount of hours." And that's like genuinely so motivating
+02:11:34 | Like wants wants me to work ten times harder compared to like uh any other feeling like raising a round getting an investment
+02:11:43 | 'Cause like genuine interaction with the customer and potentially like potential user customer is what makes it really really worth it uh because you're building for humanity not for investors or like any-anyone else
+02:11:56 | Uh so yeahWorst and hardest
+02:12:10 | Uh let me think let me think
+02:12:12 | I would say um like officially I did come-- like some project on the side
+02:12:18 | I wouldn't call them a startup so I can technically call myself first-time founder
+02:12:21 | So just like learning a lot of stuff especially like on the legal side of things
+02:12:25 | I had to go through a lot of legal bullshit uh with like investors in the start of the company
+02:12:33 | Uh all of that together like yeah made me made me a little bit stressed because I made a couple of mistakes that I'm not allowed to share but they like slightly fucked up
+02:12:41 | like my Didn't didn't fuck up the company in a bad way but just like caused a lot of trouble for the short period of time
+02:12:48 | So yeah it was a little bit stressing but it all works out in the end so yeah
+02:13:15 | Yeah
+02:13:16 | Uh look around
+02:13:17 | Every single human that e-ever existed on this planet founding fathers who built America all the presidents Steve Jobs Elon Musk they're the same people as you
+02:13:26 | They just were really really curious and they stayed curious during their childhood during their adulthood and when they were adults
+02:13:31 | They just like keep exploring
+02:13:32 | So if you just put it in your brain in your head that all of those people are identical but they're just like more curious and more eager to explore the world you will realize that you can operate at the same scale if you'll just go do the thing
+02:13:45 | So like Nike or what company has this like saying "Just do it." So you you li- you literally have to do it and realize that uh like every single person came through the like had the same experience of going from zero to one uh not believing in themselves getting punched into the face not coming from money
+02:14:03 | So all of those things combined you just have to realize that and yeah continue pushing
+02:14:08 | And that's like that's what makes a great founder great story and a generational company
+02:14:26 | Oh yeah
+02:14:26 | It was like one of the best years for Kazakhstan apparently
+02:14:29 | Uh 'cause a lot of people got into YC first like me and couple of my friends who did winter batch
+02:14:34 | that's first
+02:14:35 | Second we got our first unicorn
+02:14:37 | it's called Higgsfield AI
+02:14:38 | They also just crossed one hundred million ARR and like most of their team is based from Kazakhstan so that's also a very good achievement
+02:14:45 | Uh and there are definitely more and more kids in Kazakhstan who are like really young and want to pursue their dreams uh after like seeing other founders succeeding
+02:14:55 | Uh not specifically me
+02:14:56 | I don't-- I'm-- I didn't succeed but still like kind of can show to other and younger generation in general like you can just like put your boss on the line and just like risk and go do it
+02:15:07 | So uh it's really cool to see that like more people uh want to go towards that path instead of like uh living a boring life
+02:15:14 | So
+02:15:27 | Yeah
+02:15:27 | I want to build the most impactful thing
+02:15:29 | Like the the what I chose right now is like a-- I want to take it to IPO
+02:15:34 | I want to become a public company
+02:15:35 | But like still Elon Musk manages seven companies and he manages three companies full-time
+02:15:41 | Like why cannot someone else do it
+02:15:43 | 'Cause I know he's crazy his work ethic is crazy
+02:15:46 | But Jeff Bezos he also has a space company Blue Origin and he manages Amazon
+02:15:50 | So there are like definitely more opportunities except like just narrowing down the field and looking at one thing
+02:15:55 | But it's gonna come in the future once I have more experience
+02:15:58 | And uh yeah there are definitely like more s-- more more places to explore
+02:16:02 | And I'm really interested in space
+02:16:04 | Like uh that wa- that was also one of my things I was really curious about since childhood
+02:16:09 | just like Elon Musk's like ultimate goal of ma-making life multi-planetary that really resonates and uh sounds really really interesting and worth spending time for
+02:16:21 | So yeah
+02:16:56 | it's just like people limit themselves
+02:16:59 | That's that that's the only thing
+02:17:00 | Like that's the only thing
+02:17:02 | People limit themselves and they think that there are people who were born with the talent of dreaming big and they cannot do that 'cause they're they're just like not born or like not meant for that life
+02:17:11 | But it it's just like sits in their head
+02:17:13 | They have to go through that limit and break the barrier
+02:17:15 | And yeah once again just like go do it
+02:17:18 | So that's like the only piece of uh advice I can
+02:17:31 | Something I knew earlier
+02:17:32 | Uh yeah I would say like start starting um If I would go back like ten years I would start coding earlier
+02:17:41 | My dad when I was around nine or ten years old he told me like "Son uh future arti-- like future is like artificial intelligence
+02:17:49 | Uh coding is really really important
+02:17:51 | It might sound boring at first but like I really want you to learn how to code in like low low low-level languages like C++ C#." I didn't ca-- I I didn't care at all
+02:18:01 | I I just wanted to play video games
+02:18:02 | So if I would go back in time I would definitely learn how to code earlier and maybe I could I could have like built more projects uh while being a kid
+02:18:11 | So that's like the only thing I I think I would I would change
+02:18:14 | But yeah otherwise I'm
+02:18:29 | Oh yeah a lot of people love romanticizing the founder life
+02:18:32 | They just like put it out on social media "Hey just like raise this round
+02:18:35 | I'm gonna spend all of that money and go to Maldives." But it yeah it's it's not like that
+02:18:39 | You just work all day
+02:18:40 | It's it's really hard
+02:18:42 | My my heart hurts my brain hurts every single day uh 'cause it's like it's really scary what's like gonna happen in the future 'cause company's like literally like your baby and I treat it as like my son
+02:18:54 | And yeah it's just like a lot of responsibility that comes after that after being just a kid who had his parents like buying ki-- buying him food living at the same house under the same roof and now like you're alone in the wilderness building a company and like trying to literally change the future of AI
+02:19:09 | so that's like the hardest thing that like there's just like a lot of responsibility and people love to like make it glamorous and think it's really cool
+02:19:16 | Uh so that's why there are a lot of like fake founders fake startups out there
+02:19:20 | Uh so yeah
+02:19:31 | Yeah yeah yeah
+02:19:32 | Uh I don't work twenty-four/seven
+02:19:34 | Like I sleep seven hours e-every night
+02:19:36 | I think sleep is really important
+02:19:37 | But yeah uh I try to work a lot
+02:19:41 | I don't love just like sitting without a purpose
+02:19:44 | I still have those periods where I can just like scroll TikTok or Instagram
+02:19:48 | Like I'm gonna admit uh it's it's it's really addicting
+02:19:51 | But yeah I try to work every single waking hour
+02:19:54 | Uh it might-- I still need a lot of practice on that side but one day I will get there
+02:19:59 | And it's just like a good practice like pulling out your laptop in a public s-- like public place while you might have get like while you might get distracted usually but try to like find focus become more disciplined
+02:20:10 | So that's like why I joked about yeah having twenty-four/three-six-five instead of six-six six-six-nine or like what whatever bullshit people are using
+02:20:27 | Yeah
+02:20:27 | Uh so yeah
+02:20:29 | Hey everyone my name is Arlen
+02:20:30 | I'm the founder of Nozomio and we're a product lab building context super intelligence with our flagship product called Nia uh which is an API that reduces code hallucinations in coding agents like Cursor so developers and companies can ship faster and save from two to five hours per person per week
+02:20:48 | Um and yeah I was the I was the founder and participated in the YC Summer 2025 batch
+02:20:55 | High school dropout uh recently quit eleventh grade aim-- and relocated to San Francisco got my O-1 visa and now I'm full-time building uh in the best city on
+02:21:16 | Yeah
+02:21:16 | Uh Nozomio is a product lab building context super intelligence trying to solve context for AI systems and make it more reliable
+02:21:23 | And Nia is our first product which is uh which is a plugin for coding agents that allows them to reduce code hallucinations by fetching the latest technical documentation from the web and from GitHub so agents can hallucinate less less because of their training data that when you try to implement a feature uh Cursor for example it will search for its own training data which is stuck in the past
+02:21:47 | So Nia essentially helps with that uh by giving the most up-to-date documentation for agents

@@ -1,0 +1,781 @@
+﻿1st filming full script
+00:01 | Hey how are you guys
+00:04 | Good
+00:04 | Nice to meet you
+00:05 | Um sorry that I'm a couple minutes late
+00:08 | I was just setting up
+00:10 | I don't-- I usually use another browser so I was setting it up
+00:16 | Awesome
+00:19 | Yes for sure
+00:21 | I'm just trying to Okay is there a way Okay there we go
+00:26 | Now I can see the full Hello
+00:47 | Okay awesome
+00:57 | Hi I'm Anna
+00:58 | I am the founder and CEO of Paradigm and we are building AI for spreadsheets that help automate a lot of very tedious manual data collection and busy work
+01:10 | Yes
+01:10 | So essentially when you are working in So we are building a new type of workspace which means that we unlock a lot of things that previously weren't possible but distinctly we help automate a lot of very tedious manual web research and data collection
+01:33 | So the big thing about Paradigm is the scalability of it
+01:37 | Whereas you know in something like a search engine or ChatGPT you can ask one query at once
+01:45 | But if you set up a Paradigm spreadsheet basically every single column can send off an agent that's gonna go out and do research and bring that information back
+01:57 | So it's a very scalable way to automate really like complicated um research workflows
+02:04 | So I guess we can do in some cases ten thousand cells in a minute
+02:12 | So I would say it could be up to 10,000 times faster than manually doing it if it takes you a minute to fill in every cell
+02:23 | Um it is much faster than doing it any other way
+02:27 | Yes
+02:28 | So I was prepping for a launch that we're gonna do
+02:33 | We're going to launch a free tier of our product so I was working on the video for that launch
+02:39 | Yes
+02:40 | So we have raised 7 million in funding
+02:44 | Our seed round was led by General Catalyst and we're backed by a bunch of o-other awesome investors such as Y Combinator
+02:51 | And our team is recently 10 people
+02:54 | We just had our tenth person sign so we're very excited about that
+02:58 | In terms of volume we have we have thousands of users on the product
+03:06 | I can't say exactly how many um but we have been growing very quickly recently
+03:12 | And yeah we're kind of steady state doing hundred-- hundreds of thousands to millions of cells per week on the product
+03:21 | Yeah so I guess our We we've done the-- We've done a bunch of different video concepts in the past but for this one we are thinking a little bit more big picture and kind of trying to share a little bit of the meaning behind Paradigm
+03:40 | So imagine that the video kind of shows a world before Paradigm and a world after Paradigm
+03:48 | that's that's the gist of the concept
+03:50 | Um but yeah I I've-- I really like doing creative marketing so it it's been very fun to work on
+03:58 | Um also um my teammate Chloe has been been a big help on this
+04:03 | Yeah
+04:04 | I think that I strongly believe that there is going to be-- every existing software primitive is going to have a AI-first version that becomes pervasive
+04:20 | And I think the biggest opportunity in that space is to kind of reinvent the platform or the workspace the place where you're doing a large majority of your work
+04:33 | And I think for me it's definitely about this like broader vision of really building a new type of AI-first workspace but also about like the little moments of talking to customers every single day
+04:48 | so I think in the moment a lot of it is just like the feedback we get
+04:54 | It's kind of crazy
+04:55 | I've never seen people be so thoughtful about a product
+04:59 | Like I'll get these emails that are like this big with with thoughts and feedback and it's really energizing to see how our product can kind of be this like canvas where people think of other ideas and things that they would want
+05:15 | so yeah it's a combination of really believing that this type of tool will like uh empower individuals to make a massive impact and really like scale themselves out by leveraging parallel AI agents and also just like the little things of talking to customers every day and and seeing how the product affects them
+05:37 | Yeah so I think that a lot of it is basically the ability for people to extend their own reasoning
+05:48 | Um so I think like when I think about work the most high leverage thing that people should be spending their time doing and the thing that should never be automated away to AI is a lot of the decision-making and reasoning that goes into work
+06:06 | And I feel like setting up the columns on Paradigm is that decision-making process of like what information do I need to come to a decision and how am I gonna get that information
+06:19 | And the actual like cell by cell filling out of each data point is like the monotonous tedious dreary busy work that shouldn't exist
+06:31 | so the way that I see Paradigm is kind of taking the most important part of how people think and giving that like kind of being a force multiplier on that thought process but taking away like all of the worst lowest leverage parts of work and magnifying the parts that are really unique and and differentiated about the way that that people think
+07:04 | Yeah for sure
+07:05 | Um so 24 hours
+07:09 | Basically last night I was-- I actually was celebrating a close friend's birthday which was very nice who's like a friend that I have met through through startup stuff
+07:22 | That was like 10 PM last night is I guess 24 hours ago exactly
+07:27 | Then after that um got back to work
+07:31 | basically I like to spend a lot of time on Sundays just like prepping for the week and particularly figuring out like a lot of decisions on like what the most important things we need to do as a company are and like how each person fits into that puzzle of like getting a massive amount of things done
+07:52 | And then this morning I went to Barry's with June our CTO at 7:30 AM
+07:57 | Um we're very into like intense HIIT workouts so that was very fun
+08:02 | and basically the entire day was like back-to-back meetings
+08:07 | Um a couple like customer meetings and demos in the morning and then a lot of-- We also do like all of our planning on Mondays so we do like all-hands and meet with a bunch of different people on the team and really get things going
+08:22 | and then I had a brief moment to work before this interview
+08:27 | Um but yeah night times are when I actually do a lot of my very focused work 'cause it's usually pretty back-to-back during the day
+08:35 | Yeah so I taught myself to code in high school and I was doing P5 JavaScript
+08:44 | It's like a very simple front-end visual JavaScript library andI think I originally became interested in coding because I wanted to build games
+08:56 | I was very like addicted to playing games um maybe too much like during class in high school and and that sort of stuff
+09:04 | And I also really like design
+09:07 | so my idea was I just wanted to like recreate the games that were kind of simple that I played all of the time like on my phone or on my computer
+09:19 | so I think Flappy Bird was one of the first like real recreations of a game at the time
+09:28 | was like extremely popular but I made a bunch of like different modes of it like you know Arctic mode where I made like a little penguin or desert mode where there were a bunch of like cool like sand creatures
+09:42 | Um but it was actually insane because to make the front end of this I just like drew each individual like shape with JavaScript
+09:51 | Um so it was very very different than you know like how I would build something like that today
+09:56 | But it was-- I I was still kind of shocked that I could from scratch make it work
+10:03 | And I would make these like leaderboards
+10:06 | There was kind of this like mult-- I I published them so I had like all of my friends playing it
+10:12 | There were leaderboards and it was extremely addicting
+10:16 | Yeah I made a bunch of games after that in high school as well
+10:19 | Yeah I think it was just extremely addicting
+10:23 | Like I would say that I was just addicted to like the demo the process of like showing someone what I made and it actually working
+10:33 | Um I'm trying to think of The scale wasn't literally not that big
+10:38 | I mean it it felt big 'cause I went to a very small like high school in New York and like I would look around and like half the class would be playing it but our class was like 20 people
+10:49 | So you know it was on the order of like under hundred people for sure
+10:53 | But it was still super special 'cause it was like all of the people that I cared about and were just like my friends and thought it was cool
+11:01 | and yeah after that I start-- I started building a lot of different types of games and I got really into AR and VR
+11:15 | I made like escape rooms with like an Oculus Rift headset
+11:19 | there were so many more things that I got into after that but um definitely like simple simple JavaScript games were were the start
+11:35 | I'm trying to think
+11:36 | I must have been like 14
+11:38 | I was I was pretty young
+11:39 | It was the very beginning of high school
+11:53 | Yeah
+11:54 | I think I was just very very curious growing up
+11:58 | I was always kind of like a weird science kid
+12:02 | Like I bought a bunch of science books and I was like a very-- or I guess my parents got me a bunch of science books when I was like very young and I had like a list of periodic table elements like above my bed that I would just like study at night like weird things like that
+12:21 | Um and I think the thing that's just unbeatable about programming and probably my favorite thing about it is there's just no boundaries on on like what you can do
+12:35 | I feel like with building physical products you know you have to get certain materials or certain machinery
+12:43 | With software it feels like if you have a computer there's basically nothing that can stop you
+12:50 | so I just love this feeling of of being unstoppable
+12:54 | And I think eventually I did actually incorporate it into school
+12:58 | Like I took like creative programming classes and was very very into Science Olympiad
+13:05 | And then I actually think that I turned a lot of school projects into coding projects like those open-ended projects that were like "Do something creative about this book," and I would just code some-- A-any chance I got I would basically code something
+13:23 | so yeah I think I just loved um the the process of of seeing something that was in my head become real
+13:58 | I So actually my friend at the time roped me into my first hackathon and I was very confused at first
+14:06 | I w-I wasn't the most exposed to the hackathon world in high school so I actually at first was like "Okay what's a hackathon
+14:14 | Does this mean we're like breaking into something
+14:17 | What is this?" And then I found out that you just code a project and I was like "Oh okay
+14:22 | So it's basically the thing I do even without this structure
+14:26 | That sounds great." and I think the the most interesting one was the first hackathon I participated in I actually won and it was really motivating
+14:40 | I had two other people on my team so it wasn't just me
+14:43 | But it was really motivating because that particular hackathon it wasn't I was in high school but there were like post-grad people there there were grad students there were college students there and it really helped me recalibrate what I had learned kind of seeing it um in a state where you know I realized that I actually had like a very sh- I guess innate talent for this sort of thing
+15:14 | Otherwise I probably wouldn't have been able to to win with my team against all these people that were way more experienced than us
+15:22 | And the thing that we won was actually really interesting as well
+15:26 | We won a tour of the Google New York office
+15:30 | And in my case my parents weren't n-necessarily in tech
+15:35 | They always supported me in doing techy things but my mom is a tenth-grade English teacher and my dad is a lawyer so I had never been to a tech office and didn't really know that working at Google was a real thing that people could do or what it was like
+15:52 | And the Google New York office is actually magical
+15:55 | So when I walked in at the time I was set
+15:59 | I was like "This is exactly what I wanna do." and yeah it was it was really cool
+16:06 | And uh then actually my freshman year I like made it my goal to to intern at Google my freshman year of college and yeah it worked out
+16:17 | So very very full circle moment there
+16:20 | I think it was 2 things
+16:21 | The first was that I actually loved the fact that you were rewarded for like staying up all night and doing something crazy
+16:30 | Like that level of ridiculousness just like resonated a lot with me
+16:34 | So I I literally think we slept for like 20 minutes
+16:38 | That might have been my first like real pure all-nighter
+16:41 | We were just completely all in um and with no expectations too
+16:47 | I was all in whether we got last place or first place
+16:51 | I had no idea
+16:52 | and I think the other part that I really really liked was um my team took design very seriously
+16:58 | So we had someone on our team that made like custom graphics and animations for the game that we were making and I think that is a big part of why we won just like taking the craft and design of the project super seriously
+17:13 | So I'm very glad we did that also
+17:17 | It was like it was very odd looking back
+17:20 | It was a game that taught people about solar power
+17:25 | It's like an educational game where you literally would move like the photovoltaic cell through the like a maze and you would unlock different levels of things
+17:38 | Um but it was just a very cool creative educational game
+17:42 | Yeah
+17:43 | Actually my friend wasn't from my school so I met her through an internship that I had at like a ro-- mechatronics robotics lab at NYU
+17:56 | So I just met her through that and it was cool
+17:59 | I think that you I guess for me I've always found that going a little bit out of my way to find people with similar interests pays a big dividend and that was definitely one of those examples
+18:11 | Um I think that most of my friends were just very smart and interesting people that were just happened to be interested in slightly different things than me
+18:24 | So a lot of my friends from high school are in really intense finance jobs right now or working in politics or all different sorts of things
+18:36 | Not many of them ended up in tech
+18:38 | Um I'm sure not none of them
+18:40 | But yeah I always kind of had a a very varied friend group at least in high school and then towards the end of college I I kind of found a lot of tech people
+18:52 | I went to Marymount
+18:54 | It's a um private school in New York
+19:36 | I think in high school I was still very early in realizing that I wanted to do startups
+19:44 | I was broadly interested in running a company and these sorts of things but more on a conceptual level not at the level of oh I had thought through every single step of what it would take to found and build a company
+19:59 | So I was still exploring a lot at the time that I was going into college and I did take a lot of Like I learned a lot about engineering in college actually especially in my first 2 years
+20:13 | Um so I think it was during college that I realized that I wanted to be a founder for sure
+20:20 | In high school I still you know as I mentioned I thought that I would end up working at Google at at a best-case scenario but um I I took some detours from there
+20:33 | I don't know
+20:34 | I think it was just a symbolic thing of the concept of working on products that impact billions of people
+20:45 | It was just extremely exciting to me
+20:48 | I know there's a lot of other tech companies that you can do the same thing but something about Google it just I mean I do think it has like one of the highest bars for engineering out of any big co- tech company
+21:00 | So I I don't know
+21:03 | I think it's symbolically it just felt right
+21:06 | It was just a gut instinct thing and I'm very glad I did intern there because that's actually where I met my my CTO of Paradigm was was from Google
+21:15 | He was actually my manager there
+21:18 | It's just the best vibes
+21:20 | Vibes matter a lot honestly
+21:22 | I went to University of Pennsylvania and I studied computer science
+21:27 | That's a good question
+21:29 | I think the first thing I built was an attempt to build my first company and it was to solve a problem that me and my friends had faced many many times which was it was so hard to you know in like massive groups of people just like split the bill at a restaurant
+21:50 | So we wanted to start a company that that solved this problem integrated with POS systems
+21:57 | It was called Groupie because of the concept of like you're with a group and you wanna split up
+22:03 | Um and yeah that was the first time I attempted to build like a full stack app end-to-end product that would hopefully serve a lot of people
+22:17 | Um didn't end up continuing with that idea but it was an amazing learning experience
+22:24 | Yeah I think that I cared a lot less about exactly what I built and I just had this addiction to just building something at all times
+22:32 | I was often working on you know 2 to 3 things at a time
+22:36 | I think Paradigm is the first time in my life that I am not working on more than one thing and I'm just completely locked into one thing
+22:43 | So I think it was just a stream Like building projects is just my kind of stream of consciousness
+22:50 | There was always at least a couple going on
+22:53 | and I was interested in a lot of things and just learning a lot of things kind of refining my interests these sorts of things
+23:01 | So Ripple was an app that came about during COVID and the big problem that I actually started college in the middle of COVID and the big problem that my co-founder and I noticed was that when people were on a Zoom screen with like a large number of people the way that they would make friends is by DMing people in like a massive Zoom lecture
+23:26 | Imagine 3 hundred plus people in a Zoom room
+23:29 | And this is genuinely how I met some of my best friends from college
+23:34 | And when we got back to campus so we didn't only have class on Zoom but everyone was wearing masks and like we still had to kind of keep our distance at least in in the classroom setting
+23:46 | So the app basically you can open up your phone and see a list of all the people around you and kind of view their profiles check out their interests and- reach out to them or save their profiles
+23:59 | So it was kind of like this social feed
+24:02 | You also had a feed where people could post what was happening around campus social feed plus location
+24:08 | Um and the goal was for just to kind of inspire people to meet the person that they would have never met if they hadn't sit-sat directly next to them or these sorts of things
+24:22 | It was kind of crazy
+24:23 | I think we got up to 23% of all of Penn was on the product
+24:30 | And yeah so it was extremely pervasive
+24:35 | Um it it felt like genuinely everyone around me was was on the product so that was really awesome
+24:43 | And then we took it to a bunch of other schools as well
+24:46 | Um I think we had at least over 5,000 users but it it might have been over 10,000
+24:53 | I honestly forget
+24:55 | Um no we we didn't sell the company
+24:57 | but yeah
+24:59 | We were considering it
+25:00 | Um we were considering selling the IP of the company but we honestly just kind of wanted to let the app like stay out there and and see what would happen
+25:11 | Yeah
+25:13 | I think that like when you um when I was thinking about like what would be like the most impactful and meaningful thing to me I think that Ripple fell more under the bucket of this is something that's really interesting and going to teach me a lot right now
+25:31 | But it wasn't exactly like the the main thing that I wanted to spend the rest of my life working on
+25:39 | So I think it was more of a like learning experience for me as opposed to something that was like far far more serious that I wanted to pursue indefinitely into the future
+25:52 | And honestly I think that even in its best form it had no chance of like living up to kind of the the scale and the scope of what we're doing right now with Paradigm
+26:05 | So it was still very early in terms of exploring what I wanted to do long-term
+26:10 | Yeah it was it was kind of ruthless
+26:13 | I basically for the first half of college I was getting a lot out of classes and I was obsessed
+26:21 | I was a complete perfectionist wanted to you know do every assignment to like my fullest ability study insanely hard for exams
+26:30 | And then once I started getting really serious with startup stuff I was kind of the complete opposite
+26:36 | I just like channeled every single thing into what I was building
+26:40 | So I actually like basically me and a couple of the people that I was building with we claimed this like study room in Tangen Hall at Penn which is the entrepreneurship building and I would show up there at like seven eight AM and just like literally make that my office to work on startup stuff all day go to class whenever it was like completely necessary
+27:05 | do an assignment here and there in between working on startup projects and getting on calls with interesting people in the startup world um and literally leave that building at like two AM sleep for like six hours and then go back and do it the next day
+27:21 | Um that was basically the schedule
+27:24 | Definitely
+27:24 | So I think at that point I had experience working on like my own things my own like little startups and I also had experience working at massive companies like Google and Microsoft
+27:36 | What I didn't have experience with was working at very fast-growing very promising startups backed by the best investors in the world and that's exactly what you do in the Bessemer Fellowship
+27:46 | You both get to know the investors and learn more about the world of venture and also get inserted into a very fast-growing startup
+27:56 | So I thought it was like the perfect blend of the thing that I had missed in my other experiences
+28:03 | And um also I knew that I would meet very high-quality people through it which worked out very well
+28:10 | Um I think I applied for it just in normal recruiting season so in like September of my junior year at Penn and I believe I accepted it maybe in January
+28:25 | So decently normal timeline and I was really excited
+28:31 | I think I thought that it was a great fit
+28:36 | Yes so I actually interned at StubHub during that summer and I did product management
+28:44 | Definitely
+28:45 | So I would say it was a combination of product-y data work so a lot of querying very interesting data about usage patterns
+28:58 | I was on like the main core product team
+29:00 | And then the other part was StubHub had a very interesting internal culture of A/B testing every single feature that went in the product
+29:09 | So we would run experiments and come up with ideas for things that we thought would say improve conversion rate um in terms of how many tickets people would buy
+29:19 | So we ran a bunch of experiments and tracked them all statistically did like phased rollouts and a lot of A/B testing
+29:27 | I think that I learned a lot but I also knew that it was just way too big for the the type of environment that I actually thrived at
+29:36 | Um I mean StubHub was massive already at the time so I definitely knew that I wanted to go much earlier and I loved having as much scope and autonomy as possible
+29:48 | Yes so I worked at Google my freshman summer and then Microsoft my sophomore summer
+29:54 | And I would say the most like notable one was definitely my internship at Google 'cause one it was my first internship and two I met June there
+30:02 | So it's you know eternally worth it from that
+30:06 | But um we had a very unique internship experience
+30:11 | It was also during COVID completely remotely
+30:14 | Um the project that I was working on we basically got it done in like twice as fast as we should have gotten it done kind of attacked it head on and and did it pretty well
+30:26 | And we kinda June and I spent the rest of the summer just like doing quant riddles and like getting to know each other and talking about life and like all of our interests like startups and um trading and all of these things
+30:42 | So it was um it was a great summer
+30:45 | Mm no
+30:46 | So that's not exactly how I came about Paradigm
+30:50 | So I would say the thesis behind Paradigm was a lot of frustration around existing AI interfaces and a lot of thinking about what actually was the bottleneck to AI adoption
+31:07 | So the interesting thing was like when ChatGPT came out I would like literally max out the rate limit every single day
+31:15 | And I was an extreme power user
+31:17 | I got a massive amount of value from it
+31:19 | Then I would talk to my parents or even my friends and they didn't understand it at all
+31:25 | and I think that now you know those s-- my parents and those same friends get a massive amount of value behind ChatGPT
+31:35 | But what I think is still the case is that impact impact of AI is like a lagging indicator
+31:43 | Like model quality is like a lagging indicator of impact
+31:47 | And a big thing that affects the impact that AI products have on people is actually the interface itself
+31:55 | And I thought that chat was a simple interface for people to learn but also not a very powerful interface because again you can really only ask one question at a time
+32:08 | So um I started just going down a rabbit hole of thinking about AI interfaces
+32:15 | This was also around the time when I started using Cursor which was like an amazing AI interface for coding
+32:21 | and I think that the spreadsheet was just the most obvious one for me because yes I had like felt the pain myself of like tedious manual data entry in spreadsheets but also um agents are very dependent on context and structure and spreadsheets give agents a way to structure context
+32:43 | So like you can think of doing a task in a cell is you know it could only have the context of that row but it could perform the task like just as well as the cell in any other row
+32:55 | so it was really just a thesis on like one like where's the most impact from AI gonna come
+33:00 | It's gonna come from creating pervasive interfaces that people can use and understand
+33:05 | And you know spreadsheet a billion people know how to use spreadsheets already so it's a great interface to choose
+33:11 | And also it's extremely powerful and extremely good at scale
+33:16 | And I think the thing that you should be thinking about if you're building an AI company is like you know what are models going to be very good at in a couple of years
+33:26 | and my answer to that question was like orchestration
+33:29 | If we can orchestrate a large number of agents to do something actually useful that will be very very very powerful and a spreadsheet is a perfect interface for this sort of orchestration
+33:41 | I think I was honestly just obsessed with doing things that were extremely challenging to me
+33:48 | Um I definitely wanted to make a big impact but it was honestly way more of just my obsession with like one I loved like building things and those things ended up turning into companies
+34:06 | Um and two I I'm also obsessed with like one helping other people around me grow and also like growing myself
+34:15 | So I think growing myself is like doing this very hard thing of starting a company
+34:20 | Helping other people grow is like giving people the tool to be a lot more effective by leveraging AI
+34:28 | Oh I think chat is always gonna be a very important interface for AI
+34:32 | I just don't think it's gonna be the only interface
+34:35 | I mean chat is an important interface for a lot of other things that aren't just AI
+34:41 | so I'm I'm very bullish on chat actually
+34:44 | I am just bullish that other interfaces besides chat will also be very powerful and useful
+34:51 | So no I I think chat interfaces are are good
+34:58 | Yeah so I actually had a very intense strategy about applying for YC
+35:06 | So basically I took um the mindset of okay like how much progress can I make in a week
+35:15 | Um and this actually in the most extreme form resulted in some like pretty insane progress
+35:25 | Like I had built an entire MVP of a product and I had a lined up customers
+35:32 | I had talked to a bunch of potential customers a bunch of LOIs
+35:36 | Um I had a website all of these sorts of things
+35:40 | So I honestly had no idea if I would get in or not
+35:43 | I think that-- I thought that I did well on the application and on the interview but I think that if you truly go all out on the application it's it's hard for them to say no
+35:56 | I had early customers for an early prototype of something that I didn't even end up working on but I'd proven that I very quickly could build and sell which are the main things they care about
+36:10 | Yeah
+36:11 | I was actually at like a startup dinner at MIT um so I wasn't even at Penn
+36:16 | Um I had just like left to to go meet up with some MIT and Harvard startup people
+36:22 | And I remember I got the call in the middle of a dinner and just started like kind of like jumping up and down
+36:29 | I was super excited
+36:30 | Um and yeah it was a really cool moment
+36:33 | Everyone around me was super excited as well
+36:36 | And I basically knew I would I would accept it at the time because um I think YC is just an an amazing way to get started especially if you don't have any other like um startup connections or investor connections in SF
+36:51 | So it seemed like a pretty clear way to get started
+36:55 | I think at the time I was considering if I wanted to found a company or join a really early-stage company in some sort of cool role
+37:03 | And I-- by the time I applied to YC I was pretty set on founding a company because I was really excited about agent interfaces and I had a lot of ideas surrounding it
+37:17 | Yeah so I did have the credits but it was a little It was on the border let's just say because I had studied abroad um actually my junior year and those credits always get counted kind of weirdly and I just like found a loophole to get them to be counted extremely favorably to me
+37:37 | Um soI wouldn't say I convinced them
+37:42 | Like I did have the credits
+37:44 | It just took a little bit of you know emailing the right professors things and yeah it was great
+37:51 | I think that my parents were pretty supportive honestly
+37:54 | Um they There were many times during school where I almost dropped out and that one they were more like "Uh I don't know
+38:02 | I think you should probably finish it out," which I'm actually glad that I did
+38:07 | But they were supportive
+38:10 | They I think it's hard to It's much easier to start with something like Y Combinator
+38:17 | It's like kind of a more clear path
+38:19 | And yeah they knew that I had been obsessed with building stuff for like the past however many years they could remember so um they actually were pretty excited
+38:30 | I think I was just calibrating life honestly
+38:34 | I had never experienced something like it
+38:37 | it was by far the most people in tech I had been around by far like one of the highest talent density environments I had been around
+38:46 | So I wasn't even spending a lot of time just sitting thinking
+38:51 | I was in full-on execution mode making as much progress on the company as I could doing things that didn't scale um and trying to take in and learn a lot about the world around me
+39:03 | I think honestly like during my batch I was spending a lot of time like building the core product
+39:11 | So we were not the most flashy company in our YC batch but there was a kind of funny story where like during our batch I started to hire um June which was kind of a a cool first hire
+39:24 | He was like 10 years older than me like a very very experienced engineer at at Google
+39:31 | Um and the the group partner There was like another partner group partner in the meeting that wasn't my main group partner and they were like "Actually I just like want this company to be in my group," because they were just like so entertained by like the the series of events that had ensued in Paradigm over the past week that they just like wanted to steal our group for them
+39:57 | Um so yeah that was a funny moment
+39:59 | There were a lot of you know I I guess at many points I think the YC group partners thought I was crazy um but but that was that was a fun one
+40:11 | So I think our Honestly like all throughout Paradigm we've been like very into into like doing inbound
+40:22 | Um so just like putting something about the company out there and just getting like fielding inbound interest and like getting demos in that way
+40:34 | but our earliest customers were basically buying something that didn't really exist yet
+40:43 | Um so they would book a demo and our product would not work and we would have to like scramble before the demo to to get something kind of working to show them
+40:58 | But I think taking demos before we were ready getting customers before we were ready Literally like some customers just like wanted specific data and like June would just go manually get this data for them in the most weird crazy ways
+41:15 | They were just like paying literally like a SaaS subscription price for a full-time engineer to do crazy things to get this data
+41:23 | But um I think taking demos and taking customers before we were ready really forced us to like one make as much progress as possible and two get really close to the problem
+41:34 | So like the spreadsheet interface actually came about from this process of you know like talking to customers and figuring out "Okay you know if we were to do this 10 more times this interface would work for 10 out of 10 times." And I think that was a a pretty interesting insight in the process
+41:57 | How did they find it
+41:58 | I for-- I honestly forget
+42:00 | I think we had like a pretty cool website because I'm very into websites so people just found it through our website
+42:06 | We had posted a couple things on Twitter
+42:09 | Um we weren't yet like very cool on Twitter as we maybe are now
+42:15 | but yeah they just saw it from me posting about something related to what we were building
+42:21 | And it was always a scramble for those early demos but um eventually we got the product better and better and better to the point where like we didn't have to hold our breath at each demo and it actually would work every single time
+42:59 | We had one customer I won't say exactly who but it was a pretty big um bank that a lot of startups used
+43:08 | And they wanted to get like all of this crazy data about different types of customers
+43:18 | And you know at Paradigm at the time you could like kind of set up the columns of a spreadsheet and like create a workflow to get data but we could not get data anywhere near as complicated as this
+43:33 | Um so we literally sent them like CSVs of like manual data that we collected for multiple weeks um until the product was good enough that they could just do it themselves
+43:46 | And yeah it's cool
+43:46 | Like a lot of these like very early almost like pre-product customers are are still with the company today
+43:56 | I think that they just bought me really
+44:00 | Like they bought like me as a service in a way
+44:03 | Like they were just like "Okay yeah this girl will probably like get me roughly what I want," and they just trusted that like I would do a good job
+44:12 | And I think that we did do a good job to a lot of our early customers not all of them
+44:19 | Of course it's impossible to do everything perfectly
+44:22 | Um but yeah I think they just believed in like the general concept of what we were doing
+44:27 | And the website was pretty stealthy
+44:31 | It's like we're building you know a general AI assistant to help you automate busy work
+44:38 | It didn't really say anything real um but it was intriguing and people booked demos and it worked
+44:46 | It had a really nice design
+44:48 | I think people like to the design of it
+44:51 | Yeah
+44:51 | Well um what I can say is they should go to this thing called like Wayback Machine
+44:58 | Go type in um our website name at the time was the worst domain ever tryparadigm.ai
+45:07 | We only after that bought paradigmai.com which is still pretty bad but we're getting there
+45:13 | Um and they should look at it
+45:15 | Uh it's the best way best way to do it
+45:17 | Or just like honestly it was do something different I think with websites
+45:23 | Like ours had this like crazy floating cube thing that was our logo in the middle and it just looked very distinctive
+45:32 | I think doing something different with stealthy websites is the best way to do it
+46:11 | o-- so I applied to YC with like a slightly different idea than Paradigm and then we pivoted to Paradigm
+46:18 | But I think that it did not take very long
+46:23 | It was very instinctual
+46:25 | It came about from an obsession with like understanding what was going on in startups and what made sense
+46:32 | And I also didn't think through applying that much
+46:37 | It just seemed like a no-brainer for me at the time
+46:41 | So I don't know
+46:42 | I think a lot of my advice is that actually don't overthink things and progress and action is the only thing that matters
+46:51 | I would say that likeDuring YC we like iterated towards the exact idea of Paradigm but we broadly were working on like agents to automate busy work the entire time
+47:05 | Just wasn't exactly the like full form of of what we were trying to create until towards the end of YC
+47:13 | So it was more of like an a gradual evolution which I think happens in a lot of pro-products
+47:19 | Like you have a general thesis and it becomes more specific over time
+47:24 | Yeah so I I wouldn't say it's like in comparison to a chatbot
+47:28 | I just think that spreadsheets are another amazing interface for AI and I think that the biggest thing is scale
+47:37 | You can easily see the model of an agent in every single cell doing something that's actually useful for you
+47:44 | It's actually maybe one of the only interfaces where you can set off like a hundred thousand agents at once and it do something actually useful for you
+47:51 | Um the other is context management
+47:54 | So I think having the structured format allows you to really control the context around your output in a really cool way
+48:02 | and yeah tho-those are probably the biggest reasons
+48:06 | I guess the last is just familiarity right
+48:09 | Like a billion people already use spreadsheets and um this familiarity allows the newness of the agent layer and kind of our spin on a spreadsheet 'cause it's not just a normal spreadsheet
+48:23 | Like it doesn't really act like Google Sheets really at all
+48:27 | So I think still the familiarity of the form factor kind of counterbalances the newness of the agent layer
+48:34 | Yeah so our entire backend architecture is completely custom from the ground up
+48:39 | Um it's-- our backend is in Golang which is actually built for concurrency like as a language which has been really helpful and we're also utilizing a lot of other cool dev tools like Redis
+48:52 | Um and so that's broadly how I mean in terms of the latency problem we want model TPM to be the only bottleneck so everything else has to be as concurrent and as parallelizable as possible because one of our core things about Paradigm is we love that it's fast
+49:14 | Um so that's very core
+49:15 | In terms of cost um this is always a hard one right
+49:19 | Because the worst possible thing is not giving people the data they want or giving less accurate information because you're cutting costs in some way
+49:29 | So what we do is we are not willing to sacrifice accuracy
+49:33 | The accuracy is always going to come first and within that bound of accuracy we do a lot of context management and kind of like clever tool utilization to minimize costs
+49:47 | I think the hardest challenge so far I had was definitely growing the early team
+49:52 | we had extremely high standards for excellence um which meant that it took a lot of time to find people that kind of shared both like met the bar in terms of either technical ability or just performance and also cared a lot about the mission and what we're trying to build and were very bought in
+50:13 | Um and it's kind of like a cold start problem with with team building where the best people wanna work with the best people
+50:21 | So each person we added was extremely important to to keep the talent density high
+50:28 | And yeah I I feel very grateful to have the team that we have now and have kept the bar for excellence so high even though it took us longer at first to build the team
+50:40 | Yes
+50:43 | I don't I don't think it was a principle
+50:45 | I just hired the best people I knew and one of the best people I knew happened to be someone I had worked with in the past
+50:51 | and I encourage everyone to do the same
+50:54 | Think about the smartest most competent people you know even if you think they're impossible and try to recruit those people
+51:02 | Oh it's I think it's it's very obvious from from talking to people or interacting with people if they're excellent
+51:10 | It's Each person has a different way of of being excellent
+51:15 | But if if you know them well if you've worked with them I think it's easy to tell
+51:18 | It's harder to tell if you haven't worked with them yet um which is why we always do some sort of work trial where we actually get to know them both as people and have a long period of time to usually see their technical ability if they're an engineer
+51:34 | Hmm
+51:35 | I'm trying to think if it relates to a feature specifically
+51:39 | I think one of the features that has made people the most happy is just the transparency of the audit tracing of the agent steps
+51:50 | So basically you click on any cell and you can see the entire agent thought process and also the sources that it checked to get it there
+52:00 | And I think people have really enjoyed just seeing the full agent trace and transparency and using that to kind of iterate and get to better outputs
+52:09 | Everything
+52:09 | It's it's literally like they're in my texts emails in our cu-- emailing our customer support team um email-- like going through Slack Connect
+52:22 | Um our-- we have a Slack community
+52:24 | People are DMing us on Twitter
+52:27 | There's no like there's no channel where I'm not getting customer feedback
+52:32 | I literally will run into people at a restaurant and get customer feedback at this point
+52:38 | Um so everything
+52:43 | so I think it was a combination of talking to them over call
+52:48 | Um it was honestly mostly like them
+52:51 | Sometimes we would reach out to them to get a call if there was very specific information we wanted but also the type of product we're building feels very intuitive for our team to build because we're also solving a lot of our own pain points
+53:04 | and then a lot of it is asynchronous so over email over text over Slack et cetera
+53:13 | So a lot of our enterprise cu-customers are top consulting firms top private equity firms top banks et cetera
+53:21 | And you-- when you're providing some data or some results to these sorts of customers they have to have a very very high level of certainty that this information is correct and they actually require this granular of like audit tracing and sourcing to be able to trust and use the data
+53:45 | So I think a lot of our enterprise customers have really really loved the those sorts of features
+53:52 | Yeah
+53:53 | for us it's super interesting
+53:55 | It's all inbound
+53:56 | So we had individual users that were interested in demoing the product and then for enterprises we will do some sort of pilot or POC and if the pilot goes well we will convert that into an enterprise customer
+54:12 | Uh it depends but um we sometimes provide them for free
+54:16 | The pricing is based-Pricing is based on value
+54:20 | So essentially we like to align pricing very closely with value and for us this is pretty tied to usage
+54:28 | So um if the company is using us a lot more they will largely pay us more
+54:35 | Um and this means that as they get more and more value and more and more usage um they also pay us more
+54:42 | So it makes sense for them and it makes sense for us
+54:45 | I think we're always deciding pricing
+54:48 | I think pricing is an iterative thing
+54:50 | I think the best way of going about it is um looking at similar products com-comparables doing research understanding where the market is pricing these types of tools and what end of the market do you want to fit into
+55:04 | Do you want to be the highest tier the most expensive thing middle lower tier
+55:09 | Um and based around that deciding early pricing and just iterating with it
+55:14 | I think it's a it's a learning process for sure
+55:17 | Pricing is extremely difficult but it doesn't need to be static
+55:21 | It can be something that changes as you change the company
+55:25 | Yeah so um basically for our free tier it's going to help us get a lot more people on the product with a lot less friction
+55:34 | with Paradigm it's really about kind of experiencing the magic and finding your workflow
+55:42 | So having a free tier just dramatically lowers the barrier to entry of finding a really powerful workflow and usually if those workflows are found then people are very willing to pay us
+55:54 | so yeah the free tier is just to lower the barrier to entry and get more and more people trying out cool workflows on Paradigm
+56:03 | I don't think there's been a single most fun moment
+56:05 | I think there's a combination of moments that have been really really um meaningful
+56:12 | But yeah probably most recently it's just kind of seeing the team come together and um sharing the same mission and conviction and excitement level that I have over making our vision a reality
+56:28 | Yeah so we actually only started recruiting people relatively recently like earlier this summer so maybe 8 months
+56:37 | 8-- I guess besides June
+56:39 | June June was earlier but in terms of building the rest of the team like 7 or 8 months
+56:44 | So yeah we've been adding like roughly one person per month and it's probably gonna accelerate even more into the future
+56:51 | Definitely my role has changed a lot
+56:54 | I think uh in the early days it was about a lot more focused on my own individual output and how much I can do in terms of engineering or sales
+57:07 | Now a lot of it is how much can I amplify the rest of the team how much can I unblock people enable people
+57:14 | And there's still a ton of very important things that I own but it's a lot more oriented around um how can we have our entire team be most effective
+57:25 | There isn't one most important thing
+57:28 | I would say it's kind of uh the way I think about it is like what percentage of my time do I want to spend on each bucket of thing
+57:36 | And that really changes on a week-by-week basis
+57:38 | Like this week it's gonna be 40% to 50% marketing because of our freemium launch where in a normal week might be 10% marketing
+57:47 | So I would say there's always gonna be at least 20+% of that which is enabling the rest of the team
+57:56 | But um each each week changes and I think it's important to kind of contextualize your priorities in terms of what else is going on in the company during that period of time
+58:08 | Yes
+58:09 | So um basically Hacker House started because we had seen a lot of hacker houses around SF be pretty male-dominated and um I had a lot of very smart female engineers and founder friends and we wanted to start a house together and kind of build this sort of community
+58:40 | Um they're really working on to join
+58:42 | Um so it was just the the way to make it happen was starting which often happens in this world
+58:53 | I think that it is very important to find like a community and find supporters
+59:00 | I think it doesn't necessarily need to be a hacker house or necessarily need to be people of the same gender
+59:08 | I think that for me Hacker House was very important
+59:11 | Um but finding communities in general that you can build with or like communities of like-minded people is the most important thing
+59:19 | So many times
+59:20 | I think a a lot of the people that have been most helpful in the company have been have been my best friends
+59:26 | It's the people that care about you the most and have the highest context on what you're doing
+59:31 | So when you're building a company you don't have you know a massive amount of coworkers but people that are in similar positions at other companies can kind of fill in and help you as needed
+59:46 | Definitely
+59:46 | I think that w-a big way that um we my friends and I like to help each other is just whenever there's like a very critical moment in the company we will literally like create a group chat or like a Slack channel with all of the people that could help and just do like a massive brainstorming session of every single possible thing that could solve the problem
+01:00:14 | Kind of like throwing every single idea at a wall until one sticks
+01:00:20 | Um so kind of these like impromptu committees to help solve problems is a big one for us
+01:00:26 | There was there was no application process
+01:00:29 | It was just people that we knew and thought were great or people that other people recommended
+01:00:34 | Um yeah it's not something that's going on anymore but it was a really amazing house for the summer that we had it
+01:00:41 | I mean it's not that different from a normal house
+01:00:43 | People go about their normal life they go to work um they do the stuff they usually would do
+01:00:50 | But when you get home it's like a space to share thoughts share ideas get closer to people that might be helpful in the future
+01:00:59 | So it's it's not very different than any other group house
+01:01:03 | just everyone's a little bit more bonded by a like-mindedness
+01:01:10 | No
+01:01:10 | It it doesn't exist anymore
+01:01:12 | It was just one summer
+01:01:14 | I think that I am betting that there will be new very different interfaces that come about from AI agents
+01:01:26 | I think that the old interfaces like spreadsheets like documents like the way we do email now all will be transformed to their AI native forms of these products
+01:01:40 | So I wouldn't say exactly that I'm betting on spreadsheets although spreadsheets are the core primitive of what we're building now
+01:01:49 | and I think that spreadsheets are an extremely important tool to computing to the economy
+01:01:57 | Literally like computers became useful because of Excel basically in the very very early days
+01:02:04 | Um but I'm more so betting that like there's a new type of interface that's gonna arise from AI and one that will benefit a lot from the scale um that that a spreadsheet allows
+01:02:21 | I would give the advice of don't put any time into a backup plan
+01:02:28 | I think that the people that go all in and channel all of their energy all of their effort into the front-up plan end up the most successful
+01:02:39 | So really I would say be the most ambitious version of yourself
+01:02:45 | Um nothing is too crazy or too difficult or too ambitious to do
+01:02:51 | And if you know what you want to do why put time into a backup plan
+01:02:56 | Just focus on the front-up plan
+01:02:59 | Yes I can
+01:03:01 | That's a good question
+01:03:02 | I think that for me I've always just leaned insanely heavily into my instinct and what I really enjoyed and what I thought I was good at
+01:03:14 | So I would say I don't spend very much time thinking about particular things that I could be doing that aren't what I'm doing because I just feel very self-actualized in what I'm working on now
+01:03:31 | and I feel like very engaged with with my work and I honestly have no doubts that it has been the the right decision for me
+01:03:43 | So I would say even in the process of figuring out what I want to do it was much more driven by instinct and by passion and by obsession than any sort of logical calibration
+01:03:55 | So no it was like maybe under-calibrated but over-indexed on on instinct and obsession
+01:04:03 | Exactly
+01:04:05 | Yeah
+01:04:05 | I think that A paradigm is just inevitable
+01:04:13 | It feels so obvious that this sort of tool should exist
+01:04:19 | Feels like it's a very natural way that AI should be used
+01:04:23 | And I think just getting a lot of validation in the product has helped me become even more bullish than I already was when I originally came up with this idea
+01:04:33 | But I don't know I think like how strongly I believe in this vision is just almost blinding
+01:04:39 | Like I'm not even really seeking any additional like validation or or conviction in it
+01:04:47 | I'm just like I I kind of just know that that it makes sense deep down
+01:04:53 | Yeah
+01:04:54 | Uh I think I might be cutting out or you might be cutting out
+01:04:59 | Um can you repeat that
+01:05:01 | Yes
+01:05:02 | Um I have raised $7 million total
+01:05:05 | Um it was a 2 mil pre-seed and a $5 million seed round led by General Catalyst
+01:05:12 | So the pre-seed round was-- it was earlier on
+01:05:15 | I guess that one was more of a bet on me and that I had a lot of really good insight on the AI space and would generally like kind of shape the product in the right direction
+01:05:32 | I would say our seed round it was much less of us pitching them and more them pitching us at that point because we had-- we'd launched the product um we had gotten a lot of interest in the product and we were just trying to figure out who would be the best fit to work with
+01:05:51 | And um Nico who is our lead seed investor from TC he is awesome
+01:05:56 | He's like one of the people who in his entire career has consistently bet on young technical founders that are building products for themselves which is basically like me out of a textbook
+01:06:09 | So it felt like a very natural fit to to work with him and I heard um amazing recommendations from some friends that also had worked with himUm
+01:06:19 | it was it was General Catalyst for our seed round
+01:06:21 | Um and our pre-seed round was Y Combinator and a bunch of really cool angels
+01:06:27 | I don't but I think I've heard of him
+01:06:30 | I would say product
+01:06:31 | I'm I'm an extremely product-obsessed person
+01:06:34 | I still spend a very large majority of my time like designing out certain features and like getting into the details of like this code should do this
+01:06:45 | Like I'm extremely product-obsessed and I just wanna build the best product
+01:06:50 | So I think a lot of the product obsession and obsession with craft and detail-orientedness has really fueled the company in in building the best product
+01:07:00 | imagine just spending literally all of your time thinking about what would make the product better
+01:07:09 | It's it's kind of nonstop
+01:07:11 | It it feels like the product is obvious to me
+01:07:13 | Like it feels like the next feature is just like It it makes a lot of sense because I'm like maybe like one of the number one users of Paradigm um and I'm building it for myself in a way and I'm spending all this time thinking about it
+01:07:29 | So product obsession is just like at the core of the company we want to build an amazing product which isn't true of all companies and keeping that at Paradigm's core is very important to me
+01:07:41 | I think every founder has like times where they're like you know just like completely overwhelmed
+01:07:48 | There's like so much going on these sorts of things
+01:07:51 | but I don't think it's ever because of product obsession
+01:07:54 | If anything product is always like consistently the thing that I have like endless energy to work on
+01:08:00 | so not not because of product obsession um definitely not
+01:08:06 | I think I definitely underestimated at first how difficult it would be to recruit the best talent in the world
+01:08:12 | I think that there's so many amazing opportunities of things to work on right now and it Honestly like I think we had to get to a certain point in terms of progress to recruit the caliber of people that we wanted to recruit
+01:08:26 | So I would say that was the biggest challenge and I'm very grateful for for the team that we have now and for the way that we stuck through and just were completely relentless in terms of our hiring bar
+01:08:41 | I think products can never be perfect
+01:08:43 | There's always gonna be things that that you're unsatisfied with
+01:08:48 | Um and I think the demoing part is just you know pushing yourself to do things before you're ready and pushing yourself out of your comfort zone
+01:08:58 | even if your product isn't ready you can still be obsessed with the surface areas of the product that are ready
+01:09:03 | Um so I think it's kind of a balance between attention to detail and desire to progress but also a lot of times progress compounds and investing a lot into the right fundamentals of the product early on compounds a lot later on
+01:10:11 | I think that it gave me a lot of time to experiment with building stuff in a lower pressure way than you know the serious step of dropping out and taking a lot of investor money and committing to an idea for a very very long period of time
+01:10:27 | So I think college was like a a playground of ideas for me
+01:10:31 | And I think that I I think that dropping out is totally the right decision for a lot of people
+01:10:37 | Some ideas just absolutely cannot wait
+01:10:39 | Um I think that for me I ended up finding the idea that couldn't wait right after I graduated so it just is kind of how the timing worked out
+01:10:49 | Yeah for sure
+01:10:51 | Hi I'm Anna
+01:10:52 | I'm 23 years old and I'm the founder of Paradigm
+01:10:56 | We are building an AI-first workspace with a spreadsheet at the center of it
+01:11:02 | Yes
+01:11:02 | should I also introduce myself or just Paradigm
+01:11:06 | Okay
+01:11:07 | I'll just do the entire thing again or like Yeah I'll I don't know
+01:11:11 | I'll just do both
+01:11:12 | hi I'm Anna
+01:11:14 | I am 23 years old and I'm the founder of Paradigm
+01:11:17 | Paradigm is an AI-first workspace that is centered around a spreadsheet
+
+
+2nd filming full script
+00:00 | I think so maybe we should-- Okay second interview here
+00:04 | yeah let's quickly before we start the recording discuss like what you mainly thought was missing 'cause I see Okay so I see these questions
+00:16 | Let me see if I have any follow-ups
+00:19 | Why did I choose to prioritize an early launch
+00:22 | I'm not sure what that means
+00:24 | Okay okay makes sense
+00:25 | okay I think I think I know how to answer these questions
+00:30 | Yeah I would just say that I think last time like there were kind of a lot of like small follow-ups that I thought were not the most like value additive and I was like kinda repeating myself a little bit
+00:45 | So I think as long as we go less in the direction of those follow-ups and more in in the direction of these questions I think I think we will be good
+00:55 | So it looked somewhat similar to Paradigm as it is today
+01:00 | It still had the spreadsheet
+01:02 | We always had like that core grid interface
+01:05 | particularly I think the main thing is there were certain parts of the product that were just completely like we couldn't really click on those parts of the product because they weren't fully functional yet
+01:21 | So I would say the like visual appear- appearance looked you know not too dissimilar from Paradigm as it is today maybe a little uglier 'cause we didn't have enough time to put into design
+01:33 | But the actual product looked similar we just knew where to click around to get things to work
+01:40 | yeah 'cause it's very important for it to be presentable so that people think that you can follow through when you're actually delivering on the outcome that they want
+01:51 | It was it was not perfect at all
+01:54 | It was completely like rough edges
+01:58 | but I think the underlying thing is we knew what value we could provide
+02:03 | We knew the value proposition that we were gonna show them
+02:06 | so the product was particularly I think the the worst part is it just wasn't fully reliable yet
+02:12 | sometimes we would request data to be generated and it wouldn't finish generating but the basis of the product was there and the value proposition was there
+02:22 | So it was kind of this level of like just quite good enough where they could see the value even if it wasn't fully end-to-end production ready
+02:31 | Yes
+02:31 | So the the initial product was very focused on data enrichment so automating different multi-step data work flows specifically workflows that relied on pulling data from a bunch of different places so maybe a combination of the internet and third-party data providers and doing some reasoning on this data
+02:55 | so you know instead of just pulling a data point from a website pulling a data point and then using some framework to think about it or analyze it and then scaled across of course every single row and every single column in the spreadsheet
+03:11 | I think a lot of it came down to- customer obsession
+03:15 | So if the product wasn't actually working the way we would want June would literally like manually web scrape or collect data and like give the users the outcome that they needed
+03:29 | I was-- it was definitely do things that don't scale bend over backwards to like support our customers
+03:36 | Obviously it's completely normal to not have a one hundred percent produs- product satisfaction rate in the early days
+03:44 | I think it's just about being like as transparent as possible with the customer about where the product is at and giving them as much attention as is possible to to get the task done even if it's not completely all product side
+03:59 | You know there could be some work that we do on our end
+04:03 | yeah
+04:04 | All different types of data so our product is super horizontal
+04:08 | an example is we-- for a consultant they might be doing a market map or a competitive analysis of a bunch of companies in Paradigm or for someone that's a runs a recruiting agency they might be doing a specific search of a bunch of different types of candidates
+04:25 | the the data was very varied and the user a lot of the times the user wasn't even aware that like we manually got it
+04:33 | we just-- they just cared about like the output in this case
+04:36 | and if they were aware I think they were just fine with it
+04:40 | Like it was it was really the main thing that they wanted was these certain data points
+04:45 | They were all nicely like organized and set up as if they would be if they were completely automatically enriched in Paradigm
+04:54 | so it was a good reaction from the customers because they still got a lot of the outcome that they wanted
+05:01 | Yeah it was still definitely more percentage towards developing product
+05:06 | I'd say maybe like 70% developing product 30% helping customers
+05:11 | I think the most important thing is just you kind of-- like we were in a very intense phase of working at this time
+05:19 | We still are but especially with like let's just like pull all-nighters do whatever it takes to get this done
+05:25 | So I think a lot of it was channeled in just working harder and trying to kind of do the impossible
+05:31 | Definitely
+05:31 | Yeah some demos the product just completely wouldn't work and it was okay
+05:37 | I think it sucks in the moment but it really makes you feel that pain of like letting a customer down and not being able to put your best foot forward and it gives you like a lot of drive and hunger to never have that feeling happen again
+05:51 | I remember at-- there was a point where we were like you know worried before every demo "Okay like is this gonna go as planned?" And then eventually we completely forgot that that feeling even ever existed and every demo we were just very confident very enthusiastic
+06:09 | We didn't even need to know anything about the customer beforehand to be able to on the fly you know set up their use case and show them what they wanted to do
+06:18 | So the product got really good and this like fear of of the product not working in demos just completely disappeared
+06:27 | I think a lot of our decision to prioritize an early launch was because this is a very fast-moving space and we wanted to be like the first
+06:41 | The-- like basically we were I think the first like real AI-native spreadsheet that did this type of work
+06:48 | And I think we knew that other people in the space were moving quickly and we wanted to do whatever it takes to surpass them
+06:56 | And I remember that happened multiple times
+06:58 | Like we had people that were working on this that we just became known as the default thing because we were loud about it
+07:05 | And I think this like branding and market presence is very very important
+07:10 | so we wanted to show the world what our vision was as early as possible and to just make it happen internally to get to to the midpoint between our vision and the reality of where the product is
+07:24 | I think it's really always the time
+07:28 | Like-
+07:28 | Like I think you always should be talking to customers from the beginning
+07:32 | there could be cases where maybe if you yourself are the perfect customer for your product and you really really have a vision and you just wanna bulldoze towards it that could totally work
+07:45 | For us I think our-- like we-- right when we had a website we had a way to like book a call with us and I would recommend that in general because it's just collecting more data getting closer with your customers
+07:57 | Even if you are a great representative user of your product or your service it's always helpful to get additional perspectives from customers as as early as you can
+08:11 | I think-- I don't think there was a specific moment
+08:14 | I think it was very ingrained in our ethos if we came here to win and build a massive company we wanna have a billion users of this product one day and in order to do that we better get our first one thousand users
+08:28 | My advice for founders who are scared to do demos is to just not think about it until you get to the call
+08:37 | Honestly like just-- I think if you overthink things it's easier to back out and not follow through with it
+08:45 | I would say just have enough throughput to get yourself a demo and it's great to prepare for it but you don't have to obsess over it or overthink it
+08:55 | Just show up talk about the product ask people about their problems and just try to get through that first one and that second one because you know that like you're gonna get a lot better with each progressive demo
+09:10 | Like demoing will become ingrained in your blood after you do it hundreds of times
+09:15 | So my advice would just be don't overthink it just get on the call
+09:20 | Yes so I'm very lucky to have an extremely talented team
+09:24 | I think the most interesting part about our team is everyone is very unique and has a really specific role in the company
+09:33 | I think part of the reason why it worked out this way is because the first person that I hired our CTO Jun he's completely exceptional but also completely like different than me in a way
+09:46 | Like he is much older than me
+09:49 | He had been in big tech working on like really high-skill problems for many many many years and I was the complete opposite like very startup de- obsessed pretty young
+10:02 | and we each brought in people and parts of ourselves into how we hired
+10:07 | So you know I hired like an amazing design engineer her name is Flora who's very very young but also has accomplished so much
+10:17 | Like she worked at Vercel she ran her own design studio
+10:21 | And then Jun brought in like some of his friends that you know worked on the early days of Excel and are more senior engineers and we started filling in the gaps and bringing in people in between our different intersections and interests and it has created a really unique and really special team
+10:43 | Yeah so I think with Jun it was pretty natural
+10:46 | Like he and I met at Google and we just got along very well
+10:52 | We actually had a 2-hour meeting every single morning where we just talked about like our project for the day but also like life and the things we were interested in
+11:03 | And really like at first I went to Jun for mentorship for advice and I had no expectation of hiring him
+11:12 | And over time I think we just br- got really obsessed over the problem
+11:16 | Like we really wanted to build agents that could actually automate the most tedious boring parts of knowledge work and he was like you know he was still working his job but he would like pull all-nighters all the time to help out with Paradigm
+11:31 | And I think it was like this joint mutual obsession that brought us together such that it was even less so like me pitching him on the company but just us working together really well and like making a lot of progress in a short amount of time that gave him confidence to continue with Paradigm and actually quit his job and move to San Francisco
+11:53 | Yes
+11:54 | So- Jun was my internship manager at Google
+11:58 | I think he's like around 10 years older than me so he's a lot more experienced of an engineer and he was set up to mentor me during my internship
+12:08 | and we realized we had really complementary skill sets
+12:12 | I think it was more natural than that
+12:14 | It didn't feel like a oh like I was ma- managing him now
+12:19 | It was more of just like an agreement to work together and build something great
+12:23 | and it was just so natural
+12:26 | Like you couldn't force this if you tried
+12:28 | So it was it was a great feeling but also it was gradual and I think it's easy to convince people of things that are just a good fit
+12:36 | So I indexed heavily on that
+12:39 | I was like "Okay it actually is a pretty good idea for us to work together
+12:42 | Like there aren't that many founding teams that look like this and you know I think we can do a lot with this composition of team."
+12:49 | I think respect is regardless of age
+12:52 | Like everyone that is at Paradigm is a very respectful person and everyone knows what I put in to help the company help push the company forward and I know what they put in to push the company forward
+13:06 | and I think respect is really regardless of age
+13:08 | I don't think it was ever a discussion really
+13:11 | It just naturally happened
+13:14 | it was It's more natural than than you would think
+13:18 | Yeah
+13:18 | so I think that over time LLMs are gonna get more and more powerful and the bottleneck will actually be: how are you able to like harness the power of LLMs at scale
+13:31 | And chatbots are a great interface to harness the power of LLMs one time with one query query after query
+13:41 | But chat-based interfaces are not really meant for drastically scaling out your prompts or your intelligence or your reasoning
+13:52 | And I believe that as models get better and better cheaper and cheaper people will want to harness LLMs in parallel and remove all bottlenecks of what limits us from channeling more and more intelligence at once
+14:08 | And I believe Paradigm while it looks like the-- a spreadsheet acts more like a context engine where you have really tight control over all of the context that's in your workspace and you can use that context to send LLMs to do work for you at scale
+14:25 | So my vision for Paradigm is for it to become extremely pervasive
+14:31 | Like I want a billion people or more to use Paradigm and I want it to also be this tool that really really changes the way that they go about tasks
+14:44 | And I think it's inevitable because this mode of like context being the engine for AI and leveraging AI at scale is really really natural fit for a spreadsheet
+14:58 | Yeah I think one thing is just like manually parsing through like large lists of people or companies
+15:10 | I think that instead of like literally you know clicking on one thousand like company websites you instead would send an agent out with a prompt to retrieve and analyze the company website in a certain way
+15:25 | I think like large list-based repetitive tasks where you're doing the same thing for every person or company et cetera will not exist in the future
+15:35 | Right now we are focusing on building Paradigm from the best enrichment tool to the best all-around platform for knowledge work
+15:43 | So we're building a lot of the steps before the data enrichment
+15:46 | How do we ingest both internal and external data into Paradigm
+15:50 | And after the enrichment what actions do we take
+15:53 | What analysis do we do on that data
+15:55 | we're very product obsessed right now just kind of filling in the beginning and end pieces to these really powerful enrichment workflows
+16:15 | I believe that I want to build something that maximizes the way that people are able to leverage their own skills and talents
+16:28 | if I can if-- a- and this is why like I see a lot of my life's work through the lens of Paradigm because I see Paradigm as this tool that can really turn individuals into s- like can allow individuals to have much much more impact beyond themselves
+16:51 | So if Paradigm can be this like flexible tool that can help people maximize their own outcome their own business et cetera I feel like my life would be very fulfilling
+17:06 | Lately I've been having a lot of fun recruiting just like going after these completely ridiculous out-of-my-league-level candidates hunting them down and bringing them into to the Paradigm family
+17:20 | So I've been having a lot of fun recruiting and really excited about some of our recent hires
+17:26 | I think people will not manually go through lists one by one
+17:31 | There's so much of work that is going through lists of people or companies and doing one analysis at a time
+17:38 | I think these micro repetitive tasks in your day will be completely eliminated
+
+
+Edited Version
+Video link: https://f.io/tfpqIlYH
+
+
+
+
+00:00:00.040 — 00:00:48.440
+Our earliest customers were basically buying something that didn't really exist yet. It was not perfect at all, but if the product wasn't actually working the way we would want manually web, scrape or collect data and like give the users the outcome that they needed. I think they just bought me really, like they bought like me as a service in a way.
+
+
+It's completely normal to not have a 100% product satisfaction rate in the early days. It's just about being as transparent as possible with the customer, about where the product is at, and giving them as much attention as is possible to get the task done. Even if it's not completely all product side. There could be some work that we do on our end.
+
+
+
+
+00:00:54.560 — 00:01:22.810
+Hello, I'm Anna, I'm 23 years old and I'm the founder of paradigm. We are building an AI first workspace with a spreadsheet at the center of it. We have raised 7 million in funding. Our seed round was led by General Catalyst and were backed by a bunch of other awesome investors, such as Y Combinator. We have thousands of users on the product doing hundreds of thousands to millions of cells per week on the product.
+
+
+
+
+00:01:26.890 — 00:04:40.600
+I taught myself to code in high school. I must have been like 14. I was pretty young. I originally became interested in coding because I wanted to build games. Flappy bird was one of the first, like real recreations of a game. At the time I was like extremely popular, but I made a bunch of like different modes, a bit like Arctic mode, where I made like a little penguin, but it was actually insane because to make the front end of this, I just like drew each individual like shape with JavaScript, I publish them.
+
+
+So I had like all of my friends playing it. There were leaderboards. I would say that I was just addicted to like the demo. The process of like showing someone what I made and it actually working. The first hackathon I participated in, I was the very beginning of high school. My friend at the time roped me into my first hackathon.
+
+
+I was very confused at first. I actually at first was like, okay, what's a hackathon? Does this mean we're like, breaking into something? What is this? And then I found out that you just code a project, and I was like, oh, it's basically the thing I do. Even without this structure. That sounds great. I think it was two things.
+
+
+The first was that I actually loved the fact that you were rewarded for like, staying up all night and doing something crazy. I literally think we slept for like 20 minutes. That might have been my first real pure all nighter. We were just completely all in with no expectations, too. I was all in whether we got last place or first place.
+
+
+I had no idea. The most interesting one was actually one. It was really motivating because that particular hackathon. I was in high school, but there were like post-grad people there. Or grad students? There were college students there. It really helped me recalibrate what I had learned. I realized that I actually had like a very, I guess, innate talent for this sort of thing.
+
+
+Otherwise, I probably wouldn't have been able to to win with my team against all these people that were way more experienced than us. We won a tour of the Google New York office. In my case, my parents weren't necessarily in tech. My mom is a 10th grade English teacher and my dad is a lawyer, so I had never been to a tech office and didn't really know that working at Google was a real thing that people could do or what it was like.
+
+
+And the Google New York office is actually magical. So when I walked in at the time I was set, I was like, this is exactly what I want to do. Then actually my freshman year, I like made it my goal to intern at Google my freshman year of college. I think the thing that's just unbeatable about programing. Probably my favorite thing about it is there's just no boundaries on on like what you can do.
+
+
+I feel like with building physical products, you have to get certain materials or certain machinery with software. It feels like if you have a computer, there's basically nothing that can stop you. I just love this feeling of being unstoppable. I think a lot of my advice is don't overthink things and progress and action is the only thing that matters.
+
+
+
+
+00:04:44.040 — 00:09:06.190
+I've always just leaned insanely heavily into my instinct and what I really enjoyed and what I thought I was good at. I strongly believe that every existing software primitive is going to have a AI first version that becomes pervasive. It was very instinctual. It came about from an obsession with like understanding what was going on in startups and what made sense when ChatGPT came out.
+
+
+I would like literally max out the rate limit every single day, and I was an extreme power user. I got a massive amount of value from it. I thought that chat was a simple interface for people to learn, but also not a very powerful interface because you can really only ask one question at a time. So I started just going down a rabbit hole of thinking about AI interfaces, and I think this spreadsheet was just the most obvious one for me.
+
+
+The initial product was very focused on data enrichment, specifically workflows that relied on pulling data from a bunch of different places. An example is for a consultant. They might be doing a market map or a competitive analysis of a bunch of companies in paradigm, or for someone that's a runs a recruiting agency, they might be doing a specific search of a bunch of different types of candidates.
+
+
+But our earliest customers were basically buying something that didn't really exist yet. It was not perfect at all. The worst part is it just wasn't fully reliable. Yet sometimes we would request data to be generated and it wouldn't finish generating. But I think the underlying thing is we knew what value we could provide.
+
+
+We knew the value proposition that we were going to show them. So if the product wasn't actually working in the way we would want tune with literally like manually web scrape or collect data and like give the users the outcome that they needed. It was definitely do things that don't scale bend over backwards to like support our customers.
+
+
+A lot of the times the user wasn't even aware. They just cared about like the output in this case. I think a lot of our decision to prioritize in early launch was because this is a very fast moving space. Other people in the space were moving quickly, so we wanted to show the world what our vision was as early as possible.
+
+
+My advice for founders who are scared to do demos is just not think about it until you get to the call. Honestly, I think products can never be perfect. There's always going to be things that that you're unsatisfied with. I think the demoing part is just, you know, pushing yourself to do things before you're ready and pushing yourself out of your comfort zone.
+
+
+If you overthink things, it's easier to back out and not follow through with it. I would say just have enough throughput to get yourself a demo, and it's great to prepare for it, but you don't have to obsess over it or overthink it. Just show up. Talk about the product. Ask people about their problems. Just try to get through that first one and that second one because you know that, like you're going to get a lot better with each progressive demo, like demoing will become ingrained in your blood after you do it hundreds of times.
+
+
+So my advice would just be, don't overthink it, just get on the call. Over time, elbow ones are going to get more and more powerful. The bottleneck will actually be how are you able to like, harness the power of llms at scale? Chat based interfaces are not really meant for drastically scaling out your prompts, or your intelligence or your reasoning.
+
+
+I believe that as models get better and better, cheaper and cheaper, people will want to harness llms in parallel and remove all bottlenecks of what limits us from channeling more and more intelligence at once. My vision for paradigm is for it to become extremely pervasive. I want a billion people or more to use paradigm, and I think it's inevitable because this mode of like context being the engine for AI and leveraging AI at scale is really, really a natural fit for a spreadsheet.

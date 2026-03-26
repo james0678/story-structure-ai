@@ -2,7 +2,30 @@
   "permissions": {
     "allow": [
       "Skill(claude-api)",
-      "Bash(cd \"/Users/eo/Desktop/Ajou University/26-1/#자주연 자주프/story-structure-ai\" && python3 -m venv venv 2>&1)"
+      "Bash(cd \"/Users/eo/Desktop/Ajou University/26-1/#자주연 자주프/story-structure-ai\" && python3 -m venv venv 2>&1)",
+      "Bash(source venv/bin/activate)",
+      "Bash(pip install:*)",
+      "Bash(python scripts/export_drive_scripts.py)",
+      "Bash(python scripts/build_dataset.py)",
+      "Bash(python -:*)",
+      "Bash(curl -s -X POST http://localhost:8000/seed)",
+      "Bash(python3 -m json.tool)",
+      "Bash(yt-dlp --flat-playlist --print \"%\\(id\\)s %\\(duration\\)s %\\(title\\)s\" \"https://www.youtube.com/@EOGlobal/videos\")",
+      "Bash(yt-dlp --list-subs \"https://www.youtube.com/watch?v=OHJJKrJCSRU\")",
+      "Bash(cd:*)",
+      "Bash(pip show:*)",
+      "Bash(python scripts/download_youtube_transcripts.py)",
+      "Bash(find \"/Users/eo/Desktop/Ajou University/26-1/#자주연 자주프/story-structure-ai/data/edited_scripts\" -name \"*.vtt\" -delete)",
+      "Bash(python scripts/fetch_youtube_stats.py)",
+      "Bash(python scripts/match_scripts.py)",
+      "Bash(curl -s http://localhost:8000/projects)",
+      "Bash(python3 -:*)",
+      "Bash(python3 -c \":*)",
+      "Bash(python3 scripts/match_scripts.py)",
+      "Bash(curl -s -X POST http://localhost:8000/search -H \"Content-Type: application/json\" -d @/tmp/search_body.json)",
+      "Bash(curl -s -X POST http://localhost:8000/analyze -H \"Content-Type: application/json\" -d @/tmp/rag_on.json)",
+      "Bash(curl -s -X POST http://localhost:8000/analyze -H \"Content-Type: application/json\" -d @/tmp/rag_off.json)",
+      "Skill(update-config)"
     ]
   }
 }

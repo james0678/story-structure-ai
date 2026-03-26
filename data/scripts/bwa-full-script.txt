@@ -1,0 +1,957 @@
+﻿Tab 1
+00:00 | So first is could you briefly introduce yourself
+00:04 | Uh my name is Rylan Hamilton
+00:06 | I'm the CEO and co-founder of Blue Water Autonomy
+00:09 | And could you describe in your own words the problem Blue Water Autonomy is trying to solve
+00:15 | Yeah
+00:16 | At Blue Water Autonomy we're designing and building autonomous ships
+00:21 | Uh we're super excited about the opportunity for you know basically what we see as software-defined ships
+00:28 | Our first customer is the US Navy because there's a strong demand for what we're building
+00:32 | But our vision is to be a dual use company where we're building ships both for you know the navies of the world and for commercial applications
+00:40 | Mm
+00:40 | Okay then what recent team achievement or moment are you personally most proud of
+00:48 | Uh so we're a relatively new company but since the founding of the company last year we've moved super f-- uh quickly
+00:55 | And to date we've actually launched what we uh call our autonomous test vessel which is 145 ton vessel just outside of Boston where we're already testing our technology
+01:07 | And could you introduce us uh recent funding round and investors
+01:11 | Yeah
+01:12 | Yeah
+01:12 | So we're super ex-excited to announce that Google Ventures just led our Series A
+01:17 | So uh Google Ventures and our existing uh investors put $50 million into our company which really helped turbocharge what we're doing
+01:25 | Thank you
+01:25 | And could you give us a quick overview of your career journey from the beginning up to now
+01:31 | Yeah
+01:32 | So I'd call my career uh a non-linear c-career in terms of it wasn't super obvious when I started uh what I wanted to do
+01:40 | But right out of college I joined the Navy and in the Navy I was a surface warfare officer
+01:45 | So I was on ships uh in the Pacific and the Atlantic Ocean
+01:49 | Uh my first ship was an amphibious transport ship and I was an engineering officer there and I really learned how hard it is to keep these large ships operating all the time
+01:58 | Uh I had a great experience uh served for four years and then uh when I got out I went to graduate school and I transitioned into warehouse automation and I got lucky and I joined a company that was called Kiva Systems
+02:11 | Uh it was back in 2011 when there were a couple thousand robots in the field and after a couple of years uh Amazon came in and actually bought Kiva Systems and made Kiva Systems into what we now call Amazon Robotics where there are now over a million robots all throughout the world in Amazon warehouses
+02:29 | That was an amazing experience uh and I learned how to sort of become what Amazon would call like an Amazon athlete move super quickly uh and surround yourself with really capable and highly competent people
+02:41 | Uh I took that experience uh from being sort of in warehouse automation and actually started a company with some other people from Amazon Robotics a company called 6 River Systems and we made collaborative autonomous mobile robots so basically self-driving vehicles uh in warehouses
+02:57 | Uh and we created a new form of automation uh and we sold that a couple of years later to Amazon's competitor Shopify
+03:03 | Thank you
+03:05 | And I'd like to start by taking us back to the beginning of your journey
+03:10 | Yeah
+03:10 | So coming from a navy family how did how did the stories of the sea and service shape your inner com- compose career
+03:19 | Yeah
+03:19 | So um my father actually went to the Naval Academy and served on nuclear submarines in the 60s
+03:25 | Uh I can only imagine what it was like to be on a nuclear submarine uh that far back
+03:29 | Uh but that really kind of started my interest in the Navy
+03:32 | And my grandfather served in the Pacific in World War
+03:35 | I had 2 uncles who also served in the Navy
+03:37 | So at this point it's kind of in our family bloodline
+03:40 | But I've always had a passion for the sea whether it's sailing or being on large uh vessels and it's a place where uh you know sometimes I w-- just wonder what it would have been like to spend my entire career in the Navy 'cause it's something that I'm passionate about and I just really enjoy being on ships
+03:54 | Thank you
+03:55 | And during during your college years so what subject or field interested you most and what did you major in
+04:05 | And how did how did that shape your later dec- decision to join the Navy and your career choice
+04:10 | Yeah
+04:11 | So in college I majored in applied mathematics
+04:14 | Um I've always enjoyed uh sort of solving problems so taking a problem from the the beginning and coming up with an answer and thinking about systems and how everything's connected
+04:24 | Uh I don't think I'm a humanities person
+04:26 | I was never suited to be a lawyer but uh you know math has been something that's always fascinated me and I took that experience and when I was in the Navy uh I became an engineering officer not because I was trained to be an engineering officer just 'cause I had a passion passion for the engineering sciences
+04:42 | And after co-- uh uh after college what was the decisive moment that led you to join the Navy
+04:51 | Yeah
+04:52 | So when I was in college uh nine eleven happened and it definitely was a moment that kind of uh I think shook everyone and said: What do you really want to do with your life
+05:01 | Uh and at that point the traditional jobs coming out of college were to go into consulting or into investment banking and professional service careers
+05:09 | Uh but I wanted to do something different and I'm not the type of person who's well-suited to be behind you know uh a desk from 9 to 5
+05:17 | And I was exploring and I was like: Oh well my family had been in the Navy
+05:20 | I wonder what a career in the Navy would be like
+05:22 | And at the time it felt a little bit daunting to say: I'm gonna take the next four years of my life from the age of twenty-two to let's say twenty-six and be in the Navy and f-feel like you're behind everyone and all of your peers who had you know started careers uh in other industries
+05:37 | But when I talked to people who had served they said it was one of the best decisions they ever made
+05:40 | And so uh know 9 11 happened while I was in college and I did a bunch of research and it opened up my eyes to these other opportunities
+05:48 | And I joined the Navy which was one of the best decisions I've ever made
+05:51 | maybe
+05:51 | So uh what was the most memorable experience for you and what life lesson did you take away take away from it
+05:58 | Yeah
+05:59 | So uh one of the most memorable experiences I had in the Navy was probably the first time I actually was on a naval ship uh out sort of in the you know open ocean and I joined an amphibious transport ship
+06:11 | It was actually in the Persian Gulf when I met it
+06:13 | But in order to get to that ship I had to fly in a helicopter and actually go to sort of uh an aircraft carrier first
+06:19 | And while was on that aircraft carrier waiting to get transported to my ship um Iran actually fired some test missiles
+06:24 | Now the Navy at the time didn't know if those were test missiles and so the whole ship went to general quarters
+06:29 | But here I was new to the Navy and because I had actually been traveling in the Middle East I was still in my civilian c- uh clothes
+06:35 | So I was on a ship the ship was going to general quarters and I didn't even know where to go
+06:39 | And so I was just running up and down staircases and someone grabbed me and said: "You look like you don't know what you're doing
+06:44 | Come in here and kind of wait." And so that was like my first like hour on a naval ship
+06:49 | But I think that lesson taught me is like you know be aware that anything anything can happen at any moment
+06:54 | Uh and it's kind of like being in a startup where you just have to like every day is a new day and something could happen but you have to take in all that informa- information and just kind of respond to what's happening
+07:04 | And so uh similar to when the Navy had many experiences where there were intense moments uh things you didn't expect but you had to absorb the in-information react and that's the same thing about being at an early-stage company or trying to start a company where every day something's new something will happen that you didn't expect and you have to take in that information and figure out what to do next
+07:23 | I'm curious how has your mine clear- mine clear- mine clearing mission experience in the Persian Gulf shaped your philosophy of risk management in something like your entrepreneurial journey or Blue Water today
+07:37 | Sorry can you ask that question again
+07:39 | Yeah
+07:39 | Uh how has your mine clearing mission-
+07:41 | Mine clear-
+07:41 | yeah-
+07:42 | Yeah
+07:42 | experience in in the Persian Gulf shaped your philosophy of uh risk management in Blue Water or your entrepreneurial journey today
+07:51 | Yeah
+07:51 | So my experience is that when I was on a ship in the Persian Gulf uh we were doing mine clearing missions uh and they were quite dangerous
+07:59 | We were up in the northern Gulf and we were looking for mines
+08:02 | In fact we'd have lookouts on the front of the ship 24/7 looking for any mines that could be floating and there were actually a lot of black trash bags floating around
+08:10 | And so it was a little bit perilous and people were definitely on edge the whole time
+08:14 | What I learned is there a lot of really risky missions in the Navy that could be done by autonomous systems
+08:18 | There's no reason that a ship with 4 hundred sailors on it should be hunting for mines including having people with binoculars on the front of that ship
+08:26 | And fast-forward 20 years and we're seeing autonomous systems and autonomous vehicles all over the place
+08:31 | In some ways autonomy is becoming somewhat of a commodity something that people just expect the different systems can do whether they're flying in the air they're driving on the streets of major cities or they're on the surface of the water
+08:43 | And what we're doing at Blue Water is we're rethinking how you can do different missions and take some of the risk away from the different-- from the sailors and put it more on the platforms and also trying to take down the cost of these platforms that you don't need to build a billion or $2 billion ship to do some these missions where literally the mission is to go find things in the water that could explode and take out other ships
+09:04 | Thank you
+09:05 | Then I'm curious which leadership principle from your Navy service to-- Navy service do you still apply daily and which military approach did you have to abandon in startups
+09:18 | Yeah
+09:18 | So what I learned in the Navy about leadership is leading from the front is that uh when I was a junior officer in the Navy uh there's this sort of concept of deck plate leadership is that you have to be on the deck plates with your sailors and with your team and trying to help them solve the issue that you're not someone who that they report to you you're someone who's part of a team that's helping them kind of uh solve the you know problem at hand
+09:43 | And sometimes that meant spending hours in an engine room trying to troubleshoot through an issue
+09:48 | Sometimes we would lose steering at sea we'd lose power we'd have flooding we'd have fires
+09:53 | We had many different issues that we'd have to work through
+09:57 | But when your team s- saw that you were the person and you're standing in there you're waiting with them you're being patient and you understood the problems that they were facing and you understood any barriers that you could help remove you would then get their trust
+10:10 | Uh and that's something that I've taken to sort of the non-defense world is when you're leading teams there's still this concept of deck plate leadership especially at the earlier stages
+10:19 | And so whether you know my experience at Amazon Robotics where it wasn't deck plate leadership it was more like you know a concrete floor leadership in a warehouse where you're spending a lot of time with the team in warehouses all throughout the United States and the world and you're with your team when you're trying to commission these different systems and you're there you're traveling you're spending the time in the warehouse it really showed the team that you cared and the team would kind of respond well to that
+10:44 | So those are definitely things that I've learned over time
+10:45 | Now that doesn't always scale but I think when you're an early-stage company you're not trying to figure out how to scale
+10:50 | You're trying to figure out how to solve a problem
+10:53 | Uh and sometimes that takes some heroics in terms of you know whether it's uh myself in terms of you know spending a lot of time at a site or the team and really putting the dedication to solve-- to accomplish the mission
+11:04 | Thank you
+11:05 | Um after your your time in the Navy you decided to pursue an MBA
+11:09 | So what led you to make that decision
+11:12 | Yeah
+11:13 | Uh so I was lucky to get into graduate school and when I got my MBA they actually called it the 3 Ms of where uh I went to school
+11:20 | They called it McKinsey military uh and Mormon
+11:24 | And for everyone who'd been in the military it was actually a great transition because at the time I didn't know the difference between product or marketing and kind of what those roles did
+11:33 | And so it was kind of a a really kind of fast acceleration to kind of learn all these different business terms and take everything I learned in the Navy plus have the language and the frameworks to kind of apply to business
+11:45 | And so after two years I'd gone from being- kind of this person who'd been in the Navy with four years of experience and when I talked to companies they just didn't know what to do with me
+11:52 | They're like: "We appreciate all your experience of being in the Navy and all this leadership experience but we can't necessarily plug you into a role with other people who've been doing you know working at the company for 4 years." But after an MBA you're a part of this general pool of people who had you know business training uh and then all these different opportunities
+12:10 | And so for me it was a great transition
+12:12 | Um and still to this day I actually spend a lot of time working with people who are transitioning out of the military
+12:17 | Uh I help encourage them to go get an MBA 'cause it can be a great transition but sometimes uh I'll hire them directly too
+12:23 | But I definitely uh for anyone who served there definitely is sort of this hard transition sometimes going from the military or the Navy into what we call the civilian world 'cause sometimes people in the civilian world unless they've served don't know necessarily what to do with veterans
+12:38 | Yeah I'd like to ask a few more specific moment about your MBA years
+12:42 | So uh I I heard that-- I heard that on your very first day at Harvard Business School so you checked in holding your newborn child
+12:52 | So yeah
+12:53 | Can you take us back to that moment
+12:55 | So what was your mindset and what was your uh thinking about the the the future life and yeah something like that
+13:03 | Yeah
+13:04 | So uh when I started my MBA uh my first son was just born literally days before I showed up for class
+13:12 | Uh and I think in some ways it wasn't obvious at the time that really kind of uh forced me to focus on my MBA and think about what my career would be
+13:21 | So when I was at school some people had for instance been in finance in New York for a couple of years and they'd been working so hard
+13:29 | They saw their MBA as a time to kind of go meet other people to travel and to kind of you know enjoy the 2 years
+13:35 | But for me I was actually anxious
+13:37 | I was like: "What am I gonna do next?" And so for me my experience was show up at class study super hard and just try to like get as smart as possible and set myself up for what my career would be next
+13:48 | And I think having my firstborn just before my MBA and then actually had my second uh son also in my 2nd year just really gave me a lot of focus
+13:56 | Uh and so my experience was really just about like uh studying and family and I just didn't have time for any distractions uh outside of school and family
+14:06 | Thank you
+14:06 | Um now uh I'm curious at Kiva Systems so yeah you spent you spent night you spent nights on warehouse floors fix fixing problems
+14:19 | So what what lasting what lasting lessons did did that obsession with customer leave you
+14:26 | Yeah
+14:27 | So in the Navy we definitely had sort of uh mission obsession where we knew what the mission was and we had obsess and just complete it at all costs
+14:36 | When I transitioned to Kiva Systems it was all about customer obsession and my responsibility at Kiva and my job was to be a program manager
+14:44 | And so we had uh a sales team who would basically spend months or years kind of working through a deal and they'd get a customer to sign a contract and the contract would say: "We are willing to pay this amount if you hit these different sort of objectives or different milestones." And so my job was to hit those milestones and one of them was to get the customer to accept the system
+15:04 | And so there was a ton of cross-functional work that had to happen but part of that was to really just uh do whatever it would take to kind of get the sort of uh the deal done and to make the customer happy
+15:16 | Sometimes that would mean traveling to warehouses in remote parts of Nevada and actually trying to convince someone to go run uh you know a fiber line from the street into the warehouse into the data room
+15:29 | And sometimes that would mean saying: "Hey I'll pay you a hundred bucks right now in cash
+15:32 | I don't know if that will incent you but you just do whatever it takes." Now you wouldn't necessarily do that at a large company but just we just had this customer obsession and be like you know "Think outside the box about what it would take to actually uh get the job
+15:44 | done." Okay
+15:48 | at Kiva as you mentioned at Kiva was that kind of obsess uh obsessive ex- execution more of personal attitude or or was it part of the company's culture as a whole
+16:00 | And and how how are you trying to yeah uh a- adapt that uh perspective about uh customer obsession the culture today at Blue Water
+16:13 | Yeah
+16:14 | So Kiva Systems had an amazing culture and it really started at the top with the sort of leaders at Kiva whether was Mick Mountz who was the founder and the CEO or Amy Villeneuve who was the president or Dave Munichello who brought me into Kiva Systems who actually now is at Google Ventures and led our Series A
+16:30 | But I learned so much from them uh and their experience about what it takes to build a great culture what it takes to actually recruit and attract amazing talent and then to retain and to develop them
+16:41 | Uh I didn't have that playbook when I went into Kiva Systems but I felt like I was part of this company that was uh you know skyrocketing for the 4 years that I was on there
+16:52 | And I kind of learned a playbook about what it takes to build a company to build different functions to build a team around you
+16:57 | Uh so I've taken that experience and those lessons and I've kind of applied to the other companies that I've been in
+17:03 | And I'm curious when you when you threw yourself into into solving customer problems with such an inten- intensity so were there time uh times when it actually lead you to lead you in the wrong direction or what lesson did you take away from those moments
+17:20 | Yeah so I definitely learned while I was at Kiva Sy- Systems that when you're an early-stage company the reality is there are a lot of heroics to kind of take you through those moments
+17:29 | Generally you're understaffed you're under-resourced uh resourced and you sign up for things not knowing all the requirements what it's gonna take to make it successful
+17:38 | Uh and you know there were moments where myself and the team we'd spend over a hundred hours a week just trying to make the customer successful
+17:45 | We were traveling 80 or 90% of the time uh at the time all throughout the United States But at the moment the heroics don't scale
+17:53 | And when we got by Amazon what we learned is what does it actually take to scale uh a team
+17:58 | And Amazon is one of the most impressive companies at scale
+18:01 | I mean when I-- you know when Amazon bought Kiva Systems Amazon was what
+18:05 | A30 or $40 billion company
+18:07 | The idea of 2-day delivery and Prime was not around and there were a handful of warehouses throughout the country
+18:13 | But over the next couple of years when I worked with Amazon I just saw us go like you know Amazon and Kiva Systems go up 10X and that wasn't because of heroics
+18:22 | Heroics doesn't take you to 10 X scale uh every year
+18:25 | What does is to put in systems and processes to think about the different contractors to think about planning uh and that's what I learned at Amazon is to g- is to transition from heroics to scale
+18:37 | And and when Amazon Amazon acquired Kiva so everyone around you celebrate
+18:45 | So what mix of emotion did you personally feel at that moment
+18:49 | So at the time I was just a couple of years into Kiva Systems
+18:53 | I'd never been through an acquisition uh and honestly at the time I was still just obsessed with our customers
+19:00 | Uh it wasn't something I really absorbed until years later
+19:03 | I thought it was really cool but I was at the time obsessed with our you know Kiva System commercial customers and then the Amazon business and I was just focused on execution
+19:13 | Uh looking back uh you know I think the k- acquisition of Kiva Systems by Amazon was probably one of the best acquisitions that Amazon did
+19:23 | you know now there over a million robots in all the Amazon warehouses throughout the world
+19:27 | Um but it wasn't something I really appreciated until after I le- left Amazon in terms of the scale and the success that they had in terms of incorporating that technology and those people into Amazon
+19:39 | Um as you mentioned Amazon is an extraordinary company when it comes to scaling
+19:45 | So yeah few comp-- few companies in the world have grown at the at the pace I think
+19:50 | So yeah from that perspective when you were deploying thousands of robots at Amazon Amazon so how did you learn to strike the right balance between economics of scale and reliability
+20:02 | Yeah
+20:03 | So when we were scaling the Kiva Systems and the robots into all of the Amazon warehouses one lesson that I learned is it was really all about the team
+20:12 | There's only so much that I as an individual could do but I had to hire just amazing people who could deal with the ambiguity who them- they themselves could hire amazing people
+20:23 | They could put processes and systems in place to kind of help us uh get to the next level
+20:29 | Um and that's something that we did really well uh at Amazon
+20:32 | Um and we had the capital to do it
+20:34 | Like Amazon was very long-term thinker and they said: "Hey we're not in this for the next year or the next 2 years
+20:39 | We're this in in this for many decades." And that you know I think one of the challenges about sometimes when you're at an early-stage company and you've just raised your seed round is you're just kinda like you know thinking about the next month or couple of months and how do you survive and you're not really thinking long term
+20:54 | But Amazon definitely had this long-term thinking and there's never this mentality of like: When are we gonna raise the next round of capital and what it's gonna take
+21:01 | It's like we have the capital we have the customers the market opportunity is there
+21:05 | How do we kind of fill that void
+21:08 | Of all the lessons you took away from your time at Amazon so uh what's the one insight you still found incredibly useful today and something that continues continues to guide your work
+21:20 | Yeah
+21:20 | So one of the things that I learned at Amazon was the value of a white paper versus the value or lack of value from a a PowerPoint
+21:29 | And I think sometimes when you go into a planning process you can tell when someone's not prepared or if they just throw up some bullet points on a PowerPoint
+21:36 | What we learned at Amazon is the value of planning and then taking that planning and actually being able to put it into a document that anyone can read and understand exactly what you're doing
+21:47 | And part of A-Amazon's sort of methodology was taking away a lot of the buzzwords that you traditionally would use and then putting like concrete numbers and facts and things that you're going to achieve and things that you can be measured against
+21:59 | And that was a super valuable kind of uh lesson in terms of like actually doing planning
+22:05 | And then when you go into a planning meeting so you'd spend weeks coming up with a document
+22:10 | It'd be 4 pages of written material with some appendices at the end
+22:13 | You'd go into a meeting you'd spend the first hour just reading through the material because sometimes the senior leaders wouldn't have time to read the material the night before
+22:23 | So you'd schedule a three-hour block and the first hour everyone would just read through the material
+22:26 | It'd be printed in front of you
+22:27 | They'd take notes take notes
+22:30 | So the leaders would take notes and then you'd go into a very detailed discussion about your plan
+22:35 | You'd get a lot of feedback and then when the plan was approved it was very clear about what you were to do because you had that document
+22:40 | That's a super valuable skill that I think for someone if your experience has just been in start-ups start-ups start-ups sometimes start-ups don't have that uh opportunity or that kind of skill set or that muscle to kind of do that detailed planning
+22:54 | But I learned that at Amazon
+22:56 | How do you uh I think you you already mentioned briefly but I want to ask more details
+23:03 | So how do you apply the the the lesson from Amazon to your life as a founder today
+23:08 | So and what what do you feel is so important and uh could you share how all these stage founders might also benefit from that insight
+23:17 | Yeah So uh I feel very fortunate to have experiences working at uh many different companies at different stages
+23:24 | And one of the things I appreciate is understanding the stage of the company you're at
+23:28 | And so at a company at scale take Amazon I learned about the planning process and what it takes to do you know weeks of planning to create a white paper to put it in front of cedure-- senior leadership and then get buy-in your plan and then to go execute that
+23:43 | But when you're at a startup you don't spend necessarily weeks of uh time doing planning
+23:47 | It just doesn't make sense
+23:48 | You're moving fast
+23:49 | Things change so frequently and so that's the early stage
+23:52 | And sometimes people use this framework of like are you trying to go from zero to one or are you going from one to ten or are you going from ten to a hundred or something like that
+23:59 | In fact you'd say Amazon's going from a a hundred to a million or whatever like that
+24:03 | But I think you need to understand the stage that you're at and the amount of processes that you want to put in place at the company and how fast do you want to move
+24:10 | And so I've seen the early-stage companies at my last company called uh 6 River Systems
+24:15 | We started the company around my uh co-founder's dining room table and we took it up to the scale where we're in hundreds of warehouses throughout the whole world
+24:23 | We're doing that again at Blue Water where again we started around a conference room table uh and now we've built this test vessel
+24:31 | And so understanding the stage that you're at and the people that you want to surround yourself has been super helpful just to kind of build and not try to reinvent the wheel in terms of uh being at different stage companies
+24:40 | Thank you
+24:41 | And why did you leave the security of Amazon to start 6 River Systems
+24:46 | Yeah
+24:47 | Uh so when I was at Kiva Systems which is now known as Amazon Robotics I had an amazing experience and there was a moment where I thought I'd spend my entire career there
+24:57 | Uh but I came to a moment where I had to decide that if I wanted to stay in Boston I kinda had this sort of ceiling above me in terms there's only so much that I could do there's some really strong leadership uh at Amazon Robotics in Boston
+25:10 | But if I wanted to kind of really push myself I-- you know it made sense for me to move to Seattle
+25:15 | And so it was a moment where I said: Do I want to move to Seattle and go continue to work for Amazon or do I want to see what else is out there
+25:22 | And I just decided to take that latter path and kind of go back into the startup world uh which I found like more exciting in terms of rather than sort of being put in this big system uh where you're kind of like you're focused on this narrow problem
+25:34 | I wanted to go back and have more breadth in terms of what we were doing and so it wasn't obvious at the time but I jumped back into startups after being at Amazon for 4 years
+25:43 | Also at the time there was a leadership transition where some of the original leaders at uh you know Kiva Systems like Amy and Mick and Dave were leaving and there was a kind of new group of leaders coming in and so it felt like a natural time for a transition
+25:59 | At the start of 6 River Systems 6 River Systems so what specific problem did you feel this is meant to solve
+26:06 | Yeah
+26:06 | Uh so when I left Amazon Robotics and I was trying to figure out what I wanted to do next starting a company was definitely not at the top of my list of things that I wanted to do
+26:15 | In fact at that time everyone was super interested in robotics because this company Kiva System had just been bought by Amazon and the solution was working really well
+26:24 | And so people were saying: How can we rethink automation within warehouses
+26:27 | And also at the time e-commerce was booming and so now people are saying "Oh I can order something on Amazon and get it in 2 days." And so there's a lot of interest in warehouse automation
+26:36 | So I spent a couple of months actually talking to some really cool and interesting companies uh really pushing the boundary in robotics
+26:43 | And what I learned at the time is there's some really smart people with some interesting ideas but nothing really past what I would call the sniff test of do you have something that's interesting that also that you could give to a customer that is magnitudes better than what they're doing today and also has a return on investment within 6 to 18 months
+27:01 | Kind of that quick payback that Kiva System had and I didn't see it
+27:04 | But the technology was getting really interesting because at the time people were actually creating you know what I would call a collaborative autonomous mobile robot or a self-driving vehicle in warehouses
+27:15 | And they're able to do it because the cost of the sensors had come way down
+27:18 | So you could take a lidar that used to cost $10,000 and now it costs $1,000 and this was back in 2015
+27:24 | The compute was getting really cheap and really fast
+27:27 | So this company called NVIDIA had these GPUs and I think everyone knows what NVIDIA is now
+27:32 | Uh but NVIDIA was still a cool thing back 10 years ago and was a very impressive company
+27:37 | So you take the sensors the compute and then you also take some open-source software and pretty quickly come up with some prototypes uh that you could put in front of a customer and see if it worked
+27:46 | And so the opportunity it just felt so obvious
+27:49 | And uh you know Jeff Bezos at Amazon has this framework it's called the regret minimization framework and you say you know if you look at an opportunity are you gonna regret it in 5 years if you don't try that thing right now
+28:00 | And that's how I felt back in 2015 with some of co-founders said "We're just gonna kick ourselves in 5 years if we don't start this company
+28:06 | We know the odds uh are stacked against us
+28:09 | We know the chances of success are low." But the timing really felt really good at 6 River Systems back in 2015 to try to create a disruptive system where you could take fairly smart autonomous mobile robots put them in a warehouse not have to rip up all the existing infrastructure and create an automation solution that could increase pick rates by 2 to 3X
+28:29 | And it actually worked and it worked really well
+28:32 | After founding 6 River Systems so the company grew rapidly
+28:36 | So yeah what's-- what were some of the key turning points in winning all the customers and scaling the product and what moments or achievements stand out to you the most uh as the the most as the company grew
+28:51 | Yeah
+28:52 | So at 6 River Systems uh the first kind of aha was we're actually able to increase pick rates
+28:58 | And so it wasn't about oh the robots are really cool or anything like that
+29:02 | It literally was saying you know yesterday they were picking with carts and they're doing a manual operation and they're picking at 80 units per hour
+29:09 | And then today we're able to implement a robotic solution and now they're picking at 200 units per hour and we knew the cost of robots we knew the cost of implementation but we knew like inside that we had something that it was gonna work
+29:22 | But we actually had to go scale this 'cause there were sort of early versions of the robot but we just knew from the business economics that there was something there and that was super thrilling
+29:30 | And it took you know a year year and a half to kind of come to that aha moment
+29:34 | Now our investors didn't necessarily know that
+29:36 | They were-- You know they would see slides about what we were doing but the team and the people who had experience we said "There is something here." And then we went into the hard part of actually scaling the business
+29:45 | We raised more capital
+29:46 | We you know took our product through you know new product intro uh production
+29:51 | We developed the next generation of robot
+29:53 | We built the sales team and there weren't necessarily aha moments but it was just kind of a day-to-day It's almost like ground combat
+30:00 | Like every day you show up to work and there are different problems that you have to solve but you believe in the mission and you know it doesn't feel like you're necessarily making progress on a day-to-day basis
+30:10 | But when you take a step back and you look at the progress over quarters you could really just feel the company growing seeing the solution working in many different types of warehouses
+30:18 | And then one of the best things is when you sell one system to a customer and they implement it in many different warehouses and they say "We've used this once and we've used it many different times." And those are some of the thrilling moments about being in a startup
+30:31 | Uh even during the growth growth period so uh what uh Like I want to ask more detailed story about your challenges
+30:40 | So what challenges or early warning si- signs did you did you notice
+30:45 | And looking back what did what do you wish you had paid more attention to
+30:50 | Yeah
+30:51 | So if you start a company and part of your company is developing proprietary hardware it's just hard because you create a concept maybe you create the first couple and maybe they work in your own sort of R&D facility and you can show someone and the customer believes in the concept
+31:08 | And then you make the next ten and then you actually ship it to a customer's warehouse and they use it but you still might have someone who's there every day or who's there once a week and they can deal with all the sort of little little issues
+31:19 | Like a cable becomes disneco- disconnected and you need to reconnect it or you need to replace a motor or something like that
+31:26 | But that works and that's kind of showing that hey you can take a concept from your R&D facility and you can move it into customer warehouse
+31:33 | And then you build the next hundred and you actually might build those hundred not at your own facility but you might find a contract manufacturer
+31:39 | And then sometimes those issues where you could kind of fix a cable when you had 10 it gets a lot harder when you have a hundred and now you need to figure-- and so you need a sort of higher bar in terms of reliability and the quality of your product
+31:51 | And then your mindset goes "Okay we made a hundred
+31:53 | Now how we make a thousand?" And so the problems just get exponentially harder in terms of have you know supporting the hardware systems that are out in the field
+32:02 | And so you always have this 10 X mentality like the things we did when we were 10 a hundred or 1,000 robots don't scale necessarily and so you almost need to reinvent the company
+32:11 | And uh you know so hardware inherently is hard but if you create something that's disruptive it definitely is a moat around you and makes it harder for that next company to try to catch up and do what you're doing
+32:22 | 6 River Systems was your first startup so-
+32:26 | Yeah
+32:27 | Uh I-- Uh Jensen Jensen of NVIDIA once said that if he could go back he wouldn't choose to be a founder again-
+32:35 | Yeah
+32:35 | because it's so har- so hard
+32:37 | So then I'm curious given your Navy background and corporate experience so-
+32:42 | Yeah
+32:42 | did the founder's life feel overwhelmingly overwhelm-whelmingly difficult for you for you as well or was it more manageable than you expected
+32:53 | Yeah
+32:53 | So I really take Jensen's advice at NVIDIA to heart that he probably wouldn't go back and start another company because it is so hard
+33:01 | Uh and when I left 6 River Systems uh I wasn't necessarily looking to start another company
+33:06 | In fact I worked with a couple other companies a couple other founders
+33:10 | I was doing some advising work but I was definitely exploring and I found myself kind of itching to do something
+33:16 | And when I started exploring the opportunities in sort of what we call defense tech uh and looking into sort of how the Navy was adopting autonomous systems I just kind of fell in love and I found this passion and I did a ton of research
+33:30 | And I found myself at a moment where saying "I feel like there's a moment where the Navy is really gonna go uh you know hard into adopting all these different types of autonomous systems whether they're in the air they're on the surface of the water or they're underwater." And when I thought about the missions that the Navy did when I was in the Navy and the blue water missions the missions that our large manned warships do and then the way that we could do them with unmanned systems and even complement our
+33:55 | manned uh you know fleet I said "There's like a once-in-a-lifetime opportunity to go start something." The opportunity is even bigger than my last company which is in warehouse automation and myself and some of our founders brought you know this unique skill set and experiences of you know a couple of us also ser-- you know served in the Navy and a couple of us have been in robotics and we could kind of fuse our naval experience with the robotics experience at a time when you know autonomy in some ways is becoming a commodity
+34:24 | To make a system that can you know navigate autonomously whether it's on the open ocean or on the streets of San Francisco like it's doable
+34:32 | It's gonna be hard
+34:33 | I just said you know again "I'm gonna kick myself if I don't start this company in 5 years because the moment is now
+34:39 | I can't wait a couple of years 'cause it'll be too late." But I understand why trying to start this company 5 years early probably would have been too early and could have been too hard
+34:49 | As to a follow-up question so I I think many founders say that what ultimately carried them through the hardest part of the journey is their mission
+34:58 | So yeah
+35:00 | Yet we also see founders who start business without a without a clear mission
+35:06 | So-
+35:06 | Yeah
+35:07 | for you why is having a mission so important and what role- place in founder's life
+35:14 | Yeah
+35:14 | Uh when you start a company and you wake up every day you know that your day is gonna be hard
+35:19 | But if you have a mission that you believe in it really becomes that natural sort of caffeine to just really get you through the day and get you excited about what you do
+35:28 | And it becomes a job of passion a job that's just really unique
+35:32 | And if you can find the right mission and the right opportunity and everything's working it's just an amazing experience
+35:39 | And when I think about Blue Water and what we're doing it's not just a cool mission because we get to build autonomous ships that can navigate across the world's oceans
+35:47 | It's also that we're helping defend our country and creating sort of the most powerful navy in the world that can create you know freedom of navigation all throughout the world and project power when we need to
+35:59 | And the Navy that I was in 20 years ago we had the world's most powerful navy and there's really no pure competitor
+36:06 | But today as we think across the world there are definitely these geopolitical uh you know trends that are happening and events where we have other navies that are-- can out-compete us on shipbuilding
+36:17 | And so we need to really rethink what our future navy looks like
+36:19 | It's gonna be a hybrid navy where we have manned and unmanned ships out in the open oceans and Blue Water can do its part in terms of helping accelerate the technology on the unmanned side
+36:30 | And when we think about competing uh with China in terms of you know we're not gonna uh compete on shipbuilding
+36:36 | China builds half of the world's ships uh but we can compete on tech
+36:41 | The United States is really strong on autonomy and technology and so we can take that strength and then apply it to our today's navy
+36:49 | before before the Shopify acquisition so what was the most difficult strategy choice you faced about the future of the company
+36:58 | Yeah
+36:59 | So I think when you start a company uh you're always ambitious and you're always trying to move as quickly as possible
+37:05 | One of the things we learned at Six River Systems before we were acquired by Shopify is that you really have got to focus on one product and it's always tempting to kind of move fast and think about like what's next
+37:16 | Let's launch new prod-- a new product
+37:19 | Let's put a robotic arm on our mobile robot
+37:21 | Let's cr-create a new form factor or larger mobile robot or something
+37:25 | The challenge is that you know m-m-most companies in the early stages don't have the capacity to support and launch multiple products at the same time
+37:36 | And so at 6 River Systems we definitely learned in the early days when we tried to stretch ourselves a little bit too far that while we got super excited about the market opportunity about the slides that we put in front of board members we were really kind of overstretching engineering and that you would kind of go and you talk to you know the engineering teams
+37:53 | And for instance you talk to the manager of the electrical division and you'd find that his head was split between trying to like focus on your core product and focus on an advanced new mobile robot that you'd want to launch
+38:05 | And he was doing an okay job in both
+38:06 | But when you're a startup like doing an okay job is not good enough
+38:09 | You have to do an exceptional job 'cause you're competing against products that exist in the industry and that work today
+38:15 | And so the lesson learned was focus really matters at an early-stage company and really make sure that you take your product uh and you deliver something that's exceptional to customer and not try to get distracted by kind of new product launches
+38:29 | Um after after the Shopify acquisition so when Six River Systems ended up-- ended very differ- differently than expected
+38:37 | So uh what did you as a founder learn most from that experience and how has that lesson shaped your strategy at Blue Water
+38:46 | Yeah
+38:46 | So when we got acquired by Shopify uh Shopify was building out a logistics division something that could basically give Shopify merchants the same experience that a merchant selling on Amazon would have
+38:57 | And one of the things we could never have anticipated was that it was just before COVID and so it was quite the ride that we went through with Shopify where Shopify went from being a company worth thirty billion dollars to a company worth two hundred billion dollars
+39:11 | And we kind of went through the ups and downs of the public markets uh which was exciting but it's definitely something we didn't anticipate before gotten bought
+39:20 | What's nice about being a private company again is we're not thinking about the public mar- markets in terms of what our planning is on a quarter-by-quarter and annual basis and we really just get to focus on our core customer and build something for the long term
+39:33 | Uh so definitely I hope there's not another event like COVID that happens but it was quite the experience to kind of you know be at a company like Shopify going through COVID
+39:43 | And you you said if you if you overengineer if you if you overengineer reliability so you can't mass product produce produce
+39:53 | So what concrete inc- incident drove that uh realization
+39:59 | Yeah
+39:59 | sorry can you ask the question again think
+40:01 | Oh yeah
+40:02 | You uh uh you you had said uh if you overengineer reliability so you can't you can't mass mass produce
+40:10 | Yeah
+40:10 | So yeah
+40:11 | What concrete incident drove that realization
+40:15 | Yeah
+40:15 | So I don't think you can ever overengineer reliability
+40:18 | No one has ever complained about something being too reliable
+40:21 | Uh I think when I think about reliability I think about my iPhone
+40:26 | It's in my pocket right now
+40:28 | It's the device that I use to wake myself up up every morning with an alarm clock
+40:32 | It's something I just rely on
+40:34 | And when you think about s-- industrial solutions or solutions that you sell into the defense market- It just has to work all the time
+40:41 | It's not something that can work 9 out of 10 times
+40:44 | And in fact the end user you know ends up being s- someone who you know could be junior in their career
+40:50 | Uh in the warehouse market they might be making $20 an hour or something like that
+40:54 | They're not an engineer by training
+40:56 | You can't expect them to go in and look through the event logs to figure out what's happening
+41:01 | You know maybe they'll you know turn off turn off and turn on your system again
+41:05 | But uh reliability is probably one of those underappreciated features that when you have a sales team they're not going in and be like: "Oh we're super reliable," 'cause people kind of expect that
+41:15 | So it's something I've learned over time about being in sort of warehouse and industrial automation is that reliability is something you need to focus on from day one
+41:23 | You can never put enough investment into that and it's something that uh is always sort of underappreciated but if you miss on it you'll get fired right away
+41:32 | Yeah
+41:33 | As uh as you mentioned uh mentioned Six River System went through some very challenging time after the uh acquisition
+41:42 | Yeah
+41:42 | as a founder how did you personally navigate that difficult period period and what mindset helped you get through it
+41:49 | Yeah
+41:50 | So after Six River Systems was acquired by Shopify um one of the good things to happen is we really scaled the technology from over twenty w- warehouses to over one hundred warehouses
+42:02 | We went through COVID
+42:03 | We figured out actually how to deploy systems remotely
+42:06 | But then at a point Shopify actually decided that they're actually a really good software company but they weren't necessarily the best logistics company and so they decided to uh change their strategy
+42:17 | They actually sold 6 River Systems to another actually really advanced robotics system out of the UK called Ocado
+42:23 | It wasn't something that we had an- anticipated but I think I learned a lot going through that experience about what it's like to work for a really large public company where they have a really strong mission and where you're kind of like an important part of that mission but you're not the primary part of that mission
+42:37 | And sometimes you can't always control the strategy or what's gonna happen
+42:40 | I think for a founder like myself um I actually really enjoy being sort of again back in the founder role because you get a lot of control and you get to move quickly and you know while being part of a public company it's great
+42:53 | You can see what the price of your stock is every day
+42:55 | I'm just not the type of person who's necessarily well fit to be in a larger kind of more bureaucratic or larger organization
+43:02 | I love being kind of at the leading edge of a technology of a movement uh and being able to move fast and make decisions
+43:10 | And sometimes you know I talked about earlier about you know Amazon they had this white paper process and you'd spend weeks on planning
+43:16 | Well that's not where we are today
+43:18 | We definitely plan and we think ahead but we definitely bias for moving fast
+43:22 | We bias for speed; we bias for agility
+43:24 | The market's super early in terms of how the Navies think about adopting these different systems
+43:28 | So we need to be able to listen to the customer internalize it and then react super quickly
+43:33 | And that's just not something you can do when you're a necessary part like of a larger company with hundreds and hundreds and hundreds of people trying to work on many different product lines all at the same time
+43:45 | And looking back on your first start- startup journey so if you could leave just one lesson from that journey to share with other first-time founders so what would what would
+43:57 | Yeah
+43:57 | Uh so you mentioned before how Jensen's advice uh is maybe not to go start a company
+44:03 | I do talk to a lot of founders
+44:05 | I try to help them because I was also helped by previous founders
+44:08 | People put in their own personal time to give me advice when I was early on the career uh at my previous company
+44:14 | And a lot of times I kind of advise people not to start a company because it is so hard
+44:19 | Sometimes your success is controlled by things or is dictated by things that you can't control and so-- and the odds you know of success are pretty low
+44:28 | And and it also takes many years to actually know if you're gonna be successful
+44:32 | So a lot of times I actually advise you know uh first-time founders that they might actually wanna go do something else
+44:39 | It depends on what they're trying to optimize on but sometimes people don't take that advice and they decide to start the company and they're super successful
+44:46 | Um you know and I only can give advice but that's definitely s- you know something that advice that was given to me by other founders when I was thinking about starting 6 River Systems which is my first company uh is people said: "Maybe you don't want to start that company
+44:57 | It's really hard."
+44:58 | Thank you
+45:00 | Then let's move on move on to the story of founding Blue Water
+45:03 | So so you briefly mentioned it earlier but but to ask again so after every- everything you went through what gave you the conviction to start again
+45:12 | Yeah
+45:13 | Uh so one of the opportunities I had after I left my last company is I had a a period of time to just go explore
+45:19 | And Blue Water was not the first idea that I came up with but I was looking into a lot of different verticals
+45:26 | Uh and w-- you know uh I knew someone who actually worked at Anduril which is a really impressive defense tech startup and I realized at the time that like you can actually start a company and then sell into the defense market and that wasn't sort of a concept or a framework that I had you know ten or twenty years ago when I was thinking about different sort of startup opportunities
+45:46 | Um but I started exploring and before I said: "I want to go start something," I said: "Let me just go learn more about this space." And so every week I would have 10 to 20 different conversations with people
+45:56 | Sometimes I was introduced sometimes I'd guess their emails sometimes I'd reach out on LinkedIn and I really just tried to get smart about the uh opportunity set within sort of defense and within the Navy
+46:07 | And what was amazing is if I started the first idea that I came up with I would not be here today
+46:12 | Uh but I just uh had an open mind and just wanted to absorb as much information and get really smart about the opportunity
+46:19 | A lot of people don't necessarily have that opportunity though 'cause a lot of us are y- you know- uh have a career
+46:26 | We're super busy every day and we might if we're thinking about a startup idea might put a little bit of time in the evenings or on the weekends but you can't have 20 conversations over the period of 6 months to get smart about an area
+46:38 | But because of that experience and that opportunity I really think I picked like the most ambitious but yet simplest idea that was out there
+46:45 | was like: Let's go build autonomous ships for the Navy
+46:48 | It makes a lot of sense
+46:49 | It's just you know takes a fair amount of capital
+46:52 | It's not the easiest technical problem but every time we tell people about what we're doing no one ever pushes back and says "That doesn't make any sense." They just say "That's a hard problem."
+47:02 | When you first realized China was building ships two hundred times faster than US so what went through your mind
+47:11 | Yeah uh when I th- think about you know the Pacific and I think about China which is a pure competitor uh which is you know building a navy that's com uh competitive to the US
+47:22 | Now I will say the US still builds the best warships that are out there
+47:26 | We are generations ahead on our aircraft carrier and our submarines but when it comes to just building like you know raw tonnage that we can put in the Pacific China is like definitely a competitor in that space
+47:38 | Um I started just trying to get smarter about the you know this this space
+47:41 | I learned about the Jones Act
+47:43 | I learned about you know the large naval shipyards
+47:45 | I learned about some of the delays that we have in some of the large shipbuilding programs and learned about how big of a pain point it is and how we're not gonna overnight change our shipbuilding capacity in the United States and so we need to rethink the problem
+47:59 | The other piece that uh that was happening in parallel was the war in Ukraine where we're learning about basically drone warfare
+48:05 | And it becomes almost this this financial sort of uh back and forth between we're gonna basically launch autonomous systems uh or 2 countries will launch autonomous systems at each other and then it's basically a game of like volume and manufacturing and how much capital you can kinda deploy to the front lines
+48:21 | That's what we're seeing in ground warfare right now
+48:23 | The question is what happens in naval warfare
+48:25 | And I-- and we don't know but the thing we can't do in the US is we can't fall behind in terms of developing next-generation autonomous systems
+48:33 | So you know hopefully there's never a conflict and we're building uh all these capabilities for deterrence not to co-- not for conflict but we can't find ourselves that if we're in a future conflict uh behind the ball
+48:44 | Mm-hmm
+48:45 | And why why did you ch-- Why why did you choose a defense first approach
+48:50 | Uh and what have what have been its great- greatest strengths and drawbacks
+48:55 | Yeah
+48:56 | So uh at any early-stage startup you need to be super focused on one customer with one product
+49:03 | When we're thinking about the opportunities on the commercial market for autonomous ships and then on the defense market the commercial market is super interesting but there's still some regulatory sort of hurdles and obstacles that need to be o-overcome
+49:16 | But when you looked at the defense side and we look at some of the geopolitical threats that are happening in all the areas of the world especially around the Pacific we saw a critical need we saw a customer with a willingness to pay and we didn't see any of those sort of uh regulatory obstacles that you have on the commercial side
+49:33 | And we said: We believe in maritime autonomy
+49:35 | We want we want to accelerate it but we're gonna focus on the defense market
+49:39 | And then if you look at the founding team we're you know uniquely positioned to actually work with the customer because you know to us we served in the Navy
+49:46 | We understand the customer we understand the mission we understand the system of systems that exist within the Navy and so we thought we were uniquely positioned to kind of uh sell into that market
+49:58 | And if you had if you had just one minute to convince critics who say uh retro retrofitting is better so so what's what's your strongest line of defense
+50:10 | Sorry what was the question about investors
+50:11 | Uh if you had just one just one minute to convince critics who say retro- retrofitting is better so-
+50:19 | Retrofitting
+50:20 | Yeah
+50:21 | Or is it I have a retro
+50:22 | Uh something that did not happen from manufacture like retrofitting
+50:28 | Oh retrofitting
+50:28 | Yeah
+50:28 | retrofitting the vessels
+50:29 | Mm-hmm
+50:29 | Okay yeah
+50:30 | Better
+50:30 | So what's your strong- strongest line of defense
+50:34 | Yeah
+50:35 | So our approach at Blue Water is we're not retrofitting existing vessels to make them autonomous
+50:40 | We're literally redesigning a ship from the keel up
+50:43 | Part of that reason is my experience in the Navy was that today's naval ships and commercial ships have engineers that are on the ships that are standing watch every day and they're maintaining and repairing the vessels
+50:56 | So to take that commercial design or that naval design and think that you can put some sensors or actuators and try to make it unmanned for months at a time just won't work
+51:06 | There are too many single points of failures and the cost that uh the Navy would have to bear if one of these vessels is dead in the water in the middle of the Pacific is super expensive
+51:16 | You then need to take a vessel that maybe costs $100 million like a you know the tow truck for the open ocean send it out to go rescue this autonomous vessel
+51:24 | And so our experience said we have strong conviction that we really need to kind of focus on what we call engineering autonomy and kind of this modular architecture that will actually allow these vessels to be out there for months at a time
+51:37 | Now if you're creating an autonomous system or an unmanned surface vessel that's of a small size that maybe is doing a littoral mission that has to be out there for a day or 2 at a time you could probably take some existing designs and put some sensors on the outside uh and test with that
+51:53 | And if there's a failure maybe it's only 20 miles off the shore and you can send it out there
+51:57 | It's not that expensive
+51:59 | But our really-- our mission and our purpose is really autonomous ships in the open ocean and we had strong conviction and we got a lot of good feedback that you really-- you can't take a commercial design and do a retrofit for the missions that we're focused on
+52:13 | Thank you
+52:14 | And why the name Blue Water again What symbolism or intention lies behind
+52:20 | Yeah so uh the United States Navy is a blue-water navy
+52:24 | The blue water is the color of the open ocean when you're in the middle of it and it resonates a lot with our customer and it's very simple and clear in terms of what we're focused on
+52:32 | Um there's like a brown water there's uh other types of kind of uh colors uh you know out there but the blue the blue-water navy is what we've been focused on
+52:41 | It really symbolizes the open ocean and it's also we're not just an autonomous warship company
+52:46 | We're really focused on maritime autonomy for you know defense and commercial applications
+52:52 | Uh and our technology really extends to any vessel that's operating across open oceans
+52:56 | and from sketching on on a napkin to launching your first test vessel so what was the most honest-- unexpected challenge you faced
+53:06 | Um so one of the challenges that we faced at Blue Water Autonomy going from sort of the napkin sk- sketch to kind of our first test vessel that's a hundred and forty-five tons is uh just lead times on you know maritime uh the mar-- in the maritime supply base
+53:21 | So my previous experience had been in sort of mobile robotics
+53:25 | Uh one of my other co-founders Scott Miller he'd been an early employee at iRobot and then he'd also worked at you know and consulted with other companies like Ring
+53:33 | And then some of the supply components in that-- those spaces you can basically order overnight and you have delivered when you're kind of building early systems
+53:40 | But when you're looking for a five hundred horsepower thruster or you're looking to create basically the microgrid on these different vessels and the switchgear and the components these aren't components that are on in a warehouse on a shelf somewhere that you can you know order and have delivered the next day
+53:55 | And so we've had to put a lot more thought uh into the early design and being a lot more deliberate about what we're building because just of the lead time and the capital expenses for what we're doing
+54:05 | Um that said uh because of that time and thought that we've put into it we've actually found the quality of what we've actually built and kind of what we call the V1 to be a lot higher than we-- what we've expected
+54:16 | Thank you
+54:17 | And within within a year you secure over 50 suppliers so how did you how did you persuade persuade them and how many times were you turned down
+54:28 | Yeah
+54:28 | So uh we've definitely spent a lot of time with suppliers and trying to figure out who are the best suppliers who can move quickly who have great products that we can basically incorporate into our vessel
+54:39 | Similar to mobile robotics when you think about an autonomous ship it's basically one of the world's largest mobile robots where we're taking commercial off-the-shelf components that are proven to work in the commercial industry and then we're putting t-them together in a novel way and writing all the software on top of that
+54:55 | And so as we went out and we talked to different suppliers one they believe in our mission
+54:58 | They're super excited about what we're doing
+55:00 | No one doubts that they're you know the future maritime uh industry will be in software-defined ships
+55:06 | Many of them will be autonomous and so there's no like convincing that there's an opportunity there
+55:11 | It's just a matter of timing
+55:13 | And the other piece is I think uh we're fortunate that when you look at our leadership team we have people who've kind of been there and done that
+55:20 | And especially in the early days when we were talking to people you have to sort of build up your credibility
+55:24 | And the fact that you know 2 of us have been in sort of the mobile robotics space for the last 20 years gave us a lot of credibility uh to basically move fast and get the right and the best suppliers on board very quickly
+55:36 | And
+55:37 | uh and has there has there been a time when the when the uh Navy plainly plainly plainly said uh "This will never work," and how did you overcome that
+55:55 | Yeah
+55:56 | So the Navy's been a great partner for what we're doing
+55:59 | Um you would have thought that the Navy would have been skeptical about what we're doing would have told us "This won't work," would have said "It's gonna take a long time." But in fact the opposite has been the case that we've seen a ton of support from the Navy
+56:13 | We've even seen Congress allocate over $2 billion to what we're building and that's-- the Navy has to spend that over the next couple of years
+56:20 | So sometimes you know something you can't control in a startup is timing and sort of the macro environment
+56:26 | But for what we're doing and I think the Navy's feeling the same thing is the tech is there
+56:30 | We're doing something that's achievable
+56:32 | The need is there and there's funding to do what we're doing and so we've just felt incredible macro kind of tailwinds kind of s- pushing us uh as fast as we can go and the Navy's felt the same things
+56:44 | And so we haven't felt much skepticism
+56:46 | In fact the only comment that we've really gotten in terms of someone trying to uh sort of kid with us has said "Let me know when you get your test vessel past the sea buoy." And in fact we just did that and we sent uh this person a video of our vessel out in the open water and he was super impressed
+57:03 | But that's the kind of you know skepticism we've gotten is saying: Let us know when you've built something let us know when you're testing on the open water
+57:09 | But no one said "I don't th-- I think what you're doing doesn't make sense," or kind of really put pushback
+57:14 | I think we've felt a lot of support in terms of what we're doing
+57:17 | You've said you've been 3 years ahead of requirements so how do you actually man-manage them
+57:24 | Yeah
+57:26 | If I think about what our job is at Blue Water we're almost product managers within the Navy
+57:31 | Our job is to basically talk to anyone in the Navy who thinks about anything unmanned
+57:36 | And when you talk about the Navy it's just like talking about Amazon or any large company
+57:39 | There's not one person that you can talk to who tells you what the Navy's gonna do over the next five years
+57:44 | And so our job has basically been to absorb and listen and think about what the requirements could be
+57:51 | And I think when we come up with the requirements and what we're building right now it's not a shock to anyone in the Navy but understandably it takes them time to take it through many different layers of review to get buy-in from the war fighter from the engineers from the acquisition office to what the Navy wants to build
+58:07 | But we have confidence and we could be wrong but we think we're right in terms of what we think the Navy will need 3 and 5 years from now and so that-- we're building that today
+58:17 | Then compared to your first start startup journey so what feel what feels most different about building Blue Water this time around
+58:26 | Not in terms of the product itself but in how you approach building and running the company
+58:32 | Yeah
+58:33 | So at Blue Water compared to my last company the market opportunity is magnitudes bigger and that gets investors excited it gets employees excited it gets me excited
+58:45 | And when we think about what we're building we're building systems that cost tens of millions of dollars
+58:49 | We're not trying to build a one-way kind of autonomous boat that that maybe costs a couple hundred thousand dollars
+58:56 | We're building vessels that can be reused that you can operate from port to port that can carry payloads that matter
+59:04 | but in terms of funding the business and kind of convincing people it's a big opportunity no one questions the opportunity that we're doing
+59:11 | And so that's super exciting because it actually makes the kind of recruiting of employees raising money a lot easier because the opportunity is so big and that's something that you can't change halfway through a startup
+59:25 | I'm curious Why did did you choose your uh your co-founders uh your co-founders as your co-founders
+59:33 | Yeah
+59:34 | So I have an amazing group of co-founders
+59:37 | Um the first co-founder I met was Austin Gray
+59:40 | We were actually introduced by another vet who'd also been in the Navy and Austin and I actually met two hours after being introduced in Boston uh over a beer and I was just like It's the fastest I've ever met with someone and I could tell right away that this person was very fascinating was really thoughtful in terms of their approach and was also very interested in sort of maritime autonomy and how the Navy was gonna adopt uh autonomous systems and use them for different missions
+01:00:08 | And so from the minute I met Austin I said: "You know what
+01:00:11 | We just need to like meet like once a week." He was still in graduate school
+01:00:15 | He definitely wanted start a company but he was kind of the early days of exploring trying to figure out what the opportunity was and how to structure it together
+01:00:22 | And so the great thing is Austin and I then spent the next 4 months working on Blue Water before we actually decided to like really start the company
+01:00:30 | And we got to know each other we got to understand each other's uh styles
+01:00:34 | Uh and so it was definitely like sort of a try before you buy on both sides
+01:00:38 | And then our other co-founder Scott Miller when I said: "You know what Austin
+01:00:42 | There's a massive opportunity for this
+01:00:44 | I think we refined the business model and it makes sense but we're not the technical people who are gonna actually go build autonomous ships." I then used my network in Boston and there are a lot of really impressive robotics and kind of hardware software companies in the Boston area
+01:00:58 | And so I just started meeting as many people as I could and said: "Who's the best person that you think would be for this job
+01:01:04 | Who would be super interested in joining an early-stage company?" And someone I've actually known for the last decade Scott Miller uh ended up becoming that third co-founder
+01:01:13 | He'd been you know at the early days at iRobot when there were 5 people in a r- room working on the Roomba
+01:01:19 | He then moved and basically uh helped ramp up their supply chain and manufacturing uh for the first 4 million Ro-- million Roombas
+01:01:26 | And then he's kind of been this hardware software ninja in the Boston area working with a lot of different kind of companies
+01:01:33 | And I actually could tell from the first 5 minutes when we had lunch and I kind of explained the idea that he was hooked
+01:01:38 | What I didn't know about Scott at the time is he had a passion for the ocean
+01:01:42 | He went to MIT and got his degree in ocean engineering there
+01:01:45 | He sailed around the world on different types of vessels and he was a perfect fit for what we're doing
+01:01:50 | The other thing I'd mention is that when you're starting a company you know it's-- Most people when they join a company there just has to be a passion
+01:01:58 | There has to be It's it's like an emotional decision especially in the early days
+01:02:02 | They have to believe in it they have to be excited about the problem they have to say: "I want to spend the next 10 years of my life working on this." And I could see that with Austin I could see that with Scott and I could see that m-- with myself is that we just were super excited to go all work together
+01:02:18 | This might be more of a more of a question about your leadership or your philosophy of work
+01:02:24 | So you are known for holding yourself to the highest standard
+01:02:29 | So what specific standard do you never compromise on
+01:02:33 | Yeah
+01:02:34 | So I think it's important for all of us to hold ourselves to high standards
+01:02:37 | Uh what's super important to me is integrity
+01:02:41 | Uh especially at a startup there are a lot of things that could go well there are lot of things that could go wrong
+01:02:47 | And one thing I learned in the Navy is that bad news does not get better over time
+01:02:51 | And I want people to uh feel comfortable sharing good news and bad news but it doesn't help to kind of like heard a little bit of bad news kind of internally and not tell other people because it just doesn't help the startup
+01:03:04 | And so transparency and being truthful uh is definitely helps the startup kind of you know make the best decisions at the moment
+01:03:12 | And so integrity is definitely just a core kind of value that we all uh-- that's important that I hold myself to and that and that the team also has high integrity
+01:03:25 | And why do you prefer hiring people with failure experience over those with only success stories
+01:03:31 | Yeah
+01:03:32 | Well I don't think anyone-- I think very few people have had a career that's just only filled with success stories
+01:03:39 | Uh myself I actually joined a startup right out of business school uh and it didn't work out after 3 months
+01:03:45 | That was not a success story but I learned how hard startups are and that's definitely something that's i- you know influenced the decisions that I've made later on
+01:03:53 | So when I thought about Blue Water I know what it's like to be at successful startups
+01:03:57 | I also know what it's like to be at a startup that's not successful or doesn't have that same amount of momentum
+01:04:02 | And so I think it's important for people to have a variety of different experiences that influence who they are
+01:04:08 | Uh and I think we surround ourselves at Blue Water with people with many different types of experiences
+01:04:13 | Some are successful some are unsuccessful and we learn from those uh all those experiences
+01:04:18 | of your 3 success factor: obsession grit timing
+01:04:23 | So which come which come first first for you
+01:04:27 | Um the the-- sorry can you just ask the question
+01:04:31 | Uh of your success factor: obsession grit timing
+01:04:36 | So which come first for you
+01:04:39 | Yeah
+01:04:40 | So naturally when I think about obsession grit and timing and the success factors for startups um innately obsession comes first
+01:04:50 | I'm someone where if I get obsessed with something I focus on it and it just almost uh to the nth degree and I just think about it all the time
+01:04:58 | I think about it at night before I go to sleep I think about when I wake up I think about when I'm driving
+01:05:03 | Uh and I'm just that type of person who can get really obsessed with something
+01:05:07 | And then you know the obsession is kind of what starts you on that journey
+01:05:10 | The grit is what gets you through that journey and then the timing is that kind of lucky thing like is this the right time to start something
+01:05:17 | Maybe you should think about the timing and the market opportunity first before you think about the obsession and the grit
+01:05:23 | But for me uh startups have always been a passion project something that you know you're not driven Uh you know there are these innate things that drive you when you're at a startup uh there's definitely this uh em-emotional obsession that kind of gets you hooked onto an idea that kind of drives you through it
+01:05:39 | It's probably not the best way to kind of like it-- depending on what you're trying to optimize if you're optimizing on sort of a balance between you know your work and your personal life I wouldn't recommend startups
+01:05:49 | But if you want to find something where you show up every day and it's the best job in the world and you love what you're doing you love your customers you love your coworkers then there's nothing better than getting obsessed over a startup
+01:06:05 | I know your mission is more ships faster while maintaining capability
+01:06:10 | So what daily metrics or routines make that uh tangible for your team
+01:06:17 | Yeah
+01:06:18 | So uh right now when we think about sort of the requirements for what we're building one of the most important metrics for us and I know it's not the most sexy metric is actually what we call like the mean time between repair
+01:06:31 | It's like how long can these ships be out on the open ocean
+01:06:34 | And today the kind of standard is maybe they can be out there for like weeks at a time and that could be great for logistics or transportation
+01:06:41 | But we're really trying to push the envelope and saying: How can you create a ship that's autonomous that can be out for months at a time and operate with our manned warships today
+01:06:51 | And so if there's any one metric that's kind of a North Star for us it's literally we want these ships to operate and we want them to be out there with our you know uh our today's fleet so they can complement today's fleet and be kind of a force multiplier
+01:07:05 | And if they're broken down all the t-time and they need to go back into port then it doesn't matter how good you know all the other features on it
+01:07:11 | It's really about sort of the endurance of these ships out in the open ocean
+01:07:18 | what do you envision Blue Water working uh Uh what what do you envision Blue Water looking uh like 3 to 5 years from now
+01:07:26 | And and in and in the same picture in that same picture so if Blue Water were suddenly gone so what kind of difficulties or gaps would the world face without it
+01:07:37 | Yeah
+01:07:38 | Um so today we're in San Francisco and when I think about what I want Blue Water to be you know if I were describing it to like my family or friends and what the long-term vision is I really want to be the Waymo for the open ocean
+01:07:49 | I think Waymo is this type of technology and this company where we're now coming to the fact that we accept getting into a car without people in it and it's a beautiful experience and we don't think about Waymo less as a vehicle company and more as a company creating these software-defined vehicles
+01:08:05 | And so when I think about what I want Blue Water to be is I want Blue Water to basically create every ship that's out there and for people to think about them as being software-defined
+01:08:14 | To you know-- And now we're not necessarily going to get of get rid of every single person on a ship depending on the size but I think the experience for being on a ship a lot of the dull and uh jobs can be kind of replaced by software
+01:08:26 | So it can actually maybe become one of the best jobs that's out there where you're basically on a vessel uh doing different types of you know tasks chores or missions and it's kind of a beautiful experience just like being in a Waymo car
+01:08:38 | Uh is there any uh personal experiment experiment or experiment or experience at sea have you had recently that left a strong impression
+01:08:48 | Yeah
+01:08:48 | So my experience at sea uh on naval ships was the things that actually I remember are some of the more um you know chaotic events of losing steering losing power floods fires all the bad things that can happen and those definitely resonate with me
+01:09:07 | And so as we think about Blue Water we said we really need to design this ship uh sort of from the keel up and rethink how you would you know operate uh well actually how you design and build and operate a ship without people on it
+01:09:20 | So those are the things that definitely influenced kind of my experience at Blue Water
+01:09:23 | The other part about being you know on ships in the open ocean is it's kind of-- it's a beautiful experience
+01:09:28 | Being out in the middle of the open ocean you know there's a sense of like you don't necessarily have control over everything
+01:09:33 | You just have a lot of respect for the ocean uh and if you're in a large storm or something like that there's only so much you can do
+01:09:40 | What you can do is you can ri-rely around the people uh that surround yourself that are on the ship and you're a team
+01:09:46 | And unlike kind of you know when you show up to a job and it's 9 to 5 you can go home at the end of the day
+01:09:52 | Well when you're on a ship in the middle of the ocean you don't go home at the end of the day you're on that ship
+01:09:57 | And so there's definitely a sense of camaraderie uh that's created about being on a ship
+01:10:01 | you you have contributed so much in robotics and hardware over the years
+01:10:06 | So and now with the rapid progress of LLMs- So it feels like idea it feels like ideas that were once blocked by techno-- tech- technical barriers are suddenly becoming possible
+01:10:19 | So from your perspective and experience what upcoming change in the real world are you most excited about or fa-- about or find the most interesting
+01:10:30 | Yeah
+01:10:31 | so as I think about Blue Water and kind of like the technical challenges that we're gonna face um I think the hardware's always been there
+01:10:39 | Uh we're not reinventing engines we're not reinventing sensors
+01:10:43 | Um I think the challenge is kind of on the the software side
+01:10:47 | Obviously we need to be smart about sort of our modular architecture and how we kind of design the ship
+01:10:53 | Um but we're not reinventing engines on the ship
+01:10:56 | The challenge is always on the software side and how can you create these ships so they're like truly autonomous
+01:11:00 | Not so they're necessarily remotely controlled by someone who's talking to the ship because we have Starlink and satellites that create sort of basically in uh instant connectivity
+01:11:10 | But one of the things that's ver-- become very enabling for any autonomous system is all these foundational models where you can create something and if you can have a unique set of training data the ship can actually learn off that training data
+01:11:23 | So my experience in mobile robotics from 10 years ago was that you write a line of code for every behavior that you expect from a mobile robot
+01:11:29 | Well that's not how we're training our ships
+01:11:31 | Our our ships are literally learning from being out there on the open ocean and that basically unlocks a lot of different capabilities that are out there
+01:11:39 | Uh and not only can the ship basically operate and follow the rules of the road you can actually have these agents on the ship actually talk to other ships via bridge to bridge
+01:11:48 | So instead of a person getting on a radio and talking to another ship you can actually have an AI agent do some of that communication
+01:11:54 | So it unlocks a lot of things that previously thought were impossible that now seem very doable doable
+01:12:00 | And uh how do you find Pretty simple simply
+01:12:04 | So how do you find the right investor and the right investment partners
+01:12:09 | So and how did you-- how did how did your approach differ between fundraising for your first startups first startup and the recent Blue Water rounds rounds
+01:12:19 | Yeah
+01:12:20 | Yeah
+01:12:20 | so at my first startup we were just super excited to get a term sheet and to get funding 'cause that would actually allow us to create a company and to kind of go hit the next milestones
+01:12:30 | Uh we thought about finding the right investors but we didn't put as much thought into it
+01:12:34 | Now we got super lus-- lucky and we had amazing investors at my last company
+01:12:39 | But when I started this company I realized that the investors that you choose especially in an early stage investors that are gonna be with you for possibly 10 plus years
+01:12:48 | And so when I think about p-- uh you know the investors that we brought they all believe in our mission
+01:12:53 | They know what we're doing is hard
+01:12:55 | They're gonna be there with y-you for the good times and they're gonna be there with you for the bad times
+01:12:59 | But you have to p- find people who are really personally like interested uh in what you're doing not just another person to write a check
+01:13:07 | And so we found those people uh today
+01:13:11 | 2 of the investors I've actually known for the last 10 plus years and Google Ventures and Dave Minuchello who just led our Series A I've known Dave for almost 20 years
+01:13:20 | Uh and so there's a deep personal relationship uh and I'm super excited to bring Dave on board because there's not really like this dating period with the investors
+01:13:27 | Uh we can kind of you know from day one operate at a high tempo and Dave has great advice from you know backing some of the most impressive technology companies all around the world including some you know out of San Francisco
+01:13:41 | And he can take those experiences and help me kind of move faster and I can take my experiences from other kind of robotic companies and take it to Blue Water and so the fusion is pretty powerful
+01:13:52 | I once interviewed an investor who told me "In the end the market always wins." So yeah uh when a when a founder is setting out to build something do you believe the potential for market expansion is ultimately the most important factor
+01:14:11 | I definitely think as a founder you necessarily-- you can't change the market
+01:14:14 | If the market's not there there's only s-- there's really not much you can do but the market definitely determines how big of an opportunity there is and then you kind of play within those boundaries and those rules
+01:14:24 | And so for Blue Water I definitely spent a lot of time trying to understand: Is this market big enough
+01:14:30 | Is this market big enough that I can spend the next 10 plus years kind of building a transformational company in this space
+01:14:37 | Uh but I don't think it's obvious to a lot of founders kind of when they're starting something
+01:14:41 | Sometimes they see a cool technology and then try to force-fit it or try to create a market
+01:14:46 | Um that said uh you know the last company we were bought by a company called Shopify and I think one of the challenges Shopify had in the early days of raising capital is they were basically creating uh a e-commerce solution for any merchant who wanted to start a business and there may be only tens of thousands of merchants uh in the world who would actually buy a solution like Shopify
+01:15:08 | And today there are millions of merchants that are out there
+01:15:10 | So sometimes it's not the market that exists today it's what the future market is
+01:15:15 | But going back to the earlier point you know I think founders only have so much kind of uh impact over how big the future market will be
+01:15:22 | And as an early-stage founder is going out to raise capital capital for the first time so what mindset do you think is most important
+01:15:31 | And based on your own experience what advice would you give to other first-time founders trying to secure funding
+01:15:37 | Yeah
+01:15:38 | Uh so one thing I've learned is you only need one term sheet and one check to start a company and you're gonna g- get a lot of noes along the way
+01:15:47 | And if your idea is so obvious that you're gonna get yeses all along the way someone's probably already started that company
+01:15:53 | And so I think it's easy for uh early-stage f- uh or first-time founders to internalize a lot of the noes and to kinda get put down by that
+01:16:02 | But you only need one investor and one check and then sometimes the sort of contrarian idea that you have is not so contrarian a year or two years later
+01:16:10 | Uh but I think some of the best investors that are out there uh don't necessarily follow the herd or kind of follow what everyone else is doing
+01:16:17 | They're contrarian thinkers and they're willing to open themsel- themselves up to sort of different ideas
+01:16:21 | Uh and I I I think your career path seems to embody embody the idea of do hard things
+01:16:29 | So from serving in the Navy to building hardware startups in logistics and now now defense
+01:16:36 | So why do you think you you have cons- consistently choose chosen hard paths instead of easier ones
+01:16:44 | Yeah I-- maybe it's just uh So I think throughout my career I've probably taken the hard path more often than I've taken the easy path
+01:16:52 | And maybe you know it goes back to kind of being in college where know I majored in applied math
+01:16:56 | I like taking a hard problem and solving it and if it's an easy problem or an easy path it's just not interesting to me
+01:17:03 | Like uh you know many other people can take the easy path but it's the hard problems that where if you solve them or if you solve them with a team the gratification that comes from solving hard problems is amazing
+01:17:14 | Uh and so that's just kind of always like where my instincts have been is look for the hard problems and try to solve it
+01:17:20 | And by the way if you solve hard problems you're probably actually creating and unlocking a lot of value along the way too
+01:17:26 | Uh at Blue Water so how do you cultivate a culture where people are willing to take on take on hard things
+01:17:33 | And what practice or principle help help a team embrace difficult challenges rather than shy away from them
+01:17:42 | Yeah
+01:17:43 | Well at Blue Water uh when we think about our culture for anyone who's interested in joining I think they already know that we're going after a really hard problem
+01:17:51 | We're trying to build ships that are half a football field in length that can be operated across open oceans without anyone on board
+01:17:58 | And so the fact that anyone will reach out to us they probably already understand that it's hard
+01:18:02 | Uh one thing we haven't done is we haven't yet um you know written down all of our core values
+01:18:07 | But what I think is really important is at you know for any team when you're first starting out you kind of go in this formation pa-- stage where the team's kind of-- you're putting together a team and then you kind of go into this storming phase where you have something that's really hard and everyone's working on it and it's at tho-those moments where you're not sure if you're gonna make it out uh you're not sure if you're gonna hit that deadline but the team's a little bit stressed
+01:18:33 | That's when the team really comes together and gels
+01:18:35 | And what you do after the fact is then you look back and say: What are the things that we did
+01:18:39 | What are all the daily habits that we did to you know be successful
+01:18:44 | And that's when you start to write down and create your own sort of culture uh for the company
+01:18:49 | And one thing we don't want to do at Blue Water is I don't want to say "Oh I worked at Amazon," or "I worked at Six Rivers," so let's just take those culture that culture those values those leadership principles and just blindly apply them to what we're doing
+01:19:00 | 'Cause what we're doing is unique
+01:19:01 | It's different than Amazon it's different than 6 River Systems and mobile robots in warehouses
+01:19:07 | And so you know our approach has been: Let's find the most amazing people let's put them together let's work on really hard problems and then every time we solve something or we achieve something let's then write down all the things that helped us get along the way
+01:19:22 | So when we hire the next hundred people they can basically understand the things that are core to us that allowed us to be successful in the past so we can scale them moving forward in the future
+01:19:31 | I have an additional question
+01:19:35 | Well yeah
+01:19:37 | So let's go back a little bit about-- go back to the Navy
+01:19:42 | Yeah
+01:19:42 | When you get training in the Navy uh how-- Could you tell us about how does Navy train us
+01:19:50 | Like how do they train like for especially for making team
+01:19:55 | Because I know US Navy is one of the best team in the world
+01:20:01 | So was there specific training you can remember and what did you learn from that and how did it influence founder journey
+01:20:09 | Yeah
+01:20:10 | Um so there are a couple of different ways to sort of enter the Navy
+01:20:14 | Um I went to college and after 4 years I decided I wanted to join the Navy
+01:20:18 | I didn't do ROTC
+01:20:19 | I didn't go on one of the service academies
+01:20:21 | So what I did is I did Officer Candidate School and Officer Candidate School is basically 3 months of boot camp
+01:20:27 | And so when you show up they shave your head they take away all your civilian clothes and they basically shock your system both physically and mentally
+01:20:36 | Physically you have to do uh you know training exercises running push-ups to the point where you're gonna fail and you just can't do it anymore and they tell you to keep doing it
+01:20:46 | And then mentally they f- uh you know ask you to memorize uh and to study and to take tests and quizzes and you're trying to answer things while you're deprived of sleep and you're stressed about a bunch of other things
+01:20:58 | And so there are a bunch of different ways that you can fail either physically or mentally
+01:21:02 | But if you start to make it through those kind of different uh gates then you start to gain confidence
+01:21:08 | And a couple other things that they do is kind of when you're entering the Navy is they focus for instance on attention to detail
+01:21:14 | And so for instance you go through a room inspection where everything that's in your room has to be basically positioned uh or basically ironed into like for instance perfect four-by-four squares for like the T-shirts that are in your drawer
+01:21:29 | It's all written down in a manual
+01:21:31 | It seems pretty simple but it's hard and you're doing it based off you know when you you haven't been sleeping much
+01:21:36 | Uh but some of the lessons you learn while you're doing that is one it's not about yourself 'cause you're in a room with four other people
+01:21:43 | So it's really about how can you make the whole all of your teammates successful too
+01:21:47 | And so if you're just doing all the work by yourself you're never gonna be successful
+01:21:51 | But if you kind of share and divide up the tasks then your room will be successful
+01:21:55 | And so it's very similar to being on a ship where there's a uh definitely emphasis on attention to detail
+01:22:02 | So if you can't pass a room inspection when you're going through Officer Candidate School in the Navy how could you ever be expected to be on the bridge driving a destroyer in for instance a refueling at-sea mission
+01:22:14 | It's just you know so they force you to sort of get good at the little things and then they also remind you that it's a team effort and that it's not about you being successful in your job on a ship it's about the whole ship being successful
+01:22:26 | And so on my first ship I was an engineering officer
+01:22:29 | I was actually in charge of all the electrical systems on the ship
+01:22:32 | Well it's great if all the electrical systems work on the ship but it doesn't help if for instance the backup generator doesn't work
+01:22:38 | And so again it's all about the team and the ship being successful not the individual
+01:22:43 | And those are lessons that the Navy instills on you from day one when you go through like a boot camp like officer candidate school
+01:22:49 | Thanks for answering and I have one more additional question and it is about deck plate leadership
+01:22:56 | You mentioned deck plate leadership like you learned that leadership and you adapted in your business
+01:23:02 | So was there a specific moment or a memory or a conversation with your teammates like you felt "Oh we have a really deep trust between me and my teammates?" Was there a specific episode between your teammates
+01:23:18 | Yeah
+01:23:18 | so one thing I learned about deck plate leadership in the early days is when I first you know uh was on a ship in the Navy and I was in charge of a division I actually wasn't a great leader
+01:23:28 | Uh I didn't understand this term of deck plate leadership
+01:23:31 | And one of the things is when you're in the Navy you don't get to choose and you basically hire the people that are working for you
+01:23:37 | The Navy basically says "This is your team and you've got to make the best out of them." And so what you learn over time is you have to learn what motivates people and you have to understand people and you have to care about people
+01:23:47 | Uh and if you don't understand people then you can't understand what motivates them and then you can't get your mission uh and your job done and then everything kind of unravels from there
+01:23:56 | And so you know when I first joined the Navy I was like "Oh rah rah," you know everyone-- you know "Let's uh do this job because everyone cares about you know the mission and America." But at the end of the day actually what people cared about especially when you're in port is they're
+01:24:10 | like "Hey sir I just want to go home at three PM." So if our division can get all of our tasks done and we can go home at three PM that's what matters to me because at home I have a wife I have kids I have a lot of other stuff going on
+01:24:22 | And so when we're back at port like it really matters for me to have this kind of balance between my work and my life
+01:24:29 | And I realized that over time and then I said "All right you know when you showed up to uh at work let's focus on getting the mission done and let's get everyone home." And then when you got people home they were like "Hey I'm motivated now." And so it's really like when you're in the Navy about understanding people what motivates them uh and that's not something that was innately obvious to me when I first uh joined the Navy
+01:24:51 | Oh and I have like-
+01:24:53 | Yeah
+01:24:53 | 2 questions
+01:24:54 | Like during the interview I really want to see the full autonomous vessel in person but at the same time I feel like as you mentioned it is a really hard k-- like hard problem
+01:25:05 | So I'm wor-- Like And also there are so many unexpected unexpected variables to make that
+01:25:13 | So I want to ask like how can you engineer like those-- Like how can you manage those kind of like unexpected things while you are uh making those Like solving those problems
+01:25:28 | So I think in o-- every company it's important to have a plan but then it's also important to understand that that plan will never actually materialize exactly as you expected
+01:25:39 | And there are always gonna be some curveballs or things that are kind of thrown at you that you don't expect and you have to have some contingency you have to have a little bit of give in the schedule or you have to have an understanding that when things don't go as planned you have to react and sometimes you'll be a little bit late or sometimes you don't exactly get to where you wanted to but that's okay
+01:25:59 | As long as there's learnings and you get better over time
+01:26:02 | 'Cause I think sometimes plans are so hyper-focused on what's gonna happen this week or next month but any company the success of a company is not defined in weeks or months; it's defined over many years
+01:26:14 | And so you don't want to get overly obsessed over a plan
+01:26:17 | And then sometimes if people you know a- again everyone's kind of-- There's this whole concept of you measure what matters and if you measure exactly to what your plan is and that's what people think are important then they're gonna take shortcuts then they're gonna do things that aren't optimal to kind of like making your company successful over many years
+01:26:34 | So it's important to have plans but it's also important to understand that things don't always go well
+01:26:39 | And what's important in companies is that when there's bad news it travels quickly and you can react to it rather than trying to hide things so everyone thinks that everything on your plan is you know uh has a green status and everything's going perfectly
+01:26:50 | 'Cause it just doesn't happen especially when you're tackling hard problems
+01:26:54 | There's also another approach that when you're developing a plan there are 2 approaches
+01:26:58 | You can e-- have either a waterfall approach where you basically say "On this date we need to have this happen," and then you try to work your way backward for every single thing that'll happen
+01:27:08 | Well when you have a plan like that you basically put in a lot of contingency
+01:27:12 | So when it really should take a year if you do a waterfall approach you might plan for 2 years
+01:27:17 | Well in terms of what we're doing at Blue Water that is-- we we're optimizing on schedule and moving fast and so there's kind of this blend of having an agile approach to basically where every 2 weeks you say "All right here's what we plan to do in the next 2 weeks." And then after 2 weeks you kind of you know recap and say "What went well
+01:27:33 | What didn't go well and what did we learn?" And so you're trying to basically move as fast as possible and kind of keep t- kind of this micro replanning every 2 weeks knowing that you have this larger goal that's happening in 2 years
+01:27:45 | And so it's this hybrid approach of being agile but still having these kind of longer-term plans
+01:27:49 | It's a little bit of an art and a science that uh And it definitely is not something that scales to larger companies
+01:27:54 | So if you had 10,000 people working on a plan you can have a mix of kind of an agile and waterfall approach but it works really well at startups when you know decisions can be made quickly and information travels really fast
+01:28:07 | And do you have any uh experience like that you planned and it doesn't work and you did again like-
+01:28:14 | Yeah so um when you're planning uh I've never seen a plan that's over many months or years go perfectly well
+01:28:24 | Uh but I think if you have the right team in place you either can replan or you can come up with a contingency or you can kind of think outside the box
+01:28:33 | Uh and having that agility uh is super important especially for companies that are tackling hard problems
+01:28:41 | Uh and also having some flexibility
+01:28:42 | I think a lot of times if you have teams that don't trust each other then the interfaces between the teams aren't necessarily healthy
+01:28:49 | And what will happen is that every team will have contingency that's there and then when you don't hit a date they'll basically create a lot of conflict between the different teams
+01:28:58 | But if the teams trust each other then you can kind of remove a lot of that contingency between the different teams and you can kind of think outside the box
+01:29:05 | And so sometimes the interface is to say "All right we're gonna have a handoff from one team to another and this is what it's gonna look like." But when that first team has a problem sometimes that first team can have the trust and say "It's not gonna be exactly a clean handoff
+01:29:18 | It's not exactly the interface we talked about but we're all in this together," and that allows you to be a lot more flexible in your planning when you can kind of have that trust between teams
+01:29:27 | That just doesn't always scale at big companies when you have tens of thousands of people and you have different groups with different incentives and different KPIs and it's just harder to kind of be you know uh fungible on the expectation between teams
+01:29:40 | One follow-up question
+01:29:42 | Like like during the plan like sometimes there will be a time that uh outcome is not invisible
+01:29:50 | So like what can founders uh do while they are in those kind of like time
+01:29:58 | Yeah
+01:29:58 | so when you're a founder and you're thinking about a plan and what You know uh never does your plan go perfectly
+01:30:05 | In fact there are a lot of times when the outcomes aren't what you expected
+01:30:08 | A lot of times we focus on the outcomes that are to the downside
+01:30:12 | So either you're late or you didn't hit a deliverable or you didn't you know uh weren't able to build that feature
+01:30:18 | But on the upside is that there are a lot of things that you might do that you never expected
+01:30:22 | And so there's this mix and this balance between you know if you can move fast if you can hire exceptional people a lot of times they'll exceed what you kind of expected
+01:30:31 | And that's the beauty about being sort of a founder is basically you're trying to get the best out of everyone
+01:30:36 | 'Cause at the end of the day you only have so many resources you have so many people and your goal is to get the best out of your resources and your people and f- to produce the best outcome
+01:30:46 | It might not exactly be the plan but just embrace that there are gonna be some downsides but there are also a lot of upsides and things you moved a lot faster than you ever expected
+01:30:55 | Thank you
+01:30:56 | Yes
+01:30:56 | And the last question
+01:30:57 | Yeah
+01:30:58 | Uh to close could you could you please introduce yourself once more
+01:31:02 | And it it'll be great if you could share not only who you who who you are but also what Blue Water is doing what mission you are tackling how the company is growing and and if possible some of the key numbers or milestone achieved so far
+01:31:19 | Yeah
+01:31:19 | Yeah
+01:31:20 | My name is Rylan Hamilton
+01:31:21 | I'm the co-founder and CEO of Blue Water Autonomy
+01:31:24 | We're designing and building next-generation ships
+01:31:28 | Our focus is on the US Navy and building future warships for the Navy
+01:31:33 | We've recently raised our Series A led by Google Ventures and over the last year we've raised $60 million to advance this mission
+01:31:43 | Are there other questions you had
+01:31:44 | Uh sorry
+01:31:45 | uh some of some of the key numbers or milestone achieved so-
+01:31:48 | Yeah
+01:31:49 | Um at Blue Water today we've raised over 6 mil-- $60 million Sorry
+01:31:54 | At Blue Water today we've raised over $60 million from private investors including Google Ventures who just led our Series A
+01:32:01 | Uh within the past couple of years we've definitely focused on speed and agility and we've just launched our test vessel just outside of Boston where we are testing our autonomous solutions out in the open ocean on what we call a test vessel which is 145 tons of steel and all of the software and the hardware needed to at base operate ships autonomously on the open ocean
+01:32:26 | And do you have anything you want to deliver to us what we've missed or
+
+
+Tab 2
+BWA Video — Final Story Structure
+From the Worst Leader in the Navy to 2 Startup Acquisitions - Lead from the deck plates, not from the office
+One Line Topic
+A founder who learned that leadership means being in the room — not above it.
+Target Audience
+Early-stage founders and aspiring entrepreneurs who think leadership means having the best vision, working the hardest, or being the smartest — and need to hear it's actually about being present with your team.
+What They Get
+A real story (not advice) that shifts how they think about leading teams, told by someone honest enough to admit he got it wrong first.
+________________
+
+
+CHAPTER 1: "I Wasn't a Great Leader"
+Purpose: Hook the viewer with a contradiction. Impressive man, honest confession. Then show how he ended up in the Navy — and how unprepared he was. Two Navy moments establish danger and stakes.
+HOOK — Credibility + Confession
+[00:16–00:28] At Blue Water Autonomy we're designing and building autonomous ships. We're super excited about the opportunity for basically what we see as software-defined ships. Our first customer is the US Navy because there's a strong demand for what we're building.
+[01:12–01:17] Google Ventures just led our Series A. Google Ventures and our existing investors put $50 million into our company which really helped turbocharge what we're doing.
+[01:23:18–01:23:31] So one thing I learned about deck plate leadership in the early days is when I first was on a ship in the Navy and I was in charge of a division I actually wasn't a great leader. I didn't understand this term of deck plate leadership.
+9/11 — WHY HE CHOSE THE HARD PATH (keep short)
+[04:52–05:09] So when I was in college nine eleven happened and it definitely was a moment that kind of I think shook everyone and said: What do you really want to do with your life? And at that point the traditional jobs coming out of college were to go into consulting or into investment banking and professional service careers.
+[05:09–05:22] But I wanted to do something different and I'm not the type of person who's well-suited to be behind a desk from 9 to 5. And I was exploring and I was like: Oh well my family had been in the Navy. I wonder what a career in the Navy would be like.
+[05:40–05:48] And so nine eleven happened while I was in college and I did a bunch of research and it opened up my eyes to these other opportunities. And I joined the Navy which was one of the best decisions I've ever made.
+AIRCRAFT CARRIER MISSILE STORY — HE'S NOT READY
+[05:59–06:49] So one of the most memorable experiences I had in the Navy was probably the first time I actually was on a naval ship out in the open ocean and I joined an amphibious transport ship. It was actually in the Persian Gulf when I met it. But in order to get to that ship I had to fly in a helicopter and actually go to an aircraft carrier first. And while I was on that aircraft carrier waiting to get transported to my ship, Iran actually fired some test missiles. Now the Navy at the time didn't know if those were test missiles and so the whole ship went to general quarters. But here I was new to the Navy and because I had actually been traveling in the Middle East I was still in my civilian clothes. So I was on a ship, the ship was going to general quarters and I didn't even know where to go. And so I was just running up and down staircases and someone grabbed me and said: "You look like you don't know what you're doing. Come in here and kind of wait." And so that was like my first hour on a naval ship.
+MINE CLEARING — THE STAKES ARE REAL
+[07:51–08:26] So my experience is that when I was on a ship in the Persian Gulf we were doing mine clearing missions and they were quite dangerous. We were up in the northern Gulf and we were looking for mines. In fact we'd have lookouts on the front of the ship 24/7 looking for any mines that could be floating and there were actually a lot of black trash bags floating around. And so it was a little bit perilous and people were definitely on edge the whole time. What I learned is there are a lot of really risky missions in the Navy that could be done by autonomous systems. There's no reason that a ship with four hundred sailors on it should be hunting for mines including having people with binoculars on the front of that ship.
+________________
+
+
+CHAPTER 2: "They Just Wanted to Go Home at 3pm"
+Purpose: Show what he got wrong about leadership. The failure isn't dramatic — it's quiet and human. He was above his team, not in the room with them. Then show the shift — he gets on the deck plates.
+THE WRONG APPROACH — RAH RAH AMERICA (above the room)
+[01:23:31–01:23:56] And one of the things is when you're in the Navy you don't get to choose and you basically hire the people that are working for you. The Navy basically says "This is your team and you've got to make the best out of them." And so what you learn over time is you have to learn what motivates people and you have to understand people and you have to care about people. And if you don't understand people then you can't understand what motivates them and then you can't get your mission and your job done and then everything kind of unravels from there.
+[01:23:56–01:24:29] And so when I first joined the Navy I was like "Oh rah rah," you know "Let's do this job because everyone cares about the mission and America." But at the end of the day actually what people cared about especially when you're in port is they're like "Hey sir I just want to go home at three PM." So if our division can get all of our tasks done and we can go home at three PM that's what matters to me because at home I have a wife I have kids I have a lot of other stuff going on. And so when we're back at port like it really matters for me to have this kind of balance between my work and my life.
+THE SHIFT — HE STARTS LISTENING (entering the room)
+[01:24:29–01:24:51] And I realized that over time and then I said "All right when you showed up at work let's focus on getting the mission done and let's get everyone home." And then when you got people home they were like "Hey I'm motivated now." And so it's really like when you're in the Navy about understanding people what motivates them and that's not something that was innately obvious to me when I first joined the Navy.
+DECK PLATE LEADERSHIP — EARNING TRUST (being in the room)
+[09:18–09:57] So what I learned in the Navy about leadership is leading from the front. When I was a junior officer in the Navy there's this sort of concept of deck plate leadership is that you have to be on the deck plates with your sailors and with your team and trying to help them solve the issue. That you're not someone who that they report to, you're someone who's part of a team that's helping them solve the problem at hand. And sometimes that meant spending hours in an engine room trying to troubleshoot through an issue. Sometimes we would lose steering at sea we'd lose power we'd have flooding we'd have fires. We had many different issues that we'd have to work through.
+[09:57–10:10] But when your team saw that you were the person and you're standing in there you're waiting with them you're being patient and you understood the problems that they were facing and you understood any barriers that you could help remove you would then get their trust.
+________________
+
+
+CHAPTER 3: "Do Whatever It Takes"
+Purpose: Test the lesson outside the Navy. First show what happens when you leave the room (focus failure — boardroom slides). Then show what it looks like to be in the room in business (concrete floors, $100 cash). The chapter flows from failure → the right way.
+THE FOCUS FAILURE — HE LEFT THE ROOM (above the room — in boardrooms looking at slides)
+[37:05–38:15] One of the things we learned at Six River Systems before we were acquired by Shopify is that you really have got to focus on one product and it's always tempting to kind of move fast and think about what's next. Let's launch a new product. Let's put a robotic arm on our mobile robot. Let's create a new form factor or larger mobile robot. The challenge is that most companies in the early stages don't have the capacity to support and launch multiple products at the same time. And so at Six River Systems we definitely learned in the early days when we tried to stretch ourselves a little bit too far. We got super excited about the market opportunity, about the slides that we put in front of board members. We were really kind of overstretching engineering and you would go and talk to the engineering teams. And for instance you talk to the manager of the electrical division and you'd find that his head was split between trying to focus on your core product and focus on an advanced new mobile robot that you'd want to launch. And he was doing an okay job in both. But when you're a startup like doing an okay job is not good enough. You have to do an exceptional job 'cause you're competing against products that exist in the industry and that work today.
+FROM DECK PLATES TO CONCRETE FLOORS (being in the room)
+[10:10–10:44] And that's something that I've taken to the non-defense world is when you're leading teams there's still this concept of deck plate leadership especially at the earlier stages. And so my experience at Amazon Robotics where it wasn't deck plate leadership it was more like concrete floor leadership in a warehouse where you're spending a lot of time with the team in warehouses all throughout the United States and the world and you're with your team when you're trying to commission these different systems and you're there you're traveling you're spending the time in the warehouse it really showed the team that you cared and the team would kind of respond well to that.
+CUSTOMER OBSESSION — $100 IN CASH (being in the room with the problem)
+[14:27–14:44] So in the Navy we definitely had mission obsession where we knew what the mission was and we had to obsess and just complete it at all costs. When I transitioned to Kiva Systems it was all about customer obsession and my responsibility at Kiva and my job was to be a program manager.
+[15:04–15:44] And so there was a ton of cross-functional work that had to happen but part of that was to really just do whatever it would take to kind of get the deal done and to make the customer happy. Sometimes that would mean traveling to warehouses in remote parts of Nevada and actually trying to convince someone to go run a fiber line from the street into the warehouse into the data room. And sometimes that would mean saying: "Hey I'll pay you a hundred bucks right now in cash. I don't know if that will incent you but you just do whatever it takes." We just had this customer obsession and be like "Think outside the box about what it would take to actually get the job done."
+________________
+
+
+CHAPTER 4: "The Hard Path"
+Purpose: The space between companies. Why start again when it's so hard? His first startup failed. Jensen says don't do it. But this time he's patient — he's in the room with the market, listening for 6 months before committing.
+FIRST STARTUP FAILED
+[01:03:32–01:03:53] I think very few people have had a career that's just only filled with success stories. Myself I actually joined a startup right out of business school and it didn't work out after 3 months. That was not a success story but I learned how hard startups are and that's definitely something that's influenced the decisions that I've made later on.
+JENSEN SAYS DON'T DO IT
+[32:53–33:16] So I really take Jensen's advice at NVIDIA to heart that he probably wouldn't go back and start another company because it is so hard. And when I left Six River Systems I wasn't necessarily looking to start another company. In fact I worked with a couple other companies a couple other founders. I was doing some advising work but I was definitely exploring and I found myself kind of itching to do something.
+PATIENCE — IN THE ROOM WITH THE MARKET
+[45:46–46:12] I started exploring and before I said: "I want to go start something," I said: "Let me just go learn more about this space." And so every week I would have 10 to 20 different conversations with people. Sometimes I was introduced sometimes I'd guess their emails sometimes I'd reach out on LinkedIn and I really just tried to get smart about the opportunity set within defense and within the Navy. And what was amazing is if I started the first idea that I came up with I would not be here today.
+[46:38–47:02] But because of that experience and that opportunity I really think I picked like the most ambitious but yet simplest idea that was out there. It was like: Let's go build autonomous ships for the Navy. It makes a lot of sense. It's just takes a fair amount of capital. It's not the easiest technical problem but every time we tell people about what we're doing no one ever pushes back and says "That doesn't make any sense." They just say "That's a hard problem."
+________________
+
+
+CHAPTER 5: "I Know What Breaks"
+Purpose: Bluewater isn't a business strategy — it's the product of being in the room. He stood in engine rooms. He saw what breaks. Now he's designing ships from the keel up because he was there. This chapter is focused: experience → conviction → proof.
+COMPETE ON TECH NOT SHIPS
+[36:30–36:41] And when we think about competing with China in terms of we're not gonna compete on shipbuilding. China builds half of the world's ships but we can compete on tech.
+[36:41–36:49] The United States is really strong on autonomy and technology and so we can take that strength and then apply it to our today's navy.
+I WAS IN THE ROOM — I KNOW WHAT FAILS
+[50:35–51:06] So our approach at Blue Water is we're not retrofitting existing vessels to make them autonomous. We're literally redesigning a ship from the keel up. Part of that reason is my experience in the Navy was that today's naval ships and commercial ships have engineers that are on the ships that are standing watch every day and they're maintaining and repairing the vessels. So to take that commercial design or that naval design and think that you can put some sensors or actuators and try to make it unmanned for months at a time just won't work.
+THE TEST VESSEL — IT'S REAL
+[00:48–01:07] So we're a relatively new company but since the founding of the company last year we've moved super quickly. And to date we've actually launched what we call our autonomous test vessel which is a 145 ton vessel just outside of Boston where we're already testing our technology.
+________________
+
+
+CHAPTER 6: "You're On That Ship"
+Purpose: End with honesty, not a pitch. He's still in it. It's still hard. Bad news doesn't get better. But he's in the room — with his team, with the mission. The closing line echoes the entire theme: you don't go home. You're on the ship.
+INTEGRITY — BAD NEWS DOESN'T GET BETTER
+[01:02:34–01:03:12] So I think it's important for all of us to hold ourselves to high standards. What's super important to me is integrity. Especially at a startup there are a lot of things that could go well there are a lot of things that could go wrong. And one thing I learned in the Navy is that bad news does not get better over time. And I want people to feel comfortable sharing good news and bad news but it doesn't help to kind of hoard a little bit of bad news internally and not tell other people because it just doesn't help the startup. And so transparency and being truthful definitely helps the startup make the best decisions at the moment.
+IT'S STILL HARD — BUT OBSESSION KEEPS YOU GOING
+[01:04:40–01:05:17] So naturally when I think about obsession grit and timing and the success factors for startups, innately obsession comes first. I'm someone where if I get obsessed with something I focus on it to the nth degree and I just think about it all the time. I think about it at night before I go to sleep I think about it when I wake up I think about it when I'm driving. And I'm just that type of person who can get really obsessed with something. And then the obsession is kind of what starts you on that journey. The grit is what gets you through that journey and then the timing is that kind of lucky thing — is this the right time to start something.
+CLOSING — YOU'RE ON THAT SHIP
+[01:09:23–01:09:57] The other part about being on ships in the open ocean is it's kind of a beautiful experience. Being out in the middle of the open ocean there's a sense of like you don't necessarily have control over everything. You just have a lot of respect for the ocean. And if you're in a large storm or something like that there's only so much you can do. What you can do is you can rely around the people that surround yourself that are on the ship and you're a team. And unlike when you show up to a job and it's 9 to 5 you can go home at the end of the day — well when you're on a ship in the middle of the ocean you don't go home at the end of the day. You're on that ship. And so there's definitely a sense of camaraderie that's created about being on a ship.
+________________
+
+
+NOTES FOR EDITING
+What's NOT in this structure (intentionally removed):
+* Amazon white paper / planning process
+* Regret minimization framework (Bezos content, not Ryland content)
+* Shopify acquisition details / COVID ride
+* MBA story (Harvard, newborn — interesting but doesn't serve leadership theme)
+* Kiva → Amazon acquisition details ("best acquisition ever")
+* Defense-first strategy explanation (pitch deck material)
+* Supplier persuasion story
+* Navy training / Officer Candidate School details
+* Investor selection / fundraising advice
+* Waymo for the ocean vision (corporate aspiration, weak ending)
+* Co-founder selection stories
+* Market sizing / "is this market big enough" analysis
+* LLM / AI agent discussion
+* Reliability / iPhone analogy
+* Waterfall vs agile planning discussion
+Three improvements from previous version:
+1. Mine clearing moved to Chapter 1 — now pairs with aircraft carrier story to establish Navy stakes early, keeps Chapter 5 focused
+2. Chapter 3 order flipped — focus failure (leaving the room) comes FIRST, then concrete floors and $100 cash (being in the room) as the contrast. Flows from wrong → right.
+3. New closing line — "You're on that ship" replaces "getting obsessed over a startup." Echoes the entire theme of being in the room with your team. Bookends with the 3pm moment — his sailors wanted to go home, but on a ship you can't. You're there together.
+Key editing principles:
+1. Every cut should connect to "in the room vs above it"
+2. When in doubt, choose the moment with more vulnerability over the moment with more information
+3. B-roll of the test vessel / ocean / Navy footage should accompany the most emotional audio, not the most informational audio
+4. Let silences breathe — Ryland's power is in his quiet honesty, not in rapid-fire content
+5. Chapter 3's tonal shift (failure → scrappy success) needs music or pacing change to bridge the two energies
+6. The closing "you're on that ship" should land on Ryland's face, not B-roll. Let the viewer see him say it.

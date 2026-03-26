@@ -1,0 +1,839 @@
+{
+  "project_id": "script-taletree-matt-hagger",
+  "transcript_hash": "8fbb55fca508fd9f",
+  "chunk_count": 104,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "topic": "founding moment",
+      "summary": "Matt introduces himself and explains Tale Tree's mission to help children preserve their imagination and creativity in a post-AI era.",
+      "text": "That's get, first of all, could you introduce yourself and tail? Hi everybody. My [00:00:05] name is Matt Hagger. I'm a serial entrepreneur and I'm the founder, one of the founders of a company called Tail [00:00:10] Tree. Tail Tree empowers children in a post AI era to hold [00:00:15] on to the precious gift of imagination and \n\n\n[00:00:1",
+      "estimated_minutes": 0.5,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 2,
+      "topic": "product insight",
+      "summary": "Matt explains the core problem Tale Tree solves - how children's natural creativity gets diminished by traditional education systems as they grow up.",
+      "text": "Yeah. So Talet Tree is solving a problem that's getting ever greater as [00:00:30] we shift into this post AI era. Creativity is a core [00:00:35] skill that all human beings possess. The imagination of a child, a kindergarten [00:00:40] child, when you see them at four or five years old, they are fearless in their imagination.[00:00:45] \n\n\n[00:00:45] They come up with numerous ideas, they're capable of making friends with people that they [00:00:50] don't know. They are fearless. This beautiful, pure superpower that human [00:00:55] beings have that starts when a child is four or five, gets [00:01:00] challenged. As we become adults, as we go into elementary school and high school, [00:01:05] we are faced with curriculums that are encouraging us to conform to certain [00:01:10] methodologies in order to advance us as part of society's [00:01:15] plan for our lives.\n\n\n[00:01:17] Children age four and five have this unique [00:01:20] superpower, this imagination and creativity, the curiosity of adventure, [00:01:25] critical thinking, the ability to relate to others and have this wide. An [00:01:30] incredible, uh, cosmic mindset to solving problems. [00:01:35] This superpower is what telemetry tries to help kids hold onto.[00:01:40] \n\n\n[00:01:40] We have a unique six step wheel and uh, cycle [00:01:45] what kids can imagine, create, play, share, [00:01:50] reflect on their creative endeavors, and be rewarded for doing so and reward other [00:01:55] kids. We believe that this tried and tested method that has been in feasibility [00:02:00] study for the past five years has a huge opportunity to impact lives [00:02:05] and change the way that we see ourselves in a post AI era.\n\n\n[00:02:09] Yeah, [00:02:10] that is great. It'll get better. Yeah. The screen has turned off, so, oh, sorry. [00:02:15] Turned it on. It's alright. It'll get better.[00:02:20] [00:02:25] \n\n\n[00:02:29] Speaker 2: That was great [00:02:30] introduction. Yeah. \n\n\n[00:02:31] Speaker 3: Yeah. And wh",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 3,
+      "topic": "founding moment",
+      "summary": "The founding story begins during the pandemic when they started working with locked-down children in Silicon Valley using simple Zoom sessions.",
+      "text": "So the key milestones, uh, over the past five years has been [00:03:20] from coming up with this unique idea for children and taking the first step [00:03:25] into bringing it to life.\n\n\n[00:03:26] During the pandemic, we had an opportunity to work [00:03:30] with children who were locked down from going to school. We saw it as a great [00:03:35] opportunity to bring a cluster of children together and help them [00:03:40] explore and create around their ideas. This is something very different to traditional [00:03:45] education. Um, but we were inspired by all kinds of studies into [00:03:50] creativity and the imagination of kids and how traditional education declines over [00:03:55] time.\n\n\n[00:03:55] So we started in California with a cluster of, of kids, [00:04:00] many of which as parents, uh, came from, uh, a software engineering [00:04:05] background, big technology companies. Um, so obviously, uh, this [00:04:10] creative curriculum that we were hatching was quite new and novel, but it was something that they [00:04:15] were very keen to put their children into.\n\n\n[00:04:17] So we started without any [00:04:20] software, without any, um, actual, uh, technology of our own. [00:04:25] Simply bringing children together on Zoom and helping them [00:04:30] to flex the muscles of imagination and creativity. We would set them a [00:04:35] challenge every week. They would go away. They would create something based on all this [00:04:40] brainstorming and these interesting ideas that they had, and then they would come back the following [00:04:45] week and present their beautiful creation and explain to the other [00:04:50] kids in their camp how they had come up with that idea and why.\n\n\n[00:04:54] [00:04:55] This then led to this beautiful brainstorming exercise, and when we started this, [00:05:00] Sumi was leading all of the camps in Silicon Valley, and [00:05:05] we realized the profound impact that this was having on our kids, simply through their moms and [00:",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 4,
+      "topic": "customer story",
+      "summary": "Early success stories with parents noticing profound improvements in their children's communication and engagement after participating in Tale Tree camps.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 5,
+      "topic": "growth metrics",
+      "summary": "The evolution from pilot camps to a proper startup platform, starting with 100 founding children in Silicon Valley who remain with them today.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 6,
+      "topic": "growth metrics",
+      "summary": "Current scale and validation metrics including expert partnerships, thousands of challenges, and proof of concept validation.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 7,
+      "topic": "fundraising",
+      "summary": "Funding milestone of raising over a million dollars in pre-seed funding and expansion plans across Middle East and Korea.",
+      "text": "So since we, since we started, we turned this idea into a product [00:09:00] and quickly got the attention of investors.\n\n\n[00:09:02] So we raised an excess of a million [00:09:05] dollars to precede the company, uh, based on the product market fit. [00:09:10] And then I located myself in the Middle East because I believe [00:09:15] that area is a phenomenal opportunity for bringing OT Tree to [00:09:20] this demographic. So we are now on the verge of launching OT Tree [00:09:25] across the Middle East with international schools.\n\n\n[00:09:28] We have our, um, [00:09:30] uh, our pilot team in San Francisco and we have our pilot cohort. [00:09:35] And the next stop on our mission with the Middle East is coming [00:09:40] into Korea. So we've piloted territory with a number of schools, [00:09:45] um, across Silicon Valley, the Middle East and career. [00:09:50] And, um, we have, uh, a global community of children [00:09:55] across these regions.\n\n\n[00:09:56] Our plan is to make T Tree University [00:10:00] global, so every child has the same opportunity to access our tools and [00:10:05] services and form part of this global community of kind and creative kids, [00:10:10] uh, that we are building. Um, at the moment, um, we have [00:10:15] thousands of users and we are hoping to get up to millions of [00:10:20] users in the next year or two.\n\n\n[00:10:21] Based on what we're building and what we're launching, um, the [00:10:25] experts hope that have represented themselves inside territory have come from companies such [00:10:30] as NASA and Pixar and Kubo. We [00:10:35] ran a huge event, uh, with Kubo where we introduced the [00:10:40] territory method, um, at one of their venues to 1000 [00:10:45] kids in an auditorium.\n\n\n[00:10:47] Um, which was very, very exciting for us [00:10:50] because it showed how Tre, although it is a [00:10:55] learning protocol, is so much fun and so exciting and gives children the [00:11:00] opportunity to unleash their creativity in a way ",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 8,
+      "topic": "philosophy",
+      "summary": "The careful approach to scaling, prioritizing learning and retention over rapid growth due to the precious nature of working with children.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "cautious"
+    },
+    {
+      "chunk_id": 9,
+      "topic": "technical deep-dive",
+      "summary": "Detailed explanation of how Tale Tree works - the six-step creative cycle from imagination to reward, featuring AI companions and the Emerald Forest platform.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "technical"
+    },
+    {
+      "chunk_id": 10,
+      "topic": "vision",
+      "summary": "Speaker explains how traditional education system focuses on consumption and grading, while Tre gives children space for authenticity and prepares them for a post-AI world where creativity and critical thinking matter more than memorization.",
+      "text": "ses of a child's time fails to allow, you know, [00:18:40] whether you are going to school and being encouraged to do, you know, to work [00:18:45] hard to get the grades that you need to progress in life. And then extracurricular [00:18:50] activities are often spent consuming content rather than creating.\n\n\n[00:18:54] When I say [00:18:55] that, I mean using YouTube or playing games. It's [00:19:00] competitiveness and it's, and it's consumption time and it's hard work to try [00:19:05] and attain a level of, you know, attainment. [00:19:10] It's the grading system. I think Tre gives space to children. To be [00:19:15] themselves for their authenticity to come out, for their light to shine.\n\n\n[00:19:19] And, [00:19:20] um, in a post AI era where a lot of the doing is going to be [00:19:25] done by robots and automation, I think this is really very, very [00:19:30] important for the new generation so that we can equip children of [00:19:35] today with the critical thinking, the curiosity, the imagination, the [00:19:40] creativity, the authenticity in order to be able to build that [00:19:45] better world that none of us know yet is upon us.\n\n\n[00:19:48] Nobody, [00:19:50] nobody knows where the world is going. We can only predict we have to give children the best [00:19:55] possible opportunity. We've gotta equip them and empower them to be able to [00:20:00] be the change. 'cause prior to today, education was [00:20:05] industrialized. Meaning that we went to school in order to learn, to [00:20:10] fit in to the structures of society.\n\n\n[00:20:12] And to do that we needed to [00:20:15] memorize tasks. We needed to memorize information so that we were equipped to do a [00:20:20] job. And that's to, to me sounds like a robot. Robots get, uh, [00:20:25] information that they need to memorize to be able to perform a task for a function. And that was very, [00:20:30] very important in a pre AI era that humans were doing human [00:20:35] beings are what we are.\n\n\n[00:2",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 11,
+      "topic": "philosophy",
+      "summary": "Discussion of how education was industrialized to create 'human doings' rather than 'human beings', and how AI now gives us the opportunity to focus on creativity and imagination instead of memorization.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 12,
+      "topic": "childhood",
+      "summary": "Speaker describes the stark contrast between the creative freedom of kindergarten and the conformity required in elementary school, where wearing identical uniforms marked the end of creative expression.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "vulnerable"
+    },
+    {
+      "chunk_id": 13,
+      "topic": "childhood",
+      "summary": "Speaker explains how they learned through curiosity rather than forced information, often daydreaming in class, and how their father helped them realize creativity was a superpower rather than something to be ashamed of.",
+      "text": "How did you teach yourself? Yes. So I think, uh, as a child I was very curious. Um, [00:25:05] so I was, um, learning through my own curiosity. I felt like I would go to [00:25:10] school, the teacher would be forcing information upon me, and I would be [00:25:15] somewhat rejecting, uh, participating, and my brain would [00:25:20] go off and start dreaming and imagining.\n\n\n[00:25:22] And I, and I think I got ridiculed at school for [00:25:25] that. I think my friends could quickly see that I was, um, a [00:25:30] very curious and imaginative and entrepreneurial child. I was always hatching plans for [00:25:35] how I could create things and sell things, and I was very curious. [00:25:40] Um, and I think, um, my father was, um, a very important [00:25:45] influence in my life.\n\n\n[00:25:46] In some respects, my childhood was challenging, but again, [00:25:50] it was, uh, my father's ability to see that I had a lot of [00:25:55] creativity and imagination, and he could help me focus on that. [00:26:00] And he was not my teacher, but he set certain missions and challenges for me [00:26:05] that really helped, um, me to realize that being creative is good.[00:26:10] \n\n\n[00:26:10] Being creative is, um, uh, a [00:26:15] superpower. And that, um, you shouldn't be shy to express [00:26:20] yourself. That I think one of the biggest problems I had was expressing myself [00:26:25] and expressing my creativity because I felt that thinking out of the [00:26:30] box was not necessarily the, uh, the right way [00:26:35] to behave. Having an alternative.\n\n\n[00:26:36] Viewpoint or an alternative answer is not necessarily the right way. [00:26:40] So it was challenging and luckily, um, I had [00:26:45] friends and, and, and, and my dad to help \n\n\n",
+      "estimated_minutes": 2.3,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 14,
+      "topic": "founding moment",
+      "summary": "Speaker recalls specific moments when traditional education came alive - creating an adventure book and working on a class newspaper - which showed them they thrived in creative environments rather than memorization-based learning.",
+      "text": "So, um, traditional education did not suit me at all. I mean, um, this, [00:27:05] um, forced learning of memorizing information in order to be graded on [00:27:10] it based on your ability to, uh, deliver with, in, in, in an [00:27:15] examination that just didn't fit my brain. Um, there was a [00:27:20] certain times during school where my brain came to life and all of a [00:27:25] sudden my confidence increased.\n\n\n[00:27:26] One episode was, um, when we were asked, [00:27:30] um, towards the end of the year when things used to relax a little bit and our [00:27:35] teachers would give us more free time in the class. I was asked to create, uh, an adventure [00:27:40] book. Um, that, uh, was an incredible, uh, opportunity for [00:27:45] me to flex my creativity. And I felt very confident and very excited about [00:27:50] that idea.\n\n\n[00:27:50] That showed me that, uh, I was more in [00:27:55] tune with creative pursuits than memorization curriculum. And then later on [00:28:00] in high school, we had an activity where, um, we created a [00:28:05] newspaper. Uh, it was just a fictitious idea where the whole class [00:28:10] became a newspaper. We had the art department, the reporting department, the production [00:28:15] department, and I found myself come alive in these kind of, um, [00:28:20] environments where instead of sitting up straight focusing on what I was being [00:28:25] told, I could truly start using my creativity [00:28:30] and inspire my, my, my class friends.\n\n\n[00:28:32] So these two episodes I can think [00:28:35] about off the top of my head made me realize that if I was going to, [00:28:40] uh, progress in life, it was going to be through my own curiosity and my own [00:28:45] ideas as opposed to following, um, you know, [00:28:50] \n\n\n[00:28:50] ",
+      "estimated_minutes": 2.4,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 15,
+      "topic": "personal background",
+      "summary": "Speaker describes attending traditional English schools in Cambridge and identifies a pivotal moment at age 12 when their father let them create board games, which shaped their entrepreneurial journey.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 16,
+      "topic": "personal sacrifice",
+      "summary": "Speaker explains how their father, despite parents' separation, influenced them through unconventional learning methods like using soccer trips to teach geography and history through things they loved.",
+      "text": "So my father, um, had a, had an [00:31:00] impact on my life.\n\n\n[00:31:00] Uh, I didn't live with my father. Uh, from the age of five, um, my [00:31:05] parents separated, so, um, I used to see him every other weekend, but I was [00:31:10] hugely inspired by his, uh, creativity and his ability [00:31:15] to think outside the box. And he did inspire me. I think my [00:31:20] father was less about, uh, traditional education curriculums [00:31:25] and more about finding your purpose and doing the things that you loved in [00:31:30] life.\n\n\n[00:31:30] And even though the school curriculum didn't suit [00:31:35] me, my dad acknowledged that and used to help me [00:31:40] learn through challenges. We used to go and watch soccer [00:31:45] together and travel all over the country supporting our team. He would enable [00:31:50] me to open up the map, find out where the city was, and I would be [00:31:55] directing my father.\n\n\n[00:31:56] And then I would learn about the city that we were visiting and the history [00:32:00] behind it. And then he would ask me about, um, [00:32:05] the team and statistics and, um, all the different things that had [00:32:10] happened during the game. And I felt like I was learning through something that I loved. And that",
+      "estimated_minutes": 1.7,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 17,
+      "topic": "founding moment",
+      "summary": "Speaker describes the transformative experience of helping their father design board games as a teenager, learning real business skills like costing, profitability, and game mechanics through hands-on experience rather than theoretical study.",
+      "text": "And then when I became 12 or 13, [00:32:20] my dad was, um, creating board games and I was [00:32:25] very, um, uh, curious to how these games were created, how they were [00:32:30] designed, how they were produced. So he gave me the opportunity to help him [00:32:35] design these board games when I was a teenager. And it was an incredible opportunity for [00:32:40] me to actually learn through a real life experience.\n\n\n[00:32:44] So I [00:32:45] used my creativity to work on these game mechanics. I [00:32:50] would, um, learn about the cost of the pro producing the game, how [00:32:55] much the game was being sold for the profitability that was [00:33:00] inside this, uh, this business. I learned a lot. I learned a lot. And [00:33:05] I quickly realized that for me, being immersed in the world of [00:33:10] business was far more, um, beneficial to my [00:33:15] development than then going to a school and opening up a book [00:33:20] and learning about the theoretical side of something when I could actually practice [00:33:25] it in the real world.\n\n\n[00:33:27] And I was very, very fortunate to have the opportunity to [00:33:30] do that. Um, my dad would scoop me up in the summer holidays, put me in the back of his [00:33:35] car, and, uh, off we would go. And uh, most people might have [00:33:40] found it kind of du 'cause kids want to be playing with their friends and they want to be out. For me, I [00:33:45] found it enthralling that I could see what my father was doing during the day [00:33:50] and, uh, it was great experience for me, um, because [00:33:55] it taught me.\n\n\n[00:33:56] That, um, you know, ideas, turning your ideas [00:34:00] into a product and then turning that product into a company [00:34:05] is, uh, is achievable for anybody.",
+      "estimated_minutes": 2.4,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 18,
+      "topic": "lesson learned",
+      "summary": "Speaker recalls their father offering them a choice between payment or royalties for creating a World Cup football chart, teaching them business mathematics through real-world application and decision-making.",
+      "text": "Yeah, yeah. So, um, I, the first thing, uh, that my dad [00:34:25] asked me to help him with was a, was a, was a football chart for the World Cup. [00:34:30] So this football chart would be included in every newspaper, [00:34:35] uh, that was being, uh, uh, sold on a weekly basis. It was a Sunday newspaper. [00:34:40] So I remember when we sat down, uh, to organize this football [00:34:45] chart and how it was going to, um, be, uh, delivered.\n\n\n[00:34:48] My dad asked me, [00:34:50] would you like to get paid for this? Or Would you like to receive a royalty ev on every [00:34:55] football chart that is, uh, sold? So these kind of things really helped me think [00:35:00] about the world of business. 'cause then I could go to the factory and I could see the cost of [00:35:05] production and I could work out what the profit would be, and then I could divide that [00:35:10] by the number of units that were being sold and work out my percentage of that [00:35:15] profit.\n\n\n[00:35:15] And then that gave me, uh, that's mathematics that you learn in [00:35:20] school every day, except I'm applying it to a real life situation. And then I've gotta make a decision. [00:35:25] How I'm going to, uh, accept payment or do I wanna [00:35:30] produce the chart and just get paid like a freelance designer for [00:35:35] creating it. So the, the, these things, um, uh, you [00:35:40] c",
+      "estimated_minutes": 1.8,
+      "emotional_tone": "technical"
+    },
+    {
+      "chunk_id": 19,
+      "topic": "philosophy",
+      "summary": "Speaker reflects on entrepreneurship as 'falling out of a plane without knowing how to open the parachute' and how their father's approach of throwing them into situations while being there as backup built courage and practical skills.",
+      "text": "You have to go through it and experience it. And I think for entrepreneurs, most of the [00:35:45] time you are falling out of the plane without a knowing how to open the [00:35:50] parachute. And as you get closer to the floor, you finally work it out. And I think that is [00:35:55] something that I learned growing up, which gave me a little bit [00:36:00] of, um, courage.\n\n\n[00:36:02] Actually courage comes from [00:36:05] taking a leap, throwing yourself in, because we don't know the solution, we don't know the [00:36:10] answer. I think my father threw me in knowing that he was there, I guess if I [00:36:15] went wrong, but made me feel like I was on my own doing it. And that was powerful.",
+      "estimated_minutes": 0.9,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 20,
+      "topic": "personal background",
+      "summary": "Speaker describes how music became their creative outlet as a teenager, writing lyrics and songs, and how creativity in any form - music, storytelling, business - brings confidence, helps people find their truth, and liberates humanity.",
+      "text": "Yeah. So, um, the other part of my life, um, was [00:36:45] music. I have a huge passion for music.\n\n\n[00:36:47] So when I was a, a [00:36:50] teenager. Um, I was very creative, but I didn't have much of an [00:36:55] outlet to shine that creativity amongst my friends. So I started getting [00:37:00] into music. I started writing lyrics and poems and writing songs, and I got [00:37:05] a guitar and I had a friend who could see that I had a passion and an [00:37:10] interest in music, and I, I could sing.\n\n\n[00:37:12] So my friend encouraged me to, um, [00:37:15] pursue that. And being creative, whether it's around music, [00:37:20] storytelling, poetry, art, business, hatching [00:37:25] ideas, it really doesn't just bring confidence [00:37:30] and helps a human being find their own truth, but it also [00:37:35] helps people come together. It liberates humanity, [00:37:40] creativity. And I found that when the same bunch of people who are working in [00:37:45] opposition to one another, maybe in an exam where they're sitting in their own [00:37:50] cubicles.\n\n\n[00:37:50] And I rem",
+      "estimated_minutes": 1.5,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 21,
+      "topic": "personal background",
+      "summary": "Speaker shares how teenage creativity led to music, poetry, and developing a passion for creative expression with friend encouragement.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 22,
+      "topic": "philosophy",
+      "summary": "Explains how creativity brings confidence, liberates humanity, and requires collaboration rather than individual competition.",
+      "text": "storytelling, poetry, art, business, hatching [00:37:25] ideas, it really doesn't just bring confidence [00:37:30] and helps a human being find their own truth, but it also [00:37:35] helps people come together. It liberates humanity, [00:37:40] creativity. And I found that when the same bunch of people who are working in [00:37:45] opposition to one another, maybe in an exam where they're sitting in their own [00:37:50] cubicles.\n\n\n[00:37:50] And I remember like, creativity is collaboration. That's another thing I, I want to [00:37:55] touch upon. If you don't collaborate, the creativity is [00:38:00] worthless. You have to collaborate. I remember being at school and tapping on a [00:38:05] friend's shoulder because the friend needed some help and my teacher thought that [00:38:10] was cheating, thought it was plagiarism that I was helping my friend with an [00:38:15] idea.\n\n\n[00:38:15] So if we're brought together. Not to [00:38:20] collaborate and not to create with one another, then you [00:38:25] become isolated and yo",
+      "estimated_minutes": 1.4,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 23,
+      "topic": "philosophy",
+      "summary": "Describes creativity as collaborative community effort, comparing it to how band members each contribute unique gifts to create beautiful music.",
+      "text": "competition with each other. So creativity is [00:38:30] important, but creativity within community changes, everything changes. [00:38:35] Humans changes the whole vibration and surrounding of a place.\n\n\n[00:38:39] [00:38:40] And with music, that's what you get with a band. Everybody is doing their [00:38:45] own specific thing. Going back to the music, you have a guitarist, a drummer, a bassist, a [00:38:50] keyboard player, a vocalist that is every single person finding their unique [00:38:55] gift and coming together to create beautiful music, \n\n\n[00:38:58] Speaker 2: creat",
+      "estimated_minutes": 0.8,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 24,
+      "topic": "personal background",
+      "summary": "Discusses the importance of having someone believe in you and how vulnerability is required to share authentic creativity.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "vulnerable"
+    },
+    {
+      "chunk_id": 25,
+      "topic": "lesson learned",
+      "summary": "Explains how his father taught him to embrace fear as a signal of importance and growth, and how community enables sharing creativity.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 26,
+      "topic": "vision",
+      "summary": "Describes how Tau Tree provides a global community for children to share creativity and explains the mission of connecting kids worldwide.",
+      "text": "If you didn't have that feeling, it means that you're not testing yourself. It means that you're not [00:41:30] growing. It means that you are not putting yourself into the position where [00:41:35] you have an opportunity. It's that fear.\n\n\n[00:41:37] We all, we all experience that, and [00:41:40] without community, it is impossible to, um, [00:41:45] okay. Yeah. So, so without, without community, creativity doesn't travel. [00:41:50] We are here to find our purpose, find our [00:41:55] unique gift, and share it with others. I think that is a purpose driven [00:42:00] life. Taking your creativity and sharing it with others [00:42:05] so that community, uh, through community you can feel [00:42:10] supported, you can open up, you can interact with other people.\n\n\n[00:42:13] And that is essentially [00:42:15] why Tau Tree provides children with this global community of [00:42:20] kind and creative kids. Our mission is that kids all over the world can use the tau tree method. [00:42:25] Kids all over the world can share their works of art with one another. Kids all over the [00:42:30] world can communicate, compliment and uh, share.\n\n\n[00:42:34] [00:42:35] Um, because children are all the same, a 5-year-old child are all [00:42:40] the same. They all have the same creativity and imagination within them. [00:42:45] And by bringing community. Through this global playground of creativity, [00:42:50] we allow children to feel liberated, not just in having [00:42:55] ideas, but in sharing them with one another and feeling that, [00:43:00] uh, vulnerability, which i",
+      "estimated_minutes": 2.1,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 27,
+      "topic": "philosophy",
+      "summary": "Emphasizes the importance of getting comfortable with vulnerability and how supportive community is essential for entrepreneurs and creative people.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 28,
+      "topic": "founding moment",
+      "summary": "Describes his natural progression from creating board games as a teenager to becoming an entrepreneur through creative invention.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 29,
+      "topic": "early career",
+      "summary": "Explains his work with major entertainment companies like Disney and Universal Studios creating interactive games and experiences.",
+      "text": "internet, I became incredibly excited about the idea. [00:45:15] 'cause when I was building board games, I started then building interactive [00:45:20] games so that rather than having to print the board game and distribute it, I could put it on a [00:45:25] CD or make it a software and distribute it to the whole world.\n\n\n[00:45:29] So I [00:45:30] worked with Universal Studios, 20th Century Fox, Disney, a lot of [00:45:35] entertainment companies working on children's properties to provide experiences [00:45:40] for, um, these entertainment companies to support. The release [00:45:45] of movies, whether it was in the cinema or home entertainment, [00:45:50] we would work to try and create something that would support the [00:45:55] launch and sale of these, uh, these new movies.\n\n\n[00:45:58] So when they, when a [00:46:00] Disney movie, like the Py Kids, for example, was launched, um, they [00:46:05] wanted a piece of software that could be sold with the DVD. So I [00:46:10] created the Cyber Spy Kit for, uh, for Disney. And this was a [00:46:15] cool little, uh, CD rom of games and gadgets that supported the movie that would [00:46:20] enable every child to become a secret spy of their own right.",
+      "estimated_minutes": 1.6,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 30,
+      "topic": "founding moment",
+      "summary": "Describes the origin of Net Sorcerer, a desktop news alerts platform, born from solving his personal internet dial-up cost problem.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "candid"
+    },
+    {
+      "chunk_id": 31,
+      "topic": "product insight",
+      "summary": "Explains how Net Sorcerer solved the dial-up internet problem by delivering breaking news alerts directly to desktop when users connected.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "technical"
+    },
+    {
+      "chunk_id": 32,
+      "topic": "success milestone",
+      "summary": "Describes the success of Net Sorcerer getting funding from Cambridge University and being implemented by Sky broadcasting with Premier League.",
+      "text": "I got a, um, a feasibility study grant from Cambridge [00:48:25] University Science Park and ended up going on this huge journey and it was an [00:48:30] invention that everybody wanted to, uh, implement and it ended up being rolled [00:48:35] out, um, as Skyport News Alerts platform with, uh, prim League football [00:48:40] teams and breaking news, uh, at Sky.\n\n\n[00:48:43] And that's a, uh, broadcast [00:48:45] media corporation in the uk. Um, it was a very exciting period of my [00:48:50] life. The only thing is I didn't understand what, uh, venture capital was. I didn't understand [00:48:55] what entrepreneurship was. I just knew I was solving a problem for myself. But as a [00:49:00] result of that journey, I realized that I have the ability to [00:49:05] help empower ideas, help entrepreneurs turn ideas into products, [00:49:10] test those products, and then turn those products into companies.\n\n\n[00:49:12] So as a result of this, [00:49:15] I decided, um, through opportunities that [00:49:20] were coming to me, through this product that I had launched and successfully, [00:49:25] uh, received, um, uh, a feasibility credit [00:49:30] feasibility study grant and funding for that I was gonna help other entrepreneurs [00:49:35] and that I was going to, like I'm doing with children now, empower humanity [00:49:40] to flex their muscles of creativity and help turn that into [00:49:45] businesses that can be successful.\n\n\n[00:49:47] Speaker 2: Okay. Yeah, that's interesting. Like, [00:49:50] yeah. Starting vessels or like, and could you share us [00:49:55] about what did you learn from this? Or was it successful company? Yeah. It was [00:50:00] the first company, right? \n\n\n[00:50:00] Speaker: So the first company was Knit Sorcerer. The second company was Scatter, [00:50:05] which was the photo sharing product. And that was, again, very innovative because I [00:50:10] ended up going on the incredible journey.\n\n\n[00:50:12] I went to San Francisco. It's amazing. And that",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 33,
+      "topic": "lesson learned",
+      "summary": "Reflects on realizing his ability to help other entrepreneurs turn ideas into successful companies, leading to his venture studio.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 34,
+      "topic": "founding moment",
+      "summary": "Briefly mentions Scatter as second company and how it led to meeting Sumi, winning Samsung World Developer Challenge in 2008.",
+      "text": "So the first company was Knit Sorcerer. The second company was Scatter, [00:50:05] which was the photo sharing product. And that was, again, very innovative because I [00:50:10] ended up going on the incredible journey.\n\n\n[00:50:12] I went to San Francisco. It's amazing. And that was [00:50:15] typically the idea of take a leap and see what happened. Yeah, it was [00:50:20] amazing. So that's the second company. And then Iman's been building all kinds of products and [00:50:25] services with founders for the last 20 years. But yeah, I mean, so [00:50:30] Netsource Row was the first one and then Scatter was the second one.\n\n\n[00:50:32] And Scatter was how I met, uh, [00:50:35] Sumi. Yeah, that's how it all connects in 2008. 'cause I was, I won [00:50:40] the World Developer Challenge for Samsung, um, for Scatter. I was the first [00:50:45] photo sharing app to be released on a Samsung device.",
+      "estimated_minutes": 1.2,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 35,
+      "topic": "failure",
+      "summary": "Candidly discusses Net Sorcerer as a baptism of fire, acknowledging naivety and lack of commercial strategy despite creative success.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "vulnerable"
+    },
+    {
+      "chunk_id": 36,
+      "topic": "lesson learned",
+      "summary": "Reflects on having strong IP and patent but lacking commercial strategy, business planning, and mentorship for scaling the business.",
+      "text": "my arm around the younger version of me and helped me to [00:52:50] succeed better.\n\n\n[00:52:51] But the IP that I created, I got a patent on the idea. [00:52:55] I had locked down the intellectual property, but I was just not, [00:53:00] um, where I was lacking was commercial strategy. The ability to gain [00:53:05] scalability on the idea, the ability to raise funding and have the business plan that would [00:53:10] really allow me to grow this big.\n\n\n[00:53:12] 'cause I was very young at the time, so [00:53:15] one of the big pitfalls that uh, I guess young entrepreneurs had at the time in the [00:53:20] UK was that I don't think even the UK at that time knew how to deal with [00:53:25] this. 'cause the internet was so, so, so young and evolving. [00:53:30] It was very, very hard. So there were a lot of challenges that",
+      "estimated_minutes": 1.1,
+      "emotional_tone": "candid"
+    },
+    {
+      "chunk_id": 37,
+      "topic": "success milestone",
+      "summary": "Details the support from Cambridge University Science Park in securing patents and trademarks for the unique real-time news alerts technology.",
+      "text": "it was incredible to have this idea for a real time news alerts [00:54:05] platform because I've not seen it anywhere in the world. And be able to invent [00:54:10] something like this was, was amazing. Um, Cambridge University Science Park and [00:54:15] St. John's, St. John's Innovation Center for incredibly supportive in helping [00:54:20] me lock down my intellectual property.\n\n\n[00:54:22] The first thing they said to me is that this is [00:54:25] unique. We've ran a patent search on the technological process that you've [00:54:30] invented and there is nothing like this. This in the world. So we are going to help you [00:54:35] to gain a patent on this [00:54:40] idea, and then we're gonna help you trademark your net source for a brand [00:54:45] so that it's your technology and you are gonna be able to distribute this and help other [00:54:50] companies benefit from the technology.\n\n\n[00:54:53] So they really helped [00:54:55] me. On top of that, um, they had, um, a feasibility study [00:55:00] and grant program that allowed me to apply and receive funding. That [00:55:05] funding was instrumental in me taking my idea to market without getting funding from [00:55:10] that entity, which was partly government funded and partly [00:55:15] private funding from Angels.\n\n\n[00:55:17] And then on top of that, I managed to get a, uh, a [00:55:20] loan, um, from, uh, the bank that would help me [00:55:25] top up the funding that I needed. So I went on a eight month [00:55:30] feasibility study where I built the technical, uh, prototype, and [00:55:35] then I started rolling it out. I had all kinds of interest in the product through [00:55:40] music, um, financial services, sport, [00:55:45] um, and I was running around, uh, as a young man going [00:55:50] to meetings, presenting this technology and trying to get companies to [00:55:55] buy into the technology.\n\n",
+      "estimated_minutes": 2.5,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 38,
+      "topic": "fundraising",
+      "summary": "Describes securing government and angel funding plus bank loans for an 8-month feasibility study and prototype development.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "technical"
+    },
+    {
+      "chunk_id": 39,
+      "topic": "founding moment",
+      "summary": "The speaker describes receiving crucial government and private funding plus a bank loan to develop and market their technology prototype over eight months.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 40,
+      "topic": "lesson learned",
+      "summary": "The speaker reflects on their biggest learning: trying to sell technology as a complete product instead of licensing it on a subscription basis, which limited the company's potential.",
+      "text": "My biggest, uh, learning was that, um, I tried [00:56:00] to sell the technology. Um, as a, an entire product to [00:56:05] the, to the companies that I was working with. This is a long time ago, but what I needed to do [00:56:10] was I needed to scale this company through giving the license and allowing these companies to [00:56:15] purchase access to the technology on a monthly basis.\n\n\n[00:56:18] So this [00:56:20] caused a lot of difficulties for me and I ended up, um, [00:56:25] ensuring that the intellectual property behind the company was able to be acquired and [00:56:30] used by other entities, but this business could have been much, much bigger [00:56:35] had I been able to \n\n\n[00:56:37] Speaker 2: strategically roadmap it [00:56:40] better. Okay. So let's go to the next question and it's about the next company [00:56:45] Scatter you mentioned.\n\n\n[00:56:46] Could you share us about why did you decide to [00:56:50] create Scatter Scatter and which, which ones scatter or labs? \n\n\n[00:56:54] Speaker: So email, [00:56:55] labs. Um, so Netsource was born out of Eman Labs. Eman Labs is the [00:57:00] incubator that I set up, and scatter was in 2007 [00:57:05] and Net Soer was 2002. Okay. Then could you share about the background of [00:57:10] you decided to make \n\n\n[00:57:10] Speaker 2: ema?\n\n\n[00:57:11] Speaker: Yeah. So, um, after creating Net Sorcerer, [00:57:15] um, and going through that, I realized that I had the ability to invent and come [00:57:20] up with ideas and kind of see the future and where things were going. So I [00:57:25] decided that I was going to. Create a playground for coming up with [00:57:30] ideas, a venture studio, an ideas lab, an incubator.\n\n\n[00:57:33] And my thought [00:57:35] was not only can I design products and services and invent them myself, [00:57:40] I can also provide an environment where entrepreneurs can actually [00:57:45] come and hatch ideas. So it was a bit of a hatchery really, for, for, for, for [00:57:50] young e",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 41,
+      "topic": "founding moment",
+      "summary": "The speaker explains the timeline and relationship between their companies - Eman Labs incubator in 2002, which later spawned Scatter in 2007.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 42,
+      "topic": "founding moment",
+      "summary": "The speaker describes creating Eman Labs as a venture studio and incubator to help other entrepreneurs, born from their success with Net Sorcerer.",
+      "text": "ideas, a venture studio, an ideas lab, an incubator.\n\n\n[00:57:33] And my thought [00:57:35] was not only can I design products and services and invent them myself, [00:57:40] I can also provide an environment where entrepreneurs can actually [00:57:45] come and hatch ideas. So it was a bit of a hatchery really, for, for, for, for [00:57:50] young entrepreneurs. So EAD Labs opened its door in response [00:57:55] to the success of Net Sorcerer.\n\n\n[00:57:57] And my idea was that through my [00:58:00] successes and my failings, I could help other entrepreneurs go through this [00:58:0",
+      "estimated_minutes": 0.8,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 43,
+      "topic": "growth metrics",
+      "summary": "The speaker details Eman Labs' impressive track record over 20 years: building 25-30 startups from over 100 ideas, with companies raising hundreds of millions and achieving billion-dollar valuations.",
+      "text": "But with each idea, we would get better and better and [00:58:10] better. So basically we, we opened up the, uh, the doors to [00:58:15] Eman, and over the last 20 years, um, we have built 25 [00:58:20] to 30 startups. We've o over a hundred ideas have been hacked, [00:58:25] but obviously a lot of companies don't even launch because of problems.\n\n\n[00:58:29] [00:58:30] Um, but the idea of Eman, uh, venture Labs traditionally was to work [00:58:35] on 10 ideas a year, distill it down into three [00:58:40] companies, work with three founding teams, help create a minimal viable product, [00:58:45] provide legal, financial, operational, technical product development [00:58:50] resources, focus on founders that truly have this pain.\n\n\n[00:58:54] This itch. [00:58:55] They wanna scratch this problem that they wanna solve, ensure that the founder believes and [00:59:00] is open to pivoting, open to, uh, change, and that it's going to last the [00:59:05] course, and then work with them and try and help them get to [00:59:10] funding, which is like, not seed or angel funding, but institutional funding.\n\n\n[00:59:14] 'cause when a [00:59:15] company gets to the series A institutional funding round, at that point, um, [00:59:20] they are, um, in a position where they have a, have a real opportunity to, to [00:59:25] scale and move forward. So EAM Venture Labs, my business partner, and [00:59:30] we built a an amazing team, um, at Eman. And, [00:59:35] uh, we raised, well, the idea was that the companies [00:59:40] that came into our lab had nothing more than an idea on the notepad.\n\n\n[00:59:43] So we would always [00:59:45] start at day zero. It wouldn't be, there would be no minimal viable product. It would, we were only [00:59:50] interested in the very beginning of the company's life. We wanted the founder with the [00:59:55] idea and we wanted to work with him and build these businesses, [01:00:00] uh, from the, from the, from the scratch.\n\n\n[01:00:02] Um, so yeah, eman, [01:00:05] um, the ideas that started in Eman, eman Venture Labs, the companies [01:00:10] have gone on to raise hundreds of millions in, in funding and, uh, [01:00:15] valuations from the companies that we worked with have been in the billions.",
+      "estimated_minutes": 3.0,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 44,
+      "topic": "philosophy",
+      "summary": "The speaker explains their philosophy of empowering founders at the very beginning, emphasizing the real struggle of entrepreneurship and the importance of support during difficult times.",
+      "text": "I'm not saying that we. Are responsible for taking the company all the [01:00:25] way, but what we are responsible for is making sure the founder feels [01:00:30] empowered to do it at the very, very beginning.\n\n\n[01:00:33] Giving the founder the opportunity [01:00:35] to move forward, giving him, uh, the, the, the canvas [01:00:40] to, to begin. And I think that is a very, very important, [01:00:45] uh, part of the, the, the journey because it's very hard at the beginning. [01:00:50] The struggle is real at the beginning. And anybody who thinks entrepreneurship [01:00:55] is easy, they don't, they need to be, become an entrepreneur to really, [01:01:00] um, experience the pain of, of building a company.\n\n\n[01:01:03] It looks [01:01:05] glamorous from the outside, but you might have seen the iceberg analogy where you see the top of [01:01:10] the iceberg and then under the ocean, everything that you don't see is what the founder is [01:01:15] really, really dealing with. So I think the most important thing, um, at Eman [01:01:20] Venture Labs that we offer founders is empowering them to keep [01:01:25] going.\n\n\n[01:01:25] And, uh, beyond helping them, uh, launch their [01:01:30] companies is also, uh, you know, empowering them to, to, to keep going. [01:01:35] Because having that support is the key thing, uh, for [01:01:40",
+      "estimated_minutes": 1.8,
+      "emotional_tone": "candid"
+    },
+    {
+      "chunk_id": 45,
+      "topic": "personal background",
+      "summary": "The speaker reflects on how Eman Venture Labs gave them the opportunity to work on their next big venture during the smartphone revolution, leading them to Silicon Valley.",
+      "text": "Um, and of course with Eman Venture Labs, I'm a founder too, so [01:01:45] it gave me the opportunity to, um, work on. My next big [01:01:50] venture, which was at the beginning of the smartphone revolution and which took me to [01:01:55] Silicon Valley, um, which I never believed, uh, that I would, uh, I would get [01:02:00] there.\n\n\n[01:02:00] Um, but it just shows when you come up with an idea that's so overwhelming and so [01:02:05] powerful, you will do anything to, uh, \n\n\n[01:02:07] Speaker 2: to reach your goals. Okay. Before we [01:02:10] dive into the cell experience with Scattered, I think I, I wanna ask one more question [01:02:15] Serial, for what lessons have you learned as a serial entrepreneur and how was their [01:02:20] mindset were philoso changed from your first startup to know?\n\n\n[01:02:24] I think [01:02:25] this answer would be very helpful for our viewers who are so deeply interested in [01:02:30] making founders like that. Yeah. \n\n\n[01:02:34] Speaker: So [01:02:35] when you make the decision to become an entrepreneur, [01:02:40] it's so important that you are deeply in love with the problem that you [01:02:45] are solving. Okay? If it's just an idea that you have, that you [01:02:50] think could be successful because you have a large addressable market and you feel that, [01:02:55] you know, there's an opportunity for you to make money, that's only gonna get you so far.[01:03:00] \n\n\n[01:03:00] Because inevitably with every startup you launch and then you enter [01:03:05] this pit of hell, it's the only way I can describe it. I have to be [01:03:10] honest about it. It is not for everybody. And if you are going to succeed, [01:03:15] unless you get a lot of luck and you are completely on time. In terms of market [01:03:20] adoption, we're gonna encounter a lot of challenging scenarios, particularly [01:03:25] with fundraising, not having enough runway, um, failing to raise funding [01:03:30] the product, not uh, taking off in inability to find",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 46,
+      "topic": "advice",
+      "summary": "The speaker emphasizes the critical importance of being deeply in love with the problem you're solving as an entrepreneur, not just pursuing market opportunities.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 47,
+      "topic": "philosophy",
+      "summary": "The speaker candidly describes entrepreneurship as entering a 'pit of hell' with numerous challenges including fundraising difficulties, runway issues, and finding product-market fit.",
+      "text": "artup you launch and then you enter [01:03:05] this pit of hell, it's the only way I can describe it. I have to be [01:03:10] honest about it. It is not for everybody. And if you are going to succeed, [01:03:15] unless you get a lot of luck and you are completely on time. In terms of market [01:03:20] adoption, we're gonna encounter a lot of challenging scenarios, particularly [01:03:25] with fundraising, not having enough runway, um, failing to raise funding [01:03:30] the product, not uh, taking off in inability to find that product [01:03:35] market fit, and, um, capture customers that become loyal [01:03:40] customers.\n\n\n[01:03:40] There's a lot of problems and a lot of challenges, right? So the first thing I would [01:03:45] say to any founder is make sure what you set out to [01:03:50] do is something that you genuinely love. And that problem can be a personal [01:03:55] experience that you have encountered, like myself with Tail Tree [01:04:00] or something that, uh, it's gonna take a lot of effort.\n\n\n[01:04:04] It's gonna take [01:04:05] a lot for you to quit because companies don't really die. The founders, the founder, the founders [01:04:10] quit. And then once you've decided on your mission, 'cause rather than it just [01:04:15] be, you know, building businesses, it should be a mission. It should be a mission that [01:04:20] you are, that you have once you decide upon that mission.\n\n\n[01:04:23] It's very important for me, I [01:04:25] think, um, to ensure that I have a vision for what I want to [01:04:30] create. Maybe a five year vision, a 10 year vision, whatever it is. And I often think [01:04:35] a vision board is really important. So in the difficult days when you walk [01:04:40] into the office, you can see this vision board in front of you that reminds you of what you are [01:04:45] trying to achieve.\n\n\n[01:04:46] 'cause a lot of people. A lot of founders, sorry. When they [01:04:50] start working in startups and they get caught up because you hav",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "candid"
+    },
+    {
+      "chunk_id": 48,
+      "topic": "advice",
+      "summary": "The speaker provides foundational advice for founders: ensure genuine love for the problem, treat it as a mission, create a vision board, and remember that companies don't die - founders quit.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 49,
+      "topic": "advice",
+      "summary": "The speaker stresses the importance of working 'on' the business rather than 'in' it, maintaining vision, and breaking down overwhelming goals into daily bite-sized achievements.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 50,
+      "topic": "philosophy",
+      "summary": "The speaker uses the analogy of a startup's volatile upward trajectory like a camel's back, advising founders to zoom out, see progress, and maintain fresh momentum daily.",
+      "text": "'cause otherwise you just get completely [01:06:05] lost in everything and it never feels like you are succeeding. [01:06:10] A startup's life always goes up, but it's volatile. It's like a camel's [01:06:15] back in an upward direction. The trouble is the third time [01:06:20] you go down, you feel like quitting, but actually you're still going [01:06:25] up.\n\n\n[01:06:25] But it's volatile. So what I, what I, what I tell, uh, founders trying [01:06:30] to zoom out. See how far you've come. Try and every day [01:06:35] wake up and think this is the beginning. We're just getting started. Have a fresh and [01:06:40] opportunistic mindset to the business and try and realize [01:06:45] that, you know, this is, this is like the beginning.\n\n\n[01:06:47] Every day should feel new and fresh and [01:06:50]",
+      "estimated_minutes": 1.1,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 51,
+      "topic": "advice",
+      "summary": "The speaker concludes with their mantra that miracles come from momentum, which comes from moments, emphasizing daily discipline, exercise, sleep, and repeating what works.",
+      "text": "And always say, miracles come from momentum. Momentum come [01:06:55] from a succession of moments. So every day as you are [01:07:00] completing and getting further towards the end goal, you are creating this [01:07:05] momentum through continuing to attack every day, uh, [01:07:10] the same and breaking things down.\n\n\n[01:07:12] That those moments create momentum, [01:07:15] which creates the miracle of the vision that you have put out there. And, [01:07:20] uh, these are the things that I've used to help me on my journey as an [01:07:25] entrepreneur working on it, on the startup rather than in the startup miracles, [01:07:30] momentum moments, and also discipline as well.\n\n\n[01:07:34] To [01:07:35] get to that end goal, you've gotta have discipline, which means cutting out things that don't serve you, [01:07:40] being disciplined to how life, um. [01:07:45] Uh, you know how life benefits you. Make sure you get your daily exercise, make sure you get enough sleep, [01:07:50] drink enough water, you know, whatever works for you. Once you've found the [01:07:55] magic ingredient, repeat, repeat, repeat.\n\n\n[01:07:58] Um, and [01:08:00] that, uh, you know, that, that, that, that's the advice I give myself. So I [01:08:05] would, uh, I would, I, I I can only, uh, I can only give to others what I, [01:08:10] what what I know wo",
+      "estimated_minutes": 1.8,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 52,
+      "topic": "philosophy",
+      "summary": "The speaker elaborates on the crucial difference between working 'on' versus 'in' a business, explaining how product-focused founders can get lost in minutiae and miss the bigger picture.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 53,
+      "topic": "team building",
+      "summary": "The speaker describes effective founders as 'chief happiness officers' who excel at bringing in the right people at the right time and empowering them to do their best work.",
+      "text": "that are really good scaling their [01:09:35] business and they, they're really good at working on the business.\n\n\n[01:09:38] I think they make great [01:09:40] chief happiness officers as opposed to chief executive officers because they have the [01:09:45] ability to bring people in and understand the type of people that their company [01:09:50] needs when they need it, and empower those people to do their best work. [01:09:55] I think working on the business is working on a mission [01:10:00] where everybody that joins your company feel like it's their mission to that the [01:10:05] problem, everybody's an entrepreneur to a degree, and there is a deep [01:10:10] and meaningful reason why the first 10, 15, 20 peo ple in your company are working [01:10:15] for that company.\n\n\n[01:10:16] For example, if I'm, if I'm building tre, I'm gonna [01:10:20] make sure that from the finance chief, financial officer, chief legal legal [01:10:25] officer, ev anybody down to, um, the, the head [01:10:30] of wellbeing and the",
+      "estimated_minutes": 1.4,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 54,
+      "topic": "philosophy",
+      "summary": "The speaker explains how working 'on' the business means ensuring every team member has a deep connection to the mission, while working 'in' it can stifle growth through over-control.",
+      "text": "would potentially be preparing food [01:10:35] for the company, they would all have a deep and meaningful connection to the problem [01:10:40] that we're solving.\n\n\n[01:10:41] So working on that business. Is about [01:10:45] empowering other people and bringing other people into the business at the right [01:10:50] time and for the right reasons. If you work inside it [01:10:55] for too long, you can suffocate and stifle the growth of the business for me, [01:11:00] because you are trying to be every member of your team.\n\n\n[01:11:03] You are trying to over [01:11:05] control the, the outcome and the destination of what's going on. It can suck the [01:11:10] energy from you and everybody that's in the company. And what [01:11:15] happens is the company ends up just getting a little bit stifled. [01:11:20] So it's very, very important that you understand that you are only [01:11:25] one person as a founder.\n\n\n[01:11:26] There's only so much that you can do, and you are best [01:11:30] suited when you are building a company. Company means company, right? It doesn't [01:11:35] mean you. It means a bunch of people or going in the right direction, [01:11:40] all with the same aims and objectives. And I think the best form of [01:11:45] leadership is the person that stands at the back allows their team to [01:11:50] have the space to really shine and bring their gifts to the [01:11:55] company.\n\n\n[01:11:55] So the company moves forward and that founding [01:12:00] leader is leading from the back as much as leading from the front, meaning that. [01:12:05] Give your team the glory, give your team the applaud it for the great work. If [01:12:10] problems do occur, take those problems on show that you are a true leader. That it's, [01:12:15] uh, that, and, and, and, and allow your team to help you, uh, solve those problems.[01:12:20] \n\n\n[01:12:20] But working on that company always, uh, is, is, is, is, [01:12:25] is as I think, uh, the difference \n\n\n[01:12:27] Speaker 2: betwe",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 55,
+      "topic": "advice",
+      "summary": "The speaker emphasizes that founders are just one person and should build a true company of aligned people, leading from the back while giving teams space to shine.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 56,
+      "topic": "founding moment",
+      "summary": "The speaker begins describing Scatter's origin story, setting the scene in London around 2005-2006 during the early smartphone era with Windows Mobile and Nokia N95.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 57,
+      "topic": "founding moment",
+      "summary": "The speaker describes his profound realization about smartphone cameras enabling real-time citizen journalism and his decision to build Scatter, a media sharing platform focused on validating breaking news through location and time metadata.",
+      "text": "own ideas on how they were gonna navigate smartphones. Um, I was [01:13:20] playing around with a Windows mobile, 'cause we were working on a feasibility study for [01:13:25] Bluetooth.\n\n\n[01:13:25] And I realized that the power of a camera, the power of location, the [01:13:30] camera. Was, gave us extraordinary abilities as humans that [01:13:35] we could share what we saw in real time and be, um, [01:13:40] somewhat of a citizen journalist for the world, sharing our experiences, sharing how things were, [01:13:45] uh, looking at in real time.\n\n\n[01:13:48] So that idea was [01:13:50] just so profound at the time that I made the decision that I was gonna work on that problem. [01:13:55] I was gonna actually build a platform that it [01:14:00] was about sharing media, not just photo ten second video clips and images, and [01:14:05] aggregating the moment of capture around certain locations. [01:14:10] Um, it's not how Instagram and TikTok have evolved.\n\n\n[01:14:12] It's something very, very different. And I [01:14:15] think Scatter is now nearly 20 years old. [01:14:20] The concept, I don't think the concept has been actually, um, [01:14:25] uh, launched properly even as yet. Uh, because although it's photo and video sharing, [01:14:30] the unique, um, the unique, uh, [01:14:35] positioning of Scatter was that it was all about the moment that was captured and the [01:14:40] metadata behind that moment of capture as a way to validate breaking news, [01:14:45] meaning that we knew that it was taken at that time and at that location.\n\n\n[01:14:49] What we [01:14:50] see today on Big Tech is a lot of fiction, a lot of [01:14:55] deep fake media. Where you can never really tell what is true. You can never really [01:15:00] tell what has been actually shared when it was shared, who it was shared by. And I [01:15:05] have a lot of, um, a lot of challenges around, around the way [01:15:10] mobile and social media has evolved over the last 20 years.\n\n\n[01:15:14] I find it very, [01:15:15] very troubling, \n\n\n[01:15:16] Speaker 2: to be honest. Okay. You were in England when you made",
+      "estimated_minutes": 2.8,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 58,
+      "topic": "founding moment",
+      "summary": "The speaker explains the challenges of explaining photo sharing concepts in the UK where people were skeptical about public media sharing, privacy concerns, and copyright issues, leading to his decision to move to Silicon Valley.",
+      "text": "scatter, right. And I, I think it's related to the story why you [01:15:25] decided to move to Silicon Valley. Yeah. Could you tell us more about it? \n\n\n[01:15:27] Speaker: Yeah. So \n\n\n[01:15:28] Speaker 2: when I \n\n\n[01:15:28] Speaker: started, [01:15:30] um, the Scatter project, um, I was, um, [01:15:35] incredibly excited about the potential of what I was building.\n\n\n[01:15:39] Of course, [01:15:40] with any startup, you need to raise capital and you need support and mentors. [01:15:45] And because the smartphone era was at the very [01:15:50] beginning, um, I found it very, very hard to explain to people [01:15:55] what I was trying to do. Even the idea that, uh, sharing a photo [01:16:00] publicly into a feed that other people could see was an idea that was like a [01:16:05] contrarian truth.\n\n\n[01:16:05] It was like, this will never take off. People take their photos, they get 'em [01:16:10] developed, they share them with their family. Nobody wants to see other people's media. [01:16:15] Um, and it's a, it's an invasion of privacy and people aren't gonna want to. Take [01:16:20] photos of other people who are in the public. 'cause it's an invasion of privacy.\n\n\n[01:16:24] And you [01:16:25] can't take videos of pop concerts and in music venues because again, um, [01:16:30] it, it, it's copyright. So all of these issues I was, I was being [01:16:35] faced with, uh, which was just very negative. And I [01:16:40] couldn't really see how in the UK I could get my, uh, business, business going. [01:16:45] So I decided to take a bold leap because in [01:16:50] the us, particularly in San Francisco and Silicon Valley, I saw so much [01:16:55] positivity around ideas, new ideas, things that most people would think could [01:17:00] never take off.\n\n\n[01:17:01] And it's quite obvious that the biggest tech companies over the last 40, 50 [01:17:05] years have emerged from Silicon Valley. Uh, and they've done so. 'cause Silicon Valley has a high [01:17:10] propensity to risk and it capitalizes high risk projects. [01:17:15] It one entrepreneurs to succeed. He wants to give, uh, creative and entrepreneurial people the [01:17:20] chance to build great companies and it's prepared to back those [01:17:25] ideas.\n\n\n[01:17:25] So I thought to myself, well, I have to, I have to do it. So what I [01:17:30] did is, um, I, uh, it was the, it was actually a, [01:17:35] a a, a pivotal moment in my life going to San Francisco. I remember landing [01:17:40] there for the first time and I immediately felt like I was at home. I felt like I [01:17:45] was accepted for having this mindset to business, this mindset.\n\n\n[01:17:49] To [01:17:50] entrepreneurship. And it was an incredible experience when I first landed in Silicon Valley. The [01:17:55] people, the support, the way people would encourage me and get [01:18:00] behind my ideas, it was just amazing. And the communication between [01:18:05] people, the events, the whole ecosystem was just, uh, was just [01:18:10] incredible. Um, and if I hadn't have gone out there, I don't think I would've been [01:18:15] able to achieve what I achieved with scatter.",
+      "estimated_minutes": 4.2,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 59,
+      "topic": "partnership",
+      "summary": "The speaker describes winning British Airways' Flying Start Program award which provided flights to Silicon Valley, and his early involvement with Android's six-person team, becoming one of the first developers to use Android's camera API.",
+      "text": "It would've been almost impossible. [01:18:20] Yeah. And could you share us about your using Silicon Valley? Was there any good thought? You [01:18:25] think it was only possible because you were in the Silicon Valley? Like, [01:18:30] and I think sharing your meeting with some, one of the best people in Silicon Valley might be helpful [01:18:35] 'cause you share some story about it.\n\n\n[01:18:37] Yeah, yeah. So, \n\n\n[01:18:39] Speaker: [01:18:40] um, interestingly, um, one of the things that happened due to [01:18:45] scatter is that I needed to get to and from Silicon Valley. And, um, [01:18:50] I managed to win an award, um, from British Airways, a major airline [01:18:55] who back, um, people in industry to help their dreams [01:19:00] come true. It was called the Flying Start Program.\n\n\n[01:19:02] And they pick one entrepreneur, [01:19:05] one sports person, and one person in the creative industries, and they fund [01:19:10] them with giving them access to flights. So British [01:19:15] Airways, um, decided that they were gonna back me. Um, as an [01:19:20] entrepreneur and I won this award, which gave me access to being able to fly to Silicon [01:19:25] Valley and back, um, as many times as I needed to, to [01:19:30] get my, uh, business off the ground in Silicon Valley, which was a huge, huge [01:19:35] help.\n\n\n[01:19:35] So when I arrived in Silicon Valley, um, and I started, um, [01:19:40] connecting to people and making new friends, um, and getting my [01:19:45] passion and my mission across, it was an incredible opportunity, an incredible experience [01:19:50] for me. Um, and at that time, obviously we're at the very beginning [01:19:55] of the smartphone era. So you had Apple, you had Android, you had, uh, [01:20:00] Samsung.\n\n\n[01:20:00] And, um, I spent a lot of time, a lot of perseverance, [01:20:05] attending events, meeting people, and discovering, um, people that could [01:20:10] help me. Um, one of the greatest things that occurred, um, with [01:20:15] Scatter was that, um, Android had just launched and there was just six people in [01:20:20] the team. Um, and I met, uh, one of the Android, uh, team members, [01:20:25] um, who were working under Serge Brand, the founder of Google on this project.[01:20:30] \n\n\n[01:20:30] Um, and it was a huge opportunity for me to explain what I was trying to achieve [01:20:35] with, uh, with the scatter project. So they invited me into their cohort of, [01:20:40] um, innovator, um, and I ended up, um, getting the first G one [01:20:45] Android. Device, which was like a motherboard chip with a screen attached to it. It didn't even have packaging.[01:20:50] \n\n\n[01:20:50] And Android one was dropped where it wasn't even launched the Android, uh, [01:20:55] ecosystem. It was just a beater. So we got access to the developer kit and we could start building. [01:21:00] And I remember being one of the first ever developers to use the camera [01:21:05] API on the Android software developer kit. It was an incredible [01:21:10] experience to be able to connect my native app and access the camera.\n\n\n[01:21:14] It was [01:21:15] almost like we were working with the team at Google to prototype [01:21:20] and build and engineer this ecosystem. [01:21:25] So the G one was launched, there was only, um, a thousand phones in [01:21:30] circulation and we had access to one of them and then 10,000 phones. [01:21:35] And I ended up, um, being able to learn how to [01:21:40] build on the first ever photo sharing, um, smartphone apps ever.",
+      "estimated_minutes": 4.7,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 60,
+      "topic": "partnership",
+      "summary": "The speaker details his collaboration with Samsung on their Bada OS, launching Scatter as one of the most popular apps on their ecosystem and speaking at Mobile World Congress, while reflecting on the challenges of being too early in the market.",
+      "text": "'cause we launched scatter on Android market in the, there was like [01:21:50] 150 apps on the, on the app store. Um, and it was an incredible [01:21:55] experience. That experience also enabled me to [01:22:00] gain a relationship with Samsung. Samsung, obviously, um, a company that I [01:22:05] love and respect. Um, and I, um, decided to work with Samsung [01:22:10] on Scatter.\n\n\n[01:22:10] They had a brand new smartphone called barda. Which was [01:22:15] the first hardware, software, phone all in one. The [01:22:20] iPhone had just launched, but Android was obviously an open source, uh, [01:22:25] software. So, um, I ended up signing with Samsung and I ended up [01:22:30] launching Scatter on their os, which was the first, uh, barda, uh, [01:22:35] prototype.\n\n\n[01:22:35] Um, I went to Mobile World Congress with Samsung and [01:22:40] actually gave a, uh, a talk in Barcelona on smartphone development and working [01:22:45] with Samsung. And I became, um, one of the, um, [01:22:50] I guess one of the most popular apps on the Samsung ecosystem at the time. Um, [01:22:55] and that would never have been made possible, uh, without Silicon Valley.[01:23:00] \n\n\n[01:23:00] There is no way I could have accessed these communities and been able to meet people that [01:23:05] would intro me to people that would enable me to have the best possible chance of [01:23:10] gaining distribution on my product. Now, the trouble with, um, launching a [01:23:15] startup very early, like scatter, particularly on, on a smartphone where [01:23:20] distribution is limited at the beginning is that you have, um, [01:23:25] a lot of difficulties with building on these software developer kits.\n\n\n[01:23:28] We were very, very early [01:23:30] and that caused, uh, a lot of, a lot of issues in terms of how much [01:23:35] resources are required to build, uh, and, and then the lack of dis distribution on [01:23:40] some of these, uh, some of these operating systems. Um. But to be a [01:23:45] pioneer and an innovator with an idea and to actually be able to talk to [01:23:50] like top venture capitalists about photo sharing and then dismiss the idea [01:23:55] as being something that might not take off or they don't really [01:24:00] understand.\n\n\n[01:24:00] It is very interesting learnings as an entrepreneur, what you do [01:24:05] learn and what the biggest takeaway from some of this is that just because you have an [01:24:10] idea that's so profound, if you don't have an addressable market or the ability to [01:24:15] distribute your idea, you might end up being eaten by [01:24:20] somebody that arrives on time.\n\n\n[01:24:21] The product lifecycle is very, very important. And being [01:24:25] in the right place at the right time with the right technology, you often become an [01:24:30] r and d lab for somebody that can take your idea and",
+      "estimated_minutes": 3.8,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 61,
+      "topic": "lesson learned",
+      "summary": "The speaker explains his philosophy about contrarian truths - that when 99% of people think your idea is crazy but you have deep passion for it, that's when you should take it seriously, using Bitcoin as an example.",
+      "text": "launch a better version of it 'cause they are on time. So that's a big takeaway [01:24:40] for being in this, uh, in the space of inventing things.\n\n\n[01:24:44] [01:24:45] One thing which is really interesting is that scatter did feel like a contrarian truth. And the contrarian [01:24:50] truth is that like, you know, you are sitting on a good idea when [01:24:55] everybody thinks it's crazy. When everybody thinks your idea is crazy. That's when you should, [01:25:00] you should take it serious. If your idea comes from a very deep and meaningful place and you [01:25:05] are very passionate about it, it means that, and, and, and 99% of people [01:25:10] think it's crazy, you should take it very, very serious.\n\n\n[01:25:13] You are gaining. A [01:25:15] monopoly on something or you are gaining like, uh, you've got [01:25:20] something very, very, very big and, and, and then you just scale that [01:25:25] idea. It's like anything. It's like Bitcoin. When the Bitcoin white paper was [01:25:30] released, I think in 2010 or something like that, 99.9% of people [01:25:35] would've seen it as this crazy idea.\n\n\n[01:25:37] And people still think it's crazy now. But the [01:25:40] point is that when you have something so profound and different, um, that you [01:25:45] know, you know you have it within you that it's, it, it, it's right. [01:25:50] You need to pursue that. If you have fire around the idea, true [01:25:55] fire and true passion, you need to pursue that 'cause, um, that's more [01:26:00] important than having everybody agree with your idea.\n\n\n[01:26:04] 'cause [01:26:05] everybody agrees with your idea. It's probably too late and somebody's already done it. You need to be early, [01:26:10] you need to be a contrarian. I think for these big, big businesses you need to be, uh, [01:26:15] very early. 'cause your early adopters are going to be like disciples of the business. And [01:26:20] that's when you gain virality.\n\n\n[01:26:21] You don't gain virality by having a mass addressable market [01:26:25] of lukewarm users. You gain virality by having hot, [01:26:30] a small number of users that are very, very passionate about the [01:26:35] idea. 'cause when you are passionate about the idea and you know that you know something that [01:26:40] people aren't aware of, you talk about.\n\n\n[01:26:41] And that's how Vir Vir. Virality [01:26:45] occurs. Um, so it's, it is complicated with scatter. We were very early [01:26:50] and what we see today is photo sharing, video sharing, content [01:26:55] creation through YouTube, through TikTok and Instagram and um, x and all these other [01:27:00] platforms. But I feel like, um, we're now living in an ocean of [01:27:05] content and distraction.\n\n\n[01:27:06] And I think it's, it's tough for humanity 'cause you don't know [01:27:10] what's real. You don't know what's fake. And I think with scatter, what I was trying to do is create",
+      "estimated_minutes": 3.9,
+      "emotional_tone": "philosophical"
+    },
+    {
+      "chunk_id": 62,
+      "topic": "philosophy",
+      "summary": "The speaker discusses the importance of luck and timing as possibly the most crucial factors in startup success, emphasizing that without good timing, even passionate execution may not succeed.",
+      "text": "of which that medium was captured.\n\n\n[01:27:33] Yeah. Thank you for [01:27:35] your explanation. I think that it'd be great to, for great for audience. [01:27:40] And you mentioned about the importance of timing. So are there, how do you think [01:27:45] about the importance of luck in terms of making company? Do you think it is, [01:27:50] it is. How much is, how much is important and what Yeah, that's, [01:27:55] \n\n\n[01:27:56] Speaker: yeah.\n\n\n[01:27:56] I think, um, I think luck and timing are [01:28:00] fortunately or unfortunately, depending on whether you have them on your side, [01:28:05] possibly the most important factors. And luck can also be [01:28:10] down to having the right connections, the right people being in the right. Location. [01:28:15] You know, having a product that that country or that market wants to adopt, [01:28:20] having access to the technology that will enable you to distribute it.\n\n\n[01:28:24] Luck and [01:28:25] timing are hugely important. Um, I think if you combine good [01:28:30] luck and good timing with a deep passion for the problem that [01:28:35] you're solving, the rest can take, uh, a life of [01:28:40] its own. Being organized and being, uh, smart with [01:28:45] how you execute is important. But without the other three, I think it's very hard [01:28:50] to succeed.\n\n\n[01:28:50] 'cause as I said earlier in the, in the conversation, um, [01:28:55] you're gonna go through 90% of startups, they go through this sort of struggle, [01:29:00] I would say. So, sort of a very difficult period where after launching, [01:29:05] um, you know, you are looking for any kind of luck you can get. You're looking for any kind [01:29:10] of, uh, you know, and, and you feel like you're not on time.\n\n\n[01:29:13] You know, you, you are either too [01:29:15] early or you're too late. So it's like competitors are coming and you're [01:29:20] stressed about like competitors, or maybe you're too early and you just can't hit that [01:29:25] inflection point. So I think timing and luck is so hard. It is so hard [01:29:30] to, to get right. Um, but the passion and perseverance is, is, is, [01:29:35] is the key.\n\n\n[01:29:36] Um, if you've got all three of those, I think you. You can, [01:29:40] um, you can, you, you, you can make it. I think, um, [01:29:45] some of the most incredible companies that I've been witness to, or [01:29:50] um, the companies that we know about in the world, I think they started off in a very sort of messy and ragged [01:29:55] way where they were open to pivot and change and do different things.\n\n\n[01:29:59] And [01:30:00] in some respects, they didn't necessarily know where they were going. I mean, they had the vision, but it [01:30:05] was more of a day-to-day application of their passion to trying [01:30:10] to evolve something that the customer wanted to use. Um, so I think being [01:30:15] too structured in the early days can be as much of a [01:30:20] hindrance as a help.\n\n\n[01:30:21] 'cause if you're too structured, you might not be [01:30:25] open to pivot. You might not be open to change. You [01:30:30] might be too, you know, tunnel vision in your, in your [01:30:35] approach. So that's, that's, that's, uh, that's something that I've seen a [01:30:40] lot of, um, companies fail on the lack of flexibility and [01:30:45] openness to change. And it kind of sometimes can make founders seem a little bit like crazy [01:30:50] that the following week they say something completely different to the [01:30:55] previous week and it's like, well, you said this and now you're saying that.\n\n\n[01:30:58] But that's the nature of [01:31:00] putting the company ahead of your own, um, your own ego really. [01:31:05] You know, you've gotta be, uh, very open to change. Very open [01:31:10] to, um, ideas and you've gotta listen to the world around you. Very, [01:31:15] very important. But timing and luck, \n\n\n[01:31:18] Speaker 2: they play a big, a big factor",
+      "estimated_minutes": 5.3,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 63,
+      "topic": "personal background",
+      "summary": "The speaker begins to discuss meeting influential people like Tim Berners-Lee, explaining that accessing such esteemed individuals requires courage, creativity, and bold ideas that draw attention.",
+      "text": "in it. Thank you for answer.\n\n\n[01:31:21] And the next question is kind of related to your answer about [01:31:25] how we ly Green and Silicon Valley. [01:31:30] I saw you met some very people, like it was Tim Burnes Lee who made war [01:31:35] like that. Is there any interesting or memorable you met [01:31:40] with those kind of nom, CEO or under if you, if, if, if there is some [01:31:45] specific story about it, what did you learn from that?\n\n\n[01:31:47] So, \n\n\n[01:31:47] Speaker: um, I learned [01:31:50] actually, um, first of all to get into the, um, company of those [01:31:55] exte esteemed individuals. It took courage, creativity, [01:32:00] and uh, a leap of faith to get there. It's, when we talk [01:32:05] about moments, momentum and miracles, having the ability [01:32:10] to spend time with people of that influence in the world, you wonder how you [01:32:15] got there.\n\n\n[01:32:15] And essentially you get there through being bold with your ideas. And I [01:32:20] think scatter being an innovative, uh, product that it was at the time was drawing the [01:32:25] attention of a lot of companies. 'cause we we",
+      "estimated_minutes": 1.5,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 64,
+      "topic": "industry context",
+      "summary": "Meeting influential Silicon Valley figures like Tim Berners-Lee required courage and creativity, with Scout drawing attention from major companies.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 65,
+      "topic": "lesson learned",
+      "summary": "Meeting tech giants like Sergey revealed their humility and genuine interest in listening to entrepreneurial stories.",
+      "text": "When you meet, uh, people of that magnitude, um, [01:32:40] particularly with Serge, for example, when I met him in San Francisco, um, just [01:32:45] found, um, the level of humility and, um, how [01:32:50] inspirational, uh, he was not in terms of being an [01:32:55] authority, but how inspirational he was in terms of how humble and how [01:33:00] open to listening to ideas he was and how interested he [01:33:05] was in, you know, my, my life and what got me to where I was [01:33:10] with, with the Scout project.\n\n\n[01:33:11] Um, and yes, I think, um, [01:33:15] with, um, with a lot of these guys, um, you know, the founders [01:33:20] are, I think, quite extraordinary in some respects in terms of the, [01:33:25] you know, when you get to the founder, they're very busy. They don't really have time to, uh, you know, [01:33:30] spend their time with, with people. But if you, if you manage to get to the [01:33:35] people who literally start these companies, I think they have a lot of, uh, [01:33:40] humility and, and understanding and empathy for the process, uh, of, of what it takes to [01:33:45] be an entrepreneur.\n\n\n[01:33:47] Um, and yes, it's, it's, it's a pleasure [01:33:50] to be able to, you know, have the experience and, and learn and learn from them. But main, [01:33:55] the main thing I would take away, uh, from these guys is that, um, [01:34:00] their ability to manage, I guess the stress and the, the. The, the [01:34:05] enormity of what they're doing. And I think you've just gotta break it [01:34:10] down.\n\n\n[01:34:10] You've gotta break your startup, your, your, your entrepreneurial adventures down [01:34:15] into achievable bite-sized tasks. And then you will find that [01:34:20] things start to progress and take a life, take a life of their own. \n\n\n[01:34:24] Speaker 2: Thank you. And [01:34:25] before we dive into the next topic, could you, this kind of specific ask, but could you [01:34:30] say, when I, I reli this Silicon Valley in 2005 and [01:34:",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 66,
+      "topic": "advice",
+      "summary": "Founders show extraordinary humility and empathy for the entrepreneurial process, teaching the importance of breaking down overwhelming tasks into manageable pieces.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 67,
+      "topic": "personal background",
+      "summary": "Arrived in San Francisco in 2007 with entrepreneurial dreams, now headquartered in Palo Alto at the heart of the tech ecosystem.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 68,
+      "topic": "founding moment",
+      "summary": "Always maintained a childlike curiosity and worked with children's properties, leading to the realization that everyone possesses entrepreneurial creativity but loses it through traditional systems.",
+      "text": "Yeah, so, um, I've always been, [01:35:50] um, a little bit childlike. I think my entire life. I've always had this [01:35:55] brain that continues to be curious and learn through my imagination and my [01:36:00] creativity. Um, I'm not saying it's hard to double down and, [01:36:05] um, um, be, um, for, can we start that again? Yeah, sure. [01:36:10] Yeah. Start that again.[01:36:15] \n\n\n[01:36:15] The question was, um, about like childhood and how, why I started [01:36:20] television. Yeah. Why did you especially started? Yeah. Okay. So, um, I've [01:36:25] always considered myself to be quite childlike in the way I sort of embraced the world in new [01:36:30] ideas with my curiosity and imagination and creativity. And I think, [01:36:35] um, growing up I was always working in and around, um, [01:36:40] children's ideas and properties.\n\n\n[01:36:42] I created different brands, different [01:36:45] characters. I worked producing board games. I worked with Disney, universal, all [01:36:50] on children's properties and intellectual property. My father was a great inspiration [01:36:55] in that and he also could see that I had great creativity [01:37:00] around like originating. Ideas and game mechanics.\n\n\n[01:37:03] And I think when I look at [01:37:05] Eman, um, and the empowerment of entrepreneurs, what I'm doing now with Taut [01:37:10] Tree is essentially an extension of that. As a child, I realized that, um, [01:37:15] I wanted to help empower humanity to think [01:37:20] creatively or with authenticity, with purpose. And, um, [01:37:25] I wanted all of humanity to be able to call upon their authenticity and spiritual [01:37:30] gifts and serve others with that.\n\n\n[01:37:31] Eman was an opportunity for me to do that with young [01:37:35] entrepreneurs. Um, and essentially Tel Tree is no different [01:37:40] to that in the sense that this big thinking, this [01:37:45] curiosity, the imagination and creativity and wonder of a child, we all [01:37:50] possess that. I",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 69,
+      "topic": "philosophy",
+      "summary": "Traditional education creates right/wrong binary thinking, but in the AI era, humans need to embrace their superpowers of kindness, listening, and community purpose.",
+      "text": "The teaching of knowledge, the the [01:38:50] forcing of knowledge upon a human being, whether they want to learn it or [01:38:55] not, does stifle the imagination.\n\n\n[01:38:58] We create a scenario [01:39:00] where there is either a right answer or a wrong answer. There are many [01:39:05] right answers to every problem. It's giving a human being the [01:39:10] opportunity to have the courage to express themselves and explore a [01:39:15] variety of ways to tackle problems in the world. And this is why it's so important [01:39:20] in a post that AI era that human beings really are [01:39:25] beings because robotization and automation is going to suck up [01:39:30] the need for us to be fit, for purpose to produce.\n\n\n[01:39:34] We are [01:39:35] now required to think about other forms of [01:39:40] us, how to use our superpower as human beings to help other people through our [01:39:45] kindness, through our ability to listen, through community, through purpose. We all have [01:39:50] a gift and we need to let this light within us shine brightly for the purpose of others.",
+      "estimated_minutes": 1.5,
+      "emotional_tone": "philosophical"
+    },
+    {
+      "chunk_id": 70,
+      "topic": "product insight",
+      "summary": "TailTree connects childhood entrepreneurship to venture building through the metaphor of planting, growing, and bearing fruit from ideas.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 71,
+      "topic": "industry context",
+      "summary": "Traditional education systems prioritized conformity and competition to build industrialized societies, sacrificing individual creativity for collective productivity.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "analytical"
+    },
+    {
+      "chunk_id": 72,
+      "topic": "crisis",
+      "summary": "Schools create uniformity and competition that destroys natural collaboration and community, establishing hierarchical systems that stifle individual creativity.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "critical"
+    },
+    {
+      "chunk_id": 73,
+      "topic": "vision",
+      "summary": "TailTree recognizes that creativity, kindness, empathy and critical thinking will be tomorrow's superpowers as automation replaces traditional work.",
+      "text": "But with T Tree, um, we, we realize [01:44:00] that the world is changing dramatically where creativity, [01:44:05] kindness, empathy, curiosity, the [01:44:10] soft skills, social emotional development of children, critical thinking, [01:44:15] all these important powerful personality traits are going to be the [01:44:20] superpower of tomorrow.\n\n\n[01:44:21] So we must ensure that the children of the [01:44:25] world are equipped for a future where automation [01:44:30] takes the place of what our fathers and grandfathers have [01:44:35] successfully done to get where we are today. But the world is completely changing.",
+      "estimated_minutes": 0.8,
+      "emotional_tone": "visionary"
+    },
+    {
+      "chunk_id": 74,
+      "topic": "crisis",
+      "summary": "Today's children are misdiagnosed with ADHD when they're actually adapted to processing information in short bursts like social media, creating a mismatch with traditional education.",
+      "text": "I think the problem that a lot of [01:45:20] kids are experiencing today evermore is that the [01:45:25] curriculum that a 5, 6, 7, 8, 9-year-old, 10-year-old kid finds [01:45:30] themself subjected to is just not correlated to the [01:45:35] brain. That has evolved from these children being surrounded [01:45:40] by mobile phones, short bursts of information, dopamine hit [01:45:45] time after time, after time.\n\n\n[01:45:46] So what we have now. Is people from a [01:45:50] different era often diagnosing today's children [01:45:55] with things that give them even more of a case to feel stifled. For example, [01:46:00] we all know A DHD, right, as a term, and it's [01:46:05] being used too heavily in my opinion. And the reason why I feel like it's being [01:46:10] used to heavily is that if you were born in an era of [01:46:15] short bursts of information, like what you get when you look at video reels on [01:46:20] TikTok and Instagram, your brain would automatically [01:46:25] wire itself to want to feed off short bursts of [01:46:30] information.\n\n\n[01:46:30] If you are, if you are flicking through a bunch of reels and the subject [01:46:35] is changing all the time, yeah, that's obviously going to create a [01:46:40] pattern in your brain. That means that when you go to school and you hand your [01:46:45] machines over and you listen to an oracle at the [01:46:50] front of the class teaching some information that you probably aren't [01:46:55] interested in, it's likely that you are gonna struggle to focus on [01:47:00] that, right?\n\n\n[01:47:01] Which is bad because that's the [01:47:05] poison and the effect is this short term memory. Short term, [01:47:10] uh, attention. But I like to look at, uh, A-A-D-H-D. [01:47:15] A superpower. I like to think of a DHD kids as alpha [01:47:20] dynamic holistic dreamers. Some of the greatest CEOs in the world are A [01:47:25] DHD. Um, they're naturally A DHD. But A DHD is growing because of the [01:47:30] way that we interact with technology.\n\n\n[01:47:33] But what we've got to do [01:47:35] is rather than over diagnose every child as either having special [01:47:40] needs, autism, A DHD, we've got to build a world that suits [01:47:45] this new superpower, this new way of thinking. And unfortunately with [01:47:50] kids, they're immersing themselves in a lot of content and they're accessing information from all [01:47:55] different like origins and sources.\n\n\n[01:47:58] And their brain is [01:48:00] consuming in a completely different way. They're not like 20 years ago we had one TV [01:48:05] screen in the house and it was broadcasting one, two, or three channels, or we were reading a [01:48:10] newspaper and we were limited by the information that we could consume. [01:48:15] Today's child is brought up in a world where information's coming to 'em from every possible [01:48:20] angle.\n\n\n[01:48:20] So how do you process that information when it's coming to you from different [01:48:25] angles? You process it in a way that only you know how to process. 'cause you don't know a [01:48:30] world other than that world, right? So as a result, it's [01:48:35] not that kids are a adhd, it's that they're born of a different era and [01:48:40] what they need to do is.\n\n\n[01:48:42] They need to be able to [01:48:45] learn that way through choice, through curiosity, through adventure. And [01:48:50] their brain will learn that way. But if you have a child [01:48:55] sitting upright and you have one teacher [01:49:00] pushing knowledge down onto a child in 2025 or [01:49:05] 2026, you'll find a lot of those children struggle to focus 'cause they're just [01:49:10] not built for this way of operating.\n\n\n[01:49:12] And in this new world with robotics and [01:49:15] automation and AI and knowledge already being accessible instantly, [01:49:20] we have to play with the knowledge. We have to dance with the information, we have to [01:49:25] flow with it. We can't just accept it as truth. We have to [01:49:30] investigate. And that's how the world will evolve a much better, much faster [01:49:35] by people working with the information.\n\n\n[01:49:37] And that's what telemetry attempts to do.",
+      "estimated_minutes": 5.6,
+      "emotional_tone": "critical"
+    },
+    {
+      "chunk_id": 75,
+      "topic": "product insight",
+      "summary": "TailTree helps children learn through curiosity-driven adventure, allowing them to unlock knowledge progressively like branches growing on a tree.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 76,
+      "topic": "personal background",
+      "summary": "As a young child, felt misunderstood by peers and struggled with traditional systems that didn't suit his learning style.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "vulnerable"
+    },
+    {
+      "chunk_id": 77,
+      "topic": "philosophy",
+      "summary": "Matt concludes his thoughts about moving knowledge forward and making history through active participation rather than passive learning.",
+      "text": "e from the light bulb. So you can read all the [01:50:30] books that you want, but if you could work with that knowledge and you could play with that knowledge, [01:50:35] and you could be somebody that was helping to move that, uh, [01:50:40] history forward, \n\n\n[01:50:41] Speaker 2: that's where we're going.",
+      "estimated_minutes": 0.4,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 78,
+      "topic": "childhood",
+      "summary": "Matt shares his struggles as a misunderstood child in elementary school who felt stifled by the rigid educational system and bell schedules that interrupted his creative flow.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "vulnerable"
+    },
+    {
+      "chunk_id": 79,
+      "topic": "childhood",
+      "summary": "Matt describes being ridiculed at school for his creativity and imagination, feeling too imaginative for the conventional school system.",
+      "text": "School was a very difficult place and I guess for me, uh. Um, I was too [01:53:10] imaginative for school. I was dreaming. I used to get ridiculed, uh, at [01:53:15] school from my friends because I just didn't want to, um, follow [01:53:20] the status quo. And I was, I, I mean, I had, I had ridicule for my, for my [01:53:25] creativity, which is crazy.",
+      "estimated_minutes": 0.5,
+      "emotional_tone": "vulnerable"
+    },
+    {
+      "chunk_id": 80,
+      "topic": "industry context",
+      "summary": "Matt discusses the current challenging state of AI in education, with rapid changes and failed investments, while highlighting the confusion among educators.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "cautious"
+    },
+    {
+      "chunk_id": 81,
+      "topic": "vision",
+      "summary": "Matt explains his vision for AI in education - not to speed up tasks but to help humans become more creative, authentic, and kind while teachers become nurturing companions.",
+      "text": "I think, uh, with ai, um, there's, [01:54:40] there's somewhat confusion, uh, amongst [01:54:45] educators what to do, how to apply it, but what we really need [01:54:50] to be looking at is not for me, using artificial intelligence to speed up the [01:54:55] process of, um, completing something.\n\n\n[01:54:58] AI can do a lot of [01:55:00] tasks that humans are doing at the moment. What AI can't do [01:55:05] is it cannot think like a human, it cannot think [01:55:10] creatively, it cannot think with the same level of love and [01:55:15] authenticity and human spirit. So what we need to do with ai, I [01:55:20] feel with education, we need to help teachers transition out [01:55:25] of becoming AI and becoming something new, something more nurturing, [01:55:30] something more like, um, a, um, a [01:55:35] cheerleader for kids, a nurturing companion where the bond between a [01:55:40] child and a and a student increases because we have ai, [01:55:45] and what AI can do very, very well is rather than focus on [01:55:50] helping to solve the problem, it should be focused on the, [01:55:55] on empowering a child to be the best that they can be.\n\n\n[01:55:59] It [01:56:00] should be focusing on helping kids. With flexing that [01:56:05] muscle of imagination, flexing that muscle of creativity, helping them with their [01:56:10] confidence, with their vulnerability, their ability to share their ability, [01:56:15] not to fear failure. Everything that we struggle to do [01:56:20] with one another as humans at times, we need to empower kids [01:56:25] to become more human through using this [01:56:30] artificial intelligence to better develop the superpower [01:56:35] that we possess, which is this natural born gift of, uh, of [01:56:40] creativity and curiosity.\n\n\n[01:56:41] So yes, ai, AI is a [01:56:45] difficult and challenging subject for educators because you [01:56:50] can use it to do anything. I mean, inside territory we can, we can do anything. We can [01:56:55] crea",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 82,
+      "topic": "technical deep-dive",
+      "summary": "Matt describes Territory's AI capabilities and emphasizes using AI to empower human skills like creativity, collaboration, and kindness rather than replacing human tasks.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "technical"
+    },
+    {
+      "chunk_id": 83,
+      "topic": "product insight",
+      "summary": "Matt explains how Territory uses AI as a gymnasium for the creative mind, providing a space for children to be their authentic selves and exercise creativity.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 84,
+      "topic": "industry context",
+      "summary": "Matt references the NASA Head Start program showing that 98% of 5-year-olds test as creative geniuses but this drops to 2% by age 30, highlighting the loss of creativity through traditional education.",
+      "text": "We've already mentioned in the past on, on this conversation that, [01:59:50] um, even through the Head Start program that was piloted by George Land at nasa, [01:59:55] where he tested creativity on five-year-olds, and then repeated that test [02:00:00] at 10, 15, and 30, the average genius level [02:00:05] creativity in children, 98% of all kids that were tested, [02:00:10] um, were deemed as geniuses.\n\n\n[02:00:11] But by the time these children reach the age of [02:00:15] 30, it goes down to 2%, right? So between the age of five and [02:00:20] 30, the light of learning, the light of curiosity, the light of [02:00:25] imagination, it, it dings down, it goes off.",
+      "estimated_minutes": 0.9,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 85,
+      "topic": "vision",
+      "summary": "Matt outlines his vision for a post-AI future where humans are rewarded for creativity, kindness, and collaboration, with AI companions helping people stay connected to their authentic selves.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 86,
+      "topic": "philosophy",
+      "summary": "Matt discusses the importance of creativity in living either a life of purpose and adventure or settling for a predetermined path of least resistance.",
+      "text": "I think, um, it's very interesting how important [02:04:15] creativity plays a role in all of humanity's endeavors and living [02:04:20] your best life. There are two lives. There's a life of purpose and a life of [02:04:25] courage, and a life of adventure. And there's a second life where maybe you [02:04:30] don't ever take the step in life, uh, and pursue your goals.\n\n\n[02:04:34] You take [02:04:35] a path that has been laid for you and a path of least [02:04:40] resistance. Creativity is the core of all. Um, all, all the [02:04:45] ideas started with somebody with creativity, who was brainstorming, who came up with [02:04:50] a way to make things, uh, make, make, make, make things better. And I [02:04:55] think as founders, as entrepreneurs, as I said, when you, when you want to build a [02:05:00] company and you really want to go for it, if you don't have a deep and [02:05:05] meaningful passion that you a problem, a pain, a scratch, that you want to itch, you should not do it.\n\n\n[02:05:09] [02:05:10] Because when you get into that struggle, it is going to be, um, extremely [02:05:15] hard. So the creativity is the beginning of all of that process. [02:05:20] And for founders and for people, uh, adults, [02:05:25] creativity diminishes over time. There is no doubt from being a kindergarten kid to being a [02:05:30] 25 or 30-year-old. Creativity diminishes over time.[02:05:35] \n\n\n[02:05:35] A very easy game to play would be if I held up this pen [02:05:40] and said, how many uses of this pen can you think [02:05:45] of? This was performed during the Head Start program with kids and [02:05:50] adults, and on average kids came up with 15 to 20 uses [02:05:55] of this pen, whereas adults came up with between one and three uses of [02:06:00] this pen.\n\n\n[02:06:00] But for a kid, this could be anything. This could be a sword, it could be a [02:06:05] lifesaver, it could be a rocket, it could be, uh, a paperclip even. [02:06:10] And the example that I'm trying to, uh,",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 87,
+      "topic": "lesson learned",
+      "summary": "Matt demonstrates how creativity diminishes with age using a pen exercise, showing that kids find 15-20 uses while adults find only 1-3 uses.",
+      "text": "So the creativity is the beginning of all of that process. [02:05:20] And for founders and for people, uh, adults, [02:05:25] creativity diminishes over time. There is no doubt from being a kindergarten kid to being a [02:05:30] 25 or 30-year-old. Creativity diminishes over time.",
+      "estimated_minutes": 0.4,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 88,
+      "topic": "advice",
+      "summary": "Matt advocates for adults to adopt Territory's methodology of exercising creativity like physical fitness, emphasizing the importance of brainstorming and playing with ideas.",
+      "text": "A very easy game to play would be if I held up this pen [02:05:40] and said, how many uses of this pen can you think [02:05:45] of? This was performed during the Head Start program with kids and [02:05:50] adults, and on average kids came up with 15 to 20 uses [02:05:55] of this pen, whereas adults came up with between one and three uses of [02:06:00] this pen.\n\n\n[02:06:00] But for a kid, this could be anything. This could be a sword, it could be a [02:06:05] lifesaver, it could be a rocket, it could be, uh, a paperclip even. [02:06:10] And the example that I'm trying to, uh, make here is that as an [02:06:15] adult, I think in a post era, this becomes something very, very important. Whether you are starting a [02:06:20] business or you just want to remain curious and.\n\n\n[02:06:23] Remain creative. [02:06:25] These exercises that we do at RE, I think are very important. [02:06:30] In the 1970s, jogging was a craze, right? And then weightlifting. [02:06:35] And then we had meditation, which I think is great at soothing [02:06:40] and helping people through difficult times. But I do believe [02:06:45] that rather than surviving, it's time to thrive.\n\n\n[02:06:48] And if you're gonna thrive as a [02:06:50] human being, you need to explore within. And how you explore within [02:06:55] is leaning on your own authentic creative powers. And how you do [02:07:00] that is by exercising and activating the side of the brain. That is largely [02:07:05] redundant, and we can see that in how adults become less and [02:07:10] less creative over time.\n\n\n[02:07:11] So by adopting the methodology of [02:07:15] Tail Tree, for example, where you can start brainstorming, [02:07:20] you can start playing with ideas, you can start coming up with solutions, you can test yourself [02:07:25] on certain things. As simple as how many uses can you think of for this [02:07:30] pen, this is far more important than we give it credit for.",
+      "estimated_minutes": 2.6,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 89,
+      "topic": "advice",
+      "summary": "Matt explains the critical need for adults to train their creative superpower as automation makes traditional skills redundant, emphasizing brainstorming and alternative thinking.",
+      "text": "'cause what we're actually doing here as we're actually testing and [02:07:40] flexing and exercising our creative superpower, that [02:07:45] was a natural born gift that we [02:07:50] had when we were children. And we used. Without thinking in kindergarten, it's time [02:07:55] to revisit that and start putting our creativity into [02:08:00] practice and training our creativity.\n\n\n[02:08:02] Very, very important. Particularly now [02:08:05] because we are in a situation where previous education [02:08:10] systems are becoming redundant through [02:08:15] machines, robotics, artificial intelligence, you know, all of [02:08:20] the doings that we used to do, robots will be doing that. [02:08:25] So what do we need to do? What can we be, how, [02:08:30] how can we evolve?\n\n\n[02:08:31] We've got to start thinking here [02:08:35] and using, using this very, very powerful muscle, which is [02:08:40] more brainstorming, more i, more hatching [02:08:45] of ideas. What if, could we, is this the right answer or is there an [02:08:50] alternative? Playing with, with, with the subject. We, this is a, this is, this is [02:08:55] a methodology that as adults can help us in the world, in everyday life",
+      "estimated_minutes": 1.6,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 90,
+      "topic": "industry context",
+      "summary": "Matt connects his personal journey from being stifled at school to creating Territory, referencing NASA's need for creative engineers and the urgent problem of declining creativity in the AI era.",
+      "text": "and I, I'm a huge, you know, ambassador of this and that's one of the things [02:09:05] that I care about more than anything from being a child and being stifled at school to [02:09:10] starting an ideas lab in Eman, and obviously now helping [02:09:15] children to continue to hold on to that superpower [02:09:20] and it is theory.\n\n\n[02:09:21] It's like the Head Start program that George [02:09:25] Land piloted at nasa. And why did he do that? 'cause he wanted to [02:09:30] hire more creative engineers. NASA wanted [02:09:35] more creativity inside their company, so he used this as a [02:09:40] way to measure creativity in adults. And when you go to a five-year-old [02:09:45] cohort of kids and you see that 98% of that cohort [02:09:50] possess genius levels of creativity, but somehow it diminishes to 2% by the [02:09:55] time you reach the age of 30, then you've got a problem to solve.\n\n\n[02:09:58] And the problem has never been [02:10:00] more pressing than today in a post AI era.",
+      "estimated_minutes": 1.3,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 91,
+      "topic": "philosophy",
+      "summary": "Matt emphasizes that all humans are creative geniuses and describes how children naturally learn through play and imagination in safe spaces.",
+      "text": "Yeah. So, um, all of us are creative [02:10:35] geniuses. Every single human being has incredible levels of [02:10:40] creativity inside them. You can only see that from the pure innocence of a child [02:10:45] when a child is talking to other children when they're playing.\n\n\n[02:10:49] It's [02:10:50] interesting that, um. You know when a child has space to just play with Lego or [02:10:55] just sit around and get into his or her imaginary world, they're [02:11:00] truly learning, they're exploring. That is as good [02:11:05] as you will get in terms of a child developing. If you give them a safe space to [02:11:10] just be themselves, they will learn at great speed.\n\n\n[02:11:13] It's like the toddler that falls on the [02:11:15] floor. They don't give up, do they? They stand up again. Unfortunately with adults, when [02:11:20] we fall on the fl",
+      "estimated_minutes": 1.1,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 92,
+      "topic": "philosophy",
+      "summary": "Discussion about human creativity being natural and innate, comparing children's natural learning to adults' trained limitations.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 93,
+      "topic": "philosophy",
+      "summary": "Continuation of creativity philosophy, emphasizing the importance of living authentically and helping others shine their light.",
+      "text": "taught that failure is not an option and we've [02:11:35] gotta be the best.\n\n\n[02:11:36] We've gotta work as hard as we can and we've gotta be, we've gotta do things [02:11:40] largely that we don't want to do 'cause we have no option. But there is an option. The option is [02:11:45] to dig deeper into who you really are and not live. Second life. Live your [02:11:50] greatest life. Live a life of purpose. A life where you know you are doing [02:11:55] what you were designed to do and you're doing it for the benefit of others.\n\n\n[02:11:59] 'cause [02:12:00] everybody wants to see that light shine inside you. Who are you not to shine your [02:12:05] light? You'll liberate others by shining it bright and this is what we need to teach [02:12:10] people to do. So it is important that people are [02:12:15] as, \n\n\n[02:12:16] Speaker 2: oh, sorry. Sorry. Um, \n\n\n[02:12:19] Speaker: I forgot. [02:12:20] See, I, there's my problem. A DHD Alpha dynamic, holistic.\n\n\n[02:12:24] I [02:12:25] really like it. So anyone, let's change the memory card. Yeah. [02:12:30] What was the question? You know, see, this is a trouble, \n\n\n[02:12:33] Speaker 2: I'm just, [02:12:35] okay, before we start to the next question, so yeah, let's, yeah. To be [02:12:40] honest, you think adults can train their creative field and, and you explain about [02:12:45] pan examples or something like that.\n\n\n[02:12:46] And could you say that specific sentence, like, [02:12:50] even though you're adult, you're still not too late there opportunity. You can train, could you say that [02:12:55] sentence briefly? \n\n\n[02:12:56] Speaker: Even though, um, you are an adult, it is [02:13:00] not too late to retrain your subconscious mind to become [02:13:05] a superpower imaginative creator. One of the things that we must [02:13:10] do as adult is acknowledge the superpower that exists within [02:13:15] a kindergarten child, a pre elementary school child, they have incredible [02:13:20] curiosity, creativity, imaginatio",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 94,
+      "topic": "advice",
+      "summary": "Specific advice on how adults can retrain their creative abilities and overcome educational conditioning.",
+      "text": "Even though, um, you are an adult, it is [02:13:00] not too late to retrain your subconscious mind to become [02:13:05] a superpower imaginative creator. One of the things that we must [02:13:10] do as adult is acknowledge the superpower that exists within [02:13:15] a kindergarten child, a pre elementary school child, they have incredible [02:13:20] curiosity, creativity, imagination.\n\n\n[02:13:22] They're not scared to fail. Failure is [02:13:25] feedback and it's so important that we embrace our true selves and [02:13:30] try and unlearn some of the things that we have been taught. You can train the creative [02:13:35] side of your brain daily, just like you do with meditation, just like you do [02:13:40] with physical exercise, whether it's jogging or weight training.\n\n\n[02:13:43] It's the same [02:13:45] desire plus discip. Equals delight. You've [02:13:50] got, it's, it's a way. The trouble is, and I'll, and I'll, and this is one of the big [02:13:55] problems about like grading. We work so hard to, [02:14:00] to get an exam, get through an exam. Once we've got through that exam, we forget [02:14:05] everything we've learned. 'cause we don't care.\n\n\n[02:14:08] We are training [02:14:10] ourselves to prove that we can do something. We are training the muscle of [02:14:15] memorization. And the trouble with the education system is it doesn't [02:14:20] encourage lifelong learning. It encourages working brutally [02:14:25] hard to get a certain certificate to then do something [02:14:30] else we need as adults to start training ourselves that [02:14:35] there is no grade.\n\n\n[02:14:36] It's just a method. It's a way, it's a cycle. [02:14:40] What we need to do is we need to try and think, how can [02:14:45] we be like a kindergarten kid for life? How can we have that [02:14:50] creativity? How can we have that curiosity? How can we have that fear of the lack of [02:14:55] fear of failure where we get up and try again? We've got to [02:15:00] re-embrace our childhood and we've got to exercise that creative [02:15:05] muscle and we do that through these creativity exercises [02:15:10] by sitting down and testing ourselves on.\n\n\n[02:15:14] How [02:15:15] many solutions we can find to a single problem and how [02:15:20] we can think that then there might not just be one right answer, there could be 20 right answers. [02:15:25] We've got to be curious enough to expand our brain to think [02:15:30] far more holistically and broadly about things so that [02:15:35] we train ourselves, retrain ourselves to be [02:15:40] more curious in everyday life.\n\n\n[02:15:41] So when we are living our everyday life, we [02:15:45] are far more inventive and playful and curious.",
+      "estimated_minutes": 3.6,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 95,
+      "topic": "advice",
+      "summary": "Warning about habits that kill creativity, emphasizing the need for space and avoiding constant comparison.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 96,
+      "topic": "crisis",
+      "summary": "Deep discussion about the brutal reality of entrepreneurial failure and the emotional toll it takes on founders.",
+      "text": "when you are a founder and you are working on something [02:18:30] that means everything to you at the time, you're putting your heart in it, your soul, [02:18:35] all your attention and passion is going into it. It becomes a way of [02:18:40] life. It's not like I'm going to a, a job at 9:00 AM and [02:18:45] I'm, I'm finishing at 5:00 PM It never leaves you the burden, the expectation that you put [02:18:50] on yourself, um, is, is is absolutely huge.\n\n\n[02:18:53] So when you climb [02:18:55] that high, the fall is equally as heavy. Um, and it can [02:19:00] be incredibly brutal for all entrepreneurs. As I said, what you see on the [02:19:05] surface is the glamor and the prestige attached to being a CEO and running a business. But on [02:19:10] the inside it's very, very different. So we must be aware of the, the fact [02:19:15] that 95% of all startups ending [02:19:20] failure.\n\n\n[02:19:20] And when I was working on my SC project in Silicon Valley, because we were early to [02:19:25] market 'cause we didn't have access to distribution because the app stores [02:19:30] were new and we were launching and helping these ecosystems to evolve, it was very [02:19:35] heavy. All the technical. Um, resources required to continue to [02:19:40] iterate and build on unstable systems meant it to be very costly, time [02:19:45] consuming, and heavy.\n\n\n[02:19:46] 'cause there was no sort of, you know, the whole industry would evolve [02:19:50] around the work that we were doing in 2007, 2008. So, [02:19:55] inevitably we were providing a lot of research and development, which is why we were accessing a lot of grant money [02:20:00] from operating systems and what have you. Scatter did not become the [02:20:05] Instagram TikTok or X that we see today.\n\n\n[02:20:08] 'cause it's not existing [02:20:10] right now. So it must have meant that we had our time, but we were too early. [02:20:15] The inability to realize your goals and dreams can be very, very painful. [02:20:20] It's s",
+      "estimated_minutes": 2.7,
+      "emotional_tone": "vulnerable"
+    },
+    {
+      "chunk_id": 97,
+      "topic": "lesson learned",
+      "summary": "Personal advice on how to recover from entrepreneurial failure through community and helping others.",
+      "text": "not succeeding with my hopes and dreams for scatter led to, uh, [02:23:35] a lot of failure, well, sorry, uh, a feeling of exhaustion and burnt [02:23:40] out and, um, sadness. I, I guess an entrepreneur. You have some [02:23:45] downtime after spending so long, um, running a business and [02:23:50] trying to succeed. So, um, getting outta that [02:23:55] cycle, uh, takes some time.\n\n\n[02:23:57] But I think, um, the best thing you [02:24:00] can do as an entrepreneur in that. Uh, period is understand [02:24:05] that this is temporary, that it doesn't last forever, and that with [02:24:10] time you will be able to embark upon another venture. For [02:24:15] me, um, I would advise, um, working [02:24:20] with another founder and giving advice on how you struggled with the [02:24:25] failure.\n\n\n[02:24:25] You are an example and a testimony to other founders that you [02:24:30] have gone through this. And I think you can share your struggles with [02:24:35] other founders and that can help you get over your, [02:24:40] your struggle. What you shouldn't do after failure is isolate yourself and [02:24:45] stay on your own. Stay away from everybody.\n\n\n[02:24:47] You should, um, you [02:24:50] know, just be, be amongst people and, and share your story. 'cause the failures [02:24:55] are as important as the successes. And I think if you can, um, if, if [02:25:00] you can be, uh, a testimony to how you get through these things, [02:25:05] um, it'll heal you as well as helping other people. [02:25:10] So for me personally, um, any failure that you encountered, [02:25:15] I used it to be of service to other people explaining what I [02:25:20] did wrong, how I could improve next time.\n\n\n[02:25:23] And by doing that, you [02:25:25] encourage yourself to become ready to start again and do something else.",
+      "estimated_minutes": 2.4,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 98,
+      "topic": "personal sacrifice",
+      "summary": "Specific examples of relying on family, friends, and mentors during difficult entrepreneurial periods.",
+      "text": "during the dark times of, uh, entrepreneurship when [02:26:40] things are not going well and you feel like you have run the end of your [02:26:45] race and you can't go on anymore, you can get, um, [02:26:50] you can get in a very difficult place and it's at that point that you need family and [02:26:55] friends.\n\n\n[02:26:55] For me, I would, uh, I would always. Make sure that I [02:27:00] have a mix of family, friends and mentors around me. [02:27:05] And without them it would be very, very hard. You can, uh, I mean my, [02:27:10] my, my brothers sister, mother, I would share with them and they would help me and [02:27:15] encourage me that everything is gonna be okay. And then some of my friends, they [02:27:20] would, um, rally around and help me out with, um, how I was feeling and [02:27:25] encourage me.\n\n\n[02:27:26] So having good people around me was very, very important in these [02:27:30] times. And you always have, um, mentors that you pick up, [02:27:35] academic mentors, entrepreneurial friends who are mentors, [02:27:40] investors who are mentors. If you have an investor that invested in you, that [02:27:45] looks after you when you fail, you know, they're a good person to have in your life.\n\n\n[02:27:49] [02:27:50] So make sure that, uh, like me, um, you surround yourself with good people. [02:27:55] 'cause without good people and without community, it would be very, very",
+      "estimated_minutes": 1.9,
+      "emotional_tone": "candid"
+    },
+    {
+      "chunk_id": 99,
+      "topic": "vision",
+      "summary": "Final vision about the urgent need for creativity in the age of AI and robotics threatening human relevance.",
+      "text": "I know that creativity is not a [02:28:45] new subject. We've been putting the importance of creativity out there [02:28:50] for decade. We are a very important point though in human history [02:28:55] with the introduction of artificial intelligence and robotic meaning that we are [02:29:00] not going to be the same use to the planet that we [02:29:05] were 10 or 20 years ago.\n\n\n[02:29:06] Because artificial intelligence and robotics will do [02:29:10] most of the jobs better than humanity can do [02:29:15] within a year or two. Whether the robots and the AI is fully [02:29:20] scaled and eats into the purpose of everyday human [02:29:25] life. As quick as that, I don't know, but what is for sure is that it [02:29:30] is going to be available to us.\n\n\n[02:29:33] So with that [02:29:35] said, the importance of creativity today becomes to [02:29:40] me like an emergency, and that means that as human beings, we [02:29:45] must be able to, not just for children where we need to [02:29:50] provide a framework to equip children for tomorrow's world, but we [02:29:55] also as adults need to. Lean on this [02:30:00] creative brain of ours and this, um, imagination that we [02:30:05] all possessed that ha",
+      "estimated_minutes": 1.6,
+      "emotional_tone": "intense"
+    },
+    {
+      "chunk_id": 100,
+      "topic": "industry context",
+      "summary": "Discussion of how AI and robotics will replace most human jobs within a year or two, fundamentally changing humanity's role on the planet.",
+      "text": "duction of artificial intelligence and robotic meaning that we are [02:29:00] not going to be the same use to the planet that we [02:29:05] were 10 or 20 years ago.\n\n\n[02:29:06] Because artificial intelligence and robotics will do [02:29:10] most of the jobs better than humanity can do [02:29:15] within a year or two. Whether the robots and the AI is fully [02:29:20] scaled and eats into the purpose of everyday human [02:29:25] life. As quick as that, I don't know, but what is for sure is that it [02:29:30] is going to be available to us.",
+      "estimated_minutes": 0.7,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 101,
+      "topic": "philosophy",
+      "summary": "Explanation of why creativity has become an emergency for both children and adults in the AI era, challenging traditional views of creativity as a gradable skill.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 102,
+      "topic": "philosophy",
+      "summary": "Defining creativity as authenticity rather than skill acquisition, emphasizing that everyone possesses unique creative potential.",
+      "text": "We all have it. And what makes it unique [02:31:50] is it's our own authenticity. Say that [02:31:55] maybe we can do that again. \n\n\n[02:31:56] Speaker 2: I think Yeah, I think that, yeah, \n\n\n[02:31:58] Speaker: I just feel, yeah, I feel with [02:32:00] creativity, people look at creativity like you've acquired the skill. [02:32:05] Like, you know, like if I, so we did something at Kbo, right? We did an event with [02:32:10] Kbo where we asked all, um, children to draw the earth [02:32:15] and we had like 300 kids and they all drew exactly the same painting of the [02:32:20] earth and there was no originality in it.\n\n\n[02:32:23] We asked the same, um, [02:32:25] tau tree kids to draw the earth and they came up with everything was [02:32:30] totally different. They came up with all the different crazy like ideas. [02:32:35] But, you know, that's the thing. Um, like creativity is not like if [02:32:40] somebody can draw, if I can draw a portrait of you, a paint, [02:32:45] perfect painting of you, and I hold it up, that's not necessarily creativity.\n\n\n[02:32:49] That's just [02:32:50] having the skill to paint. If I can play guitar and I know all the Beatles [02:32:55] music, right? That doesn't mean I'm creative, it means I'm using, I have the ability to [02:33:00] learn the skill. Anybody if they train themselves hard enough, can play a guitar [02:33:05] if they train themselves hard enough, can paint a poetry if they train themselves hard enough, but [02:33:10] that's not creating The creativity is authenticity.\n\n\n[02:33:13] It's something that comes [02:33:15] from the heart, something that's uniquely you. So I think we need to [02:33:20] reframe what it means to be creative, and that gives everybody",
+      "estimated_minutes": 2.3,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 103,
+      "topic": "philosophy",
+      "summary": "Further clarification that creativity is about authenticity and process rather than technical ability or skill mastery.",
+      "text": "Many people think creativity is the ability [02:33:50] to do a certain thing, like paint the perfect portrait or [02:33:55] cover a Beatles song perfectly on guitar.\n\n\n[02:33:58] For me, that's not creativity. [02:34:00] That's the application of ourselves to learn a [02:34:05] skill, which is the same as memorizing the art of doing something. [02:34:10] Creativity is for me about our authenticity. It's not about the [02:34:15] output, it's the process. It's our ability to lean in to [02:34:20] who we are and use our natural superpower to come up with ideas.",
+      "estimated_minutes": 0.8,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 104,
+      "topic": "personal background",
+      "summary": "Brief career summary covering serial entrepreneurship from teenage board games to venture studio operations across multiple continents.",
+      "text": "",
+      "estimated_minutes": 0.0,
+      "emotional_tone": "matter-of-fact"
+    }
+  ]
+}

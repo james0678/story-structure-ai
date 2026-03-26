@@ -1,0 +1,3575 @@
+{
+  "videos": [
+    {
+      "video_id": "OHJJKrJCSRU",
+      "title": "He Replaced His Entire Marketing Team with 40 AI Agents | Relay.app, Jacob Bank",
+      "upload_date": "",
+      "duration_seconds": 945,
+      "description": "Jacob Bank had zero marketing experience a year ago. Now he runs 40 AI agents that do the work of a $50,000 marketing team, for $500 a month. The ex-Google product lead and Relay.app founder...",
+      "transcript_path": "data/edited_scripts/OHJJKrJCSRU.txt",
+      "character_count": 17711,
+      "performance": {
+        "views": 8316,
+        "likes": 471,
+        "comments": 20
+      }
+    },
+    {
+      "video_id": "7yMetPnsFT0",
+      "title": "35M Users. $100M ARR. My 10-Year Bet Was Right. | Otter.ai, Sam Liang",
+      "upload_date": "",
+      "duration_seconds": 490,
+      "description": "\"Shakespeare never left a voice note. That's the problem Sam Liang has spent 10 years solving.\"\n\nSam Liang, Co-founder and CEO of Otter.ai, started in 2016 when recording a meeting felt invasive...",
+      "transcript_path": "data/edited_scripts/7yMetPnsFT0.txt",
+      "character_count": 6630,
+      "performance": {
+        "views": 4051,
+        "likes": 130,
+        "comments": 3
+      }
+    },
+    {
+      "video_id": "kvZKl7eLSX8",
+      "title": "How the Top 1% of Learners Use AI to Think Better | Anthropic, Drew Bent",
+      "upload_date": "",
+      "duration_seconds": 1090,
+      "description": "Drew Bent, Education Lead at Anthropic, explains how the top 1% of learners use AI to think better.\n\n00:00 Intro\n01:46 Don’t Underestimate AI’s Capabilities\n04:58 How to Be a Top 1% Learner...",
+      "transcript_path": "data/edited_scripts/kvZKl7eLSX8.txt",
+      "character_count": 19653,
+      "performance": {
+        "views": 24372,
+        "likes": 717,
+        "comments": 29
+      }
+    },
+    {
+      "video_id": "CxFQykWiJqY",
+      "title": "\"50 AI Agents Running My Company\" Is a Lie. Here's How I Build It | Gumloop, Max Brodeur-Urbas",
+      "upload_date": "",
+      "duration_seconds": 968,
+      "description": "\"50 AI agents running my company\" — that's not automation. That's a slop machine. Max Brodeur-Urbas, Co-founder and CEO of Gumloop, just raised a $50M Series B. He got banned from the U.S....",
+      "transcript_path": "data/edited_scripts/CxFQykWiJqY.txt",
+      "character_count": 20485,
+      "performance": {
+        "views": 84378,
+        "likes": 2831,
+        "comments": 104
+      }
+    },
+    {
+      "video_id": "_-ybKTL2ehg",
+      "title": "This Founder is Making 1B+ Excel Workers 20x Faster | Meridian, John Ling",
+      "upload_date": "",
+      "duration_seconds": 719,
+      "description": "Why did Silicon Valley’s top VC invest $17M in this startup founder?\n\nJohn Ling, co-founder & CEO of Meridian, is building AI for one of the most overlooked but massive categories in software:...",
+      "transcript_path": "data/edited_scripts/_-ybKTL2ehg.txt",
+      "character_count": 12555,
+      "performance": {
+        "views": 18061,
+        "likes": 524,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "I-BERqPprrc",
+      "title": "He Built a $5.5B Legal AI Company by 26 | Legora, Max Junestrand",
+      "upload_date": "",
+      "duration_seconds": 593,
+      "description": "He didn’t come from law. He didn’t come from code.\nHe started Legora at 23 and built it into a $5.5 billion company before turning 26.\n\nIn this interview, Max Junestrand talks about the...",
+      "transcript_path": "data/edited_scripts/I-BERqPprrc.txt",
+      "character_count": 9775,
+      "performance": {
+        "views": 28211,
+        "likes": 1026,
+        "comments": 34
+      }
+    },
+    {
+      "video_id": "qb6uCFyO098",
+      "title": "How I Found a Winning Idea After 8 Pivots | Pensive, Yoon",
+      "upload_date": "",
+      "duration_seconds": 957,
+      "description": "At 18, Yoon was diagnosed with thyroid cancer. Instead of fear, it gave him a framework: If I only had 10 years left, would I still do this?\n\nYoon is the CEO and co-founder of Pensive, an AI...",
+      "transcript_path": "data/edited_scripts/qb6uCFyO098.txt",
+      "character_count": 14507,
+      "performance": {
+        "views": 13868,
+        "likes": 449,
+        "comments": 11
+      }
+    },
+    {
+      "video_id": "I08ZeY7QcrE",
+      "title": "How Top 1% AI-Native Organizations Actually Make Money | Harvard Business School, Rem Koning",
+      "upload_date": "",
+      "duration_seconds": 1097,
+      "description": "Rembrand M. Koning, Associate Professor at Harvard Business School, explains how AI is reshaping the playing field for entrepreneurs around the world.\n\n00:00 Intro\n1:30 Lesson 1: Your Organization...",
+      "transcript_path": "data/edited_scripts/I08ZeY7QcrE.txt",
+      "character_count": 22197,
+      "performance": {
+        "views": 34627,
+        "likes": 1069,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "wEsjK3Smovw",
+      "title": "From Writing Code to Managing Agents. Most Engineers Aren't Ready | Stanford University, Mihail Eric",
+      "upload_date": "",
+      "duration_seconds": 860,
+      "description": "Stanford Adjunct Lecturer Mihail Eric talks about what's happening to junior software developers right now — and what it takes to become an AI-native software engineer who survives the age...",
+      "transcript_path": "data/edited_scripts/wEsjK3Smovw.txt",
+      "character_count": 17914,
+      "performance": {
+        "views": 229097,
+        "likes": 6680,
+        "comments": 255
+      }
+    },
+    {
+      "video_id": "IfNPcmoFYn0",
+      "title": "The Navy Leadership Lesson That Built a $450M Company | Blue Water Autonomy, Rylan Hamilton",
+      "upload_date": "",
+      "duration_seconds": 937,
+      "description": "Rylan Hamilton spent years putting over a million robots into Amazon warehouses. Now, he’s automating the ocean.\n\nAs the CEO and co-founder of Blue Water Autonomy (BWA), Rylan is taking the...",
+      "transcript_path": "data/edited_scripts/IfNPcmoFYn0.txt",
+      "character_count": 19204,
+      "performance": {
+        "views": 4897,
+        "likes": 133,
+        "comments": 4
+      }
+    },
+    {
+      "video_id": "BfBGhSqvcu4",
+      "title": "AI Will Create New Wealth, But Not Where You Think | Carnegie Mellon University, Po-Shen Loh",
+      "upload_date": "",
+      "duration_seconds": 1124,
+      "description": "Carnegie Mellon University Professor and social entrepreneur Po-Shen Loh talks about the one trait that gives you an edge in the AI era, and the new system it creates.\n\n00:00 Intro\n02:04 Lesson...",
+      "transcript_path": "data/edited_scripts/BfBGhSqvcu4.txt",
+      "character_count": 19136,
+      "performance": {
+        "views": 255628,
+        "likes": 6026,
+        "comments": 217
+      }
+    },
+    {
+      "video_id": "Ha2l1ecmI2Y",
+      "title": "While You Build Casinos, We Build Real Finance | LayerZero, co-founders",
+      "upload_date": "",
+      "duration_seconds": 1515,
+      "description": "From poker player to breaking blockchain's impossible trilemma—this is the story of LayerZero. Bryan Pellegrino and Ryan Zarick were nobodies with zero pedigree, no Harvard or MIT degrees,...",
+      "transcript_path": "data/edited_scripts/Ha2l1ecmI2Y.txt",
+      "character_count": 27748,
+      "performance": {
+        "views": 14089,
+        "likes": 497,
+        "comments": 15
+      }
+    },
+    {
+      "video_id": "ivVPJhYM8Ng",
+      "title": "What you must know before AGI arrives | Carnegie Mellon University Po-Shen Loh",
+      "upload_date": "",
+      "duration_seconds": 1612,
+      "description": "Po-Shen Loh returns with a complete compilation of his two-part lecture series on education in the AI era. This video brings together his most critical insights into a single, structured session....",
+      "transcript_path": "data/edited_scripts/ivVPJhYM8Ng.txt",
+      "character_count": 28300,
+      "performance": {
+        "views": 564890,
+        "likes": 18911,
+        "comments": 624
+      }
+    },
+    {
+      "video_id": "LgewaIpQVko",
+      "title": "How Prompt Engineering Inventor Built $1.5B in 3 Years | You.com, Richard Socher",
+      "upload_date": "",
+      "duration_seconds": 724,
+      "description": "We met Richard Socher, the founder of You.com.\n\nRichard spent 17 years proving that AI could understand human language back when the world dismissed it as a \"crazy idea.\" After serving as the...",
+      "transcript_path": "data/edited_scripts/LgewaIpQVko.txt",
+      "character_count": 12362,
+      "performance": {
+        "views": 16579,
+        "likes": 520,
+        "comments": 8
+      }
+    },
+    {
+      "video_id": "fqGTIyrtnBU",
+      "title": "The Strategy That Turned a Dying $1.3B Company Into a $100M AI Agent | Intercom, Eoghan McCabe",
+      "upload_date": "",
+      "duration_seconds": 899,
+      "description": "Intercom hit $50M in ARR faster than any SaaS company since Salesforce did. Then AI upended the model, and founder and CEO Eoghan McCabe got seriously ill and described waking up to a dark...",
+      "transcript_path": "data/edited_scripts/fqGTIyrtnBU.txt",
+      "character_count": 13699,
+      "performance": {
+        "views": 11961,
+        "likes": 363,
+        "comments": 18
+      }
+    },
+    {
+      "video_id": "hbGQaAXZ5UU",
+      "title": "How to Build a Product that Hits PMF on Day 1 | Granola, Christopher Pedregal",
+      "upload_date": "",
+      "duration_seconds": 962,
+      "description": "Meet Christopher Pedregal, the Co-founder and CEO of Granola.\n\nGranola is an AI note taking service that is being called \"one of the most beloved AI products in Silicon Valley.\" But how do...",
+      "transcript_path": "data/edited_scripts/hbGQaAXZ5UU.txt",
+      "character_count": 18365,
+      "performance": {
+        "views": 12957,
+        "likes": 415,
+        "comments": 21
+      }
+    },
+    {
+      "video_id": "h6aqpjrUd5c",
+      "title": "This Is How a 26-Year-Old Raised $108M in 1.5 Years | Reducto, Adit Abraham",
+      "upload_date": "",
+      "duration_seconds": 781,
+      "description": "How do you go from manually labeling document boxes to processing over a billion pages for the world’s top AI companies?\n\nAdit Abraham is the Co-founder and CEO of Reducto, a Y Combinator...",
+      "transcript_path": "data/edited_scripts/h6aqpjrUd5c.txt",
+      "character_count": 15029,
+      "performance": {
+        "views": 22226,
+        "likes": 543,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "b_UMhn8E8lI",
+      "title": "This 24-Year-Old Founder Raised $64M to Build World’s First AI Mathematician | Axiom, Carina Hong",
+      "upload_date": "",
+      "duration_seconds": 877,
+      "description": "If an AI Mathematician can reason and prove on its own, how will the future change?\n\nCarina is a mathematician and the Founder and CEO of Axiom. She started the company at 24, and Axiom is...",
+      "transcript_path": "data/edited_scripts/b_UMhn8E8lI.txt",
+      "character_count": 12565,
+      "performance": {
+        "views": 63790,
+        "likes": 2177,
+        "comments": 165
+      }
+    },
+    {
+      "video_id": "KBY0z6jSQsA",
+      "title": "How an 18-Year-Old High School Dropout Raised $6.2M | Nozomio, Arlan Rakhmetzhanov",
+      "upload_date": "",
+      "duration_seconds": 879,
+      "description": "Arlan shares the relentless persistence it takes to break into high-stakes environments, revealing the exact process he used to land an internship with the head of Venture Capital at Stanford....",
+      "transcript_path": "data/edited_scripts/KBY0z6jSQsA.txt",
+      "character_count": 16369,
+      "performance": {
+        "views": 39539,
+        "likes": 2196,
+        "comments": 63
+      }
+    },
+    {
+      "video_id": "5qfwNBs3IVE",
+      "title": "How Great Tech Leaders Think and Decide | Ex-Meta CTO & Gigascale Founder, Mike Schroepfer",
+      "upload_date": "",
+      "duration_seconds": 1260,
+      "description": "Meet Mike Schroepfer, former CTO of Meta and partner at Gigascale Capital. He joined Facebook in 2008 and spent 17 years at the company, leading its engineering organization for over a decade...",
+      "transcript_path": "data/edited_scripts/5qfwNBs3IVE.txt",
+      "character_count": 24988,
+      "performance": {
+        "views": 31976,
+        "likes": 951,
+        "comments": 17
+      }
+    },
+    {
+      "video_id": "pztijFSlfZs",
+      "title": "25 Years of Building Startups Explained in 17 Minutes | TaleTree, Matt Hagger",
+      "upload_date": "",
+      "duration_seconds": 1036,
+      "description": "Meet Matt Hagger, Founder & CEO of Taletree and a veteran serial entrepreneur who spent 25 years building companies from the UK to Silicon Valley. He was the mind behind Zkatter, a visionary...",
+      "transcript_path": "data/edited_scripts/pztijFSlfZs.txt",
+      "character_count": 16110,
+      "performance": {
+        "views": 11172,
+        "likes": 380,
+        "comments": 4
+      }
+    },
+    {
+      "video_id": "d6lKyaPgvzs",
+      "title": "Why Your Startup Fails to Scale ($12B+ Founder Explains) | DevRev, Dheeraj Pandey",
+      "upload_date": "",
+      "duration_seconds": 1026,
+      "description": "Meet Dheeraj Pandey, co-founder and CEO of DevRev. He grew up in one of the poorest towns in India, yet went on to lead the biggest US tech IPO of 2016. Then he chose to start all over again...",
+      "transcript_path": "data/edited_scripts/d6lKyaPgvzs.txt",
+      "character_count": 16728,
+      "performance": {
+        "views": 14598,
+        "likes": 511,
+        "comments": 16
+      }
+    },
+    {
+      "video_id": "HmDUWxpPgnI",
+      "title": "100 AI Leaders Explain How to Build AI That Will Win in 2026 — WHAT BUILDERS SHOULD DO NOW",
+      "upload_date": "",
+      "duration_seconds": 1292,
+      "description": "100 AI leaders across product, engineering, research, and design gathered at StratMinds’ Swell Summit to answer one question: What will actually win in the next era of AI products?\nFrom new...",
+      "transcript_path": "data/edited_scripts/HmDUWxpPgnI.txt",
+      "character_count": 21629,
+      "performance": {
+        "views": 36249,
+        "likes": 1049,
+        "comments": 31
+      }
+    },
+    {
+      "video_id": "UwoflMkwL40",
+      "title": "How to Hit 2M Subs in 2 Years Building an AI Newsletter | The Rundown AI, Rowan Cheung",
+      "upload_date": "",
+      "duration_seconds": 872,
+      "description": "[EO’s Partner Highlight] Click to access the free resource 100+ Creative AI Use Cases Beyond Cold Outreach from HubSpot for Startups\n👉 https://clickhubspot.com/ccedd7\n\nFrom a university...",
+      "transcript_path": "data/edited_scripts/UwoflMkwL40.txt",
+      "character_count": 15029,
+      "performance": {
+        "views": 41531,
+        "likes": 391,
+        "comments": 14
+      }
+    },
+    {
+      "video_id": "zwXz30EYyfQ",
+      "title": "Everyone’s Misunderstanding AI’s True Potential | Radical AI, Joseph F. Krause",
+      "upload_date": "",
+      "duration_seconds": 1244,
+      "description": "Meet Joseph Kraus, Co-Founder and CEO of Radical AI, the company trying to reinvent a 150-year-old scientific process by building scientific AGI (Artificial general intelligence).\n\nWhy focus...",
+      "transcript_path": "data/edited_scripts/zwXz30EYyfQ.txt",
+      "character_count": 20253,
+      "performance": {
+        "views": 22062,
+        "likes": 599,
+        "comments": 25
+      }
+    },
+    {
+      "video_id": "4n28-DoNxWs",
+      "title": "The Biggest Mistake in My 25-Year Journey Building Unicorn Startup | Godard Abel, G2",
+      "upload_date": "",
+      "duration_seconds": 1209,
+      "description": "Godard Abel, cofounder and CEO of G2, built a leading SaaS marketplace through years of setbacks and hard choices. \n\nAt his first company, Big Machines, the dot-com crash forced him into painful...",
+      "transcript_path": "data/edited_scripts/4n28-DoNxWs.txt",
+      "character_count": 24284,
+      "performance": {
+        "views": 9643,
+        "likes": 236,
+        "comments": 10
+      }
+    },
+    {
+      "video_id": "AOlmBo16wD8",
+      "title": "How a Miami Dunker built Shortcut, the Excel AI Agent | Fundamental Research Labs, Nico Christie",
+      "upload_date": "",
+      "duration_seconds": 641,
+      "description": "Before raising $33M as a founder, Nico Christie first made his mark in Miami as a professional dunker.\n\nThat same intensity and obsession with mastery now drive his work as Co-Founder of Fundamenta...",
+      "transcript_path": "data/edited_scripts/AOlmBo16wD8.txt",
+      "character_count": 12345,
+      "performance": {
+        "views": 5210,
+        "likes": 147,
+        "comments": 7
+      }
+    },
+    {
+      "video_id": "zMuGbkFtE9E",
+      "title": "How I Got Half a Million Users in Just 16 Weeks | Rocket.new, Vishal Virani",
+      "upload_date": "",
+      "duration_seconds": 653,
+      "description": "Meet Vishal Virani, cofounder and CEO of Rocket, and the first engineer in his family. He grew up in Surat, the diamond capital of the world, where nine out of ten diamonds are manufactured...",
+      "transcript_path": "data/edited_scripts/zMuGbkFtE9E.txt",
+      "character_count": 11753,
+      "performance": {
+        "views": 23029,
+        "likes": 770,
+        "comments": 20
+      }
+    },
+    {
+      "video_id": "C0AlI0oc9q4",
+      "title": "What Young Founders Get Wrong About Startups | Articul8, Arun Subramaniyan",
+      "upload_date": "",
+      "duration_seconds": 1167,
+      "description": "Meet Arun Subramaniyan, Founder & CEO of Articul8. Before launching Articul8, he led global AI, quantum, and HPC initiatives at AWS, and later served as VP of Cloud & AI Strategy at Intel,...",
+      "transcript_path": "data/edited_scripts/C0AlI0oc9q4.txt",
+      "character_count": 21397,
+      "performance": {
+        "views": 12192,
+        "likes": 344,
+        "comments": 14
+      }
+    },
+    {
+      "video_id": "P5QXWrHnTzw",
+      "title": "From Google DeepMind to a $8B Superintelligence Startup | ReflectionAI, Misha Laskin",
+      "upload_date": "",
+      "duration_seconds": 1910,
+      "description": "In 2025, investors backed Misha Laskin’s new company, Reflection AI, with two rapid rounds of funding totaling $2.1B. He’s the scientist who helped build Gemini, and now he’s building...",
+      "transcript_path": "data/edited_scripts/P5QXWrHnTzw.txt",
+      "character_count": 36149,
+      "performance": {
+        "views": 24624,
+        "likes": 592,
+        "comments": 38
+      }
+    },
+    {
+      "video_id": "PcbPBj_xXes",
+      "title": "How to Find $100M+ Startup Ideas in Any Market | Counsel Health, Muthu Alagappan",
+      "upload_date": "",
+      "duration_seconds": 646,
+      "description": "Meet Muthu, Founder & CEO of Council Health—a physician-turned-AI researcher on a mission to 10× the world’s clinical capacity by pairing doctors with “Iron Man suit” software.\n\nWhat’s...",
+      "transcript_path": "data/edited_scripts/PcbPBj_xXes.txt",
+      "character_count": 11671,
+      "performance": {
+        "views": 12750,
+        "likes": 362,
+        "comments": 11
+      }
+    },
+    {
+      "video_id": "Do_LjDsisIE",
+      "title": "The One Discipline That Made Me a Billionaire by Age 30 | Lucy Guo, Passes",
+      "upload_date": "",
+      "duration_seconds": 1159,
+      "description": "Meet Lucy Guo, Founder & CEO of Passes and Co-Founder of ScaleAI, who became the youngest self-made female billionaire. \n\nWhat's the secret behind all these impressive titles? How has her life...",
+      "transcript_path": "data/edited_scripts/Do_LjDsisIE.txt",
+      "character_count": 22246,
+      "performance": {
+        "views": 208127,
+        "likes": 6199,
+        "comments": 187
+      }
+    },
+    {
+      "video_id": "cweJsYgLRRc",
+      "title": "How an Indian Immigrant with No Background Raised $25M | FurtherAI, Aman Gour",
+      "upload_date": "",
+      "duration_seconds": 793,
+      "description": "From a small town in central India to building one of the most promising AI startups in insurance — Aman Gour’s journey is a story of relentless focus and vertical conviction.\n\nAt FurtherAI,...",
+      "transcript_path": "data/edited_scripts/cweJsYgLRRc.txt",
+      "character_count": 12598,
+      "performance": {
+        "views": 20672,
+        "likes": 526,
+        "comments": 18
+      }
+    },
+    {
+      "video_id": "xo3eKArnIo4",
+      "title": "Why Every Founder Needs to Care About AI Safety Right Now | Glen Wise, Cinder",
+      "upload_date": "",
+      "duration_seconds": 584,
+      "description": "Glen Wise, co-founder and CEO of Cinder, went from hunting terrorists for the US Government to fighting AI's darkest threats—raising $14M in under a year. While Silicon Valley raced to \"move...",
+      "transcript_path": "data/edited_scripts/xo3eKArnIo4.txt",
+      "character_count": 9790,
+      "performance": {
+        "views": 6926,
+        "likes": 183,
+        "comments": 6
+      }
+    },
+    {
+      "video_id": "CvpMjBDHFGM",
+      "title": "How I Exited My Al Startup for $640M at Age 25 | Prepared, Michael Chime",
+      "upload_date": "",
+      "duration_seconds": 1073,
+      "description": "Michael Chime, co-founder & CEO of Prepared, is revolutionizing America's 911 system. At 12 years old, a mass shooting in his neighboring town gave him a brutal awakening: safety is not a given....",
+      "transcript_path": "data/edited_scripts/CvpMjBDHFGM.txt",
+      "character_count": 20712,
+      "performance": {
+        "views": 23172,
+        "likes": 623,
+        "comments": 19
+      }
+    },
+    {
+      "video_id": "5y9crq8f-Hs",
+      "title": "How a Cockroach Startup Became a $2.2B Market Leader | EliseAI, Minna Song",
+      "upload_date": "",
+      "duration_seconds": 901,
+      "description": "Minna Song, co-founder & CEO of EliseAI turned 100 VC rejections into a $2.2B company after 8 years of relentless hustle and survival. While others chased hype, she worked front desks to learn...",
+      "transcript_path": "data/edited_scripts/5y9crq8f-Hs.txt",
+      "character_count": 15059,
+      "performance": {
+        "views": 66921,
+        "likes": 2101,
+        "comments": 41
+      }
+    },
+    {
+      "video_id": "X_ClPE5Y2q4",
+      "title": "From Apple & Uber to Creating a Multi-Billion Dollar Wallet Industry | Magic Labs Documentary",
+      "upload_date": "",
+      "duration_seconds": 2130,
+      "description": "Sean Li and Jaemin Jin founded Magic Labs. Today, they've onboarded 50M+ wallets and 200,000 developers, and raised $80M+ in funding from top-tier investors, including PayPal Ventures.\n\nThis...",
+      "transcript_path": "data/edited_scripts/X_ClPE5Y2q4.txt",
+      "character_count": 34968,
+      "performance": {
+        "views": 17813,
+        "likes": 452,
+        "comments": 10
+      }
+    },
+    {
+      "video_id": "0x-v4yQrWXY",
+      "title": "Investors Don't Make Your Product Better | AssemblyAI, Dylan Fox",
+      "upload_date": "",
+      "duration_seconds": 852,
+      "description": "Dylan Fox is the founder and CEO of AssemblyAI, where he's built one of the most accurate and developer-friendly speech AI platforms in the industry. Under his leadership, the company has raised...",
+      "transcript_path": "data/edited_scripts/0x-v4yQrWXY.txt",
+      "character_count": 13764,
+      "performance": {
+        "views": 11611,
+        "likes": 294,
+        "comments": 7
+      }
+    },
+    {
+      "video_id": "al8nDmjVzxo",
+      "title": "The $2.2B Founder's First Advice | Sadi Khan, Aven",
+      "upload_date": "",
+      "duration_seconds": 1342,
+      "description": "Sadi Khan, co-founder and CEO of Aven, retired from Facebook only to return 3 months later to build a $2.2B fintech solving America's $1 trillion credit card debt crisis.\n\nIn this brutally...",
+      "transcript_path": "data/edited_scripts/al8nDmjVzxo.txt",
+      "character_count": 21880,
+      "performance": {
+        "views": 19096,
+        "likes": 503,
+        "comments": 23
+      }
+    },
+    {
+      "video_id": "xutwpmlTYmE",
+      "title": "A Designer Who Saved 150M+ Developers | GitHub, Diana Mounter(Former Head of Design)",
+      "upload_date": "",
+      "duration_seconds": 1017,
+      "description": "Diana Mounter is the Former Head of Design at GitHub, where she spent nearly nine years shaping one of the most beloved tools in software development. From turning Primer into a full-fledged...",
+      "transcript_path": "data/edited_scripts/xutwpmlTYmE.txt",
+      "character_count": 15446,
+      "performance": {
+        "views": 18841,
+        "likes": 553,
+        "comments": 30
+      }
+    },
+    {
+      "video_id": "vrY8x-iGsFs",
+      "title": "Stop Feeding AI for Free | OpenLedger, Ram Kumar",
+      "upload_date": "",
+      "duration_seconds": 544,
+      "description": "Where does AI’s knowledge come from, and who gets rewarded for it?\n\nTrillion-dollar models are being built, but the contribution and compensation of everyday data providers are not yet clearly...",
+      "transcript_path": "data/edited_scripts/vrY8x-iGsFs.txt",
+      "character_count": 10095,
+      "performance": {
+        "views": 9138,
+        "likes": 261,
+        "comments": 11
+      }
+    },
+    {
+      "video_id": "bRBLPJguU-0",
+      "title": "Silicon Valley’s Top Investors Bet on This 22-Year-Old Founder | Sola, Jessica Wu",
+      "upload_date": "",
+      "duration_seconds": 1047,
+      "description": "Jessica, co-founder and CEO of Sola, shares her journey from MIT and hedge funds to raising $21M by age 22 from top Silicon Valley investors including Andreessen Horowitz (a16z).\n\nIn this interview...",
+      "transcript_path": "data/edited_scripts/bRBLPJguU-0.txt",
+      "character_count": 20735,
+      "performance": {
+        "views": 609229,
+        "likes": 17513,
+        "comments": 400
+      }
+    },
+    {
+      "video_id": "yMOmmnjy3sE",
+      "title": "The 5 Step Playbook for 10x Your AI Productivity | Jeremy Utley",
+      "upload_date": "",
+      "duration_seconds": 1483,
+      "description": "Jeremy Utley is an Adjunct Professor at Stanford University. He breaks down 5 powerful techniques to unlock AI's full potential.\n\nForget everything you think you know about AI prompts. The...",
+      "transcript_path": "data/edited_scripts/yMOmmnjy3sE.txt",
+      "character_count": 25024,
+      "performance": {
+        "views": 510074,
+        "likes": 15185,
+        "comments": 487
+      }
+    },
+    {
+      "video_id": "8Nd_39d5q9A",
+      "title": "A Yale Student Raised $3.1M in 2 Weeks for an AI Social App | Series, Nathaneo Johnson",
+      "upload_date": "",
+      "duration_seconds": 607,
+      "description": "Nathaneo Johnson, Co-founder and CEO of Series, believes social networks need a radical reset. As a Yale student, he and his team raised $3.1M in just 14 days to launch Series, the world’s...",
+      "transcript_path": "data/edited_scripts/8Nd_39d5q9A.txt",
+      "character_count": 11429,
+      "performance": {
+        "views": 50447,
+        "likes": 1563,
+        "comments": 121
+      }
+    },
+    {
+      "video_id": "WXLVCZIUxpY",
+      "title": "This is the Biggest Hidden Risk of AI | Traversal, Anish Agarwal",
+      "upload_date": "",
+      "duration_seconds": 778,
+      "description": "\"Human Coding is Dead,\" said Anish Agarwal, cofounder of Traversal, in our interview. So much of today's software is already written by AI. Tools like Cursor, Windsurf, Claude, and GitHub Copilot...",
+      "transcript_path": "data/edited_scripts/WXLVCZIUxpY.txt",
+      "character_count": 16469,
+      "performance": {
+        "views": 12559,
+        "likes": 288,
+        "comments": 12
+      }
+    },
+    {
+      "video_id": "xWYb7tImErI",
+      "title": "The Only Trait for Success in the AI Era—How to Build It | Carnegie Mellon University Po-Shen Loh",
+      "upload_date": "",
+      "duration_seconds": 1351,
+      "description": "Po-Shen Loh reveals why modern education may be failing us—and what it will take for humanity to thrive in the AI era.\n\nFrom AI solving Olympiad-level problems to students outsourcing their...",
+      "transcript_path": "data/edited_scripts/xWYb7tImErI.txt",
+      "character_count": 22531,
+      "performance": {
+        "views": 1013357,
+        "likes": 40928,
+        "comments": 1066
+      }
+    },
+    {
+      "video_id": "J_pWyYxu6qE",
+      "title": "What 30 years in Silicon Valley taught me | Nextdoor, Nirav Tolia",
+      "upload_date": "",
+      "duration_seconds": 1228,
+      "description": "From the son of Indian immigrants to one of Yahoo's first 100 employees to building a public company, Nirav Tolia shares his improbable entrepreneurial journey.\n\nTolia founded Nextdoor in 2010...",
+      "transcript_path": "data/edited_scripts/J_pWyYxu6qE.txt",
+      "character_count": 17503,
+      "performance": {
+        "views": 7443,
+        "likes": 154,
+        "comments": 7
+      }
+    },
+    {
+      "video_id": "Fr_5Gk_w_o8",
+      "title": "Utopia or Dystopia? Humanoid Robot NEO Has Arrived at Our Home | 1X, Bernt Børnich",
+      "upload_date": "",
+      "duration_seconds": 1030,
+      "description": "How close are we to having a humanoid robot living in our own living rooms?\n\n1X Founder & CEO Bernt Børnich has spent the past 10 years chasing one mission — building robots that move, learn,...",
+      "transcript_path": "data/edited_scripts/Fr_5Gk_w_o8.txt",
+      "character_count": 19326,
+      "performance": {
+        "views": 56814,
+        "likes": 1421,
+        "comments": 105
+      }
+    },
+    {
+      "video_id": "Xqsudhg-8qk",
+      "title": "How to Find $10M+ Ideas in Markets We’d Never Worked In | Comulate, Jordan Katz & Michael Mattheakis",
+      "upload_date": "",
+      "duration_seconds": 769,
+      "description": "They built a multi-million dollar AI company by going against Silicon Valley's playbook.\n\nJordan (CEO) and Michael (CTO) are the co-founders of Comulate — a startup that’s quietly transforming...",
+      "transcript_path": "data/edited_scripts/Xqsudhg-8qk.txt",
+      "character_count": 12797,
+      "performance": {
+        "views": 72871,
+        "likes": 1931,
+        "comments": 24
+      }
+    },
+    {
+      "video_id": "Z2GmRgmq3Ls",
+      "title": "How to Build $1.5B AI Startup in Just 3 Years | fal's co-founders",
+      "upload_date": "",
+      "duration_seconds": 761,
+      "description": "This episode features co-founders of fal, Burkay Gur and Gorkem Yurtseven.\n\nfal is a generative media platform. They just raised their Series C round of $125M, which values them at a $1.5B...",
+      "transcript_path": "data/edited_scripts/Z2GmRgmq3Ls.txt",
+      "character_count": 12483,
+      "performance": {
+        "views": 14016,
+        "likes": 345,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "d9SKd-zqYAc",
+      "title": "The 8-Year Journey to Building a $4B AI Company | Synthesia, Victor Riparbelli",
+      "upload_date": "",
+      "duration_seconds": 838,
+      "description": "He started the UK’s largest generative AI video startup — before ChatGPT even existed.\n\nVictor Riparbelli, CEO & Co-founder of Synthesia, breaks down why going viral isn’t the goal —...",
+      "transcript_path": "data/edited_scripts/d9SKd-zqYAc.txt",
+      "character_count": 17671,
+      "performance": {
+        "views": 11387,
+        "likes": 275,
+        "comments": 3
+      }
+    },
+    {
+      "video_id": "rQ3luEIcKes",
+      "title": "I Built a General AI Agent After School at Age 13 | Flowe AI, Michael Goldstein",
+      "upload_date": "",
+      "duration_seconds": 426,
+      "description": "This episode features Michael Goldstein, a 13-year-old founder and CEO of Flowe AI – a general AI agent that automates everyday tasks.\n\nBorn into a world where AI is everywhere, Michael represent...",
+      "transcript_path": "data/edited_scripts/rQ3luEIcKes.txt",
+      "character_count": 6126,
+      "performance": {
+        "views": 25854,
+        "likes": 712,
+        "comments": 0
+      }
+    },
+    {
+      "video_id": "3TyfA0FmsQI",
+      "title": "The Biggest Risk Is Not Taking Any Risk | HIS Challenge, BORYUNG",
+      "upload_date": "",
+      "duration_seconds": 691,
+      "description": "This episode features HIS Challenge by BORYUNG – the pioneering space healthcare initiative connecting innovators with NASA and 40+ global partners. Since launching in 2022 with zero space...",
+      "transcript_path": "data/edited_scripts/3TyfA0FmsQI.txt",
+      "character_count": 10720,
+      "performance": {
+        "views": 10408,
+        "likes": 206,
+        "comments": 9
+      }
+    },
+    {
+      "video_id": "bwttXIyQmno",
+      "title": "How We 5X Our Revenue While Others Chase AI Updates | Lindy, Flo Crivello",
+      "upload_date": "",
+      "duration_seconds": 750,
+      "description": "Flo Crivello built Lindy, the world's easiest no-code AI agent platform, by breaking every conventional startup rule - here's his unconventional playbook.\n\nMost AI founders chase the latest...",
+      "transcript_path": "data/edited_scripts/bwttXIyQmno.txt",
+      "character_count": 14247,
+      "performance": {
+        "views": 24604,
+        "likes": 631,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "Djeykrg3WkM",
+      "title": "Built to Share: 2M Users in 18 Months | Julius AI, Rahul Sonwalkar",
+      "upload_date": "",
+      "duration_seconds": 600,
+      "description": "This episode features Rahul Sonwalkar, founder and CEO of Julius AI – the leading AI data analysis platform.\n\nSince launching in 2023, Julius AI has helped users create over 10 million data...",
+      "transcript_path": "data/edited_scripts/Djeykrg3WkM.txt",
+      "character_count": 9405,
+      "performance": {
+        "views": 39579,
+        "likes": 1214,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "9c3oNP8yiKs",
+      "title": "How I Built a $1.3B Startup by Pivoting Fast | Windsurf, Varun Mohan, Co-Founder & CEO",
+      "upload_date": "",
+      "duration_seconds": 1298,
+      "description": "This episode features Varun Mohan, co-founder and CEO of Windsurf. \n\nIn 2021, Varun left his autonomous vehicle job to start a GPU virtualization company. They raised $28M and were making millions...",
+      "transcript_path": "data/edited_scripts/9c3oNP8yiKs.txt",
+      "character_count": 26704,
+      "performance": {
+        "views": 210791,
+        "likes": 4768,
+        "comments": 117
+      }
+    },
+    {
+      "video_id": "7gEdL3vQvKQ",
+      "title": "From $0 Ad Spend to $12.5B: The Figma StoryㅣClaire Butler & Corey Lee",
+      "upload_date": "",
+      "duration_seconds": 1359,
+      "description": "Figma's first marketer Claire Butler and Design Advocate Cory Lee share essential tips on Figma's Growth Strategy.\n\nFrom changing the product name on day one to making immediate impact, they...",
+      "transcript_path": "data/edited_scripts/7gEdL3vQvKQ.txt",
+      "character_count": 26512,
+      "performance": {
+        "views": 10137,
+        "likes": 252,
+        "comments": 6
+      }
+    },
+    {
+      "video_id": "ViAGOAc2LAo",
+      "title": "How Bolt Hit $40M ARR in 5 Months with This AI Pivot Strategy | Stackblitz(Bolt.new), Eric Simons",
+      "upload_date": "",
+      "duration_seconds": 1166,
+      "description": "Eric Simons turned 7 years of failure into a $700M company in 3 months - here's how he did it.\n\nEric started StackBlitz with a simple mission: eliminate the biggest barrier to coding by letting...",
+      "transcript_path": "data/edited_scripts/ViAGOAc2LAo.txt",
+      "character_count": 22392,
+      "performance": {
+        "views": 62449,
+        "likes": 1350,
+        "comments": 36
+      }
+    },
+    {
+      "video_id": "KeD5i7K-q2Q",
+      "title": "Everyone's Chasing AI But This Matters The Most | Ron Gutman, Intrivo",
+      "upload_date": "",
+      "duration_seconds": 824,
+      "description": "Ron Gutman, CEO and Co-founder of Intrivo, shares the most impactful moment of his entrepreneurial journey - receiving heartfelt notes from customers thanking him for saving their lives. For...",
+      "transcript_path": "data/edited_scripts/KeD5i7K-q2Q.txt",
+      "character_count": 13523,
+      "performance": {
+        "views": 12726,
+        "likes": 275,
+        "comments": 10
+      }
+    },
+    {
+      "video_id": "llMFdIVBDBQ",
+      "title": "How a Solo Dev Went From $0 to $57M Raised | Laravel, Taylor Otwell",
+      "upload_date": "",
+      "duration_seconds": 1093,
+      "description": "Taylor Otwell's journey from solo developer to building Laravel, the world's most beloved PHP framework. When he created Laravel in 2011, it wasn't meant to become a massive open-source community...",
+      "transcript_path": "data/edited_scripts/llMFdIVBDBQ.txt",
+      "character_count": 18383,
+      "performance": {
+        "views": 192812,
+        "likes": 5908,
+        "comments": 165
+      }
+    },
+    {
+      "video_id": "Drse9NLKG2s",
+      "title": "27-Year Investor Explains What You're Missing While Chasing AI | TELUS Global Ventures, Terry Doyle",
+      "upload_date": "",
+      "duration_seconds": 455,
+      "description": "Terry Doyle is a Managing Partner at TELUS Global Ventures with over 25 years of experience investing in technology companies. He's witnessed major tech cycles from the dot-com crash to the...",
+      "transcript_path": "data/edited_scripts/Drse9NLKG2s.txt",
+      "character_count": 7144,
+      "performance": {
+        "views": 99350,
+        "likes": 1705,
+        "comments": 54
+      }
+    },
+    {
+      "video_id": "vmGRRt3GJYI",
+      "title": "How Chatbots Hallucinate with Confidence I Rumman Chowdhury, Humane Intelligence",
+      "upload_date": "",
+      "duration_seconds": 681,
+      "description": "Have you ever asked AI a question and received a confident answer that turned out to be completely wrong? How can we protect ourselves from AI hallucinations while still harnessing its incredible...",
+      "transcript_path": "data/edited_scripts/vmGRRt3GJYI.txt",
+      "character_count": 12066,
+      "performance": {
+        "views": 8819,
+        "likes": 269,
+        "comments": 11
+      }
+    },
+    {
+      "video_id": "aGY3QSuOz-E",
+      "title": "How I Hit 10M Users in Just 1 Year l Creati, Ella Zhang",
+      "upload_date": "",
+      "duration_seconds": 805,
+      "description": "Ella Zhang is the Founder & CEO of Creati, a fast-growing AI video generation tool built for marketers. In just one year, Creati surpassed over 10 million downloads and reached $10M in revenue....",
+      "transcript_path": "data/edited_scripts/aGY3QSuOz-E.txt",
+      "character_count": 11639,
+      "performance": {
+        "views": 71681,
+        "likes": 1877,
+        "comments": 51
+      }
+    },
+    {
+      "video_id": "Ns-rmhAqPN4",
+      "title": "From Apple to Oculus-Now Taking On Consumer Hardware | Nirav Patel, Framework",
+      "upload_date": "",
+      "duration_seconds": 995,
+      "description": "The consumer hardware market is often said to be one of the toughest to survive. Yet, Framework has continued to grow steadily, with its DIY laptop as a flagship product.\n\nFounder and CEO Nirav...",
+      "transcript_path": "data/edited_scripts/Ns-rmhAqPN4.txt",
+      "character_count": 15879,
+      "performance": {
+        "views": 49988,
+        "likes": 1183,
+        "comments": 56
+      }
+    },
+    {
+      "video_id": "KHSI0Qu4ovQ",
+      "title": "Silicon Valley's Hottest Young Founder Right Now | Cluely, Roy Lee",
+      "upload_date": "",
+      "duration_seconds": 1164,
+      "description": "This interview features Roy's startup journey from being expelled from Columbia University to developing an AI tool for technical interviews and securing a $5M investment.\n\nRoy discusses his...",
+      "transcript_path": "data/edited_scripts/KHSI0Qu4ovQ.txt",
+      "character_count": 23184,
+      "performance": {
+        "views": 966898,
+        "likes": 33343,
+        "comments": 833
+      }
+    },
+    {
+      "video_id": "LBn0eAxQpb8",
+      "title": "How Luma Built a $200M AI by Shipping Fast, Not Perfect | Luma AI, Amit Jain",
+      "upload_date": "",
+      "duration_seconds": 942,
+      "description": "\"The worst thing that can happen to someone who's making anything in the world is apathy. You put something out and nobody cares.\"\n\nAmit is the co-founder and CEO of Luma AI, building multimodal...",
+      "transcript_path": "data/edited_scripts/LBn0eAxQpb8.txt",
+      "character_count": 16625,
+      "performance": {
+        "views": 44170,
+        "likes": 1269,
+        "comments": 30
+      }
+    },
+    {
+      "video_id": "4MzS_aG7qR4",
+      "title": "Transform Now or Be Left Behind in 2 Years | Former Chief Innovation Evangelist at Google",
+      "upload_date": "",
+      "duration_seconds": 878,
+      "description": "We try to predict the coming future, but the future doesn't simply wait for us. In an era filled with uncertainty, especially the rapidly transforming AI era, are you feeling vague fear or...",
+      "transcript_path": "data/edited_scripts/4MzS_aG7qR4.txt",
+      "character_count": 14575,
+      "performance": {
+        "views": 10535,
+        "likes": 317,
+        "comments": 9
+      }
+    },
+    {
+      "video_id": "p0C4ypmz4zs",
+      "title": "The Future of Creators in the AI Era l Bob Mankoff",
+      "upload_date": "",
+      "duration_seconds": 685,
+      "description": "\"AI is trained on averageness. But I’m not average.” \n\nThe third guest in our series is 40-year veteran cartoonist and former New Yorker editor, Bob Mankoff. He reminds us of one crucial...",
+      "transcript_path": "data/edited_scripts/p0C4ypmz4zs.txt",
+      "character_count": 7993,
+      "performance": {
+        "views": 8806,
+        "likes": 340,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "GG77NdMC3kk",
+      "title": "Building AI Search Engine for the GPT-5 Era | Will Bryk, Exa",
+      "upload_date": "",
+      "duration_seconds": 533,
+      "description": "“In five years, we can have systems that completely automate all human labor, AI does all the repetitive work and humans do all the novel work.”\n\nWill Bryk is the co-founder and CEO of...",
+      "transcript_path": "data/edited_scripts/GG77NdMC3kk.txt",
+      "character_count": 10079,
+      "performance": {
+        "views": 31615,
+        "likes": 709,
+        "comments": 43
+      }
+    },
+    {
+      "video_id": "S4iY1ddf2Vg",
+      "title": "Branding Masterclass for AI FoundersㅣSmith & Diction",
+      "upload_date": "",
+      "duration_seconds": 1955,
+      "description": "This is the story of Smith & Diction, the design agency behind some of the most talked-about rebrands—Perplexity, Anterior, Alma, Exposure, and Gamma—all crafted by one of the smallest...",
+      "transcript_path": "data/edited_scripts/S4iY1ddf2Vg.txt",
+      "character_count": 37221,
+      "performance": {
+        "views": 18347,
+        "likes": 723,
+        "comments": 28
+      }
+    },
+    {
+      "video_id": "FIxLJVthW6I",
+      "title": "Fix your AI-limited mindset in 12 mins | Caltech, Anima Anandkumar",
+      "upload_date": "",
+      "duration_seconds": 715,
+      "description": "Caltech's Professor Anima Anandkumar states, \"A lot of these AI tools are getting better, but you still need to provide AI what to do.\" So how can we discover the questions we want to ask AI...",
+      "transcript_path": "data/edited_scripts/FIxLJVthW6I.txt",
+      "character_count": 10550,
+      "performance": {
+        "views": 44325,
+        "likes": 1169,
+        "comments": 57
+      }
+    },
+    {
+      "video_id": "yVcCywnPuC8",
+      "title": "How I Built a $3.3B Blockchain Business Against All OddsㅣKonstantin Richter, Blockdaemon",
+      "upload_date": "",
+      "duration_seconds": 746,
+      "description": "\"As a founder, there's a kind of psychological fallacy where at some point you need to switch off your logical brain. This is because you're clearly working on a problem that nobody else sees.\"...",
+      "transcript_path": "data/edited_scripts/yVcCywnPuC8.txt",
+      "character_count": 11415,
+      "performance": {
+        "views": 25934,
+        "likes": 782,
+        "comments": 29
+      }
+    },
+    {
+      "video_id": "uB-u2__tkHQ",
+      "title": "The Journey from India to Building a $500M AI Video Product | Gaurav Misra, Captions",
+      "upload_date": "",
+      "duration_seconds": 791,
+      "description": "Gaurav Misra is the co-founder and CEO of Captions, an AI video creation tool that's making it easier than ever for creators to make amazing content. Before starting Captions, Gaurav worked...",
+      "transcript_path": "data/edited_scripts/uB-u2__tkHQ.txt",
+      "character_count": 15135,
+      "performance": {
+        "views": 48789,
+        "likes": 1446,
+        "comments": 41
+      }
+    },
+    {
+      "video_id": "dWkt0oa4Uxk",
+      "title": "AI for Car Rentals?! Prove It! | Pitch.Tech EP 2",
+      "upload_date": "",
+      "duration_seconds": 966,
+      "description": "Pitch.tech is a startup competition hosted by EO and .Tech Domains, bringing early-stage founders building with disruptive technologies to the heart of Silicon Valley. It is where bold startups...",
+      "transcript_path": "data/edited_scripts/dWkt0oa4Uxk.txt",
+      "character_count": 16957,
+      "performance": {
+        "views": 9500,
+        "likes": 191,
+        "comments": 6
+      }
+    },
+    {
+      "video_id": "wv779vmyPVY",
+      "title": "How to Master AI Powered Creativity in Just 13 Minutes | Jeremy Utley",
+      "upload_date": "",
+      "duration_seconds": 800,
+      "description": "Jeremy Utley, an Adjunct Professor at Stanford University, explains why most people are not fully utilizing AI’s creative potential. Why is that? He explains that it lies in how we approach...",
+      "transcript_path": "data/edited_scripts/wv779vmyPVY.txt",
+      "character_count": 12377,
+      "performance": {
+        "views": 2338636,
+        "likes": 79522,
+        "comments": 1973
+      }
+    },
+    {
+      "video_id": "GkGWBGJlQrs",
+      "title": "I Built $200M Nuclear Energy Startup at 19 | JC.B, Fuse",
+      "upload_date": "",
+      "duration_seconds": 481,
+      "description": "JC B. is the founder and CEO of Fuse, a pioneering fusion energy company. He started Fuse at just 19 years old, and by age 23, he has grown it into a $200M-valued startup, raising $52M in capital...",
+      "transcript_path": "data/edited_scripts/GkGWBGJlQrs.txt",
+      "character_count": 8151,
+      "performance": {
+        "views": 50791,
+        "likes": 2241,
+        "comments": 111
+      }
+    },
+    {
+      "video_id": "IPVCnBaneak",
+      "title": "Built 2nd Startup at 23, Execution was Everything | Intellect Theodoric Chew",
+      "upload_date": "",
+      "duration_seconds": 666,
+      "description": "Today’s story is about Theodoric Chew, the founder of Intellect. Intellect is a mental health platform supporting over 4 million users across more than 100 countries worldwide. It has received...",
+      "transcript_path": "data/edited_scripts/IPVCnBaneak.txt",
+      "character_count": 12496,
+      "performance": {
+        "views": 20726,
+        "likes": 618,
+        "comments": 9
+      }
+    },
+    {
+      "video_id": "VGPUg24tsQ8",
+      "title": "How We Went from Zero Buyers to One of the Fastest-Growing B2B StartupsㅣTranscend, Ben Brook",
+      "upload_date": "",
+      "duration_seconds": 631,
+      "description": "Ben Brook is Co-Founder and CEO of Transcend, a privacy infrastructure company helping businesses automate data privacy and governance. With over $90 million in funding and more than 2,000...",
+      "transcript_path": "data/edited_scripts/VGPUg24tsQ8.txt",
+      "character_count": 10017,
+      "performance": {
+        "views": 23468,
+        "likes": 532,
+        "comments": 10
+      }
+    },
+    {
+      "video_id": "pLSA-9xwIRE",
+      "title": "From Google’s First PM to Backing 50 Unicorns — The 10X Principle | Felicis, Aydin Senkut",
+      "upload_date": "",
+      "duration_seconds": 1308,
+      "description": "From Google's first product manager to founding Felicis Ventures, Aydin Senkut shares his journey of turning obstacles into opportunities. At Google, he embraced the \"10x principle\" that would...",
+      "transcript_path": "data/edited_scripts/pLSA-9xwIRE.txt",
+      "character_count": 24584,
+      "performance": {
+        "views": 256559,
+        "likes": 7166,
+        "comments": 107
+      }
+    },
+    {
+      "video_id": "UbaXgFM_dGw",
+      "title": "Vibe Coding All Day? Stop Delivering PrototypesㅣGraphite, Merrill Lutsky",
+      "upload_date": "",
+      "duration_seconds": 584,
+      "description": "Merrill Lutsky is the co-founder and CEO of Graphite, an AI code review company. Graphite has raised $81 million in funding and is recognized as a rapidly growing enterprise, having achieved...",
+      "transcript_path": "data/edited_scripts/UbaXgFM_dGw.txt",
+      "character_count": 9763,
+      "performance": {
+        "views": 14406,
+        "likes": 349,
+        "comments": 6
+      }
+    },
+    {
+      "video_id": "_jEnJYU3e7k",
+      "title": "How I Built a $300M Startup with No Degree and No NetworkㅣSelfbook, Khalid Meniri",
+      "upload_date": "",
+      "duration_seconds": 732,
+      "description": "Khalid Meniri is Co-Founder and CEO of Selfbook, a company providing one-click booking infrastructure for hotels. Born in Algeria with dreams of New York City, his journey began without formal...",
+      "transcript_path": "data/edited_scripts/_jEnJYU3e7k.txt",
+      "character_count": 10833,
+      "performance": {
+        "views": 191675,
+        "likes": 5310,
+        "comments": 146
+      }
+    },
+    {
+      "video_id": "5UhnQ2h-5BY",
+      "title": "\"Don’t Learn to Code\" Is WRONG | GitHub CEO Thomas Dohmke",
+      "upload_date": "",
+      "duration_seconds": 1147,
+      "description": "EO stands for Entrepreneurship & Opportunities. As we're looking to feature more inspiring stories of entrepreneurs all over the world, don't hesitate to contact us at partner@eoeoeo.net\n\nLinkedIn...",
+      "transcript_path": "data/edited_scripts/5UhnQ2h-5BY.txt",
+      "character_count": 20410,
+      "performance": {
+        "views": 476595,
+        "likes": 11669,
+        "comments": 416
+      }
+    },
+    {
+      "video_id": "At9Ti-O-NqA",
+      "title": "A College Dropout Builds $1B Startup at 22 | Injective, Eric Chen",
+      "upload_date": "",
+      "duration_seconds": 648,
+      "description": "\"Finance is truly a game for the rich, and it really shouldn't be.\"\n\nWith this conviction, Eric Chen co-founded Injective Labs, building a blockchain designed specifically for finance. Today,...",
+      "transcript_path": "data/edited_scripts/At9Ti-O-NqA.txt",
+      "character_count": 11221,
+      "performance": {
+        "views": 18231,
+        "likes": 503,
+        "comments": 15
+      }
+    },
+    {
+      "video_id": "nj_D5mw5Peg",
+      "title": "\"Standing Desk is OVER\" l Pitch.tech EP 01",
+      "upload_date": "",
+      "duration_seconds": 765,
+      "description": "Pitch.tech is a startup competition hosted by EO and .Tech Domains, bringing early-stage founders building with disruptive technologies to the heart of Silicon Valley. It is where bold startups...",
+      "transcript_path": "data/edited_scripts/nj_D5mw5Peg.txt",
+      "character_count": 13089,
+      "performance": {
+        "views": 10980,
+        "likes": 304,
+        "comments": 31
+      }
+    },
+    {
+      "video_id": "PC6rHWC0qDw",
+      "title": "Advice from a Founder Who Built a $390M Company at 57 | LucidLink, Peter Thompson",
+      "upload_date": "",
+      "duration_seconds": 1087,
+      "description": "Peter Thompson is Co-Founder and CEO of LucidLink, a cloud-native file service provider enabling fast remote access to data for collaboration. After a 20+ year career culminating as Vice President...",
+      "transcript_path": "data/edited_scripts/PC6rHWC0qDw.txt",
+      "character_count": 15124,
+      "performance": {
+        "views": 126910,
+        "likes": 3138,
+        "comments": 104
+      }
+    },
+    {
+      "video_id": "Tk-EI2yYT3A",
+      "title": "30-Minute Masterclass on Product Thinking | Instagram Co-Founder & Anthropic CPO, Mike Krieger",
+      "upload_date": "",
+      "duration_seconds": 1811,
+      "description": "From Instagram to Anthropic, Mike Krieger shares his inspiring journey of building world-class products and the valuable lessons learned over nearly two decades.\n\nBorn in São Paulo, Brazil,...",
+      "transcript_path": "data/edited_scripts/Tk-EI2yYT3A.txt",
+      "character_count": 34090,
+      "performance": {
+        "views": 187495,
+        "likes": 4968,
+        "comments": 53
+      }
+    },
+    {
+      "video_id": "i1MQ91jLRzQ",
+      "title": "What I Learned Building AI That Competes with TeslaㅣHelm.ai, Vlad Voroninski",
+      "upload_date": "",
+      "duration_seconds": 755,
+      "description": "Vlad Voroninski is the CEO and Founder at Helm.ai,  an AI software company pioneering a new approach to self-driving. After spending 10 years as a mathematician, he founded Helm.ai in 2016,...",
+      "transcript_path": "data/edited_scripts/i1MQ91jLRzQ.txt",
+      "character_count": 12543,
+      "performance": {
+        "views": 8434,
+        "likes": 211,
+        "comments": 8
+      }
+    },
+    {
+      "video_id": "YTj2SkZ13hw",
+      "title": "How I Raised $17M in 14 Days | Pylon, Marty Kausas",
+      "upload_date": "",
+      "duration_seconds": 903,
+      "description": "In this episode, we sit down with Marty, co-founder and CEO of Pylon, the first customer support platform built specifically for B2B companies.\n\nHis key insight: 👉 \"All you need is one thing...",
+      "transcript_path": "data/edited_scripts/YTj2SkZ13hw.txt",
+      "character_count": 17200,
+      "performance": {
+        "views": 59444,
+        "likes": 1783,
+        "comments": 50
+      }
+    },
+    {
+      "video_id": "TNq79c8QNlg",
+      "title": "Why Most AI Startups Fail to Impress VCsㅣRajeev Dham, Sapphire Ventures",
+      "upload_date": "",
+      "duration_seconds": 633,
+      "description": "Rajeev Dham is a partner at Sapphire Ventures, a growth-stage B2B software investor managing over $10 billion. Sapphire has partnered with companies such as LinkedIn, ExactTarget, DocuSign,...",
+      "transcript_path": "data/edited_scripts/TNq79c8QNlg.txt",
+      "character_count": 10727,
+      "performance": {
+        "views": 16545,
+        "likes": 385,
+        "comments": 12
+      }
+    },
+    {
+      "video_id": "qNXUaijIPCQ",
+      "title": "How to Scale Up When You’re Stuck Between Early and Growth | Postscript, Alex Beller",
+      "upload_date": "",
+      "duration_seconds": 874,
+      "description": "In this episode, we sit down with Alex Beller, co-founder of Postscript, an SMS marketing platform. His key insight: 👉 \"The riches are in the niches\" – focusing on a core product and user...",
+      "transcript_path": "data/edited_scripts/qNXUaijIPCQ.txt",
+      "character_count": 14870,
+      "performance": {
+        "views": 34584,
+        "likes": 896,
+        "comments": 15
+      }
+    },
+    {
+      "video_id": "iJraivDKYkA",
+      "title": "Leaving $1.5B Startup Behind for AI's Next Wave | Neon, Nikita Shamgunov",
+      "upload_date": "",
+      "duration_seconds": 556,
+      "description": "Nikita Shamgunov is Co-Founder and CEO of Neon, a serverless Postgres platform revolutionizing database infrastructure. From founding SingleStore, a company that reached $1.5B in valuation,...",
+      "transcript_path": "data/edited_scripts/iJraivDKYkA.txt",
+      "character_count": 9141,
+      "performance": {
+        "views": 68706,
+        "likes": 1500,
+        "comments": 25
+      }
+    },
+    {
+      "video_id": "0SStbzK1VRU",
+      "title": "What VCs Actually Want Beyond an AI Demo | Rebecca Lynn, Canvas Ventures",
+      "upload_date": "",
+      "duration_seconds": 649,
+      "description": "Rebecca Lynn is Co-Founder and Managing Partner of Canvas Ventures, an early-stage venture capital firm focused on fintech, digital health, and AI investments. Having led the investment in...",
+      "transcript_path": "data/edited_scripts/0SStbzK1VRU.txt",
+      "character_count": 11103,
+      "performance": {
+        "views": 107122,
+        "likes": 2323,
+        "comments": 95
+      }
+    },
+    {
+      "video_id": "bfD4oFQXHTs",
+      "title": "How I Built $15M Annual Revenue Vertical SaaS | Dan Uyemura, PushPress",
+      "upload_date": "",
+      "duration_seconds": 2575,
+      "description": "In this episode, we sit down with Dan Uyemura, CEO and co-founder of PushPress, a gym management software platform built by gym owners, for gym owners.\n\nAfter a decade as a software engineer,...",
+      "transcript_path": "data/edited_scripts/bfD4oFQXHTs.txt",
+      "character_count": 52790,
+      "performance": {
+        "views": 12883,
+        "likes": 208,
+        "comments": 8
+      }
+    },
+    {
+      "video_id": "WWSn6NceO7s",
+      "title": "Next Tesla in the B2B Market | Captain of SEOUL ROBOTICS, Hanbin Lee",
+      "upload_date": "",
+      "duration_seconds": 981,
+      "description": "Seoul Robotics is an innovative technology startup leading the autonomous driving B2B market. The company is driving change across various industries through its autonomous driving technology,...",
+      "transcript_path": "data/edited_scripts/WWSn6NceO7s.txt",
+      "character_count": 15619,
+      "performance": {
+        "views": 16089,
+        "likes": 402,
+        "comments": 16
+      }
+    },
+    {
+      "video_id": "MoP4btRlHdU",
+      "title": "How to find THE soulmate for startup | Tracksuit, Matt Herbert & Connor Archbold",
+      "upload_date": "",
+      "duration_seconds": 1244,
+      "description": "Did you enjoy our recent interview with Tae Yoon, Partner at Altos Ventures?\n\nhttps://youtu.be/cTv113vtUy4?si=xHCxjuTRRtSwxbJ7\n\nFollowing his insightful interview, we're excited to announce...",
+      "transcript_path": "data/edited_scripts/MoP4btRlHdU.txt",
+      "character_count": 22647,
+      "performance": {
+        "views": 6373,
+        "likes": 165,
+        "comments": 7
+      }
+    },
+    {
+      "video_id": "apewL43Q8Tg",
+      "title": "9 Months Zero Code, $75M Raised | Merge, Shensi Ding",
+      "upload_date": "",
+      "duration_seconds": 445,
+      "description": "Shensi Ding is the Co-Founder and CEO of Merge, a unified API platform that lets B2B SaaS companies add hundreds of integrations to their products. From extensive market research to securing...",
+      "transcript_path": "data/edited_scripts/apewL43Q8Tg.txt",
+      "character_count": 8607,
+      "performance": {
+        "views": 166738,
+        "likes": 4248,
+        "comments": 123
+      }
+    },
+    {
+      "video_id": "gQEkCFzZfPA",
+      "title": "How a 3-Person Founder Team Beat Big Tech ㅣMangomint, Daniel Lang",
+      "upload_date": "",
+      "duration_seconds": 1163,
+      "description": "Did you enjoy our recent interview with Tae Yoon, Partner at Altos Ventures?\n\nhttps://youtu.be/cTv113vtUy4?si=xHCxjuTRRtSwxbJ7\n\nFollowing his insightful interview, we're excited to announce...",
+      "transcript_path": "data/edited_scripts/gQEkCFzZfPA.txt",
+      "character_count": 21316,
+      "performance": {
+        "views": 44771,
+        "likes": 1075,
+        "comments": 32
+      }
+    },
+    {
+      "video_id": "j6Z-JGoqFpM",
+      "title": "Escaped Belarus, Built $100M ARR Business | PandaDoc, Mikita Mikado",
+      "upload_date": "",
+      "duration_seconds": 1870,
+      "description": "Hello, EO subscribers!\n\nDid you enjoy our recent interview with Tae Yoon, Partner at Altos Ventures? \n\n[A Conversation with Tae : https://youtu.be/cTv113vtUy4]\n\nFollowing his insightful interview,...",
+      "transcript_path": "data/edited_scripts/j6Z-JGoqFpM.txt",
+      "character_count": 30552,
+      "performance": {
+        "views": 7901,
+        "likes": 221,
+        "comments": 4
+      }
+    },
+    {
+      "video_id": "fDdeXx8lND8",
+      "title": "Why I Left Palantir and Faced 50 RejectionsㅣMosaic, Bijan Moallemi",
+      "upload_date": "",
+      "duration_seconds": 652,
+      "description": "Bijan Moallemi is Founder and CEO of Mosaic.tech, a strategic finance software platform that provides advanced analytics and financial planning tools for businesses. As the former SVP of Finance...",
+      "transcript_path": "data/edited_scripts/fDdeXx8lND8.txt",
+      "character_count": 12081,
+      "performance": {
+        "views": 20356,
+        "likes": 457,
+        "comments": 6
+      }
+    },
+    {
+      "video_id": "cTv113vtUy4",
+      "title": "Venture DifferentlyㅣAltos Ventures, Tae Yoon",
+      "upload_date": "",
+      "duration_seconds": 879,
+      "description": "Since its founding in 1996 in Silicon Valley, Altos Ventures has pioneered a distinctive approach to venture capital, focusing on patient and pragmatic investing to help early-stage technology...",
+      "transcript_path": "data/edited_scripts/cTv113vtUy4.txt",
+      "character_count": 14384,
+      "performance": {
+        "views": 12790,
+        "likes": 314,
+        "comments": 7
+      }
+    },
+    {
+      "video_id": "kvIDk4-QtlM",
+      "title": "Mindset Behind $50B in Revenue | Ema Unlimited, Surojit Chatterjee",
+      "upload_date": "",
+      "duration_seconds": 819,
+      "description": "Surojit Chatterjee is Founder and CEO of Ema, a groundbreaking AI company revolutionizing workplace productivity with its universal AI assistant. From humble beginnings in a small town in India...",
+      "transcript_path": "data/edited_scripts/kvIDk4-QtlM.txt",
+      "character_count": 11835,
+      "performance": {
+        "views": 145002,
+        "likes": 2400,
+        "comments": 57
+      }
+    },
+    {
+      "video_id": "I5YOjn1V1fU",
+      "title": "From Zero to $1.5B Unicorn in 2 Years | Decagon, Jesse Zhang",
+      "upload_date": "",
+      "duration_seconds": 707,
+      "description": "[EO's Partner Highlight] Click to access the free resource\nA Comprehensive Guide to Startup Fundraising\n👉 here: https://clickhubspot.com/utfa\n\nMeet Jesse Zhang, co-founder and CEO of Decagon,...",
+      "transcript_path": "data/edited_scripts/I5YOjn1V1fU.txt",
+      "character_count": 14243,
+      "performance": {
+        "views": 79435,
+        "likes": 1732,
+        "comments": 40
+      }
+    },
+    {
+      "video_id": "9MQNO9DbaYQ",
+      "title": "Pivot and Fail Fast: Most Valuable Lessons During Our 12-Year Journey to IPO  | SES AI, Qichao Hu",
+      "upload_date": "",
+      "duration_seconds": 894,
+      "description": "Meet Qichao Hu, Founder and CEO of SES AI, who shares his transformative journey from MIT researcher to public company leader. With a BS in Physics from MIT and a PhD in Applied Physics from...",
+      "transcript_path": "data/edited_scripts/9MQNO9DbaYQ.txt",
+      "character_count": 13122,
+      "performance": {
+        "views": 141290,
+        "likes": 0,
+        "comments": 68
+      }
+    },
+    {
+      "video_id": "I2ATdfrmPMw",
+      "title": "How We Shape the Future of Hardware | Mytra's Co-Founders Interview",
+      "upload_date": "",
+      "duration_seconds": 1366,
+      "description": "[EO's Partner Highlight] Click to access the free resource \"Navigating the Fundraising Maze: Startup Capital Annual Report & Insights\" : https://clickhubspot.com/1bu6 \n--\nThis is the co-founders'...",
+      "transcript_path": "data/edited_scripts/I2ATdfrmPMw.txt",
+      "character_count": 21992,
+      "performance": {
+        "views": 14757,
+        "likes": 412,
+        "comments": 8
+      }
+    },
+    {
+      "video_id": "Ewgx5oBvMG8",
+      "title": "This Insane AI Video Search Technology Selected by NVIDIA and Snowflake | Twelve Labs, Jae Lee",
+      "upload_date": "",
+      "duration_seconds": 1286,
+      "description": "Access the ‘5 Essential Resources for Using ChatGPT at Work’ provided by HubSpot for Startups here: https://clickhubspot.com/ecbs \n\nToday's story is about Jae Lee, the CEO of Twelve Labs....",
+      "transcript_path": "data/edited_scripts/Ewgx5oBvMG8.txt",
+      "character_count": 20631,
+      "performance": {
+        "views": 11869,
+        "likes": 291,
+        "comments": 15
+      }
+    },
+    {
+      "video_id": "e5Tf6g5sdD0",
+      "title": "Lessons from Investing in 700+ Startups | Goodwater Capital, Eric Kim",
+      "upload_date": "",
+      "duration_seconds": 1074,
+      "description": "Today's story is about Eric Kim from Goodwater Capital. Goodwater has made over 700 investments across 50 countries. Over the span of 9 years, they have backed more than 10 companies that surpassed...",
+      "transcript_path": "data/edited_scripts/e5Tf6g5sdD0.txt",
+      "character_count": 18258,
+      "performance": {
+        "views": 15333,
+        "likes": 452,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "B2SM5_4pSag",
+      "title": "How First-Time Founders Can Avoid Mistakes | Pelu Tran, Ferrum Health",
+      "upload_date": "",
+      "duration_seconds": 795,
+      "description": "What Are the Common Mistakes Early-Stage Founders Make?\n\nToday's story highlights the lessons learned by Pelu Tran, a serial entrepreneur who has successfully built two startups in the healthcare...",
+      "transcript_path": "data/edited_scripts/B2SM5_4pSag.txt",
+      "character_count": 14091,
+      "performance": {
+        "views": 11841,
+        "likes": 361,
+        "comments": 8
+      }
+    },
+    {
+      "video_id": "6jRFZbOxwrs",
+      "title": "To Run a $5.2B Company with $200M ARR, I Focused on This | 6Sense, Jason Zintak",
+      "upload_date": "",
+      "duration_seconds": 546,
+      "description": "Meet Jason Zintak, CEO of 6Sense, a $5.2B company redefining how B2B sales and marketing operates.\n\nEO's Partner Highlight : Try the #1 AI-powered personal productivity time-blocking tool,...",
+      "transcript_path": "data/edited_scripts/6jRFZbOxwrs.txt",
+      "character_count": 9476,
+      "performance": {
+        "views": 7631,
+        "likes": 169,
+        "comments": 5
+      }
+    },
+    {
+      "video_id": "249tl3G2WIM",
+      "title": "Building the Most Loved Analytics Tool ($1.05B, $100M ARR, 60+ NPS) | Mixpanel, Amir Movafaghi",
+      "upload_date": "",
+      "duration_seconds": 1107,
+      "description": "Meet Amir Movafaghi, CEO of Mixpanel, who shares the remarkable journey from crisis to success.\n---\n[EO's Partner Highlight]\nTry the #1 AI-powered personal productivity time-blocking tool,...",
+      "transcript_path": "data/edited_scripts/249tl3G2WIM.txt",
+      "character_count": 17959,
+      "performance": {
+        "views": 9123,
+        "likes": 217,
+        "comments": 8
+      }
+    },
+    {
+      "video_id": "qzTT6KjnmnM",
+      "title": "Advice from the Top 1% of SpaceX Engineer | Sift, Karthik Gollapudi",
+      "upload_date": "",
+      "duration_seconds": 943,
+      "description": "Before starting a business, shouldn't we first know what smartess is? In SpaceX, everyone is smarter than you. Surrounded by great people, learn what is smart and start a business.\n\nKarthik...",
+      "transcript_path": "data/edited_scripts/qzTT6KjnmnM.txt",
+      "character_count": 21022,
+      "performance": {
+        "views": 136425,
+        "likes": 3359,
+        "comments": 132
+      }
+    },
+    {
+      "video_id": "wgaFopzQI6Y",
+      "title": "How High Will Bitcoin Go? Here's the Better Question | Flare, Hugo Philion",
+      "upload_date": "",
+      "duration_seconds": 673,
+      "description": "Doge, Pepe, and countless meme coins flood the market, leading us to question the true potential of blockchain and cryptocurrency. In a sea of digital clutter, what is the real purpose of blockchai...",
+      "transcript_path": "data/edited_scripts/wgaFopzQI6Y.txt",
+      "character_count": 10750,
+      "performance": {
+        "views": 41198,
+        "likes": 1292,
+        "comments": 105
+      }
+    },
+    {
+      "video_id": "yhjsw2q790Q",
+      "title": "High School Dropout Made World’s #2 NFT Project | Pudgy Penguins, Luca Netz",
+      "upload_date": "",
+      "duration_seconds": 878,
+      "description": "Today’s story is about Luca Netz of IglooInc who runs Pudgy Penguin, the world’s second-largest NFT project. Pudgy Penguin is a collection of 8,888 penguin NFTs. Recently, Pudgy Penguin...",
+      "transcript_path": "data/edited_scripts/yhjsw2q790Q.txt",
+      "character_count": 16219,
+      "performance": {
+        "views": 8675,
+        "likes": 245,
+        "comments": 20
+      }
+    },
+    {
+      "video_id": "my7HXZSGecw",
+      "title": "Big Tech is NOT the Only Answer to Win | Relay.app, Jacob Bank",
+      "upload_date": "",
+      "duration_seconds": 865,
+      "description": "Today's guest is Jacob Bank, founder and CEO of Relay.app, a company that automates tedious, repetitive tasks like scheduling and onboarding, making teamwork smoother and more efficient.\nIn...",
+      "transcript_path": "data/edited_scripts/my7HXZSGecw.txt",
+      "character_count": 17145,
+      "performance": {
+        "views": 16895,
+        "likes": 532,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "EWOZrIZDbqc",
+      "title": "20 Years, CEO, Lessons Learned | Anza, Mike Hall",
+      "upload_date": "",
+      "duration_seconds": 523,
+      "description": "Anza provides comprehensive data on solar panel pricing, enabling businesses to build long-term strategies that incorporate both pricing and risk management. In this video, we meet Mike Hall,...",
+      "transcript_path": "data/edited_scripts/EWOZrIZDbqc.txt",
+      "character_count": 9384,
+      "performance": {
+        "views": 6990,
+        "likes": 172,
+        "comments": 14
+      }
+    },
+    {
+      "video_id": "WAPJ8F0Nv7Q",
+      "title": "How I built $2B AI Translation Startup | DeepL, Jarek Kutylowski",
+      "upload_date": "",
+      "duration_seconds": 831,
+      "description": "Today's story is about Jarek Kutylowski, the CEO of DeepL. DeepL is a platform that provides high-quality machine translation and AI-based writing tools, supporting multilingual communication...",
+      "transcript_path": "data/edited_scripts/WAPJ8F0Nv7Q.txt",
+      "character_count": 14065,
+      "performance": {
+        "views": 22806,
+        "likes": 524,
+        "comments": 20
+      }
+    },
+    {
+      "video_id": "NWZB3Q5cyJ8",
+      "title": "How I built $3B Next-Gen Identity Startup for AGI Era | World, Alex Blania",
+      "upload_date": "",
+      "duration_seconds": 960,
+      "description": "Today's video features the story of Alex Blania, the CEO of Tools of Humanity, who is leading the Worldcoin project. Recently, the project underwent a rebranding in San Francisco and is now...",
+      "transcript_path": "data/edited_scripts/NWZB3Q5cyJ8.txt",
+      "character_count": 17950,
+      "performance": {
+        "views": 26862,
+        "likes": 542,
+        "comments": 18
+      }
+    },
+    {
+      "video_id": "zFE51Sgl8hM",
+      "title": "How to Become Great at Startup SalesㅣPeter Ahn",
+      "upload_date": "",
+      "duration_seconds": 1005,
+      "description": "This video is about the perspectives and sales philosophy of Peter Ahn, an elite enterprise seller and leader behind Dropbox and other startups that have grown at lightning speed. Peter Ahn...",
+      "transcript_path": "data/edited_scripts/zFE51Sgl8hM.txt",
+      "character_count": 18242,
+      "performance": {
+        "views": 124353,
+        "likes": 4633,
+        "comments": 46
+      }
+    },
+    {
+      "video_id": "hAKFIl73I30",
+      "title": "How We Captured Silicon Valley in just 4 months | Crush-it Conference, Rahul Vohra",
+      "upload_date": "",
+      "duration_seconds": 935,
+      "description": "EO had a great opportunity to host the 'Crush-It Conference 2024' in San Francisco, featuring Rahul Vohra, Founder and CEO of Superhuman.\n\nIn this session, we explore how Superhuman rapidly...",
+      "transcript_path": "data/edited_scripts/hAKFIl73I30.txt",
+      "character_count": 17823,
+      "performance": {
+        "views": 14660,
+        "likes": 370,
+        "comments": 14
+      }
+    },
+    {
+      "video_id": "jMc6CjJvJoI",
+      "title": "Lessons from an Early-Stage Startup Over 4 Years | Handprint.tech",
+      "upload_date": "",
+      "duration_seconds": 724,
+      "description": "Today's story is about Simon Schillebeeckx, the CSO of Handprint.tech. In addition to his role as CSO at Handprint.tech, Simon is also a business professor at Singapore Management University....",
+      "transcript_path": "data/edited_scripts/jMc6CjJvJoI.txt",
+      "character_count": 10545,
+      "performance": {
+        "views": 15022,
+        "likes": 362,
+        "comments": 6
+      }
+    },
+    {
+      "video_id": "6FhMNvhTsrA",
+      "title": "Raising $140M at $2B to protect IP in the age of AIㅣSY Lee, STORY",
+      "upload_date": "",
+      "duration_seconds": 986,
+      "description": "This video presents an exclusive behind-the-scenes look at the Story documentary, featuring SY Lee, co-founder and CEO of Story, and produced by EO. It covered mainly SY's previous startup,...",
+      "transcript_path": "data/edited_scripts/6FhMNvhTsrA.txt",
+      "character_count": 16276,
+      "performance": {
+        "views": 13425,
+        "likes": 338,
+        "comments": 15
+      }
+    },
+    {
+      "video_id": "dqUPMR26vGg",
+      "title": "How I Built an $80M Annual Revenue Business in Just 5 Years | Sandbox VR, Steven Zhao",
+      "upload_date": "",
+      "duration_seconds": 810,
+      "description": "Join to explore the inspiring journey of Sandbox VR, a leader in the virtual reality gaming industry. Founded by Steven Zhao, CEO and Founder, Sandbox VR has revolutionized the way players...",
+      "transcript_path": "data/edited_scripts/dqUPMR26vGg.txt",
+      "character_count": 15465,
+      "performance": {
+        "views": 12310,
+        "likes": 322,
+        "comments": 14
+      }
+    },
+    {
+      "video_id": "EqAknJoNayk",
+      "title": "How to Build a Product with 10 Customers and a Boring Tech Stack | Gravity Climate",
+      "upload_date": "",
+      "duration_seconds": 818,
+      "description": "Today's protagonists are Saleh and Ted from Gravity Climate. Saleh made a name for himself as a skilled product manager at named startups like Salesforce and Samsara, while Ted dropped out...",
+      "transcript_path": "data/edited_scripts/EqAknJoNayk.txt",
+      "character_count": 14898,
+      "performance": {
+        "views": 24209,
+        "likes": 564,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "A-IsoneWlzE",
+      "title": "To Dominate the AI Race, Don’t “Start”a Company | LiveKit, Russ d'Sa",
+      "upload_date": "",
+      "duration_seconds": 808,
+      "description": "LiveKit, the transfer layer provider for ChatGPT's voice mode, is designed for ultra-low latency, resiliency, and massive scalability, ensuring seamless video and audio communication worldwide....",
+      "transcript_path": "data/edited_scripts/A-IsoneWlzE.txt",
+      "character_count": 12981,
+      "performance": {
+        "views": 150465,
+        "likes": 3596,
+        "comments": 86
+      }
+    },
+    {
+      "video_id": "ReRLbpC2SG4",
+      "title": "How I Gained 5M Users In Just 7 Months | OpusClip, Young Zhao",
+      "upload_date": "",
+      "duration_seconds": 757,
+      "description": "OpusClip is the number one AI video clipping tool. In just seven months since its launch, it has surpassed 5 million users, achieving rapid growth and continuously releasing new features. With...",
+      "transcript_path": "data/edited_scripts/ReRLbpC2SG4.txt",
+      "character_count": 12263,
+      "performance": {
+        "views": 180786,
+        "likes": 4718,
+        "comments": 123
+      }
+    },
+    {
+      "video_id": "paDb5w0DywU",
+      "title": "Still The Coolest Smartphone Startup in Tech Scene 2025 | Nothing, Carl Pei",
+      "upload_date": "",
+      "duration_seconds": 1204,
+      "description": "Today's guest is Carl Pei, the CEO of Nothing (nothing.tech). This smartphone company is rapidly growing among giants like Apple and Samsung. While many other large corporations have tried...",
+      "transcript_path": "data/edited_scripts/paDb5w0DywU.txt",
+      "character_count": 23520,
+      "performance": {
+        "views": 773922,
+        "likes": 15888,
+        "comments": 669
+      }
+    },
+    {
+      "video_id": "x6pJhK0LegI",
+      "title": "Is Web 3.0 Dead? | a16z Chris Dixon",
+      "upload_date": "",
+      "duration_seconds": 1191,
+      "description": "In this video, Chris Dixon discusses the key concepts from his latest book, ‘Read Write Own,’ which explores the future of the internet built on blockchain technology.\n\nChris Dixon is a...",
+      "transcript_path": "data/edited_scripts/x6pJhK0LegI.txt",
+      "character_count": 22163,
+      "performance": {
+        "views": 59955,
+        "likes": 1510,
+        "comments": 117
+      }
+    },
+    {
+      "video_id": "52oBJncG-D4",
+      "title": "What Makes a Seed & Series A Startup Worth Investing In? | Andrew Beebe, Obvious Ventures",
+      "upload_date": "",
+      "duration_seconds": 841,
+      "description": "Here's the story of Andrew Beebe, the Managing Director of Obvious Ventures. Obvious Ventures was founded by Ev Williams, the former CEO of Twitter. For over a decade, they have managed a $1...",
+      "transcript_path": "data/edited_scripts/52oBJncG-D4.txt",
+      "character_count": 14362,
+      "performance": {
+        "views": 12301,
+        "likes": 300,
+        "comments": 5
+      }
+    },
+    {
+      "video_id": "orZUIquv09E",
+      "title": "$2B Web3 Startup Building the Future of IP in the Age of AI | Team Story Documentary",
+      "upload_date": "",
+      "duration_seconds": 1891,
+      "description": "In this video, we explore Story, one of the fastest-growing startups revolutionizing the world of IP in the age of AI disruption with blockchain technology.\n\nStory recently announced its Series...",
+      "transcript_path": "data/edited_scripts/orZUIquv09E.txt",
+      "character_count": 34841,
+      "performance": {
+        "views": 161092,
+        "likes": 3377,
+        "comments": 169
+      }
+    },
+    {
+      "video_id": "FbeB91Jx_O8",
+      "title": "How to Win in the AI Hype Cycle | Guru, Rick Nucci",
+      "upload_date": "",
+      "duration_seconds": 1141,
+      "description": "Exclusive interview with Rick Nucci, Co-founder and CEO of Guru, a Philadelphia-based tech innovator challenging Silicon Valley norms.\n\nSince 2013, Guru has revolutionized enterprise information...",
+      "transcript_path": "data/edited_scripts/FbeB91Jx_O8.txt",
+      "character_count": 18002,
+      "performance": {
+        "views": 43767,
+        "likes": 0,
+        "comments": 27
+      }
+    },
+    {
+      "video_id": "kPXvf2-C_Hs",
+      "title": "How This AI Startup Grew by 100x in Just 6 Months | Fireworks AI, Lin Qiao",
+      "upload_date": "",
+      "duration_seconds": 715,
+      "description": "Fireworks AI is one of the fastest growing AI startup in the industry. Over the past six months, Fireworks AI has experienced a 100x increase in traffic. Also in July, the company successfully...",
+      "transcript_path": "data/edited_scripts/kPXvf2-C_Hs.txt",
+      "character_count": 8888,
+      "performance": {
+        "views": 80372,
+        "likes": 1687,
+        "comments": 49
+      }
+    },
+    {
+      "video_id": "rSe0wMBzFUw",
+      "title": "How I learned to invest from making 400+ investments | Paul Bragiel, 101 Fellowship",
+      "upload_date": "",
+      "duration_seconds": 752,
+      "description": "We're thrilled to welcome back Paul Bragiel from Golden Gate Ventures. Paul is recognized as a legendary investor, having been an early investor in Uber, Stripes, and Zappos. He’s also a...",
+      "transcript_path": "data/edited_scripts/rSe0wMBzFUw.txt",
+      "character_count": 15544,
+      "performance": {
+        "views": 8198,
+        "likes": 267,
+        "comments": 10
+      }
+    },
+    {
+      "video_id": "FMNqCthCZCc",
+      "title": "What It Takes to Reach $100M+ Revenue as a Startup | CircleCI",
+      "upload_date": "",
+      "duration_seconds": 1061,
+      "description": "CircleCI’s CEO, Jim Rose, and CTO, Rob Zuber, sit down to discuss a few of the lessons learned as they grew CircleCI to $100M+ in revenue. In this video, they share insights about how to...",
+      "transcript_path": "data/edited_scripts/FMNqCthCZCc.txt",
+      "character_count": 18240,
+      "performance": {
+        "views": 40052,
+        "likes": 1150,
+        "comments": 31
+      }
+    },
+    {
+      "video_id": "5d8tOtdcN2Q",
+      "title": "How I Built $825M Email Revolution Called Superhuman | Rahul Vohra",
+      "upload_date": "",
+      "duration_seconds": 1491,
+      "description": "Superhuman's CEO, Rahul, reveals his thrilling journey of growing his startup into a company valued at $825M. In this interview, Rahul explains in detail the core strategies that allowed him...",
+      "transcript_path": "data/edited_scripts/5d8tOtdcN2Q.txt",
+      "character_count": 22999,
+      "performance": {
+        "views": 126989,
+        "likes": 3317,
+        "comments": 88
+      }
+    },
+    {
+      "video_id": "n3sK790QHJg",
+      "title": "Lessons Learned as Second Time Founders | Paragon Co-founders, Brandon Foo, Ishmael Samuel",
+      "upload_date": "",
+      "duration_seconds": 609,
+      "description": "We sat down with Brandon Foo and Ishmael Samuel, co-founders of Paragon, an embedded integration platform that simplifies connecting your SaaS app to users' CRMs and other SaaS applications....",
+      "transcript_path": "data/edited_scripts/n3sK790QHJg.txt",
+      "character_count": 11039,
+      "performance": {
+        "views": 31395,
+        "likes": 764,
+        "comments": 17
+      }
+    },
+    {
+      "video_id": "VNlHzDTVSMk",
+      "title": "$650M Revenue Office FurnitureㅣFURSYS US expansion Documentary",
+      "upload_date": "",
+      "duration_seconds": 848,
+      "description": "FURSYS is Korea's number one office furniture company, renowned for its exceptional quality and innovative designs. Beyond office furniture, FURSYS operates a diverse range of furniture brands,...",
+      "transcript_path": "data/edited_scripts/VNlHzDTVSMk.txt",
+      "character_count": 11360,
+      "performance": {
+        "views": 13997,
+        "likes": 272,
+        "comments": 11
+      }
+    },
+    {
+      "video_id": "Q3EE-V-cMog",
+      "title": "Investors' Principles of Silicon Valley Taught in Stanford MBA | Ilya Strebulaev",
+      "upload_date": "",
+      "duration_seconds": 995,
+      "description": "Today, we've invited Professor Ilya Strebulaev, who has taught and researched venture capital at Stanford MBA for 20 years. While studying Silicon Valley investors, he focused on those consistently...",
+      "transcript_path": "data/edited_scripts/Q3EE-V-cMog.txt",
+      "character_count": 15481,
+      "performance": {
+        "views": 802556,
+        "likes": 16855,
+        "comments": 197
+      }
+    },
+    {
+      "video_id": "kO8-dxzkq_o",
+      "title": "How to find a Killer Idea worth $40B | Co-founder of Snowflake, Benoit Dageville",
+      "upload_date": "",
+      "duration_seconds": 876,
+      "description": "We met Benoit Dageville, the Co-founder of Snowflake at 2024 Snowflake Summit. Snowflake is a AI data cloud company which was recorded as the largest tech company IPO in history. Benoit shares...",
+      "transcript_path": "data/edited_scripts/kO8-dxzkq_o.txt",
+      "character_count": 12958,
+      "performance": {
+        "views": 98761,
+        "likes": 2059,
+        "comments": 38
+      }
+    },
+    {
+      "video_id": "O4a4bVIe5As",
+      "title": "Figma's HUGE AI Updates: ConFig 2024 in 14-Minutes",
+      "upload_date": "",
+      "duration_seconds": 938,
+      "description": "00:17 Figma AI\n06:06 Figma Slides\n09:56 The other highlights\n15:36 Q&A\n\n#figma #config #config2024 #FigmaAI #Figma #FigmaSlides\n\nEO stands for Entrepreneurship & Opportunities. As we're looking...",
+      "transcript_path": "data/edited_scripts/O4a4bVIe5As.txt",
+      "character_count": 15563,
+      "performance": {
+        "views": 51470,
+        "likes": 1177,
+        "comments": 45
+      }
+    },
+    {
+      "video_id": "UA_gYKaXHS0",
+      "title": "First Lesson Taught in Harvard MBA in 18 Minutes | Thales Teixeira",
+      "upload_date": "",
+      "duration_seconds": 1116,
+      "description": "Today's video features Thales S. Teixeira, V. Associate Professor at the University of California. Previously, he taught students at Harvard Business School for over 10 years. In his book,...",
+      "transcript_path": "data/edited_scripts/UA_gYKaXHS0.txt",
+      "character_count": 17492,
+      "performance": {
+        "views": 1302820,
+        "likes": 35479,
+        "comments": 500
+      }
+    },
+    {
+      "video_id": "4uqLAmjvBEY",
+      "title": "3 Lessons on Building $1B Business | John Kim, Sendbird",
+      "upload_date": "",
+      "duration_seconds": 892,
+      "description": "EO had the opportunity to host a founder meetup in collaboration with the Japanese founder community in San Francisco. John Kim, the founder of Sendbird—the first company to start in Korea...",
+      "transcript_path": "data/edited_scripts/4uqLAmjvBEY.txt",
+      "character_count": 17009,
+      "performance": {
+        "views": 22232,
+        "likes": 736,
+        "comments": 14
+      }
+    },
+    {
+      "video_id": "xgeu8JOxbnA",
+      "title": "How He Helped Double Lung Cancer Survival Rates from 13% to 26% | Dorian Averbuch",
+      "upload_date": "",
+      "duration_seconds": 662,
+      "description": "Today's story is about Dorian Averbuch. He has created and exited two companies in the healthcare field and is continuing to take on new challenges. Early diagnostics of cancer significantly...",
+      "transcript_path": "data/edited_scripts/xgeu8JOxbnA.txt",
+      "character_count": 8665,
+      "performance": {
+        "views": 2837,
+        "likes": 86,
+        "comments": 3
+      }
+    },
+    {
+      "video_id": "TRqA9XzGLok",
+      "title": "They Invested Their Own $1.5M For 6 Years in a Robot | Matic",
+      "upload_date": "",
+      "duration_seconds": 717,
+      "description": "Matic is a hardware startup. They are developing products with the goal of creating a fully automated robot. The Collision brothers of Stripe and Twitter founder Jack Dorsey have also invested...",
+      "transcript_path": "data/edited_scripts/TRqA9XzGLok.txt",
+      "character_count": 13423,
+      "performance": {
+        "views": 67827,
+        "likes": 860,
+        "comments": 35
+      }
+    },
+    {
+      "video_id": "4C8s6CmcJcQ",
+      "title": "How We Hit 1M Drone Delivery | Zipline, Keller Rinaudo Cliffton, Keenan Wyrobek",
+      "upload_date": "",
+      "duration_seconds": 689,
+      "description": "Zipline is transforming the delivery landscape with its advanced drone technology. Recently, Zipline achieved a significant milestone, reaching 1 million deliveries and accumulating 75 million...",
+      "transcript_path": "data/edited_scripts/4C8s6CmcJcQ.txt",
+      "character_count": 13863,
+      "performance": {
+        "views": 80051,
+        "likes": 1739,
+        "comments": 55
+      }
+    },
+    {
+      "video_id": "ZfNox6j8oxM",
+      "title": "What I learned from building $3.5B business | Verkada, Filip Kaliszan",
+      "upload_date": "",
+      "duration_seconds": 1086,
+      "description": "Today's story is about Filip Kaliszan, CEO of Verkada. While studying at Stanford, he encountered a problem with registering for classes using thick course catalogs and created CourseRank to...",
+      "transcript_path": "data/edited_scripts/ZfNox6j8oxM.txt",
+      "character_count": 20538,
+      "performance": {
+        "views": 25372,
+        "likes": 611,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "spGQpp7twgs",
+      "title": "Knowledge of A Lifelong Software Engineer | Benjamin Mann, Delivery Hero",
+      "upload_date": "",
+      "duration_seconds": 768,
+      "description": "#EO #Delivery #entrepreneur #Tech #impostersyndrome \nEO Builders Club | A Membership Community for certified founders & global entrepreneurs, connected through EO's powerful resources\nEnter...",
+      "transcript_path": "data/edited_scripts/spGQpp7twgs.txt",
+      "character_count": 12783,
+      "performance": {
+        "views": 16895,
+        "likes": 528,
+        "comments": 15
+      }
+    },
+    {
+      "video_id": "x2toVUTPEX4",
+      "title": "Building High-value AI Startups in 3 Days | John Whaley, Inception Studio",
+      "upload_date": "",
+      "duration_seconds": 1204,
+      "description": "#EO #entrepreneurship #learn #opportunity #ai #timemachine \nEO Builders Club | A Membership Community for certified founders & global entrepreneurs, connected through EO's powerful resources...",
+      "transcript_path": "data/edited_scripts/x2toVUTPEX4.txt",
+      "character_count": 23930,
+      "performance": {
+        "views": 31006,
+        "likes": 774,
+        "comments": 16
+      }
+    },
+    {
+      "video_id": "QSZoccA62Xk",
+      "title": "Age 27, Built a $230M AI Lawyer Business | Joshua Browder, DoNotPay",
+      "upload_date": "",
+      "duration_seconds": 729,
+      "description": "Meet Joshua Browder, CEO of DoNotPay, a company dedicated to saving people money by assisting with tasks like contesting parking tickets. Browder, who started the venture at 17 while a student...",
+      "transcript_path": "data/edited_scripts/QSZoccA62Xk.txt",
+      "character_count": 11998,
+      "performance": {
+        "views": 34717,
+        "likes": 1114,
+        "comments": 53
+      }
+    },
+    {
+      "video_id": "Nkb0vEp8ttw",
+      "title": "How Our Company Is Growing 4X ANNUALLY | Krepling Liam J.E Gerada",
+      "upload_date": "",
+      "duration_seconds": 756,
+      "description": "EO Builders Club | A Membership Community for certified founders & global entrepreneurs, connected through EO's powerful resources\nEnter Now 👉 https://bit.ly/3TQfmYW\n\nWe interviewed Liam...",
+      "transcript_path": "data/edited_scripts/Nkb0vEp8ttw.txt",
+      "character_count": 14661,
+      "performance": {
+        "views": 23475,
+        "likes": 537,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "0-gz1nW_CuE",
+      "title": "I just dropped out of Yale for startup | Martin, Dawson Chen",
+      "upload_date": "",
+      "duration_seconds": 759,
+      "description": "Today's story is about Dawson, who founded Martin. He has dreamed of starting a startup since he was young. While he was studying at Yale, he was accepted into Y-Combinator, prompting him to...",
+      "transcript_path": "data/edited_scripts/0-gz1nW_CuE.txt",
+      "character_count": 13244,
+      "performance": {
+        "views": 22601,
+        "likes": 620,
+        "comments": 48
+      }
+    },
+    {
+      "video_id": "JiSjMKptCKY",
+      "title": "10K Users from Product Launch Day 1 | TomoCredit Kristy Kim",
+      "upload_date": "",
+      "duration_seconds": 1177,
+      "description": "Kristy Kim, the founder of TomoCredit, is addressing the problem of immigrants with her second startup. TomoCredit currently serves 4 million customers, providing credit scores to legal immigrants...",
+      "transcript_path": "data/edited_scripts/JiSjMKptCKY.txt",
+      "character_count": 14980,
+      "performance": {
+        "views": 133662,
+        "likes": 1411,
+        "comments": 83
+      }
+    },
+    {
+      "video_id": "UWUjA-7YFao",
+      "title": "Life Advice from an Investor of 7 Unicorn Startups | Korelya Capital, Fleur Pellerin | Deal Makers",
+      "upload_date": "",
+      "duration_seconds": 726,
+      "description": "\"Don't set boundaries for yourself,\" says Fleur Pellerin, a former Minister of Culture in France who is now a venture capitalist, to young adults. Fleur was adopted by a French family at the...",
+      "transcript_path": "data/edited_scripts/UWUjA-7YFao.txt",
+      "character_count": 12458,
+      "performance": {
+        "views": 21332,
+        "likes": 506,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "1Rf-WLBusgI",
+      "title": "Sam Altman's plans to prove humanness in the age of AI | Worldcoin Tiago Sada",
+      "upload_date": "",
+      "duration_seconds": 554,
+      "description": "How can we differentiate between humans and AI in the future? Sam Altman has initiated the Worldcoin project in preparation for the future. In this video, Tiago, the Head of Product at Tools...",
+      "transcript_path": "data/edited_scripts/1Rf-WLBusgI.txt",
+      "character_count": 10699,
+      "performance": {
+        "views": 10473,
+        "likes": 204,
+        "comments": 12
+      }
+    },
+    {
+      "video_id": "8SOtQwSf7A8",
+      "title": "How I Built A $1.4B Software Giant Called AmplitudeㅣSpenser Skates, Amplitude",
+      "upload_date": "",
+      "duration_seconds": 1106,
+      "description": "Dive into the story of Spenser Skates, who, after a successful stint at MIT and an initial foray into the startup world with Sonalight, a voice recognition app, identified a groundbreaking...",
+      "transcript_path": "data/edited_scripts/8SOtQwSf7A8.txt",
+      "character_count": 19323,
+      "performance": {
+        "views": 537221,
+        "likes": 9973,
+        "comments": 276
+      }
+    },
+    {
+      "video_id": "-FOPuOIv7iM",
+      "title": "Leadership Lessons from a $30B Startup IPO | Snowflake CFO, Mike Scarpelli",
+      "upload_date": "",
+      "duration_seconds": 877,
+      "description": "Today, we have Mike Scarpelli, Chief Financial Officer of Snowflake, sharing insights into leadership and team management from his remarkable journey of steering three startup IPOs to success....",
+      "transcript_path": "data/edited_scripts/-FOPuOIv7iM.txt",
+      "character_count": 13984,
+      "performance": {
+        "views": 77082,
+        "likes": 1297,
+        "comments": 31
+      }
+    },
+    {
+      "video_id": "nLA90pa-34A",
+      "title": "Advice from investor who backed 40 Unicorns l Elad Gil",
+      "upload_date": "",
+      "duration_seconds": 1749,
+      "description": "Meet Elad Gil, a investor or advisor to prominent companies such as Airbnb, Airtable, Coinbase, Deel, Figma, Gusto, Notion, Pinterest, Stripe, and more. Watch the video to gain insights from...",
+      "transcript_path": "data/edited_scripts/nLA90pa-34A.txt",
+      "character_count": 36473,
+      "performance": {
+        "views": 128639,
+        "likes": 2976,
+        "comments": 71
+      }
+    },
+    {
+      "video_id": "TDBXoIiYFdQ",
+      "title": "How To Validate PMF EffectivelyㅣSean Ellis, Hacking Growth",
+      "upload_date": "",
+      "duration_seconds": 1028,
+      "description": "Meet Sean Ellis, the visionary author of \"Hacking Growth\" and a pioneer in the growth hacking movement, who has significantly impacted the way startups approach scalability and market penetration....",
+      "transcript_path": "data/edited_scripts/TDBXoIiYFdQ.txt",
+      "character_count": 17531,
+      "performance": {
+        "views": 44785,
+        "likes": 1328,
+        "comments": 27
+      }
+    },
+    {
+      "video_id": "-ON__S5haQ8",
+      "title": "How can PR be a game-changer for early-stage startups? | Six Eastern Emilie Gerber",
+      "upload_date": "",
+      "duration_seconds": 605,
+      "description": "EO Builders is a community for founders across the globe, connected through EO’s powerful resources. Through our private ‘Builders’ and ‘Founders’ Membership, members can access exclusive...",
+      "transcript_path": "data/edited_scripts/-ON__S5haQ8.txt",
+      "character_count": 11421,
+      "performance": {
+        "views": 6677,
+        "likes": 180,
+        "comments": 11
+      }
+    },
+    {
+      "video_id": "TlUZrm2jlCw",
+      "title": "How our AI Startup Grew 60x After a Pivot | Raza Habib, Jordan Burgess of Humanloop",
+      "upload_date": "",
+      "duration_seconds": 697,
+      "description": "Meet Raza Habib and Jordan Burgess, co-founders of Humanloop, an innovative startup revolutionizing AI Engineering. Their blend of expertise in machine learning and software engineering drives...",
+      "transcript_path": "data/edited_scripts/TlUZrm2jlCw.txt",
+      "character_count": 13877,
+      "performance": {
+        "views": 21098,
+        "likes": 412,
+        "comments": 11
+      }
+    },
+    {
+      "video_id": "au9ZSBgqRMc",
+      "title": "Startup Manages The 7th Largest Pension in the World | Endowus",
+      "upload_date": "",
+      "duration_seconds": 975,
+      "description": "Endowus is the largest Wealthtech startup in Singapore, managing the 7th largest assets globally and providing services recommending clients' assets. Sam, who serves as both the CIO and Chairman,...",
+      "transcript_path": "data/edited_scripts/au9ZSBgqRMc.txt",
+      "character_count": 16392,
+      "performance": {
+        "views": 12207,
+        "likes": 271,
+        "comments": 9
+      }
+    },
+    {
+      "video_id": "vDu2cWor3S4",
+      "title": "Secrets of an AI Chatbot Loved by 200+ Enterprises | Kata.ai Irzan Raditya",
+      "upload_date": "",
+      "duration_seconds": 901,
+      "description": "EO Builders is a community for founders across the globe, connected through EO’s powerful resources. Through our private ‘Builders’ and ‘Founders’ Membership, members can access exclusive...",
+      "transcript_path": "data/edited_scripts/vDu2cWor3S4.txt",
+      "character_count": 16112,
+      "performance": {
+        "views": 14961,
+        "likes": 380,
+        "comments": 18
+      }
+    },
+    {
+      "video_id": "h_aGO5CVZh8",
+      "title": "Sold my product to 40,000 companies. This is HowㅣMatt Martin Clockwise (2/2)",
+      "upload_date": "",
+      "duration_seconds": 841,
+      "description": "Don't miss our interview with Matt Martin, the founder of Clockwise, a revolutionary AI scheduling and calendar automation tool. Clockwise makes organizing your time effortless, whether you're...",
+      "transcript_path": "data/edited_scripts/h_aGO5CVZh8.txt",
+      "character_count": 16311,
+      "performance": {
+        "views": 11264,
+        "likes": 305,
+        "comments": 12
+      }
+    },
+    {
+      "video_id": "Z1sl-XrsAOo",
+      "title": "Why Entrepreneurs Must Trust Their IntuitionㅣRewind AI, Optimizely, Dan Siroker",
+      "upload_date": "",
+      "duration_seconds": 1364,
+      "description": "Meet Dan Siroker, the forward-thinking co-founder and CEO of Rewind AI, who has led the company to notable success with a valuation of $350 million. Starting with a unique vision to augment...",
+      "transcript_path": "data/edited_scripts/Z1sl-XrsAOo.txt",
+      "character_count": 27550,
+      "performance": {
+        "views": 28316,
+        "likes": 744,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "6-y4oLTlPWM",
+      "title": "Best Leadership Advice from a CEO at a $1B Company | Sift, Kris Nagel (2/2)",
+      "upload_date": "",
+      "duration_seconds": 627,
+      "description": "Today's story is about Kris Nagel, the CEO of Sift. With his 30-year career, Kris is a sales expert and skillful CEO in a number of companies. Sift is a company specializing in AI-powered solutions...",
+      "transcript_path": "data/edited_scripts/6-y4oLTlPWM.txt",
+      "character_count": 11356,
+      "performance": {
+        "views": 6550,
+        "likes": 213,
+        "comments": 4
+      }
+    },
+    {
+      "video_id": "UU4GnqmLpSQ",
+      "title": "Best Sales Advice from a CEO at a $1B Company | Sift, Kris Nagel (1/2)",
+      "upload_date": "",
+      "duration_seconds": 605,
+      "description": "Today's story is about Kris Nagel, the CEO of Sift. With his 30-year career, Kris is a sales expert and skillful CEO in a number of companies. Sift is a company specializing in AI-powered solutions...",
+      "transcript_path": "data/edited_scripts/UU4GnqmLpSQ.txt",
+      "character_count": 11151,
+      "performance": {
+        "views": 16469,
+        "likes": 529,
+        "comments": 7
+      }
+    },
+    {
+      "video_id": "6Bso2GYLoME",
+      "title": "How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin",
+      "upload_date": "",
+      "duration_seconds": 1225,
+      "description": "Meet Vlad Magdalin, the innovative co-founder and CEO of Webflow, who has navigated the company to remarkable heights with a valuation of $4 billion and revenues hitting $100 million. Starting...",
+      "transcript_path": "data/edited_scripts/6Bso2GYLoME.txt",
+      "character_count": 25237,
+      "performance": {
+        "views": 209408,
+        "likes": 6040,
+        "comments": 139
+      }
+    },
+    {
+      "video_id": "99qc199Y9vQ",
+      "title": "How to Build a Profitable Product from Day 1 | Smith.ai Aaron Lee",
+      "upload_date": "",
+      "duration_seconds": 724,
+      "description": "Aaron Lee, CEO and founder of Smith.AI, offers valuable insights for aspiring entrepreneurs in this video. Smith.AI is a startup that specializes in providing AI receptionist services for small...",
+      "transcript_path": "data/edited_scripts/99qc199Y9vQ.txt",
+      "character_count": 13078,
+      "performance": {
+        "views": 54250,
+        "likes": 1444,
+        "comments": 26
+      }
+    },
+    {
+      "video_id": "YRQfzph-Yqg",
+      "title": "How I Built A $250M App That Ranked #1 in 150 CountriesㅣCambly, Sameer Shariff",
+      "upload_date": "",
+      "duration_seconds": 877,
+      "description": "Join us for an enlightening conversation with Sameer Shariff, the visionary co-founder and CEO of Cambly. Launched in 2012, Cambly has emerged as a leading platform, providing on-demand access...",
+      "transcript_path": "data/edited_scripts/YRQfzph-Yqg.txt",
+      "character_count": 16923,
+      "performance": {
+        "views": 24940,
+        "likes": 568,
+        "comments": 20
+      }
+    },
+    {
+      "video_id": "PjaKQgV9PRk",
+      "title": "This is How Top Engineers Manage Their TimeㅣClockwise Matt Martin (1/2)",
+      "upload_date": "",
+      "duration_seconds": 669,
+      "description": "We are privileged to interview Matt Martin, the founder of Clockwise, the revolutionary AI scheduling and calendar automation tool. With Clockwise, organizing your time becomes effortless,...",
+      "transcript_path": "data/edited_scripts/PjaKQgV9PRk.txt",
+      "character_count": 13538,
+      "performance": {
+        "views": 12308,
+        "likes": 294,
+        "comments": 20
+      }
+    },
+    {
+      "video_id": "rca-WQummO4",
+      "title": "Cigarettes will disappear in 10 yearsㅣPhilip Morris International Jacek Olczak",
+      "upload_date": "",
+      "duration_seconds": 890,
+      "description": "In this insightful interview, EO sits down with Jacek Olczak, the Chief Executive Officer of Philip Morris International (PMI), the world's foremost cigarette giant. Over the past decade, PMI...",
+      "transcript_path": "data/edited_scripts/rca-WQummO4.txt",
+      "character_count": 15978,
+      "performance": {
+        "views": 1064471,
+        "likes": 2182,
+        "comments": 112
+      }
+    },
+    {
+      "video_id": "K0s86-6kqvs",
+      "title": "$100M Food Truck Brand After Betrayal by Cofounder | CUPBOP (3/3)",
+      "upload_date": "",
+      "duration_seconds": 732,
+      "description": "Today marks the final chapter of the Cupbop series. In the previous story, our protagonist Jung was ousted from the CEO position but goes through a series of events and eventually makes a comeback....",
+      "transcript_path": "data/edited_scripts/K0s86-6kqvs.txt",
+      "character_count": 9294,
+      "performance": {
+        "views": 33102,
+        "likes": 663,
+        "comments": 27
+      }
+    },
+    {
+      "video_id": "xxeUVwjUm5M",
+      "title": "From a Graduate Who Left Google to Stripe's 28th Employee | Linear Cristina Cordova",
+      "upload_date": "",
+      "duration_seconds": 788,
+      "description": "Get ready to be inspired by the incredible career journey of Cristina Cordova, the Chief Operating Officer (COO) at Linear. Cristina kickstarted her successful career in partnerships, paving...",
+      "transcript_path": "data/edited_scripts/xxeUVwjUm5M.txt",
+      "character_count": 13265,
+      "performance": {
+        "views": 15630,
+        "likes": 398,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "CjTTSa33axg",
+      "title": "5 Key Advice on Starting an AI Business | Syncly Joseph Lee",
+      "upload_date": "",
+      "duration_seconds": 571,
+      "description": "In this interview, we have Joseph Lee, the founder of Syncly, a Y Combinator-backed startup that is revolutionizing the analysis of customer feedback at scale through AI. Prior to Syncly, Joseph...",
+      "transcript_path": "data/edited_scripts/CjTTSa33axg.txt",
+      "character_count": 9305,
+      "performance": {
+        "views": 87109,
+        "likes": 2246,
+        "comments": 28
+      }
+    },
+    {
+      "video_id": "_1oX3Sas8u8",
+      "title": "How I Built Silicon Valley's Most Beloved Coffee Brand | Philz Coffee, Jacob Jaber",
+      "upload_date": "",
+      "duration_seconds": 626,
+      "description": "Grab a cup and let’s watch our interview with Jacob Jaber, the guy behind Philz Coffee!\n\nHis dad faced tough times as an immigrant from Palestine. He did many jobs before founding Philz Coffee,...",
+      "transcript_path": "data/edited_scripts/_1oX3Sas8u8.txt",
+      "character_count": 10545,
+      "performance": {
+        "views": 12004,
+        "likes": 384,
+        "comments": 17
+      }
+    },
+    {
+      "video_id": "ofh5VdqQvwI",
+      "title": "War survivor builds a 400% growing AI startup | Ntropy Naré Vardanyan",
+      "upload_date": "",
+      "duration_seconds": 809,
+      "description": "Today's story is about Naré, the CEO of Ntropy. Ntropy sells API products that use AI to simplify complex banking information. Naré is from Armenia. She has grown up during the Armenian War....",
+      "transcript_path": "data/edited_scripts/ofh5VdqQvwI.txt",
+      "character_count": 14994,
+      "performance": {
+        "views": 18005,
+        "likes": 529,
+        "comments": 16
+      }
+    },
+    {
+      "video_id": "uXNtZjiwhEc",
+      "title": "How we convinced the US Government to allow event trading l Kalshi Tarek Mansour",
+      "upload_date": "",
+      "duration_seconds": 638,
+      "description": "Endless challenges propelled Tarek to uncover Kalshi. Despite everyone's doubts causing anxiety, Tarek persevered without stopping. He held onto his faith and entrepreneurial spirit until he...",
+      "transcript_path": "data/edited_scripts/uXNtZjiwhEc.txt",
+      "character_count": 14039,
+      "performance": {
+        "views": 14333,
+        "likes": 416,
+        "comments": 38
+      }
+    },
+    {
+      "video_id": "KYho32uO1dc",
+      "title": "From Teenage Blogger to $250M Startup FounderㅣCircle Sid Yadav",
+      "upload_date": "",
+      "duration_seconds": 774,
+      "description": "Discover the inspiring journey of Sid Yadav, the visionary co-founder and CEO of Circle. From his early days as a reserved tech blogger in New Zealand to becoming a formidable entrepreneur...",
+      "transcript_path": "data/edited_scripts/KYho32uO1dc.txt",
+      "character_count": 13986,
+      "performance": {
+        "views": 39660,
+        "likes": 1081,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "FZieYYj0ImE",
+      "title": "$8B in Just 2 Years, The World's Fastest-Growing Startup | Perplexity AI, Aravind Srinivas",
+      "upload_date": "",
+      "duration_seconds": 708,
+      "description": "Dive into the future of internet search with Perplexity AI!  In just 18 months, this startup has reached 10 million Monthly Active Users and valued at $1B, which makes Perplexity hit unicorn...",
+      "transcript_path": "data/edited_scripts/FZieYYj0ImE.txt",
+      "character_count": 13671,
+      "performance": {
+        "views": 1087062,
+        "likes": 19383,
+        "comments": 567
+      }
+    },
+    {
+      "video_id": "RqIqlmb8BYM",
+      "title": "Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho",
+      "upload_date": "",
+      "duration_seconds": 1213,
+      "description": "Sung Cho is the CEO of Chartmetric, a remarkable B2B SaaS company that collects and analyzes music data from streaming platforms and social media to predict the future of the music industry....",
+      "transcript_path": "data/edited_scripts/RqIqlmb8BYM.txt",
+      "character_count": 16434,
+      "performance": {
+        "views": 77565,
+        "likes": 1974,
+        "comments": 61
+      }
+    },
+    {
+      "video_id": "OQdvVgLZHd0",
+      "title": "How to be successful with EVERY IDEA you have l Martin Warner",
+      "upload_date": "",
+      "duration_seconds": 690,
+      "description": "Have you ever wondered how an entrepreneur can launch numerous startups and succeed at all of them? Martin Warner, a British entrepreneur, will tell you the secret! Martin has founded 5+ startups...",
+      "transcript_path": "data/edited_scripts/OQdvVgLZHd0.txt",
+      "character_count": 12822,
+      "performance": {
+        "views": 47094,
+        "likes": 1485,
+        "comments": 40
+      }
+    },
+    {
+      "video_id": "4Je1TweGDfY",
+      "title": "What Are Superconductors? Find Out in Just 10 Min | Yale Yu He",
+      "upload_date": "",
+      "duration_seconds": 766,
+      "description": "There was a term that garnered significant attention in the global scientific community. It's the room-temperature superconductor. We invited Professor Yu He from Yale University to create...",
+      "transcript_path": "data/edited_scripts/4Je1TweGDfY.txt",
+      "character_count": 11968,
+      "performance": {
+        "views": 5667,
+        "likes": 142,
+        "comments": 8
+      }
+    },
+    {
+      "video_id": "2JmfDKOyQcI",
+      "title": "Advice from the Top 1% of Software Engineer | Exaltitude Jean Lee",
+      "upload_date": "",
+      "duration_seconds": 544,
+      "description": "What are the ways to become a highly valuable person? We had the privilege of interviewing the remarkable Jean Lee, an early engineering member of WhatsApp with over 17 years of invaluable...",
+      "transcript_path": "data/edited_scripts/2JmfDKOyQcI.txt",
+      "character_count": 8956,
+      "performance": {
+        "views": 511965,
+        "likes": 17389,
+        "comments": 228
+      }
+    },
+    {
+      "video_id": "KWCFX76bkO4",
+      "title": "When $100M Business Ownership Ends a Friendship | CUPBOP EP.2",
+      "upload_date": "",
+      "duration_seconds": 987,
+      "description": "Have you heard that Asian street food is famous in Utah? Today's story begins with a food truck and unfolds into the tale of Cupbop, an Asian street food sensation. However, do you know there's...",
+      "transcript_path": "data/edited_scripts/KWCFX76bkO4.txt",
+      "character_count": 14077,
+      "performance": {
+        "views": 23921,
+        "likes": 440,
+        "comments": 23
+      }
+    },
+    {
+      "video_id": "8-Vhkq_oPpk",
+      "title": "A Story that Unlocks Your Limit to GrowthㅣAditya Agarwal",
+      "upload_date": "",
+      "duration_seconds": 904,
+      "description": "Welcome to the premiere episode of our VC interview series, 'Deal Makers'. In this episode, we're excited to have Aditya Agarwal with us. Aditya is not only a co-founder and partner at South...",
+      "transcript_path": "data/edited_scripts/8-Vhkq_oPpk.txt",
+      "character_count": 17126,
+      "performance": {
+        "views": 84364,
+        "likes": 2100,
+        "comments": 31
+      }
+    },
+    {
+      "video_id": "WeNnc3_xn2A",
+      "title": "Behind Figma's IPO: The Principles of Building Products People Love | Yuhki Yamashita, Figma CPO",
+      "upload_date": "",
+      "duration_seconds": 1162,
+      "description": "The Essential Playbook for Every PM\n\nYuhki Yamashita is the Chief Product Officer (CPO) at Figma. His career began as a Product Manager (PM) at Microsoft, where he combined his childhood interest...",
+      "transcript_path": "data/edited_scripts/WeNnc3_xn2A.txt",
+      "character_count": 20762,
+      "performance": {
+        "views": 172033,
+        "likes": 3863,
+        "comments": 37
+      }
+    },
+    {
+      "video_id": "YN7DT39f_Ak",
+      "title": "College Dropout Builds $30M Startup While Fighting Cancer | Jenni AI David Park",
+      "upload_date": "",
+      "duration_seconds": 1160,
+      "description": "Today's story is about David Park, the CEO of Jenni AI. Jenni AI is a service that uses AI to help researchers and graduate students conducting academic research to quickly and easily find...",
+      "transcript_path": "data/edited_scripts/YN7DT39f_Ak.txt",
+      "character_count": 23645,
+      "performance": {
+        "views": 141748,
+        "likes": 5498,
+        "comments": 221
+      }
+    },
+    {
+      "video_id": "H4VpVMKx19k",
+      "title": "A Story of a Mentor of Outstanding PMs in Silicon Valley Today | Mick Johnson Director's Cut",
+      "upload_date": "",
+      "duration_seconds": 942,
+      "description": "Experience Mick Johnson's story in director's cut. Mick is an outstanding Product Manager who has mentored over a hundred of Silicon Valley's hottest PMs. We've compiled insights and narratives...",
+      "transcript_path": "data/edited_scripts/H4VpVMKx19k.txt",
+      "character_count": 15026,
+      "performance": {
+        "views": 22605,
+        "likes": 804,
+        "comments": 17
+      }
+    },
+    {
+      "video_id": "JpYA7WXkHyI",
+      "title": "How to be a creative thinker | Carnegie Mellon University Po-Shen Loh",
+      "upload_date": "",
+      "duration_seconds": 895,
+      "description": "Have you ever wondered whether you lack creativity? Po-Shen Loh, a social entrepreneur, illuminates issues within the education system while instructing tens of thousands of diverse students....",
+      "transcript_path": "data/edited_scripts/JpYA7WXkHyI.txt",
+      "character_count": 16080,
+      "performance": {
+        "views": 3620889,
+        "likes": 136083,
+        "comments": 1152
+      }
+    },
+    {
+      "video_id": "_vizUm1F2Jo",
+      "title": "Behind What Seems Like an Overnight Success | Runway Siqi Chen",
+      "upload_date": "",
+      "duration_seconds": 733,
+      "description": "Meet Siqi Chen, the CEO and founder of Runway, an innovative finance platform bridging business expertise with numbers, empowering every member of a company to grasp business intricacies. Siqi...",
+      "transcript_path": "data/edited_scripts/_vizUm1F2Jo.txt",
+      "character_count": 14938,
+      "performance": {
+        "views": 49786,
+        "likes": 1054,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "VFmBNFy3z8Y",
+      "title": "Lessons learned from stepping down as a CEO l Bob Tinker & TaeHea Nahm EP 03",
+      "upload_date": "",
+      "duration_seconds": 1111,
+      "description": "As a company progresses through various stages of growth, the demand for diverse skillsets and leadership styles becomes paramount. Leaders and managers must adapt to these evolving requirements,...",
+      "transcript_path": "data/edited_scripts/VFmBNFy3z8Y.txt",
+      "character_count": 18180,
+      "performance": {
+        "views": 5397,
+        "likes": 170,
+        "comments": 4
+      }
+    },
+    {
+      "video_id": "B8FIp_VL1t8",
+      "title": "Stop Overthinking and Just Start Now | Vesto, Benjamin Döpfner",
+      "upload_date": "",
+      "duration_seconds": 706,
+      "description": "Benjamin Döpfner, the CEO of Vesto, is the youngest founder registered with the SEC. He founded his first company at the age of 15 and became a millionaire upon its exit. However, he later...",
+      "transcript_path": "data/edited_scripts/B8FIp_VL1t8.txt",
+      "character_count": 15686,
+      "performance": {
+        "views": 53473,
+        "likes": 1524,
+        "comments": 49
+      }
+    },
+    {
+      "video_id": "WosrxTp3ifA",
+      "title": "Negotiation is Problem Solving, explained by 20 years experienced expert | Wharton Business School",
+      "upload_date": "",
+      "duration_seconds": 495,
+      "description": "EO stands for Entrepreneurship & Opportunities. We're looking for more inspiring stories of entrepreneurs all over the world, so don't hesitate to contact us! :)\n\nSubscribe EO Channel\n🌏...",
+      "transcript_path": "data/edited_scripts/WosrxTp3ifA.txt",
+      "character_count": 8407,
+      "performance": {
+        "views": 5815,
+        "likes": 194,
+        "comments": 6
+      }
+    },
+    {
+      "video_id": "v6DWGV3_n6k",
+      "title": "Shark Tank-featured food truck builds $100M brand beloved by Americans | CUPBOP EP.1",
+      "upload_date": "",
+      "duration_seconds": 1003,
+      "description": "Have you heard that Asian street food is famous in Utah? Today's story begins with a food truck and unfolds into the tale of Cupbop, an Asian street food sensation. Despite the relatively low...",
+      "transcript_path": "data/edited_scripts/v6DWGV3_n6k.txt",
+      "character_count": 13958,
+      "performance": {
+        "views": 29500,
+        "likes": 595,
+        "comments": 26
+      }
+    },
+    {
+      "video_id": "3RYUA-ccgbw",
+      "title": "$400M-Worth Issue Tracker with No Marketing | Linear Karri Saarinen",
+      "upload_date": "",
+      "duration_seconds": 827,
+      "description": "In this video, we're diving into the story of Kaari Saarinen, the brains behind Linear, who's been turning heads in the project management world, capturing the interest and love of not just...",
+      "transcript_path": "data/edited_scripts/3RYUA-ccgbw.txt",
+      "character_count": 16503,
+      "performance": {
+        "views": 13068,
+        "likes": 331,
+        "comments": 12
+      }
+    },
+    {
+      "video_id": "dXeqodByjT4",
+      "title": "From Zero to $500 Million: The GlossGenius Story | Danielle Cohen-Shohet",
+      "upload_date": "",
+      "duration_seconds": 840,
+      "description": "In this inspiring episode, we delve into the remarkable journey of Danielle Cohen-Shohet, the visionary CEO behind GlossGenius. We uncover the extraordinary story of how GlossGenius evolved...",
+      "transcript_path": "data/edited_scripts/dXeqodByjT4.txt",
+      "character_count": 14427,
+      "performance": {
+        "views": 19889,
+        "likes": 493,
+        "comments": 15
+      }
+    },
+    {
+      "video_id": "yB2IenqIRL8",
+      "title": "A High School Dropout Builds $1B Startup at 23 | Vise Samir Vasavada",
+      "upload_date": "",
+      "duration_seconds": 833,
+      "description": "Today's story is about Samir, who operates Vise. Samir, unbelievably, started taking university classes at the age of 12 and founded his first company at the age of 13. Faced with the failure...",
+      "transcript_path": "data/edited_scripts/yB2IenqIRL8.txt",
+      "character_count": 16435,
+      "performance": {
+        "views": 1654090,
+        "likes": 29420,
+        "comments": 623
+      }
+    },
+    {
+      "video_id": "2FbCdBFnZbM",
+      "title": "Loom's Road to $975 Million Exit by Atlassian - Shahed Khan",
+      "upload_date": "",
+      "duration_seconds": 1109,
+      "description": "Explore Loom's incredible startup journey, as they soared from a humble beginning to a staggering $975 million acquisition by the leading team collaboration software giant, Atlassian. Marking...",
+      "transcript_path": "data/edited_scripts/2FbCdBFnZbM.txt",
+      "character_count": 18673,
+      "performance": {
+        "views": 113509,
+        "likes": 1923,
+        "comments": 45
+      }
+    },
+    {
+      "video_id": "b2AR3WHOlGI",
+      "title": "How 2 Engineers Are Dominating the Cannabis Industry l Nabis Jun and Vince",
+      "upload_date": "",
+      "duration_seconds": 601,
+      "description": "It is with great privilege that we bring to you the inspiring story of two exceptional young founders who have redefined the landscape of cannabis distribution. Allow us to introduce Jun and...",
+      "transcript_path": "data/edited_scripts/b2AR3WHOlGI.txt",
+      "character_count": 10313,
+      "performance": {
+        "views": 276735,
+        "likes": 6003,
+        "comments": 272
+      }
+    },
+    {
+      "video_id": "HDsFyHQtLHI",
+      "title": "My 2 Startups didn't work, But here's what I've become | Meta Mick Johnson (2/2)",
+      "upload_date": "",
+      "duration_seconds": 438,
+      "description": "Mick Johnson is known as the PM of PMs in Silicon Valley. He has founded two startups and has experience in building products and mentoring at Silicon Valley's big tech companies like Facebook...",
+      "transcript_path": "data/edited_scripts/HDsFyHQtLHI.txt",
+      "character_count": 7084,
+      "performance": {
+        "views": 16963,
+        "likes": 526,
+        "comments": 8
+      }
+    },
+    {
+      "video_id": "rB7haeRWib4",
+      "title": "4 Lessons that resulted in a 10x growth for 100+ PMs | Meta Mick Johnson (1/2)",
+      "upload_date": "",
+      "duration_seconds": 594,
+      "description": "Mick Johnson is known as the PM of PMs in Silicon Valley. He has founded two startups and has experience in building products and mentoring at Silicon Valley's big tech companies like Facebook...",
+      "transcript_path": "data/edited_scripts/rB7haeRWib4.txt",
+      "character_count": 9461,
+      "performance": {
+        "views": 43252,
+        "likes": 1312,
+        "comments": 17
+      }
+    },
+    {
+      "video_id": "4D94pqCOKyc",
+      "title": "$270 Million Coffee Empire in Indonesia: The Journey Unveiled - Kopi Kenangan | Edward Tritanata",
+      "upload_date": "",
+      "duration_seconds": 533,
+      "description": "In this captivating video, we delve into the extraordinary journey of Edward Tritanata, a name synonymous with resilience and innovation in the world of coffee. From humble beginnings and a...",
+      "transcript_path": "data/edited_scripts/4D94pqCOKyc.txt",
+      "character_count": 8901,
+      "performance": {
+        "views": 15772,
+        "likes": 563,
+        "comments": 25
+      }
+    },
+    {
+      "video_id": "F6kX9yJ89Ac",
+      "title": "The Relationship Between Technology and Business Success | Thales Teixeira",
+      "upload_date": "",
+      "duration_seconds": 882,
+      "description": "Hello, I'm Yunjoo Shin, the producer at EO. \nToday, our topic is the relationship between technology and achieving business success.\n\nIn the  2010s, Tech Giants led what we often call \"disruptive...",
+      "transcript_path": "data/edited_scripts/F6kX9yJ89Ac.txt",
+      "character_count": 14960,
+      "performance": {
+        "views": 34815,
+        "likes": 1023,
+        "comments": 24
+      }
+    },
+    {
+      "video_id": "KKH5ncDaHyw",
+      "title": "You MUST Watch This Before Tackling Problems | Pinhome Dara & Ahmed #eo #Indonesia #property",
+      "upload_date": "",
+      "duration_seconds": 550,
+      "description": "Unlock the secrets to effective problem-solving with Dara, the visionary CEO of Pinhome in Indonesia, in our latest video. Join us as we delve into the inspiring journey of the co-founders...",
+      "transcript_path": "data/edited_scripts/KKH5ncDaHyw.txt",
+      "character_count": 9402,
+      "performance": {
+        "views": 16680,
+        "likes": 529,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "RSBjP59mLUc",
+      "title": "What I learned about Failure after 26 Years of Research at Harvard |Tom Eisenmann",
+      "upload_date": "",
+      "duration_seconds": 790,
+      "description": "Hello, I'm Yunjoo Shin, the producer at EO. \nToday, our topic is the often-overlooked aspect of startups: failures.\n\nWhile we frequently hear about the success stories of startups, the world...",
+      "transcript_path": "data/edited_scripts/RSBjP59mLUc.txt",
+      "character_count": 12404,
+      "performance": {
+        "views": 19979,
+        "likes": 541,
+        "comments": 17
+      }
+    },
+    {
+      "video_id": "gEAfvdwET3g",
+      "title": "How we Gained 3 Million Users in Just 3 Months! | Gamma CEO Grant Lee & Jon Noronha",
+      "upload_date": "",
+      "duration_seconds": 939,
+      "description": "🎥 In this exclusive interview, join us as we delve into the fascinating journey of Grant and Jon, the visionary CEOs of Gamma. They share their insights on embracing experimentation, their...",
+      "transcript_path": "data/edited_scripts/gEAfvdwET3g.txt",
+      "character_count": 17503,
+      "performance": {
+        "views": 51169,
+        "likes": 1315,
+        "comments": 27
+      }
+    },
+    {
+      "video_id": "6gbeuzbsmIQ",
+      "title": "Life Lessons that Sustained Me | Sherie Ng",
+      "upload_date": "",
+      "duration_seconds": 567,
+      "description": "Today's story is about Sherie Ng. She has worked in leadership roles at tech giants like Google, Microsoft, and Nice System. While her career may seem glamorous, her early life was marked by...",
+      "transcript_path": "data/edited_scripts/6gbeuzbsmIQ.txt",
+      "character_count": 8130,
+      "performance": {
+        "views": 10828,
+        "likes": 320,
+        "comments": 18
+      }
+    },
+    {
+      "video_id": "bdWokDQda_Y",
+      "title": "A motel TV-watching college student builds a $1.4B company at 30 | FiscalNote Director's Cut",
+      "upload_date": "",
+      "duration_seconds": 983,
+      "description": "EO stands for Entrepreneurship & Opportunities. We're looking for more inspiring stories of entrepreneurs all over the world, so don't hesitate to contact us! :)\n\nSubscribe EO Channel\n🌏...",
+      "transcript_path": "data/edited_scripts/bdWokDQda_Y.txt",
+      "character_count": 21488,
+      "performance": {
+        "views": 73979,
+        "likes": 1758,
+        "comments": 73
+      }
+    },
+    {
+      "video_id": "PZ-NZxubqjg",
+      "title": "Essential Business Strategy : Forecasting Future Trends | Vinnie Lauria",
+      "upload_date": "",
+      "duration_seconds": 668,
+      "description": "Join us in this enlightening video featuring Vinnie Lauria, co-founder of Golden Gate Ventures, as we delve into the world of market prediction strategy in Southeast Asia. Discover how Vinnie's...",
+      "transcript_path": "data/edited_scripts/PZ-NZxubqjg.txt",
+      "character_count": 12227,
+      "performance": {
+        "views": 31562,
+        "likes": 711,
+        "comments": 56
+      }
+    },
+    {
+      "video_id": "T7tuUz1SRuE",
+      "title": "An honest story about the hardships and team | Bobobox",
+      "upload_date": "",
+      "duration_seconds": 883,
+      "description": "Today's story features Indra Gunawan from Bobobox. Indra, in his early years, had to venture into the business world to support his family due to his father's sudden stroke. After establishing...",
+      "transcript_path": "data/edited_scripts/T7tuUz1SRuE.txt",
+      "character_count": 12684,
+      "performance": {
+        "views": 7358,
+        "likes": 219,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "aOGMymXPgrk",
+      "title": "Why 90% of Startup CEOs Are Failing | John Kim Sendbird",
+      "upload_date": "",
+      "duration_seconds": 485,
+      "description": "In this video, we present valuable wisdom shared by John Kim, the CEO of Sendbird. Having achieved the status of a triumphant entrepreneur after over a decade of relentless dedication, he has...",
+      "transcript_path": "data/edited_scripts/aOGMymXPgrk.txt",
+      "character_count": 9912,
+      "performance": {
+        "views": 600851,
+        "likes": 15472,
+        "comments": 157
+      }
+    },
+    {
+      "video_id": "37aBMZwTIAY",
+      "title": "Revolutionary Game Changer in the U.S. Healthcare | Grant Gordon",
+      "upload_date": "",
+      "duration_seconds": 515,
+      "description": "In this captivating interview, we delve into the remarkable journey of Grant Gordon, an entrepreneur changing the U.S. healthcare system. Discover how he navigated through the most conservative...",
+      "transcript_path": "data/edited_scripts/37aBMZwTIAY.txt",
+      "character_count": 9482,
+      "performance": {
+        "views": 7548,
+        "likes": 243,
+        "comments": 8
+      }
+    },
+    {
+      "video_id": "5mGMDdT6YrM",
+      "title": "You will be executing immediately in 20 minutes | Blitzscaling Director's Cut",
+      "upload_date": "",
+      "duration_seconds": 1385,
+      "description": "EO School | Blitzscaling: Thriving in Turbulence \nLearn directly from Chris Yeh how blitzscaling applies to today's world of AI, and see how your company can blitzscale through our comprehensive...",
+      "transcript_path": "data/edited_scripts/5mGMDdT6YrM.txt",
+      "character_count": 26331,
+      "performance": {
+        "views": 809996,
+        "likes": 27124,
+        "comments": 414
+      }
+    },
+    {
+      "video_id": "FO5XdYrPnJ0",
+      "title": "Human Thoughts vs Speed of InnovationㅣSingularity Group",
+      "upload_date": "",
+      "duration_seconds": 1001,
+      "description": "This video features the story of Singularity Group, which is built in 2008 by Ray Kurzweil, one of the most influential futurists on the planet, and Peter Diamandis, the serial entrepreneur...",
+      "transcript_path": "data/edited_scripts/FO5XdYrPnJ0.txt",
+      "character_count": 15717,
+      "performance": {
+        "views": 9336,
+        "likes": 309,
+        "comments": 10
+      }
+    },
+    {
+      "video_id": "c3w_G0jvtTg",
+      "title": "This 12-minute Video Might Just Change Your LIFE l  Paul Bragiel EP.2",
+      "upload_date": "",
+      "duration_seconds": 731,
+      "description": "Hello, subscribers, This video is part two of our interview with Paul Bragiel of Golden Gate Ventures. In our previous ep1_video, we discussed the importance of execution. This time, we delve...",
+      "transcript_path": "data/edited_scripts/c3w_G0jvtTg.txt",
+      "character_count": 14719,
+      "performance": {
+        "views": 22647,
+        "likes": 757,
+        "comments": 37
+      }
+    },
+    {
+      "video_id": "EUxlafBZ4G0",
+      "title": "You won't be scared of failures after this videoㅣJoseph Huang, CEO of StartX",
+      "upload_date": "",
+      "duration_seconds": 571,
+      "description": "Discover Joseph Huang's inspiring journey from startup founder to CEO of StartX and founder of WifiSlam. Learn lessons from his time at Apple, conquer fear of failure, and uncover traits for...",
+      "transcript_path": "data/edited_scripts/EUxlafBZ4G0.txt",
+      "character_count": 11990,
+      "performance": {
+        "views": 39064,
+        "likes": 1209,
+        "comments": 35
+      }
+    },
+    {
+      "video_id": "_z8lsx1FCHo",
+      "title": "How to build a $100M revenue business l Bob Tinker & Tae Hea Nahm EP 02",
+      "upload_date": "",
+      "duration_seconds": 948,
+      "description": "Unlock B2B Growth with Tae Hea Nahm | EO School \nView Course 👉 https://www.eoschool.io/tae-hea-nahm-B2B-playbook\nTake the exclusive online course on the secrets of unlocking exponential...",
+      "transcript_path": "data/edited_scripts/_z8lsx1FCHo.txt",
+      "character_count": 16344,
+      "performance": {
+        "views": 33960,
+        "likes": 1138,
+        "comments": 22
+      }
+    },
+    {
+      "video_id": "x7dP3CRah40",
+      "title": "This insane growth strategy was adopted by Sam Altman for OpenAI | Blitzscaling (2/2)",
+      "upload_date": "",
+      "duration_seconds": 656,
+      "description": "This is Part 2 of 'Blitzscaling'. If you are interested in startups, you might have heard of Blitzscaling. Blitzscaling is the extreme pursuit of rapid growth to become the market leader, prioritiz...",
+      "transcript_path": "data/edited_scripts/x7dP3CRah40.txt",
+      "character_count": 12174,
+      "performance": {
+        "views": 24648,
+        "likes": 887,
+        "comments": 16
+      }
+    },
+    {
+      "video_id": "QDkqI_jrsxo",
+      "title": "OpenAI's Secrets to Growth in 12 Minutes | Blitzscaling (1/2)",
+      "upload_date": "",
+      "duration_seconds": 744,
+      "description": "EO School | Blitzscaling: Thriving in Turbulence \nLearn directly from Chris Yeh how blitzscaling applies to today's world of AI, and see how your company can blitzscale through our comprehensive...",
+      "transcript_path": "data/edited_scripts/QDkqI_jrsxo.txt",
+      "character_count": 13948,
+      "performance": {
+        "views": 36813,
+        "likes": 1199,
+        "comments": 20
+      }
+    },
+    {
+      "video_id": "NKFZTuk_ylY",
+      "title": "Mistakes startups make in business plansㅣBob Tinker & Tae Hea Nahm EP 01",
+      "upload_date": "",
+      "duration_seconds": 773,
+      "description": "Unlock B2B Growth with Tae Hea Nahm | EO School \nView Course 👉 https://www.eoschool.io/tae-hea-nahm-B2B-playbook\nTake the exclusive online course on the secrets of unlocking exponential...",
+      "transcript_path": "data/edited_scripts/NKFZTuk_ylY.txt",
+      "character_count": 12882,
+      "performance": {
+        "views": 23588,
+        "likes": 673,
+        "comments": 10
+      }
+    },
+    {
+      "video_id": "9FKwfgMIeS0",
+      "title": "Stop watching this video and Go build things l Paul Bragiel, Golden Gate Ventures",
+      "upload_date": "",
+      "duration_seconds": 833,
+      "description": "This video features the story of 'Paul Bragiel', the head of Golden Gate Ventures and a legendary investor in Silicon Valley, known for his early investments in companies like Uber, Stripe,...",
+      "transcript_path": "data/edited_scripts/9FKwfgMIeS0.txt",
+      "character_count": 16470,
+      "performance": {
+        "views": 124627,
+        "likes": 4198,
+        "comments": 103
+      }
+    },
+    {
+      "video_id": "YiSeTeveTf8",
+      "title": "Why Stanford lecturer start investing in Education | Sergio Monsalve",
+      "upload_date": "",
+      "duration_seconds": 536,
+      "description": "How should education change in the AI era? Roble Ventures founder and Stanford professor Sergio Monsalve says the education and education technology market has an incredibly bright future if...",
+      "transcript_path": "data/edited_scripts/YiSeTeveTf8.txt",
+      "character_count": 9271,
+      "performance": {
+        "views": 9068,
+        "likes": 278,
+        "comments": 16
+      }
+    },
+    {
+      "video_id": "e3e_fNwoN8k",
+      "title": "The most valuable lesson from our defeat to Tiktok | Jungsuk Jay Lee",
+      "upload_date": "",
+      "duration_seconds": 759,
+      "description": "Join us for an exclusive interview with Jay, the CEO of NAVER Z, as he shares his remarkable journey from a music enthusiast to a tech entrepreneur. Discover how Jay's love for music laid the...",
+      "transcript_path": "data/edited_scripts/e3e_fNwoN8k.txt",
+      "character_count": 12370,
+      "performance": {
+        "views": 12661,
+        "likes": 352,
+        "comments": 27
+      }
+    },
+    {
+      "video_id": "8Is9oJzfV6I",
+      "title": "The Creative Methods I learned at the Best Animation Studio | We Bare Bears Daniel Chong",
+      "upload_date": "",
+      "duration_seconds": 559,
+      "description": "Daniel Chong is a director / artist who worked for many different animation studios in the U.S. His recent work is 'We Bare Bears'. 'We Bare Bears' last 4 season and beloved by many children...",
+      "transcript_path": "data/edited_scripts/8Is9oJzfV6I.txt",
+      "character_count": 10434,
+      "performance": {
+        "views": 8895,
+        "likes": 343,
+        "comments": 10
+      }
+    },
+    {
+      "video_id": "yrp5ETa0kDo",
+      "title": "How EO met these AMAZING FOUNDERS | QnA / Announcement",
+      "upload_date": "",
+      "duration_seconds": 385,
+      "description": "Join us our exciting networking event in Jakarta, Indonesia! https://bit.ly/3Wx63xZ\n\nThanks to rivmos, Shamil, Marvin Dhabanji, Nkwi Cyril Akinimbom, Jonathan Cramer, Badr, Leo, Shekhar Singh,...",
+      "transcript_path": "data/edited_scripts/yrp5ETa0kDo.txt",
+      "character_count": 5289,
+      "performance": {
+        "views": 9568,
+        "likes": 425,
+        "comments": 20
+      }
+    },
+    {
+      "video_id": "-39Yq-67MvU",
+      "title": "How the world largest luxury group became our customer within 3 months | MarqVision",
+      "upload_date": "",
+      "duration_seconds": 817,
+      "description": "MarqVision is the go-to solution for brand owners facing IP-related challenges. MarqVision is combatting counterfeits and safeguarding global brands across an astounding 1500 marketplaces worldwide...",
+      "transcript_path": "data/edited_scripts/-39Yq-67MvU.txt",
+      "character_count": 13660,
+      "performance": {
+        "views": 19947,
+        "likes": 506,
+        "comments": 19
+      }
+    },
+    {
+      "video_id": "x57DYc-k81w",
+      "title": "We helped 100m job applicants across the world | Fountain",
+      "upload_date": "",
+      "duration_seconds": 737,
+      "description": "Fountain is a high-volume hiring platform for hourly workers, based on automation HR technology system. Like many startups, Fountain has experienced many challenges and have gone through many...",
+      "transcript_path": "data/edited_scripts/x57DYc-k81w.txt",
+      "character_count": 13581,
+      "performance": {
+        "views": 13956,
+        "likes": 414,
+        "comments": 24
+      }
+    },
+    {
+      "video_id": "LJgv-8oZ1CU",
+      "title": "Unconventional Story of an Entrepreneur | Manu Kumar of K9 Ventures",
+      "upload_date": "",
+      "duration_seconds": 786,
+      "description": "Manu Kumar, born in New Delhi, started his first business in the United States at the age of 20. He has since been active as an investor, founding seven companies and investing in over 50 others,...",
+      "transcript_path": "data/edited_scripts/LJgv-8oZ1CU.txt",
+      "character_count": 12752,
+      "performance": {
+        "views": 16533,
+        "likes": 548,
+        "comments": 33
+      }
+    },
+    {
+      "video_id": "jK6lVwp0HJE",
+      "title": "When AI can do inspiring things except eliminate jobs | Whisper",
+      "upload_date": "",
+      "duration_seconds": 737,
+      "description": "Whisper is an AI startup based in San Francisco. Interestingly, Whisper is making hearing aids. Andrew Song, the CEO and co-founder, dreamed of becoming a software engineer from a young age....",
+      "transcript_path": "data/edited_scripts/jK6lVwp0HJE.txt",
+      "character_count": 14862,
+      "performance": {
+        "views": 16452,
+        "likes": 429,
+        "comments": 13
+      }
+    },
+    {
+      "video_id": "PL9mBq2WStw",
+      "title": "In a Failed Business, Until Building a Notion and Figma-focused Startup | Partly",
+      "upload_date": "",
+      "duration_seconds": 737,
+      "description": "Today's story is about Partly, one of the fastest-growing startups in New Zealand. Partly is a startup that helps people easily buy auto parts from all over the world. Co-founders Levi and...",
+      "transcript_path": "data/edited_scripts/PL9mBq2WStw.txt",
+      "character_count": 12880,
+      "performance": {
+        "views": 16284,
+        "likes": 348,
+        "comments": 6
+      }
+    },
+    {
+      "video_id": "oiWwyt3HVT0",
+      "title": "How I Built Three Billion-dollar CompaniesㅣFrank Slootman, CEO at SnowFlake",
+      "upload_date": "",
+      "duration_seconds": 727,
+      "description": "Frank Slootman, CEO of Snowflake, the world's fastest-growing company in billions of dollars. Frank Slootman is the data cloud guru who built DataDomain, ServiceNow, and Snowflake. He recently...",
+      "transcript_path": "data/edited_scripts/oiWwyt3HVT0.txt",
+      "character_count": 12044,
+      "performance": {
+        "views": 204415,
+        "likes": 4657,
+        "comments": 140
+      }
+    },
+    {
+      "video_id": "BYaP3SiofyU",
+      "title": "How Leadership Helped Me Increase My Value 200 Times | Jina Kim (2/2)",
+      "upload_date": "",
+      "duration_seconds": 501,
+      "description": "Today's story is about Jina Kim. Jina started her career at Lehman Brothers and seemed to have a successful career, earning a salary of 6 figures. However, after witnessing the 9/11 attacks...",
+      "transcript_path": "data/edited_scripts/BYaP3SiofyU.txt",
+      "character_count": 7780,
+      "performance": {
+        "views": 7648,
+        "likes": 175,
+        "comments": 5
+      }
+    },
+    {
+      "video_id": "ZSWIoJTUfn4",
+      "title": "What It Takes to Be the 4th Employee of a Unicorn Startup | Jina Kim (1/2)",
+      "upload_date": "",
+      "duration_seconds": 768,
+      "description": "Today's story is about Jina Kim. Jina started her career at Lehman Brothers and seemed to have a successful career, earning a salary of 6 figures. However, after witnessing the 9/11 attacks...",
+      "transcript_path": "data/edited_scripts/ZSWIoJTUfn4.txt",
+      "character_count": 11808,
+      "performance": {
+        "views": 25619,
+        "likes": 476,
+        "comments": 27
+      }
+    },
+    {
+      "video_id": "AP0cxygwoDU",
+      "title": "The Fastest Productivity Tool to Reach 1M Users | Tome",
+      "upload_date": "",
+      "duration_seconds": 631,
+      "description": "Today's story is about Tome. Tome is the AI-powered storytelling format created by former Facebook and Instagram product leaders. It uses generative AI to create entire visual presentations...",
+      "transcript_path": "data/edited_scripts/AP0cxygwoDU.txt",
+      "character_count": 11842,
+      "performance": {
+        "views": 38139,
+        "likes": 619,
+        "comments": 24
+      }
+    },
+    {
+      "video_id": "0xfBCb9QS6U",
+      "title": "Lessons from investing in 1000 startupsㅣSaeed Amidi & Alireza Masrour at Plug and Play",
+      "upload_date": "",
+      "duration_seconds": 905,
+      "description": "In this video, you will learn about the remarkable success story of Saeed Amidi, Plug and Play's CEO, a well-known Silicon Valley accelerator. Along with him is Alireza Masrour, the general...",
+      "transcript_path": "data/edited_scripts/0xfBCb9QS6U.txt",
+      "character_count": 10827,
+      "performance": {
+        "views": 191088,
+        "likes": 3403,
+        "comments": 82
+      }
+    },
+    {
+      "video_id": "ZA9K0JMrbWg",
+      "title": "Survival Strategies in the Era of AI Taught by Stanford | Stanford AIRE Director",
+      "upload_date": "",
+      "duration_seconds": 577,
+      "description": "Dr. Li Jiang is a director of Stanford AIRE program. Many of you think ChatGPT started the era of AI. But, Dr. Jiang says it started already. AI seems much better than we do. It seems it can...",
+      "transcript_path": "data/edited_scripts/ZA9K0JMrbWg.txt",
+      "character_count": 8617,
+      "performance": {
+        "views": 1637566,
+        "likes": 41199,
+        "comments": 1347
+      }
+    },
+    {
+      "video_id": "dRJVKoYhisM",
+      "title": "The Not-so-pretty Story of Growing a CompanyㅣIYUNO CEO David Lee",
+      "upload_date": "",
+      "duration_seconds": 914,
+      "description": "This is the story of IYUNO, the world's biggest media localization company. IYUNO's primary business is providing multi-language and voice dubbing for global OTT, such as Netflix, Deisney+,...",
+      "transcript_path": "data/edited_scripts/dRJVKoYhisM.txt",
+      "character_count": 16631,
+      "performance": {
+        "views": 97464,
+        "likes": 1626,
+        "comments": 34
+      }
+    },
+    {
+      "video_id": "63FWL7KcWrE",
+      "title": "$1Billion Edu Giant backed by OpenAI | Speak",
+      "upload_date": "",
+      "duration_seconds": 1162,
+      "description": "This is the story of a revolutionary education startup created by two geniuses. Connor, the CEO, is a Harvard dropout who founded an app called FlashCard+ in high school and sold it at 21,...",
+      "transcript_path": "data/edited_scripts/63FWL7KcWrE.txt",
+      "character_count": 22606,
+      "performance": {
+        "views": 234584,
+        "likes": 4272,
+        "comments": 287
+      }
+    },
+    {
+      "video_id": "FPYl7nIKRbA",
+      "title": "9-Year Hustle to Achieve a Single GoalㅣNotion's Cofounders",
+      "upload_date": "",
+      "duration_seconds": 860,
+      "description": "This is the co-founders' story of Notion, Akshay Kothari(COO) and Ivan Zhao(CEO), building Notion.\n\nNotion is one of the most innovative productivity tools worldwide to make every human able...",
+      "transcript_path": "data/edited_scripts/FPYl7nIKRbA.txt",
+      "character_count": 15982,
+      "performance": {
+        "views": 1549651,
+        "likes": 27195,
+        "comments": 433
+      }
+    },
+    {
+      "video_id": "Owk3EbneBDk",
+      "title": "4 Key Lessons from a 30-Year-Old Unicorn Founder | FiscalNote Tim Hwang (2/2)",
+      "upload_date": "",
+      "duration_seconds": 474,
+      "description": "In the second episode of Tim Hwang, Tim is sharing his experience and giving founders tips and advice when they're in early stage. His company, FiscalNote, is a legal information and data company....",
+      "transcript_path": "data/edited_scripts/Owk3EbneBDk.txt",
+      "character_count": 10170,
+      "performance": {
+        "views": 20584,
+        "likes": 592,
+        "comments": 16
+      }
+    },
+    {
+      "video_id": "Y-i5-nhqVzQ",
+      "title": "The Simplest Yet Most Challenging Way to Grow a Startup | FiscalNote Tim Hwang (1/2)",
+      "upload_date": "",
+      "duration_seconds": 686,
+      "description": "The first interviewee in 2023 is Tim Hwang, CEO of FiscalNote. FiscalNote is a legal information and data company. They collect laws and regulations and help people to understand how laws potential...",
+      "transcript_path": "data/edited_scripts/Y-i5-nhqVzQ.txt",
+      "character_count": 14923,
+      "performance": {
+        "views": 60786,
+        "likes": 1477,
+        "comments": 35
+      }
+    },
+    {
+      "video_id": "xyr9v1laE9s",
+      "title": "Career Advice for Ordinary People ㅣJoshua Zerkel",
+      "upload_date": "",
+      "duration_seconds": 888,
+      "description": "This video is Josh's career advice for ordinary people. Joshua Zerkel is head of global engagement marketing at Asana. He is not from the Ivy League but has built a successful career in Silicon...",
+      "transcript_path": "data/edited_scripts/xyr9v1laE9s.txt",
+      "character_count": 17266,
+      "performance": {
+        "views": 24484,
+        "likes": 718,
+        "comments": 25
+      }
+    },
+    {
+      "video_id": "laHrTDQfZpk",
+      "title": "What it takes to raise $5.5M from nothingㅣBusiness Canvas team documentary",
+      "upload_date": "",
+      "duration_seconds": 1164,
+      "description": "This video is about the entrepreneurial journey of Business Canvas, one of the fastest-growing SaaS startups in South Korea that is building Typed, a document collaboration tool. The CEO of...",
+      "transcript_path": "data/edited_scripts/laHrTDQfZpk.txt",
+      "character_count": 19745,
+      "performance": {
+        "views": 861389,
+        "likes": 2620,
+        "comments": 50
+      }
+    },
+    {
+      "video_id": "HaLZcaDfaVY",
+      "title": "What I Learned From In Hyper-growing Startups | Troy Malone",
+      "upload_date": "",
+      "duration_seconds": 831,
+      "description": "Troy Malone has worked for a number of tech company as an executive in Silicon Valley. Mainly taking them into global markets, Troy has built a successful career more than 15 years. In this...",
+      "transcript_path": "data/edited_scripts/HaLZcaDfaVY.txt",
+      "character_count": 12750,
+      "performance": {
+        "views": 49959,
+        "likes": 1238,
+        "comments": 23
+      }
+    },
+    {
+      "video_id": "PgdsItdmtMk",
+      "title": "Advice for the future entrepreneurs l Saeju Jeong (2/2)",
+      "upload_date": "",
+      "duration_seconds": 674,
+      "description": "This video is Saeju's advice for future entrepreneurs. \n\nSaeju, the CEO of Noom, was born and raised in a small South Korean fish town called Yeosu and he dropped out of his university in Korea....",
+      "transcript_path": "data/edited_scripts/PgdsItdmtMk.txt",
+      "character_count": 11717,
+      "performance": {
+        "views": 89319,
+        "likes": 2626,
+        "comments": 60
+      }
+    },
+    {
+      "video_id": "ZHRLOnGdKIA",
+      "title": "He didn't make money for 8 years | Saeju Jeong (1/2)",
+      "upload_date": "",
+      "duration_seconds": 699,
+      "description": "This video is about the entrepreneurial journey of Saeju Jeong, the co-founder, and CEO of Noom.\n\nSaeju was born and raised in a small South Korean fish town called Yeosu, and he couldn't go...",
+      "transcript_path": "data/edited_scripts/ZHRLOnGdKIA.txt",
+      "character_count": 12635,
+      "performance": {
+        "views": 177911,
+        "likes": 3843,
+        "comments": 84
+      }
+    },
+    {
+      "video_id": "dKKo2_rblF4",
+      "title": "An Associate Dean of Stanford Was A Bottom Student | Paul Kim",
+      "upload_date": "",
+      "duration_seconds": 652,
+      "description": "When Paul Kim was little, he was not a good student. Because he's not a good at studying, he was beat up by teachers many times. So, he didn't like to stay in the school for a long time. But,...",
+      "transcript_path": "data/edited_scripts/dKKo2_rblF4.txt",
+      "character_count": 10324,
+      "performance": {
+        "views": 372318,
+        "likes": 9745,
+        "comments": 329
+      }
+    },
+    {
+      "video_id": "FeDnW5wYjwA",
+      "title": "The Fastest Growing SaaS Startup in History | deel",
+      "upload_date": "",
+      "duration_seconds": 995,
+      "description": "This is the story of Alex Bouaziz and Shuo Wang, who co-found Deel, the fastest-growing SaaS start-up in history. Deel helps companies go global and hire around the world.\n\n00:00 Intro\n00:37...",
+      "transcript_path": "data/edited_scripts/FeDnW5wYjwA.txt",
+      "character_count": 18265,
+      "performance": {
+        "views": 433401,
+        "likes": 7357,
+        "comments": 169
+      }
+    },
+    {
+      "video_id": "fZT3_O2Uazk",
+      "title": "Why I Choose Web3 Rather Than Big Tech | Sisun Lee (2/2)",
+      "upload_date": "",
+      "duration_seconds": 614,
+      "description": "Sisun Lee is a serial entrepreneur who is now building infrastructure for Web3. He was also an ex-product manager at Facebook, Uber, and Tesla. Before he started his second business, he was...",
+      "transcript_path": "data/edited_scripts/fZT3_O2Uazk.txt",
+      "character_count": 12288,
+      "performance": {
+        "views": 55992,
+        "likes": 1575,
+        "comments": 51
+      }
+    },
+    {
+      "video_id": "lWeiVX7PnEQ",
+      "title": "Things I Learned From 10 Years In Silicon Valley | Sisun Lee (1/2)",
+      "upload_date": "",
+      "duration_seconds": 672,
+      "description": "Sisun Lee is a serial entrepreneur who is now building infrastructure for Web 3. He was also an ex-product manager at Facebook, Uber, and Tesla. Before he started his second business, he was...",
+      "transcript_path": "data/edited_scripts/lWeiVX7PnEQ.txt",
+      "character_count": 13579,
+      "performance": {
+        "views": 428171,
+        "likes": 10853,
+        "comments": 132
+      }
+    },
+    {
+      "video_id": "e-arMLz2qdI",
+      "title": "6 Years Journey From 0 to 60 Million Subscribers | Nas Daily",
+      "upload_date": "",
+      "duration_seconds": 601,
+      "description": "Today's story is about @NasDaily. Nas, Nuseir Yassin, is one of the most famous creators in the world. He has 60M followers via Youtube, Facebook and TikTok. His content and speech have influenced...",
+      "transcript_path": "data/edited_scripts/e-arMLz2qdI.txt",
+      "character_count": 8270,
+      "performance": {
+        "views": 87790,
+        "likes": 2206,
+        "comments": 91
+      }
+    },
+    {
+      "video_id": "lV61TDHiALo",
+      "title": "Follow this 2-week plan to build a great businessㅣPhil Libin (2/2)",
+      "upload_date": "",
+      "duration_seconds": 711,
+      "description": "This is the story about the serial-entrepreneur Phil Libin's journey in chapter 2, Phil's principles for building a great product, and the current Mmhmm product story from scratch.\n\nPhil has...",
+      "transcript_path": "data/edited_scripts/lV61TDHiALo.txt",
+      "character_count": 15226,
+      "performance": {
+        "views": 125778,
+        "likes": 3905,
+        "comments": 63
+      }
+    },
+    {
+      "video_id": "XM6NHNxS39E",
+      "title": "How I built 400 million users app EvernoteㅣPhil Libin (1/2)",
+      "upload_date": "",
+      "duration_seconds": 677,
+      "description": "This is the story about the serial-entrepreneur Phil Libin's journey in chapter 1. How Phil built Evernote, one of the world's best productivity note apps.\n\nPhil has founded five startup companies...",
+      "transcript_path": "data/edited_scripts/XM6NHNxS39E.txt",
+      "character_count": 13323,
+      "performance": {
+        "views": 180966,
+        "likes": 4232,
+        "comments": 53
+      }
+    },
+    {
+      "video_id": "llevwQZ3VtA",
+      "title": "A Learning App Tutors 10 Million Children Worldwide | Enuma",
+      "upload_date": "",
+      "duration_seconds": 870,
+      "description": "Enuma is an edu-tech startup from Silicon Valley. Sooin Lee, CEO&co-founder, was a corporation strategist and a game designer at NC Soft in South Korea. When her son was born, she realized...",
+      "transcript_path": "data/edited_scripts/llevwQZ3VtA.txt",
+      "character_count": 11423,
+      "performance": {
+        "views": 37356,
+        "likes": 1364,
+        "comments": 48
+      }
+    },
+    {
+      "video_id": "GP5jXj0O4OM",
+      "title": "Best startup lessons from Y CombinatorㅣMichael Seibel",
+      "upload_date": "",
+      "duration_seconds": 1154,
+      "description": "This video is about Michael Seibel, Managing director of Y Combinator, the most innovative startup accelerator in the world, lessons learned from the Twitch startup journey and Y Combinator....",
+      "transcript_path": "data/edited_scripts/GP5jXj0O4OM.txt",
+      "character_count": 20816,
+      "performance": {
+        "views": 603212,
+        "likes": 12022,
+        "comments": 146
+      }
+    },
+    {
+      "video_id": "aHGIVzYqScs",
+      "title": "How a World Cup soccer player built a $600 million shoe brand | Allbirds",
+      "upload_date": "",
+      "duration_seconds": 853,
+      "description": "EO stands for Entrepreneurship & Opportunities.\nWe're looking for more inspiring stories of entrepreneurs all over the world, so don't hesitate to contact us! :)\n\n00:00  Intro\n01:40  Cofounders...",
+      "transcript_path": "data/edited_scripts/aHGIVzYqScs.txt",
+      "character_count": 13359,
+      "performance": {
+        "views": 33708,
+        "likes": 826,
+        "comments": 48
+      }
+    },
+    {
+      "video_id": "ivZsEVNe4tM",
+      "title": "We are team EO🙌",
+      "upload_date": "",
+      "duration_seconds": 712,
+      "description": "EO=Entrepreneurship&Opportunities\n\nSubscribe EO Channel🌏\n👉🏻👉🏻 https://bit.ly/3S0Pacc\nBusiness inquiry💼\n👉🏻👉🏻partner@eoeoeo.net",
+      "transcript_path": "data/edited_scripts/ivZsEVNe4tM.txt",
+      "character_count": 10427,
+      "performance": {
+        "views": 34037,
+        "likes": 1609,
+        "comments": 134
+      }
+    }
+  ],
+  "no_captions": []
+}

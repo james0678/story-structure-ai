@@ -1,0 +1,869 @@
+﻿AssemblyAI_full audio
+===
+
+
+[00:00:00] We can ask several questions. Sure. Yes. How'd you guys get started doing this? Oh, like [00:00:10] it is our long story was our founder, like our CEO is also the founder of here. Yeah. And he's, he's kind of [00:00:20] creator. Okay. And he developed this to, from South Korea to here. Yeah. So we are based in San Francisco now, so it's like, uh, three years ago.[00:00:30] 
+
+
+Cool. Yeah. Cool. So nowadays we interviewed many founders now. Yeah. That's cool. Yeah. Okay. Yes. Take one. [00:00:40] Okay. So first of all, could you introduce yourself and assembly ai? Yeah. Should I do like, uh, my [00:00:50] role and stuff? Yeah, that's, please. Good. Okay. I'm Dylan Fox, founder and CEO of Assembly ai. We're building the most accurate and [00:01:00] easiest to use developer platform for speech ai.
+
+
+Cool. So how do you describe who you are and what, can I do that one more time? Oh, sure, sure. [00:01:10] Maybe we can do after interview also like, but you can do it now again. Yeah, yeah, yeah. Cool. My name's Dylan Fox, I'm the founder [00:01:20] and CEO of assembly ai. We've built the industry's most accurate and easiest to use developer platform for speech ai.
+
+
+Okay. [00:01:30] So how do you describe who you are and what drives you today? Yeah, that's a good question.[00:01:40] 
+
+
+So I, how long should my answers be? Just should I just go? Oh, yeah, you can, you can answer as long as you possible. Yeah. Whatever. You is fine. [00:01:50] I love technology. Uh, you know, I, ever since I was a kid, I've. Constantly been around computers, kind of grew up on [00:02:00] computers. My older brother, he used to build computers, so he would order all the hardware online and he would, you know, be in our basement [00:02:10] making computers and I would watch him and like that experience.
+
+
+And then just being around computers as a kid, playing video games. I, I just kind of grew [00:02:20] up on a computer and, uh, loved technology and was so always just so excited about what you could do with technology and where I was going. I [00:02:30] was addicted to these, um, uh, MRPG games, so like World of Warcraft and Ru Scape and, [00:02:40] uh, games like Counterstrike.
+
+
+So I, you know, had a, uh, single working mom, three, uh, one of three kids and would like [00:02:50] stay home from school to play video games. Uh, pretend to be sick so I could just like. Keep playing video games. And I think for me, [00:03:00] like I just love technology and, and what it can do and, and I, I love just working on technology.
+
+
+Okay. [00:03:10] So before dive into your story, like could you, like, in one sentence, what problem does assembly AI solve for the work? Sure. [00:03:20] We're making really accurate speech AI capabilities, easily accessible to developers so they can build apps that understand [00:03:30] human speech and voice. Okay. So like which metrics best capture assembly, AI's current scale, like in specific, uh, [00:03:40] metrics.
+
+
+Yeah, so this month we will process around five petabytes of speech data through our development platform. [00:03:50] I don't know if this is correct or not, but I read somewhere that, uh. That's around 10 x the entire size of Spotify's entire [00:04:00] catalog that we'll handle in a single month. And that's growing over 250% year over year.
+
+
+So we're growing super fast. Uh, have [00:04:10] over half a million developers that have signed up to our developer platform to build apps with speech data. And, um, that number is continuing to to [00:04:20] grow and grow. Wow. That's very huge. Yeah. That's huge. Yeah. Yeah. Yeah. Okay. Uh, then could you, can, can you share any of your revenue or fundraising?
+
+
+Is it possible? Yeah, [00:04:30] yeah, yeah. We don't do revenue publicly, but I can share like fundraising. Yeah. We've raised, uh, about $130 million to date from leading VCs [00:04:40] like Excel Insight Partners, Daniel Gross, snap, Freeman, uh, Smith Point, uh, from, uh, let's let by start over and do that again. [00:04:50] We've raised. Over $130 million in funding to date from leading investors like Excel Insight Partners, Daniel Gross and [00:05:00] Nat Freeman and Smith Point, that's led by Keith Lock from Salesforce.
+
+
+Okay. So like you told me that [00:05:10] you are very tech love guy. Yeah. Like in the, in the past, like, do you have any projects or something that you did in childhood? Like in [00:05:20] or as a student? Yeah. Yeah. Um, so maybe I'll talk about like just being addicted to video games. So as [00:05:30] a kid I was addicted to video games, uh, especially these MMR PG games, like World of Warcraft Roots game, uh, [00:05:40] games like Counterstrike and I would just stay up all night playing these video games and skip school to play these video games as a kid.
+
+
+[00:05:50] I would like pretend to go to bed and then get up when my mom went to sleep and then go into my basement and just keep playing video games all night and then pretend that I [00:06:00] slept and actually had like, been up all night just, uh, advancing the level of my, my character in World of Warcraft or something.
+
+
+Um, and through that [00:06:10] experience I just started hanging out on IRC and building websites. So I learned HTML and CSS and this is when I was in like middle school. [00:06:20] My brother would build computers, um, in our basement. And so I would hang out with him while he was doing that. And so my early start in [00:06:30] programming and in technology was really around video games.
+
+
+I just always found it was easier to be around computers than with people when I was younger. [00:06:40] And so I started my journey in tech really from a, from a young age. Oh, so you are studying your journey in your house basement. Yeah, [00:06:50] so I would, you know, I, I was part of these like clans and teams for Counterstrike and World, the world of Warcrafts.
+
+
+And we would hang out on IRC [00:07:00] and I didn't even know, you know, the people in person. It was all just like friends I would make online and I would build websites for our teams and for our clans. And um, at one [00:07:10] point I started setting up private counterstrike servers for our team and then selling 'em to other teams on IRC and PayPal.
+
+
+[00:07:20] And all this was in my basement when I was like 12 years old. And I remember my mom was just like so confused of what was going, going on in, in my basement. 'cause she would hear me on the phone with [00:07:30] like, uh, these companies I would rent these virtual Windows servers from, and I would remote desktop in and I would set up these private counterstrike [00:07:40] servers and, uh, private like Call of Duty servers.
+
+
+And I would use them for our team and sell 'em to other teams and. Um, charge like monthly. So I guess [00:07:50] my journey as entrepreneur started, started there, uh, with, with tech. But yeah, it was like, you know, my basement was basically like a video game lab. [00:08:00] Okay. Then like, I, when, why, and during college you founded the startup, like what makes you drive to build [00:08:10] kind of stuff?
+
+
+What makes you interested in the startup? Yeah. I think from a young age I just like building [00:08:20] things and like the idea of these like open-ended journeys. I think that's what drew me to video games. And then I think that's also what drew me to [00:08:30] startups. So in college I started this company that helped other college organizations fundraise online.[00:08:40] 
+
+
+Um, it was a terrible idea and it was, you know, it didn't go anywhere, but I. Got started with entrepreneurship and with [00:08:50] programming through that experience and learned that I just loved the process of starting a company and building something from scratch. It was just super addictive because you could make [00:09:00] progress like every hour and every day, and it was kind of endless with what you could make progress on.
+
+
+So, um, in college, started [00:09:10] that company and then, uh, really got deep into programming as I was starting that company and building our, our product for that company. Oh, and could you, [00:09:20] uh, tell about like what did you do? What is the, you give one, the, the, your first startup about, and what key lessons did you learn [00:09:30] from that first startup experience?
+
+
+Yeah, yeah. So you, you give one was a, um, ugi, one was a, a online fundraising platform, so. [00:09:40] If you were a student organization, you could go make a profile and then you could share that profile to your friends or to other students or [00:09:50] parents, and you could, uh, raise money for your student organization online.
+
+
+And people that donated to the store student organization would get like local [00:10:00] rewards in their community as like a perp for donating. That was the, the concept. And we, me and the friend I started it with in college entered a couple of business [00:10:10] plan competitions that we won. And the, you know, the idea wasn't like particularly good.
+
+
+I still sometimes, uh, uh, you [00:10:20] know, wake up and like have like a nightmare that like, that's still what I'm working on. But we learned a lot about just like starting a company and [00:10:30] being a founder through that experience. Uh, and that was all during college. So it was kind of like a safe place to be starting a company.
+
+
+Um. Um, what [00:10:40] I learned from that experience was that I loved starting something and I loved being a founder and I loved programming 'cause I had started to learn how to [00:10:50] code when I was a, a young kid, but just HTML and CSS. And then I kind of put it down and then when I started you give what? In [00:11:00] college?
+
+
+That's when I really taught myself how to program. So I bought a bunch of books on PHP and Python and started learning how to code so I could build the product [00:11:10] that we were, that we were making. And while the company didn't work out, I realized I just loved programming. And so I think that really helped, that experience really helped [00:11:20] me get clarity on what I wanted to do with my life and with career, my career.
+
+
+So after college I didn't [00:11:30] get a job. We had shut the startup down. I just opened up a bunch of credit cards and I went like. $30,000 in credit card debt. Basically just [00:11:40] like learning how to program and like reading programming books and building apps and just like all day, that's what I would do in my apartment.
+
+
+And then, uh, just [00:11:50] kind of like fell in love with, with, with programming through that experience. Oh, I see. So what kind of like, uh, characteristic makes you [00:12:00] deep into the programming? Why is this that fascinating to you? Yeah, I think there's this, there's always been this parallel to me to the, the early [00:12:10] years of being addicted to the video games with programming and that it's kind of this open-ended challenge where, you know, when I was playing World of [00:12:20] Warcraft, I would just want to get to the next level and get to the next level and get to the next level.
+
+
+And that's what just made it so addicting. And my play time was, you know, insane because I would just want [00:12:30] to, I was just addicted of, the first thing I would wake up and want to do is get back on my computer to keep playing. Getting to that next level. And with programming, it wasn't [00:12:40] so much the programming that was addictive, it was just this open-ended world that you could just build stuff.
+
+
+Any idea you had with [00:12:50] programming, you could make it into something real and then you could get feedback from users and you could then keep building and keep building. And so it was this, this [00:13:00] process of like building something that I found so addictive and very similar to how addictive video games were for me.
+
+
+And then personally, I [00:13:10] just loved technology too. And being at the kind of forefront of like what you could do with programming and building new types of apps that were just really cool. And [00:13:20] so that was, that was, you know, like what was, what was really addicted to me about the, the craft of like programming.
+
+
+Then you told that you are interested more, [00:13:30] like you are interested in programming more than founding. I think it was the, the building that I was more interested in, more than, than [00:13:40] programming. It was having the ability to program gave you the ability to have an idea and then actually turn it into something real that you could use and play [00:13:50] with and show other people right there and then, you know, keep iterating and keep iterating.
+
+
+And the idea of starting a company around that too was like the ultimate [00:14:00] challenge, right? That you have to get customers, figure out how to talk to customers, grow revenue, raise money from investors. And so is that [00:14:10] process of building something that married with this love of like technology that kind of really, um, [00:14:20] made me love starting a company.
+
+
+Oh, I see. Then like after college, you went to the. Like you were entered in Cisco for [00:14:30] machine learning engineer, like, yeah. So why did you pick, why did you go to the, that company and what, what work did [00:14:40] you do there? Yeah, so after college we had shut the startup down that we were working on 'cause it didn't go anywhere.
+
+
+And, [00:14:50] um, my co-founder, he went and got a job and then I just kept, uh, uh, programming and got deeper and deeper into programming. And so [00:15:00] for about two years I just would, uh, build random projects and launched 'em and I would learn more about different [00:15:10] programming languages and started to learn about machine learning.
+
+
+This is when I opened up, you know, a bunch of credit cards and went, it was like $30,000 in [00:15:20] credit card debt to just like fund this, this, uh. This thing I wanted to do because I just felt really passionate about it, and in hindsight was like so dumb. But, but, [00:15:30] uh, um, I just really wanted to be able to focus on going deeper into learning how to code and building stuff and being a founder.
+
+
+[00:15:40] So I was living in Washington DC at the time in like a small studio apartment. That's where I went to college. Um, and I would make like, [00:15:50] you know, one big bowl of pasta every Sunday and just like, eat that all week with Diet Coke as I was just like spending all day just programming and [00:16:00] building stuff and seeing, you know, like if I could launch anything new.
+
+
+Uh, after, you know, almost two years of doing that and going into credit card debt, I was like, okay, I need to even get a [00:16:10] job. Um, but I had found that I was really, uh, most interested in machine learning and natural language processing through that journey. And so there was a [00:16:20] team in, uh, San Francisco. At the, the company called Cisco that was hiring for machine learning engineers to focus on [00:16:30] building natural language processing products and interfaces around Cisco's collaboration products.
+
+
+And so I applied to that job, uh, somehow, [00:16:40] got it, and then moved out to San Francisco, took that job, paid off my credit card debt, and then, um, got really into neural networks and more [00:16:50] advanced machine learning and deep learning while I was out there at that job. And that was like 20 15, 20 16 time. And I'm, I'm curious though, what is the newer [00:17:00] networking like?
+
+
+What, what was that? Could you explain? Yeah. So, so CLA classical machine learning, um, you know, had, has been around for, for, for decades. [00:17:10] And there started to be this shift in 20 12, 20 15 time where, um, uh, machine learning shifted to [00:17:20] these. Neural network and deep learning based approaches, which is what we now call ai.
+
+
+And so it's these new algorithms that can learn from more data, [00:17:30] leverage the more advanced hardware that's been created to create much more powerful AI systems than classical machine learning systems could [00:17:40] do. And so that's what's powering large language models, the speech AI models, we create self-driving cars.
+
+
+It's all these deep [00:17:50] neural networks that really started to get traction in the 20 12, 20 15 time, and shifted a lot of the [00:18:00] industry in that direction away from the what, what was the state of the art, which was these classical machine learning approaches that were these systems like support vector [00:18:10] machines.
+
+
+Uh, and towards, towards these more modern algorithms like neural networks, deep neural networks at that. Hmm. So like when [00:18:20] Ajo launched the Alexa in 2015, was you in Cisco? Yeah. So when I think the Alexa launched around the [00:18:30] time I was in Cisco, uh, around, I think, so I think the Alexa launched around the time I joined Cisco and, or it could have been like a year or so before, but I remember I got [00:18:40] access to one, like I bought one, uh, in 2015 when I was working as a, uh, uh, machine learning engineer.
+
+
+Yeah. Okay. Then [00:18:50] like I saw that you sprint like very poor experience about like Alexa. Yeah. So could you explain like what kind of [00:19:00] frustration did you do feel at that time? Yeah. Well, so the Alexa product was like one of the coolest computers I [00:19:10] had used in a long time, and it was the first computer you could talk to that worked reliably.
+
+
+And was super robust. You could be like in the shower, [00:19:20] in the kitchen tv, on lot of noise and it would still work and you could play music and you could set timers and you could ask the weather. And it was just this like [00:19:30] radically innovative experience for me that felt like something outta science fiction.
+
+
+And I, as a machine learning engineer that was working in natural language [00:19:40] processing, I wanted to start experimenting with my own ideas for voice interfaces or voice products, voice driven, um, voice driven [00:19:50] products. And the leading company at the time that was building that technology was this big company and I contacted them to try and get access to their developer SDK.[00:20:00] 
+
+
+And they mailed me a CD rom. It was like a $10,000 evaluation agreement that you had to sign. I didn't even have a CD [00:20:10] rom drive to like load their SD K. So it was just this complete archaic, uh, experience as a developer. And me as a developer at that time, I was used to experiences [00:20:20] that you could have with products like Twilio or Stripe, where you could just quickly get access to an API and swipe your credit card and start building something and then [00:20:30] scaling something.
+
+
+So it was that experience that led me to start assembly where I really wanted this super [00:20:40] accurate, uh, really easy to use development platform to exist for speech ai, voice AI capability, so that any developer, whether [00:20:50] you're at an enterprise company or just a college student, if you have an idea for an app, you want to build around speech, around voice, and you want to leverage the latest AI [00:21:00] capabilities to do that, there's this developer platform that you can go to and, and build with and innovate with and be creative with [00:21:10] and like, could you.
+
+
+Explain more detail about what, what made you decide to leave Cisco and start your own company? So I, when I, when I left, when I, when I got the job at [00:21:20] Cisco, you know, I already tried to start a company. I had spent a co you a couple years just launching random stuff, learning how to program. And I knew [00:21:30] I always wanted to start another company, but I just didn't know what I wanted to do.
+
+
+And I knew that I couldn't keep going deeper to credit card debt. I needed to get a [00:21:40] job. And so I went out to San Francisco and I took the job at Cisco and I really enjoyed it. Um, but I knew that at some point I always wanted to [00:21:50] start another company and I'd always spend nights and weekends just still tinkering with random ideas I would have.
+
+
+And this idea though, for this developer platform [00:22:00] for speech AI was super accurate, super easy to use, was like really, really struck me as something I really wanted to do because I saw back [00:22:10] then. That the technology was gonna just get orders of magnitude better. And that was gonna make what was a small market, huge.
+
+
+And that was a really [00:22:20] exciting thing that I just wanted to build and work on. And I felt like there was a great business opportunity with that too, so that it would be like worthwhile to, to [00:22:30] work on that, um, in a, just like a hard, hard challenge to, to, to, to try to build that type of company and product.
+
+
+And so I left my job at [00:22:40] Cisco and started working on assembly. And then it was pretty much like right away that I, um, submitted [00:22:50] an application to Y Combinator, got in, and then kind of started, started the journey to building the company. Okay. So after leaving your [00:23:00] job and before you entering, like you were entering the YC badge, so like what personal or professional internship did you experience?
+
+
+So I [00:23:10] left. My job. And then a few months later got into Y Combinator. So it was like pretty short window of deciding to [00:23:20] quit and then getting in, that was pretty stressful because I got in and didn't really have any product, had no progress. It was just me, [00:23:30] myself. I had no clue I was gonna get into Y Combinator.
+
+
+I just wanted to submit the application as really a thought exercise to like crystallized what I was working on, [00:23:40] what I was gonna do. And, you know, I figured like no chance of getting in alone, no progress, no traction, no product, just an idea. Um, but there was a YC partner [00:23:50] at the time, Daniel Gross, who had worked at Apple, had worked around Siri, had, uh, experience [00:24:00] with speech technology and also saw there was an opportunity for a, a developed platform that was, uh, way more advanced, way easier you.
+
+
+And [00:24:10] he decided to take us into yc, invest in the company, and really was excited about the vision for the company back then in 2017 when we got in. [00:24:20] So I remember going to the YC kickoff, um, while I was actually, I was, I was in Europe at the time [00:24:30] that I submitted the application because I figured, no, no chance I'm getting in.
+
+
+My wife is from Europe, so if you were there visiting her family, I was like, yeah, let's go there. I'll just start [00:24:40] working on the company. From there, it's no, you know, it's just me at the time. It's just a matter. Got email, I was like, Hey, what's your accuracy rate from Daniel? [00:24:50] And I showed it to my wife and I was like, oh, they're, they're actually looking at my YC application.
+
+
+And then the next day they were like, Hey, we'd love you to come in for an interview. And so I bought a [00:25:00] ticket home. I flew back to San Francisco. I was living at the time. Uh, the next day drove down to, to Y Combinator for the [00:25:10] interview. Got in and I had submitted the application. It was like 30 days late past the deadline.
+
+
+So it was like by myself, no product, no traction, 30 days late. Like, no, no chance. I'm [00:25:20] getting in. Um, got in, but that meant that YC started the next week. And so I like quickly had to get my life in order. Start [00:25:30] yc. I I went in the first day and it was like all these other companies had so much progress, so much traction, and I was just getting started and it was a really hard idea to get [00:25:40] started.
+
+
+It was like creating AI models for speech, not just creating like a SaaS app that you could really quickly, uh, build and make progress and start iterating like it, it took a while back [00:25:50] then to train these models to iterate and YC is only three months, so that was probably one of the most stressful periods of my life.
+
+
+It was like those, those three months in YC [00:26:00] where I was just like really trying to get things off the ground. Working mostly by myself. I, I have this like, you know, these like chronic, uh, [00:26:10] stomach issues. 'cause I was just like so stressed out. I spent like two years on, on like stomach medication, uh, after, because I was just, I was so stressed.
+
+
+But, [00:26:20] um, uh, yeah, I mean, I think that sometimes opportunities arise and you have to just like ride the wave when they come. You can't kind of pick and choose, like, when's the perfect time [00:26:30] to do something when opportunity arises, you just have to like jump into it. Oh, so you have nothing but you got into yc.
+
+
+Sorry, you say. [00:26:40] Yeah. Like you, you have, you didn't have anything but you were accepted by yc. Like what makes you, what kind of point did you think that they [00:26:50] choose assembly AI and you Yeah, I think anything early stage, it's really about, you know, like the, the people and the idea and [00:27:00] finding someone else that believes in you.
+
+
+And believes in your idea and is excited about it. And so I think we were really lucky in that the YC [00:27:10] partner we were matched with was this guy, Daniel Gross, who was really excited about the idea, uh, for some reason thought I could do it [00:27:20] and decided to take us in. So I think in a lot of ways we got, I got lucky back then.
+
+
+If it had been another YC partner that had looked at our application, they [00:27:30] probably would've said no way. But Daniel had this, uh, subject matter expertise that helped him see the opportunity [00:27:40] and for, again whatever reason, thought I could do it, and decided to accept us through the Y Combinator. Okay. And were you the only [00:27:50] one like startup that delivers speech AI At the time?
+
+
+We were, yeah. Oh, so what kind of like specific insight? So in, in fact, actually can I, can I [00:28:00] comment on that more? Yeah. Back then. Um. So today, you know, most YC companies are AI companies. In 2017, it [00:28:10] was like 10 of us, right? 'cause AI was so early. Back then you weren't even really calling it ai. You were still calling it deep learning or machine learning, [00:28:20] because to say AI back in 2017, people looked at you like you're crazy.
+
+
+And that was weird. So it was, you know, like a special [00:28:30] group that they had created to start funding AI companies back in 2017. And we were one of those companies that got into that program [00:28:40] and with that came extra cloud compute credits and some other perks as a AI company in YC VAC at that time. But we were like, you know, one [00:28:50] of, I think 10 other companies in that one.
+
+
+In that AI program, what specific insights did you gain from the Daniel Grove? So what kind of [00:29:00] talk, what kind of things did you talk together? Yeah,[00:29:10] 
+
+
+so Dan Daniel was just a huge believer in the company back then. Um, and [00:29:20] I think Y Combinator really helped us, uh, focus on the application of the tech and not just the research and the [00:29:30] science. So that really helped us, I think, create this like, you know, customer first culture that still we have today at the company.
+
+
+[00:29:40] Um, yeah, and I say, I would say like, you know, maybe a, maybe a better answer is like, back then, you know, [00:29:50] it, I, I was like just getting started, so I didn't really have a network. I didn't know anyone away from that. Yeah, just more one, the story [00:30:00] is really interesting. In what you did in YC before, like founding assembly.
+
+
+Yeah. We can spend more time on that too. That's fine. Yeah, [00:30:10] it's really interesting. Good. And especially like, like nowadays there are many AI startups in yc, but at the time there's is only few is [00:30:20] also very interesting story. Yeah. Yeah. I remember going to like the very first TensorFlow meetup in, um, San Francisco and it was like, [00:30:30] you know, the first official version of TensorFlow is like still this small meetup and TensorFlow is a popular, uh, deep learning library that you would use to train [00:30:40] models back then.
+
+
+And it was like just the super early community. And I was training our very first models, uh, on these like super slow GPUs at that [00:30:50] time. And I remember being at the 10 Circle meetup and like, you know, logging into the server that I was training our first models on and checking, you know, how, how the training was going and did it crash.
+
+
+[00:31:00] Yeah, it was just this like really early time and the market was super small and the tech was really bad. And so it did take us a while to get traction because in [00:31:10] 2017, really from 2017 to like 2021, we had like no traction because the tech was bad, the market was small. And then that really [00:31:20] started to change in 2021 for a number of reasons.
+
+
+And then since then we've been growing really fast. Hmm. Yeah. I think like isn't it better to get into the YC [00:31:30] when the tech is getting better, like in 20 later, like not 27 to think about that. Like for in general or for us? For you. Yeah. [00:31:40] Um, I'm not sure. I think, like for me, the, the, one of the biggest things that Y Combinator helped with was [00:31:50] getting, uh, uh, yeah.
+
+
+For, for me, one of the biggest things that Y Combinator helped with. Uh, getting like into [00:32:00] this community of, of startups, other founders, investors, advisors, because I was in San Francisco, just kind of like by [00:32:10] myself. And then my Combinators really accelerated my, um, journey of just getting into the, the startup community, and that [00:32:20] really, really helped.
+
+
+Um, but yeah, I think like, um, yeah, it's, I'm not sure if I have a good answer to that question of like, is it, [00:32:30] is it better to do it later or not? I think that, you know, anytime, anytime is good. Yeah. How about in general? What do you think, like for AI startups nowadays start [00:32:40] today? Like, getting into Y Combinator?
+
+
+Yeah. Or, or just like, oh, like going to the yc. Which one is better for the first [00:32:50] moment or when you have some transaction and progress you have? Yeah. So. Yeah, it's actually a good question. I think that, you know, a lot of [00:33:00] founders think that getting into Y Combinator raising capital is like just gonna make things happen.
+
+
+And it doesn't. You still have to make everything [00:33:10] happen and you have to build the product and you have to go get customers. No investors are gonna just hand your customers, make your product better, fix [00:33:20] things. And so I think that, you know, it doesn't really matter if you get into Y Combinator or not, or what your journey is or what your path is.
+
+
+I [00:33:30] think that ultimately you just have to build a really good product and make customers super happy. And if you do that, good things will happen. And so [00:33:40] that's what you have to just really focus on. Um, definitely, you know, raising capital and getting into programs like Y Combinator can help, but you still have to take [00:33:50] advantage of those opportunities.
+
+
+Um. And, and, and, you know, like be the driver of those opportunities. It doesn't just like magically create, uh, like a success [00:34:00] moment for you. Yeah. Okay. So mind if I run to the bathroom perhaps? Yes, for sure. Okay. Bring this, uh, should I bring this with me or, uh, I think it's [00:34:10] better to bring with you. Yeah.
+
+
+Yeah. Okay. Maybe, yeah.
+
+
+So[00:34:20] [00:34:30] [00:34:40] [00:34:50] [00:35:00] 
+
+
+the early days were tough. Yeah. Because no VC was, yeah. Sam, I mean, we went through Do you wanna get this or [00:35:10] should I Oh, yes, yes. How's the, is the, am I sitting fine too? Uh, fine. Like, could you move a little bit? Yes. Perfect. Okay. And [00:35:20] this one good.
+
+
+Is it okay? Okay. [00:35:30] Okay.
+
+
+Yeah. It was really hard to get, uh, [00:35:40] investors to believe in the company when we started it in 2017 because there was a lot of advances happening within AI back [00:35:50] then across so many different fields. New hardware was coming out that could help you train bigger models faster across everything from computer vision to [00:36:00] speech, to natural language processing.
+
+
+But we probably pitched a hundred investors after demo day, and all of 'em passed and said no, [00:36:10] because they thought the market was too small. You know, it was like they didn't believe in the, in the, the market. And then today, you know, it's like [00:36:20] explosive and the, the market is, is like huge. But back then in, in 2017 time, so many of these AI markets for video or speech were still just [00:36:30] so small because the flywheel of like the tech getting better, unlocking new applications, making the tech better, unlocking new applications was really just getting started.[00:36:40] 
+
+
+I see. Just a moment.[00:36:50] 
+
+
+Okay. Okay. Okay. Um, [00:37:00] okay then like, could you like, share any conversation with Daniel Gross? Like what, [00:37:10] what insights did you learn from him? Yeah, I think we, I. Most of the insights we learned really were like from our customers [00:37:20] and them trying to take the technology we're creating, putting it into production for these use cases, seeing where it would fail, [00:37:30] and then us going back to the drawing board and continuing to iterate.
+
+
+I think, um, you know, like, yeah, that, that was like, [00:37:40] I think more of what we, what like drove the company. Okay. So like as you told in 27, I, I [00:37:50] guess that AI models first speech world growing much attention, like, can you walk us through the key industrial developments from 2017 [00:38:00] to now? Like, yeah. Yeah. So I like to think of the company in chapters and the first chapter 2017, really the [00:38:10] 2021, we didn't have any traction.
+
+
+The market was super small. The tech was bad. Um, it, we were just a team of like four or five people just trying to get [00:38:20] things going. So it was, you know, slow. During that chapter around 2021, there were really two macro shifts that happened. The first was that [00:38:30] there was way more speech data flowing through the internet than ever before.
+
+
+We had COVID, which was a big shift to remote work. We had 5G and faster [00:38:40] internet that made audio and video and video conferencing more possible over the internet. The rise in popularity of audio and video as [00:38:50] a format, all of that created just way more audio and speech data flowing through the internet than ever before.
+
+
+Around that time around COVID. And then the second thing that [00:39:00] changed was that you started to have AI models be good enough to build apps with all of that speech data. So the hardware to train advanced AI [00:39:10] models was getting better and better. There was more data available, the algorithms were getting smarter and better, and so you have these two macro trends [00:39:20] really converging of way more speech data on the internet.
+
+
+Finally, AI models good enough to start building apps with that speech data, and that just created this [00:39:30] explosion of innovative developers building apps to do things like take meeting notes for you, help doctors and doctor patient visits, take [00:39:40] notes and update health records automatically help students learn.
+
+
+So we have developers building apps today, for example, that help students record all their [00:39:50] lectures and then build personalized study plans for them afterwards so they can interact with their lecture material and learn better. So just this explosion of apps became possible around that time, [00:40:00] and that's really when the company started to take off.
+
+
+So we raised our series A and $28 million series A from Excel in January of 2022. [00:40:10] Raised a series B, $30 million series B from Insight Partners a few months later. And then we raised a series C uh, about 18 to 20 months ago, like a [00:40:20] year and a half ago from Excel. Again, a $50 million series C. And that's 'cause the market just really started to explode and the technology was getting better and better.[00:40:30] 
+
+
+But you know, back in 2017 it was like early days and I think we had a lot of conviction that this was gonna happen. And so we really were like passionate about [00:40:40] staying the course and building a company and now it's still growing like crazy. Yeah. But how did you foresee that speech market would grow [00:40:50] like this in 2017?
+
+
+Yeah, I think that as a founder you just have this, uh, instinct for some market and that's what [00:41:00] gets you excited about working in that market or building in that market. And so for me that instinct was, um, voice. Interfaces and [00:41:10] speech AI technology could create such amazing experiences and products, and the technology was gonna get so much better over the next decade.
+
+
+And [00:41:20] if you could put that technology into the hands of just millions of developers really easily, they could build so many cool things that would [00:41:30] create huge markets. And that was the insight that I had when I started the company. For, for where this would go. What [00:41:40] kind of things, like what your colleagues or friends told, told you, say when you told them, I'm gonna make a speech AI startup.
+
+
+Yeah. I think like, [00:41:50] no, you know, no one believed in the idea when I started the company because they were like, oh, won't Google do this or won't these, you know, big tech companies just like, you know, [00:42:00] eat you up and make it really hard for you? And, and everyone just thought I was. Crazy and didn't wanna invest in the company and was like, why are you spending your time building this [00:42:10] company?
+
+
+So yeah, I think everyone was skeptical and at, at, at the idea behind assembly. 'cause it was like a really big, [00:42:20] uh, problem and it's like core infrastructure and it's AI and you know, it was like just me when I started it and then a small team for a while. Um, [00:42:30] and so it was just like a few believers along the way that helped us keep going.
+
+
+But I would say, you know, 99% of people were like complete skeptics. [00:42:40] Then what I You told me that instinct you have to the founder have to follow instinct, but weren't you like, oh, did I doing, [00:42:50] did I do wrong or did I have to pivot or do you have it, do you have, did you think about like this before? Yeah, I do you want me to repeat the question in my answer?
+
+
+Oh, [00:43:00] yeah, does, yeah. Okay. Yeah. Um. Yeah, I think everyone being a skeptic definitely made me have doubts at moments too. But [00:43:10] I loved the idea of the product that we were building and I think the more people said we couldn't do it, the more I was like, alright, we're gonna then [00:43:20] do it and prove all these people wrong.
+
+
+Um, and, uh, but yeah, I think like, you know, that's the hard thing about being an entrepreneur, being a founder is [00:43:30] like, you know, most people are not gonna believe in what you're trying to do until all of a sudden they do. Right. Um, but for a while, like, they're not gonna believe in, you have [00:43:40] to just like, stay the course and keep going and keep showing up even if you know, it's hard.
+
+
+And even if you have doubts and moments, you just have to like keep going. And I think [00:43:50] for me, what, you know, I've really just tried to focus on is like, as long as I feel really happy about the product that we're making [00:44:00] and. The customers that we have and they're happy, then that's like the validation I'm in search of is, do I feel happy about our product?[00:44:10] 
+
+
+Are our customers happy? Tho those are the people, like those are the things I try to get, um, validation from not what do other people [00:44:20] think about our, you know, company or what we're doing. Hmm. And that's really hard. Yeah, I guess so. Like, so, [00:44:30] but because like for five years you didn't have any fundraising something.
+
+
+Yeah. So the company must have like, uh, some challenge at that time. Like [00:44:40] could you share any challenge at the time? Yeah. The early years we had, I think we raised a million dollars from Angel investors after going through Y Combinator [00:44:50] and that's really the funding we had for years. So we were a super small team.
+
+
+We were about three or four people and we were just building and trying to get traction. And [00:45:00] finding the markets that were big enough to actually get customers at that time. Um, and that was hard because when you're not seeing traction, [00:45:10] it, it, you know, it's demotivating. And so we just again, like showed up every day and just tried to make progress and just like, kept at it until we [00:45:20] finally, um, until we finally like broke through the wall.
+
+
+So what, what, what was your first prototype look like? Like what was your original version? [00:45:30] Yeah. The, the very first prototype I built is too noisy. No, it's fine to, to get a little bit more comfortable.[00:45:40] 
+
+
+Alright. Is the image like, can you move a little bit? Yes. Like this? Yes. Perfect. The, the [00:45:50] very first prototype, uh, that I built had these old, uh, machine learning models for speech recognition that I built. That I just put behind an [00:46:00] API put up a website and just started shopping it around to customers that were trying to build apps or out speech data at the time.
+
+
+And then just [00:46:10] kept iterating and iterating as we got feedback on what wasn't working and what was, Hmm, okay. But it started with a website. So I think, you know, [00:46:20] a lot of people will think that maybe a lot of founders will start by thinking, oh, I need to go build a ton of stuff before I can then go get feedback from [00:46:30] the market customers.
+
+
+And you can start by just putting up a website and advertising the product that you want to build and just [00:46:40] putting like a, you know, contact us button on there and see what are people reaching out about? Are people reaching out? What do they want from your product? And that can be really helpful [00:46:50] to get validation early on.
+
+
+Are you building the right thing? Uh, before you go spend a ton of time building. So I think that really fast iteration loop is [00:47:00] important for startups to have with the customers and the markets that you're, you're working in. And I met one founder told that the opposite, like, you have to [00:47:10] be slow when the, you have to focus on the perfection of the product or what be then the moving fast.
+
+
+Like what do you [00:47:20] think about this statement? I think speed is the most important thing. I think you have to move, especially today so fast at [00:47:30] building, iterating with customers, staying multiple steps ahead of the market and of competition. So I think speed is super, super [00:47:40] important and as a startup company, you want to try to optimize everything you can for speed.
+
+
+So, you know, find areas [00:47:50] in your company where you're getting slowed down. From overhead or from just random stuff. And I think it's really important to just optimize [00:48:00] for speed, especially today. And do you have any specific moment you think like speed is important while you are building [00:48:10] assembly ai? Like through the journey?
+
+
+Yeah. Yeah. Um, I think s speed is probably more important now than ever [00:48:20] for us because the market is exploding and there's so many use cases that we're seeing developers want to build [00:48:30] apps around that they need really good speech AI for. They need new capabilities, they need better tech, they need better models, they need, you know, all this [00:48:40] stuff.
+
+
+And they're hungry for it because the opportunities are enormous. And so for us as a company, I think speed is more important than ever [00:48:50] because the opportunity that we have. Is bigger than it's ever been. The very large language models exploded in popularity. Like, did you ever consider [00:49:00] converting to other AI models?
+
+
+Like what, like what kept you focused on speech? I think you covered before, but Yeah. So when, [00:49:10] um,
+
+
+so a lot of the advances that led to large language models, so these transformer neural [00:49:20] network algorithms, better hardware, more data. We've actually leveraged all those same advances to create way more accurate and capable [00:49:30] speech AI models that are optimized for speech tasks. And if you look at some of the newest models that we're creating, they look a lot like LLMs, but [00:49:40] they're hyper optimized for speech tasks and that's what's making the capabilities we're giving to developers so much better.
+
+
+Everything from being able to. [00:49:50] Speakers be hyper accurate in various settings, be faster, lower cost. We always really wanted to [00:50:00] focus on speech and voice because we felt like that is one of the most important modalities for ai. If you think about it, you know, [00:50:10] most of our life is over speech. We talk to friends over the phone.
+
+
+We have meetings, we see doctors. We call businesses and [00:50:20] hotels and restaurants. And if we really want AI to be able to be a part of our everyday life, it has to be able to understand speech and interact with us [00:50:30] over voice. And so we're really excited about that potential and especially that potential to create really accurate and [00:50:40] amazing AI for speech and voice.
+
+
+And then just put it into the hands of the developers to build really creative stuff with and really amazing. And how do you [00:50:50] quantitatively differentiate assembly AI from competitors in terms of like aggressive and speed or other key metrics? We're really focused [00:51:00] on the most advanced cutting edge applications of speech AI and voice ai and creating optimized models for [00:51:10] those applications and working really closely with our customers and with developers that are trying to build those.
+
+
+So we have over half a million developers that have [00:51:20] built with our platform. We have hundreds of customers that are in Slack with us. These are like super fast growing AI native startups and [00:51:30] they're really telling us where they need the technology to go, where they're limited, where they're locked, and we're hyper optimizing and focusing all [00:51:40] the tech that we're creating and the developer platform really with our eye to like where.
+
+
+The market is going and trying to build the, the best [00:51:50] technology for that hand in hand with our customers. And how gonna turn off that? Oh, is it possible? It's fine, [00:52:00] but is it possible? Yeah, I can turn it off. Ah, yeah. Cool. I'll go do that. Yeah. Careful for the.[00:52:10] [00:52:20] [00:52:30] [00:52:40] 
+
+
+I thought I knew what it's, but I don't. Oh, it's okay. Sorry. No, it's fine.[00:52:50] 
+
+
+All right,[00:53:00] 
+
+
+cool. Okay, so a little bit like this. Okay, perfect. So like how accurate is [00:53:10] your IS assembly ai? The accuracy really depends on the use case for conversational data. Like meetings, the accuracy has gotten really, really good. [00:53:20] Where speech AI models in general still really struggle is in really noisy real world scenarios.
+
+
+Imagine you're ordering [00:53:30] something through a drive through, or you're. Having an in-person meeting with 10 people, and you want to be able to distinguish who said what, and there's a lot of people talking over each other, [00:53:40] or you're having a phone call and it's windy and the quality's bad. That's where the AI models still do struggle today.[00:53:50] 
+
+
+And that's an amazing opportunity because there's so many applications that are limited by, um, by, by those things. And so we're really excited to [00:54:00] keep making the models that we're creating better and better to make these new applications possible that still are not possible today. The new [00:54:10] recently launched Slam one.
+
+
+Yeah. Like what is this model and which industries are adopting it most? Like could you, like what [00:54:20] Tragic thinking drop its development? Yeah. So Slam One is one of our newest speech AI models and it's really focused on [00:54:30] making, um. Uh, I'll, I'll start over on this one.
+
+
+Slam [00:54:40] one is one of our newest speech ad models, and it's really focused on pushing accuracy higher than, uh, traditional [00:54:50] speech ad models are able to deliver, especially in industries like medical or where there's a lot of complex technical jargon [00:55:00] in, uh, conversations. And you need to be able to optimize these models kind of on the fly for those different use cases.
+
+
+So Slam One is our latest, uh, most [00:55:10] advanced AI model for speech tasks where you need more customizability and you need just higher levels of accuracy and, and, um, it's in beta right [00:55:20] now and we're, we're actively like deploying it with more customers. And could you share any interesting user case with like, who used this model or [00:55:30] any assembly?
+
+
+Yeah, so there's a customer that we have and they're building an AI that can help salespeople, um, uh, [00:55:40] get coaching on the sales conversations that they're having. And a key part of coaching is knowing, um, what products, um, [00:55:50] uh, sorry, let me, let me redo this one. Yes, you change thought.[00:56:00] 
+
+
+So there's a, um, uh, there's a customer we have, they're building an AI that can [00:56:10] help salespeople get coaching after they have sales calls, whether it's in person or over the phone, or virtual. And Slam is helping those [00:56:20] ai, uh, apps be way more accurate at coaching sales, uh, sales teams, especially around. Um, products that they're [00:56:30] shipping or that they're, that they're pitching or, um, uh, like really custom terminology that they need to be able to capture to get high quality coaching.
+
+
+So [00:56:40] that's a great example of like where we're seeing Slam used and I saw your LinkedIn and so yeah, like most of the ladies voice [00:56:50] models are hallucinate heavily. Like what does this note mean and what do you think about this? About? Yeah. Yeah. [00:57:00] So we're really focused on real world applications of speech AI and making all the models that [00:57:10] we create really optimized for those applications and be reliable and accurate and super easy to use and build with.
+
+
+And an example of where a lot of speech AI models [00:57:20] will struggle today is with hallucination. So when there's background noise or long periods of silence. Um, a lot of AI models will just start [00:57:30] making stuff up, and this can be really bad for a lot of reasons. That's an example of like where we really try to focus on making our models robust so that they [00:57:40] don't hallucinate even in these, um, uh, uh, in these scenarios.
+
+
+And is one, just one of like many examples of why [00:57:50] developers and companies are able to rely on our platform, especially at scale with these like mission critical workflows that they're, they're putting into production. [00:58:00] When you encounter this, those kind of technology challenges, what do you feel like as a founder?
+
+
+Like, do you still in, [00:58:10] are you still interested in, oh, this is the step I have to break? Like as a video game? Mm-hmm. Yeah. I think, you know,[00:58:20] 
+
+
+when.
+
+
+When, when people would [00:58:30] talk about like, oh, your vision for the company. I think that can always seem, at least to me, that always seemed like a little, a little, uh, um, [00:58:40] what, what's the word? Like a little, uh,[00:58:50] 
+
+
+I'm trying to think of, what's a good word here.
+
+
+Yeah. Let me start [00:59:00] over here. Okay. When people, you know, would talk about, like, what's your vision for the company? I think that would always, to me feel like a very, you know, big thing and a big statement. [00:59:10] But I think now what I think about is, you know, I just have this vision for what I want our product to be and what I want it to do, and we're still not [00:59:20] there.
+
+
+And so whenever we get feedback from customers on what they want our product or our bottles to be able to do, then it can't, to me that, [00:59:30] you know, buyers me up, makes me want to work hard to go continue to execute on this vision for this product that we want to exist, which is, [00:59:40] you know, this amazing, accurate and easy to use development platform for speech ai.
+
+
+And that's the vision that we had when we started the company, when I [00:59:50] started the company of like, I want this product to exist. It doesn't exist right now, so I'm gonna go make it. And I still think that product doesn't exist [01:00:00] and we've made a lot of progress and I'm really proud of what we've made, but we're still in search of creating that, that product.
+
+
+And like, that is the vision [01:00:10] that I have of like, I want that product to exist and I'm really gonna focus on, on continuing to, to, to like make that for you. [01:00:20] Hmm. Then like you are targeting developers specifically, like why, what key factors do you prioritize when building products for this [01:00:30] particular audience?
+
+
+I think a lot of startups struggle with being really clear on who their customer is and [01:00:40] what market they're serving, and then using that clarity to design a really good customer journey and a really good product roadmap. And so for us, we're [01:00:50] selling to developers, and so we need to be really focused on what's the entire customer journey a developer wants to have?
+
+
+Everything from how do they [01:01:00] hear about you to, how do they evaluate you? How do they deploy with you, scale with you? It's very different from a traditional like B2B SaaS [01:01:10] customer journey, where there's evaluations and there's pilots and there's this big, you know, contracting process. What we find is that developers just really [01:01:20] want.
+
+
+Um, like little friction in the process. They just want to be able to try your development platform. If it works, they want to be able to scale with it, put it [01:01:30] into production. And so what we're really trying to do is make that customer journey really tightly mapped to developers. And so, for example, we have [01:01:40] a pretty disruptive pricing model, which is all pay as you go.
+
+
+And so you can, uh, come to assembly and you can try our platform [01:01:50] and you can build a prototype. You can also put it into production with super high rate, limits and scale, and you have great pricing. It's all pay as you go, which [01:02:00] is very different from pretty much everyone else where before you put their platform into production, you have to go through this huge contracting exercise and make these big [01:02:10] commitments that are like multiple years long with assembly.
+
+
+It's all pay as you go. So it's super easy for developers to go from, Hey, I have an idea to, I want put this. Huge scale [01:02:20] in production, and that's an example of like how we're really trying to optimize the entire customer journey towards how our customers like [01:02:30] to our customers because we have a really good, uh, really good clarity of like who our customers are.
+
+
+Then what's framework for staying focused versus [01:02:40] expanding? Like to other like too broadly? Yeah. I think the best way to stay focused is to have [01:02:50] a lot of clarity on who your customer is, and that's a hard thing to do. I think for us, that was even something that took a while to like get a lot [01:03:00] of clarity on like, okay, this is the market we're going after.
+
+
+This is the customer, this is how they want to go on a customer journey. This is [01:03:10] how they decide to make a purchasing decision. You know, that that can inform our whole customer journey and how we do. Pricing and packaging. [01:03:20] And then it also informs, you know, our roadmap. 'cause we know exactly who we're building for, what market, what application.
+
+
+And I think that for us and for a lot of [01:03:30] startups, um, you can almost start too broad where it's like, oh, we're going after this big market, so it's for everyone. And you know, that, while that can be like where you [01:03:40] want to get to over time, I think it can be really helpful to start by having a, a lot of clarity on like, you know, we're selling to this market, uh, this is who [01:03:50] the buyer is, and then work backwards from that.
+
+
+So what I think a lot of, you know, a lot of times where you can get in trouble is like you design [01:04:00] a roadmap or a customer journey, especially that's kind of like untethered to what your customer wants. And so if you can really keep your customer first [01:04:10] and think backwards from there, like how do they hear about new products?
+
+
+Okay, that's where you should advertise. How do they try new products? Okay. That's what your [01:04:20] trial process should be. Um, that can be really helpful from a, from a focus perspective. And then, you know, it's, it's less about, you know, um, oh, is [01:04:30] this idea better than that idea? It's like, well, what does, what does the customer want?
+
+
+And let's build what the customer wants. But sometimes what I built turns out to be [01:04:40] different from what the customers want. Like do you, did you have any experience like this before where you built something and it's not like, like you don't have good [01:04:50] product market fit? Yeah, I guess so. Like, yeah, when I built and people doesn't like it and people said, oh, that's what I want.
+
+
+Like that. Yeah. Yeah. I mean, we all the time, you [01:05:00] know, we'll build stuff that doesn't have product market fit. So, um, you know, it, it, it's a hard, it's hard and that's why you have to just constantly be iterating. But I [01:05:10] think, uh, you know, the, the more you have clarity over like who your, who your customer is.
+
+
+What they want. The more you can kind of be on target with what [01:05:20] your, what your roadmap is. Okay. So like how many data or developers are using [01:05:30] assembly AI in a day? Like, can you share any, some metrics? Yeah, so, um, what's five [01:05:40] divided by? Can I can one you do like five divided by 30 for a second. Five divide to 30.
+
+
+Mm-hmm.[01:05:50] 
+
+
+0.16. 6 1 6 0.166. Yes. Yes. Um, I'm trying to give you a good data stat. I have it. Can I do [01:06:00] monthly? Uh oh yeah, sure. Yeah. Monthly. It's easier for me to do monthly. Okay. Yeah. So, um, we'll handle this month alone [01:06:10] about five petabytes of speech data through our API. Form and yeah, I don't know if this is exactly right, but from [01:06:20] what I've read, that's about 10 x the size of the entire Spotify library and catalog and usage to our developer platform is growing [01:06:30] over 250% year over year.
+
+
+So as all these new applications around speech are continuing to take off the amount of speech data we're handling, [01:06:40] it just continues to grow rapidly. So the scale is like pretty insane, I guess. So, so like how specifically [01:06:50] should I like, define our customer? Like, like how, what kind of things should founders think when they like target [01:07:00] some specific audience?
+
+
+How to figure out who your customer is? Yeah, yeah. So.[01:07:10] 
+
+
+I think as a, as, yeah, as a founder, you, you can pick who [01:07:20] the customer is that you're going after and what market you want to serve. So, you know, if you're building like productivity software, you can create general [01:07:30] purpose productivity software or you can build product surface, or sorry, uh, productivity software for like, um, you know, uh, sales teams or product [01:07:40] teams or, you know, engineering teams or something.
+
+
+Um, so I think the hard part about being a founder and strategy is, you know, you have to pick [01:07:50] like, um, where do you want to focus because you can pick. And so the, the, the more specific you can be and [01:08:00] the more you know conviction you can have around where you want to focus, uh, the better. And then if what you learn, um, you know, [01:08:10] uh, if, if, if what you learn, like, um, like you, you can always change your focus as you learn, right?
+
+
+But I think it's important to like [01:08:20] have a focus and then you learn and then you can focus other areas. So like in the early days, for example, we spent a lot of time [01:08:30] on content moderation, for example. And then we found, oh, that's actually like not an area that we want to focus a lot on for various reasons.
+
+
+And so [01:08:40] we made the conscious decision of saying, okay, that's not an area we want to focus a lot on right now. We're gonna focus on these other use cases and these, these other areas and maybe we'll come back to that later [01:08:50] and decide to prioritize that market later. But for right now, we're gonna be very explicit and go focus on these other markets or you know, this, this other use case right now.
+
+
+And [01:09:00] so you can always go back to areas and customers that you're not focusing on. But I think just being really explicit about like, where are you focusing and who are you focusing on at [01:09:10] any point in time is, is, uh, is really, really helpful. So maybe the like priorit prioritize is very important, right?
+
+
+Yeah. Prioritize is [01:09:20] important and what I think is easier to do is prioritize your roadmap for your customer. I think what's harder to do is prioritize your customer journey for [01:09:30] your customer, and both are equally important. You can build a really good product. If you don't have the right customer journey to that product, it's, it's not gonna [01:09:40] work.
+
+
+It has to all come together, and I don't think there's enough time spent on optimizing your customer journey as there is on [01:09:50] products in startups. We learned this the hard way too. I think customer journey becomes way more important, especially as you're trying to scale because everything has to [01:10:00] click how people hear about you and try your product.
+
+
+To decide to purchase your product, you have to really iterate on that and have product [01:10:10] market fit with that in addition to your product as well. So you, you've achieved very rapid growth in three years, like, but core [01:10:20] philosophy, have you maintained throughout this rapid scaling? There's been a lot of learning.
+
+
+You know, we raised, uh, [01:10:30] yeah, there, there's been a lot of learning. We raised over a hundred million dollars in like less than two years, and we, you know, scaled the team and [01:10:40] we, uh, really started scaling the company. And so that was, you know, a challenging period. And for any company that's challenging, I think that, um, one of the [01:10:50] biggest things I've learned is that every startup, you know, you, you have your own journey.
+
+
+It's easy to compare yourself to other startups. You know, you have friends that are [01:11:00] founders and maybe they're a stage or two. But startups are not franchise businesses, I think is one of the biggest things that I've learned. And what I [01:11:10] mean by that is like you have to really figure out what your journey is.
+
+
+And every journey is slightly different. And there's a lot of startup dogma [01:11:20] that, you know, you don't have to subscribe to. And in a lot of ways can actually make it harder for you as a founder because you feel like [01:11:30] there's all this stuff you have to do. And in reality, you just have to really build a great product, uh, make your customers happy, and, and that's what you want to focus on.[01:11:40] 
+
+
+And so, you know, um, I think that realization has helped me a lot as a founder realizing, okay, we're on our, our own journey. [01:11:50] Startups are all, all look different, all their journeys are different. Um, and just be really focused on, on making a great product, on making [01:12:00] customers super happy. That's the North Star.
+
+
+Okay. So, uh, you mentioned that AI models earned really earned [01:12:10] products. I saw on your LinkedIn, I was like, what kind, what makes you, what do you mean by this? And what do you believe are the essential components that make something a [01:12:20] true product? Yeah.
+
+
+You mind if we take like two minute break? Oh yeah, sure. Can I just get like [01:12:30] another cup of coffee? Yeah. And, um, can you a snack? Yeah. Yes. That's good. Yeah. Is that fine? Yeah, sure. I can tell, I can tell. My brain [01:12:40] is getting a little and I wanna, we ask a lot of questions to understand. No, it's good. Yeah. Yeah.
+
+
+Maybe you could put it in your back. Yeah, sure. Yeah, that's fine. Yeah. Maybe just like five minutes. [01:12:50] Sure. Sure.[01:13:00] [01:13:10] [01:13:20] [01:13:30] [01:13:40] [01:13:50] [01:14:00] [01:14:10] [01:14:20] [01:14:30] 
+
+
+Oh, sorry. It's okay. Okay. So [01:14:40] like, uh, could you share your, like in your clients, the logic clients and how their crisis growing up? How the accuracy's going up. [01:14:50] Yeah. We like for like you told the 80%. Yeah. Kendall. Yeah. So one of the biggest contact center platforms in the [01:15:00] industry and they power the contact center for companies like Delta Airlines.
+
+
+They switched over to assembly and they saw an 80% [01:15:10] increase in CSAP scores. They saw 60% reduction in customer support tickets related to speech capabilities like [01:15:20] uh, unaccurate transcriptions and issues with speech, um, AI within their contact center platform. And then other customers we have like [01:15:30] fireflies ai, they just crossed a billion dollar evaluation.
+
+
+Their note taker is super popular. They have billboards all around New York. And so all of these apps [01:15:40] that are being built around speech are just taking off right now. Because the AI capabilities are getting better and better and [01:15:50] better, and they're enabling these really innovative app developers to build these really cool experiences and brand new apps that really weren't even possible like a [01:16:00] year ago.
+
+
+But now that they are, there's just so much demand for them. And what you can do with them's like, is, is it's super valuable. Sorry, the audio. So [01:16:10] can, uh, take off the app? Yeah. Oh, sorry. Yeah. Is this, uh, yeah, no problem. Cool. [01:16:20] Sorry. You're good.[01:16:30] 
+
+
+And,
+
+
+mm-hmm. And for upgrade, why is it upgrade is important [01:16:40] and why? What kind of technology? Are you struggling to improve like a crazy Yeah. Accuracy of speech AI is critical [01:16:50] because anything you want to do around human speech starts with capturing that human speech accurately first. So if you want to take [01:17:00] notes, you have to get everything accurate.
+
+
+If you want to, uh, automate the entry of medical records, you need, you know, a hundred percent accuracy there. [01:17:10] Otherwise, you know, it could be a disaster. Uh, so in every application of speech ai, every single decimal point of accuracy is critical because it [01:17:20] means downstream the difference between like something working and not working.
+
+
+If I don't get your name right in, you know, a, a transcription, um, then like [01:17:30] every other automation I want to build off of our meeting breaks because your name was wrong. And a great example of this today is like there's a ton of growth in these real [01:17:40] time voice. So these are ais you can talk to on the phone and they can help you book appointments.
+
+
+So the next time you call a doctor's office to schedule an appointment, [01:17:50] um, there's a good chance you're gonna be talking to an AI actually to schedule that appointment and not a human. And like these voice agents are being deployed [01:18:00] pretty rapidly. Where they still struggle a lot is capturing things like your email.
+
+
+So if you call in to schedule, uh, a doctor's appointment and they ask you, okay, what's your email? I'm [01:18:10] gonna send you a confirmation and you list off your email. A lot of times that's where speech eye models will break today still. And then when that breaks, you know, everything [01:18:20] else breaks. So every like accuracy of critical data capture is really, really important.
+
+
+And that's what we're focused on making our tech just hyper optimized for. So we [01:18:30] make these use cases and the success rate of these use cases go up and up and lower stakes applications, you know, if you're doing closed captioning or something [01:18:40] where. There's a human in the loop. You know, you don't need extreme levels of accuracy, but if you're really trying to automate workflows with speech AI or build products that are [01:18:50] dependent on speech ai working well, especially with critical data capture, that's where you need just extreme levels of accuracy.
+
+
+While the models have gotten way better, they [01:19:00] still struggle with things like getting your name right or getting email addresses right, or rare custom terms. They struggle with distinguishing speakers that have similar sounding [01:19:10] voices, especially in real time and with super low latency. Uh, so that's really where we're focused on making our models better and better.
+
+
+Our roadmap over the next couple of months is really [01:19:20] focused around higher accuracy models, especially in those critical areas like names and emails and product names, and building models that can leverage [01:19:30] context so that you can give our models context about the industry or the, the, um, the use case they're operating in.
+
+
+And [01:19:40] then they'll be able to leverage that to be way more accurate, especially in these really critical areas, as well as areas like distinguishing speakers really well. [01:19:50] Similar voices in person, uh, really challenging audio, like phone calls or drive through voice ordering. Those are all areas that we're really trying to [01:20:00] push the tech and where accuracy is just like so important for, um, for, for tech, for, for these use cases to, to, to work well.[01:20:10] 
+
+
+Like I think someone's here. Okay, cool. Sorry. Sorry. That was fine. Fine. [01:20:20] Right here. No, we went out to the back. We got the coat. We're hot to coat. Thank you.[01:20:30] 
+
+
+Okay. Can we [01:20:40] adjust the microphone again? Yeah, of course. Yeah, stand up. Oh, maybe we can turn off the mic again.[01:20:50] [01:21:00] 
+
+
+Good testing.[01:21:10] 
+
+
+Okay.[01:21:20] 
+
+
+Okay. So like I think the voice ai, especially AI, is very competitive, like [01:21:30] landscape. Like 11 labs or deep brain, I think there are many competitors. Was there approach to say how a stay ahead? [01:21:40] Yeah. We're really focused on building the most accurate, the easiest to use speech AI developer platform, especially [01:21:50] for these use cases that are taking off and they're really cutting edge.
+
+
+And so what we do is work really closely with the thousands of [01:22:00] customers we have and the hundreds of thousands of developers that are building on our platform to really understand what are the limits of the tech today, where do we need [01:22:10] to raise those limits? What's blocking applications from being successful or not?
+
+
+And it's that insight that helps us really stay ahead. And I think in [01:22:20] general, you know, I'm an AI optimist, so I love all the advances that are happening in AI overall and all the investment that's coming into ai. [01:22:30] It's transformed my life personally. It's transforming businesses and the lives of professional workers.
+
+
+So for us, we're really focused though [01:22:40] on building the best developer platform for speech AI and helping all those applications just continue to have more and more success with [01:22:50] the capabilities that we're we're building. And I noticed you currently only supporting residency in the EU and us. Like do you have a, what's [01:23:00] the reasoning behind this?
+
+
+Yeah, so you can use our API on servers that run in the US or servers that run in the eu. [01:23:10] A lot of, um, uh, that's really been, uh, uh, so I'll just start over. You can, you can use our API and servers that run in the US or servers that run [01:23:20] in the eu. And that's mostly just been driven from customer demand, that customers in Europe we have that want all our API infrastructure run in Europe.
+
+
+Pretty soon though, we're [01:23:30] launching the ability for customers to self-host all of our speech AI models. So you can self-host the models that you create on your own servers in whatever cloud you want, in whatever region [01:23:40] you want. And that's coming out in the next few months. So we're really excited about watching that.
+
+
+So like, uh, [01:23:50] what's your vision for the future of ai, voice technology? Can you, did you imagine that when you first built assembly ai, you can imagine this kind [01:24:00] of many apps that using this speech ai Yeah, so it, it's, it's already pretty wild the benefits that [01:24:10] speech AI can have today. So we're seeing students record all their lectures and then be able to leverage speech AI from assembly [01:24:20] to create customized study plans around all the lectures that they've recorded.
+
+
+They're able to go back to any lecture. And we play parts. They wanna listen to, [01:24:30] again, ask questions with AI around lectures. And as a result, they're getting higher test grades, they're learning faster. And it's wild. The benefits [01:24:40] that speech AI is already having today in those types of applications, we're seeing salespeople that use AI to coach their sales conversations [01:24:50] earn 10 to $20,000 more in take home pay per quarter using apps like Zero, which is, um, uh, really fast growing [01:25:00] app for salespeople that is using this BGI capabilities from assembly within their application.
+
+
+And so the things that speech AI [01:25:10] can deliver, the value it can deliver today is like pretty remarkable. What we're really excited about is continuing to make our models work [01:25:20] for critical data capture, like names and emails, especially in industries like medicine or legal. Or, uh, B2B scenarios where [01:25:30] there's a lot of custom terminology that will make, uh, a lot of applications work a lot more accurately.
+
+
+And then there's these real time voice agents, [01:25:40] which is one of the fastest growing markets that we're building for today, and use cases that we're building for today. And so these are ais that can talk to you on the phone, talk to you within your [01:25:50] apps. I was on hold for example, for like 45 minutes last week to schedule a furniture delivery.
+
+
+And then I finally talked to someone, it's like two minutes [01:26:00] to just pick a date, uh, give them my address, and then they get me off the phone. There's no reason why an AI couldn't handle that request right now, and then [01:26:10] I wouldn't have had to wait in 45 minutes to talk to someone. So that is, is possible to do today, which most people actually don't realize how far the tech has gotten [01:26:20] every three months.
+
+
+AI technology is taking pretty big leaps and so we're really excited to continue to build toward. Some of those use cases where we're just seeing like crazy traction [01:26:30] right now. And do you still code these days as engineer? Yeah, I mostly buy code, but yeah. Yeah. Could you explain [01:26:40] how your day is going?
+
+
+Like whole day? Yeah. Your, it's a good question. Um, I'm trying to spend a, a [01:26:50] lot less time in meetings and a lot more time using our product, talking to customers, uh, and, and, uh, just, [01:27:00] yeah. Well, let me, let me think about this answer. I give it to you. Um,[01:27:10] 
+
+
+so maybe may, I'll answer it a different way. [01:27:20] Um, we're, we're trying to move really, really fast. This company right now. And so most of my day is spent talking to [01:27:30] customers, working with our product teams, playing with our product, and seeing where it's working and where it's not. I think founders and, and [01:27:40] startups, you really need to have this like deep, deep subject matter expertise in your market and in your customers and your product that [01:27:50] frankly, I think a lot of teams miss or maybe just like undervalue how important that is.
+
+
+And especially as your company gets bigger, I think that subject matter [01:28:00] expertise is critical, both for you as a founder but then also for your team to, to have. So I try to really, um, maintain that subject matter [01:28:10] expertise in our market, in our product and our customers by talking to customers, using our product.
+
+
+Uh, talking to companies out there that are doing stuff with [01:28:20] speech ai, but maybe not using assembly for it and trying to understand why. And so that subject matter expertise I think is critical. And I try to spend a lot of my day around [01:28:30] constantly building the subject matter expertise and then making sure as a company we can just move faster and faster and faster.
+
+
+Do you think [01:28:40] that part is important these days? Or even for the, like on the like start stage? Which one? The subject matter expertise. Yeah.[01:28:50] 
+
+
+I think that subject matter expertise is really important at all stages of a company, and I think in a [01:29:00] lot of ways it's like undervalued and underappreciated versus functional expertise. And so, you know, I think as a founder, especially as a first time [01:29:10] founder, you don't always have a lot of confidence in your functional expertise.
+
+
+And so, you know, there's a lot of people out there that have amazing functional [01:29:20] expertise, but don't have the deep subject matter expertise. That you have or that your team has over a certain market or a certain customer or [01:29:30] product. And so what I've learned to really, really value and appreciate and, and think is really critical, honestly, over functional expertise is that [01:29:40] subject matter expertise.
+
+
+And I think that's where startups can win because as a company you can have this deep subject matter expertise and like institutional [01:29:50] knowledge over your market and over your customers and over your product. That is a competitive advantage and a moat in and of itself. And that's something that, um, I think [01:30:00] is undervalued and underappreciated, but it's really, really, I've learned and I think important for, for, for companies.
+
+
+And you mentioned how important [01:30:10] it is to follow the customer journey. Yeah. Like what advice do you have when it comes to actually talking to customers? Yeah.[01:30:20] 
+
+
+So for me, I love the product that we're building. I love the space that we're building. And so I have a genuine interest [01:30:30] in my customers as a result and the developers that are building on our platform as a result. And I think that's why it's really important that you are building something that [01:30:40] you really enjoy building in a market that you're genuinely excited about.
+
+
+Because then when you talk to customers, you have a, a genuine interest in what they're building, in their [01:30:50] feedback and they're, you know, gonna be more open to working with you 'cause they can tell you have that genuine interest. So for me, I've always had just a deep genuine [01:31:00] interest in our customers and in the technology that we're building and, and constantly making it better.
+
+
+So when I talk to customers, I don't want the flattery. I [01:31:10] want, like, where does our product suck? Because that's where I want to go spend my time on figuring out how to make it not suck. And some of the questions I ask are like. [01:31:20] Hey, what are the top three things that you don't like about our product? Or if you were in charge of our roadmap, what would you prioritize?
+
+
+Those types of questions are really helpful [01:31:30] because, you know, they give you that feedback and that insight over, like where do you need to continue to push? Um, I'm, I'm never satisfied with our progress. It's kind of [01:31:40] crazy how that, you know, you're just like never, uh, the bar just gets higher and higher.
+
+
+And so for me, when I talk to customers, I really am always looking for their feedback. Um, really trying [01:31:50] to, to understand how they heard about us and, and what are they trying to do. And that genuine interest is because I love the space that we're working in and [01:32:00] I am really excited about what our customers are building.
+
+
+Like I see some of the apps they launch and they build and it's like, like, I wanna go talk about them with my friends 'cause they're so cool and inspiring and [01:32:10] exciting. And that's why I love what we're working on despite it being so difficult. And being a founder is, is, is really hard, is like, um. Uh, [01:32:20] it's, I, I love what we're building and the market that we're, we're building in.
+
+
+I think like, what I love and what I do do well, and [01:32:30] that is really, uh, which one that is market wants. I think that things like, like combine that things together, like [01:32:40] they are on the same stage is acting, think a little bit different, uh, difficult, like, do you understand my word? Not fully, it's almost, but maybe.
+
+
+[01:32:50] So like what I love and what I did, what I do well, and that is, uh, com like could you [01:33:00] help me? Like the things that you lo you love and as well as you are doing well. And at the [01:33:10] same time, the market wants all the, all the three, three things together is quite hard and. Do you think you'll find those points or, [01:33:20] or elsewhere?
+
+
+Uh, do you think, like in your advise on how to find that way? Hmm. [01:33:30] Yeah. I mean, when I think about like, what would I be doing if I wasn't working on assembly, it's like I feel like it would just be assembly because, you know, [01:33:40] I, I, the technology I find super interesting. I'm super excited about the market.
+
+
+Like, I, I think it's fun and, and [01:33:50] personally it's like in that sweet spot of, um, you know, there's an opportunity and, and I am really interested in it and I'm passionate about it. And so I think [01:34:00] as a founder, if you're trying to start a company trying to find something that, you know, like regardless of the business outcome, like are you excited every day to go [01:34:10] work on this thing and move this thing forward?
+
+
+Is, is really important. 'cause there's gonna be. Hard times and like slow and, and good times. And in the hard times, if [01:34:20] you don't like what you're working on, then like it's even harder. Yeah. Does that make sense? Does that answer? Yeah. Perfect. Uh, then like, uh, [01:34:30] like you mentioned that AI models really aren't products.
+
+
+I think I didn't get answer for that. Yeah. So like, what do you mean by this and what do you believe are the [01:34:40] essential components that make something a true product? Yeah.[01:34:50] [01:35:00] 
+
+
+So the way I think about AI models is like on their own, they're not really a product or for anything. [01:35:10] It's when you really mold them or shape them for a specific. Use case or application, then all of a sudden they go from being, you know, researched [01:35:20] to something that's actually closer to an application.
+
+
+So for us, what we're really focused on is, okay, you know, what's the latest AI [01:35:30] technology and models we could create? But let's not do it without understanding who are we doing this for? Because that insight of like, who are you building this for? [01:35:40] Even when you're creating AI models is actually really, really helpful because when you're making an AI model, like at so many points, you have to decide between trade offs, right?
+
+
+[01:35:50] What type of data do you use? What type of thing do you optimize for, uh, latency cost, all these things. When you know who you're building this [01:36:00] AI model for, then you can make all those trade offs a lot more intelligently in a way that makes your AI model have more product market fit for who you're building it for.[01:36:10] 
+
+
+And that's what I think transforms like general purpose AI tech. Into something that is a product. 'cause it's for a customer, it's for a specific [01:36:20] application. And so whenever we're building ai, we really are trying to constantly understand like, what are the things that our customers are gonna in this market [01:36:30] evaluate this thing for?
+
+
+Okay, let's try to make it really good for those, even if it gets worse for these other things that we know, our customers that we're trying to build this for don't [01:36:40] really serve, don't, don't really care about. And so I think that's the difference between just like building AI technology that's general purpose and building really [01:36:50] optimize the AI models that really as a result, like turn into more of a product, um, for customers.
+
+
+And then there's all the stuff around it. So what, what are all the features [01:37:00] around a model? Scaling it, um, uh, making it super fast, making it low cost, uh, just a ton of features around a model you need to make [01:37:10] it more usable and really easy to work with. Those are all the things that we also really try to focus on because our goal at Assembly isn't really only to build great models, it's [01:37:20] to build a developer platform.
+
+
+And so we want to help you go from speech to whatever it is that you want to do and some application you want to build and, and like give you [01:37:30] the tools to like unlock that, that creativity that you have. And so we don't stop at, at least, we don't want to stop at, alright, we just made the model. There's a bunch of other stuff that [01:37:40] you have to go do to actually use it for some application.
+
+
+We want to do all that other stuff too, so you can really focus on the idea you have as a developer or the app you want to build. And so [01:37:50] for us, that's why we think about it more as we're building a developer platform, not just an AI model for speech and what kind. Does that make sense? Yeah. Cool. Then what kind of [01:38:00] word do you think that, like if voice agents become highly advanced, when you, when you reach that goal, like what kind of word do you.[01:38:10] 
+
+
+When voice agents become really incapable. Yeah, I think probably the next year at least, it could be half the phone calls that you have with [01:38:20] a business will be able to buy an ai and you may not even realize. So the next time you book a doctor's appointment, the next time you call a reserve [01:38:30] a, a hotel or a table at a restaurant or schedule delivery, probably most of, maybe like half of those conversations will be, uh, handled by [01:38:40] an ai.
+
+
+And as a human, you're actually gonna like that because there's no wait time. It's, it's, it's, it's accurate and it works. And so I think that will be here [01:38:50] sooner than most people realize. The other, um, yeah. So I think that will be here like sooner than people realize. And we're working right now on a [01:39:00] ton of improvements to our platform for these real time use cases to make that a more accurate, faster.
+
+
+Handle some of the issues around natural [01:39:10] conversation flows that break some of these real time voice agents today. But the pace of progress is like pretty, pretty crazy. Hmm. And is there any like agents that [01:39:20] you personally use and think find useful? Yeah, I use ton of AI tools. So as a company, you know, we have [01:39:30] ais that take notes for us in meetings that take notes in sales calls and customer conversations and then stream all that feedback back into Slack so [01:39:40] that customer insights are like democratized across the company.
+
+
+And everyone can look at every single, you know, sales conversation or customer conversation we're having [01:39:50] and see what that product feedback is or what are the specific things those customers are looking for in our product. And all of that insight is incredible. 'cause if you're [01:40:00] a researcher at our company, you don't have to, you know, wonder about like.
+
+
+Well, who am I building this model for? You can just go into Slack and see, [01:40:10] you know, hundreds of conversations over the last month and all the patterns of what people were looking for in the models or where they weren't working well [01:40:20] and have that insight that helped you make a, a better product. So that's an example of like how we're using it today.
+
+
+We also have agents that will look at metrics and analytic dashboards, [01:40:30] like literally like log in, look at those metrics and analytic dashboards, take notes on like where there's metrics that are not going in the right direction. And then, [01:40:40] uh, post those to our team in Slack so that we're getting these proactive alerts across the company on where we need to go focus our time.
+
+
+So it's pretty crazy what you can [01:40:50] do with agents and with AI now and every really three months, like what you can do, the bar goes up and up and do you think, like me, I'm not expert on [01:41:00] coding and I don't have any idea of coding, so I can. Do I can make any agents read assembly ai? Like what? So yeah, what we're seeing, you know, a [01:41:10] lot of folks do now is vibe code these speech AI apps using assembly.
+
+
+And so maybe you vibe code, um, a voice [01:41:20] agent or maybe you vibe code a media post-production process that can cut your video up into social media clips or help you edit your, your, your, [01:41:30] your podcast recording faster. We're seeing a ton of that. In fact, we're even like optimizing a lot of our content and docs to work really well with vibe coding [01:41:40] tools because of the demand we're seeing from developers at one of five code apps using assembly, um, uh, around speech.
+
+
+[01:41:50] So like, yeah, like literally like what you could do, and maybe you cut this, but what you could do is like, you could go to lovable and be like, Hey, I want to build this thing so I can drop in a video of a [01:42:00] recording. And it pulls out places. It helps me figure out like a, a narrative and then within like a couple of hours you could probably do that, have [01:42:10] assembly as part of the infrastructure in that app and then drop in a recording.
+
+
+And like we're seeing people do that. Yeah. It's pretty cool. Oh yeah. Actually we are using Lovable [01:42:20] for making our website note. Our designer who's not expert in coding use that site to make it so, but right. Like historically you have to use like Descrip, right? You guys have to go [01:42:30] and then if you like, get licenses for script.
+
+
+But if there's features that you want that Descrip doesn't have, then you have to go and you have to ask for those features to be built. But [01:42:40] the amazing thing about AI now is you don't have to do that anymore. You can go to Lovable or Cursor or use any AI and you can build the exact software that you want for the [01:42:50] exact use case that you have.
+
+
+And you don't have to be technical to do that. I've seen, you know, um, my father-in-law built software for his gym, uh. [01:43:00] Like all vibe coding and he, you know, he has no clue how to code. So it's really, really cool what, what you can do now is like, pretty insane. Yes. So as a [01:43:10] founder, like, is there anything you would do differently if you could go back in your founder journey?
+
+
+Yeah, there's a lot. [01:43:20] There's definitely a lot I would do different if I could, you know, start over. But I think the, the biggest, the last thing probably is like, you know, startups are not [01:43:30] franchise businesses. You know, you don't just like, you know, do this and do that 'cause other startups did that, and then you get the same results.
+
+
+Like every market is different, [01:43:40] every industry is different, every product is different, every team is different. And so I think as a founder you have to really do what [01:43:50] you have, like, just like trust your instincts and trust what you have confidence in. Especially as a first time founder, I think that's.
+
+
+Because you don't always have a lot of [01:44:00] confidence in decisions, especially big decisions. And so I think for me, one of the biggest things I've learned in the journey is like, just trust your gut. Like [01:44:10] have confidence in your, in your decisions as a founder. And every journey is different. So, um, you know, as long as you're like really happy about [01:44:20] the company you're building, like good things will happen.
+
+
+So optimize for like building a company and a product that like you're happy with and that [01:44:30] is, is like, you know, uh, uh, that, that will lead to good, to good, to good outcomes. Okay. So what, do you have any questions for? [01:44:40] I have some questions. Yeah, yeah, sure. So, so to ensure modern quality, the, the quantity and quality [01:44:50] of training data seems crucial.
+
+
+Mm-hmm. And in that sense, how do you gain a competitive edge like. Like in big tech companies, they already have [01:45:00] massive user bases. So how do you, um, yeah, what is your competitive edge? Yeah, totally. Um, you, we look here or there? Here. Okay. So, [01:45:10] so we really focus, sorry, I,
+
+
+so we really focus on having a deep understanding [01:45:20] of who we're building our AI models for and then what are the things that they really care about. And having amazing evaluations to test our models for those things. And [01:45:30] so we're not just trying to spray and pray and build these big general purpose models that like, maybe we'll get better at these things that customers care about.
+
+
+We're super laser focused on [01:45:40] okay, people building voice agents, people building note takers, people building sales intelligence apps. These are the 10 things they really, really care about. And so [01:45:50] let's make sure our models are hyper optimized for those things and let's build the right training data and let's build the right.
+
+
+Model architectures and let's do all of the things we can to [01:46:00] absolutely max out in those dimensions. And that's how we're constantly keeping our models the most accurate and the easiest to use for the developers that [01:46:10] we're building for. You might come to assembly and maybe our models aren't as good for you as another, uh, model.
+
+
+And usually if that [01:46:20] happens, it's because that's not an application or use case that we're really focusing on, at least not right now. So for us, the way we really maintain our competitive advantage is by [01:46:30] just really clearly focusing on who we're building for and not building general purpose tech, but building tech that's optimized for a specific use case in [01:46:40] market.
+
+
+And you started as a solo founder. Mm-hmm. So without, uh, even a physical office at first. So [01:46:50] when did you make your first hires? Yeah, so when I got into Y Combinator. I had this choice, right? Which was like, do I spend three [01:47:00] months finding a co-founder or do I just start building and then, uh, figure out what to do later?
+
+
+And I made the decision [01:47:10] to just start building. And I don't know if it was the right decision or wrong decision, but I made the decision to just start building. When I got out of Y Combinator, that's when I raised some seed funding and then hired the [01:47:20] first couple people into the company. And the first couple of people that I hired into the company are the people I built with, and we worked together as a really tight team for a couple of [01:47:30] years until we started getting traction and then scaling the team.
+
+
+Um, and so it was a small team that, that I brought together [01:47:40] right after, uh, Y Combinator. Um, uh, I'm sorry, what was your question again? It was like. Oh, um, I'm curious about when did you make your first hire? Oh, first [01:47:50] hire. Yeah. Yeah, yeah. I know that you, you like kept the team very lean at first. Yeah. So what kind of advantages did you see at in that same small team?[01:48:00] 
+
+
+Yeah, I mean, as a small team it's just easier to iterate and to move fast. You know, you don't need to have meetings and plan. You just all [01:48:10] can slack each other and say, let's do this, and then you do it. Um, and so we did stay as a really small team until we, until we started getting a lot of traction. And [01:48:20] now that is something that we really think about a lot, is we want to try to stay as small as we can because small teams can move faster, they can build faster, [01:48:30] and of course we're always hiring people, but we are way more conscientious now of the benefits that a small team has when it comes [01:48:40] to just working faster, um, uh, making decisions faster, less overhead.
+
+
+It's more fun. And I think that is definitely an advantage that [01:48:50] we have, and we're trying to really still think about. Um, uh, yeah. So, so what [01:49:00] was your, what was the most important thing that you looked for when you first, uh, making your very first hire? Yeah. Yeah. I mean, initially hiring people, it's like, [01:49:10] it's pretty hard, right?
+
+
+I mean, for me it was pretty hard because it was like, well, I don't have some big pedigree. I'm not this like famous entrepreneur. And so I was really just [01:49:20] looking for people that like, were excited about the opportunity that wanted to join me, that had a lot of ownership that, you know, wanted to like, feel a lot of [01:49:30] ownership in something.
+
+
+And it was the first group of people that, that I found that were awesome, that, um, that for some reason decided to come on board and do that. [01:49:40] Uh, and it was like a huge, huge risk on their side. But they, they decided to took it and they were kind of just like. Of misfits too, right? And they, uh, didn't have these big [01:49:50] pedigrees either, but they wanted to, to, to, um, try to help build the company.
+
+
+So, um, and as a programmer to [01:50:00] a founder. So what was a completely new kind of challenge you faced? Like is there any episodes or Ally? Yeah, [01:50:10] yeah. Um,
+
+
+[01:50:20] yeah, I think as a first time CEO founder, uh, like there's challenges every day and every day there's like highs and [01:50:30] lows. And so I think for me, um, uh, um,[01:50:40] 
+
+
+I'm trying to think of like a specific thing I can say. Went back to[01:50:50] 
+
+
+Yeah, I, I have some talk about, yeah, so I think one of the, you know, harder things was just like, how do you run a company? [01:51:00] Um, when you're a small team, it doesn't really matter, right? You don't have a company, you're just a small team building a product. But as a first time founder and CEO, it's really hard to figure out, like, how do you [01:51:10] run a company?
+
+
+What people do you need? What teams do you need? How do you plan? How do you like, like how all the things you need to do to run a company are really hard. [01:51:20] And the only way I found is just like trial by fire learning. And now I feel like I've definitely learned a lot, [01:51:30] but it took a while. And I do think that's why probably like repeat founders have a lot of advantages because they, they have experience with like how to, how to [01:51:40] run a company.
+
+
+Um, and so stuff that's helped me is like, I've made friends. With other founders that are a little bit running, companies that are a little bit bigger. And then I ask [01:51:50] them how they're planning, how they're running companies, how they set up their teams. And that's a data point that I use to make my own decisions.
+
+
+But I think back to the other [01:52:00] point I was making, like you, you, you want to not try to exactly model how other people run their companies. You have to ultimately build a company that you want to build [01:52:10] and have the confidence in that, even if those decisions go a little bit, uh, against the grain from how other people have built companies.
+
+
+And so learn from others, [01:52:20] but then, you know, run your company and build your company in a way that you're excited about and that makes you happy and makes you build the best product for your [01:52:30] customers. Um, and so I think just like figuring out like how to run a company in the early days was, as we were scaling, was definitely difficult.
+
+
+Uh, and, and what [01:52:40] helped me a lot was making friends with other founders and entrepreneurs that. Kind of gave me advice and helped me figure out like how to, how to do that.[01:52:50] 
+
+
+Oh, okay. Actually, he is also a [01:53:00] founder. Yeah, he did In the, in high school. Yeah. I made the Lego Tech started when I was in high school. Oh, nice. Yeah, in Korea. That's awesome. [01:53:10] Okay, so we have kind of replication like it is like your children will be AI native, I guess. So how is their life different from your own [01:53:20] like basement childhood?
+
+
+Like what is different and what kind of world do you think they will live in? Yeah, yeah, it's cool. So I have two kids. I have a [01:53:30] 3-year-old son and a 2-year-old daughter. And for a while I was excited about my kids getting to an age where I could teach them how to code. 'cause I, it'd be fun to like sit around a [01:53:40] computer and teach them Python and teach them.
+
+
+You know, how to build applications. And now I don't know if I need to do that anymore because now there's AI that can [01:53:50] build apps and, and, and write code for you. Um, and so I think it's really crazy to think about what my kids high school will be [01:54:00] like, what their college will be like. Well, they even need to go to college because you have ais that can help you learn anything that you want on demand as like personalized schools really.
+
+
+[01:54:10] So we're just in the like very, very beginning of AI being widely deployed in society. I read some study recently, it's only 10% of businesses are using [01:54:20] AI in, in the us so there's still like a lot of deployment that has to happen. But I am really excited to see just like what their [01:54:30] education is like, what are the games like that they play, uh, as they grow up.
+
+
+And, and it's gonna be like pretty, pretty insane. To Tennessee. [01:54:40] Okay. So, and do you have any particular reason to for living in New York City instead of like San Francisco because San is [01:54:50] more like Tech City. Yeah. Well, I, I spent about 10 years in San Francisco and I don't think I would've been able to be a founder if I didn't.
+
+
+I think San Francisco definitely [01:55:00] has, like, if you're just starting a tech career, it's amazing for that because there's so many people out there that are also just starting a tech career. There's programs like Y [01:55:10] Combinator, there's Angel Investors, there's VCs. So for me it was like amazing to go out there with Zero Network and you know, I basically just like [01:55:20] flew out on a plane with a suitcase and like stayed in an Airbnb when I moved out there and then rent in an apartment and like just figured it all out.
+
+
+So [01:55:30] San Francisco's amazing for that 'cause it's just so dense about tech. Um, but now I live in New York and the texting scene in New York is pretty amazing too. And there's a mix of [01:55:40] culture, you know, fashion and finance and tech that I feel like creates a different type of, um, energy and, and kind of, uh, sense of creativity [01:55:50] because it's, it's not all tech, it's a mix of industry.
+
+
+Uh, but personally we live here just for, for, for, uh, uh, family reasons, like closer family and, [01:56:00] and as we started with family, it made more sense for us to live here. But, uh, San Francisco definitely still has like a special place in my heart for me, and I, I, I [01:56:10] miss it a lot. Oh, and do you have any like, in mind for like any mind which is good for AI startup in New York City?
+
+
+[01:56:20] I think, um, I'm really surprised at the startups that I need here. Everything from like legal tech to ed tech to financial services, like in [01:56:30] infrastructure. Um, it's a really wide range, so I think the tech scene in New York has definitely matured, like wildly post COVID. So I do think that now [01:56:40] you can start any type of AI company or company and do it in New York.
+
+
+Um, if you're just starting out, you know, I still think it might be easier to do that in San Francisco because [01:56:50] there's a bigger network of other founders you can meet more easily and investors and accelerator programs. But, um, you definitely can like build a [01:57:00] company in New York as a, as a AI company, as a startup.
+
+
+Um, now, and I'm not sure if you could have 10 years ago, but you definitely can now. And [01:57:10] do you, like, can you rec, recommend, like, can you share any specific neighborhood near your company? Because in San Francisco, like there are many [01:57:20] startups like stay nearby, so they introduce some startups like that. So like do you have any in mind?
+
+
+Yeah, Soho is, [01:57:30] you know, lots arms in Soho. Yeah. Union Square, um, Brooklyn. Uh, it's pretty scattered, but like, you know, those, those neighborhoods are where I [01:57:40] know of a lot of startup offices. There's a lot in Union Square. Okay. Uh, do you have any questions for that? [01:57:50] Uh, okay. Okay. Okay. And I think, do you have any words to, like, you didn't say, or do you want to say, do [01:58:00] you think there was anything that I better, I think we asked everything about you.
+
+
+What'd you say? I, I think if we asked everything about you. Okay. Well, do you think there's any [01:58:10] answers? Like, I could have done better? Oh, I, that you remember. I, I think you repeat the answer again and you leveraged your answer before, so I think it's [01:58:20] okay. It's like there. Yeah. Maybe we can like do the introduction again.
+
+
+Yeah, sure. Yeah. For editing. Cool. My name's Dylan. I'm the founder and [01:58:30] CEO of Assembly ai, and we're building the most accurate and easiest to use developer platform for speech AI capabilities. And could you [01:58:40] share some key metrics? We'll, process over five, sorry, nearly I need this again. We'll process nearly five petabytes of speech data through [01:58:50] our developer platform.
+
+
+In this month alone, we have over half a million developers that have signed up to the platform, thousands of customers, and five [01:59:00] petabytes is, from what I read, nearly 10 x the volume of the entire Spotify library and catalog. So the scale is pretty insane and [01:59:10] growing over 250% year over year. Okay. How's that?
+
+
+Perfect. You're there? We are done. Cool. Thank you. Thank you. For sure. I'm [01:59:20] not used to doing these so like lot, lot of stab that. It's kind of crazy. You are a nice talker. Sorry. You're a nice speaker. Thanks. I appreciate it. [01:59:30] Hopefully the, hopefully I did a good job.
+
+
+I just run to the.

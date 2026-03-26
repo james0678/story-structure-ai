@@ -1,0 +1,199 @@
+{
+  "project_id": "legora-full-script__edited",
+  "transcript_hash": "55bdf594c6509c69",
+  "chunk_count": 24,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "topic": "growth metrics",
+      "summary": "Company has grown from 3 engineers with zero clients to over 750 clients and 300 people, doubling every quarter over 2 years.",
+      "text": "Over the past 2 years, we've grown from three engineers in Stockholm, zero clients, and now over 750 clients, 300 people, more than doubled every single quarter.",
+      "estimated_minutes": 0.2,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 2,
+      "topic": "fundraising",
+      "summary": "Recently raised funding to continue building in a market that's still in early stages from 0 to 1, now heading to 1 to 10 and 10 to 100.",
+      "text": "This is only a few months after you just raised your previous series. What are you going to be doing this using this money for? &gt;&gt; I think the reality is that this market has only done 0 to 1. Now we are on the journey of 1 to 10 and 10 to 100 and there's so much left to build. &gt;&gt; So when I think about our space, we're still on the starting line. We can't be fast followers. We got to be the innovators.",
+      "estimated_minutes": 0.6,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 3,
+      "topic": "founding moment",
+      "summary": "Introduction to Max as CEO and co-founder of Lora, a platform using AI to solve legal tasks with the mission of creating 10x lawyers.",
+      "text": "Hi, I'm Max. I'm the CEO and co-founder of Lora. Lora is the platform where legal work happens. We solve legal tasks with the help of AI in the mission of creating 10x lawyers.",
+      "estimated_minutes": 0.2,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 4,
+      "topic": "personal background",
+      "summary": "Max thrives on competition rather than being stressed by it, drawing energy from competitive environments.",
+      "text": "So I think for me without competition there is no excitement. don't get stressed being in a competitive environment. I get energy from it.",
+      "estimated_minutes": 0.2,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 5,
+      "topic": "childhood",
+      "summary": "Growing up in a small Swedish archipelago community without enough competition, Max turned to sports and competitive gaming, specifically Dota 2.",
+      "text": "I grew up in Sweden in the Swedish archipelago. It was a small community where I didn't get enough competition. So, I got very interested both in sports and in video games. I used to compete in this video game called Dota 2.",
+      "estimated_minutes": 0.3,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 6,
+      "topic": "lesson learned",
+      "summary": "Gaming taught Max that greatness requires grinding smart, not just more hours, bringing intensity and learning continuously.",
+      "text": "Having gone through that very competitive environment, I wanted to take some of that with me to college. Gaming a lot for me back in those days taught me that if you want to be great, you have to grind. It's not enough to just play more hours. You got to play smarter and you got to learn more. You have to bring a level of intensity better than anybody else.",
+      "estimated_minutes": 0.5,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 7,
+      "topic": "team building",
+      "summary": "Dota's 5-player team collaboration influenced Max's leadership style of working with people smarter than himself and making the team work together seamlessly.",
+      "text": "In Dota, you're five players on one team. That group of five people have to collaborate seamlessly to reach the right goals together. I think some of my leadership style is probably influenced by some of the early gaming working with individuals who in many aspects I find much smarter than myself. I think that is a a core job of of a CEO to be able to attract people within all different types of fields who bring skill sets that you don't have and then you got to make the band play together and then when they start to work together something new unlocks and we're playing what I like to call the the infinite game both on a product level but also on a company level.",
+      "estimated_minutes": 0.9,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 8,
+      "topic": "vision",
+      "summary": "Despite growing to unicorn status, the legal AI space still feels like it's at the starting line with massive growth potential ahead.",
+      "text": "So today we're going to focus on what matters most to all of you, which is making it easier and more effective for your teams to work with AI. So when I think about our space, as I said, it really feels like we're still on the starting line despite having grown the company from zero to unicorn. We've done 0 to one and now there's journey of 1 to 10 and then 10 to 100 left to do.",
+      "estimated_minutes": 0.5,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 9,
+      "topic": "industry context",
+      "summary": "The legal industry attracted them because it had so many meaningful problems to solve, and growing with customers has been crucial from the beginning.",
+      "text": "So one of the things that made the legal industry very attractive to us was that there were so many problems, meaningful problems to go and solve. I think incredibly important for Luora since the very beginning has been to grow together with our customers.",
+      "estimated_minutes": 0.3,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 10,
+      "topic": "founding moment",
+      "summary": "The company was incubated in Sweden's biggest law firm, Manheatling, which provided office space and early access to users.",
+      "text": "We were incubated in the biggest law firm in Sweden, Manheatling. They were generous enough with their early time and space. We actually got conference room in their office.",
+      "estimated_minutes": 0.2,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 11,
+      "topic": "customer story",
+      "summary": "Early demos showing AI-generated legal drafts created jaw-dropping moments for lawyers, building momentum and energy to move forward faster.",
+      "text": "When I was doing a demo, I would ask the users to take, you know, maybe one of their old memos or or part of of a case that they had worked on, upload it into the system, and then ask Legua to do a first draft of it. When they saw the results, I mean, it was kind of a, you know, you know, leaning back, drop the chin moment. I think those types of experiences breeds momentum and gives you a lot of energy to keep moving forward even faster.",
+      "estimated_minutes": 0.6,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 12,
+      "topic": "pivot",
+      "summary": "Chose Y Combinator and San Francisco over European funding options to play in the big leagues and avoid complacency despite having growing European business.",
+      "text": "We had a couple of different options. We could have raised money from European visas. We had a couple of term sheets. Or we could accept the offer to join Y Cominator and go to San Francisco. Did we have to do YC? I don't know. Because we had so much business already growing in Europe. But what attracted us of going to SF was Sweden is a small ecosystem and so if we want to play in the big leagues, we need to be in the States. If we are going to do this thing, let's be the best at it. I didn't want to bring sort of complacency into my into my job. I want to do things and I want to be the best at it and I want to do really hard things.",
+      "estimated_minutes": 0.9,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 13,
+      "topic": "growth metrics",
+      "summary": "Achieved nearly $1M ARR in 1.5 months during Y Combinator while managing European business remotely with overnight calls and a ring light.",
+      "text": "We wanted a foot in the door towards the the American market. I mean we went from zero to almost a million ARR in like a month and a half during Y Combinator and a big reason for that was because I was spending a majority of my time still in Europe. I tried to make it work from San Francisco. I bought this uh ring light shine on my face when I took calls between 1:00 a.m. and 10:00 a.m. over the night towards uh the other side of the world.",
+      "estimated_minutes": 0.6,
+      "emotional_tone": "candid"
+    },
+    {
+      "chunk_id": 14,
+      "topic": "lesson learned",
+      "summary": "Being physically present where customers are located is crucial for serving them properly and tuning the product to their needs.",
+      "text": "So I think for LEGO, it's incredibly important to be where our customers are. And so when we think about both serving them on the ground, but also tuning the product to their needs, it's just a mustave.",
+      "estimated_minutes": 0.3,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 15,
+      "topic": "partnership",
+      "summary": "Strategically partnered with prestigious US law firms ClearGot and Goodwin Proctor who aligned with their AI vision and carried market weight.",
+      "text": "So when we entered the US market, we really wanted to make sure that who we work with in the US as our first set of clients are excellent lawyers, excellent law firms, but also carry a lot of weight in the market and we were very lucky in contact with clear got and also Goodwin and Proctor. I think with both those two firms there was a lot of alignment in what they want to achieve with AI and how Legora can help them get there. We had alignment and then it was, you know, time to go.",
+      "estimated_minutes": 0.6,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 16,
+      "topic": "growth metrics",
+      "summary": "Opened a scrappy Manhattan office and personally onboarded the first 30 law firms, learning critical lessons about customer expectations.",
+      "text": "After that, we quickly opened an office here in Manhattan. We're at a much much scrappier uh place than what we're in today. I handled I think the first 30 law firms and in-house teams coming onto the platform with all the onboardings. The learnings that we took from those early days is that you only get one shot. Lawyers are so busy that you don't get a second chance onboarding them on the product. So it has to work has to be it can't break and the use cases need to work and it need to solve and you need to do a good job of setting the expectations of what the product can do today versus what the product will be able to do a week from now, a quarter from now, a year from now.",
+      "estimated_minutes": 0.9,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 17,
+      "topic": "market analysis",
+      "summary": "Lawyers understand AI is here to stay and want to influence the future of legal work, which is an opportunity the company doesn't take for granted.",
+      "text": "They understand that not only is this tech sort of here to stay, it is the way that work will be done. They want to get on the train, they want their voices to be heard and they want to have a say in what that future looks like. And that is awesome. That is not something that we take for granted.",
+      "estimated_minutes": 0.4,
+      "emotional_tone": "inspiring"
+    },
+    {
+      "chunk_id": 18,
+      "topic": "success milestone",
+      "summary": "Max's favorite accomplishment is reading customer feedback showing real impact on people's lives and work, including helping them get home to families.",
+      "text": "My favorite accomplishment so far is frankly just reading through our customer love Slack channel where we collect feedback and aggregated usage of the real impact that the product is having for the people that we serve. There's nothing as rewarding, at least for me, as when people that we serve let us know we've made their day better or we've helped their business in some way. they were able to finish a piece of work and get home to their families to see their kids before they went to bed. I think the focus on let's deliver the most value for our users. Other problems sort of around that seems to solve itself.",
+      "estimated_minutes": 0.8,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 19,
+      "topic": "team building",
+      "summary": "The company is aggressively hiring across multiple global offices, expecting to fill their new New York space before summer.",
+      "text": "Well, so as you can see, we're we're in our new space here in New York and there's quite a few uh empty desks here behind me. We're growing super aggressively across, you know, all different teams. I think we're gonna have filled almost all of this before summer this year. The team is about 300 people today spread across several offices in Denver, New York, London, Stockholm, India, Sydney.",
+      "estimated_minutes": 0.5,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 20,
+      "topic": "personal sacrifice",
+      "summary": "The hardest part of scaling from 3 to 300 people is constantly adapting your role and staying disciplined to work on hard problems while maintaining focus.",
+      "text": "So, I think the hardest part for me growing the company from 3 to 300 was that your role probably changes the fastest. You cannot be married to the way that things were done or to what you're doing. You just got to wake up every day and think about how do I optimize for the business today? and maybe a month, a quarter, a year out. And those are the decisions you have to take. You need to be your own best boss. And you have to be very disciplined about not working on the easy things, but working on the really hard things. And I think it's your responsibility as the founder and as the CEO to keep the company focused.",
+      "estimated_minutes": 0.8,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 21,
+      "topic": "philosophy",
+      "summary": "Emphasizes the need to be innovators rather than fast followers, and the challenge of scaling while maintaining company culture.",
+      "text": "We can't be fast followers. We got to be the innovators. Hi, I'm Max. I'm the CEO and co-founder of Lora. Lora is the platform where legal work happens. We solve legal tasks with the help of AI in the mission of creating 10x lawyers. So I think for me without competition there is no excitement. don't get stressed being in a competitive environment. I get energy from it. I grew up in Sweden in the Swedish archipelago. It was a small community where I didn't get enough competition. So, I got very interested both in sports and in video games. I used to compete in this video game called Dota 2. Having gone through that very competitive environment, I wanted to take some of that with me to college. Gaming a lot for me back in those days taught me that if you want to be great, you have to grind. It's not enough to just play more hours. You got to play smarter and you got to learn more. You have to bring a level of intensity better than anybody else. In Dota, you're five players on one team. That group of five people have to collaborate seamlessly to reach the right goals together. I think some of my leadership style is probably influenced by some of the early gaming working with individuals who in many aspects I find much smarter than myself. I think that is a a core job of of a CEO to be able to attract people within all different types of fields who bring skill sets that you don't have and then you got to make the band play together and then when they start to work together something new unlocks and we're playing what I like to call the the infinite game both on a product level but also on a company level. So today we're going to focus on what matters most to all of you, which is making it easier and more effective for your teams to work with AI. So when I think about our space, as I said, it really feels like we're still on the starting line despite having grown the company from zero to unicorn. We've done 0 to one and now there's journey of 1 to 10 and then 10 to 100 left to do. So one of the things that made the legal industry very attractive to us was that there were so many problems, meaningful problems to go and solve. I think incredibly important for Luora since the very beginning has been to grow together with our customers. We were incubated in the biggest law firm in Sweden, Manheatling. They were generous enough with their early time and space. We actually got conference room in their office. When I was doing a demo, I would ask the users to take, you know, maybe one of their old memos or or part of of a case that they had worked on, upload it into the system, and then ask Legua to do a first draft of it. When they saw the results, I mean, it was kind of a, you know, you know, leaning back, drop the chin moment. I think those types of experiences breeds momentum and gives you a lot of energy to keep moving forward even faster. We had a couple of different options. We could have raised money from European visas. We had a couple of term sheets. Or we could accept the offer to join Y Cominator and go to San Francisco. Did we have to do YC? I don't know. Because we had so much business already growing in Europe. But what attracted us of going to SF was Sweden is a small ecosystem and so if we want to play in the big leagues, we need to be in the States. If we are going to do this thing, let's be the best at it. I didn't want to bring sort of complacency into my into my job. I want to do things and I want to be the best at it and I want to do really hard things. We wanted a foot in the door towards the the American market. I mean we went from zero to almost a million ARR in like a month and a half during Y Combinator and a big reason for that was because I was spending a majority of my time still in Europe. I tried to make it work from San Francisco. I bought this uh ring light shine on my face when I took calls between 1:00 a.m. and 10:00 a.m. over the night towards uh the other side of the world. So I think for LEGO, it's incredibly important to be where our customers are. And so when we think about both serving them on the ground, but also tuning the product to their needs, it's just a mustave. So when we entered the US market, we really wanted to make sure that who we work with in the US as our first set of clients are excellent lawyers, excellent law firms, but also carry a lot of weight in the market and we were very lucky in contact with clear got and also Goodwin and Proctor. I think with both those two firms there was a lot of alignment in what they want to achieve with AI and how Legora can help them get there. We had alignment and then it was, you know, time to go. After that, we quickly opened an office here in Manhattan. We're at a much much scrappier uh place than what we're in today. I handled I think the first 30 law firms and in-house teams coming onto the platform with all the onboardings. The learnings that we took from those early days is that you only get one shot. Lawyers are so busy that you don't get a second chance onboarding them on the product. So it has to work has to be it can't break and the use cases need to work and it need to solve and you need to do a good job of setting the expectations of what the product can do today versus what the product will be able to do a week from now, a quarter from now, a year from now. They understand that not only is this tech sort of here to stay, it is the way that work will be done. They want to get on the train, they want their voices to be heard and they want to have a say in what that future looks like. And that is awesome. That is not something that we take for granted. My favorite accomplishment so far is frankly just reading through our customer love Slack channel where we collect feedback and aggregated usage of the real impact that the product is having for the people that we serve. There's nothing as rewarding, at least for me, as when people that we serve let us know we've made their day better or we've helped their business in some way. they were able to finish a piece of work and get home to their families to see their kids before they went to bed. I think the focus on let's deliver the most value for our users. Other problems sort of around that seems to solve itself. Well, so as you can see, we're we're in our new space here in New York and there's quite a few uh empty desks here behind me. We're growing super aggressively across, you know, all different teams. I think we're gonna have filled almost all of this before summer this year. The team is about 300 people today spread across several offices in Denver, New York, London, Stockholm, India, Sydney. So, I think the hardest part for me growing the company from 3 to 300 was that your role probably changes the fastest. You cannot be married to the way that things were done or to what you're doing. You just got to wake up every day and think about how do I optimize for the business today? and maybe a month, a quarter, a year out. And those are the decisions you have to take. You need to be your own best boss. And you have to be very disciplined about not working on the easy things, but working on the really hard things. And I think it's your responsibility as the founder and as the CEO to keep the company focused. We can't be fast followers. We got to be the innovators. Most importantly, it's how do you scale and continue to keep the culture?",
+      "estimated_minutes": 9.9,
+      "emotional_tone": "passionate"
+    },
+    {
+      "chunk_id": 22,
+      "topic": "team building",
+      "summary": "Max personally interviews every hire, looking for growth capacity, problem-solving ability, learning from mistakes, and ambition to take responsibility for outcomes.",
+      "text": "You know, I have some ideas around that. I I take a very active part in in our recruiting. Still interview everyone who joins the company. One of the things that I look for in in everyone that we hire and I think how much capacity does this person have to grow? Tell me about the hardest problem that you worked on. What was that problem? What did you directly contribute to solving that problem? And and how would you do it differently if you had to go back to that problem today? Because I think the ability to learn from the way that you approach a problem the first time to the time that you have to approach a problem the second time is super important. The most important skill that you need to bring to the table. And then I always look for a sense of ambition. We're looking for people who want to take responsibility of the outcome of the company. The outcome that we deliver in the market. That value has probably been the most important part of of helping us go from where we were to where we are today.",
+      "estimated_minutes": 1.4,
+      "emotional_tone": "matter-of-fact"
+    },
+    {
+      "chunk_id": 23,
+      "topic": "advice",
+      "summary": "Advises founders to be genuinely excited about their work because success requires intense focus and hard work over extended periods.",
+      "text": "If I were to give some advice to myself starting out again, you need to really be excited about what you're doing because if it goes well, you're going to be working so hard and you're going to be focused on these problems for such an intense period. I wake up every day and I'm thinking about how do we deliver more value and how do we make Legora a more successful business. I think had we picked, you know, maybe something we weren't as excited about, that would have been much harder.",
+      "estimated_minutes": 0.7,
+      "emotional_tone": "reflective"
+    },
+    {
+      "chunk_id": 24,
+      "topic": "future plans",
+      "summary": "Max is excited about the company's future growth and can't wait to see what they'll accomplish by Q1 2027, expressing amazement at current progress.",
+      "text": "you know, I I can't wait have a town hall in Q1 of 2027, see the size and and see what we've accomplished by then because if you would have told me that we would, you know, be sitting here Q1 of 2026 back at the start of 2025, I would have never believed you. So, yeah, I think there's uh there's a lot to be excited about.",
+      "estimated_minutes": 0.4,
+      "emotional_tone": "inspiring"
+    }
+  ]
+}

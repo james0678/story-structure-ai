@@ -1,0 +1,758 @@
+﻿Traversal_original_script
+===
+
+
+​[00:00:00] 
+
+
+And we, like two years ago, we were [00:01:00] like filming some companies and funders in us. And our mission is to like, create more entrepreneurs in the world. So like, rather than making more viewerships, we are like trying to make more entrepreneurs and chase the world by inspiring the young, like generations.
+
+
+Got it. And what is your viewership, like typically? Like what are the types of people who typically, uh, uh, it's like, uh, it's about, it's depends on the interior, but like, it's 10 to like 50 k, it changes. What I mean is the, the type of person. A type of person, yeah. Yeah. I, we usually like, uh, uh, the audience or the, yeah, the, the audience there.
+
+
+A lot of them are like ERs and also the people who are in tech industry. And then like there's 30% of them are in US and 30% are in India and other like 40 to 50% are in Europe and Asia and all over the world. Got it. Got it. Cool.
+
+
+Yeah. [00:02:00] So could you briefly introduce yourself and tell us about what Traversal AI does? Yeah, absolutely. So my name's Anish. I'm the CEO and co-founder of Traversal. Uh, and um, fundamentally what we're doing is when we have large complex software systems, we help figure out and they break. We help figure out what happened, uh, and troubleshoot what happened.
+
+
+So think of it as building an AI site reliability engineer to help keep systems up. Okay. And what are some key, could you share some key metrics or milestones that highlight Traverse or as growth and impacts maybe of funding being raised or like some metrics? Yeah, so it's been an exciting time that we just announced our series A rays and we came on as stealth.
+
+
+So we started the company in, uh, December of 2023, I think. Um, and incorporated about then, and then we were exploring different ideas. We came to this problem, um, in around March of last year. That's, we raised our seed brand of funding from Sequoia, but we were quietly [00:03:00] working, just trying to figure out how to make it work.
+
+
+Is it even possible? End of last year, we saw that it's actually possible and we saw, got a lot of good feedback from customers that it was actually helping with downtime and, and saving them a lot of, um, pain with troubleshooting. And that's when we went to raise our Series A, uh, which went very well. And Kleiner Perkins led it.
+
+
+Um, and then we still remained in stealth for another six months. I think we wanted to see, we wanted to make sure that when we came outta stealth, we were in, in a place where we could handle all of the inbound customers, the recruiting. We wanted to be in a place where we felt mature and ready for prime time.
+
+
+And so we waited till June to get even more customer feedback and traction, build out the right team. And in June we felt that's about the time. And so that's where we've come as steal. And so we raised 48 million in, in seed and series A funding from Sqo client Perkins. Yeah, that's great. And like going slightly back to the past.
+
+
+Yeah. You want to capture the beginning of your journey. Yeah. So could you give us a glimpse of what kind of person were you as a [00:04:00] child? As a child? I think as a child I was, I don't think I ever thought too much about technology or anything like that. I, um, I like sports. I like competing a lot. Um, I like being with, I like, I was very social.
+
+
+I like, enjoyed meeting people, interesting people of different kinds. So sports and friends I think made most of my life. Uh, uh, I was always reasonably good at school. Like I, and I always naturally gravitated to math and science. I just liked how abstract and clean it was, and it felt quite universal in, in what you could do.
+
+
+Um, but I never studied any computer science or anything like that. So for me it was always math and physics that I loved. Um, yeah, and I think, um, I think at some point I realized that I was never gonna be a elite sports person. And so that dream kind of, uh, went away and, and, um, but the thing that I felt naturally came to me was, was science, math.
+
+
+And so I wanted to study it more deeply. It felt like something I just enjoyed doing. Uh, and the people who did [00:05:00] math and science, I enjoyed being around them just as importantly. And so, um, I was lucky enough to get into Caltech, uh, as a, um, for my undergrad degree, which I loved, and that's why I kind of really fell in love with math and science in a very deep way because I think it's one of the best institutions to where they take science very seriously.
+
+
+So that was kinda my beginnings, I guess, in some way. Um, yeah. That you like to play tennis when you're in college? Yeah, so I played, I played tennis for the college team. I, I, I captained it. Um, uh, I was a better, I think motivated than a player. Um, I enjoyed, yeah, I enjoyed kind of creating a culture on the tennis team.
+
+
+Helping people. Yeah, just creating a, I think we were okay then, but I think over the years after that, the tennis team got a lot better, so I'm, I'm proud about that. Um, yeah. Yeah. So what led you to Focus Spec specifically on like causal machine learning? Yeah, so it's been an interesting journey. So I, I came to [00:06:00] MIT just 'cause I thought machine learning and AI was really important and I wanted to understand it really deeply.
+
+
+This is like 2016, so about like, you know, eight, nine years ago. And I just felt that AI and ML was gonna get more important and so I wanted to understand it deeply. Um, and once I got there, I think that one of the biggest moments in my, like academic research career was at, uh, new's 2017. Uh, and the keynote was given by AlphaGo, the Google AlphaGo team, and they were gonna talk about how AlphaGo, you know, did this amazing thing, you know, the beat Lisa do, right?
+
+
+And there was this amazing technical achievement given how difficult go is. But then instead presenting that they presented AlphaGo zero, which is about how you can get these systems to self, ai systems to self play. And the level of, of, of skill was even way higher than, than if you were, the system was playing with, with humans.
+
+
+And I just found that incredible that you could, a system can learn this creative thing by itself because the complaint you always had before was that it's just [00:07:00] copying people. But this was purely, it was learning creativity by, by self play. So I was like, we should apply that everywhere. There's kind of architecture.
+
+
+And I realized that towards that you need to build simulators, you need to have, be able to simulate the environment in under different kinds of actions. Uh, but doing that in, in real world systems is hard because you don't always have a simulator. But we do have a lot of data, right? And a simulator to me is about learning counterfactuals.
+
+
+It's about learning when, if I did a what would happen to my system. So it's about learning, it's asking what would've happened if I did something else. And that field of study is causal machine learning. And so I was trying to see, I was trying to learn this field of causal machine learning towards the goal of building data-driven simulators for, you know, bettering AI systems.
+
+
+So that was a, a long-winded story, but that was why I enjoyed causal machine learning, was as a way of building simulators for AI systems, which has turned out to be very important as a architectural choice for, you know, all the labs and, and, uh, modern ai. Yeah. Okay. So you briefly mentioned, but could you like, briefly work us through your, like, [00:08:00] like timeline for getting your PhD at MIT to becoming a profess.
+
+
+At Columbia? Yeah. So, um, I think once I got to MITI just felt that, you know, this is the coolest thing. You know, getting to, to think about AI full-time on whatever problems you want was just like the best thing. It was like a privilege and it felt to me like the next version of that, the best expression of that after a PhD is to be a professor.
+
+
+And, um, it's also hard to get, and I think the competitive part of me just wanted to see if I could get it as well. Um, and, um, you know, I was fortunate enough to get into Columbia faculty and I love it there. Um, but I think in, in this particular age, you, you have to, um, so I'm a theorist, so I, you know, I, I like thinking about theoretical problems, mathematical abstractions, and I think that university is an amazing place to do that.
+
+
+Um, and, and I think being in New York was another big thing for me. I wanted to be in a, in a big city, be part of society in the world because I think I've always enjoyed kind of [00:09:00] being in the mix. And so Columbia was like a perfect university for me in that way. Um, but I think the, the thing that changed between my time at MITI spent a year as a postdoc at Berkeley before coming to MIT and that was the time when everything where Chad GPT was, was happening, you know?
+
+
+And, and so it just felt like something incredible has happened in the world and it's like a once in a lifetime thing where the world has fundamentally changed. People don't even realize it. Like, I remember seeing it in November, 2022. I was like playing with IGPT and it just felt like this almost religious experience as to what was happening in the world.
+
+
+And I think I just realized that if you, it's, we've kind of entered into the industrial age of artificial intelligence. So it's the age where we are, we are thinking about this at like societal, industrial scale. And so even if you wanna be a great researcher, you have to be connected to, to industry. You have to be in the mix.
+
+
+Um, and I think, you know, I also saw some of the smartest people around me. They were either at open AI or philanthropic or you know, meta or they're creating companies. [00:10:00] I think for me, I'm just someone, one of those people that I really like uncertainty. I like creating something from zero to one, and that's what makes me really excited.
+
+
+And so I think, uh, being a, a starting company was felt to me like a great expression of, um, of that, I guess. Um, and also I think, you know, two of my co-founders, I knew them from ONT really well, and they moved to New York, wanted to become faculty at Cornell Tech. And I think we all, we all really respected each other and felt like we were ready to take on a big project together.
+
+
+And also I think, um, we all kind of saw what AI is going. We felt we had to be connected to industry if we really wanted to push the limits of what AI can do. So that was kind of the transition or, um, not transition, but why we moved into industry in this way as well. Okay. So you mentioned about the like atmosphere and situation when you decided to be the entrepreneurs.
+
+
+Uh, it's okay. And yeah. Could you, like, could you give [00:11:00] more like specific moments that you decide, like what made you leave a stable academic career for an uncertain startup? Or like, I saw your interview that you had to get in the, you said you had to get in the game. Yeah. So what was going through your mind at that moment?
+
+
+I think it was certainly, I mean, I'm still, I'm still faculty at Columbia, so, you know, they've been very supportive of me to, to explore and, and, and grow in this way. Um, I think for me, in some ways, starting this company felt very familiar in some ways, but I think what it requires to be a great professor is you have to be a story tell, you have to, you have to be able to tell a clean story that is very technical, but get your students excited, get grant writers excited.
+
+
+Get your other members in your community that are other faculty excited. So storytelling well, and, and getting people excited is something I really enjoyed in that world. And that's the same thing here actually as an entrepreneur. Especially the CEO, a big part of your job is, is, is good storytelling to get people excited about the problem that you're working on.[00:12:00] 
+
+
+And so in that way I think, you know, it, whether it's, it's recruiting, whether it's customers, whether it's fundraising, it's, it is the same thing. It's like very good storytelling. And so I think that felt very familiar. And also, I think the other thing that's similar between research and, and uh, entrepreneurship is that the uncertainty, right?
+
+
+You have no idea what's happening most of the time and you have to find ways of, of creating structure from nothing. Right. And so, like, one way I say it is that in, in, you know, in typically hard jobs, whether it's in finance or it's in technology as an engineer, like, you know, you, you have a point A if you get a point B and it's very hard to get from point A to point B.
+
+
+Yeah, right? Um, in the world of research and also in the world of entrepreneurship, you don't really know where point A is. You dunno where you are, you don't know where point B is, you dunno where you wanna go. And if you did know, it's still very hard. And so you're constantly like in this game of, of trying to just decide where you are and where you're trying to go.
+
+
+And that's exactly the same thing in research as well. And so in that ways it felt very similar. Um, I think obviously the difference is in here, [00:13:00] the time spans are compressed, right? In research you get five years, 10 years to, to make an impact. Here you get one month, right? So the feedback cycle is very quick.
+
+
+But I think in this age of ai, when AI is changing so quickly, being in that quick feedback cycle is actually very important, um, to um, to be at the forefront of it, I guess. So in some ways I think this is the right cadence in some ways to be at the forefront. Yeah. So maybe that's it Is the reason that most of the innovations are occurring in this sort of sense?
+
+
+Not in the academic sense. I think there's a place for both. I mean, I think there's a lot of innovation happening in, in universities as well. It's just a different kind. I think there you're thinking more about things that will be broader, more abstract things, more general principles of how to, to do things.
+
+
+And they might play, they might bear fruit in five years or 10 years, right? I think here. Because of how commercially important what's happening is having the ai, like you want to be quick, right? And so I think it's, it's just about the time [00:14:00] span. What your incentives are. I think in your incentives in academia is that it has to be useful 10 years from now.
+
+
+And so the way you think about research, the way you think about problems is very different. And in, um, in a company, you're, you're think quarter by quarter, right? And so the pace is different, but I think it's very, both are very important, but I think right now, even as a researcher, you should be in a fast-paced environment because that's the way you learn the right questions to ask that are important to be thinking about in a five to 10 year scale.
+
+
+But if you're not part of industry, you're not part of like a, a, a startup or like a research lab. You can't even ask the right questions, in my opinion. Yeah. So how did you find the question related to her trouble tool? Because like, there are like a lot of possible problems Yeah. Solve. So I want to know why did you focus on what trouble tool is tackling and like, what made you think that I need, I need to solve this?
+
+
+Yeah. So I think, um. When we started the company in like Jan of 2024, we started without an idea. We had no idea, but we had a clear taste of the type of problem we wanted to take on. So [00:15:00] we wanted to do something that was at the intersection of our research, which was in causal machine learning and reinforcement learning, uh, and how it intersected with AI agents.
+
+
+So causal machine learning is the study of, of, uh, cause and effect, right? So we hear that correlation is in causation and what you want to understand is how do you get these AI systems to pick up cause and effect relationships from data, right? Like a ab test is an example of, of learning cause and effect relationships.
+
+
+Like clinical trial is another example. Uh, so these are like basic ways of, of running experiment. And so that's what the study of, of causal machine learning is. And we're trying to see how did that intersect with AI agents, uh, which we thought was like super cool and something we've followed for like now almost two and a half years.
+
+
+And, um, we went through a few different ideas. Uh, at some point the fourth person who joined us, our fourth co-founder, Emma. He was from Citadel Securities. And, uh, it turns out, as you can imagine, like they're a very complex market making platform for them. Uptime and availability is, is super important, right?
+
+
+Because if they go down, then it obviously means it's, it costs a lot of money. And so that's [00:16:00] something that was top of mind for him, is something that Citadel always cared about. And so then when we, and so he pitched us the problem of of, of dealing with incidents. And as we looked into it, it kind of felt like a perfect problem, right?
+
+
+Because when you have an incident, like a production incident, something in your system goes wrong. Like there's some sort of alert, right? And the problem is there's like a thousand other alerts going off at the same time, and you're trying to figure out is any given alert like a symptom of the, the true issue?
+
+
+Is it a serious correlation 'cause something else is wrong, or is it the root cause? Right? And so it's about like finding this needle in a haystack with many fake needles everywhere. So it fit with our research and causal machine learning and reinforcement learning really well. It fit with LLMs really well because the haystack is composed of like logs and metrics and traces and code and configuration files and so on and so forth.
+
+
+It fits with AI agents really well because you have to automate this complex workflow where you are, you know, querying all these different pieces of the software, you're reasoning over them, and then you're writing more queries. And it's like this, like sequential adaptive flow. And so in terms of like the generational flow of what AI is, [00:17:00] is getting good at and what we felt we're very good at, this is like a perfect intersection.
+
+
+Um, and it's a huge problem, you know, I mean, it's a, it's a massive market. Observability is like, you know, there's many iconic, you know, greater than $10 billion companies in the space. Um, and so it's a big market because everyone cares about software not going down. And I think it's only gonna get bigger, right?
+
+
+Because so much more code is being written now by companies like, because of companies like Cursor or Windsor or Copilot or what have you. And so there's just like Cambrian explosion of code being written. No one understands it in some ways. And so when software breaks, it's, it's gonna be really difficult to troubleshoot it, right?
+
+
+And actually it's already happening. Like most people now are not developing code. They're starting to like validate QA code or troubleshoot code, right? And so, and that doesn't scale. So I think we felt this problem, what we're building will help actually help engineers become more creative and not worry about being the, doing the software maintenance, but actually be the more creative part of the software architecture.
+
+
+And so I think [00:18:00] that's what gave us confidence that this is the problem we should be taking on. Um, and that, honestly, the first VC I met in my life was, uh, Sequoia. And I think, um, it was bogel and roll off. I remember, and I think they had been looking for a, a, a team to solve this problem. They had reached the same thesis.
+
+
+I think they had found that they, they felt this is the problem where like the AI risk and technical risk is really high and the market risk is low because if you can solve it, there's a big market. And so people like us who don't come from this world, but are good on the AI side, are the right people to solve it.
+
+
+Um, and so obviously that validation also gave us confidence that this is the right problem. Um, yeah. Yeah. And like we're the editing purpose, we're gonna ask some like, question you already covered. Yeah. So for those who might not familiar with like software industry and engineering, could you like explain exactly what problem travel for AI solves in more like, easy way?
+
+
+Yeah. But just some examples and cases. Yeah, absolutely. I think a really good, uh, analogy is to healthcare, right? So, [00:19:00] um, imagine, I think about the levels of, of my health, right? If I have a, a heart attack, right then that's the only thing I'm thinking about. I have to solve it today, right now. And I think that's the equivalent of having like a, a complex production incident.
+
+
+Suddenly, you know, the whole, everything stops, right? The whole company stops, and the only thing they're functioning thinking about is solving that incident. So I think it's the equivalent of having like an acute condition, like a heart attack happening that you have to fix, uh, like solving the moment. So that's the first level.
+
+
+And so that's what traversal really focuses on right now is helping you diagnose those, those, those like acute problems you might be having. And if, you know, if you've been to an ICU when someone has an issue, everything is, is every sensor they have is going off. Right. And I, my mother's a doctor, so I've spent a lot of time in and she worked on the ICU, so I spent a lot of time in ICUs and I've just seen, like every sensor is always going off at the same time and you never know which one is the right sensor to look at, which is the right signal to look at.
+
+
+And that's what doctors are doing as diagnosis is figuring out which thing to look at. In some ways that's what we're doing. We're kind of [00:20:00] automating that flow that a doctor does with diagnosis, but on software systems to help with the, to stop, prevent heart attacks in, in software systems. That's what I describe as us as doing, uh, and helping maintain the health of, of, of lots scale software systems.
+
+
+Is there any like key metrics or numbers that shows the seriousness of these problem? Yeah, absolutely. I think it's right now and annually, I think, uh, there was a report, I think, I believe it was by Splunk, where they said there's $400 billion of, of downtime. So the, the cost of downtime to annually for all enterprises around $400 billion and growing quickly because we're, we're building so much more software.
+
+
+So it's a huge problem. And for some companies, you know, that are mission critical, where like a payments company, an infrastructure company streaming every hour of downtime can be more than a million dollars, sometimes a lot more than a million dollars. So, you know, every minute you can save is worth, you know, huge amounts of money for, for a company.
+
+
+Yeah. Okay. So could you walk us through how you're serving this serious problem with, [00:21:00] like, concrete example? Yeah, so one company that we, that we can now publicly talk about, we've been working with 'em for the last six months now very closely is digital lotion. So they're a large public cloud service provider, and so they, um, I think they're the third largest actually by number of people using them as their cloud provider.
+
+
+I think they have over 600,000 people, um, using them as their core infrastructure. And you can imagine when they break, you know, every person that is using them feels the pain, right? Because that's the main thing. Powering their, their system. And so it's as mission critical as it gets. And for them and to have a very complex system, they have a very complex and, and really high quality engineering organization.
+
+
+And with them, we've been working with 'em for, for six months now. And we've found that in that six month period, we've dropped the, the time to resolution by over 40%, like 37% to be exact. Which is incredible, right? Because as I said, every minute of downtime is like, is worth thousands of non millions of dollars.
+
+
+And so, uh, and also now the engineers are having to spend less [00:22:00] time worrying about this, you know, like root causing and can spend more time building. Uh, so that's one example. Uh, we are working with a number of, we've also found ourselves working typically with large Fortune 100 companies in the financial payment space, consumer good space healthcare space.
+
+
+I think at the enterprise, because you get so big, your systems get so fragmented, there's so many different teams, and so even simple issues, troubleshooting them can be really painful because of the, the no one team has enough of a context, and that's another place we found we add a ton of value. Uh, we can't publicly talk about them, but with some of them, you know, we can reduce some of the incidents that would take two hours to less than five minutes to get to the answer to.
+
+
+Yeah. Uh, how is your, like AI agent approach different from like traditional methods solving this industry's problem? Yeah, absolutely. So I'll give two answers. There's, there's the traditional approach to this problem, which existed say like five years ago, uh, in the broader space of AI ops. And I think what they were doing is they basically were using traditional machine [00:23:00] learning methods to find if they could figure out the root cause.
+
+
+The problem is that the data's too noisy, it's changing all the time. And so, um. You end up with too many false positives, there's too many signals you end up with and it leads to more noise than signal. And that didn't work. And so that, that, that generation of companies didn't really take off. And then you have this, um, and so I think the, the big thing that was missing is LLMs.
+
+
+'cause LLMs can actually understand the message in the lock field. They can understand the data and the me, the metadata and the metric, they can actually read the code. And so I think now when you combine the statistics, which is what these traditional companies did, um, but we have a better way of doing it now with causal machine learning.
+
+
+And you combine that with semantics and you, you marry them together, that's where actually unlocks it to be possible at all. Um, but it's still very hard. So if I think about what the companies in our generation are doing, like either the incumbents or other startups, they typically are taking on problems where you have some sort of playbook.
+
+
+You know, when an alert happens, these are the five steps you do, and [00:24:00] now you can get an AI agent to, to do those five steps. But those five steps are predefined. The problem is that for complex incidents, the ones that really matter, you can't do that. That's why you have 50 engineers in a, in a incident war room trying to figure out what happened.
+
+
+And those are the types of incidents we have really focused on. And I think the, there's many, many different kinds of innovations that have happened across the stack to make that possible. But fundamentally, it's about having these swarms of, of AI agents working together in, you know, multiple agents to get into work using lots of modern statistical tools to help them.
+
+
+And I think that architecture of swarms of agent using really modern statistical tools is what unlocks this to be possible in a way that other companies or historical companies just couldn't do. Okay. And I wanna know, like, how did your, like first MVP look like? So how did it perform when you first tested it with smaller companies at the beginning?
+
+
+Yeah, so that's a, a great question. So we, we wrote, we built our first MVP probably last year in June or July, like about three months [00:25:00] in. And with small companies, it worked great actually, you know, um, because the scale of the data was small, we could kind of look at their historical incidents, see what the playbook was, and then put that into an AI agent.
+
+
+And so like our accuracy was like 90% something amazing, right? So we felt really confident that this is gonna work. And then we hit some of the larger enterprises, including digital ocean. Um, our accuracy went to 0% and which was very difficult to see. It was a tough week. Um, but then we re-architected a lot of things, right?
+
+
+We said, how do we make sure that we are no longer trying to use our creativity and seeing, you know, get that into an agent. We really use what these AI systems are good at, which is using computation, right? Using inference. And once we unlocked ways of, of really, uh, unlocking, you know, test time compute, which is something that's very popular now with the reasoning models.
+
+
+That's really what unlocked us. Um, and suddenly our accuracy went back up to 90%. So that was a big journey on the accuracy part. Um, and then in terms of the product, it's is night [00:26:00] and day in some ways. I think, um, a big part of, um, you know, when you provide an answer to an engineer is they don't just wanna see the answer.
+
+
+They want to know how you got there. They wanna see the proof of work. So a big part of the product decisions we've made right now is allowing engineers to actually, uh, validate what we have done and make sure that they can verify the answer in, in, in a minute. Versus like, if you just give them an answer, you don't tell 'em how you got there, the time it takes them to verify the answers, as long as it'll taken them to troubleshoot the answer in the first place.
+
+
+So it's not that useful. So I think, um, showing your work very clearly is another big product decision that we've made, um, that I think has really helped. Yeah. So could you describe the moments that your systems accuracy dropped to 0% with enterprise clients? In like, more detail, like how did you feel at that day?
+
+
+And like, like, did you guys do like, like work for the overnight since that. So, yeah, it was, it was, it was not a great day. We were all sitting, uh, I remember we were in Sequoia's offices then working from [00:27:00] there, there were only six of us, I think, of the, or six or seven of us at the company. And so it was a tough day because we had, um, we had put so much effort into it, and you can't really know until you tried on live incidents.
+
+
+And so, um, yeah, it, it was certainly tough. And I think my, me and my, one of my co-founders, Raj, we went for a long walk and, um, and we said, you know what? It'll be okay. We just have to like, like calm down, give it, you know, and then just think with fresh eyes. I think if we kept keep pushing today or tomorrow, nothing's gonna happen.
+
+
+And I think, uh, the, the few of them, Raj and Ra, they got together and then I think in, in a couple of days after just taking some time away from it. Had some clear insights that unlocked it. You know, I think it was like a four or 5:00 AM at night. Raj, uh, messaged the whole team saying like, he has a, he has a, a solution for it now.
+
+
+So that was, that was cool. I guess I, I think the main thing is that, you know, you, you have to just kind of persevere. I think you have to, if something goes wrong, that's okay. I think it, in some ways it's a good thing because if it [00:28:00] was easy then everyone could do it, right? I think this is one of those problems where the problem statement is very easy to state, but to actually solve it is really hard.
+
+
+And I think that's where there's like a lot of companies trying it, but very few actually succeeding. And I think having the ability to like stay resilient and have grit when something doesn't work and just stick with the problem is I think a big part of what differentiates us, uh, as a company. Okay. So could you, uh, explain more about, more about that solution you have made about, uh, in an easy way that the people who are not family are with machine learning and any agent.
+
+
+Could understand. Yeah. I think one way of thinking about it is are you, um, are you trying to copy what engineers do, which is like look at the playbooks that they have and try to copy that? Or are you trying to, um, find a way that really exploits what AI is good at? And what we find is if you try to copy what engineers do in the past and try to get an AI system to do that, it works well in for historical incidents, but it doesn't generalize well to new incidents because every incident is kind of [00:29:00] new.
+
+
+It's kinda like a snowflake. And so we had to find ways of generalizing to new incidents. And I think a big part of that trick was to make sure that we were not overfitting to historical incidents, which is what we're doing earlier. That's something that you learn in like the first class you take in machine learning or statistics is you shouldn't overfit your training data.
+
+
+And I think that's what we're doing. And once we found a way around that, uh, that, that was the key trick of it is to not overfit. And the way you don't overfit is you basically exploit what these AI systems are good at. And that's basically spending tokens on the problem. You have to be able to. Spend as much compute resources on the problem.
+
+
+And that's the thing that scaled, right? That's what we've learned from this large language model. That's what the foundational models, OpenAI in particular really figured out is scaling compute is the one and only thing that holds over all time. Right? So the more you can scale compute and less you can rely on, on human creativity, the better.
+
+
+Right? So, um, I think, I think that's the heart of it in some ways. Yeah. Okay. So I think like for startups who are using ai, the, are there like, there, [00:30:00] I guess, I guess that like building an might be slightly different compared to the traditional startups. So could you give like some like advice or like your thoughts on building MVP or AI startups?
+
+
+Yeah, I think building MVPs is like one of the easiest things now. Like anyone can put up a really good demo about something and that that is good. And I think you should do that as a way of at least. Finding, figuring out validating need. Right? I think before when we thought about, um, product management, you go, you do a lot of interviews, you see how people react to what you're doing, and then you try to come up with a product after that.
+
+
+But I think now, because the product site, creating A-A-M-V-P is so easy with all the tools out there, you can really iterate quickly with putting a product in people's hands. And that's like really incredible feedback you can get, which you just can't get from an interview. Something that's really important to do.
+
+
+Now, I think the only thing I would say is that creating an MVP is easy, but creating a production system that works in complex environments is really hard. [00:31:00] And so I think once you're not, um, confused, an MVP with a production AI system, those are like two very, very, very different things. And I think, uh, to build really, uh, high quality systems, um, uh, that work in the enterprise, you need to have really good evaluation pipelines.
+
+
+You need to constantly be looking at what works, what doesn't work, right? And if you're doing it very manually, that doesn't scale. Right. So you need to come up with these really good benchmarking and, and evaluation pipelines that helps you figure out when it's working and when it's not working automatically.
+
+
+'cause I think the best AI companies are always gonna be at the edge of where the models are gonna be, right? That's how you differentiate yourself is you're always at the edge if you're the edge. And sometimes it works, sometimes it doesn't work. And so you need to know quickly when it's working and when it's not working and correct for that.
+
+
+And so I think a big part of your transition from an MVP product to a a in production system is good evaluation and benchmarking that is domain specific to your specific problem. Yeah. Could you share, like what, how did you like, uh, [00:32:00] make this concrete evaluation pipeline in your company? Like, do you internally use some AI tools to make it quick and effective?
+
+
+I think we, if there was existed a tool, we'd use it, but I think it's so complex in some ways. To me, the core IP of an AI company nowadays is your, how you value. Is how do you collect data quickly and how do you evaluate and optimize on the data that you're collecting? And in some ways, that is the core IP of a company, right?
+
+
+And so I think, I think that if I think about, you know, if I look at companies and think about what makes one great versus not is how quickly are you collecting data? How quickly are you improving based on data you're collecting and evaluating? And so because that's core ip, in some ways, everything has to be built in-house.
+
+
+Uh, so far at least. But if there are great tools that come out in the coming years, we'd be thrilled to use them. But so far we haven't seen a great one. But if, if one comes out, we'll certainly use it. I think it'll be very valuable. Okay. And I wanna ask about like your, who was your first major client and how did you land stem?
+
+
+[00:33:00] So the first major client was, uh, digital Ocean. Um, and I met the, uh, CTO, um, brought in, uh, actually at a Sequoia event. Um, and he was at that point, like, um, a, a senior leader at at, at AWS. We helped build a lot of the AI tools out there like Amazon Q and Sage and so on and so forth. And he got recruited to become the CTO of, uh, digital Ocean.
+
+
+And I think he just saw, you know, um, I think, um, he just saw the, the potential of what we're doing. 'cause he saw like one of the biggest problems in, in companies right now is downtime, is troubleshooting. And I think he realized that this is a problem that's so hard. You need like an AI native team with like the right background, the right pedigree to solve it.
+
+
+And I think thankfully he saw that in us and so he took a better on us honestly. And thankfully it's gone very well. And I think it's both for him as a company to help downtime for them, but also as a way that, you know, we, we are using traversal is now powering all of their customers downtime. [00:34:00] So it's something that they sell to their own customers and we have a, like a, like a, a partnership together.
+
+
+And so it's gone very well and I think I'm glad he took a better on us to begin with. And I think that's, that was our first big deal that happened. And then since then it's, it, you know, once you get your first one it gets easier and easier and easier. Um, but that was the first one. So is that moment, uh, made you feel like you achieved product market fit or do you think you have some ways to grow right now?
+
+
+Product market fit is like a continuous never ending journey, in my opinion. I think we are, um, we're certainly closer to it than we were, um, six months ago. Um, I think now, you know, if, if you take away our product from, one way I think about it is that if, if your product is no longer you have an outage, like we go down, will our users be affected by that?
+
+
+Will they be like, where's reverse? Like I need to be using this. And to me that's a pretty good notion of product market fit is, um, is how crucial you are in someone's work. How easy it is to try you and, uh, and, [00:35:00] and get to that point of, of feeling like, you know, you are crucial to the workflow. And so I think we're, we're far close, closer to that than we were six months ago.
+
+
+I think we still have things to do to make the product experience better. I think the AI engine is in a good place. There's obviously work to do that, but the core AI architectures in place, and now a lot of the work is about, uh, how do you, um, put a beautiful product experience around this, right? So people want to use your system every day.
+
+
+Um, and so I think that's the, the AI part is in a better place now. The product part is catching up. Um, and, but the other interesting thing though with, with PMF in this age is that it's, it's, it, it's constantly changing because the underlying AI models are changing all the time. So what's possible is completely changing, right?
+
+
+So I think if you wanna be an AI company in this age, you have to keep looking at where the AI models are. Keep making bets as to where they're gonna be six months from now, and keep, you know, making product decisions based on that. And so, because the underlying thing is changing so quickly, you have to keep reinventing your product, you know, in a [00:36:00] better way.
+
+
+So in some ways PMF is something that you might have, but you have to also keep fully be present and, and running and sprinting all the time. Yeah. Yeah. I wanna ask more about what does, what exactly does that mean? Like reinventing the products? Like when you, or like you also said in other projects that you have to reevaluate everything at, in every six months.
+
+
+So like, what does that like mean? Like reinvent and evaluate the, like product roadmap or like technical architecture or can composition. Yeah. So I think you are, think about what constraints, because the model's getting better, but they're never perfect. So there are things they're good at, the things they're not good at.
+
+
+And so the question is, which things should you be building around to correct for the things that they're not good at so far? Or just wait for six months from now and you don't really know where they're gonna be six months from now. So you have to kind of read the papers, you have to see how the models are doing.
+
+
+And make a bet as to what they'll be good six months from now. Right. And so, um, and so that's what I mean is that, and they, and [00:37:00] sometimes you just can't predict what's gonna happen. And so I think making the right bets as to what are constraints to actually deal with today versus not. And also if something happens unexpectedly that you couldn't, you didn't really see making sure you can be agile and move with that.
+
+
+Right. And I think that's been something that's been really important. So one concrete example is I think the reasoning models, right? We had a inkling they were gonna come and, you know, we could sense it from just what talking to researchers that we knew in, in the labs or in universities. And so we had a sense it was coming and then we made some really important technical bets so that our product would improve with the reasoning models.
+
+
+And that's really played dividends, right? That, that's really helped us. And so I think those are examples where we rea, we rechange the architecture based on the bet that the reasoning models are coming, right? And so I think, um, that's an example of something that I think is is crucial for an AI company to do is to make bets.
+
+
+And then, you know, try to land your architectural choices and product choices in line with that. Right. And it also shows up in go to market. It shows up in market. [00:38:00] Everything is affected by this thing and you have to kind of keep it all in your head fluently, I think. Yeah. So could you like, describe more about like what signals did you see in like that September that you made to think raising models would become important?
+
+
+I think it was just mostly honestly reading papers and talking to people as to like where, what kinds of scaling laws are coming out. And I think this was something that we just seemed like it was coming in some ways. And, um, and so I think it, it was honestly just like being in our network and talking to people.
+
+
+That's really what helped us, um, more than anything. Yeah. Yeah. And I wanna know, like you use the expression at batch, so I know, what did that batch look like? Like concretely. So did you change like traverses architecture or like pivot product development? So it wasn't pivoting. The, the product is, is in some ways the problem is the same that we probably, we've thought about since last year.
+
+
+It's really about the underlying architecture of, of how do you make sure that your system [00:39:00] gets better with the reasoning models. 'cause there are a lot of people we saw in competing companies and so on and so forth, where as the reason model came out, they didn't get any better. Right? So how do you make sure that you're exploiting what the reasoning models are good at?
+
+
+And the way I put it is that the reasoning models are very good at like detective stories. You know, if you have, um, you're trying to figure out, you know, if a, if a missed mystery novel and trying to figure out who, who did the crime. You know, like, and there's all these different pieces of evidence that you're seeing and you're trying to figure out who is the person who did it.
+
+
+And connecting all those dots and figuring out the thing, you know, the person that did it, that kind of detective story type workflow where I think these reasoning models are very good at where you have a clear answer at the end and you have lots of moving pieces that you have to like connect the dots between to get to the clear answer.
+
+
+And I think that felt kind of perfect for us, right? Because for us you have all these different symptoms that are happening at the same time to find ways to connect the dots, to find that specific right answer. Like who did it in our system? What service did it, or what API endpoint did it or whatever PR did it, right?
+
+
+And so I [00:40:00] think architecting how these reasoning models got data so that they did what, you know, so that, um, we were making sure we were exploiting them to the maximum was crucial. I think. So, I think that's the way I'd put it. Yeah. Okay. That's great. And, uh,
+
+
+and like how do you like prepare, like safety net or plan B for when like, predictions could be wrong, like, I wanna know how do you handle those risk and. Yeah. Yeah, that's a great question. I think, um, uh, a few, few different ways. So one thing is when we give an answer, we always show our proof of work. We always show the evidence, right?
+
+
+So it's never enough to just show the answer, which is the root cause. You have to show how you got there. And how you got there is take, takes a form of like dashboards, different kinds of log files, different metrics, and all of that data has to be recruitable in your actual observability system, right?
+
+
+So it's like perplexity. When when you ask perplexity a question, it kind [00:41:00] of gives you evidence, right? It gives you citations of how it got to that answer. Same thing in our world. So, but our, the world that the citations aren't web links, the citations are links to your observability system, right? And so I think that's the, the analogy and that prevents the system from hallucinating because it's every onset gives, has to be backed by real data that's actually present that that user can recreate.
+
+
+That's one big thing. The second kind of guard railing that's actually really important, especially the enterprise. People don't realize it. Is, you know, these are mission critical observability systems. And, um, if, if you, even if you are asking for read only access, you just talking to, you're just querying the system.
+
+
+If you query it too much, you can bring the system down. You need to add lots of guardrails to make sure that you are only touching the system the amount that they let you. Right. The, you are only querying it as often as they, they want you to, and you only ask some types of queries that they let you So guardrails in that way where it, it limits the type of questions you can ask to make sure that the customer has, uh, belief that you're not [00:42:00] gonna bring the system down is another kind of guardrail.
+
+
+So one is around hallucination, where you're giving deep links and citations, and the other one is guardrails around the types of queries you can write. You whitelist the types of queries that your system can write and that gives security typically a lot of, uh, uh, belief. And also because now we've done it so many times in different kinds of large enterprises, people have a lot more belief that it's possible and we can do it.
+
+
+Yeah. Okay. So back to the problem that you're solving. You mentioned that new types of problems emerging as AI write more codes. So what specific issues are you concerned about? I think the big thing, uh, well, there's many things, but the, the big thing to me is that AI is gonna write so much more code and no one really understands all of it, right?
+
+
+If you wrote all of it, you have in your head just how it all fits. And I think, and as you get to bigger and bigger systems already you work with some of the largest Fortune 100 companies. No one has full context, no team is full context about what's happening because it's such a complex system. [00:43:00] And that's just happening not just at the large companies, but also the small companies because the, the code is no longer being written by a, um, uh, a human, but by, or an engineer, but by a AI system, right?
+
+
+So the lack of context means that when it's, when an incident happens, it's just so much harder to debug it because you just don't have all of the context you need. So that's the big problem. And as a, and I think the second big problem, I think is that, you know, with all, all the developments happening with ai software engineering, our belief is that as engineers we get to do the really creative, fun work, right?
+
+
+Which is architecting system design. I think what's happening is actually all the best engineers that are actually doing QA work and troubleshooting work on call work, right? And I think over time, you know, in, in, in this world, all engineers will be doing will be troubleshooting, which would be sad in my opinion.
+
+
+Like they should be doing the most, we as a, as engineers be doing the most creative work, right? And to, to make that a reality, you, you need to have systems not just developing your software and building it, but also maintaining it, right? And so I think [00:44:00] all the software maintenance needs to be reinvented.
+
+
+Um, whether that's observability or whether that's security, right? I think that's where traversal can, can really play a part. Okay. So like you said, like the more engineers. You're imagining the words that more engineers could do, the more fun and the important words. Yeah. So what capabilities or habits should engineers maintain when using AI tools or like surviving in this AI era?
+
+
+I mean, used traversal? Yeah. But, uh, I think, um, I think it's still being invented. I, I don't know if I have a great answer because everything is, we're figuring out what the right programming language for us is with these systems now that we have these incredible tools with us. Um, but I think, you know, I think the ideas around good software engineering principles still hold, like, document your system, think carefully about how everything is architected.
+
+
+Um, versus, you know, a lot of times now you can just write code, quickly, write it. If it works, it works and doesn't work, you [00:45:00] re try ret, try retry till it works and you lose any sort of understanding of it. And that's one way of going about it. And you'll find a way of making it work right then and there.
+
+
+But software is, is kinda like a living system, right? It is not just a piece of of code. It, it, it interacts with the world, right? And, and just 'cause it works in the one time doesn't mean it's always gonna work. 'cause the world is constantly changing. And so I think just thinking through all of the different ways your system is going to be used and, and making sure that you are thinking about that as you have an AI assisting code assistant with you is important.
+
+
+So I think just being thoughtful and careful is important. Just 'cause something can happen quick doesn't mean you should do it super quickly. And of course you traversal. Yeah. Yeah. Okay. And I wanna know like how like the engineers in troubles were like, uh, the, like laying like characteristics or have like characteristic of the people who are working in the trouble.
+
+
+Because, because you said that like [00:46:00] AI first thinking and rapid iteration mindset is really important. In these days, rather than like PhD degrees or like certifications. So could you explain like what this AI first thinking and rapid iteration mindset mean with like concrete example, and how does like employees or crews in traverse are working with this mindset?
+
+
+Yeah, I think, you know, I, I, you know, I have great admiration for like, Ilia, um, or um, Andre, right? And I think, I think they look at data, right? I think the main thing is as an engineer, a lot of times you like to abstract, you like to think in, in systems. But I think in this world of ai, you, because it's so stochastic, the underlying thing is a stochastic.
+
+
+You have to look at the data. You have to be like, pouring through trajectories. It's, it's not, you know, fun, glamorous work, but it's incredibly important, right? And being able to look at different trajectories and, um, abstract from that in the right way, right? And as I said, also being able to good evaluation.
+
+
+So it's a different way of software engineering, because before you have. This clean thing that will do every [00:47:00] time the same thing, right? That's, but now that's no longer the case. 'cause an AI engine is, is driving so much of it. So I think being able to look at data and sink into it and from there, find abstractions is really important in a way that just, you are not trained as in, in, in classical software engineering.
+
+
+So I think that's a very important thing. Um, I also think, you know, more than anything, I, I found that, you know, people really care about missions, you know, so I think, I think the one thing that connects Traverse engineers is that we all love the problem. Like we've all fallen in love with the problem we're all faced in our lives.
+
+
+And so we really feel like a great deep desire to solve it. Um, I think that's been really good. And also I think given that's such a hard problem, it it, it's like a, the mix of people here is like, it's both feels like an applied AI reasoning like Agent Lab and also feels like a very classic enterprise software engineering company.
+
+
+And so. That mix of things I think is very unique and traversal, um, like having both that very deep research background, but also being able to deal with [00:48:00] large enterprise clients. That those two things typically don't go together. And I think that's a pretty unique thing about us is that customer obsession, but also that, that research underpinnings of dealing with data, dealing with uncertainty, rapidly iterating with benchmarks and evaluations, and also just building really good software because it's, you know, if traversal go goes down, it's not good.
+
+
+Right? The whole thing is we're trying to eliminate downtime. So the mix of really good engineering, um, really customer obsession and research is, is like a unique mix. I think you need to, to build a company like reversal. Yeah. Like, this is just a quick question, but do you use reversal in Trouble three?
+
+
+Like my use Big Mouth? Yeah. Yeah, we're getting there. I think for, for some use cases, uh, we're, we're getting there. I think the interesting thing, which is why we are focused on the enterprise is that. Uh, to use traversal your data, you need the data. If the data doesn't have the answer, it's hard to, to, to use reversal effectively.
+
+
+And what we found is that as you go to the large enterprises, your data is actually very mature. [00:49:00] You have all the data, it's just very large and very fragmented. And that's where we can add a lot of value. And I think with, with a, you know, a, a c series, a startup, your data observability is not so mature yet, right?
+
+
+And so you can only do as much as the data shows you, right? And the system is small enough that it, it remains in people's heads. Like people can kind of have the full context in, in, in their minds, which you just can't do as a system gets larger and larger. But our hope is that we are already using traverse and traversal, but our hope is that in the next three to six months, all of troubleshooting and on-call happens via traversal itself.
+
+
+So that's certainly like a north star that we are working towards. Yeah, and I have, uh, additional like follow up question on your previous answers. So you've said the, like most interesting innovation. AI innovation that are like happening both in startups and universities, but as a person who are both a professor and entrepreneur, like how do you see the, like different main difference between these [00:50:00] environments?
+
+
+I wanna know, like, what specifically is this like magical and special work that only happens at startups? I think, um, it's focus. 'cause you, you're forced to solve a real industry problem and you don't have the luxury of time you have to solve it. Now there's, you know, any important big problem, there's competition.
+
+
+Um, and so I think that that speed, right, and the, the, the, the jungle of competition that you're in just leads to innovation, you know? Um, and so, and I think having actual customers telling you that they want it, they need to use it. Right. So that feedback you hope you get with actual customers is really important, right?
+
+
+When in academia, the your customers are, are journals and they are reviewers. Right? And that's very different versus like, here's someone who's gonna pay you large amounts of money for it, right? And so I think just being so connected to the real world, um, is, is really important to like [00:51:00] focus you and then obviously competition, um, makes you move quickly, right?
+
+
+And so I think that's the amazing thing, um, about, about startups. Uh, and I think just, yeah, I think, I think everyone focused on one thing and solving it, truly solving it leads to a lot of innovation that, uh, is unique to this world. Yeah. Is there any like impressive moments that you like, get some, like customers feedback and quickly adapted in your project?
+
+
+Oh, we do that every day. I mean, we, we talk to customers every day, uh, users of our, of our, of our, uh, and so everything we've built has been with feedback, right? And so it's, it's a thousand things we're collecting every day from different co companies and customers. Uh, and building on that, one big thing obviously is just the feedback.
+
+
+Like just looking at the data that they create, you know, and we have ways of collecting feedback on, on the product itself. And so now we're systematically collecting this feedback from them and then optimizing the system and the AI based on the feedback they give on, on the product itself. Um, and then bigger decisions, [00:52:00] um, um, on, for example, the idea, like they wanna follow up.
+
+
+That was a big feature that we added was follow up. So, you know, first our system was you give an answer and that's the full answer, but people kept wanting to ask more questions of the system. They wanted to follow up in different ways based on who they were. And I think that was a feature that we added so you could like, chat with the system, right?
+
+
+Almost like a, like a deep research for your, for your company's infrastructure. And that was a feature that came from just talking to people and putting in front of people's, uh, in, in people's hands. And there was such positive feedback from that that really helped. Um, but even other less glamorous things like, you know, we learned that if you want to get, you know, logs are very sensitive information.
+
+
+It contains like credit card information, you know, like very sensitive information about people. And so I think dealing with security and learning how, how you can make sure that security and the engine team feels safe with your system is another thing that we learned only by talking to, uh, security teams and engineering teams to learn what they'll feel comfortable with to [00:53:00] give to a company vessel.
+
+
+And that's made lots of interesting architectural decisions. For example, we only do read only access, like we don't install, um, you know, some sort of agent, not any agent, but agent on your, on your cluster and create more data. And that's something we learned from just talking to, uh, companies. That's something they don't like.
+
+
+Right. So. As much as it is like a product problem, it's also a deployment problem. And I think talking to customers tells you the types of deployment stories that are easy versus hard, and no one talks about that, but it's actually crucial. Yeah. Okay. And, um, you mentioned about like competition and competitors.
+
+
+So like how would they think, like how does this market, how competitive this market is and what Al is doing to maintain your competitiveness and your own unique features in this market? Yeah, so I mean, I think any big problem that is, that is important, there will be competition and I think competition's a good thing.
+
+
+It shows you you're in a [00:54:00] space that matters, right? Uh, any real problem should have competition. Um, I think there's competition from the incumbents like the previous generation of observability companies. Um, and I think they'll, obviously, I'm sure they'll do a good job, but the problem is that if you look at any serious enterprise, they don't just use one company.
+
+
+They're using, you know, Datadog and Splunk and Dynatrace and Grafana and Elastic, and ServiceNow, and GitHub. So they're using like six or seven different tools. And if you wanna troubleshoot it, you have to talk to all these different tools, right? And the way these companies price is based on the amount of data they store in their system, right?
+
+
+So company A is not incentivized to give you any sort of insight on data stored company B and vice versa, right? So a company like us, like a startup is, is well suited to take this on because of how fragmented the observability industry is, right? So we can be the single pane of glass because we don't care about where the data is stored, we just want to provide you the intelligence layer on top of it.
+
+
+So I think that's, that's a reason why a, a startup has a right to win in this space. [00:55:00] And then amongst the startups, I think the fundamental question is. Do you believe this is an AI problem or do you believe this is an observability problem? If you believe it's an observability problem, then we're probably not the team to win.
+
+
+If you believe it's an AI problem, then I don't think there's any team that's as has the right to win like us. Right. And I think, I mean obviously I'm biased, but I, I do think this is probably one of the hardest problem for an AI agent to take on because of the scale of the data, because of how complex troubleshooting is.
+
+
+Just getting an AI agent to work in production in a stable way is really, really, really hard AI problem. And so I think that's where we're well suited to take it on. 'cause the technical risk is really high. The market risk is relatively low. If you can solve it, people will, will, will find a lot of value in it.
+
+
+Right. So I think that's why we're well suited to, to, to win, um, in this space. Mm-hmm. Yeah. Yeah. I think that Trevor, like AI agents are trouble, so is building is solving a really complex problem. But like in this day there are a lot of AI agents or the, some software that's are they say, they're [00:56:00] saying they are AI agent.
+
+
+What do you think is there, what is the like main, like misbelief or misconception about AI agents these days? I think, I mean, anyone who uses an LLM in their, in their system will call it an AI agent. It just in fashion, I think, you know, and this is something that a lot of people have talked about, um, I think an AI agent is more like a continuum than a binary.
+
+
+And so the more complex the workflow that you're trying to automate, the more agentic it is, right? And so I think if you're trying to send someone an email and you're, you know, you're summarizing email and then send that summary to, to Slack, right? That's a pretty basic set of steps. The, the core steps are decided you have to use an LM in between.
+
+
+But the fundamental workflow is simple. People call that an agent as well, right? But it's a very simple agent. And on the other hand, where you're telling you to do something that you don't know how to do yourself, right? And I think troubleshooting is one of those things where. Even teams of engineers have a hard time doing it.
+
+
+That's why you have so many [00:57:00] people, you know, in a war room. And so there's this continuum of thing. And so I think rather than saying whether something is an AI agent or not, it's how agentic is it? And the more complex the workflow, the more agentic it has to be in some ways. Yeah. Okay. And, uh, I am not sure you remember and, but you, in 2021, you predicted that AI democratization would make AI visible everywhere and quote like this $77 billion AI source markets estimate for 2002 25 is too low.
+
+
+They remember that you posted that on your LinkedIn. I don't actually like, so now that's, we're in like 2025. So like how do you evaluate those predictions? Like how, uh, I don't remember my predictions, but I think any estimate that we had. Three years ago is widely, widely lower than it should be. So I think everything we get estimated about AI and its importance is a great gross underestimation of its [00:58:00] importance.
+
+
+Uh, so whatever I said, however optimistic I was, I was less optimistic than it should have been then. Like what's your vision for AI in three years from now? Because I know it's hard to like predict exactly, but like what specific future are you imagining? I think there will be in some ways a lot of the, the stuff we built with in this previous generation, like good secure AI or like, so security observability, finding the right ways of integrating all of that, that work that actually needs to be done to make this into production.
+
+
+I think that's where we'll mature over the next three years for sure. Um, and obviously the AI models themselves will get better and better and better. Um, how exactly they, um. They play out. It's very hard to say. I think you can only make these bets three or six months at a time. Whether we hit, you know, a GI or super intelligence, I have absolutely no idea.
+
+
+I think I've, I've don't try to make these bets because I really don't know. Also, I think it's one of those things [00:59:00] where if it happens, you won't even notice it happened. If know, these things all keep happening and like the Turing test, you know, we believe it's now, you know, we've gone over it. It wasn't even a thing, it just kind of happened.
+
+
+Right. So I think all of these kind of binary things of, you know, oh a GI, oh super. It just kind of happened and we won't even notice it because we, we are so used to it by then. Right. Um, um, I think, yeah, I'd say, I'd say, I think, I think there'll be maturity. There'll be maturing of the AI industry so that the types of, uh, so it just makes, the way, the maturity we have at enterprise software today in terms of security integrations, observability, all of those things will now will be more mature.
+
+
+In three years from now than they are now. Um, but in terms of bigger claims, I, I, I dunno. Yeah. And like, uh, I know you've got just out from STR mode this month, but like beyond just like solving system failures quickly, like what changes does tribe [01:00:00] also ultimately want to create in like in the future?
+
+
+Yeah, I think if I think about the workflow that we are trying to automate, fundamentally it's, it's about finding this needle in the haystack, right? Where you start with some, something in your system change, some spike happen, and you try to find what happened. And you go through dashboards and logs and traces and code.
+
+
+And I think that workflow shows up everywhere, whether people realize or not, it shows up in, in software observability, in troubleshooting, it shows up in security, it shows up in networking, it shows up in product analytics, like on companies like Amplitude. It shows up in business operations. That's the type of thing that people do in Looker, right?
+
+
+Are, um, and so I think. Our goal in some ways is to get world class at this particular workflow and then use that to build a wedge into these different kinds of industries. I think observability and security are like two of the key major ones that everyone cares about, will always care about. And so that's something we'll always be focused on.
+
+
+But I think ance of systems more broadly speaking, requires this kind of work and I think that's where we [01:01:00] wanna automate so that people can then spend time, less time on, on operationalization and maintenance on, but more time on creative tasks. Okay. So six months ago you betted, you bet on the reason model.
+
+
+So could you give us a hint about what AI trends or bad trouble is watching for the next six months? I dunno about the next six months, but I think over the next, uh, yeah, whatever time period, I think the multimodal models will get better for sure. Right? I think, um, if you think about it, like right now, we begin troubleshooting when an incident happens or an alert happens, right?
+
+
+But you should really start troubleshooting the second someone interacts with a piece of your system, right? So let's say you log in to a a, a platform, you should start monitoring it. You should have a video stream of what that, how the person's interacting with the system and troubleshooting from there, right?
+
+
+So like, wait, rather than waiting for something to happen, you should be like real time monitoring what they're doing, looking at the video stream, looking at the audio stream and start the troubleshooting [01:02:00] workflow from that point onwards, right? So I think that would be really cool, I think. Uh, and then I think that there's a beautiful mix between product analytics and, and troubleshooting and observability.
+
+
+And once those things start combining and you have a real single pane of glass, I think that'll be incredibly cool. Um, and transformational as to how we think about building and optimizing software systems. So that's one thing I'm hoping waiting for to get really good when to start building for that world.
+
+
+I don't know, but So we'll, we'll keep track of it. Yeah. Okay. And. Uh, what advice would you give to people like dreaming of trading AI companies these days? There are like ton of those kind of people. Yeah. I think, think about what's gonna be important 10 years from now, regardless of whatever happened in the world.
+
+
+You know, in my opinion, like obviously monitoring and security will always be important. So, uh, uh, and that's what my, my, my, uh, I learned that from my, my board member Bogal. He always says that monitoring security will always be present. So I [01:03:00] think that was so, I think, I think picking things that will always be important, uh, is important is, is, is crucial.
+
+
+And then I think really taking on something that you care about, I think having a mission that you care about and taking a problem that you fall in love with is really important. I think that's what attracts, if you really love a problem and you're, you are attracted by it, that's what attracts other people, right?
+
+
+Uh, whether you're starting a company, you're joining a company, I think, I think just, um, taking a problem that you really love and care about. And probably the most important thing out of anything is surround yourself with people that you care, that you like, that you wanna be like that. You know? I think, um, and if you do that, life will be okay, right.
+
+
+Whether it's, it's whatever choice you make in terms of creating a company, joining a company, investing a company, just being around people that you respect and wanna spend time with, and you learn from every time you interact with them. That's just the way I, I make creative decisions and has typically led me in, in a good way.
+
+
+And so I think that's more important than anything. And sometimes that might [01:04:00] be expressed to start a company in other ways, it might be expressed in some other way. Uh, so, but I wouldn't just start a company for the sake of it. I think you should, you know, you should feel like something deep in you. 'cause it's not easy.
+
+
+And so you, you need that kind of deep belief or, you know, or motivation to sustain you over time. Yeah. And like that, that, uh, answer reminds me of the answer that you gave about the moment that your co-founder talk. This problem and the moment of the discovery of the problem. But like in that situation, you feel felt that this is an important problem, but it was like, like before that moment, do you, did you have on any sense of importantness that this is really important problem, or it was just that moment that you discovered it?
+
+
+So I think before that, as I said, I think one thing I knew that I, I always wanted be the forefront of AI research. Like I've dedicated a lot of my life to that, to this pursuit because I just think it's so important. And so for me, creating a company was, I [01:05:00] felt this is the best expression of AI research and is to be in a company, right?
+
+
+I, I wanted to be, and I also thought it would make me a better researcher. It would, it would be just the right way of adding value. So that was my core motivation, was like, this is the best, this is where the best researchers are, and this is where the best research is happening and this is how you're at the forefront of AI is, is to be in this kind of world.
+
+
+So that was my core motivation, right. And then I look for a problem. What were the things that I, I, I thought I would be very good at, you know, you know, statistics cause of machine learning, reinforcement learning, these are things that I know are, are, are important, will always be important. And so then that was the second like stage of, of connection, right?
+
+
+And then this problem, you know, as I said, came out because we just realized how important a problem is of troubleshooting. So there were like different levels of motivation and, and, and as we got more refined. But the first and foremost is I just wanna be at the forefront of AI always. And to me, this is the best way of doing it.
+
+
+Yeah. Yeah. And to you, we'll, like ask like two or three more questions about your answers. Um, I have some additional [01:06:00] questions that, like this day with more and more code being written by ai. So how do you think observability tools and system will change in the next three to five years? Yeah, so I think right now, if I, if I think about what observability tools do, they help you store and visualize data, right?
+
+
+And so they help you basically create. Um, dashboards. Um, but the work of actually reasoning through these dashboards, figuring out what happened is still the job of the engineer, right? And so I think the next generation of observability tools, they will actually do the work for you, right? So rather than a engineer having to look at a graphical user interface, look at these dashboards, an AI agent is doing it through API access and it's just showing the work to an engineer to verify it, right?
+
+
+So I think there'll be a fundamentally different flow of the way we think about observability when an AI agent is doing most of the work and, and a real engineer is simply verifying it, right? Um, and the second thing I think is gonna happen is the way we think about logging data is gonna look fundamentally different.
+
+
+I think, [01:07:00] um, before we, we created these, these ideas of a metric or a log so that a, an engineer would look at it and parse it. But I think if it finally, you know, and it is not an engineer that's parsing it, but it's an AI agent that's parsing it, the way we would structure a log that we would structure a metric would look fundamentally different.
+
+
+And I think that's really interesting and we're already seeing that with some of the customers that we work with. The way they structure their data and the way they log it is now changing at some of the biggest companies in the world because they know that traversal is gonna be parsing it versus one of their engineers gonna be parsing it, which I find just incredibly cool.
+
+
+Right. So I think the nature of the way data is created is also gonna look different, uh, in the coming years. Yeah. And earlier you mentioned how important it is to stay on the cutting edge. So if I want to build AI products, how can I stay on the cutting edge? Do you personally have any habits or strategies that help you stay ahead?
+
+
+I think look at data. I think, [01:08:00] um, be, do the unglamorous work of looking at actual data, looking at the output of these, of these AI systems, looking at it systematically. Um, and um, also I think just playing with the APIs, playing with the new com, like the new models that come out and seeing when they work, when they don't work, just fully being in it.
+
+
+I think just being in your head and your clouds is the wrong way of going about it. I think being just deeply sunk into the data is, I think, the best way you can be at the edge. Yeah. Okay. Uh, and I think you and Traversa seem to approach problems from a fresh angle, so what do you think are the most urgent or overlooked issues in the AI space today?
+
+
+I think the thing, um, we need to get really good at, I think it's the core IP of a company is how well and how scalable your evaluation, benchmarking pipelines are. So I think that doing that really well is something that will [01:09:00] differentiate companies and something that we should all be thinking about very in a meaningful way.
+
+
+And second, I think is not just trying to replicate. What a lot of what these AI agent companies are doing is trying to replicate what, uh, humans have done. And I think, but there's so much more that can be done. And so thinking from first principles, what AI systems are good at and exploiting that versus just trying to replicate what a human has done, I think is also gonna be very important to reinvent and actually get to the next level of innovation.
+
+
+Right. Versus being constrained by what we do ourselves.
+
+
+Could you like, I wanna ask more about evaluation pipeline 'cause it is really important in these days. So could you work us, like, if it's possible, like could you walk us through the step by step process of traverse results, the evaluation pipeline, like from like AI analytics initiation and arriving at like two or actionable form results.
+
+
+Like [01:10:00] what exactly happens behind the scenes? Yeah. So, uh, in some ways this is core ip, the way we do it Exactly. But I can give a high level explanation of how it works. I think the main thing is, is good back testing, right? So making sure that you're collecting enough historical incidents, you're seeing how well your system does that, and having a very systematic way of knowing when it does well and when it doesn't do well and what and why it didn't do well.
+
+
+Right? And coming up with systems to do that, um, with LLMs, with, you know, human in the loop, um, and find and figuring out what, when a m is good at evaluation. I know you're evaluating LM and so LLMs evaluate LMS is, is something that is, is happening already. But I think knowing when you should use an LLM to evaluate LLM versus using a human in the loop is, I think a crucial part of the mix of, of learning how to do that well.
+
+
+Um, and I think just finding good ways, scalable ways of collecting lots of label data. Yeah. Um, is crucial, right? And that only happens when you add value. The more value you add [01:11:00] to, to a company, the more data you get from them and then the flywheel begins, right? So I think finding ways of collecting, giving enough value to a customer so that they give you more data and then it kind of keeps building, right?
+
+
+So I think, I think that's important. Yeah.
+
+
+Okay. And I want to ask a follow up question about how like, traveler works in more vivid way. So let's work us through a scenario like, suppose a major company's online service go, gone, down, goes down in the middle of the night. Yes. And like, what happens if they're using troublesome? Like could you explain how the system detects the issue and like identifies the lucus as suggest of face?
+
+
+Yeah. So, um, in these systems traverse typically auto triggers, so you don't have to wait for an engineer or on-call engineer to do something. So it's constantly listening. To all of the, the incident channels is listening to the alerts, is listening to the underlying metrics, listening to the customer support tickets.
+
+
+So it's taking in all of these different things [01:12:00] and constantly investigating. It's like having a team of on-call engineers twenty four seven looking all of your data. So that's when it begins and it begins its root cause analysis by looking through all of your, your logs and your metrics and your traces.
+
+
+And what tries to find is like the right set of symptoms and then it tries to connect that with a change. Typically when something goes wrong, it's because something changed in your system, whether the environment has changed, you deployed a bad pr, you made a configuration file change, something like that.
+
+
+So it takes these triggers that it's constantly listening to. It connects that to all of your telemetry to find the right symptoms, and then it connects that with the right change in the system that caused it. And it does all of that workflow autonomously. So by the time an engineer comes onto a Slack channel, the root cause or the candidate root cause is already given.
+
+
+So rather than them spending so much time. Trying to figure out what happened or, you know, calling more and more teams. 'cause typically what happens is you'll have one team look at the, the, the data. They're like, oh, it's not my fault. Then they'll call another team and another team and another team.
+
+
+That's how you go from five [01:13:00] people to like 80 people on a channel, right? They're all getting pinged, uh, independently as well. There's another goal is that rather than that happening, when anyone goes on the traversal channel, you get the candidate root cause and the right team to ping who can verify the answer.
+
+
+And so then rather than 50 people over an hour, it's like five to 10 people for a few minutes just verifying the answer. And then, and if they agree with the answer, then we also help automatically remediate it. So we, we run automatic scripts that can heal the system by itself, obviously with a human in the loop, just making sure that they're okay with writing that script.
+
+
+And so I think you can just dramatically reduce the stress level of an engineer. And I think over time as we get better and better, there's more trust. I never woken up. It just heals itself before you even look at it. Right. Um, you know. Wow, that sounds really nice. I don't have to go to the office and Don.
+
+
+Yes, exactly. Yeah. But, uh, like, but like even with like this innovative tech, like convincing enterprise customers only on can be like talk 'cause like [01:14:00] how did they respond when they, like first inbound introduce like travel flow? Like do you have any other example other than you, uh, answered before? Yeah. I think the right way of doing it is to constrain the problem.
+
+
+You cannot just say, um, you applied reversal to your whole company with thousands of engineers. That doesn't work. And we found the right way of doing it is to start with one or two teams, right? Which are really facing the problem. So anything you do can help find those one or two teams that will be highly engaged with you and make sure it works there.
+
+
+And you have a clean story of how you are going to, uh, generalize across those from more teams in terms of the amount of data you have to touch. How much configuration you have to do and make a very clear case for that is not that much, right? If it's too much, then it's not worth it. So finding the right, you know, finding the right one or two teams and coming up with a clean story of how you generalize across the entire enterprise is crucial, right?
+
+
+And that because those two com, those two teams that are highly engaged with you because they feel the pain, they'll help you make sure the product is successful in their environment. They'll build a case study and then [01:15:00] typically excitement spreads. Once it's time to work, then everyone starts pinging you saying that, oh, we want Traver for our team, we want Traver for our team.
+
+
+And it kind of spreads over the company. So the main thing is for the first few teams that you work with, do a good job and then, you know, it just flows from there. Was there any memorable reaction from the engineers or team that you faced in the process? Yeah, one really cool one was, um, we turned off Traversal for a couple of days because we wanted to do some major updates.
+
+
+And we got a ton of complaints saying that, why did you turn it off? And that was really cool, I think. Um, because I think that's how you kind of know you are getting towards product market fit is when we turn it off, people are complaining. Right. So I think that was probably the, the coolest thing we've had happen to us.
+
+
+Yeah. I think that is a nice standard for like judging. Do we have like product or not? Yes. I can't imagine like if we shut down our job Exactly. Anybody will complain about it. No, I'm sure they'll, some of them will. And uh, if like [01:16:00] giants like Splunk or ServiceNow might eventually introduces like similar AI features, like if that happens, how would you respond?
+
+
+Like will you still like compare to them or are you open to like partnership or. I mean, it depends on how the market plays out, but I think the big problem is that it's super fragmented, right? Every company is using five or six different solutions at the same time. And so I don't see how these companies will, will succeed because you have to talk to five or six solutions to do a full troubleshooting, uh, workflow, right?
+
+
+At the same time, these are amazing companies. And so, um, partnering with them in, in ways would obviously be great. I think a big part of it is that if they provide the right kind of of input output for an agent to query their system, like I know they're all putting on MCP service, for example, so an agent can query their systems more efficiently.
+
+
+So that'd be a, a great way of partnering is to help create standards for the way AI agents query these different data stores, I think would be a great one. And ServiceNow, I think is a [01:17:00] very natural, for example, partner, right? Because they help do all of the IT management, all of the, the ticketing. And so I think a company like that is an incredible partner for us, uh, because we're doing the troubleshooting, not the ticketing.
+
+
+Um, and so I think there's, there's, with some companies in particular, there's very natural, in my opinion, partnerships that can happen over time. Yeah. Okay. And, uh, if you could give advice to your, like, younger self when you started out all of this things like, why don't you say, or like what message you want to share with aspiring young entrepreneurs or researchers today?
+
+
+So, I mean, in terms of as an entrepreneur, it's, I've only been doing it for one year, so I don't really have too much advice. I think the main thing is, um, have deep belief in yourself for sure. And I think find the right people. I think the biggest thing you can do as an entrepreneur, as a researcher, I think about my research life.
+
+
+I found the right PhD advisor, advisors that really, uh, molded me and guided me the right way. If I think about this world, I found the right [01:18:00] investors that guided me at the start, the right customers that, you know, that helped define the product. So I think it's, you know, you, you, you live and die by the people you, you surround yourselves with and the people will kind of guide you through these different parts.
+
+
+And so I think building a taste for the right people to mentor you and, and be a partner with you is the most important thing. The rest of it, I think, will figure itself out if you can find the right people around you. Yeah. I, okay. I know that your journey is, is not that long, like entrepreneur journey is not that long.
+
+
+But what was the, among that period, what was the most like, like difficult moment or moment that you think, oh, maybe I should stay as a professor, not like entering this field. And what was your most hard moments and how did you overcome those? I think what's interesting in, in this job, I think is that, um.
+
+
+Is that the, the stresses are, are, are, can be very high and the, the, the, you know, the lows can be very low. [01:19:00] Um, but if I compare, I think the cool thing, so I think getting used to like just very high highs and low lows is important. Um, but I think the one thing I've learned is that my, my, the time it takes me to to recover is very fast.
+
+
+You know, even if I'm super stressed, I'm super tired. Within one or two days, if I just take it off, I'm back to full, full force. And so I think that's been like a good learning is that if you're really enjoying what you're doing, but even though there's these moments of massive stress and levels of stress that you'll never face otherwise, I think, um, uh, the pace of recovery is like the thing that I look for myself.
+
+
+I think the other thing that's maybe hard or, or I don't know if it's hard, but I feel responsibility for a lot of people now, you know, all the people in the company, um, all the, the customers that rely on us now, the, you know, our investors. Just also the idea that, so I think I feel responsible for that.
+
+
+And also the fact that, you know, I think we want to make sure that this succeeds because I think it's an important problem to solve. If we [01:20:00] don't solve it, you know, I feel, you know, I don't know if anyone else will solve it. So I think I also feel responsibility to the problem to solve it. So I think that is the weight of responsibility for these, the problem for the people of the company, for our customers, for everyone.
+
+
+And so I think that's something I just take seriously. Um, it's not diff it is difficult in some ways 'cause you think about it, but I think, uh, it's also a privilege. Um, I think that maybe the third thing that is, that is difficult is, is learning how to, to um, how to step away from time to time. How to like pull yourself off.
+
+
+'cause there's no end to how much you can think about this problem or the company. You can think about it like a hundred percent of the time you're awake, right? And so finding the right way of, of giving yourself space at the right time is important. 'cause that space is actually really important for you to succeed as a company.
+
+
+So I'd say those are some of the things that I've had to learn how to do well. Um, but so far it's been a privilege. I, I can't say it's been, you know, there's a massive crisis that's happened. Hopefully it will never happen, but we'll see. Yeah. [01:21:00] Yeah. And I think would be the last question. Uh, you recently came out from the sales mode and officially launches.
+
+
+So I wanna know, why did you choose steal mode initially and how did you decide when to go public? Yeah. I think for us, um, coming outta stealth mode, we wanted to do it when we felt that we had a very high conviction that this problem is solvable and we're ready for prime time, we are ready to be in public.
+
+
+'cause you only get to once you're in public. In public, right? Everyone knows who you are. And so I think it's about making sure that when we came outta stealth, we felt a lot of conviction. That, that we can actually solve this problem. Right? And we're ready for the inbound of customers from recruiting, creating the right brand.
+
+
+And I think now we feel, you know, with the team we've put together with the customers, that we have the product maturity, we're now ready to like really kind of own the space. And so we're waiting for the right moment to really exploit that. And um, and I think, you know, even though we raised our A in December, it felt that these six months were good to build up that maturity as an [01:22:00] organization, as a product, as a brand.
+
+
+And I think now we feel ready. So I think that coming outta stealth was a function of that feeling, the conviction that we're ready for prime time. Yeah. And just for the editing progress, could you like introduce yourself one more time and about the TRA tool? Yeah. So my name is Anish. I'm the CEO and co-founder of Traversal.
+
+
+Um, we are building an AI site reliability engineer. So what that means is when you have large, complex software systems and they break, we help troubleshoot and fix, uh, we, we troubleshoot to help you figure out why it broke and then helped fix it auto autonom, um, automatically. Okay. And could you also share the, uh, share, like how, how much did, one more time, about how much did you get from to raise and what, which was your latest investment?
+
+
+Yeah, so we came ourself with $48 million in, in seed and Series A funding, which were led by Sequoia and Kleiner Perkins. Okay. And I think that's all. Awesome. Thank you. Thank you.[01:23:00] 
+
+
+Awesome. Thank you. Thank.

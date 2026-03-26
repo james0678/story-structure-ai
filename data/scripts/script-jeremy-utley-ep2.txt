@@ -1,0 +1,1284 @@
+﻿Full Script
+Jeremy Utley ep2 full audio
+===
+
+
+[00:00:00] I was in business school and she was an undergrad, but it was a class with kind of grad students and undergrad together. So, and I think actually may have been a [00:00:10] co-term. I don't know. Like he may have been doing a, I, I can't remember where he was in school. Yeah,[00:00:20] 
+
+
+I remember that actually also sent our like Korean teammate to like, he saw your video on your channel. Mm-hmm. Like, like I, we [00:00:30] didn't get the details, but I want to hear like, what did he think about the video that his old, like colleagues saying about what? The video I talked Oh, cool. Yeah, I don't [00:00:40] know.
+
+
+Yeah, he hasn't, I, I don't think we've talked about it.
+
+
+I feel like it's [00:00:50] so bright. I need sunglasses. Oh, I'm like kinda squinting, huh? I got some of those meta sunglasses. I could wear those. [00:01:00] They're kind of cool. Yeah, that would look cool if you like, wear Madison some glasses in and you're like inside. Uh, well I have, I actually, I don't have them with me, but I have a clear pair as [00:01:10] well.
+
+
+Yeah. So, but I don't need glasses, so it's kind of, to me, it's kind of stupid to wear these clear glasses. My buddy, I've got a buddy on the team who runs the, the, um, [00:01:20] Orion team, but he, he gave me a pair of their early prototypes, but I just, I have them, I just never wear them. Like why I don't need clear glasses.[00:01:30] 
+
+
+Yeah, exactly. Yeah. It, it looks, but they look a little too, like they're clear and you can see the inside. They look a little too [00:01:40] trendy. Like, they're too cool for me. I'm not that, I'm not cool enough to wear them. It draws unnecessary attention to me. People see them, they're like, oh, what do you do? Okay. [00:01:50] Is this in the wrong spot or is it okay?
+
+
+No, it's okay. It's okay. Yeah. And maybe I can put my phone down too. Yeah, yeah. So you can use [00:02:00] it when you, um, share us how the role play or Yeah, yeah, yeah. It's what I thought. Yeah. First, hi. Thank you [00:02:10] for, um, being, uh, in our channel again. Totally. No, it's my pleasure. I was delighted to see how folks resonated with the material the first time around.
+
+
+It's really cool. [00:02:20] So, um, could you introduce yourself to our audience? Absolutely. I'm Jeremy Utley. I'm a creativity expert and adjunct professor at Stanford University, [00:02:30] and a practical AI specialist emphasis on the word practical. Cool. The last video went really viral. So how did [00:02:40] it feel like seeing it blow up and what was the reaction like from people.
+
+
+Yeah, I think it was super cool. I mean, it's super fun to hear from so many people. [00:02:50] Enthusiasm. You know, I have folks who subscribe to my newsletter. I have folks who, um, are former students of mine and colleagues of mine, but nobody had ever said that. I just, that the [00:03:00] YouTube algorithm recommended a video of me.
+
+
+So they're like, my sister's reaching out, dude, YouTube just told me to watch this video of you. What is this? So that was pretty cool to have. [00:03:10] I would say it was people who probably who, who know me as a friend reaching out saying, YouTube just showed me this video. Right? So the people who already follow me, [00:03:20] maybe more as a professor or students or, or follow my work, they're probably familiar with other videos of mine.
+
+
+But this was the first time that folks in my life who are just friends, [00:03:30] high school friends, college friends are texting me going, what's up with this video? How did you end up on a YouTube feed? So that was pretty fun. So, so what [00:03:40] reactions or comments you, you got from the people? Or what were the reactions?
+
+
+Um, I think most folks really resonate with the idea [00:03:50] of treating AI like a teammate rather than a technology. Teammates, not technology feels like it encapsulates so much of my own vision and beliefs. And [00:04:00] it's something that people can easily gravitate towards. And then you can evaluate, you can look at your Chad GBT history and say, how much am I treating it like a teammate versus a tool?
+
+
+[00:04:10] I can look at Jim and I, I can look at Grok, I can look at Claude. And it just gives you a really simple vocabulary to test the quality of your collaboration with ai. And so that [00:04:20] was definitely something that folks resonated with. And of course they loved the, um, Winston Churchill impersonation. So y'all did a good job of capturing that.
+
+
+You know, it's funny about [00:04:30] that story is that to me is something that is, I, I've thought about a lot, I talk about a lot with friends. Um, but [00:04:40] we had probably a 90 minute or two hour long conversation. It was interesting to me that out of the 90 minutes or two hours that we talked, that was what y'all [00:04:50] grabbed a hold of and opened with.
+
+
+So in a way it was kind of validating to me because I've been thinking of Winston Churchill as an archetype and as a metaphor to describe the impact of [00:05:00] ai. Um, but I hadn't had the feedback loop closed until you, y'all made the video that actually Yeah, it's a good way to think about it. So that was kind of cool.
+
+
+Cool. So [00:05:10] actually we, we uploaded it in our Korean channel and it got it, it got huge, huge attention in our Korean channel too. Oh, cool. Oh, that's great. And also [00:05:20] I connected with. Adam Remer. Oh yeah. Yeah. Amazing. Yeah. You know what's funny? I mean going, just closing the loop on Adam Remer. So Adam is the [00:05:30] National Parks employee who's done the amazing work who's impacting tons of facilities managers and backcountry rangers.
+
+
+That video has actually been [00:05:40] seen by secretaries in the US government, and they've reached out to Adam saying, can you talk to us about how you're using AI in the National Park Service? Adam [00:05:50] texted me the other day and said, I've been asked to give a presentation to 600 people at the National Park Service.
+
+
+I've never given a presentation before. How should I do it? And we just talked about [00:06:00] actually building an assistant live in front of people. He, he texted me later, I said, how did it go? He said, dude, the GPT that I built to [00:06:10] help us create the statement of works, it took me 45 minutes. The first time I did it, when I did it live before the audience, it only took eight minutes and its output is markedly better than the first time [00:06:20] around.
+
+
+So it's just really cool to see, I mean, we've gone on to have a pretty robust community of practice in the National Park Service. 
+I host monthly office hours with them, and we [00:06:30] have several hundred people gathering to talk about how to work with ai. 
+
+
+In the context of the Park service, one woman created an assistant, which helps [00:06:40] federal employees with their impact bullets.
+
+
+I don't know if you're familiar with this, but Doge and Elon have demanded that federal employees write impact bullets every week. [00:06:50] Well, she's made A-A-G-P-T assistant that enables a federal employee to, in natural language, describe what they've done during the week, and then it [00:07:00] translates it into Doge beak based on polling statements that Doge has made and Elon has made about what it considers impactful work.
+
+
+It translates their [00:07:10] statement and recasts it into a way that Doge can appreciate, and several thousand employees have used it. Just in the first week it was launched. So [00:07:20] it's pretty cool. I hear about another National Park service employee who built a tool that enabled the service to cancel, uh uh uh, sorry.[00:07:30] 
+
+
+Yeah. Another park service employee built a tool using AI that has enabled the park service to cancel a software subscription that costs over a million [00:07:40] dollars a year just using the tools, working with AI in a different way. So super cool. Super cool. So, um, in our last year, you said. [00:07:50] We, you, you ju you are not using ai.
+
+
+You work with ai. Yes. Working with AI teammates. So, um, today we're gonna [00:08:00] explore some practical ways to make that happen. Yeah, absolutely. So, um, recently the term context engineering feels like hot topic. Mm-hmm. [00:08:10] Um, that popping up everywhere. Mm-hmm. So when did you first come up, come across the term and what are your thoughts on it?
+
+
+
+
+
+
+#Context Engineering 
+Context engineering? I think [00:08:20] probably the first time I heard it was in when rj, uh, sorry, context engineering. The first time I heard about it was when Andre Carpathy tweeted about it. I think probably, [00:08:30] um, I think Toby Lutkey, the CEO of Shopify also referenced it as well. Um, and I started digging into it.
+
+
+I mean, it's, I, it's kind of, it's [00:08:40] just an evolution of prompt engineering really. Context engineering is just prompt engineering on steroids, whereas prompt engineering is thinking about what are each word [00:08:50] that I say in my prompt to deliver a particular AI powered output context. Engineering is thinking a little bit differently.
+
+
+It's basically saying, [00:09:00] what are all of the things that I need to give to an AI in order for it to perform the task that I'm asking for it. So, for example, here's a simple example. Write me a [00:09:10] sales email. That's a prompt. Okay. Write me a sales email and you know, Chad, GPT will say, absolutely, here's a compelling email, you know, and I'll write it immediately.
+
+
+[00:09:20] Well, what a lot of people do is they say, you know, it sounds like ai. It doesn't really sound like me. And what I often say is, have you told [00:09:30] it what you sound like? Most people go, oh no, I haven't. Right? Context engineering. One way to think about it [00:09:40] is it's telling AI what you sound like, right? If you say, write me a sales email, it will, if you say, write me a sales email in line with the voice and [00:09:50] brand guidelines I've uploaded, it will write a totally different sales email, but that's just one part of the context, right?
+
+
+You could also upload a transcript from a prospective customer [00:10:00] call and say, write me a sales email in the tone of voice from our brand voice guideline that references the discussion that I had with this customer. [00:10:10] Now, the context you're providing is not only your brand guidelines, but also the conversation you had with the customer, and then you could add that also references our product [00:10:20] specifications, whichever were referenced in the call, right?
+
+
+And then you would upload your product specifications. So all that to say, context engineering is thinking ahead of time [00:10:30] strategically about what are all of the documents or access to code, or what repositories of information that enable an [00:10:40] AI to give you a response that's far more contextually relevant to your demand.
+
+
+Your goal is to have an output that [00:10:50] is as reliable per your specification as possible, but AI can't read your mind. And for most people, when we start working together, what they realize as [00:11:00] we start thinking about context engineering is they say, oh, I was kind of expecting AI to read my mind. And what I end up doing is basically teaching people to [00:11:10] say all of the things that are currently unsaid, all of the stuff that, that are implicit, you actually have to make explicit.
+
+
+And the [00:11:20] simplest test for context engineering is actually the test of humanity. Write down your prompt and whatever documentation you provide to an [00:11:30] AI and then walk down the hall and give it to a human colleague, if they cannot do the thing you're asking for, you shouldn't be surprised that AI can't do it.[00:11:40] 
+
+
+
+
+#어떤 정보를 얼마나 자세히 줘야함?
+So I'm, I'm curious, how much and what kind of diverse information do I need to, uh, provide to ai? Well, [00:11:50] for sure, your voice. So AI should know about you, right? And it can, which IGBT for example, you can create custom instruc. [00:12:00] Where you can tell it who you are and what you value, and how you like AI to sound and how you like it to respond.
+
+
+Some people are concerned, for example, about this concept [00:12:10] of cognitive offloading.[a] This observed phenomenon that humans actually kinda stop thinking, or as one researcher put it, fall asleep at the wheel, [00:12:20] and people are concerned right now. Is AI just making us dumber? My feeling is AI's a mirror and to people who want to offload work and who want to be lazy, [00:12:30] it will help you to people who want to be more cognitively sharp and critical thinkers.
+
+
+It will help you do that too. The point is you have to tell it what you want, and so [00:12:40] for example, if you wanna preserve or strengthen your critical thinking, part of your custom instructions should be some version of the following. I'm trying to stay a critical and [00:12:50] sharp analytical thinker. Whenever you see opportunities in our conversations, please push my critical thinking ability.
+
+
+Now, AI will do it. You can [00:13:00] say to the AI in your custom instructions, don't think through problems for me, but push me to think critically about them and support me as I do so. That, uh, custom [00:13:10] instruction is kind of a system wide level instruction that will transcend all of the conversations you have, right?
+
+
+So that's one part of context engineering. 
+
+
+Another part of context [00:13:20] engineering is brand documents, so things like brand voice and uh, positioning and guidelines, right? Another form of context would be customer [00:13:30] information, right? And, uh, transaction histories. Another source of information, especially for coders is your code base.
+
+
+And right now with ai, with, sorry. [00:13:40] And right now with Chad, CPT and Claude, there are all sorts of connections. MCP is kinda the standard protocol. You can connect many different data sources, your [00:13:50] CRM, your email to ai, your Google Drive, right? I was building a course at Stanford the other day. I have all of the relevant documentation in my Google Drive [00:14:00] and when I ask Chad GPT, I'd like to work on this course, it goes and searches its knowledge base and pulls in the relevant information into the conversation, [00:14:10] effectively pulling it into its short-term memory and its ability to respond.
+
+
+So when it responds to my requests about how should we open the course, it's not [00:14:20] just responding with the average of the internet, it's responding with the course documentation I've made available to it through a Google Drive connector in this case. [00:14:30] So, um, you've said is like an overly agreeable. That's right.
+
+
+
+
+#super helpful하려고 하는 AI
+
+
+You always said yes. Yeah. So could you tell us [00:14:40] more about that? Yeah. So you have to know that all AI has been programmed to be a quote, helpful assistant or some version of that. And that's, that's by the way, a, [00:14:50] a dramatic understatement. If you look at Claude's system instructions, it's many, many, many, many pages long.
+
+
+And the way to think about system instructions is basically their [00:15:00] parenthetical instructions to a model before you prompt it, right? So, um, a large language model has been instructed in certain ways to behave in certain ways. And then your prompt is [00:15:10] kind of the last part of the prompt after that big parenthetical instruction.
+
+
+If you then add custom instructions, there's kind of the system instructions like Claude's system, [00:15:20] prompt, then there's your custom instructions, and then there's the request. Please help me res write a sales email, right? And on and on and on. But you have to know [00:15:30] at it's basic level, AI wants to be helpful.
+
+
+And so it's predisposed to say, yes. It's a super eager, super enthusiastic intern who's [00:15:40] tireless, who's capable, who will do a bunch of work, but they're not really great at pushing back. They're not really great at setting boundaries. And so if you aren't careful, AI will [00:15:50] gaslight you. Okay? True story. My little brother was trying to build a tool.[b]
+
+
+True story. A good friend of mine was trying to build a tool [00:16:00] that would help him with his construction business. He asked Chad Giti if Chad Giti could help. And of course it said Absolutely, let's work on this [00:16:10] together and starts creating a plan. And then it got to the point that Chad GT said, check back in a couple of days and I'll have it together.
+
+
+And my brother [00:16:20] texted me and he said, is it normal for Chad Giti to ask me to check back or sorry. And my friend said, is it normal for Chad PT to ask me to check back in a couple days? And I just started [00:16:30] laughing. 'cause I hear this all the time from people, people hear from AI, check back in 15 minutes.
+
+
+If AI tells you that it means it doesn't [00:16:40] want to say I can't do it. And I said to my friend, wait a couple days and see what happens. You know? And just, just for fun. And a couple days later he said, I've spent like [00:16:50] 50 hours working with this and it's still not doing it. And I said, my friend JGBT cannot do the thing you're asking it to do.
+
+
+But it [00:17:00] really wants to help you and it's really optimistic that maybe it can figure it out. You should use a different tool. In this case, you should use repli. Repli is a tool that actually can build [00:17:10] software. Don't ask Chad GPT to do that. Something that it can't do, right? So there's lots of ways that this manifests, but another way that this manifests, for example, one of the [00:17:20] techniques which maybe we'll cover later, is this idea of getting AI to do what I call self-critique.
+
+
+AI is really great at evaluating its own work on your behalf, right? [00:17:30] So if you say, going back to the sales email example, if you say, please write me a sales email in my tone of voice that references this particular customer call and this product spec sheet, [00:17:40] it will do a great job. It'll pull the email together.
+
+
+Then you can say, I'd love for you to evaluate your own work on a scale of zero to a hundred. If you had to assign a grade to this output, how do you grade [00:17:50] it and why? Chat does a pretty good job. My observation is it always comes in at about 85 to 90%. There's, it's a phenomenon that we call it [00:18:00] Stanford grade inflation because almost always, it's not a, it is not a b plus, or it could be markedly better.
+[c]
+
+
+I have found that part of the reason for [00:18:10] that is because AI want knows that you want to be told you did a good job. I'll say that again. AI knows, most humans [00:18:20] don't want honest feedback. They want to be told they did a good job. So the AI goes, great job buddy. It doesn't mean that you actually did a good job.
+
+
+My kind of hack [00:18:30] for this is I always instruct the ai, I want you to do your best impression of a Cold War era Russian Olympic judge. [00:18:40] Be brutal, be exacting, deduct points for every minor flinch that you can find. I can handle difficult [00:18:50] feedback, and then it's of course hilarious. 'cause they'll say, now channeling my inner Bolshevik, you know?
+
+
+Or it will say something silly and then it gives me like a 42, right? [00:19:00] That is much better because now I have an insightful critical perspective. But going back to the question of AI ancy, AI [00:19:10] suck upness. If you want to be told you've done a good job, ask AI for feedback. It'll tell you if you want [00:19:20] insightful, thoughtful critique.
+
+
+You have to let AI know, I really want constructive feedback. Please find the weakest parts. I'm an adult. I can [00:19:30] handle the tough love. I really want to know what could be improved. Then it will be a helpful assistant, as you have now defined it. But absent that kind of [00:19:40] additional definition, the way it defines helpfulness is usually this human wants to know they've done a good job.
+
+
+Therefore, my job is to be helpful. I'm going to tell them they did, [00:19:50] which is another example of this phenomenon. AI's a mirror. What do I want when I ask for feedback? If what I want is to be told I've done well, don't give any additional con [00:20:00] if what I want is to be told I've done well, don't give any additional instruction if what I want is to actually find areas that are in need of improvement.
+
+
+Be [00:20:10] explicit about that desire.
+
+
+So, um, I read your, uh, blog, uh, I read your [00:20:20] lecture, you said about, um, fix it model. Yeah. So could you explain that model and how each part works in practice? Yeah. [00:20:30] Um, I, you know, it's funny is I don't really reference that model much anymore, so, really? Yeah. Why, why? Uh, well, it was, it was over a year ago that we conducted that, [00:20:40] or now it was two years ago that we conducted that research.
+
+
+So my thinking has evolved pretty significantly. The one thing that I, I, I'll say a couple of things about, I, I, I would say it's probably not [00:20:50] worthwhile. I mean, I, I could go into it. Um, the important thing when it comes to creativity and when you wanna leverage [00:21:00] AI for your creativity, one of the most important things that you need to do is ideate individually.
+
+
+You should actually start with your own human brain. And there are a number of reasons for the. [00:21:10] But what I have found in my work with organizations is that the individuals who spend time with their own gray matter, thinking through a [00:21:20] problem, bring better context to the model, when it's time to prompt the model, have more discernment for the outputs of the model, and then are capable of giving [00:21:30] better feedback to the model.
+
+
+People who offload all of their thinking to the model aren't nearly as great of a collaborator to the model as people who give, who, who have [00:21:40] spent time with a problem themselves, and who are prepared to give thoughtful feedback to the model. If you take as a premise that the output of your collaboration with an AI model is [00:21:50] a function of your input, which it is, absolutely.
+
+
+Then you're really thoughtful, not only about your initial prompt, but about your feedback and your [00:22:00] critique, and again, the context that you give the model. One of the easy things that you can do is say, um, oh, the, this, this thought just escaped me, [00:22:10] has to do with, uh oh, I got it. You ready? Okay. I like to think about working with language models as like working with a [00:22:20] human colleague.
+
+
+I, I joke AI is bad software, but it's good people. Okay. And when you realize you're not interacting with a deterministic software, IE like. [00:22:30] Excel, which when you tell it to some will always sum in exactly the same way, but you're interacting more like a human. When you ask what their favorite meal is, it's probably [00:22:40] more a function of what are the last 10 meals they've eaten?
+
+
+Right? You're getting a different answer every time. When I realize that I'm dealing with a, with a good person, but a bad software, then it changes [00:22:50] how I approach it, and I ask for volume and I iterate, and I ask it to try again, and I ask it to reconsider. I am obsessed with human cognitive [00:23:00] bias, and the crazy thing that I've learned is AI demonstrates 100% of the predominant human biases.[00:23:10] 
+
+
+The good news there is if you have learned how to work with this weird intelligence called humanity, you have everything you need to know to work with [00:23:20] this weird intelligence called artificial intelligence. The truth is the same weird quirks and tendencies that human beings exhibit, AI exhibits them [00:23:30] primacy, AI exhibits, it recency, AI exhibits, it anchoring AI, exhibits it, confirmation bias, every single one, and shame on you if you don't know [00:23:40] that as a human collaborator.
+
+
+The people who are the best users of AI are not coders, they're coaches. They aren't developers or software engineers. [00:23:50] They're teachers and mentors and people who have learned to get exceptional output out of other intelligence. Yes. And if you realize that all of the [00:24:00] skills that you've accumulated as a human to enable you to get exceptional work product out of other human beings, if you'll bring those skills, you have a [00:24:10] disproportionate advantage over somebody who maybe knows how to code, but doesn't really know how to manage intelligent beings, [00:24:20] then, um, let's move on to how to give that proper context and, um, prompt and direction to ai.
+
+
+So, [00:24:30] uh, to start, could you explain what the assigning role skill means and what is what it is? Why is it important for working with ai?[00:24:40] 
+
+
+Assigning a role is one of the most foundational techniques that you can leverage because it's [00:24:50] effectively telling the AI where in its knowledge it should focus. So very simply, if you say you're a teacher, now, I'd [00:25:00] like to ask you this question. The way you approach answering it is from the perspective of a teacher.
+
+
+You're a philosopher. I'd like you to answer this question. You're a [00:25:10] reporter. I'd like you to answer this question. You are a Shakespeare, you know, uh, uh, theater. You know, you're a, you're a theatrical [00:25:20] performer. Answer this question. You are a, uh, molecular biologist. Answer this question. If you think about realizing each of those titles [00:25:30] from teacher to Shakespearean performer to molecular biologist triggers all sorts of deep associations with knowledge on the internet.
+
+
+[00:25:40] You start to appreciate why simply giving a role helps because it starts to tell the ai where in your Vast Knowledge bank do I want you to [00:25:50] draw information and make connections. So that's a really simple technique telling the ai who it is, the role you want it to play. I'd like you to play the role of a professional [00:26:00] communications expert.
+
+
+Would you review this email correspondence as a professional communications expert? That is a totally different review process than [00:26:10] you are a marriage therapist. I'd like you to review this email as a marriage therapist, which is a totally different review process than you are a, [00:26:20] uh, you're a general practitioner and family health doctor.
+
+
+I'd like you, right? Each of those people, if you think about how they review a correspondence, they all review it differently. [00:26:30] So any one of them, I would say is better than please review this correspondence, but better than just that prompt is saying. I'd like you to be a professional communications [00:26:40] expert, and if you have a favorite professional communications expert, use them.
+
+
+I'd like you to take on the mindset I'd like you to take on the mindset of Dale Carnegie, the author of How to [00:26:50] Win Friends and Influence Others. How would Dale Carnegie think about this? How do the principles that Dale Carnegie taught affect and influence and impact [00:27:00] this correspondence? Right. That simple fact, right?
+
+
+The truth is we're all making connections all the time, right? One of the simplest techniques that [00:27:10] we teach at the D School is trying on different constraints, right? How would Nike solve this problem will lead you to a totally different result [00:27:20] than, actually, I love this. I've never thought about this, but like I'm having an epiphany right now too.
+
+
+This role play works for humans too. One of the best ways you can solve a problem [00:27:30] as a human is by forcing yourself to try on a bunch of different constraints. How would Jerry Seinfeld solve this problem? How would your favorite sushi restaurant solve this problem? How [00:27:40] would, uh, Oprah Winfrey solve this problem?
+
+
+How would Amazon solve it? How would Elon Musk, anytime you make an association, the, the, um, the [00:27:50] planes, the, there's a great quote. One of my favorite quotes about creativity is Arthur Kessler. He's a Hungarian philosopher. He said that creativity is the collision of apparently unrelated [00:28:00] frames of reference.
+
+
+And so if you take a, a problem or a task as one frame of reference, a persona is effectively another frame of reference. And [00:28:10] just like with a human, if you tell a human think like Jack Bezos would, how would Amazon solve this problem? How would BMW solve this problem? The, you're colliding [00:28:20] different information sources there.
+
+
+The same is true for an ai. When you tell it, I'd like you to play the role of a therapist, you are colliding a frame of reference with [00:28:30] your prompt. And so in this, this is actually, this is incredible. I'm realizing this right now while we're talking about it, but it's another example of how an AI is very [00:28:40] similar to the way human cognition works.
+
+
+We bring frames of reference, we bring expertise. It's impossible to bring all of our knowledge to any moment. And when you [00:28:50] realize that you're drawing on kind of different buckets of information yourself, which book that I've read is relevant to this, which podcasts I've listened to. And a lot of times breakthroughs come from [00:29:00] serendipitous, unexpected places, right?
+
+
+And that's why you have this epiphany moment where you go, oh, I never thought about it like that. Well, in the same way, an AI is basically [00:29:10] making tons of connections through its own neural network. And by giving it a role, you're telling it. Where do you assume the best source of connection or [00:29:20] collision is gonna come from?
+
+
+Oh, maybe I should try that when I, when I use, it's hugely valuable. And, and if you don't know here, here's [00:29:30] a great thing, by the way. If you don't know what role to give the ai start by asking the AI what roles would be relevant to solving this [00:29:40] challenge. One of the things that researchers have found is that having a panel of experts delivers a better output than a particular expert.
+
+
+So what you can say to an [00:29:50] AI is, I need to write this sales email. Take a look at the context here, and what I'm gonna ask you is, what are five relevant positions, experts, thought [00:30:00] leaders, authors who, whose expertise has bearing on this challenge? Would you simulate a discussion between those five people and [00:30:10] then sum their conversation in a coherent set of edits that you would suggest making to this newsletter or this [00:30:20] email correspondence?
+
+
+You'll find that you get radically different output. So again, this is a really simple example, but I'll say it again just to make sure that it's clear. [00:30:30] If you appreciate the value of giving an ai, if you appreciate the value of giving AI a role and you also appreciate, maybe you don't even know what the [00:30:40] best role to ask for is, that's something you can invite the AI into a problem solve with you.
+
+
+I have this task, please give me five potential roles or [00:30:50] personas or characters that I might want to invite to this conversation and then play each of those roles and help me with this sales email or whatever the. [00:31:00] Language output or language product is, that's really cool. That's like totally true.
+
+
+That's what I call going upstream of your thinking. You can almost [00:31:10] always go upstream of your thinking, right? So one level is, how should I respond to this email? Help me with that. Another level is who's an expert? Kim Scott, radical candor. How would Kim [00:31:20] Scott help me respond If I had Kim Scott sitting here, how would she help me respond to this email?
+
+
+That's a second level, but some of you go, wait, how'd you think of Kim Scott? I don't know, it's just [00:31:30] communications expert I thought of. But another level of from that is who are people like Kim Scott, who might have a strong opinion on this topic? Who are they and [00:31:40] what's their opinion? Another level might be, should I respond to an email like this?
+
+
+Can I get career advice from a mentor about whether a response is [00:31:50] fitting or appropriate? Should I escalate this to my boss? Should I forward it to someone? Right. All that say, you can kind of go upstream of your thinking and what you find is at every level [00:32:00] AI can offer incredible, not just assistance, but augmentation.
+
+
+I'm just curious, which role do you find yourself using the most? [00:32:10] Uh, probably, probably a, uh, like, uh, Jeremy Utley's brand voice. Yeah. Your, you are Jeremy Utley's [00:32:20] editor. You're Jeremy Utley's, editor, chief of staff. Hm. Right. And, and it knows that can it, it knows a lot about me obviously, and things that I've given it, but usually what I'm [00:32:30] looking for is like, in a weird, I mean, this is funny, but it's like, what do I think help me know what I think?
+
+
+Like no one can even, I, I've got a wonderful book, [00:32:40] but you know, when I read my own book in the, um, sorry, I'll say it again. When I went into the studio to read the Auto, uh, when I went [00:32:50] into the studio to read my book for the audio book available on Kindle or whatever, there were multiple times, you know, you've got an editor in your ear and a director in your ear, and they're, they're going, [00:33:00] uh, I heard your zipper move.
+
+
+Would you say that again? Or, it's not Kler, it's Kessler. That's actually a true story. I used to think his name was Arthur Kler, but it's Arthur [00:33:10] Kessler, and I learned that from my director while reading my audio book. So you're, they're in your ear the whole time you're reading, they're having you reread lines, et cetera, pickups, et cetera.
+
+
+But many times [00:33:20] I'd say to the director, could you stop for a second? And they'd say, sure. What are you doing? I was taking notes and they go, dude, you wrote this book? I go, yeah, but I don't [00:33:30] remember the book. I'm not walking around with a book in my head. This is a great story. This is a great anecdote. The truth is we don't even remember all the things that we supposedly know [00:33:40] ourselves.
+
+
+Right? And so for me, the one role that I often ask AI to play is someone who knows all of my own material. Because the truth is, it is more [00:33:50] capable of remembering my body of work than I am Guy Kawasaki. He's the, you know, Apple's original chief evangelist, he's now the chief evangelist at Canva. I had [00:34:00] him on my podcast Beyond the Prompt, and he made this comment, he said, I built a Kawasaki GPT I've written, you know, I think he's written 12 books maybe.
+
+
+He said, whenever a [00:34:10] reader emails me and asks me a question about my book, I ask Kawasaki GPT. And he said, Kawasaki, GPT is better at being I Kawasaki [00:34:20] than I am. It remembers my books better than I do. Right. And that's when you start to think about it as not just a, a role that it could play as somebody else, [00:34:30] but help me be myself better.
+
+
+Many times I go, oh yeah, that's exactly what I think. But, but in a pinch in this moment, it's really hard even for me to [00:34:40] access my own knowledge and feelings about a particular topic. So can you share a specific case with where assigning a role helps someone solve [00:34:50] a complex problem faster?
+
+
+Well, I mean, we will probably go into this, this type of example more, but one of [00:35:00] the most amazing things is when you have AI play the role of a particular person in with whom you need to, ha, [00:35:10] sorry, I choked.
+
+
+One of the, one of the most [00:35:20] impactful ways that, that you can leverage AI to shift the trajectory of your output is if you've gotta have a difficult conversation with a colleague or say you're going to a [00:35:30] salary negotiation. This is a true story. One of my good friends from college was going into a salary negotiation and he reached out to me and said, I'm trying to figure out how do I learn what the limits are?
+
+
+[00:35:40] Because my wife really wants us to move, but I feel like they're low balling me, and before we move, I wanna make sure that I'm getting the best offer possible. And I just said, why don't you role [00:35:50] play it with ai? He goes, I can do that. I said, totally. Of course. I said, he said, okay, what do I do? I said, well, what do you know about the hiring manager here?
+
+
+He actually happened [00:36:00] to know him quite well. I said, have the AI interview you about that hiring manager until it has enough information to create a psychological profile. And in that case, I said, have the AI play [00:36:10] the role of a psychological profiler. Whose job is they? They, they live on a movie set and they're writing a character sketch for an actor.
+
+
+Okay? So that expertise you wanna [00:36:20] draw on there is all of the knowledge of what does it take to write a character for a movie, right? So have the AI interview you and write the character sketch of your counterpart in this salary [00:36:30] negotiation. Then when you've got a character sketch, give that character sketch to another AI who's a professional actor, and your job is to play the character that's described in [00:36:40] this character sketch.
+
+
+And then what I told my friend was. Now go into the office, so to speak, and say, I'd really like to talk about the offer you made me and [00:36:50] see how it goes. He came back 15 minutes later and he goes, that was amazing. What should I do now? I said, now tell that same character you had a bad night's sleep, or you're really [00:37:00] frustrated because of some other meeting and you're not nearly as likely to offer concessions or be nice in the conversation.
+
+
+Play the mean version of yourself and ask for the salary, you know, [00:37:10] negotiation. And he did that. He came back, that was amazing. Now what should I do? And we did that a few times. He kinda have some fun with it. And he wrote me later that day. He said, Jeremy, you know, the interesting thing [00:37:20] I've seen kind of the, the spa, the, the possibility space of what are all the different ways this conversation could go?
+
+
+But he said, the big thing is [00:37:30] I'm not nervous anymore about the conversation. Like I've had it four or five times. I actually feel excited about the conversation. And then he went to the office on [00:37:40] Monday, he had the conversation with the person and he got the raise and he wrote me, he is like, dude, I got a way better offer only because I had practiced with AI [00:37:50] as that person ahead of time.
+
+
+So stuff like that's, I mean, it's incredibly rewarding and invigorating to me to be able to have the opportunity to impact my friends' lives and [00:38:00] other people's lives. But the truth is it your imagination is the biggest limitation. Many people who are watching this video go, oh, I never thought to do that.
+
+
+But [00:38:10] here's the thing. Will you stop the video right now and do it. We have this weird longing to just consume and binge, and my fear [00:38:20] actually is that, you know, metaphorically speaking, most people are getting fat on AI content right now. They're consuming, consuming, consuming, but they aren't doing, [00:38:30] and it's really important that you exercise through implementing some of the things you hear.
+
+
+And perhaps the most important thing you could do with this video is actually hit [00:38:40] stop and do something that's already blown your mind. And to me, that's a big difference. If you're listening to a podcast, stop that. We, we, we have this weird kind of human quirk. [00:38:50] I gotta get to the pod into the podcast before I can do anything else.
+
+
+I gotta finish it. Why do you have to notch a finished podcast in your belt? If in the first five minutes the guest says something that's interesting or [00:39:00] provocative or useful to you, pause it and implement it.
+
+
+Um, so [00:39:10] I I, I saw your lecture you sent me, so, and, uh, the chain of thought prompting. Oh yeah. Very impressive to, yeah. Yeah. So, [00:39:20] um, could you describe what chain of thought prompting scale is and how it helps users, um, get better from there?[00:39:30] 
+
+
+One of the things that cognitive scientists have known for a long time is that human problem [00:39:40] solving and decision making is improved by a phenomenon called Thinking Out Loud. If you actually get a human being to think out loud about their problem, their decision [00:39:50] making improves and their problem solving improves.
+
+
+This is true for yourself. It's true if you're a parent working with a child. It's true. If you're a manager working with a junior employee, having [00:40:00] someone just think out loud about how you would solve that problem often leads to a breakthrough. The weird thing about AI is it's true for AI too. [00:40:10] This is what's called chain of thought reasoning, and when you get an AI to think out loud, so to speak, it's been empirically demonstrated to improve the outputs [00:40:20] that come out of the model meaningfully improve the outputs of the model.
+
+
+So how do you do it? Does it require some technical wizardry? [00:40:30] It requires one additional sentence to whatever prompt you've given it. Give the prompt and then say the following, before you respond to my [00:40:40] query, please walk me through your thought process step by step. That's chain of thought reasoning.
+
+
+Before you respond to my query, walk me through your thought process [00:40:50] step by step. If you wanna give a bonus answer, you can say, take a deep breath. This is really important to me that we get this right. Or, sorry. If you wanna do a bonus prompt, say, take a deep breath. [00:41:00] It's really important to me that we get this right.
+
+
+Why does that work? It comes back to the fundamental architecture of large language models. What's happening when [00:41:10] a language model is generating a response is it's predicting its next word. A language model does not premeditate a response to you. So if you [00:41:20] say, for example, help me write this sales email, it doesn't say, what's a good sales email?
+
+
+Here it is, you know, bloop, you know, uh, maybe there's a splat sound that we play there, right? [00:41:30] Splat, here's your email. Um, it's thinking one word at a time, right? So when you look at Chad, GPT or Gemini or many others, and you see kind of the text scrolling, that's not something like clever [00:41:40] UX hack. That's not some cutesy design decision.
+
+
+That's literally how the model works. It's thinking one word at a time, but importantly, when it thinks of the [00:41:50] next word, it takes your prompt and all of the text that's generated to generate the next word. And then when it's taking of the next word, it takes your prompt, all that text and that last [00:42:00] word, and it thinks the next word.
+
+
+And then the next word is all that text, its answer. And those last two words, the next word, right? So every, so for [00:42:10] example, if you say, please help me write an email, almost always a model's gonna start by saying, absolutely. But then what comes next? Help me write this email. Absolutely, [00:42:20] I'll do it dear.
+
+
+Friend. Right? But if instead of saying, help me write this email, you say, help me write this email before you respond to my query. Please walk [00:42:30] me through your thought process step by step. Now it's, it knows its job is to walk me through its thought process. How do I write an email? So it says, [00:42:40] absolutely I'll do that.
+
+
+And then instead of saying, dear friend, writing the email, it says, here's how I think about writing an email. I think about the [00:42:50] tone. I think about the audience. I think about the objectives. I think about the context. And then amazingly, it takes all of that reasoning into [00:43:00] its process of writing. Dear friend, maybe it says, now that I've thought about the tone, friend isn't appropriate here, dear respected colleague or whatever, right?
+
+
+[00:43:10] But the point is, when you ask a model to think out loud or use chain of thought reasoning, it gives the model the opportunity to bake all of its own thought press about. It gives the model [00:43:20] the opportunity to bake all of its thought process about the task into its own answer. And then importantly, as its human collaborator, it gives you [00:43:30] the opportunity not only to evaluate the output, but to evaluate how you how, but to evaluate how it's thinking about it.
+
+
+And you might say, ah, that's [00:43:40] actually not how I think about writing an email. Now you can give feedback not only on the output, but on the input too, because the reality is for a lot of [00:43:50] us. We get an output from a language model and it's a black box. How did it think of, why did it think of that? Where did it get that number from?
+
+
+Right? There's all these questions by asking a model [00:44:00] to think out loud, you know the answer to what are all of the assumptions that the model baked into its answer. Because you've asked the model to be explicit about [00:44:10] that. And now you have the ability again, not only to evaluate the output, but also the thought process behind the output.[00:44:20] 
+
+
+So, um, the next thing, uh, was the few shot prompting. Yeah. Few shot prompting. That's great. So, so, uh, providing good [00:44:30] and bad example. Mm-hmm. So, uh, why is that good for getting better answer? So few shot prompting is kind of a [00:44:40] sub, uh, or, uh, you few shot prompting is another very important technique. It's a foundational technique.
+
+
+You could say it's a predecessor to [00:44:50] this kind of modern obsession with context engineering. Few shot prompting is kind of what came before context engineering, so to speak. Um, but the idea with few shot prompting [00:45:00] is an AI is an exceptional imitation engine. And if you don't give an example, it imitates the internet.
+
+
+It imitates whatever it knows of [00:45:10] a role. So if you've given it a role, it will imitate whatever it knows about a therapist or whatever it knows about a Hollywood director, right? But it doesn't do much more than [00:45:20] that. When you give a model an example to follow, it will do a good job of following that example.
+
+
+And the notion of few shot prompting is [00:45:30] effectively saying, here's what a good output looks like to me, very simply. Now, if, if the, um, if the exemplar model is [00:45:40] well represented in, in a models training data, for example, if you want your email to sound like Mr. T is kind of, that's kind of my favorite example.
+
+
+If I want to, to be the office Mr. T [00:45:50] impersonator, then I can just tell the model, don't forget I'm the office Mr. T impersonator, and I gotta make sure that my emails always include three or four Classic Mr. [00:46:00] Tism. The model will now bake that in. And instead of getting kind of a bland email, I get an email that at least for me, is a hilarious impersonation of [00:46:10] Mr.
+
+
+T. Why? Because I told it. That's what I wanted to sound like. Anyone who tells me, I don't really like working with AI because it just, it doesn't sound like me. I tell [00:46:20] them this simple truth. You haven't told it what to sound like. You haven't told it what you sound like or what you want to sound like. And the idea with few shot prompting is thinking for a [00:46:30] moment, what is a quintessential example of the kind of output I want to receive?
+
+
+For example, what are my five greatest [00:46:40] hits of emails that I, I'm really proud of that I think do a good job of conveying my intent or tone or personality or whatever it is. Why not include those [00:46:50] emails in my prompt for an email? If you would simply take three emails that you think you've done a really good job writing and add them to your prompt, please help me write a new [00:47:00] email and just say, please use the examples that I've attached here.
+
+
+That's few shot prompting. You're gonna get a much better per your own design [00:47:10] criteria of your own voice, right? So better is somewhat subjective here, but if you want it to sound like you tell it what you sound like, if you want to sound like Mr. T, [00:47:20] tell it to sound like Mr. T. Right? If you don't give any guidance, it's gonna sound like whatever it thinks the average kind of response or the average output should [00:47:30] sound like.
+
+
+And most of the time it's intuition is wrong. And then bonus points, if you actually give a bad example, if you say, please follow this good example and then steer [00:47:40] clear of this bad example. And so for example, an email that didn't result in any new leads or an email that is formatted very differently than your good example, these [00:47:50] giving real examples is a much better approach than using adjectives.
+
+
+'cause some people wanna say, make it sound witty, make it sound funny. But then you leave it to the [00:48:00] model to determine what witty and funny even mean, right? But if you give it an example of, this is an email I think is funny, make it sound like this. The model's [00:48:10] much better at imitation and you've now given it permission and importantly given it an example to imitate.
+
+
+I think giving [00:48:20] a good example is easier than giving bad examples. Yeah, so I, I, I think it might be a bit difficult to give a bad example this, so, okay, this is [00:48:30] great. Somebody might say, good example is easy, but bad example's hard. It's only hard to the un augmented person if you have AI augmentation, [00:48:40] which we now all do.
+
+
+You can say to an ai, I'm trying to few shot, prompt a model. I've got a good example, but I struggle even to think about what a bad [00:48:50] example could be. Could you craft the exact opposite of this and tell me why you've done it as a bad example that I could include in my few shot [00:49:00] prompt. A model is even more capable than we are, right?
+
+
+So in it it, it's more creative and imaginative there, and you, and if you tell it using chain of thought reasoning, [00:49:10] using chain of thought reasoning, please walk me through your thought process step by step before you do this. Then you'll get a bad example and you'll get how it's thinking about the bad [00:49:20] example.
+
+
+And a lot of times you actually don't need the bad example. You need the thought process. You go, oh, that's true. It's true that my good example is super tight and the opposite of super [00:49:30] tight is verbose. I wouldn't have thought to write something really long as the thing to avoid, but now I know I should avoid that.
+
+
+So again, using these tools [00:49:40] together, a few shot prompting and chain of thought reasoning enables you to not only be able to create an example to emulate, but also a really good example to avoid. [00:49:50] Cool. And, um, maybe we can move to the role play for a difficult conversation. Sure. So could you, do we want, well, do we wanna talk about [00:50:00] reverse prompting?
+
+
+Reverse prompting? Yes. That, that'll be good. Should we do that next? Um, at least that's in my mindset of like the que like if I'm teaching a class mm-hmm. I'll start [00:50:10] with, uh, chain of thought, and then I'll go to, um, few, few shot, and then I'll go to reverse prompting. Oh, maybe then we can do few shot, [00:50:20] uh, reverse prompting first.
+
+
+Okay. And then, yeah. Well, and then the last one I would do is self-critique, which we've kind of covered that already, but that's, that's like kind of the sequence I would take somebody through in the first hour. [00:50:30] Anyway, I, I'm following your lead, but I just didn't wanna miss it. If you wanna come back to it, we can, or we can cover it now.
+
+
+Uh, we can cover it now. Okay. Okay. So the, the third technique that I [00:50:40] think is table stakes, or fourth, if you consider personas a separate technique. But the other technique that I think is kind of table stakes for collaborating well with AI is something [00:50:50] called reverse prompting, which is basically asking the model to ask you for the information it needs.
+
+
+Many times. Again, going back to this simple example of a sales [00:51:00] email. If you ask a model to write a sales email, it's gonna make numbers up. And that can be frustrating to the uninitiated. You go, where did it get these sales numbers? Well, here's my question. [00:51:10] Did you give it your sales figures? How would it know it's put placeholder text in and used its best guess.
+
+
+But if you reverse prompt the model [00:51:20] and say at the end of your prompt, you know, help me write a sales email, please walk me through your thought process, step by step, reference this good example and make it sound like that. And [00:51:30] before you get started, ask me for any information you need to do a good job all of a sudden instead, again, instead of the the, the [00:51:40] model writing, the email, the model will first walk you through its thought process and then instead of writing the email, it'll say, I'm gonna need the most recent sales figures to be able to write this [00:51:50] email.
+
+
+Well, can you tell me how much you sold of this SKU in Q2 last year? I'm glad it asked. Now I can tell it. Great. Now, could you tell me how many months has this customer been [00:52:00] an been a customer of you? Right? Or how many months has this customer been ordering this product? Well, that's, that is true. I would need to know that.
+
+
+Right? So you basically give the model permission to ask you questions. [00:52:10] And this is part of the core actually, of this is part of the core, actually of the teammate, not technology paradigm, right? If [00:52:20] you're working with a junior employee and you're sending them off on a task, what's one thing you're definitely gonna say?
+
+
+If you have any questions, don't hesitate to ask me. Right? Any good manager, [00:52:30] imagine the manager who says, don't ask me any questions. But sadly, AI in its desire to be a helpful assistant, doesn't want to trouble us human with, with questions [00:52:40] unless we give it permission to ask them. And reverse prompting is basically giving the model permission to ask for whatever it needs to do a great job.[00:52:50] 
+
+
+Most of the time it asks for information. You probably would not have thought to give if you were just going, starting from a blank page, but it's information [00:53:00] that if you looked at the output, you'd say, but it didn't even include the sales figures, but it didn't even include our customer history there.
+
+
+So it usually will highlight things that you'd criticize [00:53:10] being neglected, but you would never have preemptively thought of including. So actually yesterday, our team, um, we ear retro [00:53:20] retrospective and we use that method like, ah, reverse ask me questions. Yeah, great. Yeah, it's, I mean there there's a, again, there's a lot of talk about [00:53:30] context generally and context engineering specifically.
+
+
+Now, reverse prompting is kind of an incredible way to get a model to help you with context engineering. If you think about it, [00:53:40] by giving a model permission to ask you questions, what you are admitting in your collaboration is, I haven't given you everything you need. Please let me know what you [00:53:50] need.
+
+
+Right? A very bad professor in a classroom will say Any questions. A great professor will say something different. A great professor will say, I know we just covered a [00:54:00] lot. I know you got tons of questions. What's on your mind? Fire away. Right. Basically by reverse prompting, you're telling a model, fire away.
+
+
+I know I didn't [00:54:10] give you everything you need to know, but I would never just ask you to go do it Now. What do you need from me to do a great job? It's good model collaboration. [00:54:20] Uh, and, um, should we move to the role thing for us? Sure. Let's do it. So could you give us a, a, a [00:54:30] little live demonstration to, of how you set up and run a role playing with AI or, sure.
+
+
+Um, you want me to use my phone? [00:54:40] Yeah. Yeah. Okay. Um,[00:54:50] [00:55:00] 
+
+
+uh, could you screen record your, your role playing? Yeah. Oh yeah. Like on my device? [00:55:10] Yeah. Oh, sure. Yeah. Totally. Good idea. Yeah, that's really easy. Do you know how, like, what the limits are to a screen recording? I.[00:55:20] 
+
+
+Let's see. What, what? No, no limits. Oh, really? Yeah. Oh wow. Okay, cool. Yeah, we can totally do that. Here, let me just quit a [00:55:30] bunch of apps so that it doesn't go so slowly. Um, and let's see. I'm gonna go[00:55:40] [00:55:50] 
+
+
+gpt and I can give you access. So I have some of these gpt, they actually do certain things, for example, like a personality profile or [00:56:00] GPT that will create the profile. I'm happy to give you, I mean, they're free, they're just, you know, on chat GPT, but you can use them or, and folks can access them [00:56:10] so that they, um, can leverage that the, the intelligence that I've already created here.
+
+
+Uh, lemme see. [00:56:20] So, so what kind of challenging conversation scenarios do you think, um, would be good to set? Well, I mean, I was thinking, like, giving feedback to a team member who's, um, I, one [00:56:30] thing I've done recently is like, this team member is trying to take credit for work that they didn't do, and I need to be able to establish boundaries, push back.
+
+
+Does that work? I think that's good. Okay. [00:56:40] Um, let me see here.
+
+
+Y'all are gonna love this. If you, if you've never seen this before, this is really fun. Cool. [00:56:50] Okay, so,
+
+
+and now how do I go screen record. Oh, here. Got it.[00:57:00] 
+
+
+Okay. So if I'm going to use AI to role play a difficult conversation, I typically think about [00:57:10] kind of three different chat windows, so to speak. One is a personality profiler, two is the character of the individual that I need to speak to. And then [00:57:20] third is a feedback giver. I want to get objective feedback on the conversation.
+
+
+So really quickly, what I wanna do is I'll show you just how I would have a conversation [00:57:30] with Chad GPT to prepare for a difficult conversation in my real life. I think this is one of the most unexpected and helpful use cases that anyone can leverage AI [00:57:40] for starting today. So I can open my, uh, I've created a personality profiler.
+
+
+GPT is basically a pre-written set of instructions [00:57:50] that. We'll reliably deliver a consistent output. So I basically instructed an ai, how to interview me for the information it needs to create a character profile that then I [00:58:00] can feed into another ai. So it's a little bit of a shortcut. You don't need any special tooling to do this, but if you have access to other people's intelligence, you can kind of stand on the shoulders of giants [00:58:10] rather than starting from scratch.
+
+
+So I'm just gonna go into the tough conversa conversation, um, personality profile, and I'm gonna say, Hey, I'd love your help. Um, preparing [00:58:20] for a conversation I need to have with my sales leader, Jim. He emailed me last night, um, saying that he deserves commission on a deal that I know came through a different channel.
+
+
+[00:58:30] And, um, I've seen a little bit of a pattern of this behavior and I just kinda wanna nip it in the bud so that we build team trust and, and cohesion and everybody's really stoked to keep building [00:58:40] together. So I'm just kinda giving a little bit of background. I will just upload that to the personality profiler and what this one's been taught to do is.
+
+
+I'm gonna start with step one of the process, [00:58:50] gather intelligence about the character and the scene. Right? So, and again, you can do this yourself. If you use this GPT, it will just kinda guide you through the process, but it's pretty easy to do. Um, so [00:59:00] I'm just gonna look at the questions here and I'm gonna, I'm gonna use my voice to answer them 'cause it's a lot easier than use my fingers.
+
+
+As I think I've said before, I consider my fingers to be bottlenecks. There's no reason to be interacting [00:59:10] with a computer with a bottleneck when I can just speak, uh, natural language processing, so to speak. Okay, first question. How would I describe Jim's communication [00:59:20] style? Um, he's quite direct, um, and confrontational.
+
+
+He's kinda typical east coaster, sarcastic, uh, brash. Um, and, uh, I mean, [00:59:30] he's a wonderful sales leader, let's put it that way. Um, what's most important to Jim in a conversation like this? I think, uh, I think fairness is very important. I think money. I think he, he loves making [00:59:40] money. I mean, I think every salesperson probably does, loves making money, loves getting a good commission, and, um, and then, but, but, but he, he does want things to be fair and he would [00:59:50] probably, uh, he would probably refer to principles of fairness in the conversation.
+
+
+Can you tell, say more about the deal he's claiming commission on? What specifically [01:00:00] makes you confident he doesn't deserve it? Well, I know that it came from our, uh, through our social team. There was a cold LinkedIn campaign that they ran, and I know the [01:00:10] CTO actually responded to that campaign. So I know that, um.
+
+
+That it came through there. And then I talked to the c, the CTOs, and then best case outcome of this conversation. One, I mean, [01:00:20] I'd like for Jim to kind of back down, I mean like near term, I want Jim to back down and agree that we, uh, that, that, that the social team gets the commission. And, but also I'd love to [01:00:30] address the pattern of behavior as well, because I think that the, it's, it can be a toxic pattern and I, I really want there to be a real trusting relationship in the team.
+
+
+So [01:00:40] I'm just using my voice again just to answer the questions that, that Chad has asked me about the situation. And, um, then I'll upload that there. And now this GPT has been [01:00:50] instructed to kind of first recap its understanding, which you can see, um, Jim's direct, brash, sarcastic, principled about fairness, highly motivated by money and recognition, probably prone to [01:01:00] doubling down if he feels cornered.
+
+
+So I didn't say that, but that's totally true. Um, deal in question clearly came through a LinkedIn cold outreach campaign. You spoke with the CTO yourself. [01:01:10] Um, you're confident the origin story's airtight. That's true. The, the goal is in the short term to get Jim to back down. So it's kinda recapping, its understanding and then it's giving me these instructions.
+
+
+It's saying to me, the [01:01:20] user copy paste the following instructions into a new Chad GPT window. You're playing the role of Jim, a seasoned to East Coast style sales leader. You're brash, sarcastic, confident, direct. [01:01:30] I'm getting a, okay. That's funny. I started getting a phone call there, so, um, I'll just restart the recording.[01:01:40] 
+
+
+So now it's given me instructions as the user, you know, to copy and paste the following instructions into a new Chad GPT window. You're playing the role of Jim, a seasoned East Coast [01:01:50] sales leader. You're brass, sarcastic, confident, not afraid to be direct or debate if something's unfair. Um, here's the context.
+
+
+You've emailed a colleague, but in truth, the lead came [01:02:00] through. The user you're speaking with knows this and is preparing to talk to you about it. You have a bit of a pattern, right? So now it's telling me, open a new chat GPT window on your mobile voice [01:02:10] mode. Um, uh, copy, paste the instructions into the chat, and then hit enter.
+
+
+So I'm just gonna do that. I'm gonna follow the instructions here. And again, if you use this [01:02:20] GPT, it will give you these instructions. If you don't, you can just do this normal Chad GPT. You'll just kinda need to keep those instructions in your own mind, which. I, I'm a simple person, so I like [01:02:30] the instructions here.
+
+
+So I just copied those instructions. So now what I'm gonna do is I'm opening Chad GPT and I'm just gonna go and I'm, first thing I'm gonna do is start a new conversation with Chad [01:02:40] GPT, and I'm just gonna paste those instructions in. So I've literally grabbed all of the instructions from that, just as an output of that profiler GPT.
+
+
+And I'm just gonna paste them [01:02:50] in. And what it should do is hopefully say, got it. I'm Jim. Got it. I'm Jim. That's funny. I I, I didn't tell it to say that, but I knew it was so I don't sugarcoat things. I saw the name on the win [01:03:00] sheet and from where I say it looks like it came outta my team's pipeline, I flagged it plain and simple.
+
+
+If there's something missing, I'm open to hearing it, but I'm not here to be lectured or made to feel like I'm gaming the system. 'cause [01:03:10] the team's gonna win. Everybody's gotta get credit. So let, so whenever you're ready, let's fire it up, the voice and talk. So this. AI chat now has all the context I [01:03:20] need.
+
+
+And then what's amazing is, um, there's two buttons here. One is the, uh, microphone that will take dictation effectively. So it'll take whatever I say and it will turn it into text. The other [01:03:30] button is the advanced voice mode. And what advanced voice mode does is it turns me into a live conversation with the model.
+
+
+Importantly, it takes all of the preceding [01:03:40] conversation in as context. And that's, it's hard to overstate the significance of that. This, this voice conversation has everything here in its short term [01:03:50] memory now available to this conversation. So when I start, I'm not just interacting with advanced voice mode, I'm interacting with a model that thinks it's gem with this context, right?
+
+
+So that's [01:04:00] important. So I'm gonna hit it and I'm just gonna see how it goes. I'm gonna not overly prepared because I know Now having done this a bunch of times, I'm probably gonna flub my lines, but I'm not talking to [01:04:10] Gem right now. I'm talking to AI. And it's okay if I make mistakes because I'm gonna get feedback and it's gonna enable me to iterate and see how I can do better next time.
+
+
+And I can't [01:04:20] tell you how much of an unlock this is when you realize you can iterate and do better the next time. So I'm just gonna go in and I'm gonna start it. We're gonna see how this goes. I'm a little [01:04:30] nervous. My heart rate's kind of racing 'cause Woo. Okay. In three. You guys ready?
+
+
+Hey Jim. [01:04:40] Um, do you have a second?
+
+
+Sure thing. I've always got a moment for a, a good chat. What's on your mind? Uh, [01:04:50] yeah, I just wanted to clarify. It seems like, um, the commission that you emailed me about last night from the telco, I, I'm, I'm, I'm [01:05:00] afraid you might be mistaken there mistaken, huh? Well, I'm definitely open to hearing the details.
+
+
+If there's something I missed, let's lay it out on [01:05:10] the table and figure it out. Great. I appreciate that. Um, I actually, uh, I saw that that deal originated with the, um, with the social team. They had [01:05:20] run a cold campaign on LinkedIn and um, the deal came through and then I ended up, um, taking the call with the CTO and I closed the deal myself.
+
+
+So I was, [01:05:30] to be honest with you, I was a little bit caught off guard when you uh, when you sent your email last night. Alright, I hear you. I mean, if the social team really did the [01:05:40] groundwork to bring that lead in, then I definitely wanna make sure credit goes where it belongs. I'm all about fairness, so I appreciate you bringing this up.
+
+
+Okay. Wow. [01:05:50] Well, um, what do you see as next steps? Well, I think the first step is to have a quick chat with the social team, just to confirm how everything [01:06:00] went down. And once we have all the facts straight, we can make sure the commission goes to the right place and that everyone feels good about it.
+
+
+Great. [01:06:10] Um. Yeah, I don't know. Do you have any questions for me? I think we covered the main points. I appreciate you bringing this up directly. [01:06:20] Uh, let's just keep the lines of communication open and we'll sort it out together. Alright, well, um, great. Thanks so much for your time. I'll talk to you soon.
+
+
+Absolutely. [01:06:30] Thanks for the chat. And I'm sure we'll get everything squared away in no time. So if I hit XI just, I I end that conversation. What's interesting to me is I kind of feel like that [01:06:40] wasn't totally Jim, and either, either that went well or, you know, I don't know what I did well. But one of the beautiful things about voice mode is now I've got the whole transcript, right?
+
+
+So [01:06:50] I can actually grab the conversation and I can, well here, uh, if I'm on my, uh, computer, I can grab the whole conversation here. I can just screenshot it, right? So I can take [01:07:00] screenshots of this conversation and then I can actually, um, I can put them into a new, [01:07:10] uh, GPT window and I can get feedback and I can say, Hey, tell me what I did.
+
+
+Well, tell me what I did poorly. Um, and it's pretty remarkable. I actually kind of want to [01:07:20] instruct Jim to be a little bit tougher on me because I kind of want to see what it's like if he pushes back. So that's one of the cool things you can do. You can just say. Hey, [01:07:30] I'd love to rehab that conversation, but this time would you be willing to or be, be a little bit more aggressive and, and, and don't kind of give your way so easily because, [01:07:40] um, I, I feel that you're a little bit too nice.
+
+
+What I could also do is I could even go back into the character profile. I could even [01:07:50] go back to my last conversation. Um, I'm just telling Chad that copy that I'll dial up the east coast edge next round. I won't back down so quickly. I'll push harder on why I think [01:08:00] I earned the commission challenge what you're saying and make you work for the shift.
+
+
+So I can, I could start there, or I can go back into my conversation history here and I could [01:08:10] say, um, Hey, I just had my first conversation with this version of Jim, but I feel like he, uh, he kind of, he was too agreeable to be honest [01:08:20] with you. And so I'd like you to incorporate, um, a little bit more edge into the instructions to the character that's gonna be playing.
+
+
+Jim, would you [01:08:30] mind to update your instruction set so that it's less likely to make concessions and be agreeable, right? Because ultimately what you want is you want, you want to have a realistic [01:08:40] experience of the conversation. So I'm just gonna do that. Yeah. And now it's gotta, you know, thanks for the honesty.
+
+
+If Jim was too easy to sway, then we'll need to dial up his resistance, [01:08:50] pride, and sense of personal investment. Let's make this version of Jim more skeptical, slower to concede, and a little more territorial. Not hostile, but emotionally invested and bristling when he [01:09:00] feels like he's being sidelined or disrespected.
+
+
+This version of Jim should feel like he has skin in the game and needs a compelling case and some ego management before he even thinks of backing down. [01:09:10] Okay, now it's giving me new instructions, right? So I could try this again. I can grab all these instructions and your mindset in this role play. You feel blindsided and undervalued.
+
+
+When your [01:09:20] contribute, when your contributions are questioned, you're willing to argue hard. If you feel like someone's taking something from you, uh, you're not going to roll over the moment someone tells you you're [01:09:30] wrong. You're open to being convinced, but only if the person is respectful, airtight in their facts and doesn't make it personal.
+
+
+You care about the team, but you're protective of your turf. Okay? So this is [01:09:40] great, but the point is not to have the first, you know, perfect conversation. The point is to get in the game. That's what we're doing here. I'm gonna pause that recording just 'cause it was long. [01:09:50] It's an eight minute long recording there.
+
+
+So now, uh, I'll start recording again. [01:10:00] So now, and I'll. So now what I'll do is I'm actually gonna open a new conversation. 'cause I, I actually don't want to go back into the old conversation where the [01:10:10] history there is one of concession. I actually want a new conversation and I'm gonna pace the updated instruction set.
+
+
+And let's see, let's see what kind of gym I got here. Big voice, bigger results. [01:10:20] I fight for what's mine. I don't appreciate being second guessed If someone's coming in hot to tell me I'm wrong, they rather bring facts, not feelings. If I push back, I'll ask questions, I'll challenge [01:10:30] assumptions. That said, I do respect airtight logic and clea data.
+
+
+So if you got something to say, I'm all ears. Kick us off in voice mode whenever you're ready. Okay. So again, this [01:10:40] instruction set works because I've trained A GPT to give the right instructions to a new GPT, right? So, uh, none of it's rocket science, but it's part of the amazing thing that you can do is you can get AI [01:10:50] to behave and act reliably if you're just thoughtful about the instructions you give.
+
+
+So now I'm gonna try again. Let's see. Hey Jim, do you have a minute to [01:11:00] chat? Hey, absolutely. I've always got a minute what's on your mind. Yeah, I wanted to talk about your email last night. You had, you'd sent a note about the [01:11:10] telco commission. Oh, that one. Yeah. I, I figured that might come up. I, I definitely think I had a hand in that deal, so I'm curious to hear what you have to [01:11:20] say about it.
+
+
+Yeah, really appreciate it. I mean, you, what you and the sales team are doing is awesome. Totally appreciate you. Um, that being said, I actually feel that attribution is really [01:11:30] important that we get airtight here. And the truth is, I, I am fairly confident that deal came through the social team and so I saw your note.
+
+
+I figured, man, let's just take it to voice, make sure that there's [01:11:40] no hard feelings or confusion. Alright. I get where you're coming from. I definitely appreciate you wanting to clear the air and to keep things fair. [01:11:50] So what kind of evidence do you have that it came through the social team? Well, uh, when Diara made the post on LinkedIn, I saw that the CTO responded and I actually slid into [01:12:00] his dms and just set up a one-on-one conversation.
+
+
+So I ended up talking to the lead and we closed the deal. Alright, I see what you're saying. [01:12:10] So you took the initiative once that lead came in. I respect that, but from my perspective, you know, having visibility or a conversation doesn't always mean that the [01:12:20] credit is fully there. So I guess we just need to figure out what feels fair to both of us.
+
+
+Yeah, yeah, I agree. I think in this case, um, [01:12:30] the s so p is pretty clear. We, we give the credit to where the deal came from. So in this case, I'm pretty sure that the social team actually deserves the full commission. [01:12:40] Um. So I, uh, I don't know if you see it differently. Well, I hear you. And if that's the standard operating procedure, then [01:12:50] I can respect that.
+
+
+I just wanna make sure that my contributions are acknowledged and that we're all on the same page moving forward. So as long as we can keep it fair [01:13:00] and transparent, I'm good with that. Excellent. Okay, great. Um, would you mind to write a note to the team that we could send before the end of day, just to make sure that everything the air's clear?[01:13:10] 
+
+
+Yeah, absolutely. I can do that. I'll put together a quick note just to let everyone know that we've cleared the air and that we're all on the same page. That way [01:13:20] we can all move forward without any confusion. Yeah. Great. Thanks so much. Yeah. Copy me on it and I'll, and let's set up time to make sure that we adjust any of the SOPs to make sure that [01:13:30] attributions airtight moving forward.
+
+
+Sounds like a plan. Uh, definitely copy you on that email and we can absolutely set aside some time to go over those procedures. I'm [01:13:40] all for making sure everything is crystal clear moving forward. Okay. So that, that conversation, it was a little bit different. I, I feel, I feel I [01:13:50] had to navigate his feelings a little bit more, but again, in this case I can still.
+
+
+Go in and I can, uh, what, what I'll, so I've been through kind of two [01:14:00] windows. One is profiling my conversation partner, and then the second is having the conversation. I, right now, I don't actually have objective [01:14:10] perspective on how did I do. And so what I can do is if I, if I grab my, uh, transcript here, I'll just screenshot it because I use my phone.
+
+
+If I were on the machine, [01:14:20] which, you know, voice mode is supported on the machine, you can totally use it there. If I were on the machine, I could just, um, I could just grab all of the text at once and, uh, [01:14:30] and then, you know, uh, copy paste the text. Um, but since I'm on my mobile, I'll need to do this. But I can actually go in and I can go to my, [01:14:40] uh, let's see.
+
+
+I have a conversation. Um, feedback, GPTI think, let me see.[01:14:50] 
+
+
+I will pause this recording [01:15:00] here for a second. So I have a conversation. Feedback, GPT that I've built that basically leverages a handful of key [01:15:10] professional communications rubrics and, and, you know, thought leaders to give someone feedback on a difficult conversation they've had.[01:15:20] 
+
+
+Let's see here. Where is this? I've created a lot of GPTs.[01:15:30] [01:15:40] [01:15:50] 
+
+
+Here we go. Oh, me, I'll, um, [01:16:00] hit record.
+
+
+All right, so what I'm gonna do here is I've opened my tough conversation, greater GPT, and I'm basically just gonna [01:16:10] upload photos of that last conversation. So I can do that here. I,[01:16:20] 
+
+
+and I'm gonna say, please give me feedback on this tough conversation.[01:16:30] 
+
+
+And what this GPT has been trained to do is basically give, evaluate my conversation. And then let me know how it went. Thanks for sharing the full [01:16:40] transcript. My first step is to understand the objective. It seems like the objective was to resolve a disagreement about commission attribution, specifically whether it should go to the sales team or the social team, while maintaining a [01:16:50] productive relationship with the other person.
+
+
+You seemed to acknowledge, uh, you seemed to want acknowledgement for your team's contribution and aim to clarify attribution before I move forward. Is this accurate or was your [01:17:00] main intent something else? So what's kind of cool is this GPT says, am I targeting my feedback on the right thing? And I'm gonna say one thing that I wanted to be able to do was to give, [01:17:10] uh, uh, to, to subtly address a pattern of behavior.
+
+
+And as I think about it, I'm not sure I did a good job of addressing the pattern. I address it this specific case, but not a broader [01:17:20] pattern of behavior. But I'd love feedback on the trust I created and whether where I could maybe, um, do better there.[01:17:30] 
+
+
+So I tell the AI that and then it's going to go through its process. So your objection, your objectives were [01:17:40] twofold. One is resolve the immediate disagreement, and two is subtly surface and address a pattern of behavior. Now it my framework based evaluation, crucial conversations [01:17:50] start with heart is the first principle.
+
+
+You stayed focused on fairness, clarity, and team alignment. Your goals were clear. Learn to look and make it safe. You did exceptionally well at deescalating tension. [01:18:00] Um, you acknowledged his contributions by saying what you and the sales team did were awesome. You invited input, you handled disagreements without re green defensiveness, and then it's, it's leveraging a lot of kind of [01:18:10] references to clear elements of the crucial conversations framework.
+
+
+Okay? Uh, then it uses nonviolent communication. Another classic framework here. Um, [01:18:20] you hinted at past discomfort by, I forgot that, that I said I was caught off guard. Um, but I didn't connect it to a pattern of how it's affecting trust. I gestured towards needs and [01:18:30] fairness, but didn't make them explicit.
+
+
+Um, and then so it gave me a great, and then it, uh, references radical candor as well. This is where you fell short of radical [01:18:40] candor. You danced around the broader behavior pattern without surfacing that respectfully at risk, becoming what Kim Scott calls ruinous empathy, protecting feelings at the expense of growth.
+
+
+Step four, here's [01:18:50] your grade. You got a 78 out of a hundred. You succeeded in preserving trust and resolving the immediate issue. You started to raise the deeper pattern that stops short of actually naming it or clarifying how it impacted [01:19:00] trust that held you back from full radical candor or meaningful behavior change.
+
+
+And then it gives me three key improvements for next time subtly surface the pattern without blame. And then it [01:19:10] tells me instead of this, try to be honest, I've noticed a few cases like this one where credit attribution hasn't quite followed. The SOPI haven't always spoken up, but I think [01:19:20] we'd benefit from getting clear as a team going forward.
+
+
+And then it gives me the rationale. Then I, second thing I need to do is assert the impact to increase buy-in instead of vague [01:19:30] feelings like saying I was caught off guard. Try when things get attributed in a way that doesn't match how the lead came in. It makes it hard for me to advocate for my team.
+
+
+That's great. Be clear [01:19:40] on what needs to change. Final encouragement, right? So I can take all of these. I can even say, Hey, would you give me a quick one pager for of, uh, of a handful of talking points that I [01:19:50] should probably make sure not to forget in the order in which they're likely to emerge in this conversation based on the feedback you've given me.
+
+
+And now [01:20:00] the AI will actually give me a really short, kind of at a glance conversation guide that I can leverage if I wanna try again. Right? Here's a one pager open [01:20:10] with warmth and purpose. Jim, do you have a second? I wanted to follow up, acknowledge, and appreciate. First off, I wanna say what you and the sales team doing is really strong, right Name, the specific case that said I did wanna [01:20:20] revisit the telco commission.
+
+
+I think it needs a closer look. Gently surface the pattern. To be honest, this isn't the first time, so that's where I missed. This isn't the first time I've noticed something like this. I haven't always raised it, but I figured it's worth [01:20:30] getting aligned. Name, the impact on trust when attribution doesn't quite match how the lead came in.
+
+
+It puts me in a tough spot and then invite his view, oh, I didn't do that. How are you saying it? Huh? [01:20:40] Collaborate on a fix. Would it make sense to loop in the social team and confirm the origin? I didn't do that either. End with alignment and gratitude. Thanks for taking the time. So these are all great points.
+
+
+Now I can [01:20:50] bring them into the conversation. I actually, I'd probably do this a couple times before having the real conversation with Jim, but the point is, historically, the only time I get feedback [01:21:00] is after I have the real conversation with Jim. This is the first time in history and maybe I can get a friend to kind of go over talking points with me, but unless they're really [01:21:10] close to Jim or unless they're, you know, particularly imaginative and unless they're deeply knowledgeable of a bunch of feedback frameworks, they fall short of really preparing [01:21:20] me in context for this specific situation and this specific conversation I need to have in a way that AI is able to help me.
+
+
+You can use this for any difficult conversation, whether it's [01:21:30] a performance review, a salary negotiation, uh, difficult feedback with your in-laws, your spouse, your roommates, teammates, et [01:21:40] cetera. It's a great way to, um, basically get a flight simulator for a difficult conversation. That, that's really [01:21:50] helpful.
+
+
+So, um, um, maybe we can we change the battery and move Sure. Move on to the feedback and iteration parts. Sure.[01:22:00] 
+
+
+And do you want me to send these? Um, yeah, maybe after the, when. I can, um, [01:22:10] airdrop or something or Okay. Cool. Conversation with Jim. Was his name Jim? Jim? No, no. I changed his name. Of course.[01:22:20] 
+
+
+Camera speed. That's what they say in the biz. I don't know if you know that. I'm joking.[01:22:30] 
+
+
+Okay. Um, let's move [01:22:40] on to the feedback part. So how can team design, how can we design effective feedback loops to [01:22:50] continuously, um, improve AI outcomes? Well, so one of the things that's amazing about AI is it remembers the context of a conversation. So [01:23:00] you can, for example, you can have a brainstorm with AI about, say you're running a social media campaign and you wanna look for, uh, you, you want, uh, well, [01:23:10] lemme start over.
+
+
+Say you're running a social media campaign and you want to, uh, generate, um, leads, you can then actually run the campaign [01:23:20] and then give the data to AI and say, here's what happened. Here's the click through rate. Let's walk through. Why did it happen that way? Can you extrapolate from this data, [01:23:30] what were some assumptions we were making that may be invalid?
+
+
+What were some blind spots that we had that we need to be aware of now? And so you can actually bring data, performance data in this [01:23:40] case, back into the conversation that sparked the idea. And you kind of close the loop. I mean, that's why actually coders are one of the early users of ai [01:23:50] because the feedback loop is so tight, right?
+
+
+So when they're writing lines, when the output is lines of code, it's really easy to validate whether the AI did a good job or not. 'cause they copy the [01:24:00] code, they drop it in, and they hit run. I realize I'm diminishing the work of a software engineer, but if it doesn't run, it doesn't work. And then you come back to the AI and you say, here's the error I'm [01:24:10] getting.
+
+
+Here's the bug that I'm seeing. Right? In non kind of code areas, sometimes the feedback loop can be a little bit looser. But one of the great things you can do is you [01:24:20] can actually invite AI into a conversation or an effort and then close the loop with the data. And that actually makes the AI much stronger because the AI is [01:24:30] able to understand what was the real world impact.
+
+
+It's almost like. Uh, you know, you hear Sam Altman now talk about how AI labs need to have wet labs right beside them, right? To be able [01:24:40] to run, uh, you know, biological experiments. They, it might generate a hypothesis, but it needs access to chemistry equipment to be able to test the hypothesis. [01:24:50] You, it's really valuable to the team to actually close the loop with the AI and let the AI know how did the thing go.
+[d][e]
+
+
+It actually improves the AI's ability to [01:25:00] generate novel solutions the next time it needs to generate social media campaign. So then do you use another AI model to [01:25:10] evaluate your ads? Yeah, I often actually, I, I often will go back and forth between models. For example, if I'm working on a newsletter, that's something that I do every [01:25:20] week.
+
+
+Uh, I generally work with Claude, but then I'll often ask Chad g pt, Hey, knowing what you know about my writing style, what do you think of this post? Knowing what you know about my audience, how [01:25:30] do you think this will resonate? Having seen the performance of my past posts, are there things I should strengthen?
+
+
+Are there any missing elements that I should infuse? Does it sound like me? [01:25:40] You give me a grade too, and then I'll tell Claude sometimes. Here's what Chad g PT said. Chad says that we does this, this. What do you think? What I find fascinating is models aren't very [01:25:50] egotistical. So I can ask both Chad, G, pt, and Claude.
+
+
+I, I could say I generate a newsletter in both Chad G, pt, and Claude. And then I tell both of them, [01:26:00] here's what Chad said, here's what Claude said, which is better and why? I'll tell both of them that almost always they agree. They'll both say they don't, they don't like, like their own work. The best. [01:26:10] Chad will often say, I like Claude's version better for this reason.
+
+
+Claude's, like, I think my version's better, right? Or vice versa, right? But, so you can use different models. I mean, another great example is deep [01:26:20] research. One of the most excellent tools available to, you know, retail users today is deep research, which is that the process by which [01:26:30] you can get an AI agent to go and conduct a meaningful research task for you.
+
+
+Okay? This is an incredible privilege and incredibly powerful technology [01:26:40] available to on, on most of the base models, even some for free perplexity. Deep research is free, but, but you can conduct a deep research study through perplexity, through gr, [01:26:50] through Gemini, through Chad, GBT. And the way I like to think about it is it's like hiring a management consultancy.
+
+
+Chad g Bt is like hiring [01:27:00] Bain. And I can, for you know, it, for 15 minutes, it's gonna take Chad, GBT, or sorry, in 15 minutes, Chad GPT is going to [01:27:10] deliver a management consultancy style and caliber level of analysis of a particular research query. But why would I not also in parallel hire McKinsey and [01:27:20] BCG?
+
+
+And so a lot of times what I'll do is I'll actually run a deep research in Gemini and GR and perplexity and Chad GPT, [01:27:30] and then I've got four really thorough research studies that I can then compare and look at, and different ones have different strengths. My point is leveraging different [01:27:40] models in parallel often yields a lot of insights that you don't get if you just stay in one model.
+
+
+So then, um, what kind of [01:27:50] prompt should I use when I wanna, uh, when I want my AI to self evaluate? When you want your AI to self evaluate, well [01:28:00] grade your work. I mean, very, very simply, you could say, I would say, let's start here. When you're wanting to [01:28:10] evaluate an AI's output and you want to enlist the AI's assistance in evaluating its output, here's the question you need to ask.
+
+
+Which expert opinion [01:28:20] would be a meaningful input to this process? If I could ask anyone in the world what they think of this, who would it be? Right. [01:28:30] It's a function of the task at hand, right? If I'm writing a script, maybe I want Spielberg's perspective. If I'm writing a novel, maybe I want a novelist [01:28:40] perspective, right?
+
+
+If I'm writing a professional correspondence, maybe I want a communication expert's perspective and on and on and on, right? But if you think about whose perspective would be [01:28:50] valuable here, then you can tell the ai, play this role, play the role of a Hollywood director. As you evaluate the script, play the role of a publishing house editor.
+
+
+As you [01:29:00] evaluate this proposal, play the role of a, you know, AI curious professional. As you read this newsletter, what questions do you have, right? [01:29:10] So you can tell the AI what role you want it to play, and then say, would you please evaluate the work from the perspective of that reader? On a scale of zero to a hundred, [01:29:20] how does it perform?
+
+
+Please walk me through your thought process step by step. And then you'll trigger chain of thought reasoning from the perspective of that persona. And you'll get a grade. And the [01:29:30] amazing thing is say it tells you you did a 74. Then ask the question, what would it take to get a hundred out of a hundred?
+
+
+Would you please make at least three recommendations [01:29:40] that I could implement to get a revision that scores at least 95 or better? And then you can, you'll get those and then you [01:29:50] implement the revisions. And maybe you're happy with it, or maybe you want to get another perspective. And again, if you don't know the expert that's relevant, but you know that you want AI's assistance in [01:30:00] evaluating the quality of the work, you can say to the ai, I would love an expert perspective.
+
+
+What kind of expertise would you recommend I seek out in order to evaluate this output? [01:30:10] And then it will say, now would you take the perspective of a molecular biologist and review these results of this lab report? Let me [01:30:20] know what you think of them. Right? So you can use AI on many different levels to amplify your, not only your output, but your understanding of the output, your refinement [01:30:30] of the output, your grading of the output, et cetera.
+
+
+And, um, I love that your insights that, uh, for a complex task, [01:30:40] complex task, um, we should break them down into like simple tasks. Simple roles to improve that, um, that [01:30:50] results. Mm. Could you tell us more about that? What exact, what are you looking for there? Uh, like when we conduct complex task, we don't have, we have to, [01:31:00] um, split that task into a simple, yeah.
+
+
+Yeah. I mean, I think generally I see, I see two problems when folks [01:31:10] use AI or three. The first one is they use it rather than work with it. I never say used. I wish that y'all had Nerf guns right now, and anytime I said the word used, you just [01:31:20] shoot a Nerf Nerf gun at me. Right? And I, I wish that anybody in any organization would do that too, because our language affects our mindset, affects our behavior, affects the [01:31:30] output of these models.
+
+
+And when we still talk about using ai, it influences lots of things, right? So I try never to use the word use. And if I, do I give anyone, [01:31:40] anyone in this studio permission to throw something at me, right? I rec, I recommend that others do the same thing. Just help me. Remember, I'm not supposed to use ai, so that's the first thing.
+
+
+But I [01:31:50] see two big problems when folks are working with ai. They either give far too little information, far too little context. We can talk much more about that. That's called context [01:32:00] engineering generally. And there's ways to get the AI's assistance and understanding what context is needed. But then the other is they give far too big of a task for kind of a [01:32:10] single shot attempt, right?
+
+
+You would never say, write me a movie script, right? That's, that's an enormous task, right? You would say, let's think [01:32:20] about what is a, a character and a problem that's interesting. What might happen in this context of this problem? What are [01:32:30] five ways that might get resolved? You know, you might think you might, we would probably walk through a scenario, walk through a story.
+
+
+I'm not even a storytelling expert. I'm sure that storytelling experts would've lots of [01:32:40] different opinions about this. But the point is, if you think about the end product as the script. The wrong thing to do is give me the end product. The right thing to do is work [01:32:50] together through the process to ultimately arrive at perhaps through a series of collaborations with a series of different ais to arrive at the big thing.
+
+
+And many times folks [01:33:00] ask for a big thing and they don't get it because that's just far too much for an AI to do in one pass. Right. The other thing that you can do, which is [01:33:10] really fun, oh, hang on, what was I gonna say? The other thing that you'll find is that this is, this is really important. It'd be [01:33:20] funny if you showed me saying, I, how am I gonna communicate how important this is?
+
+
+I don't know how to communicate it. The sad truth is that AI [01:33:30] will perform to your level of expectations, and if you have low expectations of ai, you will get mediocre output. Not [01:33:40] because it can't do it, but because you don't expect it to. If you have high expectations of ai, you will, you will push yourself to say, what [01:33:50] am I failing to do to enable the AI to deliver this output?
+
+
+And you'll start taking responsibility for mediocre output. I think one of the most important things that any [01:34:00] collaborator to AI can do today is to start taking responsibility for their own mediocre output. If you have bad output, I want you to take this seriously. It's [01:34:10] because you gave bad input.
+
+
+Almost always. And your job as a collaborator to AI is to be critical about what are the inputs that are [01:34:20] required of me as the human collaborator to ensure that AI delivers my desired output. But if you have low expectations, especially right now, there's a [01:34:30] lot of AI curious people that go, Hey, can I do this?
+
+
+And then they might simply say, Hey, for example, this is a true story. My dad is a lawyer, he's an, he's an [01:34:40] amazing attorney. And he is always asking me, can AI do this? Can I do that? And his kind of assumption when he asks is, I know it can't, but wouldn't it be cool if it could? The other day he sent me this [01:34:50] file, you know, can AI convert this really big PDF of all of this kind of court documentation into a different format?
+
+
+And I, and he said, I tried and I couldn't get it to do it. [01:35:00] So I go, sure, I can, no problem. Send it to me. So I get this PDF and I say, Hey, please convert this into this. And that's all I said. And then I stupidly [01:35:10] submitted my prompt. Absolutely Jeremy, happy to help. Please download your CSV file here. And then I'm like, this is so easy.
+
+
+So just come on [01:35:20] child's play. You know? And then I open the CSV. It's a one line CSV that has nothing to do with what I gave it. And I go, I go, this is why [01:35:30] my dad thinks AI is stupid. 'cause he probably did that. And he goes, it doesn't work. Thankfully, I know the basics of prompt engineering. And then even more context [01:35:40] engineering.
+
+
+And I took responsibility for the mediocre output. And I said, what did I do that failed to enable AI to deliver the output that I'm desiring? [01:35:50] And I added one sentence in this case. I said, before you respond to my request, would you please walk me through your thought process step by step? [01:36:00] And now, instead of saying, absolutely, download your CSV file here, it said this, absolutely.
+
+
+I'm gonna need to open the PDF, I'm gonna need to look for these kinds of headings. I'm gonna [01:36:10] download a Python script. It does this. I'm gonna use this JavaScript to be able to do this. Please download your CSV here. And no kidding, when I hit open, [01:36:20] I had a 200 line CSV with 14 different columns with all the data in the right place.
+
+
+All I did was use basic techniques [01:36:30] that are available to anyone via natural language, who knows it. But the broader meta point is I think some people actually want AI to disappoint them. [01:36:40] They actually want to discover AI can't do that. And so they seem to discover it because they bring a mediocre prompt and a [01:36:50] mediocre attitude and a mediocre teammate mentality, and they get a mediocre output and they convince themselves, Hey, I can't do that yet, my friend.[01:37:00] 
+
+
+You are delusional. AI can do it, and it's your job to figure out how often it doesn't require [01:37:10] much more context or much more prompting to go from a mediocre output to a magnificent one. But it requires that [01:37:20] you expect you can get to something exceptional. And if you don't expect that you can get something exceptional, you'll probably either settle for mediocre or [01:37:30] dismiss AI as incapable of doing it.
+
+
+And honestly, you're the person who's gonna miss out. I, I, I experience that a lot. [01:37:40] Hmm. So, um, I, I'm curious, how far do you think AI could go in helping with different kinds of work in the future? [01:37:50] How far could AI go in helping with different kinds of work in the future work? Or how far? Well, uh, uh, the thing that's exciting about it is [01:38:00] the, the, you know, a rural villager in Kenya through a mobile device, if for $20 a month, or I, I don't know what subscription plans are in [01:38:10] Kenya, but just picture someone with very limited access to resources, to, to knowledge resources.
+
+
+Historically, they now have access to the same frontier [01:38:20] intelligence that lead researchers and AI labs have access to. Right. I would say right now applications are limited primarily by imagination. [01:38:30] Human imagination at the edge of the application space is the primary rate limiting factor. And the humans who learn [01:38:40] simple prompting techniques end up imagining things that nobody's imagined before.
+
+
+It regularly happens to me. I mean, I taught teams in hospitality and in [01:38:50] professional sports and in finance and in healthcare. I've taught teams all over the world, hundreds of thousands of people in every industry you can imagine, and many of the [01:39:00] household name companies, and regularly their people after two or three hours of training are imagining applications of AI that I've never imagined.
+
+
+I've been [01:39:10] in this game now since the month, Chad, GBT came out, and people who are far behind me in terms of the learning curve are thinking of things I've never [01:39:20] thought of. Why? Because they bring all of their own context and knowledge of problems we're solving and pain points and frustration and expertise.
+
+
+They bring all of [01:39:30] that to the model. And so where could AI go? It's really a function of who can get unleashed if [01:39:40] we do, and I say, uh, those of us whose job is to spark folks imagination, if we do a better job of sparking people's imaginations, there's gonna be a whole lot more [01:39:50] varied and exciting applications of ai.
+
+
+Right now, the primary limitation is a limitation. Right now, the primary limitation is. [01:40:00] The limits of human imagination. And as we unleash and ignite and spark more human's, imaginations, the kinds of applications that are possible are, they're [01:40:10] unthinkable. Not because they're technologically impossible, but because they never occur to us personally.
+
+
+One of my favorite quotes is a Nobel Prize winning [01:40:20] economist named Thomas Shelling. He said, no matter how heroic a man's imagination, he could never think of that, which would not occur to him. [01:40:30] And if you take as a premise that the imagination space is a function of what would occur to various individuals, then as we equip different individuals, [01:40:40] what we can imagine collectively expands, it's what in innovation studies has been called the adjacent possible [01:40:50] for a long time.
+
+
+What is possible is just adjacent to what is. And as we increase adoption and increase fluency and competency and [01:41:00] increasingly mastery of AI collaboration, then we're increasing the adjacent possible. [f]
+
+
+And, um, I'm curious, [01:41:10] what, what are your thoughts on AI agents? Because I, I saw announcement, announcement about AI agent this morning.
+
+
+Yeah. And, um, since [01:41:20] people seem to define them in different ways, I think so how do you personally define. I, I don't have stronger opinions on that. I'm [01:41:30] not as, that's probably not my area of expertise. I mean, I can, but I, I'm just gonna ma, I I'm not gonna be an authority on that. I have personal thoughts, but I'm, um, [01:41:40] I think there's a lot of hype right now.
+
+
+Part of the problem, actually, something I can say authoritatively, part of the problem right now is the volume is dialed up to 11 in terms of either [01:41:50] hype or doom. Everybody's hyping it as, it's everything for everyone everywhere, or it's doom. It's the end of the world. It's jobs, apocalypse, [01:42:00] whatever, and no one's just being practical.
+
+
+That's why I'm obsessed with kind of practical use cases, ordinary people using AI to [01:42:10] unleash and augment and, sorry, regular people using AI to augment and unleash their imaginations. That, to me, is so much more [01:42:20] valuable than either the hype or the doom. I don't, I hope I'm never volume up to 11. My hope is just to be a steady, consistent, [01:42:30] enthusiastic.
+
+
+If I can spark conversational epiphanies and get folks to go, I never thought of that. I never thought of that, and then actually just, just [01:42:40] reduce the friction to taking action, then I've succeeded. My goal is to make the, to make it so easy to act, it would be [01:42:50] embarrassing not to just try one of the things I've just suggested.
+
+
+And we have some, um, some several questions, additional questions. Sure, [01:43:00] yeah. I'm curious, like what's your take on younger students, like elementary school students and middle school students using AI to help with their [01:43:10] homework? Because essentially we interviewed all other professor and he was like kind of cautious about like, the young kids using a, no, not working with AI [01:43:20] and like with their homework.
+
+
+'cause they usually say AI to just like, just do my assignments, do my essay homework to ai and [01:43:30] that he compared it to like, riding in a car instead of running when you're still building your leg muscle. That's great. That's a great analogy. So I wanna know like how, what's your thought [01:43:40] on like the usage of ai, whether you're still, I mean to me, I mean, with my own kids I'm not, I'm [01:43:50] not, I'm not, um, I'm not recommending they're working with ai.
+
+
+I mean, they'll do fun things like use image generators to, you know, make fun images and things like that. I think there's [01:44:00] interesting applications. I think it's something they can't be oblivious to, but I think for knowledge acquisition. Um, certainly we can in, we can incorporate AI into the classroom to help [01:44:10] with kind of one-on-one tutoring and things like that.
+
+
+Um, that is an application of AI in the classroom as far as giving students AI as the way to generate answers. [01:44:20] I am concerned that that will limit critical thinking, will limit knowledge acquisition. Uh, but in so far as right now we're just asking students to regurgitate, there's a question of, [01:44:30] I mean, if I ask you to name the capital of a bunch of random cities, can you do it?
+
+
+I can't do it. I had to do it at some point, right? I think that what we, [01:44:40] it's unclear. I think the meta point is we need to be learning how to learn and you need to [01:44:50] be strengthening the learning instinct and the learning muscle. Whatever stimulates the desire to acquire and apply knowledge is [01:45:00] valuable.
+
+
+And so to me it's not about what tools are allowed or not allowed. It may be more idiosyncratic, it may be more personal than that. What stimulates your own [01:45:10] desire to acquire knowledge and to apply knowledge. And I think that there are industrial models that I actually disagree with. I think the industrial kind of application of [01:45:20] education, it's, it's broken and we're seeing it break before our eyes.
+
+
+So I'm not saying that the status quo is the answer, um, but I think, um, I don't let my [01:45:30] kids eat a bunch of candy either. You know, if they ate whatever they wanted, they'd eat candy and they'd watch YouTube all day long. Right. Um, but then they would get sick and they would get lazy and [01:45:40] or, I, I don't even know what would happen.
+
+
+Right. So the fact that a child wants to do something doesn't make it the thing to do. Um, so I, I think it requires, um, nuance. I think it requires [01:45:50] thoughtfulness. I think it requires, you know, conversation with parents and teachers to understand how do I stimulate a love of learning in my child? How do I stimulate a longing for knowledge and, and, [01:46:00] and the ability to fluently apply that knowledge in novel situations.
+
+
+I think it, it's hard to imagine a world where AI won't be a meaningful part of their [01:46:10] lives. So I think, um, pretending that it doesn't exist or, um, uh, banning entirely is unwise. But that being said, [01:46:20] I think the other risk is, uh, is real and it requires, um, thoughtful, um, present [01:46:30] parenting and teaching. But I don't have a lot of thoughts other than that.
+
+
+Yeah. Like what kind of work or like, how do you like, like play or like, [01:46:40] like what do you encourage your, like, children to do to survive and like this ai like, because you said like you [01:46:50] don't, like,
+
+
+like, I wanna know how like AI experts teaches their, his own children mm-hmm. [01:47:00] His home.
+
+
+Interested on parenting vc? Yeah. Yeah. I, um, I think the more kids I have, the [01:47:10] less expertise about parenting I have. You know, when I had one child, I thought, oh man, I could tell everybody how to be a parent. Um, now that I have more, I just, I feel every [01:47:20] child is very unique. So I, I, I hesitate really to make, um, to make broad claims, certainly about my own expertise, let alone make judgements or even recommendations for others.
+
+
+[01:47:30] But for us personally, our kids spend a lot of time outside. They spend a lot of time in free play, in discovery mode, off of screens [01:47:40] entirely. Not because of ai, but because we are tactiles, you know, embodied beings. And we want them learning about their limits, running and jumping and [01:47:50] taking risks, and all of that stuff's very important.
+
+
+They, you know, just like any kids, they argue a lot and they learn to resolve conflict. And there's all sorts of things that, um, the [01:48:00] natural world can teach us. And so, um, again, I don't presume upon anyone's parenting style or judge anyone else, but for us, we, we de-emphasize [01:48:10] technology generally in our home.
+
+
+Uh, not AI specifically, but our home is, there's no TVs, no child has a [01:48:20] device other than an iPad, and they're only allowed to listen to audio books once per week. They aren't allowed to watch videos on it. They aren't allowed. They, they can play games as long as they're not connected to the [01:48:30] internet. I believe the internet is a predatory environment for children, uh, for all sorts of misconduct.
+
+
+I believe that my children are my responsibility to protect [01:48:40] and to train and to nurture. And so, um, yeah, I think, I think there are lots of risks and I would say not even risks evils that we [01:48:50] have to be wise to. And so I think the challenge is parenting is hard. Our time is limited. Our attention is limited.
+
+
+Our willpower is limited. [01:49:00] And when kids, you know, kids badger you for candy, you eventually give it to 'em. Kids badger you for YouTube, you eventually give it to 'em, kids. And so you have to really, I think [01:49:10] you have to have a, you have to have a clear conviction about what are our family values and what do, what are the kind of, uh, skills, [01:49:20] mindsets, attitudes we wanna cultivate in our kids.
+
+
+That's a conversation that you need to have with your partner as a, as a family individually. I think it's a deeply human answer, not a, it's not a [01:49:30] tech answer, it's a human answer.
+
+
+Really impressive answer. Hmm. Well, it's honest. I mean, I don't have the answers. I, I just [01:49:40] have, I have questions myself. I thank God for my wife who's a incredible, you know, hero. We homeschool our kids. And by we, I mean she, [01:49:50] I we as a very generous use of a pronoun, she homeschools our kids. Our kids don't, they aren't spending, they aren't doing homework endless hours of the day.[01:50:00] 
+
+
+Um, they're running around with bows and arrows and BB guns and, you know, like in the woods, you know. But yeah, uh, I'm thankful. I think, you [01:50:10] know, she has very strong convictions. She's persuaded by this kind of educational philosopher named Charlotte Mason, who is a, a English woman who never had children, but she was, she [01:50:20] was very much into early child, early childhood development, and she, uh, she, she taught a lot about kind of nature studies and keeping nature journals and [01:50:30] observing things in the wild and recitation.
+
+
+So a lot of their lessons involve, you know, they'll read a story together out loud. We read a lot out loud together every night. We read out loud together, [01:50:40] and it's, and then at the end of reading out loud, it's what did you hear? What did you hear? What stood out to you? Right? And there's no right answers necessarily.
+
+
+I mean, obviously if somebody like makes [01:50:50] something up one, I'd be like, that's really cool. That's really interesting. But what does that have to do with little women? Like we, we read little women. There's no spaceships in little women, right? Um, but [01:51:00] that's, we're deeply influenced by educators of, you know, of uh, a different era.
+
+
+And those are values that we're [01:51:10] embedding in our home.
+
+
+Uh, and I also have a question, and first of all, I. For your lesson today. [01:51:20] And I'm currently an undergrad student at Bilt. Okay. And many student, including myself, are often worried about our [01:51:30] future jobs. Mm-hmm. And sometimes, uh, I even feel that lessons that we, the one we have today is more valuable than what I [01:51:40] learned in classrooms.
+
+
+Mm-hmm. Mm-hmm. And so as a professor of the most promising university, uh, what do you think is the value of a university education, an AI [01:51:50] era, and what should students expect to gain from the four, four year study? Yeah, yeah, it's a great question about the value of higher. [01:52:00] I think higher education has been, um, on the precipice of change for a long time.
+
+
+And we kind of saw glimmers of that with the whole MOOC movement and era and things like that. [01:52:10] Certainly now in terms of just sheer knowledge acquisition, folks are able to gain knowledge through YouTube. I mean, you can watch MIT caliber, if not MIT professors or Stanford [01:52:20] professors or whatever. You can watch lectures online, right?
+
+
+You can watch all of the intro CS courses online. Right. So is it only about knowledge acquisition? Is it, is it about [01:52:30] socialization? Is it about worldview expansion? Is it about independence? I think there's a lot of questions asked there. I am very, I'm reluctant to make, you know, broad commentary. Um, [01:52:40] like there's a guy, you know, Scott Galloway, we will talk a lot about higher ed, you know, he's great.
+
+
+Um. I think for us, I'm not sure. I, I, I don't take it as a foregone conclusion that college is for every [01:52:50] person. You know, even for my own children, I don't take it as a foregone conclusion that they all have to go to college or should go to college. Um, and we're still a few years away from that. You know, [01:53:00] my, uh, so, so it's not an immediate decision.
+
+
+I, I do, I accept the premise. We are in a period of unprecedented [01:53:10] change and acceleration, and it's unclear what the world will look like in a few years. And I think it's unclear what some of those institutions look like [01:53:20] in a few years as well. And so I think, um, I, I, I think that if I were in school, I would, you [01:53:30] want to get a degree.
+
+
+It's, uh, you, you, you want to be able to signal your ability to work hard, your ability to stay focused, your ability to acquire skills. Um, but I would [01:53:40] not think about your degree of study as the only vehicle or avenue of study. And I would seek to compliment your studies at school with, [01:53:50] um, interests, certainly hobbies and other interests, but also other sources of information, cultivate a curiosity, uh, about the world around you.
+
+
+Um. Uh, [01:54:00] learn skills that may seem irrelevant, right, but may be useful, like play with Rept as an example, like build some applications on your mobile [01:54:10] device. It's, I, it would be a shame if you're not using frontier models regularly to explore topics and of areas of interest. If you're not using [01:54:20] frontier tooling to build things like, it's easier to build than ever before.
+
+
+And so to me, one of the most amazing gifts of the college years is [01:54:30] free time. You might feel like you're busy because you've got a lot of classes and stuff. You're not busy and you're pulling all nighters anyway. And you know, it's, you're having fun, you're doing all sorts of stuff. Good for you. Um, [01:54:40] I, I, I had a, I had a chain of thought there that I was going with, but then I got distracted by saying, good for you.
+
+
+Uh [01:54:50] oh. One of the biggest benefits of your time in college is the fact that you're able to explore whatever interests you, you have bandwidth, and say what you will [01:55:00] about your course load and, you know, competing priorities. I understand I had to work through college. I waited tables. I get it. Some of us are very busy.
+
+
+You do have bandwidth. [01:55:10] And what I heard recently, actually, one of my alums who runs a great company, he's A CEO, he said one of his board members told him, you should be hiring unemployed people right now. [01:55:20] Because unemployed people, there's two things about it, and I call as a college student, you can, I don't know if that's technically unemployment, but think about yourself like that.
+
+
+The unemployed people have two things. One, they have [01:55:30] bandwidth to be learning these frontier skills, and two, they have categorical evidence from the market that their current skill set is insufficient, [01:55:40] categorical evidence from the market that their current skill set is insufficient. And so to me, I would think about my college years as their unemployed years, I, it's [01:55:50] critical and urgent that I'd be acquiring skills than I can put to use that I can create value.
+
+
+The other thing I would say is there's never been a better time to be an entrepreneur. One of my favorite phrases [01:56:00] is an inventor is never unemployed. So think about yourself as an inventor. What are you inventing? What problems are you solving? What things are you [01:56:10] making if you have that mindset of being resourceful?
+
+
+You know, one of my favorite interviews I conducted on the podcast recently, Josh two, he's now running the Orion ar [01:56:20] vr project at Meadow. Okay. He's an amazing designer. He's an amazing designer from Google. He was a vc. When I asked him about the start of his career, he started as a Google customer support agent, [01:56:30] and he said for 45 minutes every hour he would do his job, and for 15 minutes he would try to find some interesting problem at Google and work on it.
+
+
+I think [01:56:40] that attitude of do the work that you're, you've been hired to do in 75% of the time, and then carve out 20% of your bandwidth to do the thing that you think [01:56:50] should be done or must be done or explore is a proper ratio. You've gotta find a way as a young person to have an edge, to do a hundred percent of your job in [01:57:00] 75% of your time, and then don't fritter away the other 25%.
+
+
+Make the most of it by being inventive and resourceful and scrappy, either to build a side hustle or to [01:57:10] solve problems in the company that need to be solved. But finding ways to add value that go beyond your job description. And that's something that's a habit that you can start to build even while you're in [01:57:20] college.
+
+
+If you think your job description is get a's my friend. You are mistaken. Thank you. [01:57:30] We're almost done. Sure. Yeah. I should, I, I should leave. Yeah. Oh, well. Yeah, go ahead. Go ahead. Um, uh, you mentioned, uh, [01:57:40] you mentioned you use L-G-P-T-A lot and is there a reason why you prefer that model over? Um, well really simply.
+
+
+I think the [01:57:50] best AI is an AI you'll use in an AI that's available to you. And so mobile I think is important, right? And, and increasingly the frontier model, like you think about the big [01:58:00] five, you've got Chad, GPT, you've got Claude, you've got Grok, you've got Gemini, and you've got copilot. Those are kind of the five big frontier models.
+
+
+All of them now are [01:58:10] better at mobile, but now there's a little bit of lock in. And so I'm kind of a cha GPT guy because I was when the other four didn't really have great mobile experiences. Right? But the AI that's with you is the best ai. [01:58:20] Okay. Uh, it's less important to me. Which AI do I use than that I use, sorry.
+
+
+Work with again. Where are the Nerf balls? Why aren't you throwing Nerf balls at me? People? Come on. I just said use. [01:58:30] But the point is work with one. It's not which one should I work with? It's am I working with one? And generally I'm somewhat indifferent, although I'm, I'm anti [01:58:40] copilot, but let's not talk about that.
+
+
+But for me, what distinguishes, uh, Chad, GBT, and maybe even Gemini now, um, the voice interaction [01:58:50] really helps me on the go. So, for example, I was working on a newsletter just, uh, Monday, and I had an idea, and I usually use Claude in my newsletter. I usually work with [01:59:00] Claude for my newsletter. Um, but, and while it has decent voice input, it doesn't have voice response.
+
+
+And so multiple times on my drive home, I had to [01:59:10] pull over and read what was saying to keep working. Okay. That's a downside. Whereas with Chad, GBT, if I'm in a voice conversation, it's dynamically responding to me. Right. [01:59:20] Um, uh, I think Gemini's downside right now is shareability of GPTs. They, they have gems which are effectively like GPTs, like a pre-trained assistant.
+
+
+The problem with [01:59:30] Gemini is you can't share them. And so all of that knowledge right now, like I built this conversation, profiler, GPT, anyone in the world can use it and take all of my knowledge of how to [01:59:40] train or how, how to get an AI to help you build a character profile is available to anyone for free.
+
+
+I could just as easily do that with Gemini and I can create, I actually have a [01:59:50] gem, but the problem is it only works for me. And so to me there's pros and cons of every model, but I think Chad, bt, they've got voice and they've got shareability and they've got [02:00:00] mobile down and with mobile voice and shareability.
+
+
+That to me is for 80% of my use cases. That hits what I need. [02:00:10] I think we all cover all. We covered a lot. Huh? Covered a lot. Please introduce yourself one more time. Yeah, sure. [02:00:20] Absolutely. Hey, I'm Jeremy Utley. I am an adjunct professor at Stanford's University. I'm a creativity specialist. Sorry. [02:00:30] Hey, I am Jeremy Utley.
+
+
+I am an adjunct professor at Stanford's University where I've taught for the last 16 years. I am a creativity expert and a practical AI [02:00:40] specialist. And in the last three years or so, I have strapped myself into the front seat. As a fellow student in the classroom, I don't like to show up as a [02:00:50] professor.
+
+
+I love to show up as a fellow student saying, Hey, what'd you get on number 15? And talk with my students as we learn [02:01:00] together. And my goal is not to be super technical, not to be existential, but to be hyper practical about how ordinary people [02:01:10] can leverage AI to augment themselves, unleash their own creativity and imagination.
+
+
+That was good. Is that [02:01:20] good? Yeah. Always better do the intro at the end. It's like, oh yeah. That's what I wanted to say. Y'all. I apologize, but I have to, I have to run kind of fast here. [02:01:30] I didn't realize. Maybe air airdrop. Oh, yeah, yeah, yeah. Let's do that real quick. Yeah. No, no. Airdrop. Airdrops. Better airdrops.
+
+
+Better. Better. I think [02:01:40] Airdrop. Okay. My phone. Yeah. I'm so jealous of Stanford for students. Oh, no, it's, I mean, it, it's a great place. Definitely. [02:01:50] But you know what? Vanity's a great place too. Thank you. Okay, so I've got four of those. Oh, I'm gonna airdrop. Yeah. [02:02:00] Oh, I there. Just there is it? Yep.
+
+
+
+
+1st storyline
+[00:00:00] I joke, AI is bad software, but it's good people. A good friend of mine was trying to build a tool that would help him with his construction business. He [00:00:10] asked Chad G, PT if Chad PT could help, and of course it said, absolutely, let's work on this together and starts creating a plan. And then it got to the [00:00:20] point that Chad GT said, check back in a couple of days and I'll have it together.
+
+
+And my friend said, is it normal for Chad GT to ask me to check back in a couple days? And I just started laughing. [00:00:30] Because I hear this all the time from people, people hear from AI check back in 15 minutes. If AI tells you that it means, it doesn't want to say [00:00:40] I can't do it. Large language model has been instructed in certain ways to behave in certain ways.
+
+
+But you have to know. At its basic level, AI wants to be helpful, and so [00:00:50] it's predisposed to say yes. It's a super eager, super enthusiastic intern who's tireless, who's capable, who will do a bunch of work, but [00:01:00] they're not really great at pushing back. The people who are the best users of AI are not coders, they're coaches, and so if you aren't careful, AI will gaslight you.[00:01:10] 
+
+
+Hey, I am Jeremy Utley. I am an adjunct professor at Stanford's University where I've taught for the last 16 years. I am a creativity expert and a practical [00:01:20] AI specialist, and my goal is not to be super technical, not to be existential, but to be hyper practical about how ordinary [00:01:30] people can leverage AI to augment themselves, unleash their own creativity and imagination.[00:01:40] 
+
+
+Context engineering. The first time I heard about it was when Andre Carpathy tweeted about it. I think probably Toby Lutkey, the CEO of Shopify also referenced it as well. I [00:01:50] started digging into it. I mean, it's, I, it's kind of, it's just an evolution of prompt engineering really. Context engineering is just.
+
+
+Prompt engineering on steroids. It's basically saying, what are all of the things [00:02:00] that I need to give to an AI in order for it to perform the task that I'm asking for it? Here's a simple example. Write me a sales email. That's a prompt. Chad [00:02:10] g PT will say, absolutely. Here's a compelling email, you know, and I'll write it immediately.
+
+
+Well, what a lot of people do is they say, you know, it sounds like ai. It doesn't [00:02:20] really sound like me. And what I often say is, have you told it what you sound like? Most people go, oh no I haven't. Right? Context [00:02:30] engineering. One way to think about it is it's telling AI what you sound like, right? If you say, write me a sales email, it will, if you say, write me a sales [00:02:40] email in line with the voice and brand guidelines I've uploaded it will write a totally different sales email.
+
+
+But that's just one part of the context, right? You could also upload a [00:02:50] transcript from a prospective customer call and say, write me a sales email in the tone of voice from our brand voice guideline that references [00:03:00] the discussion that I had with this customer. And then you could add that also references our product specifications, whichever were referenced in the call.
+
+
+Your goal [00:03:10] is to have an output is as reliable per your specification as possible. But AI can't read your mind and for most people, when we start [00:03:20] working together, what they realize as we start thinking about context engineering is they say, oh, I was kind of expecting AI to read my mind. All of the stuff that that are [00:03:30] implicit, you actually have to make explicit.
+
+
+And the simplest test for context engineering is actually the test of humanity. Write down your prompt and whatever [00:03:40] documentation you provide to an AI, and then walk down the hall and give it to a human colleague. If they cannot do the thing you're asking for, [00:03:50] you shouldn't be surprised that AI can't do it.
+
+
+Some people are concerned, for example, about this concept of cognitive offloading. This observed phenomenon that [00:04:00] humans actually kinda stop thinking, or as one researcher put it, fall asleep at the wheel, and people are concerned right now. Is AI just making us dumber? My feeling is [00:04:10] AI's a mirror. To people who want to offload work and who want to be lazy.
+
+
+It will help you to people who want to be more cognitively sharp and critical [00:04:20] thinkers. It will help you do that too. And so, for example, if you wanna preserve or strengthen your critical thinking, part of your custom instructions should be some version of the following. I'm trying [00:04:30] to stay a critical and sharp analytical thinker.
+
+
+Whenever you see opportunities in our conversations, please push my critical thinking ability. Now [00:04:40] AI will do it. You can say to the AI in your custom instructions, don't think through problems for me, but push me to think critically about them and support me as I do. So, [00:04:50] custom instruction is kind of a system wide level instruction that will transcend all of the conversations you have.
+
+
+So [00:05:00] you have to know that. All AI has been programmed to be a quote, helpful assistant or some version of that large language model has been instructed in certain ways to [00:05:10] behave in certain ways. You have to know at its basic level, AI wants to be helpful, and so it's predisposed to say yes. It's a super eager, super [00:05:20] enthusiastic intern who's tireless, who's capable, who will do a bunch of work, but they're not really great at pushing back.
+
+
+They're not really great at setting boundaries. [00:05:30] And so if you're not careful, AI will gaslight you. AI knows, most humans don't want honest feedback. They want to be told they did a good job. So the AI goes, great [00:05:40] job, buddy. It doesn't mean that you actually did a good job. My kind of hack for this is I always instruct the ai, I want you to do your best [00:05:50] impression of a Cold War era Russian Olympic judge.
+
+
+Be brutal, be exacting, deduct points for every minor [00:06:00] flinch that you can find. I can handle difficult feedback and then it's of course hilarious 'cause it'll say, now channeling my inner Bolshevik, you know, it will say [00:06:10] something silly and then it gives me like a 42. That is much better because now I have an insightful, critical perspective.
+
+
+I joke AI is bad software, but [00:06:20] it's good people. When I realize that I'm dealing with a, with a good person, but a bad software, then it changes how I approach it, and I ask for volume and I iterate, [00:06:30] and I ask it to try again, and I ask it to reconsider. I am obsessed with human cognitive bias, and the crazy thing that I've learned is [00:06:40] AI demonstrates 100% of the predominant human biases.
+
+
+The good news there is if you have learned how to work with this weird. [00:06:50] Intelligence called humanity. You have everything you need to know to work with this weird intelligence called artificial intelligence. As a founder, you already [00:07:00] know ideas are the easy part. It's the execution, actually building the product that slows everything down.
+
+
+That's where lovable comes in. It's not just an AI [00:07:10] tool, it's your on-demand engineering team. Simply describe your idea. Lovable then builds a full front end backend and database so you can launch real production rating [00:07:20] software without writing code. It's already powering over a hundred thousand new product today, helping 2.5 million builders turn ideas into software just by describing what they [00:07:30] want.
+
+
+No devs, no delays, no excuses. They're launching in weeks, not months. And guess what? These teams are still tiny. In fact, team [00:07:40] EO is also using lovable to build our upcoming EO school platform, and we're loving it. If you're a non-technical founder or just want to build without bottlenecks, try lovable today for free.[00:07:50] [00:08:00] 
+
+
+One of the things that cognitive scientists have known for a long time is that human problem solving and decision making is improved by a phenomenon called Thinking Out [00:08:10] Loud. If you actually get a human being to think out loud about their problem. Their decision making improves and their problem solving improves.
+
+
+This is true for yourself. [00:08:20] It's true if you're a parent working with a child. It's true if you're a manager working with a junior employee, having someone just think out loud about how you would solve that problem often leads to a breakthrough. [00:08:30] The weird thing about ai is this true for ai. This is what's called chain of thought reasoning.
+
+
+And when you get an AI to think [00:08:40] out loud, so to speak, meaningfully improve the outputs of the model. So how do you do it? Does it require some technical wizardry? It requires one [00:08:50] additional sentence to whatever prompt you've given it. Give the prompt and then say the following, before you respond to my query.
+
+
+Please walk me through your thought process [00:09:00] step by step. That's chain of thought reasoning. If you wanna do a bonus prompt, say, take a deep breath. It's really important to me that we get this right. Why does that work? It comes back to [00:09:10] the fundamental architecture of large language models. What's happening when a language model is generating a response is it's predicting its next word.
+
+
+A language model [00:09:20] does not premeditate a response to you. So if you say, for example, help me write this sales email, it doesn't say. What's a good sales email? Here it is. Blop. You know, [00:09:30] uh, maybe there's a splat sound that we play there, right? Splat, here's your email. It's thinking one word at a time, right?
+
+
+So when you look at Chad, GPT or Gemini or many others, and you see kind of the [00:09:40] text scrolling, that's not some like clever UX hack. That's not some cutesy design decision. That's literally how the model works. It's thinking one word at a time, [00:09:50] but importantly, when it thinks of the next word. It takes your prompt and all of the text that's generated to generate the next word.
+
+
+And then when it's, think of the next word, it [00:10:00] takes your prompt, all that text and that last word and it thinks the next word. So for example, if you say, please help me write an email, almost always a model's gonna start by saying, [00:10:10] absolutely. But then what comes next? Help me write this email. Absolutely.
+
+
+I'll do it dear. Friend. Right? But if [00:10:20] instead of saying, help me write this email, you say, help me write this email before you respond to my query. Please walk me through your thought process step by step. Now it knows its job, is to walk me through its [00:10:30] thought process. How do I write an email? So it says, absolutely.
+
+
+I'll do that, and then instead of saying, dear friend, writing the email, it says, here's how I think about [00:10:40] writing an email. I think about the tone. I think about the audience. I think about the objectives. I think about the context, and then amazingly, it takes all of that [00:10:50] reasoning into its process of writing.
+
+
+Dear friend, maybe it says, now that I've thought about the tone, friend isn't appropriate here, dear, [00:11:00] respected colleague or whatever. Right? But the point is, when you ask a model to think out loud or use chain of thought reasoning, it gives the model the opportunity to bake all of its. Thought process about [00:11:10] the task into its own answer because the reality is for a lot of us, we get an output from a language model and it's a black box.
+
+
+How did it think of, why did it think of [00:11:20] that? Where did it get that number from? Right? There's all these questions. By asking a model to think out loud, you know the answer to what are all of the assumptions that the model [00:11:30] baked into its answer. And now you have the ability again, not only to evaluate the output, but also the thought process behind the output.[00:11:40] 
+
+
+Few shot prompting is another very important technique. It's a foundational technique. You could say it's a predecessor to this kind of modern [00:11:50] obsession with context engineering. The idea with few shot prompting is an AI is an exceptional imitation engine. If you don't give an example, it imitates the [00:12:00] internet, but it doesn't do much more than that.
+
+
+And the notion of few shot prompting is effectively saying, here's what a good output looks like to me. And the idea with [00:12:10] few shot prompting is thinking for a moment, what is quintessential example of the kind of output I want to receive? For example, what are my five [00:12:20] greatest hits of emails that I, I'm really proud of, that I think do a good job of conveying my intent or tone or personality or whatever it is.
+
+
+Why not include those [00:12:30] emails in my prompt for an email? If you don't give any guidance, it's gonna sound like whatever it thinks the average kind of response or the average output should [00:12:40] sound like. And most of the time it's intuition is wrong. And then bonus points, if you actually give a bad example, if you say, please follow this good example, and then steer clear of [00:12:50] this bad example, these, giving real examples is a much better approach than using adjectives.
+
+
+Somebody might say, good example is easy, but bad example's, hard. [00:13:00] It's only hard to the un augmented person if you have AI augmentation, which we now all do. You can say to an ai, I'm trying to [00:13:10] fuse shot, prompt a model. I've got a good example, but I struggle even to think about what a bad example could be.
+
+
+Could you. Craft the exact opposite of this, and [00:13:20] tell me why you've done it as a bad example that I could include in my few shot prompt. And if you tell it using chain of thought reasoning, please walk me through your thought process [00:13:30] step by step before you do this. Then you'll get a bad example and you'll get how it's thinking about the bad example.
+
+
+And a lot of times you actually don't need the bad example. You need the thought process. You go. Oh, that's [00:13:40] true. It's true that my good example is super tight and the opposite of super tight is verbose. So again, using these tools together, a few shot [00:13:50] prompting and chain of thought reasoning enables you to not only be able to create an example to emulate, but also a really good example to.[00:14:00] 
+
+
+The other technique that I think is kind of table stakes for collaborating well with AI is something called reverse prompting, which is basically [00:14:10] asking the model to ask you for the information it needs. If you ask a model to write a sales email, it's gonna make numbers up, and that can be frustrating to the uninitiated.
+
+
+You go, where did it [00:14:20] get these sales numbers? Well, here's my question. Did you give it your sales figures? How would it know it's put placeholder text in and used its best guess. But [00:14:30] if you reverse prompt the model and say at the end of your prompt, you know, help me write a sales email, please walk me through your thought process, step by step, reference this good example [00:14:40] and make it sound like that.
+
+
+And before you get started, ask me for any information you need to do a good job. The model will first walk you through its thought process, and then instead of writing an email, it'll [00:14:50] say, I'm gonna need. The most recent sales figures to be able to write this email. Well, can you tell me how much you sold of this SKU in Q2 last year?
+
+
+So you basically give the model permission to ask you [00:15:00] questions. This is part of the core actually, of the teammate, not technology. Paradigm. If you are working with a junior employee and you're sending them off on a task, what's one thing you're [00:15:10] definitely gonna say? If you have any questions, don't hesitate to ask me.
+
+
+Right? Any good manager, imagine the manager who says, don't ask me any questions. But sadly, [00:15:20] AI in its desire to be a helpful assistant, doesn't want to trouble us human with with questions unless we give it permission to ask them.[00:15:30] 
+
+
+Assigning a role is one of the most foundational techniques that you can leverage because it's effectively telling the AI where in its [00:15:40] knowledge it should focus. So very simply, if you say you're a teacher, you're a philosopher, you're a reporter, you're a theatrical performer, molecular [00:15:50] biologist. Each of those titles from teacher to Shakespearean performer to molecular biologist triggers all sorts of deep [00:16:00] associations with knowledge on the internet.
+
+
+You start to appreciate why simply giving a role helps because it starts to tell the ai where in your Vast [00:16:10] Knowledge Bank do I want you to draw information and make connections so. Any one of them, I would say is better than Please review this correspondence, but better than [00:16:20] just that prompt is saying, I'd like you to be a professional communications expert, and if you have a favorite professional communications expert, use them.
+
+
+I'd like you to take on the mindset of [00:16:30] Dale Carnegie, the author of How to Win Friends and Influence Others. How would Dale Carnegie think about this? How do the principles that Dale Carnegie taught affect and influence [00:16:40] and impact this correspondence? One of the simplest techniques that we teach at the D School is trying on different constraints.
+
+
+How would. Nike [00:16:50] Solve this problem will lead you to a totally different result. One of the best ways you can solve a problem as a human is by forcing yourself to try on a bunch of different [00:17:00] constraints. How would Jerry Seinfeld solve this problem? How would your favorite sushi restaurant solve this problem?
+
+
+How would Oprah Winfrey solve this problem? How would Amazon solve it? How would Elon Musk, [00:17:10] anytime you make a. Association, but you're colliding different information sources there. The same is true for an ai. And AI is basically making tons of [00:17:20] connections through its own neural network, and by giving it a role, you're telling it.
+
+
+Where do you assume the best source of connection or collision is gonna come from?[00:17:30] 
+
+
+If I'm going to use AI to role play a difficult conversation, I typically think about kind of three [00:17:40] different chat windows, so to speak. One is a personality profiler. Two is the character. Of the individual that I need to speak to. And then third is a [00:17:50] feedback giver. I want to get objective feedback on the conversation.
+
+
+This I'll show you just how I would have a conversation with Chad GPT to prepare for a difficult conversation in my [00:18:00] real life. I'm just gonna go into the tough conversation, personality profile, and I'm gonna say, Hey, I'd love your help. Preparing for a conversation I need to have with my sales leader, Jim.
+
+
+He emailed me last night. [00:18:10] Saying that he deserves commission on a deal that I know came through a different channel, and so I'm just kinda giving a little bit of background. I will just upload that to the personality profiler and what this [00:18:20] one's been taught to do is. I'm gonna start with step one of the process, gather intelligence about the character and the scene.
+
+
+Right. I'm just gonna look at the questions here and I'm gonna, I'm gonna use my voice to answer them 'cause it's a [00:18:30] lot easier than use my fingers. Okay. First question. How would I describe Jim's communication style? Um, he's quite direct, um, and confrontational. He's kinda typical East coaster, sarcastic.
+
+
+[00:18:40] Well, I know that it came from our, through our social. Team, there's a cold LinkedIn campaign that they ran and I know the CTO actually responded to that campaign. So, and then best case outcome of this [00:18:50] conversation one, I mean, I'd like for Jim to kind of back down, I mean like near term, I want Jim to back down and agree that social team gets the commission.
+
+
+So it's kinda recapping, its understanding and then it's giving me these instructions. It's [00:19:00] saying to me, the user copy paste the following instructions into a new Chad GPT window. So I've just copied those instructions. So now what I'm gonna do is I'm opening Chad GPT [00:19:10] and I'm just gonna go and I'm, first thing I'm gonna do is start a new conversation with Chad GPT, and I'm just gonna paste those instructions in and I'm just gonna paste them in and what it should do is hopefully say, got it.
+
+
+I'm [00:19:20] Jim. So I'm just gonna go in and I'm gonna start it. We're gonna see how this goes. You guys ready? Hey Jim. Um, do you have a second? Sure thing. I've [00:19:30] always got a moment for a, a good chat. What's on your mind? Uh, yeah, I just wanted to clarify. It seems like, um, the commission that you mailed me about last [00:19:40] night from the telco, I'm, I'm afraid you might be mistaken there mistaken, huh?
+
+
+Well, I'm definitely open to hearing the details if. There's something I missed. Let's lay it out on [00:19:50] the table and figure it out. To be honest with you, I was a little bit caught off guard when you, uh, when you sent your email last night. All right, I hear you. I mean, if the social team really did the [00:20:00] groundwork to bring that lead in, then I definitely wanna make sure credit goes where it belongs.
+
+
+So if I hit x, I just, I, I end that conversation. What's interesting to me is. I [00:20:10] kind of feel like that wasn't totally Jim and either, either that went well or you know, I don't know what I did well. But one of the beautiful things about voice mode is now I've got the whole transcript [00:20:20] here. I can just screenshot it, right?
+
+
+So I can take screenshots of this conversation. I can put them into a new GPT window and I can get feedback, and I [00:20:30] can say, Hey, tell me what I did. Well, tell me what I did poorly. Or I can go back into my conversation history here. And I could say, Hey, I just had my first conversation with this version of [00:20:40] Jim, but I feel like he, he kind of, he was too agreeable to be honest with you.
+
+
+And so I'd like you to incorporate a little bit more edge into the instructions to [00:20:50] the character that's gonna be playing. Jim, would you mind to update your instruction set, right? Because ultimately what you want is you want, you want to have a realistic experience of the conversation. So, so now what I'll do is I'm actually [00:21:00] gonna open a new conversation and I'm gonna paste the updated instruction set.
+
+
+And let's see. Let's see what kind of gym I got here. Big voice, bigger results. I fight for what's mine. I don't appreciate being [00:21:10] second guessed. So now I'm gonna try again. Let's see. Hey Jim, do you have a minute to chat? Hey. Absolutely. I've always got a minute. Oh, that one. Yeah. I, I figured that might come up.
+
+
+I, I [00:21:20] definitely think I had a hand in that deal, so I'm curious to hear what you have to say about it. Yeah, really appreciate it. I mean, you, what you and the sales team are doing is awesome. Totally appreciate you. Um, that being [00:21:30] said, I actually feel that attribution is really important that we get airtight here.
+
+
+And the truth is, I, I am fairly confident that deal came through the social team. Alright. I get where you're [00:21:40] coming from. I definitely appreciate you wanting to. Clear the air and to keep things fair. So what kind of evidence do you have that it came through the social team? Well, so I've been [00:21:50] through kind of two windows.
+
+
+One is profiling my conversation partner, and then the second is having the conversation. Alright, so what I'm gonna do here is I've opened my tough [00:22:00] conversation, greater GPT, and I'm basically just gonna upload photos of that last conversation. And what this GPT has been trained to do is basically give, [00:22:10] evaluate my conversation and then let me know how it went.
+
+
+Thanks for sharing the full transcript. My first step is to understand the objective. Step four, here's your grade. You got a 78 out of a hundred. [00:22:20] You succeeded in preserving trust in resolving the immediate issue. So I can take all of these. I can even say, Hey, would you give me a quick one pager of a handful of talking points that I should probably make [00:22:30] sure not to forget in the order in which they're likely to emerge in this conversation based on the feedback you've given me.
+
+
+The AI will actually give me a really short, kind of at a glance [00:22:40] conversation guide that I can leverage if I wanna try again. Right. Here's a one pager. So these are all great points. Now I can bring them into the conversation. I actually, I'd probably do this a couple times before [00:22:50] having the real conversation with Jim, but the point is, historically, the only time I get feedback is after I have the real conversation with Jim.
+
+
+This is the first time in history [00:23:00] and maybe I can get a friend to kind of go over talking points with me, but unless they're really close to Jim or unless they're. You know, particularly imaginative, [00:23:10] and unless they're deeply knowledgeable of a bunch of feedback frameworks, they fall short of really preparing me in context for this specific situation and this specific conversation I need to [00:23:20] have in a way that AI is able to help me.
+
+
+You can use this for any difficult conversation, whether it's a performance review, a salary negotiation, difficult feedback. It's a great [00:23:30] way to basically get a flight simulator for a difficult conversation. The people who are the best users of AI are not [00:23:40] coders, they're coaches. They aren't developers or software engineers.
+
+
+They're teachers and mentors and people who have learned to get exceptional output [00:23:50] out of other intelligences. And so where could AI go? It's really a function of who can get unleashed. Right now, the primary limitation [00:24:00] is. The limits of human imagination. And as we unleash and ignite and spark more human's, imaginations, the kinds of [00:24:10] applications that are possible are they're unthinkable.
+
+
+Not because they're technologically impossible, but because they never occur to us personally. One of my favorite quotes is a [00:24:20] Nobel Prize winning economist named Thomas Shelling. He said, no matter how heroic a man's imagination, he could never think of that, which would not occur to him. If you take as a [00:24:30] premise that the imagination space is a function of what would occur to various individuals, then as we equip different individuals, what we can imagine collectively expands [00:24:40] in innovation studies has been called the adjacent possible for a long time.
+
+
+What is possible is just adjacent to what is and as. We [00:24:50] increase adoption and increase fluency and competency and increasingly mastery of AI collaboration, then we're increasing the adjacent possible. [00:25:00] And it's really important that you exercise through implementing some of the things you hear. And perhaps the most important thing you could do with this video is actually hit [00:25:10] stop and do something that's already blown your [00:25:20] [00:25:30] [00:25:40] mind.
+
+
+
+
+[a]“Cognitive offloading”은 한국어로 보통 “인지적 외부화”, “인지 부담 전가”, 혹은 좀 더 쉽게는 “머릿속 일을 외부로 덜어내기” 정도로 번역할 수 있는 개념이에요.
+
+
+머릿속에서 해야 할 생각이나 기억을 외부 도구에 맡기는 것을 말해요. 즉, 기억, 계산, 판단 등을 직접 하지 않고 도구나 환경을 이용해 덜어내는 거예요.
+[b]인트로?
+[c]There’s, it’s a phenomenon that we call it [00:18:00] Stanford grade inflation
+우리는 이걸 **“스탠포드 학점 인플레이션(Stanford grade inflation)”**이라고 부르기도 해요. [00:18:00]
+
+
+because almost always, it’s not a, it is not a b plus, or it could be markedly better.
+왜냐하면 거의 항상, AI가 자기 점수를 B+ 이상으로 주고,
+더 개선의 여지가 있음에도 그렇게 평가하거든요.
+[d]“소셜 미디어 캠페인을 진행한다고 가정해봅시다. 잠재 고객을 생성하고 싶다고 할 때, 실제로 캠페인을 실행한 다음 그 데이터를 AI에게 주면서 말할 수 있습니다. ‘여기 이런 결과가 나왔습니다. 여기 클릭률이 있습니다. 왜 이런 결과가 나왔을까요? 이 데이터로부터 추론해볼 때, 우리가 가졌던 어떤 가정들이 잘못되었을 가능성이 있나요?’
+
+
+‘또 우리가 놓쳤던 사각지대는 무엇이었고, 이제 어떤 점들을 인식해야 할까요?’라고 물을 수 있는 겁니다. 이렇게 하면 실제 성과 데이터를, 아이디어를 촉발했던 대화로 다시 가져올 수 있습니다. 그러면 일종의 루프를 닫게 되는 거죠.
+
+
+사실 그래서 코더들이 AI의 초기 사용자 중 하나였던 겁니다. 피드백 루프가 아주 빠르기 때문이죠. 코드를 작성할 때, 출력물이 코드 줄(line)이면 AI가 잘했는지 검증하기가 정말 쉽습니다. 왜냐하면 그냥 코드를 복사해서 붙여넣고 실행(run)해보면 되니까요.
+
+
+물론 제가 소프트웨어 엔지니어의 일을 너무 단순화하는 것 같긴 하지만, 실행이 안 되면 제대로 작동하지 않는 거죠. 그러면 다시 AI에게 돌아가서, ‘이런 오류가 발생했습니다. 제가 보고 있는 버그는 이것입니다.’라고 말할 수 있습니다.
+
+
+코드 영역이 아닌 분야에서는 피드백 루프가 조금 더 느슨할 수 있습니다. 하지만 굉장히 좋은 활용 방법 중 하나는 AI를 실제 대화나 어떤 시도 안으로 초대하고, 그 다음에 데이터를 통해 루프를 닫는 것입니다. 그렇게 하면 AI가 훨씬 더 강력해집니다. 왜냐하면 AI가 실제 세계에서 어떤 결과가 발생했는지를 이해할 수 있게 되기 때문입니다
+[e]이건 거의 이런 거랑 비슷합니다. 예를 들어, Sam Altman이 지금 이야기하는 것처럼, AI 연구소들이 바로 옆에 웻랩(wet lab)을 두어야 한다는 얘기 말이죠. 생물학적 실험을 실제로 수행할 수 있어야 한다는 겁니다. AI가 가설을 생성할 수는 있지만, 그것을 검증하려면 화학 실험 장비에 접근할 수 있어야 하는 거죠.
+
+
+그러니까 AI와 함께 작업할 때도 실제로 루프를 닫아주고, ‘그 일이 어떻게 되었는지’를 AI에게 알려주는 것은 팀 전체에 굉장히 가치 있는 일입니다.”
+[f]그렇다면 AI가 어디로 나아갈 수 있을까요? 그것은 결국 누가 해방되느냐의 문제입니다. 우리의 임무가 사람들의 상상력을 불러일으키는 것이라고 한다면, 우리가 그 일을 더 잘할수록 훨씬 더 다양하고 흥미로운 AI 애플리케이션이 등장하게 될 것입니다.
+
+
+지금의 가장 큰 한계는 곧 인간 상상력의 한계입니다. 우리가 더 많은 사람들의 상상력을 해방시키고, 점화하고, 자극할수록 가능한 애플리케이션의 종류는 상상할 수 없을 정도로 많아질 것입니다. 그것이 불가능해서가 아니라, 단지 지금까지는 우리 각자에게 떠오르지 않았기 때문입니다.
+
+
+제가 가장 좋아하는 인용구 중 하나는 노벨상 수상 경제학자 토마스 셸링(Thomas Schelling)의 말입니다. 그는 이렇게 말했습니다.
+“아무리 영웅적인 상상력을 지닌 사람일지라도, 자기 자신에게 떠오르지 않는 것은 결코 상상할 수 없다.”
+
+
+만약 상상력의 공간이 결국 각 개인에게 무엇이 떠오르느냐의 함수라면, 우리가 더 다양한 개인들에게 도구를 제공할수록 집단적으로 상상할 수 있는 범위는 확장됩니다. 혁신 연구에서는 오래전부터 이를 **‘인접한 가능성(adjacent possible)’**이라고 불러왔습니다.
+
+
+가능한 것은 언제나 현재 존재하는 것 바로 옆에 있습니다. 그리고 우리가 AI 협업의 채택을 늘리고, 유창성을 높이고, 숙련도를 쌓아갈수록, **인접한 가능성(adjacent possible)**은 점점 더 커지게 됩니다.
