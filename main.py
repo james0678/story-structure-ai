@@ -7,6 +7,9 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
+from rag import get_project, search_similar, seed_from_dataset
+from story_chunker import chunk_transcript
+
 load_dotenv()
 
 app = FastAPI()
@@ -529,6 +532,50 @@ Return ONLY valid JSON — no markdown fences, no extra commentary."""
 
 class AnalyzeRequest(BaseModel):
     transcript: str
+    video_topic: str | None = None
+    target_audience: str | None = None
+    video_length_target: int | None = 20
+    series: str | None = None
+    use_rag: bool = True
+
+
+def _build_prompt(body: AnalyzeRequest, similar_cases: list[dict] | None = None) -> str:
+    # Build a natural-language context sentence from optional fields
+    parts = []
+    if body.series:
+        parts.append(f"This is a {body.series} episode")
+    if body.target_audience:
+        parts.append(f"targeting {body.target_audience}")
+    if body.video_length_target:
+        parts.append(f"aiming for {body.video_length_target} minutes")
+    if body.video_topic:
+        parts.append(f"on the topic: {body.video_topic}")
+
+    lines = []
+    if parts:
+        lines.append(", ".join(parts) + ".")
+        lines.append("")
+
+    if similar_cases:
+        lines.append("## Similar Past EO Projects (for reference)")
+        lines.append(
+            "The following excerpts are from real EO transcripts that are semantically "
+            "similar to this one. Reference them when reasoning about narrative type, "
+            "chapter structure, and packaging — but do not copy them directly."
+        )
+        lines.append("")
+        for i, case in enumerate(similar_cases, 1):
+            lines.append(
+                f"### Case {i}: {case['title']} "
+                f"(similarity: {case['similarity_score']}, project_id: {case['project_id']})"
+            )
+            lines.append(case["matching_chunk"][:600])
+            lines.append("")
+        lines.append("---")
+        lines.append("")
+
+    lines.append(f"Transcript:\n\n{body.transcript}")
+    return "\n".join(lines)
 
 
 def get_client() -> anthropic.Anthropic:
@@ -546,6 +593,13 @@ def analyze(body: AnalyzeRequest):
     if not body.transcript.strip():
         raise HTTPException(status_code=400, detail="transcript must not be empty")
 
+    similar_cases = None
+    if body.use_rag:
+        try:
+            similar_cases = search_similar(body.transcript[:2000], n_results=3)
+        except Exception:
+            similar_cases = None  # RAG failure should not block analysis
+
     client = get_client()
 
     try:
@@ -553,7 +607,7 @@ def analyze(body: AnalyzeRequest):
             model=MODEL,
             max_tokens=4096,
             system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": f"Transcript:\n\n{body.transcript}"}],
+            messages=[{"role": "user", "content": _build_prompt(body, similar_cases)}],
         ) as stream:
             message = stream.get_final_message()
     except anthropic.AuthenticationError:
@@ -569,11 +623,373 @@ def analyze(body: AnalyzeRequest):
 
     # Strip markdown code fences if present
     if raw.startswith("```"):
-        raw = raw.split("\n", 1)[-1]  # remove the opening ```json line
+        raw = raw.split("\n", 1)[-1]
     if raw.endswith("```"):
         raw = raw.rsplit("```", 1)[0].strip()
 
     try:
-        return json.loads(raw)
+        result = json.loads(raw)
     except json.JSONDecodeError:
-        return {"error": True, "raw": raw}
+        result = {"error": True, "raw": raw}
+
+    result["similar_cases_used"] = similar_cases or []
+    return result
+
+
+# ---------------------------------------------------------------------------
+# RAG endpoints
+# ---------------------------------------------------------------------------
+
+class SearchRequest(BaseModel):
+    transcript: str
+    n_results: int = 3
+
+
+@app.post("/seed")
+def seed():
+    try:
+        stats = seed_from_dataset()
+    except FileNotFoundError as exc:
+        raise HTTPException(status_code=404, detail=str(exc))
+    return stats
+
+
+@app.post("/search")
+def search(body: SearchRequest):
+    if not body.transcript.strip():
+        raise HTTPException(status_code=400, detail="transcript must not be empty")
+    results = search_similar(body.transcript, n_results=body.n_results)
+    return {"results": results}
+
+
+@app.get("/projects")
+def list_projects():
+    try:
+        data = json.loads(__import__("pathlib").Path("data/dataset.json").read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail="dataset.json not found. Run build_dataset.py first.")
+    return {
+        "projects": [
+            {
+                "project_id": p["project_id"],
+                "title": p["title"],
+                "character_count": p["character_count"],
+            }
+            for p in data.get("projects", [])
+        ]
+    }
+
+
+@app.get("/projects/{project_id}")
+def project_detail(project_id: str):
+    proj = get_project(project_id)
+    if proj is None:
+        raise HTTPException(status_code=404, detail=f"Project '{project_id}' not found.")
+    return proj
+
+
+# ---------------------------------------------------------------------------
+# Analyze V2 — full story analysis pipeline
+# ---------------------------------------------------------------------------
+
+ANALYZE_V2_SYSTEM = f"""You are an AI editorial assistant for EO Studio. You have internalized the following Master Storytelling Guide. Every analysis you produce must follow these principles.
+
+{_GUIDE}
+
+You will receive:
+1. A full interview transcript
+2. Story chunks with their topics and emotional tones
+3. For each chunk: similar past EO projects, their performance data (views, retention ratio), and whether similar content survived into the final edited video
+
+Based on ALL of this, return a JSON object with the structure below.
+
+IMPORTANT RULES:
+- Your KEEP/CUT/SHORTEN recommendations MUST reference actual past performance data provided.
+- Chapter options should mirror structures from high-performing past videos.
+- Warnings must be specific (cite chunk numbers and past video data).
+- Opportunities should identify rare or strong content relative to the EO library.
+
+Return ONLY valid JSON — no markdown fences, no extra commentary.
+
+JSON structure:
+{{
+  "narrative_type": {{"type": "journey|situation", "reasoning": "..."}},
+  "editorial_perspective": "one sentence angle",
+  "story_chunks": [
+    {{
+      "chunk_id": 1,
+      "topic": "...",
+      "estimated_minutes": 2.5,
+      "recommendation": "KEEP|CUT|SHORTEN",
+      "confidence": "high|medium|low",
+      "reasoning": "...",
+      "similar_past": [
+        {{"project": "...", "similarity": 0.72, "retention": 0.55, "survived": true, "views": 1549651}}
+      ],
+      "editing_note": "..."
+    }}
+  ],
+  "chapter_options": [
+    {{
+      "option": "A",
+      "structure": [
+        {{"chapter": 1, "title": "...", "chunks_included": [3, 4], "estimated_minutes": 4}}
+      ],
+      "reasoning": "..."
+    }}
+  ],
+  "target_compression": 0.25,
+  "estimated_final_length_minutes": 12,
+  "warnings": ["..."],
+  "opportunities": ["..."],
+  "killer_quote": "...",
+  "cold_open": {{"quote": "...", "why_it_works": "..."}},
+  "thumbnail_suggestions": ["..."]
+}}"""
+
+
+class AnalyzeV2Request(BaseModel):
+    transcript: str
+    video_length_target: int = 15
+    weight_retention: float = 0.4
+
+
+@app.post("/analyze-v2")
+def analyze_v2(body: AnalyzeV2Request):
+    if not body.transcript.strip():
+        raise HTTPException(status_code=400, detail="transcript must not be empty")
+
+    # STEP A: Story-chunk the transcript
+    try:
+        chunks = chunk_transcript(body.transcript)
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"Chunking failed: {exc}")
+
+    # STEP B: For each chunk, find similar past content
+    chunk_search_results = []
+    for chunk in chunks:
+        chunk_text = chunk.get("text", "")
+        if not chunk_text.strip():
+            chunk_search_results.append([])
+            continue
+        try:
+            similar = search_similar(
+                chunk_text[:2000],
+                n_results=3,
+                weight_retention=body.weight_retention,
+            )
+        except Exception:
+            similar = []
+        chunk_search_results.append(similar)
+
+    # STEP C: Build context for Claude
+    context_lines = []
+    context_lines.append(f"Target video length: {body.video_length_target} minutes")
+    context_lines.append(f"Total transcript chunks: {len(chunks)}")
+    total_est = sum(c.get("estimated_minutes", 0) for c in chunks)
+    context_lines.append(f"Total estimated raw minutes: {total_est:.1f}")
+    context_lines.append("")
+
+    for i, (chunk, similar) in enumerate(zip(chunks, chunk_search_results)):
+        context_lines.append(
+            f"### Chunk {chunk['chunk_id']}: {chunk['topic']} "
+            f"({chunk['estimated_minutes']:.1f} min, {chunk['emotional_tone']})"
+        )
+        context_lines.append(f"Summary: {chunk['summary']}")
+        if similar:
+            context_lines.append("Similar past projects:")
+            for s in similar:
+                surv = "KEPT in edit" if s["survived_editing"] else "CUT from edit"
+                context_lines.append(
+                    f"  - {s['title']} (sim={s['similarity_score']:.2f}, "
+                    f"retention={s.get('retention_ratio', 'N/A')}, "
+                    f"views={s['views']:,}, {surv})"
+                )
+        context_lines.append("")
+
+    context_lines.append("---")
+    context_lines.append("")
+    # Include first 30000 chars of transcript to stay within limits
+    context_lines.append(f"Full Transcript (first 30000 chars):\n\n{body.transcript[:30000]}")
+
+    user_content = "\n".join(context_lines)
+
+    # STEP D: Call Claude
+    client = get_client()
+    try:
+        message = client.messages.create(
+            model=MODEL,
+            max_tokens=8192,
+            system=ANALYZE_V2_SYSTEM,
+            messages=[{"role": "user", "content": user_content}],
+        )
+    except anthropic.AuthenticationError:
+        raise HTTPException(status_code=500, detail="Invalid Anthropic API key.")
+    except anthropic.RateLimitError:
+        raise HTTPException(
+            status_code=429, detail="Anthropic rate limit reached. Try again later."
+        )
+    except anthropic.APIStatusError as exc:
+        raise HTTPException(
+            status_code=502,
+            detail=f"Anthropic API error {exc.status_code}: {exc.message}",
+        )
+    except anthropic.APIConnectionError:
+        raise HTTPException(
+            status_code=502,
+            detail="Could not connect to Anthropic API. Check your network.",
+        )
+
+    raw = message.content[0].text.strip()
+
+    if raw.startswith("```"):
+        raw = raw.split("\n", 1)[-1]
+    if raw.endswith("```"):
+        raw = raw.rsplit("```", 1)[0].strip()
+
+    try:
+        result = json.loads(raw)
+    except json.JSONDecodeError:
+        result = {"error": True, "raw": raw}
+
+    # STEP E: Attach raw data for transparency
+    result["_raw_chunks"] = chunks
+    result["_chunk_search_results"] = [
+        [
+            {
+                "project_id": s["project_id"],
+                "title": s["title"],
+                "similarity_score": s["similarity_score"],
+                "retention_ratio": s.get("retention_ratio"),
+                "combined_score": s["combined_score"],
+                "views": s["views"],
+                "survived_editing": s["survived_editing"],
+            }
+            for s in similar
+        ]
+        for similar in chunk_search_results
+    ]
+
+    return result
+
+
+# ---------------------------------------------------------------------------
+# Script comparison endpoint
+# ---------------------------------------------------------------------------
+
+@app.post("/compare/{project_id}")
+def compare_project(project_id: str):
+    proj = get_project(project_id)
+    if proj is None:
+        raise HTTPException(status_code=404, detail=f"Project '{project_id}' not found.")
+
+    original = proj.get("transcript_original", "")
+    edited = proj.get("transcript_edited", "")
+
+    if not original or not edited:
+        raise HTTPException(
+            status_code=400,
+            detail="Project must have both transcript_original and transcript_edited.",
+        )
+
+    # Chunk both transcripts
+    orig_chunks = chunk_transcript(original, project_id=f"{project_id}__original")
+    edit_chunks = chunk_transcript(edited, project_id=f"{project_id}__edited")
+
+    # Check survival of each original chunk
+    from rapidfuzz import fuzz
+
+    chunk_analysis = []
+    topics_kept = []
+    topics_cut = []
+    compression_ratios = []
+
+    for oc in orig_chunks:
+        oc_text = oc.get("text", "")
+        if not oc_text.strip():
+            continue
+
+        # Find best matching edited chunk
+        best_score = 0
+        best_edit_chunk = None
+        for ec in edit_chunks:
+            ec_text = ec.get("text", "")
+            if not ec_text.strip():
+                continue
+            score = fuzz.partial_ratio(oc_text[:300], ec_text)
+            if score > best_score:
+                best_score = score
+                best_edit_chunk = ec
+
+        survived = best_score >= 55
+        entry = {
+            "original_chunk_id": oc["chunk_id"],
+            "topic": oc["topic"],
+            "summary": oc["summary"],
+            "original_minutes": oc["estimated_minutes"],
+            "survived": survived,
+        }
+
+        if survived and best_edit_chunk:
+            entry["edited_minutes"] = best_edit_chunk["estimated_minutes"]
+            if oc["estimated_minutes"] > 0:
+                comp = round(
+                    best_edit_chunk["estimated_minutes"] / oc["estimated_minutes"], 2
+                )
+                entry["compression"] = comp
+                compression_ratios.append(comp)
+            entry["note"] = (
+                f"Shortened — kept core content from '{oc['topic']}'"
+                if best_edit_chunk["estimated_minutes"] < oc["estimated_minutes"]
+                else f"Kept at similar length"
+            )
+            topics_kept.append(oc["topic"])
+        else:
+            entry["note"] = "Completely cut from final video"
+            topics_cut.append(oc["topic"])
+
+        chunk_analysis.append(entry)
+
+    # Performance data
+    perf = proj.get("performance", {})
+
+    # Compile patterns
+    avg_compression = (
+        round(sum(compression_ratios) / len(compression_ratios), 2)
+        if compression_ratios
+        else None
+    )
+
+    # Deduplicate topic lists
+    kept_unique = list(dict.fromkeys(topics_kept))
+    cut_unique = list(dict.fromkeys(topics_cut))
+
+    # Generate insight
+    insight_parts = []
+    if cut_unique:
+        insight_parts.append(f"Cut topics: {', '.join(cut_unique)}.")
+    if kept_unique:
+        insight_parts.append(f"Kept topics: {', '.join(kept_unique)}.")
+    retention = proj.get("retention_ratio")
+    if retention:
+        insight_parts.append(f"Result: {retention:.0%} retention ratio.")
+
+    return {
+        "project_id": project_id,
+        "title": proj.get("title", ""),
+        "compression_ratio": proj.get("compression_ratio"),
+        "original_chunks": len(orig_chunks),
+        "edited_chunks": len(edit_chunks),
+        "performance": {
+            "views": perf.get("views", 0),
+            "likes": perf.get("likes", 0),
+            "retention_ratio": retention,
+        },
+        "chunk_analysis": chunk_analysis,
+        "patterns": {
+            "topics_kept": kept_unique,
+            "topics_cut": cut_unique,
+            "avg_compression_for_kept": avg_compression,
+            "insight": " ".join(insight_parts),
+        },
+    }
