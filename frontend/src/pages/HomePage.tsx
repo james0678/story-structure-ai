@@ -34,10 +34,30 @@ export default function HomePage() {
         weight_retention: 0.4,
       })
       clearInterval(timer)
+
+      if (result.error) {
+        setError('Analysis failed. The API could not parse the response — try again.')
+        return
+      }
+      if (!result.story_chunks?.length) {
+        setError('Analysis failed. The API returned no results — check your API credits.')
+        return
+      }
+
+      localStorage.setItem('lastAnalysis', JSON.stringify(result))
       navigate('/analysis', { state: { result } })
     } catch (err: unknown) {
       clearInterval(timer)
-      const msg = err instanceof Error ? err.message : 'Analysis failed'
+      let msg = 'Analysis failed'
+      if (err instanceof Error) {
+        msg = err.message
+      }
+      if (typeof err === 'object' && err !== null && 'response' in err) {
+        const status = (err as { response?: { status?: number } }).response?.status
+        if (status && status >= 500) {
+          msg = 'Analysis failed. Check your API credits.'
+        }
+      }
       setError(msg)
     } finally {
       setLoading(false)

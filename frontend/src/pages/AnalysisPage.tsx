@@ -64,7 +64,14 @@ function ChunkCard({ chunk }: { chunk: StoryChunk }) {
 
 export default function AnalysisPage() {
   const location = useLocation()
-  const result = location.state?.result as AnalysisResult | undefined
+  const result = (location.state?.result ?? (() => {
+    try {
+      const stored = localStorage.getItem('lastAnalysis')
+      return stored ? JSON.parse(stored) : undefined
+    } catch {
+      return undefined
+    }
+  })()) as AnalysisResult | undefined
 
   if (!result) return <Navigate to="/" />
 

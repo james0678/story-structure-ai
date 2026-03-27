@@ -22,7 +22,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "claude-haiku-4-5-20251001"
 
 _GUIDE = """
 **EO**
@@ -847,10 +847,53 @@ def analyze_v2(body: AnalyzeV2Request):
     if raw.endswith("```"):
         raw = raw.rsplit("```", 1)[0].strip()
 
+    # Parse JSON robustly: Haiku often appends markdown commentary after valid JSON.
+    # Strategy: try raw first, strip trailing ```, then brace-match as last resort.
     try:
         result = json.loads(raw)
     except json.JSONDecodeError:
-        result = {"error": True, "raw": raw}
+        # Haiku pattern: valid JSON followed by ``` then markdown commentary
+        if "```" in raw:
+            stripped = raw[: raw.index("```")].strip()
+            try:
+                result = json.loads(stripped)
+            except (json.JSONDecodeError, ValueError):
+                result = None
+        else:
+            result = None
+        if result is None:
+            # Last resort: find the first complete JSON object by brace-matching
+            start = raw.find("{")
+            if start != -1:
+                depth = 0
+                in_string = False
+                escape_next = False
+                for i in range(start, len(raw)):
+                    ch = raw[i]
+                    if escape_next:
+                        escape_next = False
+                        continue
+                    if ch == "\\":
+                        if in_string:
+                            escape_next = True
+                        continue
+                    if ch == '"' and not escape_next:
+                        in_string = not in_string
+                        continue
+                    if in_string:
+                        continue
+                    if ch == "{":
+                        depth += 1
+                    elif ch == "}":
+                        depth -= 1
+                        if depth == 0:
+                            try:
+                                result = json.loads(raw[start : i + 1])
+                            except json.JSONDecodeError:
+                                pass
+                            break
+            if result is None:
+                result = {"error": True, "raw": raw}
 
     # STEP E: Attach raw data for transparency
     result["_raw_chunks"] = chunks

@@ -19,7 +19,7 @@ load_dotenv()
 CACHE_DIR = Path("data/chunked_scripts")
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "claude-haiku-4-5-20251001"
 CHARS_PER_MINUTE = 750
 MAX_TRANSCRIPT_CHARS = 25_000
 OVERLAP_CHARS = 1_000
