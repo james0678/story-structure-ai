@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 import anthropic
 from dotenv import load_dotenv
@@ -754,6 +755,126 @@ class AnalyzeV2Request(BaseModel):
     weight_retention: float = 0.4
 
 
+_FENCE_RE = re.compile(r"```(?:json|JSON)?\s*\n?|\n?```", re.MULTILINE)
+
+
+def _find_balanced_json(text: str) -> str | None:
+    """Find the first balanced {...} block, respecting JSON string escapes."""
+    start = text.find("{")
+    if start == -1:
+        return None
+    depth = 0
+    in_string = False
+    escape_next = False
+    for i in range(start, len(text)):
+        ch = text[i]
+        if escape_next:
+            escape_next = False
+            continue
+        if ch == "\\" and in_string:
+            escape_next = True
+            continue
+        if ch == '"':
+            in_string = not in_string
+            continue
+        if in_string:
+            continue
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return text[start : i + 1]
+    return None
+
+
+def _repair_truncated_json(text: str) -> str | None:
+    """Best-effort: close open strings/arrays/objects when Claude's output was cut off."""
+    start = text.find("{")
+    if start == -1:
+        return None
+    body = text[start:].rstrip()
+    # Drop trailing comma or dangling key fragment that would invalidate the close.
+    body = re.sub(r",\s*$", "", body)
+    open_braces = 0
+    open_brackets = 0
+    in_string = False
+    escape_next = False
+    for ch in body:
+        if escape_next:
+            escape_next = False
+            continue
+        if ch == "\\" and in_string:
+            escape_next = True
+            continue
+        if ch == '"':
+            in_string = not in_string
+            continue
+        if in_string:
+            continue
+        if ch == "{":
+            open_braces += 1
+        elif ch == "}":
+            open_braces -= 1
+        elif ch == "[":
+            open_brackets += 1
+        elif ch == "]":
+            open_brackets -= 1
+    if in_string:
+        body += '"'
+    body += "]" * max(open_brackets, 0)
+    body += "}" * max(open_braces, 0)
+    return body
+
+
+def _parse_claude_json(raw: str) -> dict | None:
+    """Try several strategies to coerce Claude's text into a JSON object.
+
+    Returns None if every strategy fails; caller decides how to surface the error.
+    """
+
+    def attempt(candidate: str) -> dict | None:
+        try:
+            value = json.loads(candidate)
+            return value if isinstance(value, dict) else None
+        except (json.JSONDecodeError, ValueError):
+            return None
+
+    # 1. Direct parse.
+    parsed = attempt(raw)
+    if parsed is not None:
+        return parsed
+
+    # 2. Strip every ```json / ``` fence in the response, then retry.
+    defenced = _FENCE_RE.sub("", raw).strip()
+    parsed = attempt(defenced)
+    if parsed is not None:
+        return parsed
+
+    # 3. Brace-matched extraction of the first complete object.
+    balanced = _find_balanced_json(defenced) or _find_balanced_json(raw)
+    if balanced:
+        parsed = attempt(balanced)
+        if parsed is not None:
+            return parsed
+
+    # 4. Regex fallback: first { through last } (greedy).
+    match = re.search(r"\{[\s\S]*\}", defenced) or re.search(r"\{[\s\S]*\}", raw)
+    if match:
+        parsed = attempt(match.group(0))
+        if parsed is not None:
+            return parsed
+
+    # 5. Truncation repair: pad open structures, retry.
+    repaired = _repair_truncated_json(defenced) or _repair_truncated_json(raw)
+    if repaired:
+        parsed = attempt(repaired)
+        if parsed is not None:
+            return parsed
+
+    return None
+
+
 @app.post("/analyze-v2")
 def analyze_v2(body: AnalyzeV2Request):
     if not body.transcript.strip():
@@ -841,59 +962,19 @@ def analyze_v2(body: AnalyzeV2Request):
         )
 
     raw = message.content[0].text.strip()
-
-    if raw.startswith("```"):
-        raw = raw.split("\n", 1)[-1]
-    if raw.endswith("```"):
-        raw = raw.rsplit("```", 1)[0].strip()
-
-    # Parse JSON robustly: Haiku often appends markdown commentary after valid JSON.
-    # Strategy: try raw first, strip trailing ```, then brace-match as last resort.
-    try:
-        result = json.loads(raw)
-    except json.JSONDecodeError:
-        # Haiku pattern: valid JSON followed by ``` then markdown commentary
-        if "```" in raw:
-            stripped = raw[: raw.index("```")].strip()
-            try:
-                result = json.loads(stripped)
-            except (json.JSONDecodeError, ValueError):
-                result = None
-        else:
-            result = None
-        if result is None:
-            # Last resort: find the first complete JSON object by brace-matching
-            start = raw.find("{")
-            if start != -1:
-                depth = 0
-                in_string = False
-                escape_next = False
-                for i in range(start, len(raw)):
-                    ch = raw[i]
-                    if escape_next:
-                        escape_next = False
-                        continue
-                    if ch == "\\":
-                        if in_string:
-                            escape_next = True
-                        continue
-                    if ch == '"' and not escape_next:
-                        in_string = not in_string
-                        continue
-                    if in_string:
-                        continue
-                    if ch == "{":
-                        depth += 1
-                    elif ch == "}":
-                        depth -= 1
-                        if depth == 0:
-                            try:
-                                result = json.loads(raw[start : i + 1])
-                            except json.JSONDecodeError:
-                                pass
-                            break
-            if result is None:
-                result = {"error": True, "raw": raw}
+    result = _parse_claude_json(raw)
+    if result is None:
+        stop_reason = getattr(message, "stop_reason", "unknown")
+        print("=" * 80)
+        print(f"[analyze-v2] JSON parse FAILED. stop_reason={stop_reason}")
+        print(f"[analyze-v2] raw length={len(raw)} chars")
+        print("[analyze-v2] raw response:")
+        print(raw)
+        print("=" * 80)
+        raise HTTPException(
+            status_code=502,
+            detail="Claude 응답을 JSON으로 변환하지 못했습니다. 잠시 후 다시 시도해주세요.",
+        )
 
     # STEP E: Attach raw data for transparency
     result["_raw_chunks"] = chunks

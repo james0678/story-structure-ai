@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { analyzeV2 } from '../api'
+import type { AnalysisResult } from '../api'
 
 const STEPS = [
   'Chunking transcript into story beats...',
@@ -35,29 +36,48 @@ export default function HomePage() {
       })
       clearInterval(timer)
 
-      if (result.error) {
-        setError('Analysis failed. The API could not parse the response — try again.')
+      // Normalize: Claude may return chunks under different keys
+      if (!result.story_chunks?.length) {
+        const alt = (result as Record<string, unknown>).chunks
+          ?? (result as Record<string, unknown>).analysis
+          ?? (result as Record<string, unknown>).story_beats
+        if (Array.isArray(alt) && alt.length > 0) {
+          result.story_chunks = alt as AnalysisResult['story_chunks']
+          console.warn('story_chunks missing — mapped from alternative key:', alt)
+        }
+      }
+
+      // Allow partial success: if story_chunks exist, navigate even if error flag is set
+      if (result.error && !result.story_chunks?.length) {
+        setError('분석 실패 — Claude 응답을 분석 결과로 변환하지 못했습니다. 잠시 후 다시 시도해주세요.')
+        console.error('Analysis error (no usable chunks):', result)
         return
       }
       if (!result.story_chunks?.length) {
-        setError('Analysis failed. The API returned no results — check your API credits.')
+        setError('분석 실패 — story_chunks가 비어있습니다. API 크레딧을 확인해주세요.')
+        console.error('Empty story_chunks:', result)
         return
       }
 
+      console.log('API response (navigating):', result)
       localStorage.setItem('lastAnalysis', JSON.stringify(result))
       navigate('/analysis', { state: { result } })
     } catch (err: unknown) {
       clearInterval(timer)
-      let msg = 'Analysis failed'
-      if (err instanceof Error) {
-        msg = err.message
+      let msg = '분석 실패 — 잠시 후 다시 시도해주세요.'
+      const response = (err as { response?: { status?: number; data?: { detail?: string } } }).response
+      const status = response?.status
+      const detail = response?.data?.detail
+      if (status === 502 && typeof detail === 'string') {
+        msg = `분석 실패 — ${detail}`
+      } else if (status === 429) {
+        msg = '분석 실패 — API 요청 한도에 도달했습니다. 잠시 후 다시 시도해주세요.'
+      } else if (status && status >= 500) {
+        msg = '분석 실패 — 서버 오류입니다. API 크레딧과 백엔드 로그를 확인해주세요.'
+      } else if (err instanceof Error && err.message) {
+        msg = `분석 실패 — ${err.message}`
       }
-      if (typeof err === 'object' && err !== null && 'response' in err) {
-        const status = (err as { response?: { status?: number } }).response?.status
-        if (status && status >= 500) {
-          msg = 'Analysis failed. Check your API credits.'
-        }
-      }
+      console.error('Analysis request failed:', err)
       setError(msg)
     } finally {
       setLoading(false)
