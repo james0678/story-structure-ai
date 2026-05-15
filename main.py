@@ -24,6 +24,7 @@ app.add_middleware(
 )
 
 MODEL = "claude-haiku-4-5-20251001"
+MAX_ANALYZE_TRANSCRIPT_CHARS = int(os.getenv("ANALYZE_V2_TRANSCRIPT_LIMIT", "80000"))
 
 _GUIDE = """
 **EO**
@@ -789,15 +790,18 @@ def _find_balanced_json(text: str) -> str | None:
 
 
 def _repair_truncated_json(text: str) -> str | None:
-    """Best-effort: close open strings/arrays/objects when Claude's output was cut off."""
+    """Best-effort: close open strings/arrays/objects when Claude's output was cut off.
+
+    Uses a stack so closers come out in correct nesting order (innermost first).
+    """
     start = text.find("{")
     if start == -1:
         return None
     body = text[start:].rstrip()
-    # Drop trailing comma or dangling key fragment that would invalidate the close.
+    # Drop trailing comma or partial "key": fragment that would invalidate the close.
     body = re.sub(r",\s*$", "", body)
-    open_braces = 0
-    open_brackets = 0
+    body = re.sub(r',\s*"[^"]*"\s*:\s*$', "", body)
+    stack: list[str] = []
     in_string = False
     escape_next = False
     for ch in body:
@@ -812,66 +816,84 @@ def _repair_truncated_json(text: str) -> str | None:
             continue
         if in_string:
             continue
-        if ch == "{":
-            open_braces += 1
-        elif ch == "}":
-            open_braces -= 1
-        elif ch == "[":
-            open_brackets += 1
-        elif ch == "]":
-            open_brackets -= 1
+        if ch in "{[":
+            stack.append(ch)
+        elif ch == "}" and stack and stack[-1] == "{":
+            stack.pop()
+        elif ch == "]" and stack and stack[-1] == "[":
+            stack.pop()
     if in_string:
         body += '"'
-    body += "]" * max(open_brackets, 0)
-    body += "}" * max(open_braces, 0)
+    for opener in reversed(stack):
+        body += "}" if opener == "{" else "]"
     return body
+
+
+def _repair_missing_commas(text: str, max_iters: int = 64) -> str | None:
+    """Iteratively insert commas where json.loads reports 'Expecting , delimiter'.
+
+    Each pass walks back from the error position to the last non-whitespace char and
+    splices in a `,`. Bounded by max_iters to avoid pathological loops.
+    """
+    s = text
+    for _ in range(max_iters):
+        try:
+            json.loads(s)
+            return s
+        except json.JSONDecodeError as exc:
+            if "Expecting ',' delimiter" not in exc.msg:
+                return None
+            back = exc.pos - 1
+            while back >= 0 and s[back] in " \t\r\n":
+                back -= 1
+            if back < 0 or s[back] == ",":
+                return None
+            s = s[: back + 1] + "," + s[back + 1 :]
+        except ValueError:
+            return None
+    return None
 
 
 def _parse_claude_json(raw: str) -> dict | None:
     """Try several strategies to coerce Claude's text into a JSON object.
 
-    Returns None if every strategy fails; caller decides how to surface the error.
+    Each candidate is parsed directly first; on failure we attempt a comma-repair
+    pass before moving on. Returns None if every strategy fails.
     """
 
-    def attempt(candidate: str) -> dict | None:
+    def attempt(candidate: str | None) -> dict | None:
+        if not candidate:
+            return None
         try:
             value = json.loads(candidate)
             return value if isinstance(value, dict) else None
         except (json.JSONDecodeError, ValueError):
+            pass
+        fixed = _repair_missing_commas(candidate)
+        if not fixed:
+            return None
+        try:
+            value = json.loads(fixed)
+            return value if isinstance(value, dict) else None
+        except (json.JSONDecodeError, ValueError):
             return None
 
-    # 1. Direct parse.
-    parsed = attempt(raw)
-    if parsed is not None:
-        return parsed
-
-    # 2. Strip every ```json / ``` fence in the response, then retry.
+    candidates: list[str] = [raw]
     defenced = _FENCE_RE.sub("", raw).strip()
-    parsed = attempt(defenced)
-    if parsed is not None:
-        return parsed
+    candidates.append(defenced)
+    candidates.append(_find_balanced_json(defenced) or "")
+    candidates.append(_find_balanced_json(raw) or "")
+    greedy_d = re.search(r"\{[\s\S]*\}", defenced)
+    candidates.append(greedy_d.group(0) if greedy_d else "")
+    greedy_r = re.search(r"\{[\s\S]*\}", raw)
+    candidates.append(greedy_r.group(0) if greedy_r else "")
+    candidates.append(_repair_truncated_json(defenced) or "")
+    candidates.append(_repair_truncated_json(raw) or "")
 
-    # 3. Brace-matched extraction of the first complete object.
-    balanced = _find_balanced_json(defenced) or _find_balanced_json(raw)
-    if balanced:
-        parsed = attempt(balanced)
-        if parsed is not None:
-            return parsed
-
-    # 4. Regex fallback: first { through last } (greedy).
-    match = re.search(r"\{[\s\S]*\}", defenced) or re.search(r"\{[\s\S]*\}", raw)
-    if match:
-        parsed = attempt(match.group(0))
-        if parsed is not None:
-            return parsed
-
-    # 5. Truncation repair: pad open structures, retry.
-    repaired = _repair_truncated_json(defenced) or _repair_truncated_json(raw)
-    if repaired:
-        parsed = attempt(repaired)
-        if parsed is not None:
-            return parsed
-
+    for candidate in candidates:
+        result = attempt(candidate)
+        if result is not None:
+            return result
     return None
 
 
@@ -930,8 +952,11 @@ def analyze_v2(body: AnalyzeV2Request):
 
     context_lines.append("---")
     context_lines.append("")
-    # Include first 30000 chars of transcript to stay within limits
-    context_lines.append(f"Full Transcript (first 30000 chars):\n\n{body.transcript[:30000]}")
+    # Cap transcript sent to Claude for direct quote extraction; chunk summaries above already cover the full transcript.
+    context_lines.append(
+        f"Full Transcript (first {MAX_ANALYZE_TRANSCRIPT_CHARS} chars):\n\n"
+        f"{body.transcript[:MAX_ANALYZE_TRANSCRIPT_CHARS]}"
+    )
 
     user_content = "\n".join(context_lines)
 
@@ -975,6 +1000,19 @@ def analyze_v2(body: AnalyzeV2Request):
             status_code=502,
             detail="Claude 응답을 JSON으로 변환하지 못했습니다. 잠시 후 다시 시도해주세요.",
         )
+
+    # Surface transcript truncation to the user (chunk summaries cover the full transcript;
+    # only direct quote extraction is bounded by MAX_ANALYZE_TRANSCRIPT_CHARS).
+    if len(body.transcript) > MAX_ANALYZE_TRANSCRIPT_CHARS:
+        warnings = result.get("warnings")
+        if not isinstance(warnings, list):
+            warnings = []
+        warnings.append(
+            f"Transcript was {len(body.transcript)} chars; only the first "
+            f"{MAX_ANALYZE_TRANSCRIPT_CHARS} chars were used for direct quote extraction. "
+            f"Chunk summaries still cover the full transcript."
+        )
+        result["warnings"] = warnings
 
     # STEP E: Attach raw data for transparency
     result["_raw_chunks"] = chunks
